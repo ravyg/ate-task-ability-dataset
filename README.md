@@ -122,6 +122,21 @@ requirements are the backbone of its reliability.
 - Akriti ...
 -->
 
+### 🙋 Want your name here? Become an annotator
+
+This dataset gets better with more human eyes — and we credit every contributor.
+If you'd like to help validate task→ability labels (it takes ~15 minutes, no special
+background needed) **your name will be listed in the Acknowledgements of this dataset
+and its accompanying paper.**
+
+It's a simple, citable way to contribute to open research on AI and the future of work —
+something concrete to point to on your CV, LinkedIn, or Google Scholar.
+
+👉 **Interested? Reach out:** [ravishgupta.me/#contact](https://ravishgupta.me/index.html#contact)
+
+Tell us roughly how many tasks you'd like to annotate and we'll send you a link.
+Every verified contributor is acknowledged by name (or kept anonymous on request).
+
 ## Related
 
 - **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
