@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "O*NET Task→Ability Mapping Dataset"
+abstract: >-
+  A fine-grained mapping from 4,577 O*NET work tasks to the 52 O*NET human
+  abilities each task requires, with a graded importance weight (1=mild,
+  2=moderate, 3=critical) per (task, ability) pair. Built as the empirical
+  foundation for the ATES (Agentic Task Exposure Score) framework and
+  validated against human expert annotations (Cohen's kappa).
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Gupta
+    given-names: Ravish
+    orcid: ""
+keywords:
+  - O*NET
+  - task-ability mapping
+  - human abilities
+  - automation exposure
+  - labor economics
+  - ATES
