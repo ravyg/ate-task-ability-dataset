@@ -11,6 +11,11 @@ research on automation exposure, skill demand, and human–AI task allocation at
 > framework. The mapping is independently useful for labor-economics and
 > AI-exposure research even without the ATES model.
 
+> ⭐ **Find this useful?** Please **clone it and give the repo a star** — it takes one
+> click, helps others discover the dataset, and lets us gauge interest to keep it
+> maintained and expanded. If you use it in your work, a [citation](#citation) is the
+> best thanks of all. 🙏
+
 ---
 
 ## What's here
@@ -141,3 +146,7 @@ Every verified contributor is acknowledged by name (or kept anonymous on request
 
 - **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
 - **ATES framework** — the model this dataset was built for *(link on paper release)*.
+
+---
+
+⭐ **If this dataset helped your work, please [star the repo](https://github.com/ravyg/ate-task-ability-dataset) and cite the paper.** It's the simplest way to support open research and keep this dataset growing. Thank you!
