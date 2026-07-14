@@ -68,11 +68,45 @@ Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
 ## Citation
 
-If you use this dataset, please cite (see `CITATION.cff`):
+If you use this dataset, please cite the accompanying paper. Copy-paste in your
+preferred style:
 
+**APA**
 ```
-Gupta, R. (2026). O*NET Task→Ability Mapping Dataset (v1.0.0) [Data set].
+Gupta, R., & Kumar, S. (2026). Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186.
 ```
+
+**MLA**
+```
+Gupta, Ravish, and Saket Kumar. "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption." arXiv preprint arXiv:2604.00186 (2026).
+```
+
+**Chicago**
+```
+Gupta, Ravish, and Saket Kumar. "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption." arXiv preprint arXiv:2604.00186 (2026).
+```
+
+**Harvard**
+```
+Gupta, R. and Kumar, S., 2026. Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186.
+```
+
+**Vancouver**
+```
+Gupta R, Kumar S. Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption. arXiv preprint arXiv:2604.00186. 2026 Mar 31.
+```
+
+**BibTeX**
+```bibtex
+@article{gupta2026agentic,
+  title   = {Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption},
+  author  = {Gupta, Ravish and Kumar, Saket},
+  journal = {arXiv preprint arXiv:2604.00186},
+  year    = {2026}
+}
+```
+
+To cite the **dataset** specifically, see `CITATION.cff`.
 
 ## Acknowledgements
 
@@ -90,4 +124,5 @@ requirements are the backbone of its reliability.
 
 ## Related
 
+- **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
 - **ATES framework** — the model this dataset was built for *(link on paper release)*.

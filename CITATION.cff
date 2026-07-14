@@ -14,6 +14,8 @@ authors:
   - family-names: Gupta
     given-names: Ravish
     orcid: ""
+  - family-names: Kumar
+    given-names: Saket
 keywords:
   - O*NET
   - task-ability mapping
@@ -21,3 +23,13 @@ keywords:
   - automation exposure
   - labor economics
   - ATES
+preferred-citation:
+  type: article
+  title: "Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis of Emerging Labor Market Disruption"
+  authors:
+    - family-names: Gupta
+      given-names: Ravish
+    - family-names: Kumar
+      given-names: Saket
+  journal: "arXiv preprint arXiv:2604.00186"
+  year: 2026
