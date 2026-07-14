@@ -74,6 +74,20 @@ If you use this dataset, please cite (see `CITATION.cff`):
 Gupta, R. (2026). O*NET Task→Ability Mapping Dataset (v1.0.0) [Data set].
 ```
 
+## Acknowledgements
+
+**Special thanks to our annotators** *(TBD — names to be added on publication)*, whose
+independent expert re-annotation of the validation sample made the quality assessment
+(Cohen's κ) of this dataset possible. Their careful judgments on task→ability
+requirements are the backbone of its reliability.
+
+<!-- TBD: add annotator names/affiliations once validation completes, e.g.
+- Ravish Gupta
+- Saket ...
+- Maulik ...
+- Akriti ...
+-->
+
 ## Related
 
 - **ATES framework** — the model this dataset was built for *(link on paper release)*.
