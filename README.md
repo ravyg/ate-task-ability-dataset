@@ -16,6 +16,16 @@ research on automation exposure, skill demand, and human–AI task allocation at
 > maintained and expanded. If you use it in your work, a [citation](#citation) is the
 > best thanks of all. 🙏
 
+> ### 🚧 Status: labels released now · human validation **in progress**
+> The full task→ability mapping (4,577 tasks) is **available today**. Labels were
+> produced by an LLM against the O\*NET taxonomy; **independent human validation is
+> currently underway** (a 200-task audit sample, reported as Cohen's κ). Results will
+> be added to [`validation/`](validation/) as they complete.
+>
+> **Want to help — and get credited?** We're actively recruiting annotators. It takes
+> ~15 min and your name goes in the Acknowledgements → [reach out here](https://ravishgupta.me/index.html#contact).
+> See [Want your name here?](#-want-your-name-here-become-an-annotator) below.
+
 ---
 
 ## What's here
@@ -56,10 +66,12 @@ research on automation exposure, skill demand, and human–AI task allocation at
 1. **LLM pass** — each task labeled with its required abilities + weights against the
    52-ability O\*NET taxonomy, cross-checked against the O\*NET GWA (Generalized Work
    Activities) chain baseline.
-2. **Human validation** — a 200-task stratified sample (all uncertain-flagged tasks +
-   random draw, seed 42) was independently re-annotated by domain experts.
-3. **Agreement** — inter-rater and human-vs-model agreement reported as Cohen's κ in
-   `validation/` (pilot κ = 0.81, "almost perfect").
+2. **Human validation** *(in progress)* — a 200-task stratified sample (all
+   uncertain-flagged tasks + random draw, seed 42) is being independently re-annotated
+   by domain experts and volunteers.
+3. **Agreement** — inter-rater and human-vs-model agreement, reported as Cohen's κ in
+   `validation/`. A **pilot of 100 tasks reached κ = 0.81** ("almost perfect"); the
+   full 200-task audit is underway and results will be posted as they complete.
 
 Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
