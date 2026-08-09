@@ -2,11 +2,22 @@
 
 Human validation of the task→ability mapping.
 
-- `human_annotations.csv` — exported responses from the crowdsource form
-  (tidy long format; one row per human judgment). **Add this once annotation
-  is complete** (export the Responses tab of the Google Sheet as CSV).
-- `kappa_results.md` — Cohen's κ (inter-rater + human-vs-model) and agreement tables.
-- `compute_kappa.py` — script to reproduce the agreement numbers from the CSV.
+## Headline result
 
-Pilot (100 tasks): **κ = 0.81** ("almost perfect"). Full 200-task audit results
-to be added once co-author annotation completes.
+Two independent annotators reviewed **all 200 audited task→ability mappings** and
+**endorsed 98.5%** of the LLM-proposed abilities. See **[`RESULTS.md`](RESULTS.md)**
+for the full breakdown, scope (precision vs. coverage), and method.
+
+- `RESULTS.md` — the 200-task, two-annotator validation result (98.5% precision) and method.
+- `FUTURE_WORK_prompt_refinement.md` — planned human-informed prompt-refinement study
+  (separate paper; not yet run).
+
+## Reproducibility & raw data
+
+The raw human annotations (long-format CSV) and the reproduction script live with the
+experiment code. **Raw exports contain annotator names/emails (PII) and are withheld until
+the public release is de-identified.**
+
+Pilot (100 tasks): **κ = 0.81** ("almost perfect"). The full 200-task audit is reported in
+`RESULTS.md` as a precision figure (human-vs-model endorsement), with a documented coverage
+gap (228 human-added abilities) addressed in the future-work plan.
