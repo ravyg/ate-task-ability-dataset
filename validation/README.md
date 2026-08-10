@@ -4,11 +4,11 @@ Human validation of the task→ability mapping.
 
 ## Headline result
 
-Two independent annotators reviewed **all 200 audited task→ability mappings** and
-**endorsed 98.5%** of the LLM-proposed abilities. See **[`RESULTS.md`](RESULTS.md)**
+Three independent annotators reviewed **all 200 audited task→ability mappings** and
+**endorsed 98.9%** of the LLM-proposed abilities. See **[`RESULTS.md`](RESULTS.md)**
 for the full breakdown, scope (precision vs. coverage), and method.
 
-- `RESULTS.md` — the 200-task, two-annotator validation result (98.5% precision) and method.
+- `RESULTS.md` — the 200-task, three-annotator validation result (98.9% precision) and method.
 - `FUTURE_WORK_prompt_refinement.md` — planned human-informed prompt-refinement study
   (separate paper; not yet run).
 
@@ -20,4 +20,4 @@ the public release is de-identified.**
 
 Pilot (100 tasks): **κ = 0.81** ("almost perfect"). The full 200-task audit is reported in
 `RESULTS.md` as a precision figure (human-vs-model endorsement), with a documented coverage
-gap (228 human-added abilities) addressed in the future-work plan.
+gap (253 human-added abilities) addressed in the future-work plan.

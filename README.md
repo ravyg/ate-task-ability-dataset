@@ -16,15 +16,13 @@ research on automation exposure, skill demand, and human–AI task allocation at
 > maintained and expanded. If you use it in your work, a [citation](#citation) is the
 > best thanks of all. 🙏
 
-> ### 🚧 Status: labels released now · human validation **in progress**
+> ### ✅ Status: labels released · human validation **complete**
 > The full task→ability mapping (4,577 tasks) is **available today**. Labels were
-> produced by an LLM against the O\*NET taxonomy; **independent human validation is
-> currently underway** (a 200-task audit sample, reported as Cohen's κ). Results will
-> be added to [`validation/`](validation/) as they complete.
->
-> **Want to help — and get credited?** We're actively recruiting annotators. It takes
-> ~15 min and your name goes in the Acknowledgements → [reach out here](https://ravishgupta.me/index.html#contact).
-> See [Want your name here?](#-want-your-name-here-become-an-annotator) below.
+> produced by a large language model (**Claude Sonnet**) against the O\*NET taxonomy.
+> **Independent human validation is complete:** three annotators each re-annotated all
+> **200 audit-sample tasks** and **endorsed 98.9%** of the LLM-proposed abilities
+> (3,334 / 3,370, 36 rejections). Full breakdown, method, and scope in
+> [`validation/`](validation/).
 
 ---
 
@@ -64,14 +62,14 @@ research on automation exposure, skill demand, and human–AI task allocation at
 ## How it was built (short version)
 
 1. **LLM pass** — each task labeled with its required abilities + weights against the
-   52-ability O\*NET taxonomy, cross-checked against the O\*NET GWA (Generalized Work
-   Activities) chain baseline.
-2. **Human validation** *(in progress)* — a 200-task stratified sample (all
-   uncertain-flagged tasks + random draw, seed 42) is being independently re-annotated
-   by domain experts and volunteers.
-3. **Agreement** — inter-rater and human-vs-model agreement, reported as Cohen's κ in
-   `validation/`. A **pilot of 100 tasks reached κ = 0.81** ("almost perfect"); the
-   full 200-task audit is underway and results will be posted as they complete.
+   52-ability O\*NET taxonomy (model: **Claude Sonnet**), cross-checked against the
+   O\*NET GWA (Generalized Work Activities) chain baseline.
+2. **Human validation** *(complete)* — a 200-task stratified sample (all
+   uncertain-flagged tasks + random draw, seed 42) was independently re-annotated by
+   **three annotators**, each reviewing all 200 tasks.
+3. **Agreement** — human-vs-model endorsement reached **98.9%** (3,334 / 3,370
+   LLM-proposed abilities endorsed across the three annotators); a **pilot of 100 tasks
+   reached κ = 0.81** ("almost perfect"). Full results in [`validation/`](validation/).
 
 Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
@@ -127,17 +125,10 @@ To cite the **dataset** specifically, see `CITATION.cff`.
 
 ## Acknowledgements
 
-**Special thanks to our annotators** *(TBD — names to be added on publication)*, whose
-independent expert re-annotation of the validation sample made the quality assessment
-(Cohen's κ) of this dataset possible. Their careful judgments on task→ability
+**Special thanks to our annotators — Ravish Gupta, Saket Kumar, Maulik, and Aaryan
+Gupta** — whose independent expert re-annotation of the 200-task validation sample made
+the quality assessment of this dataset possible. Their careful judgments on task→ability
 requirements are the backbone of its reliability.
-
-<!-- TBD: add annotator names/affiliations once validation completes, e.g.
-- Ravish Gupta
-- Saket ...
-- Maulik ...
-- Akriti ...
--->
 
 ### 🙋 Want your name here? Become an annotator
 
