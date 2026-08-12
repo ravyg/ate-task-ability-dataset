@@ -1,0 +1,533 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+23648,Jewelers and Precious Stone and Metal Workers,Rotate molds to distribute alloys and to prevent formation of air pockets.,Control Precision,3,0
+23648,Jewelers and Precious Stone and Metal Workers,Rotate molds to distribute alloys and to prevent formation of air pockets.,Manual Dexterity,2,0
+23648,Jewelers and Precious Stone and Metal Workers,Rotate molds to distribute alloys and to prevent formation of air pockets.,Arm-Hand Steadiness,2,0
+23648,Jewelers and Precious Stone and Metal Workers,Rotate molds to distribute alloys and to prevent formation of air pockets.,Near Vision,1,0
+23648,Jewelers and Precious Stone and Metal Workers,Rotate molds to distribute alloys and to prevent formation of air pockets.,Multilimb Coordination,2,0
+15092,Gem and Diamond Workers,"Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.",Near Vision,3,0
+15092,Gem and Diamond Workers,"Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.",Depth Perception,2,0
+15092,Gem and Diamond Workers,"Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.",Perceptual Speed,2,0
+15092,Gem and Diamond Workers,"Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.",Selective Attention,2,0
+15092,Gem and Diamond Workers,"Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.",Control Precision,1,0
+15093,Gem and Diamond Workers,"Assign polish, symmetry, and clarity grades to stones, according to established grading systems.",Near Vision,3,0
+15093,Gem and Diamond Workers,"Assign polish, symmetry, and clarity grades to stones, according to established grading systems.",Visual Color Discrimination,2,0
+15093,Gem and Diamond Workers,"Assign polish, symmetry, and clarity grades to stones, according to established grading systems.",Perceptual Speed,2,0
+15093,Gem and Diamond Workers,"Assign polish, symmetry, and clarity grades to stones, according to established grading systems.",Deductive Reasoning,2,0
+15093,Gem and Diamond Workers,"Assign polish, symmetry, and clarity grades to stones, according to established grading systems.",Depth Perception,1,0
+15094,Gem and Diamond Workers,"Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors.",Number Facility,3,0
+15094,Gem and Diamond Workers,"Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors.",Mathematical Reasoning,2,0
+15094,Gem and Diamond Workers,"Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors.",Deductive Reasoning,2,0
+15094,Gem and Diamond Workers,"Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors.",Written Comprehension,1,0
+15095,Gem and Diamond Workers,"Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.",Near Vision,3,0
+15095,Gem and Diamond Workers,"Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.",Visual Color Discrimination,2,0
+15095,Gem and Diamond Workers,"Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.",Flexibility of Closure,2,0
+15095,Gem and Diamond Workers,"Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.",Perceptual Speed,2,0
+15095,Gem and Diamond Workers,"Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.",Problem Sensitivity,2,0
+15096,Gem and Diamond Workers,"Identify and document stones' clarity characteristics, using plot diagrams.",Near Vision,3,0
+15096,Gem and Diamond Workers,"Identify and document stones' clarity characteristics, using plot diagrams.",Perceptual Speed,2,0
+15096,Gem and Diamond Workers,"Identify and document stones' clarity characteristics, using plot diagrams.",Information Ordering,2,0
+15096,Gem and Diamond Workers,"Identify and document stones' clarity characteristics, using plot diagrams.",Written Expression,1,0
+15097,Gem and Diamond Workers,Advise customers and others on the best use of gems to create attractive jewelry items.,Oral Expression,3,0
+15097,Gem and Diamond Workers,Advise customers and others on the best use of gems to create attractive jewelry items.,Oral Comprehension,2,0
+15097,Gem and Diamond Workers,Advise customers and others on the best use of gems to create attractive jewelry items.,Originality,1,0
+15097,Gem and Diamond Workers,Advise customers and others on the best use of gems to create attractive jewelry items.,Written Comprehension,1,0
+15098,Gem and Diamond Workers,"Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones.",Near Vision,3,0
+15098,Gem and Diamond Workers,"Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones.",Visualization,2,0
+15098,Gem and Diamond Workers,"Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones.",Depth Perception,2,0
+15098,Gem and Diamond Workers,"Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones.",Deductive Reasoning,2,0
+15099,Gem and Diamond Workers,Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes.,Manual Dexterity,2,0
+15099,Gem and Diamond Workers,Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes.,Near Vision,2,0
+15099,Gem and Diamond Workers,Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes.,Deductive Reasoning,2,0
+15099,Gem and Diamond Workers,Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes.,Information Ordering,1,0
+15100,Gem and Diamond Workers,"Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.",Control Precision,3,0
+15100,Gem and Diamond Workers,"Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.",Arm-Hand Steadiness,3,0
+15100,Gem and Diamond Workers,"Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.",Manual Dexterity,2,0
+15100,Gem and Diamond Workers,"Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.",Near Vision,2,0
+15100,Gem and Diamond Workers,"Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.",Multilimb Coordination,2,0
+15101,Gem and Diamond Workers,"Sort rough diamonds into categories based on shape, size, color, and quality.",Near Vision,3,0
+15101,Gem and Diamond Workers,"Sort rough diamonds into categories based on shape, size, color, and quality.",Visual Color Discrimination,3,0
+15101,Gem and Diamond Workers,"Sort rough diamonds into categories based on shape, size, color, and quality.",Perceptual Speed,2,0
+15101,Gem and Diamond Workers,"Sort rough diamonds into categories based on shape, size, color, and quality.",Category Flexibility,2,0
+15102,Gem and Diamond Workers,"Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping.",Finger Dexterity,3,0
+15102,Gem and Diamond Workers,"Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping.",Manual Dexterity,2,0
+15102,Gem and Diamond Workers,"Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping.",Arm-Hand Steadiness,2,0
+15102,Gem and Diamond Workers,"Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping.",Near Vision,2,0
+15106,Gem and Diamond Workers,"Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments.",Near Vision,3,0
+15106,Gem and Diamond Workers,"Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments.",Control Precision,2,0
+15106,Gem and Diamond Workers,"Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments.",Number Facility,2,0
+15106,Gem and Diamond Workers,"Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments.",Perceptual Speed,2,0
+15107,Gem and Diamond Workers,"Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.",Manual Dexterity,2,0
+15107,Gem and Diamond Workers,"Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.",Deductive Reasoning,2,0
+15107,Gem and Diamond Workers,"Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.",Control Precision,1,0
+15107,Gem and Diamond Workers,"Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.",Near Vision,1,0
+15112,Gem and Diamond Workers,"Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.",Manual Dexterity,3,0
+15112,Gem and Diamond Workers,"Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.",Finger Dexterity,2,0
+15112,Gem and Diamond Workers,"Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.",Static Strength,1,0
+15112,Gem and Diamond Workers,"Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.",Control Precision,1,0
+7133,Dental Laboratory Technicians,Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed.,Written Comprehension,3,0
+7133,Dental Laboratory Technicians,Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed.,Near Vision,2,0
+7133,Dental Laboratory Technicians,Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed.,Visualization,2,0
+7133,Dental Laboratory Technicians,Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed.,Deductive Reasoning,2,0
+7135,Dental Laboratory Technicians,"Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers.",Near Vision,3,0
+7135,Dental Laboratory Technicians,"Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers.",Control Precision,2,0
+7135,Dental Laboratory Technicians,"Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers.",Perceptual Speed,2,0
+7135,Dental Laboratory Technicians,"Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers.",Number Facility,1,0
+7134,Dental Laboratory Technicians,"Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.",Manual Dexterity,3,0
+7134,Dental Laboratory Technicians,"Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.",Finger Dexterity,3,0
+7134,Dental Laboratory Technicians,"Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.",Arm-Hand Steadiness,2,0
+7134,Dental Laboratory Technicians,"Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.",Near Vision,2,0
+7134,Dental Laboratory Technicians,"Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.",Control Precision,2,0
+7136,Dental Laboratory Technicians,Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model.,Manual Dexterity,2,0
+7136,Dental Laboratory Technicians,Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model.,Near Vision,2,0
+7136,Dental Laboratory Technicians,Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model.,Control Precision,1,0
+7136,Dental Laboratory Technicians,Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model.,Visualization,1,0
+7139,Dental Laboratory Technicians,"Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.",Manual Dexterity,3,0
+7139,Dental Laboratory Technicians,"Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.",Finger Dexterity,2,0
+7139,Dental Laboratory Technicians,"Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.",Arm-Hand Steadiness,2,0
+7139,Dental Laboratory Technicians,"Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.",Near Vision,2,0
+7139,Dental Laboratory Technicians,"Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.",Control Precision,2,0
+7147,Dental Laboratory Technicians,Train or supervise other dental technicians or dental laboratory bench workers.,Oral Expression,3,0
+7147,Dental Laboratory Technicians,Train or supervise other dental technicians or dental laboratory bench workers.,Oral Comprehension,2,0
+7147,Dental Laboratory Technicians,Train or supervise other dental technicians or dental laboratory bench workers.,Written Expression,1,0
+7147,Dental Laboratory Technicians,Train or supervise other dental technicians or dental laboratory bench workers.,Information Ordering,1,0
+7137,Dental Laboratory Technicians,"Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses.",Manual Dexterity,2,0
+7137,Dental Laboratory Technicians,"Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses.",Control Precision,2,0
+7137,Dental Laboratory Technicians,"Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses.",Arm-Hand Steadiness,1,0
+7137,Dental Laboratory Technicians,"Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses.",Near Vision,1,0
+7138,Dental Laboratory Technicians,"Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools.",Finger Dexterity,3,0
+7138,Dental Laboratory Technicians,"Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools.",Manual Dexterity,2,0
+7138,Dental Laboratory Technicians,"Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools.",Arm-Hand Steadiness,2,0
+7138,Dental Laboratory Technicians,"Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools.",Near Vision,2,0
+7148,Dental Laboratory Technicians,"Rebuild or replace linings, wire sections, or missing teeth to repair dentures.",Manual Dexterity,3,0
+7148,Dental Laboratory Technicians,"Rebuild or replace linings, wire sections, or missing teeth to repair dentures.",Finger Dexterity,2,0
+7148,Dental Laboratory Technicians,"Rebuild or replace linings, wire sections, or missing teeth to repair dentures.",Arm-Hand Steadiness,2,0
+7148,Dental Laboratory Technicians,"Rebuild or replace linings, wire sections, or missing teeth to repair dentures.",Near Vision,2,0
+7143,Dental Laboratory Technicians,"Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas.",Finger Dexterity,3,0
+7143,Dental Laboratory Technicians,"Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas.",Manual Dexterity,2,0
+7143,Dental Laboratory Technicians,"Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas.",Arm-Hand Steadiness,2,0
+7143,Dental Laboratory Technicians,"Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas.",Near Vision,2,0
+7142,Dental Laboratory Technicians,"Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications.",Finger Dexterity,3,0
+7142,Dental Laboratory Technicians,"Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications.",Manual Dexterity,2,0
+7142,Dental Laboratory Technicians,"Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications.",Near Vision,2,0
+7142,Dental Laboratory Technicians,"Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications.",Visualization,2,0
+7141,Dental Laboratory Technicians,Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework.,Manual Dexterity,2,0
+7141,Dental Laboratory Technicians,Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework.,Near Vision,1,0
+7141,Dental Laboratory Technicians,Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework.,Arm-Hand Steadiness,1,0
+7141,Dental Laboratory Technicians,Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework.,Control Precision,1,0
+7146,Dental Laboratory Technicians,Mold wax over denture setups to form the full contours of artificial gums.,Finger Dexterity,3,0
+7146,Dental Laboratory Technicians,Mold wax over denture setups to form the full contours of artificial gums.,Manual Dexterity,2,0
+7146,Dental Laboratory Technicians,Mold wax over denture setups to form the full contours of artificial gums.,Near Vision,2,0
+7146,Dental Laboratory Technicians,Mold wax over denture setups to form the full contours of artificial gums.,Control Precision,1,0
+7140,Dental Laboratory Technicians,Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set.,Manual Dexterity,2,0
+7140,Dental Laboratory Technicians,Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set.,Control Precision,2,0
+7140,Dental Laboratory Technicians,Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set.,Near Vision,1,0
+7140,Dental Laboratory Technicians,Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set.,Arm-Hand Steadiness,1,0
+7145,Dental Laboratory Technicians,Prepare wax bite blocks and impression trays for use.,Manual Dexterity,2,0
+7145,Dental Laboratory Technicians,Prepare wax bite blocks and impression trays for use.,Finger Dexterity,2,0
+7145,Dental Laboratory Technicians,Prepare wax bite blocks and impression trays for use.,Near Vision,1,0
+7145,Dental Laboratory Technicians,Prepare wax bite blocks and impression trays for use.,Control Precision,1,0
+7149,Dental Laboratory Technicians,"Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.",Finger Dexterity,3,0
+7149,Dental Laboratory Technicians,"Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.",Manual Dexterity,2,0
+7149,Dental Laboratory Technicians,"Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.",Arm-Hand Steadiness,3,0
+7149,Dental Laboratory Technicians,"Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.",Near Vision,2,0
+7149,Dental Laboratory Technicians,"Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.",Control Precision,2,0
+7144,Dental Laboratory Technicians,"Fill chipped or low spots in surfaces of devices, using acrylic resins.",Finger Dexterity,2,0
+7144,Dental Laboratory Technicians,"Fill chipped or low spots in surfaces of devices, using acrylic resins.",Manual Dexterity,2,0
+7144,Dental Laboratory Technicians,"Fill chipped or low spots in surfaces of devices, using acrylic resins.",Near Vision,2,0
+7144,Dental Laboratory Technicians,"Fill chipped or low spots in surfaces of devices, using acrylic resins.",Arm-Hand Steadiness,2,0
+10520,Medical Appliance Technicians,"Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.",Manual Dexterity,3,0
+10520,Medical Appliance Technicians,"Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.",Finger Dexterity,2,0
+10520,Medical Appliance Technicians,"Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.",Arm-Hand Steadiness,2,0
+10520,Medical Appliance Technicians,"Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.",Control Precision,2,0
+10520,Medical Appliance Technicians,"Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.",Static Strength,1,0
+10514,Medical Appliance Technicians,Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required.,Written Comprehension,3,0
+10514,Medical Appliance Technicians,Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required.,Deductive Reasoning,2,0
+10514,Medical Appliance Technicians,Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required.,Near Vision,1,0
+10514,Medical Appliance Technicians,Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required.,Information Ordering,1,0
+10513,Medical Appliance Technicians,"Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.",Manual Dexterity,3,0
+10513,Medical Appliance Technicians,"Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.",Finger Dexterity,2,0
+10513,Medical Appliance Technicians,"Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.",Static Strength,1,0
+10513,Medical Appliance Technicians,"Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.",Control Precision,2,0
+10513,Medical Appliance Technicians,"Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.",Arm-Hand Steadiness,2,0
+10519,Medical Appliance Technicians,"Bend, form, and shape fabric or material to conform to prescribed contours of structural components.",Manual Dexterity,2,0
+10519,Medical Appliance Technicians,"Bend, form, and shape fabric or material to conform to prescribed contours of structural components.",Finger Dexterity,2,0
+10519,Medical Appliance Technicians,"Bend, form, and shape fabric or material to conform to prescribed contours of structural components.",Static Strength,1,0
+10519,Medical Appliance Technicians,"Bend, form, and shape fabric or material to conform to prescribed contours of structural components.",Control Precision,2,0
+10518,Medical Appliance Technicians,Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns.,Manual Dexterity,2,0
+10518,Medical Appliance Technicians,Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns.,Near Vision,1,0
+10518,Medical Appliance Technicians,Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns.,Arm-Hand Steadiness,1,0
+10518,Medical Appliance Technicians,Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns.,Visualization,1,0
+10515,Medical Appliance Technicians,"Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications.",Manual Dexterity,3,0
+10515,Medical Appliance Technicians,"Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications.",Finger Dexterity,2,0
+10515,Medical Appliance Technicians,"Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications.",Control Precision,2,0
+10515,Medical Appliance Technicians,"Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications.",Static Strength,1,0
+10523,Medical Appliance Technicians,"Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass.",Manual Dexterity,3,0
+10523,Medical Appliance Technicians,"Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass.",Finger Dexterity,2,0
+10523,Medical Appliance Technicians,"Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass.",Control Precision,1,0
+10523,Medical Appliance Technicians,"Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass.",Static Strength,1,0
+10522,Medical Appliance Technicians,"Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures.",Near Vision,2,0
+10522,Medical Appliance Technicians,"Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures.",Control Precision,2,0
+10522,Medical Appliance Technicians,"Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures.",Deductive Reasoning,2,0
+10522,Medical Appliance Technicians,"Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures.",Number Facility,1,0
+10521,Medical Appliance Technicians,"Lay out and mark dimensions of parts, using templates and precision measuring instruments.",Near Vision,3,0
+10521,Medical Appliance Technicians,"Lay out and mark dimensions of parts, using templates and precision measuring instruments.",Control Precision,2,0
+10521,Medical Appliance Technicians,"Lay out and mark dimensions of parts, using templates and precision measuring instruments.",Number Facility,2,0
+10521,Medical Appliance Technicians,"Lay out and mark dimensions of parts, using templates and precision measuring instruments.",Arm-Hand Steadiness,1,0
+10512,Medical Appliance Technicians,"Fit appliances onto patients, and make any necessary adjustments.",Manual Dexterity,2,0
+10512,Medical Appliance Technicians,"Fit appliances onto patients, and make any necessary adjustments.",Control Precision,2,0
+10512,Medical Appliance Technicians,"Fit appliances onto patients, and make any necessary adjustments.",Arm-Hand Steadiness,1,0
+10512,Medical Appliance Technicians,"Fit appliances onto patients, and make any necessary adjustments.",Near Vision,1,0
+10524,Medical Appliance Technicians,"Polish artificial limbs, braces, or supports, using grinding and buffing wheels.",Manual Dexterity,3,0
+10524,Medical Appliance Technicians,"Polish artificial limbs, braces, or supports, using grinding and buffing wheels.",Arm-Hand Steadiness,2,0
+10524,Medical Appliance Technicians,"Polish artificial limbs, braces, or supports, using grinding and buffing wheels.",Control Precision,2,0
+10524,Medical Appliance Technicians,"Polish artificial limbs, braces, or supports, using grinding and buffing wheels.",Static Strength,1,0
+10517,Medical Appliance Technicians,Take patients' body or limb measurements for use in device construction.,Near Vision,2,0
+10517,Medical Appliance Technicians,Take patients' body or limb measurements for use in device construction.,Control Precision,1,0
+10517,Medical Appliance Technicians,Take patients' body or limb measurements for use in device construction.,Number Facility,2,0
+10517,Medical Appliance Technicians,Take patients' body or limb measurements for use in device construction.,Arm-Hand Steadiness,1,0
+10516,Medical Appliance Technicians,Instruct patients in use of prosthetic or orthotic devices.,Oral Expression,3,0
+10516,Medical Appliance Technicians,Instruct patients in use of prosthetic or orthotic devices.,Oral Comprehension,2,0
+10516,Medical Appliance Technicians,Instruct patients in use of prosthetic or orthotic devices.,Written Expression,1,0
+10516,Medical Appliance Technicians,Instruct patients in use of prosthetic or orthotic devices.,Speech Clarity,1,0
+10525,Medical Appliance Technicians,Service or repair machinery used in the fabrication of appliances.,Manual Dexterity,2,0
+10525,Medical Appliance Technicians,Service or repair machinery used in the fabrication of appliances.,Deductive Reasoning,2,0
+10525,Medical Appliance Technicians,Service or repair machinery used in the fabrication of appliances.,Control Precision,1,0
+10525,Medical Appliance Technicians,Service or repair machinery used in the fabrication of appliances.,Static Strength,1,0
+10526,Medical Appliance Technicians,"Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices.",Visual Color Discrimination,3,0
+10526,Medical Appliance Technicians,"Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices.",Manual Dexterity,2,0
+10526,Medical Appliance Technicians,"Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices.",Near Vision,2,0
+10526,Medical Appliance Technicians,"Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices.",Control Precision,1,0
+10529,Ophthalmic Laboratory Technicians,"Mount and secure lens blanks or optical lenses in holding tools or chucks of cutting, polishing, grinding, or coating machines.",Finger Dexterity,2,0
+10529,Ophthalmic Laboratory Technicians,"Mount and secure lens blanks or optical lenses in holding tools or chucks of cutting, polishing, grinding, or coating machines.",Manual Dexterity,2,0
+10529,Ophthalmic Laboratory Technicians,"Mount and secure lens blanks or optical lenses in holding tools or chucks of cutting, polishing, grinding, or coating machines.",Control Precision,2,0
+10529,Ophthalmic Laboratory Technicians,"Mount and secure lens blanks or optical lenses in holding tools or chucks of cutting, polishing, grinding, or coating machines.",Arm-Hand Steadiness,2,0
+10532,Ophthalmic Laboratory Technicians,"Inspect lens blanks to detect flaws, verify smoothness of surface, and ensure thickness of coating on lenses.",Near Vision,3,0
+10532,Ophthalmic Laboratory Technicians,"Inspect lens blanks to detect flaws, verify smoothness of surface, and ensure thickness of coating on lenses.",Flexibility of Closure,2,0
+10532,Ophthalmic Laboratory Technicians,"Inspect lens blanks to detect flaws, verify smoothness of surface, and ensure thickness of coating on lenses.",Perceptual Speed,2,0
+10532,Ophthalmic Laboratory Technicians,"Inspect lens blanks to detect flaws, verify smoothness of surface, and ensure thickness of coating on lenses.",Depth Perception,1,0
+10537,Ophthalmic Laboratory Technicians,"Set up machines to polish, bevel, edge, or grind lenses, flats, blanks, or other precision optical elements.",Control Precision,3,0
+10537,Ophthalmic Laboratory Technicians,"Set up machines to polish, bevel, edge, or grind lenses, flats, blanks, or other precision optical elements.",Manual Dexterity,2,0
+10537,Ophthalmic Laboratory Technicians,"Set up machines to polish, bevel, edge, or grind lenses, flats, blanks, or other precision optical elements.",Near Vision,2,0
+10537,Ophthalmic Laboratory Technicians,"Set up machines to polish, bevel, edge, or grind lenses, flats, blanks, or other precision optical elements.",Arm-Hand Steadiness,2,0
+10540,Ophthalmic Laboratory Technicians,"Inspect, weigh, and measure mounted or unmounted lenses after completion to verify alignment and conformance to specifications, using precision instruments.",Near Vision,3,0
+10540,Ophthalmic Laboratory Technicians,"Inspect, weigh, and measure mounted or unmounted lenses after completion to verify alignment and conformance to specifications, using precision instruments.",Number Facility,2,0
+10540,Ophthalmic Laboratory Technicians,"Inspect, weigh, and measure mounted or unmounted lenses after completion to verify alignment and conformance to specifications, using precision instruments.",Perceptual Speed,2,0
+10540,Ophthalmic Laboratory Technicians,"Inspect, weigh, and measure mounted or unmounted lenses after completion to verify alignment and conformance to specifications, using precision instruments.",Control Precision,1,0
+10530,Ophthalmic Laboratory Technicians,Shape lenses appropriately so that they can be inserted into frames.,Control Precision,3,0
+10530,Ophthalmic Laboratory Technicians,Shape lenses appropriately so that they can be inserted into frames.,Manual Dexterity,2,0
+10530,Ophthalmic Laboratory Technicians,Shape lenses appropriately so that they can be inserted into frames.,Near Vision,2,0
+10530,Ophthalmic Laboratory Technicians,Shape lenses appropriately so that they can be inserted into frames.,Arm-Hand Steadiness,2,0
+10533,Ophthalmic Laboratory Technicians,"Clean finished lenses and eyeglasses, using cloths and solvents.",Manual Dexterity,2,0
+10533,Ophthalmic Laboratory Technicians,"Clean finished lenses and eyeglasses, using cloths and solvents.",Finger Dexterity,1,0
+10533,Ophthalmic Laboratory Technicians,"Clean finished lenses and eyeglasses, using cloths and solvents.",Near Vision,1,0
+10533,Ophthalmic Laboratory Technicians,"Clean finished lenses and eyeglasses, using cloths and solvents.",Control Precision,1,0
+10528,Ophthalmic Laboratory Technicians,"Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools.",Finger Dexterity,3,0
+10528,Ophthalmic Laboratory Technicians,"Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools.",Manual Dexterity,2,0
+10528,Ophthalmic Laboratory Technicians,"Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools.",Control Precision,2,0
+10528,Ophthalmic Laboratory Technicians,"Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools.",Arm-Hand Steadiness,2,0
+10528,Ophthalmic Laboratory Technicians,"Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools.",Near Vision,2,0
+10535,Ophthalmic Laboratory Technicians,"Examine prescriptions, work orders, or broken or used eyeglasses to determine specifications for lenses, contact lenses, or other optical elements.",Near Vision,2,0
+10535,Ophthalmic Laboratory Technicians,"Examine prescriptions, work orders, or broken or used eyeglasses to determine specifications for lenses, contact lenses, or other optical elements.",Written Comprehension,2,0
+10535,Ophthalmic Laboratory Technicians,"Examine prescriptions, work orders, or broken or used eyeglasses to determine specifications for lenses, contact lenses, or other optical elements.",Deductive Reasoning,2,0
+10535,Ophthalmic Laboratory Technicians,"Examine prescriptions, work orders, or broken or used eyeglasses to determine specifications for lenses, contact lenses, or other optical elements.",Number Facility,1,0
+10527,Ophthalmic Laboratory Technicians,Adjust lenses and frames to correct alignment.,Finger Dexterity,3,0
+10527,Ophthalmic Laboratory Technicians,Adjust lenses and frames to correct alignment.,Manual Dexterity,2,0
+10527,Ophthalmic Laboratory Technicians,Adjust lenses and frames to correct alignment.,Control Precision,2,0
+10527,Ophthalmic Laboratory Technicians,Adjust lenses and frames to correct alignment.,Near Vision,1,0
+10534,Ophthalmic Laboratory Technicians,"Select lens blanks, molds, tools, and polishing or grinding wheels, according to production specifications.",Deductive Reasoning,2,0
+10534,Ophthalmic Laboratory Technicians,"Select lens blanks, molds, tools, and polishing or grinding wheels, according to production specifications.",Information Ordering,1,0
+10534,Ophthalmic Laboratory Technicians,"Select lens blanks, molds, tools, and polishing or grinding wheels, according to production specifications.",Near Vision,1,0
+10534,Ophthalmic Laboratory Technicians,"Select lens blanks, molds, tools, and polishing or grinding wheels, according to production specifications.",Category Flexibility,1,0
+10539,Ophthalmic Laboratory Technicians,"Position and adjust cutting tools to specified curvature, dimensions, and depth of cut.",Control Precision,3,0
+10539,Ophthalmic Laboratory Technicians,"Position and adjust cutting tools to specified curvature, dimensions, and depth of cut.",Near Vision,2,0
+10539,Ophthalmic Laboratory Technicians,"Position and adjust cutting tools to specified curvature, dimensions, and depth of cut.",Arm-Hand Steadiness,2,0
+10539,Ophthalmic Laboratory Technicians,"Position and adjust cutting tools to specified curvature, dimensions, and depth of cut.",Number Facility,1,0
+10531,Ophthalmic Laboratory Technicians,"Assemble eyeglass frames and attach shields, nose pads, and temple pieces, using pliers, screwdrivers, and drills.",Finger Dexterity,3,0
+10531,Ophthalmic Laboratory Technicians,"Assemble eyeglass frames and attach shields, nose pads, and temple pieces, using pliers, screwdrivers, and drills.",Manual Dexterity,2,0
+10531,Ophthalmic Laboratory Technicians,"Assemble eyeglass frames and attach shields, nose pads, and temple pieces, using pliers, screwdrivers, and drills.",Control Precision,2,0
+10531,Ophthalmic Laboratory Technicians,"Assemble eyeglass frames and attach shields, nose pads, and temple pieces, using pliers, screwdrivers, and drills.",Arm-Hand Steadiness,2,0
+10536,Ophthalmic Laboratory Technicians,Set dials and start machines to polish lenses or hold lenses against rotating wheels to polish them manually.,Control Precision,2,0
+10536,Ophthalmic Laboratory Technicians,Set dials and start machines to polish lenses or hold lenses against rotating wheels to polish them manually.,Manual Dexterity,2,0
+10536,Ophthalmic Laboratory Technicians,Set dials and start machines to polish lenses or hold lenses against rotating wheels to polish them manually.,Arm-Hand Steadiness,2,0
+10536,Ophthalmic Laboratory Technicians,Set dials and start machines to polish lenses or hold lenses against rotating wheels to polish them manually.,Near Vision,1,0
+10538,Ophthalmic Laboratory Technicians,"Repair broken parts, using precision hand tools and soldering irons.",Finger Dexterity,3,0
+10538,Ophthalmic Laboratory Technicians,"Repair broken parts, using precision hand tools and soldering irons.",Manual Dexterity,2,0
+10538,Ophthalmic Laboratory Technicians,"Repair broken parts, using precision hand tools and soldering irons.",Arm-Hand Steadiness,2,0
+10538,Ophthalmic Laboratory Technicians,"Repair broken parts, using precision hand tools and soldering irons.",Control Precision,2,0
+10538,Ophthalmic Laboratory Technicians,"Repair broken parts, using precision hand tools and soldering irons.",Near Vision,2,0
+10543,Ophthalmic Laboratory Technicians,"Immerse eyeglass frames in solutions to harden, soften, or dye frames.",Manual Dexterity,2,0
+10543,Ophthalmic Laboratory Technicians,"Immerse eyeglass frames in solutions to harden, soften, or dye frames.",Near Vision,1,0
+10543,Ophthalmic Laboratory Technicians,"Immerse eyeglass frames in solutions to harden, soften, or dye frames.",Control Precision,1,0
+10543,Ophthalmic Laboratory Technicians,"Immerse eyeglass frames in solutions to harden, soften, or dye frames.",Finger Dexterity,1,0
+10542,Ophthalmic Laboratory Technicians,"Lay out lenses and trace lens outlines on glass, using templates.",Near Vision,3,0
+10542,Ophthalmic Laboratory Technicians,"Lay out lenses and trace lens outlines on glass, using templates.",Control Precision,2,0
+10542,Ophthalmic Laboratory Technicians,"Lay out lenses and trace lens outlines on glass, using templates.",Arm-Hand Steadiness,2,0
+10542,Ophthalmic Laboratory Technicians,"Lay out lenses and trace lens outlines on glass, using templates.",Finger Dexterity,1,0
+10544,Ophthalmic Laboratory Technicians,Control equipment that coats lenses to alter their reflective qualities.,Control Precision,2,0
+10544,Ophthalmic Laboratory Technicians,Control equipment that coats lenses to alter their reflective qualities.,Near Vision,1,0
+10544,Ophthalmic Laboratory Technicians,Control equipment that coats lenses to alter their reflective qualities.,Deductive Reasoning,1,0
+10544,Ophthalmic Laboratory Technicians,Control equipment that coats lenses to alter their reflective qualities.,Rate Control,1,0
+10541,Ophthalmic Laboratory Technicians,Remove lenses from molds and separate lenses in containers for further processing or storage.,Manual Dexterity,2,0
+10541,Ophthalmic Laboratory Technicians,Remove lenses from molds and separate lenses in containers for further processing or storage.,Finger Dexterity,1,0
+10541,Ophthalmic Laboratory Technicians,Remove lenses from molds and separate lenses in containers for further processing or storage.,Near Vision,1,0
+10541,Ophthalmic Laboratory Technicians,Remove lenses from molds and separate lenses in containers for further processing or storage.,Control Precision,1,0
+3142,Packaging and Filling Machine Operators and Tenders,"Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations.",Finger Dexterity,2,0
+3142,Packaging and Filling Machine Operators and Tenders,"Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations.",Manual Dexterity,2,0
+3142,Packaging and Filling Machine Operators and Tenders,"Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations.",Near Vision,2,0
+3142,Packaging and Filling Machine Operators and Tenders,"Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations.",Control Precision,1,0
+3134,Packaging and Filling Machine Operators and Tenders,"Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications.",Near Vision,2,0
+3134,Packaging and Filling Machine Operators and Tenders,"Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications.",Number Facility,2,0
+3134,Packaging and Filling Machine Operators and Tenders,"Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications.",Perceptual Speed,2,0
+3134,Packaging and Filling Machine Operators and Tenders,"Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications.",Control Precision,1,0
+3129,Packaging and Filling Machine Operators and Tenders,"Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",Reaction Time,2,0
+3129,Packaging and Filling Machine Operators and Tenders,"Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",Manual Dexterity,2,0
+3129,Packaging and Filling Machine Operators and Tenders,"Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",Problem Sensitivity,2,0
+3129,Packaging and Filling Machine Operators and Tenders,"Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",Oral Expression,1,0
+3124,Packaging and Filling Machine Operators and Tenders,Observe machine operations to ensure quality and conformity of filled or packaged products to standards.,Near Vision,2,0
+3124,Packaging and Filling Machine Operators and Tenders,Observe machine operations to ensure quality and conformity of filled or packaged products to standards.,Selective Attention,3,0
+3124,Packaging and Filling Machine Operators and Tenders,Observe machine operations to ensure quality and conformity of filled or packaged products to standards.,Perceptual Speed,2,0
+3124,Packaging and Filling Machine Operators and Tenders,Observe machine operations to ensure quality and conformity of filled or packaged products to standards.,Problem Sensitivity,2,0
+3127,Packaging and Filling Machine Operators and Tenders,Remove finished packaged items from machine and separate rejected items.,Manual Dexterity,2,0
+3127,Packaging and Filling Machine Operators and Tenders,Remove finished packaged items from machine and separate rejected items.,Near Vision,2,0
+3127,Packaging and Filling Machine Operators and Tenders,Remove finished packaged items from machine and separate rejected items.,Perceptual Speed,2,0
+3127,Packaging and Filling Machine Operators and Tenders,Remove finished packaged items from machine and separate rejected items.,Selective Attention,1,0
+3136,Packaging and Filling Machine Operators and Tenders,"Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",Selective Attention,3,0
+3136,Packaging and Filling Machine Operators and Tenders,"Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",Near Vision,2,0
+3136,Packaging and Filling Machine Operators and Tenders,"Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",Problem Sensitivity,2,0
+3136,Packaging and Filling Machine Operators and Tenders,"Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",Perceptual Speed,2,0
+3132,Packaging and Filling Machine Operators and Tenders,Inspect and remove defective products and packaging material.,Near Vision,2,0
+3132,Packaging and Filling Machine Operators and Tenders,Inspect and remove defective products and packaging material.,Perceptual Speed,2,0
+3132,Packaging and Filling Machine Operators and Tenders,Inspect and remove defective products and packaging material.,Selective Attention,2,0
+3132,Packaging and Filling Machine Operators and Tenders,Inspect and remove defective products and packaging material.,Manual Dexterity,1,0
+3138,Packaging and Filling Machine Operators and Tenders,Start machine by engaging controls.,Reaction Time,1,0
+3138,Packaging and Filling Machine Operators and Tenders,Start machine by engaging controls.,Control Precision,1,0
+3138,Packaging and Filling Machine Operators and Tenders,Start machine by engaging controls.,Manual Dexterity,1,0
+3138,Packaging and Filling Machine Operators and Tenders,Start machine by engaging controls.,Finger Dexterity,1,0
+3126,Packaging and Filling Machine Operators and Tenders,Tend or operate machine that packages product.,Multilimb Coordination,2,0
+3126,Packaging and Filling Machine Operators and Tenders,Tend or operate machine that packages product.,Selective Attention,2,0
+3126,Packaging and Filling Machine Operators and Tenders,Tend or operate machine that packages product.,Near Vision,1,0
+3126,Packaging and Filling Machine Operators and Tenders,Tend or operate machine that packages product.,Control Precision,1,0
+3135,Packaging and Filling Machine Operators and Tenders,"Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides.",Manual Dexterity,2,0
+3135,Packaging and Filling Machine Operators and Tenders,"Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides.",Finger Dexterity,1,0
+3135,Packaging and Filling Machine Operators and Tenders,"Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides.",Control Precision,1,0
+3135,Packaging and Filling Machine Operators and Tenders,"Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides.",Static Strength,1,0
+3128,Packaging and Filling Machine Operators and Tenders,"Regulate machine flow, speed, or temperature.",Rate Control,2,0
+3128,Packaging and Filling Machine Operators and Tenders,"Regulate machine flow, speed, or temperature.",Control Precision,2,0
+3128,Packaging and Filling Machine Operators and Tenders,"Regulate machine flow, speed, or temperature.",Near Vision,1,0
+3128,Packaging and Filling Machine Operators and Tenders,"Regulate machine flow, speed, or temperature.",Selective Attention,1,0
+3125,Packaging and Filling Machine Operators and Tenders,Adjust machine components and machine tension and pressure according to size or processing angle of product.,Control Precision,3,0
+3125,Packaging and Filling Machine Operators and Tenders,Adjust machine components and machine tension and pressure according to size or processing angle of product.,Manual Dexterity,2,0
+3125,Packaging and Filling Machine Operators and Tenders,Adjust machine components and machine tension and pressure according to size or processing angle of product.,Near Vision,1,0
+3125,Packaging and Filling Machine Operators and Tenders,Adjust machine components and machine tension and pressure according to size or processing angle of product.,Deductive Reasoning,1,0
+3141,Packaging and Filling Machine Operators and Tenders,"Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product.",Manual Dexterity,2,0
+3141,Packaging and Filling Machine Operators and Tenders,"Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product.",Static Strength,1,0
+3141,Packaging and Filling Machine Operators and Tenders,"Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product.",Multilimb Coordination,1,0
+3141,Packaging and Filling Machine Operators and Tenders,"Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product.",Stamina,1,0
+3137,Packaging and Filling Machine Operators and Tenders,"Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers.",Manual Dexterity,2,0
+3137,Packaging and Filling Machine Operators and Tenders,"Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers.",Static Strength,2,0
+3137,Packaging and Filling Machine Operators and Tenders,"Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers.",Trunk Strength,1,0
+3137,Packaging and Filling Machine Operators and Tenders,"Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers.",Multilimb Coordination,1,0
+3140,Packaging and Filling Machine Operators and Tenders,"Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout.",Manual Dexterity,2,0
+3140,Packaging and Filling Machine Operators and Tenders,"Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout.",Multilimb Coordination,1,0
+3140,Packaging and Filling Machine Operators and Tenders,"Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout.",Control Precision,1,0
+3140,Packaging and Filling Machine Operators and Tenders,"Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout.",Static Strength,1,0
+3131,Packaging and Filling Machine Operators and Tenders,"Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels.",Manual Dexterity,2,0
+3131,Packaging and Filling Machine Operators and Tenders,"Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels.",Static Strength,2,0
+3131,Packaging and Filling Machine Operators and Tenders,"Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels.",Near Vision,1,0
+3131,Packaging and Filling Machine Operators and Tenders,"Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels.",Stamina,1,0
+3139,Packaging and Filling Machine Operators and Tenders,Count and record finished and rejected packaged items.,Number Facility,3,0
+3139,Packaging and Filling Machine Operators and Tenders,Count and record finished and rejected packaged items.,Perceptual Speed,2,0
+3139,Packaging and Filling Machine Operators and Tenders,Count and record finished and rejected packaged items.,Written Expression,1,0
+3139,Packaging and Filling Machine Operators and Tenders,Count and record finished and rejected packaged items.,Selective Attention,1,0
+3143,Packaging and Filling Machine Operators and Tenders,"Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing.",Manual Dexterity,2,0
+3143,Packaging and Filling Machine Operators and Tenders,"Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing.",Static Strength,1,0
+3143,Packaging and Filling Machine Operators and Tenders,"Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing.",Finger Dexterity,1,0
+3143,Packaging and Filling Machine Operators and Tenders,"Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing.",Multilimb Coordination,1,0
+3130,Packaging and Filling Machine Operators and Tenders,"Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener.",Finger Dexterity,3,0
+3130,Packaging and Filling Machine Operators and Tenders,"Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener.",Manual Dexterity,2,0
+3130,Packaging and Filling Machine Operators and Tenders,"Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener.",Arm-Hand Steadiness,1,0
+3130,Packaging and Filling Machine Operators and Tenders,"Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener.",Control Precision,1,0
+3133,Packaging and Filling Machine Operators and Tenders,Clean and remove damaged or otherwise inferior materials to prepare raw products for processing.,Manual Dexterity,2,0
+3133,Packaging and Filling Machine Operators and Tenders,Clean and remove damaged or otherwise inferior materials to prepare raw products for processing.,Near Vision,2,0
+3133,Packaging and Filling Machine Operators and Tenders,Clean and remove damaged or otherwise inferior materials to prepare raw products for processing.,Static Strength,1,0
+3133,Packaging and Filling Machine Operators and Tenders,Clean and remove damaged or otherwise inferior materials to prepare raw products for processing.,Selective Attention,1,0
+12527,"Painting, Coating, and Decorating Workers","Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes.",Control Precision,3,0
+12527,"Painting, Coating, and Decorating Workers","Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes.",Arm-Hand Steadiness,3,0
+12527,"Painting, Coating, and Decorating Workers","Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes.",Manual Dexterity,2,0
+12527,"Painting, Coating, and Decorating Workers","Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes.",Near Vision,2,0
+12528,"Painting, Coating, and Decorating Workers",Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas.,Near Vision,3,0
+12528,"Painting, Coating, and Decorating Workers",Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas.,Visual Color Discrimination,2,0
+12528,"Painting, Coating, and Decorating Workers",Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas.,Control Precision,2,0
+12528,"Painting, Coating, and Decorating Workers",Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas.,Manual Dexterity,1,0
+12529,"Painting, Coating, and Decorating Workers","Clean and maintain tools and equipment, using solvents, brushes, and rags.",Manual Dexterity,2,0
+12529,"Painting, Coating, and Decorating Workers","Clean and maintain tools and equipment, using solvents, brushes, and rags.",Finger Dexterity,1,0
+12529,"Painting, Coating, and Decorating Workers","Clean and maintain tools and equipment, using solvents, brushes, and rags.",Static Strength,1,0
+12529,"Painting, Coating, and Decorating Workers","Clean and maintain tools and equipment, using solvents, brushes, and rags.",Near Vision,1,0
+12530,"Painting, Coating, and Decorating Workers",Read job orders and inspect workpieces to determine work procedures and materials required.,Written Comprehension,2,0
+12530,"Painting, Coating, and Decorating Workers",Read job orders and inspect workpieces to determine work procedures and materials required.,Near Vision,2,0
+12530,"Painting, Coating, and Decorating Workers",Read job orders and inspect workpieces to determine work procedures and materials required.,Deductive Reasoning,2,0
+12530,"Painting, Coating, and Decorating Workers",Read job orders and inspect workpieces to determine work procedures and materials required.,Information Ordering,1,0
+12534,"Painting, Coating, and Decorating Workers","Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers.",Manual Dexterity,2,0
+12534,"Painting, Coating, and Decorating Workers","Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers.",Number Facility,2,0
+12534,"Painting, Coating, and Decorating Workers","Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers.",Deductive Reasoning,1,0
+12534,"Painting, Coating, and Decorating Workers","Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers.",Static Strength,1,0
+12533,"Painting, Coating, and Decorating Workers",Place coated workpieces in ovens or dryers for specified times to dry or harden finishes.,Manual Dexterity,2,0
+12533,"Painting, Coating, and Decorating Workers",Place coated workpieces in ovens or dryers for specified times to dry or harden finishes.,Static Strength,1,0
+12533,"Painting, Coating, and Decorating Workers",Place coated workpieces in ovens or dryers for specified times to dry or harden finishes.,Near Vision,1,0
+12533,"Painting, Coating, and Decorating Workers",Place coated workpieces in ovens or dryers for specified times to dry or harden finishes.,Information Ordering,1,0
+12531,"Painting, Coating, and Decorating Workers","Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.",Manual Dexterity,2,0
+12531,"Painting, Coating, and Decorating Workers","Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.",Static Strength,1,0
+12531,"Painting, Coating, and Decorating Workers","Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.",Arm-Hand Steadiness,1,0
+12531,"Painting, Coating, and Decorating Workers","Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.",Stamina,1,0
+12536,"Painting, Coating, and Decorating Workers","Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty.",Finger Dexterity,2,0
+12536,"Painting, Coating, and Decorating Workers","Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty.",Manual Dexterity,2,0
+12536,"Painting, Coating, and Decorating Workers","Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty.",Near Vision,2,0
+12536,"Painting, Coating, and Decorating Workers","Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty.",Control Precision,2,0
+12532,"Painting, Coating, and Decorating Workers","Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces.",Manual Dexterity,2,0
+12532,"Painting, Coating, and Decorating Workers","Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces.",Arm-Hand Steadiness,1,0
+12532,"Painting, Coating, and Decorating Workers","Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces.",Static Strength,1,0
+12532,"Painting, Coating, and Decorating Workers","Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces.",Near Vision,1,0
+23656,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Dispose of hazardous waste in an appropriate manner.,Deductive Reasoning,2,0
+23656,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Dispose of hazardous waste in an appropriate manner.,Static Strength,1,1
+23656,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Dispose of hazardous waste in an appropriate manner.,Manual Dexterity,1,1
+23656,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Dispose of hazardous waste in an appropriate manner.,Information Ordering,1,1
+12522,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Hold or position spray guns to direct spray onto articles.,Arm-Hand Steadiness,3,0
+12522,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Hold or position spray guns to direct spray onto articles.,Control Precision,2,0
+12522,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Hold or position spray guns to direct spray onto articles.,Static Strength,1,0
+12522,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Hold or position spray guns to direct spray onto articles.,Multilimb Coordination,1,0
+23664,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Spray prepared surfaces with specified amounts of primers and decorative or finish coatings.,Control Precision,3,0
+23664,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Spray prepared surfaces with specified amounts of primers and decorative or finish coatings.,Arm-Hand Steadiness,2,0
+23664,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Spray prepared surfaces with specified amounts of primers and decorative or finish coatings.,Manual Dexterity,2,0
+23664,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Spray prepared surfaces with specified amounts of primers and decorative or finish coatings.,Near Vision,1,0
+23659,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Monitor painting operations to identify flaws, such as blisters or streaks, and correct their causes.",Selective Attention,2,0
+23659,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Monitor painting operations to identify flaws, such as blisters or streaks, and correct their causes.",Near Vision,2,0
+23659,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Monitor painting operations to identify flaws, such as blisters or streaks, and correct their causes.",Problem Sensitivity,2,0
+23659,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Monitor painting operations to identify flaws, such as blisters or streaks, and correct their causes.",Visual Color Discrimination,1,0
+23655,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Disassemble, clean, and reassemble sprayers or power equipment, using solvents, wire brushes, and cloths.",Manual Dexterity,2,0
+23655,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Disassemble, clean, and reassemble sprayers or power equipment, using solvents, wire brushes, and cloths.",Finger Dexterity,2,0
+23655,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Disassemble, clean, and reassemble sprayers or power equipment, using solvents, wire brushes, and cloths.",Static Strength,1,0
+23655,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Disassemble, clean, and reassemble sprayers or power equipment, using solvents, wire brushes, and cloths.",Near Vision,1,0
+12513,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Fill hoppers, reservoirs, troughs, or pans with material used to coat, paint, or spray, using conveyors or pails.",Static Strength,2,0
+12513,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Fill hoppers, reservoirs, troughs, or pans with material used to coat, paint, or spray, using conveyors or pails.",Manual Dexterity,1,0
+12513,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Fill hoppers, reservoirs, troughs, or pans with material used to coat, paint, or spray, using conveyors or pails.",Trunk Strength,1,0
+12513,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Fill hoppers, reservoirs, troughs, or pans with material used to coat, paint, or spray, using conveyors or pails.",Dynamic Strength,1,0
+23654,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Clean equipment and work areas.,Manual Dexterity,1,0
+23654,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Clean equipment and work areas.,Static Strength,1,0
+23654,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Clean equipment and work areas.,Stamina,1,0
+23654,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Clean equipment and work areas.,Near Vision,1,0
+23652,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply rust-resistant undercoats and caulk and seal seams.,Manual Dexterity,2,0
+23652,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply rust-resistant undercoats and caulk and seal seams.,Control Precision,2,0
+23652,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply rust-resistant undercoats and caulk and seal seams.,Near Vision,1,0
+23652,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply rust-resistant undercoats and caulk and seal seams.,Arm-Hand Steadiness,1,0
+12509,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Start and stop operation of machines, using levers or buttons.",Reaction Time,1,0
+12509,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Start and stop operation of machines, using levers or buttons.",Manual Dexterity,1,0
+12509,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Start and stop operation of machines, using levers or buttons.",Control Precision,1,0
+12509,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Start and stop operation of machines, using levers or buttons.",Near Vision,1,0
+12504,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Determine paint flow, viscosity, and coating quality by performing visual inspections, or by using viscometers.",Near Vision,2,0
+12504,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Determine paint flow, viscosity, and coating quality by performing visual inspections, or by using viscometers.",Deductive Reasoning,2,0
+12504,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Determine paint flow, viscosity, and coating quality by performing visual inspections, or by using viscometers.",Perceptual Speed,1,0
+12504,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Determine paint flow, viscosity, and coating quality by performing visual inspections, or by using viscometers.",Number Facility,1,0
+12517,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Attach hoses or nozzles to machines, using wrenches and pliers, and make adjustments to obtain the proper dispersion of spray.",Manual Dexterity,2,0
+12517,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Attach hoses or nozzles to machines, using wrenches and pliers, and make adjustments to obtain the proper dispersion of spray.",Finger Dexterity,2,0
+12517,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Attach hoses or nozzles to machines, using wrenches and pliers, and make adjustments to obtain the proper dispersion of spray.",Static Strength,1,0
+12517,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Attach hoses or nozzles to machines, using wrenches and pliers, and make adjustments to obtain the proper dispersion of spray.",Control Precision,1,0
+12508,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Turn dials, handwheels, valves, or switches to regulate conveyor speeds, machine temperature, air pressure and circulation, and the flow or spray of coatings or paints.",Control Precision,2,0
+12508,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Turn dials, handwheels, valves, or switches to regulate conveyor speeds, machine temperature, air pressure and circulation, and the flow or spray of coatings or paints.",Rate Control,2,0
+12508,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Turn dials, handwheels, valves, or switches to regulate conveyor speeds, machine temperature, air pressure and circulation, and the flow or spray of coatings or paints.",Manual Dexterity,1,0
+12508,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Turn dials, handwheels, valves, or switches to regulate conveyor speeds, machine temperature, air pressure and circulation, and the flow or spray of coatings or paints.",Near Vision,1,0
+12503,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Observe machine gauges and equipment operation to detect defects or deviations from standards, and make adjustments as necessary.",Near Vision,2,0
+12503,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Observe machine gauges and equipment operation to detect defects or deviations from standards, and make adjustments as necessary.",Selective Attention,2,0
+12503,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Observe machine gauges and equipment operation to detect defects or deviations from standards, and make adjustments as necessary.",Deductive Reasoning,2,0
+12503,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Observe machine gauges and equipment operation to detect defects or deviations from standards, and make adjustments as necessary.",Control Precision,1,0
+12521,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Examine, measure, weigh, or test sample products to ensure conformance to specifications.",Near Vision,2,0
+12521,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Examine, measure, weigh, or test sample products to ensure conformance to specifications.",Number Facility,2,0
+12521,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Examine, measure, weigh, or test sample products to ensure conformance to specifications.",Control Precision,1,0
+12521,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Examine, measure, weigh, or test sample products to ensure conformance to specifications.",Perceptual Speed,1,0
+23653,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Buff and wax the finished paintwork.,Manual Dexterity,2,0
+23653,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Buff and wax the finished paintwork.,Arm-Hand Steadiness,1,0
+23653,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Buff and wax the finished paintwork.,Static Strength,1,0
+23653,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Buff and wax the finished paintwork.,Stamina,1,0
+23665,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Use brush to hand-paint areas in need of retouching or unreachable with a spray gun.,Arm-Hand Steadiness,3,0
+23665,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Use brush to hand-paint areas in need of retouching or unreachable with a spray gun.,Control Precision,2,0
+23665,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Use brush to hand-paint areas in need of retouching or unreachable with a spray gun.,Manual Dexterity,2,0
+23665,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Use brush to hand-paint areas in need of retouching or unreachable with a spray gun.,Near Vision,2,0
+12516,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Thread or feed items or products through or around machine rollers and dryers.,Manual Dexterity,2,0
+12516,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Thread or feed items or products through or around machine rollers and dryers.,Finger Dexterity,1,0
+12516,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Thread or feed items or products through or around machine rollers and dryers.,Multilimb Coordination,1,0
+12516,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Thread or feed items or products through or around machine rollers and dryers.,Control Precision,1,0
+12505,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Weigh or measure chemicals, coatings, or paints before adding them to machines.",Number Facility,2,0
+12505,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Weigh or measure chemicals, coatings, or paints before adding them to machines.",Near Vision,1,0
+12505,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Weigh or measure chemicals, coatings, or paints before adding them to machines.",Manual Dexterity,1,0
+12505,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Weigh or measure chemicals, coatings, or paints before adding them to machines.",Control Precision,1,0
+12512,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate auxiliary machines or equipment used in coating or painting processes.,Multilimb Coordination,1,0
+12512,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate auxiliary machines or equipment used in coating or painting processes.,Control Precision,1,0
+12512,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate auxiliary machines or equipment used in coating or painting processes.,Near Vision,1,0
+12512,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate auxiliary machines or equipment used in coating or painting processes.,Manual Dexterity,1,0
+12518,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove materials, parts, or workpieces from painting or coating machines, using hand tools.",Manual Dexterity,2,0
+12518,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove materials, parts, or workpieces from painting or coating machines, using hand tools.",Finger Dexterity,1,0
+12518,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove materials, parts, or workpieces from painting or coating machines, using hand tools.",Static Strength,1,0
+12518,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove materials, parts, or workpieces from painting or coating machines, using hand tools.",Near Vision,1,0
+12510,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Record operational data on specified forms.,Written Expression,2,0
+12510,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Record operational data on specified forms.,Number Facility,1,0
+12510,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Record operational data on specified forms.,Information Ordering,1,0
+12510,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Record operational data on specified forms.,Near Vision,1,0
+23660,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate lifting or moving devices to move equipment or materials to access areas to be painted.,Multilimb Coordination,2,0
+23660,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate lifting or moving devices to move equipment or materials to access areas to be painted.,Static Strength,1,0
+23660,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate lifting or moving devices to move equipment or materials to access areas to be painted.,Depth Perception,1,0
+23660,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Operate lifting or moving devices to move equipment or materials to access areas to be painted.,Control Precision,1,0
+23663,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Set up portable equipment, such as ventilators, exhaust units, ladders, or scaffolding.",Static Strength,2,0
+23663,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Set up portable equipment, such as ventilators, exhaust units, ladders, or scaffolding.",Manual Dexterity,1,0
+23663,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Set up portable equipment, such as ventilators, exhaust units, ladders, or scaffolding.",Gross Body Coordination,1,0
+23663,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Set up portable equipment, such as ventilators, exhaust units, ladders, or scaffolding.",Multilimb Coordination,1,0
+23650,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Adjust controls on infrared ovens, heat lamps, portable ventilators, or exhaust units to speed the drying of surfaces between coats.",Control Precision,2,0
+23650,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Adjust controls on infrared ovens, heat lamps, portable ventilators, or exhaust units to speed the drying of surfaces between coats.",Manual Dexterity,1,0
+23650,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Adjust controls on infrared ovens, heat lamps, portable ventilators, or exhaust units to speed the drying of surfaces between coats.",Near Vision,1,0
+23650,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Adjust controls on infrared ovens, heat lamps, portable ventilators, or exhaust units to speed the drying of surfaces between coats.",Rate Control,1,0
+23651,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply primer over any repairs made to surfaces.,Control Precision,2,0
+23651,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply primer over any repairs made to surfaces.,Manual Dexterity,2,0
+23651,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply primer over any repairs made to surfaces.,Near Vision,1,0
+23651,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Apply primer over any repairs made to surfaces.,Arm-Hand Steadiness,1,0
+23657,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Fill small dents or scratches with body fillers and smooth surfaces to prepare for painting.,Finger Dexterity,2,0
+23657,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Fill small dents or scratches with body fillers and smooth surfaces to prepare for painting.,Manual Dexterity,2,0
+23657,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Fill small dents or scratches with body fillers and smooth surfaces to prepare for painting.,Near Vision,2,0
+23657,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Fill small dents or scratches with body fillers and smooth surfaces to prepare for painting.,Control Precision,2,0
+23658,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Mix paints to match color specifications or original colors, stirring or thinning paints, using spatulas or power mixing equipment.",Visual Color Discrimination,3,0
+23658,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Mix paints to match color specifications or original colors, stirring or thinning paints, using spatulas or power mixing equipment.",Manual Dexterity,2,0
+23658,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Mix paints to match color specifications or original colors, stirring or thinning paints, using spatulas or power mixing equipment.",Near Vision,2,0
+23658,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Mix paints to match color specifications or original colors, stirring or thinning paints, using spatulas or power mixing equipment.",Deductive Reasoning,1,0
+23661,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",Manual Dexterity,2,0
+23661,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",Static Strength,2,0
+23661,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",Stamina,1,0
+23661,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",Arm-Hand Steadiness,1,0
+23662,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Sand and apply sealer to properly dried finish.,Manual Dexterity,2,0
+23662,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Sand and apply sealer to properly dried finish.,Arm-Hand Steadiness,2,0
+23662,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Sand and apply sealer to properly dried finish.,Static Strength,1,0
+23662,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",Sand and apply sealer to properly dried finish.,Near Vision,1,0
+12573,Semiconductor Processing Technicians,"Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles.",Finger Dexterity,2,0
+12573,Semiconductor Processing Technicians,"Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles.",Manual Dexterity,1,0
+12573,Semiconductor Processing Technicians,"Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles.",Control Precision,1,0
+12573,Semiconductor Processing Technicians,"Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles.",Near Vision,1,0
+12574,Semiconductor Processing Technicians,"Maintain processing, production, and inspection information and reports.",Written Expression,2,0
+12574,Semiconductor Processing Technicians,"Maintain processing, production, and inspection information and reports.",Information Ordering,2,0
+12574,Semiconductor Processing Technicians,"Maintain processing, production, and inspection information and reports.",Number Facility,1,0
+12574,Semiconductor Processing Technicians,"Maintain processing, production, and inspection information and reports.",Near Vision,1,0
+12575,Semiconductor Processing Technicians,"Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures.",Near Vision,3,0
+12575,Semiconductor Processing Technicians,"Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures.",Flexibility of Closure,2,0
+12575,Semiconductor Processing Technicians,"Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures.",Perceptual Speed,2,0
+12575,Semiconductor Processing Technicians,"Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures.",Control Precision,1,0
+12576,Semiconductor Processing Technicians,"Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands.",Manual Dexterity,2,0
+12576,Semiconductor Processing Technicians,"Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands.",Finger Dexterity,2,0
+12576,Semiconductor Processing Technicians,"Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands.",Near Vision,1,0
+12576,Semiconductor Processing Technicians,"Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands.",Arm-Hand Steadiness,1,0
+12577,Semiconductor Processing Technicians,"Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations.",Written Comprehension,3,0
+12577,Semiconductor Processing Technicians,"Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations.",Deductive Reasoning,2,0
+12577,Semiconductor Processing Technicians,"Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations.",Information Ordering,2,0
+12577,Semiconductor Processing Technicians,"Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations.",Near Vision,1,0
+12578,Semiconductor Processing Technicians,Load and unload equipment chambers and transport finished product to storage or to area for further processing.,Manual Dexterity,2,0
+12578,Semiconductor Processing Technicians,Load and unload equipment chambers and transport finished product to storage or to area for further processing.,Static Strength,1,0
+12578,Semiconductor Processing Technicians,Load and unload equipment chambers and transport finished product to storage or to area for further processing.,Arm-Hand Steadiness,1,0
+12578,Semiconductor Processing Technicians,Load and unload equipment chambers and transport finished product to storage or to area for further processing.,Near Vision,1,0
+12579,Semiconductor Processing Technicians,"Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area.",Manual Dexterity,2,0
+12579,Semiconductor Processing Technicians,"Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area.",Finger Dexterity,1,0
+12579,Semiconductor Processing Technicians,"Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area.",Static Strength,1,0
+12579,Semiconductor Processing Technicians,"Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area.",Near Vision,1,0

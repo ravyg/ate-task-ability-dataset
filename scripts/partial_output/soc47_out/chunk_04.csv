@@ -1,0 +1,620 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,Manual Dexterity,3,0
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,Arm-Hand Steadiness,2,0
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,Control Precision,2,0
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,Near Vision,2,0
+9884,Plasterers and Stucco Masons,Rough the undercoat surface with a scratcher so the finish coat will adhere.,Static Strength,1,0
+9882,Plasterers and Stucco Masons,Cure freshly plastered surfaces.,Manual Dexterity,2,0
+9882,Plasterers and Stucco Masons,Cure freshly plastered surfaces.,Near Vision,2,0
+9882,Plasterers and Stucco Masons,Cure freshly plastered surfaces.,Selective Attention,2,0
+9882,Plasterers and Stucco Masons,Cure freshly plastered surfaces.,Stamina,1,1
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Manual Dexterity,3,0
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Arm-Hand Steadiness,2,0
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Static Strength,2,0
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Multilimb Coordination,2,0
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Near Vision,2,0
+9886,Plasterers and Stucco Masons,"Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.",Gross Body Equilibrium,1,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Arm-Hand Steadiness,3,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Control Precision,2,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Static Strength,2,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Multilimb Coordination,2,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Near Vision,2,0
+9887,Plasterers and Stucco Masons,Spray acoustic materials or texture finish over walls or ceilings.,Stamina,1,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Manual Dexterity,3,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Finger Dexterity,2,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Arm-Hand Steadiness,2,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Control Precision,2,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Near Vision,2,0
+9888,Plasterers and Stucco Masons,"Mold or install ornamental plaster pieces, panels, or trim.",Visualization,1,0
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",Written Comprehension,3,0
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",Visualization,3,0
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",Mathematical Reasoning,2,0
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",Number Facility,2,0
+13569,Reinforcing Iron and Rebar Workers,"Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.",Information Ordering,2,0
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",Manual Dexterity,3,0
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",Finger Dexterity,3,0
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",Arm-Hand Steadiness,2,0
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",Static Strength,1,0
+13568,Reinforcing Iron and Rebar Workers,"Space and fasten together rods in forms according to blueprints, using wire and pliers.",Near Vision,2,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Static Strength,3,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Manual Dexterity,2,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Multilimb Coordination,2,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Arm-Hand Steadiness,2,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Trunk Strength,2,0
+13567,Reinforcing Iron and Rebar Workers,"Position and secure steel bars, rods, cables, or mesh in concrete forms, using fasteners, rod-bending machines, blowtorches, or hand tools.",Near Vision,1,0
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",Static Strength,3,0
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",Control Precision,2,0
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",Arm-Hand Steadiness,2,0
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",Near Vision,2,0
+13571,Reinforcing Iron and Rebar Workers,"Cut rods to required lengths, using metal shears, hacksaws, bar cutters, or acetylene torches.",Multilimb Coordination,1,0
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,Static Strength,2,0
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,Trunk Strength,2,0
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,Manual Dexterity,2,0
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,Gross Body Coordination,1,0
+13570,Reinforcing Iron and Rebar Workers,Place blocks under rebar to hold the bars off the deck when reinforcing floors.,Near Vision,1,0
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",Manual Dexterity,3,0
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",Static Strength,2,0
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",Multilimb Coordination,2,0
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",Arm-Hand Steadiness,2,0
+13572,Reinforcing Iron and Rebar Workers,"Cut and fit wire mesh or fabric, using hooked rods, and position fabric or mesh in concrete to reinforce concrete.",Near Vision,1,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Static Strength,3,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Arm-Hand Steadiness,3,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Control Precision,2,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Near Vision,2,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Multilimb Coordination,2,0
+13573,Reinforcing Iron and Rebar Workers,Bend steel rods with hand tools or rod-bending machines and weld them with arc-welding equipment.,Glare Sensitivity,1,1
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,Problem Sensitivity,3,0
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,Near Vision,2,0
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,Deductive Reasoning,2,0
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,Gross Body Equilibrium,1,0
+13574,Roofers,Inspect problem roofs to determine the best repair procedures.,Far Vision,1,0
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",Static Strength,2,0
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",Gross Body Equilibrium,2,0
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",Stamina,2,0
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",Trunk Strength,2,0
+13586,Roofers,"Remove snow, water, or debris from roofs prior to applying roofing materials.",Dynamic Strength,1,0
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,Static Strength,3,0
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,Multilimb Coordination,2,0
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,Gross Body Coordination,2,0
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,Trunk Strength,2,0
+13575,Roofers,Set up scaffolding to provide safe access to roofs.,Gross Body Equilibrium,1,0
+20793,Roofers,Estimate materials and labor required to complete roofing jobs.,Mathematical Reasoning,3,0
+20793,Roofers,Estimate materials and labor required to complete roofing jobs.,Number Facility,2,0
+20793,Roofers,Estimate materials and labor required to complete roofing jobs.,Written Comprehension,1,0
+20793,Roofers,Estimate materials and labor required to complete roofing jobs.,Deductive Reasoning,2,0
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,Manual Dexterity,3,0
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,Arm-Hand Steadiness,2,0
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,Control Precision,2,0
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,Near Vision,2,0
+13578,Roofers,Cement or nail flashing strips of metal or shingle over joints to make them watertight.,Gross Body Equilibrium,1,0
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",Manual Dexterity,2,0
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",Control Precision,2,0
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",Near Vision,2,0
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",Gross Body Equilibrium,2,0
+13584,Roofers,"Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",Multilimb Coordination,2,0
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",Manual Dexterity,3,0
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",Control Precision,2,0
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",Near Vision,2,0
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",Visualization,1,0
+13580,Roofers,"Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",Arm-Hand Steadiness,1,0
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",Gross Body Equilibrium,3,0
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",Manual Dexterity,2,0
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",Static Strength,2,0
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",Trunk Strength,1,0
+13592,Roofers,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",Near Vision,1,0
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",Manual Dexterity,2,0
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",Static Strength,2,0
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",Gross Body Equilibrium,2,0
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",Multilimb Coordination,2,0
+13579,Roofers,"Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",Near Vision,1,0
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,Manual Dexterity,2,0
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,Gross Body Equilibrium,2,0
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,Control Precision,1,0
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,Multilimb Coordination,2,0
+20794,Roofers,Attach roofing paper to roofs in overlapping strips to form bases for other materials.,Near Vision,1,0
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",Static Strength,2,0
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",Manual Dexterity,2,0
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",Gross Body Equilibrium,2,0
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",Multilimb Coordination,2,0
+13585,Roofers,"Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",Stamina,1,0
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",Arm-Hand Steadiness,2,0
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",Manual Dexterity,2,0
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",Static Strength,1,0
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",Near Vision,1,0
+13590,Roofers,"Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",Stamina,1,0
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",Manual Dexterity,2,0
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",Arm-Hand Steadiness,2,0
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",Gross Body Equilibrium,2,0
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",Near Vision,1,0
+19851,Roofers,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",Static Strength,1,0
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,Static Strength,2,0
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,Manual Dexterity,2,0
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,Gross Body Equilibrium,2,0
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,Stamina,2,0
+13587,Roofers,Apply alternate layers of hot asphalt or tar and roofing paper to roofs.,Near Vision,1,0
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,Manual Dexterity,2,0
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,Static Strength,2,0
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,Trunk Strength,1,0
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,Multilimb Coordination,1,0
+13581,Roofers,Install vapor barriers or layers of insulation on flat roofs.,Stamina,1,0
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,Manual Dexterity,2,0
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,Arm-Hand Steadiness,2,0
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,Finger Dexterity,2,0
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,Near Vision,2,0
+13583,Roofers,Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.,Control Precision,1,0
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",Manual Dexterity,2,0
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",Static Strength,2,0
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",Arm-Hand Steadiness,2,0
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",Near Vision,1,0
+13593,Roofers,"Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",Control Precision,1,0
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,Manual Dexterity,2,0
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,Arm-Hand Steadiness,2,0
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,Near Vision,2,0
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,Control Precision,1,0
+13594,Roofers,Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.,Static Strength,1,0
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,Static Strength,2,0
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,Dynamic Strength,2,0
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,Gross Body Equilibrium,2,0
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,Multilimb Coordination,2,0
+13591,Roofers,Mop or pour hot asphalt or tar onto roof bases.,Stamina,2,0
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",Manual Dexterity,2,0
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",Multilimb Coordination,2,0
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",Static Strength,2,0
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",Near Vision,1,0
+19853,Roofers,"Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",Control Precision,1,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Manual Dexterity,3,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Static Strength,2,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Control Precision,2,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Multilimb Coordination,2,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Near Vision,2,0
+19855,Roofers,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,Gross Body Equilibrium,1,0
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",Dynamic Strength,2,0
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",Static Strength,1,0
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",Gross Body Equilibrium,2,0
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",Multilimb Coordination,1,0
+13595,Roofers,"Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",Stamina,1,0
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",Arm-Hand Steadiness,2,0
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",Manual Dexterity,2,0
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",Control Precision,2,0
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",Static Strength,1,0
+13589,Roofers,"Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",Near Vision,1,0
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",Manual Dexterity,2,0
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",Control Precision,2,0
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",Static Strength,2,0
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",Gross Body Equilibrium,2,0
+19852,Roofers,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",Near Vision,2,0
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",Arm-Hand Steadiness,3,0
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",Control Precision,2,0
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",Manual Dexterity,2,0
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",Near Vision,2,0
+13596,Roofers,"Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",Static Strength,1,0
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,Static Strength,2,0
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,Dynamic Strength,2,0
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,Trunk Strength,2,0
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,Gross Body Equilibrium,1,0
+19850,Roofers,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,Stamina,1,0
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Static Strength,2,0
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Manual Dexterity,2,0
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Multilimb Coordination,1,0
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Information Ordering,1,1
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Stamina,2,0
+19854,Roofers,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",Gross Body Equilibrium,1,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",Manual Dexterity,2,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",Finger Dexterity,2,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",Problem Sensitivity,2,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",Near Vision,1,0
+5177,Sheet Metal Workers,"Maintain equipment, making repairs or modifications when necessary.",Static Strength,1,0
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",Manual Dexterity,3,0
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",Control Precision,2,0
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",Near Vision,2,0
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",Visualization,2,0
+19858,Sheet Metal Workers,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",Static Strength,1,0
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",Manual Dexterity,3,0
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",Arm-Hand Steadiness,2,0
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",Finger Dexterity,2,0
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",Near Vision,2,0
+5173,Sheet Metal Workers,"Fasten seams or joints together with welds, bolts, cement, rivets, solder, caulks, metal drive clips, or bonds to assemble components into products or to repair sheet metal items.",Control Precision,2,0
+5179,Sheet Metal Workers,Transport prefabricated parts to construction sites for assembly and installation.,Static Strength,2,0
+5179,Sheet Metal Workers,Transport prefabricated parts to construction sites for assembly and installation.,Dynamic Strength,2,0
+5179,Sheet Metal Workers,Transport prefabricated parts to construction sites for assembly and installation.,Trunk Strength,1,0
+5179,Sheet Metal Workers,Transport prefabricated parts to construction sites for assembly and installation.,Stamina,1,0
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",Manual Dexterity,2,0
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",Static Strength,2,0
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",Multilimb Coordination,2,0
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",Near Vision,1,0
+5170,Sheet Metal Workers,"Install assemblies, such as flashing, pipes, tubes, heating and air conditioning ducts, furnace casings, rain gutters, or downspouts in supportive frameworks.",Control Precision,1,0
+18782,Sheet Metal Workers,"Hire, train, or supervise new employees or apprentices.",Oral Expression,3,0
+18782,Sheet Metal Workers,"Hire, train, or supervise new employees or apprentices.",Oral Comprehension,2,0
+18782,Sheet Metal Workers,"Hire, train, or supervise new employees or apprentices.",Written Comprehension,1,0
+18782,Sheet Metal Workers,"Hire, train, or supervise new employees or apprentices.",Information Ordering,1,0
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",Near Vision,3,0
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",Mathematical Reasoning,2,0
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",Control Precision,2,0
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",Manual Dexterity,2,0
+20639,Sheet Metal Workers,"Lay out, measure, and mark dimensions and reference lines on material, such as roofing panels, using calculators, scribes, dividers, squares, or rulers.",Number Facility,2,0
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",Manual Dexterity,3,0
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",Static Strength,2,0
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",Arm-Hand Steadiness,2,0
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",Control Precision,2,0
+5174,Sheet Metal Workers,"Fabricate or alter parts at construction sites, using shears, hammers, punches, or drills.",Near Vision,1,0
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",Written Comprehension,3,0
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",Visualization,2,0
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",Deductive Reasoning,2,0
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",Information Ordering,2,0
+20638,Sheet Metal Workers,"Determine project requirements, such as scope, assembly sequences, or required methods or materials, using blueprints, drawings, or written or verbal instructions.",Oral Comprehension,1,0
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,Static Strength,2,0
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,Dynamic Strength,2,0
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,Multilimb Coordination,2,0
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,Gross Body Coordination,2,0
+20641,Sheet Metal Workers,Maneuver completed roofing units into position for installation.,Trunk Strength,1,0
+5171,Sheet Metal Workers,"Select gauges or types of sheet metal or nonmetallic material, according to product specifications.",Written Comprehension,2,0
+5171,Sheet Metal Workers,"Select gauges or types of sheet metal or nonmetallic material, according to product specifications.",Perceptual Speed,1,1
+5171,Sheet Metal Workers,"Select gauges or types of sheet metal or nonmetallic material, according to product specifications.",Near Vision,1,0
+5171,Sheet Metal Workers,"Select gauges or types of sheet metal or nonmetallic material, according to product specifications.",Information Ordering,1,0
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",Manual Dexterity,3,0
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",Static Strength,2,0
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",Arm-Hand Steadiness,2,0
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",Control Precision,2,0
+5178,Sheet Metal Workers,"Shape metal material over anvils, blocks, or other forms, using hand tools.",Multilimb Coordination,1,0
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",Manual Dexterity,3,0
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",Arm-Hand Steadiness,2,0
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",Control Precision,2,0
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",Near Vision,2,0
+5175,Sheet Metal Workers,"Trim, file, grind, deburr, buff, or smooth surfaces, seams, or joints of assembled parts, using hand tools or portable power tools.",Wrist-Finger Speed,1,0
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",Near Vision,3,0
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",Control Precision,2,0
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",Perceptual Speed,2,0
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",Finger Dexterity,1,0
+20642,Sheet Metal Workers,"Inspect individual parts, assemblies, or installations, using measuring instruments, such as calipers, scales, or micrometers.",Selective Attention,1,0
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,Visualization,3,0
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,Written Comprehension,2,0
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,Spatial Orientation,2,0
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,Information Ordering,2,0
+5169,Sheet Metal Workers,Convert blueprints into shop drawings to be followed in the construction or assembly of sheet metal products.,Mathematical Reasoning,1,0
+19862,Sheet Metal Workers,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",Written Comprehension,3,0
+19862,Sheet Metal Workers,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",Deductive Reasoning,2,0
+19862,Sheet Metal Workers,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",Near Vision,1,0
+19862,Sheet Metal Workers,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",Information Ordering,2,0
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",Near Vision,2,0
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",Problem Sensitivity,2,0
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",Deductive Reasoning,2,0
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",Selective Attention,2,0
+19860,Sheet Metal Workers,"Perform building commissioning activities by completing mechanical inspections of a building's water, lighting, or heating, ventilating, and air conditioning (HVAC) systems.",Information Ordering,1,0
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,Manual Dexterity,2,0
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,Arm-Hand Steadiness,2,0
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,Control Precision,2,0
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,Static Strength,1,0
+20644,Sheet Metal Workers,Fasten roof panel edges or machine-made moldings to structures by nailing or welding.,Near Vision,1,0
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",Manual Dexterity,2,0
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",Static Strength,2,0
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",Arm-Hand Steadiness,2,0
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",Control Precision,1,0
+5176,Sheet Metal Workers,"Finish parts, using hacksaws or hand, rotary, or squaring shears.",Near Vision,1,0
+11544,Structural Iron and Steel Workers,"Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.",Written Comprehension,3,0
+11544,Structural Iron and Steel Workers,"Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.",Visualization,2,0
+11544,Structural Iron and Steel Workers,"Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.",Mathematical Reasoning,2,0
+11544,Structural Iron and Steel Workers,"Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.",Information Ordering,1,0
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",Static Strength,3,0
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",Manual Dexterity,2,0
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",Multilimb Coordination,2,0
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",Gross Body Equilibrium,2,0
+11546,Structural Iron and Steel Workers,"Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors.",Control Precision,1,0
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",Static Strength,3,0
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",Multilimb Coordination,2,0
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",Gross Body Equilibrium,2,0
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",Manual Dexterity,2,0
+11548,Structural Iron and Steel Workers,"Bolt aligned structural steel members in position for permanent riveting, bolting, or welding into place.",Arm-Hand Steadiness,1,0
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",Static Strength,2,0
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",Manual Dexterity,2,0
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",Multilimb Coordination,2,0
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",Gross Body Equilibrium,1,0
+11553,Structural Iron and Steel Workers,"Fasten structural steel members to hoist cables, using chains, cables, or rope.",Trunk Strength,1,0
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",Control Precision,3,0
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",Depth Perception,2,0
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",Multilimb Coordination,2,0
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",Response Orientation,2,0
+20795,Structural Iron and Steel Workers,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",Far Vision,1,0
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",Near Vision,3,0
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",Depth Perception,2,0
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",Spatial Orientation,2,0
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",Control Precision,1,0
+11545,Structural Iron and Steel Workers,"Verify vertical and horizontal alignment of structural steel members, using plumb bobs, laser equipment, transits, or levels.",Selective Attention,1,0
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",Static Strength,2,0
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",Arm-Hand Steadiness,3,0
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",Control Precision,2,0
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",Near Vision,2,0
+11552,Structural Iron and Steel Workers,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",Multilimb Coordination,1,0
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",Static Strength,3,0
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",Dynamic Strength,2,0
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",Trunk Strength,2,0
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",Multilimb Coordination,2,0
+11556,Structural Iron and Steel Workers,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",Gross Body Equilibrium,1,0
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",Static Strength,3,0
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",Dynamic Strength,2,0
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",Trunk Strength,2,0
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",Manual Dexterity,1,0
+11555,Structural Iron and Steel Workers,"Force structural steel members into final positions, using turnbuckles, crowbars, jacks, or hand tools.",Multilimb Coordination,1,0
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",Dynamic Strength,3,0
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",Static Strength,2,0
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",Trunk Strength,2,0
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",Gross Body Equilibrium,1,0
+11551,Structural Iron and Steel Workers,"Pull, push, or pry structural steel members into approximate positions for bolting into place.",Multilimb Coordination,1,0
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",Static Strength,2,0
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",Dynamic Strength,2,0
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",Multilimb Coordination,2,0
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",Trunk Strength,1,0
+11557,Structural Iron and Steel Workers,"Unload and position prefabricated steel units for hoisting, as needed.",Gross Body Coordination,1,0
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,Arm-Hand Steadiness,3,0
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,Control Precision,2,0
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,Static Strength,2,0
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,Near Vision,2,0
+11558,Structural Iron and Steel Workers,Drive drift pins through rivet holes to align rivet holes in structural steel members with corresponding holes in previously placed members.,Multilimb Coordination,1,0
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",Manual Dexterity,2,0
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",Static Strength,2,0
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",Multilimb Coordination,2,0
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",Near Vision,1,0
+11554,Structural Iron and Steel Workers,"Assemble hoisting equipment or rigging, such as cables, pulleys, or hooks, to move heavy equipment or materials.",Problem Sensitivity,1,0
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",Manual Dexterity,2,0
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",Static Strength,2,0
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",Visualization,2,0
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",Control Precision,2,0
+11550,Structural Iron and Steel Workers,"Fabricate metal parts, such as steel frames, columns, beams, or girders, according to blueprints or instructions from supervisors.",Near Vision,1,0
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,Static Strength,3,0
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,Dynamic Strength,2,0
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,Trunk Strength,2,0
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,Gross Body Coordination,1,0
+11559,Structural Iron and Steel Workers,Dismantle structures or equipment.,Stamina,1,0
+11549,Structural Iron and Steel Workers,"Ride on girders or other structural steel members to position them, or use rope to guide them into position.",Gross Body Equilibrium,3,0
+11549,Structural Iron and Steel Workers,"Ride on girders or other structural steel members to position them, or use rope to guide them into position.",Static Strength,2,0
+11549,Structural Iron and Steel Workers,"Ride on girders or other structural steel members to position them, or use rope to guide them into position.",Trunk Strength,2,0
+11549,Structural Iron and Steel Workers,"Ride on girders or other structural steel members to position them, or use rope to guide them into position.",Multilimb Coordination,2,0
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,Arm-Hand Steadiness,3,0
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,Static Strength,2,0
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,Manual Dexterity,1,0
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,Near Vision,1,0
+11563,Structural Iron and Steel Workers,Hold rivets while riveters use air hammers to form heads on rivets.,Reaction Time,1,1
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",Manual Dexterity,2,0
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",Finger Dexterity,2,0
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",Near Vision,1,0
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",Multilimb Coordination,1,0
+11560,Structural Iron and Steel Workers,"Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.",Static Strength,1,0
+11562,Structural Iron and Steel Workers,Place blocks under reinforcing bars used to reinforce floors.,Static Strength,2,0
+11562,Structural Iron and Steel Workers,Place blocks under reinforcing bars used to reinforce floors.,Trunk Strength,2,0
+11562,Structural Iron and Steel Workers,Place blocks under reinforcing bars used to reinforce floors.,Manual Dexterity,1,0
+11562,Structural Iron and Steel Workers,Place blocks under reinforcing bars used to reinforce floors.,Gross Body Coordination,1,0
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",Manual Dexterity,2,0
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",Written Comprehension,2,0
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",Multilimb Coordination,2,0
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",Near Vision,1,0
+17742,Solar Photovoltaic Installers,"Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.",Static Strength,1,0
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",Near Vision,3,0
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",Selective Attention,2,0
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",Problem Sensitivity,2,0
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",Finger Dexterity,1,0
+17746,Solar Photovoltaic Installers,"Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.",Visual Color Discrimination,1,1
+17753,Solar Photovoltaic Installers,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",Problem Sensitivity,3,0
+17753,Solar Photovoltaic Installers,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",Selective Attention,2,0
+17753,Solar Photovoltaic Installers,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",Deductive Reasoning,2,0
+17753,Solar Photovoltaic Installers,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",Near Vision,1,0
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",Spatial Orientation,2,0
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",Problem Sensitivity,2,0
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",Visualization,2,0
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",Deductive Reasoning,1,0
+17754,Solar Photovoltaic Installers,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",Far Vision,1,0
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",Manual Dexterity,2,0
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",Static Strength,2,0
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",Multilimb Coordination,2,0
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",Control Precision,1,0
+17740,Solar Photovoltaic Installers,"Assemble solar modules, panels, or support structures, as specified.",Near Vision,1,0
+17745,Solar Photovoltaic Installers,"Apply weather sealing to array, building, or support mechanisms.",Manual Dexterity,2,0
+17745,Solar Photovoltaic Installers,"Apply weather sealing to array, building, or support mechanisms.",Arm-Hand Steadiness,2,0
+17745,Solar Photovoltaic Installers,"Apply weather sealing to array, building, or support mechanisms.",Finger Dexterity,1,0
+17745,Solar Photovoltaic Installers,"Apply weather sealing to array, building, or support mechanisms.",Near Vision,1,0
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",Finger Dexterity,3,0
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",Manual Dexterity,2,0
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",Near Vision,2,0
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",Selective Attention,2,0
+17756,Solar Photovoltaic Installers,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",Arm-Hand Steadiness,1,0
+17757,Solar Photovoltaic Installers,Install required labels on solar system components and hardware.,Manual Dexterity,2,0
+17757,Solar Photovoltaic Installers,Install required labels on solar system components and hardware.,Near Vision,2,0
+17757,Solar Photovoltaic Installers,Install required labels on solar system components and hardware.,Finger Dexterity,1,0
+17757,Solar Photovoltaic Installers,Install required labels on solar system components and hardware.,Selective Attention,1,1
+17750,Solar Photovoltaic Installers,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",Visualization,3,0
+17750,Solar Photovoltaic Installers,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",Spatial Orientation,2,0
+17750,Solar Photovoltaic Installers,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",Written Expression,1,0
+17750,Solar Photovoltaic Installers,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",Information Ordering,2,0
+17765,Solar Photovoltaic Installers,"Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.",Deductive Reasoning,3,0
+17765,Solar Photovoltaic Installers,"Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.",Information Ordering,2,0
+17765,Solar Photovoltaic Installers,"Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.",Problem Sensitivity,1,0
+17765,Solar Photovoltaic Installers,"Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.",Mathematical Reasoning,1,0
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",Near Vision,2,0
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",Number Facility,2,0
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",Selective Attention,2,0
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",Control Precision,1,0
+17761,Solar Photovoltaic Installers,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",Perceptual Speed,1,0
+17747,Solar Photovoltaic Installers,"Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.",Mathematical Reasoning,2,0
+17747,Solar Photovoltaic Installers,"Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.",Deductive Reasoning,2,0
+17747,Solar Photovoltaic Installers,"Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.",Written Comprehension,2,0
+17747,Solar Photovoltaic Installers,"Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.",Number Facility,2,0
+17744,Solar Photovoltaic Installers,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,Selective Attention,2,0
+17744,Solar Photovoltaic Installers,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,Near Vision,2,0
+17744,Solar Photovoltaic Installers,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,Problem Sensitivity,2,0
+17744,Solar Photovoltaic Installers,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,Perceptual Speed,1,0
+17752,Solar Photovoltaic Installers,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,Problem Sensitivity,3,0
+17752,Solar Photovoltaic Installers,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,Deductive Reasoning,2,0
+17752,Solar Photovoltaic Installers,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,Near Vision,1,0
+17752,Solar Photovoltaic Installers,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,Manual Dexterity,1,0
+17762,Solar Photovoltaic Installers,Visually inspect and test photovoltaic (PV) modules or systems.,Near Vision,3,0
+17762,Solar Photovoltaic Installers,Visually inspect and test photovoltaic (PV) modules or systems.,Selective Attention,2,0
+17762,Solar Photovoltaic Installers,Visually inspect and test photovoltaic (PV) modules or systems.,Problem Sensitivity,1,0
+17762,Solar Photovoltaic Installers,Visually inspect and test photovoltaic (PV) modules or systems.,Perceptual Speed,1,0
+17751,Solar Photovoltaic Installers,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,Mathematical Reasoning,2,0
+17751,Solar Photovoltaic Installers,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,Written Comprehension,2,0
+17751,Solar Photovoltaic Installers,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,Deductive Reasoning,2,0
+17751,Solar Photovoltaic Installers,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,Visualization,1,0
+17764,Solar Photovoltaic Installers,"Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.",Oral Expression,2,0
+17764,Solar Photovoltaic Installers,"Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.",Information Ordering,2,0
+17764,Solar Photovoltaic Installers,"Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.",Near Vision,1,0
+17764,Solar Photovoltaic Installers,"Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.",Selective Attention,1,0
+17755,Solar Photovoltaic Installers,"Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.",Spatial Orientation,2,0
+17755,Solar Photovoltaic Installers,"Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.",Visualization,2,0
+17755,Solar Photovoltaic Installers,"Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.",Deductive Reasoning,2,0
+17755,Solar Photovoltaic Installers,"Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.",Problem Sensitivity,1,0
+17758,Solar Photovoltaic Installers,Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,Number Facility,2,0
+17758,Solar Photovoltaic Installers,Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,Mathematical Reasoning,2,0
+17758,Solar Photovoltaic Installers,Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,Near Vision,2,0
+17758,Solar Photovoltaic Installers,Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.,Deductive Reasoning,2,0
+17759,Solar Photovoltaic Installers,"Program, adjust, or configure inverters and controls for desired set points and operating modes.",Finger Dexterity,2,1
+17759,Solar Photovoltaic Installers,"Program, adjust, or configure inverters and controls for desired set points and operating modes.",Near Vision,2,0
+17759,Solar Photovoltaic Installers,"Program, adjust, or configure inverters and controls for desired set points and operating modes.",Information Ordering,2,0
+17759,Solar Photovoltaic Installers,"Program, adjust, or configure inverters and controls for desired set points and operating modes.",Deductive Reasoning,1,0
+17748,Solar Photovoltaic Installers,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,Deductive Reasoning,2,0
+17748,Solar Photovoltaic Installers,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,Written Comprehension,2,0
+17748,Solar Photovoltaic Installers,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,Visualization,2,0
+17748,Solar Photovoltaic Installers,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,Mathematical Reasoning,1,0
+17749,Solar Photovoltaic Installers,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",Deductive Reasoning,2,0
+17749,Solar Photovoltaic Installers,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",Visualization,2,0
+17749,Solar Photovoltaic Installers,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",Oral Comprehension,2,0
+17749,Solar Photovoltaic Installers,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",Problem Sensitivity,1,0
+17760,Solar Photovoltaic Installers,"Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.",Deductive Reasoning,2,0
+17760,Solar Photovoltaic Installers,"Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.",Written Comprehension,2,0
+17760,Solar Photovoltaic Installers,"Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.",Visualization,2,0
+17760,Solar Photovoltaic Installers,"Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.",Information Ordering,1,0
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",Manual Dexterity,2,0
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",Near Vision,2,0
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",Problem Sensitivity,2,0
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",Gross Body Equilibrium,1,0
+17743,Solar Photovoltaic Installers,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",Static Strength,1,0
+17763,Solar Photovoltaic Installers,"Compile or maintain records of system operation, performance, and maintenance.",Written Expression,2,0
+17763,Solar Photovoltaic Installers,"Compile or maintain records of system operation, performance, and maintenance.",Information Ordering,2,0
+17763,Solar Photovoltaic Installers,"Compile or maintain records of system operation, performance, and maintenance.",Near Vision,1,0
+17763,Solar Photovoltaic Installers,"Compile or maintain records of system operation, performance, and maintenance.",Memorization,1,0
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",Manual Dexterity,2,0
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",Static Strength,2,0
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",Multilimb Coordination,2,0
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",Near Vision,1,0
+17741,Solar Photovoltaic Installers,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",Control Precision,1,0
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",Dynamic Strength,2,0
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",Static Strength,1,0
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",Number Facility,1,0
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",Manual Dexterity,1,0
+13600,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.",Stamina,1,0
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,Static Strength,3,0
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,Multilimb Coordination,2,0
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,Gross Body Coordination,2,0
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,Trunk Strength,2,0
+13598,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",Erect scaffolding or other installation structures.,Gross Body Equilibrium,1,0
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",Manual Dexterity,2,0
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",Control Precision,2,0
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",Near Vision,2,0
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",Arm-Hand Steadiness,2,0
+13597,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Cut materials to specified sizes for installation, using power saws or tile cutters.",Static Strength,1,0
+13603,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.",Problem Sensitivity,2,0
+13603,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.",Deductive Reasoning,2,0
+13603,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.",Manual Dexterity,1,0
+13603,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.",Information Ordering,1,0
+13606,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",Static Strength,2,0
+13606,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",Dynamic Strength,2,0
+13606,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",Trunk Strength,2,0
+13606,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",Stamina,2,0
+13604,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",Manual Dexterity,2,0
+13604,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",Static Strength,2,0
+13604,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",Multilimb Coordination,1,0
+13604,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",Near Vision,1,0
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",Written Comprehension,2,0
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",Static Strength,1,0
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",Near Vision,1,0
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",Perceptual Speed,1,1
+13599,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Locate and supply materials to masons for installation, following drawings or numbered sequences.",Information Ordering,1,0
+13610,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Arrange or store materials, machines, tools, or equipment.",Static Strength,2,0
+13610,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Arrange or store materials, machines, tools, or equipment.",Manual Dexterity,1,0
+13610,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Arrange or store materials, machines, tools, or equipment.",Information Ordering,1,0
+13610,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Arrange or store materials, machines, tools, or equipment.",Near Vision,1,0
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",Manual Dexterity,2,0
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",Static Strength,1,0
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",Stamina,1,0
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",Arm-Hand Steadiness,1,0
+13605,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.",Near Vision,1,0
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",Static Strength,2,0
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",Control Precision,2,0
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",Multilimb Coordination,2,0
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",Depth Perception,1,0
+13607,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Move or position materials such as marble slabs, using cranes, hoists, or dollies.",Near Vision,1,0
+13608,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove excess grout or residue from tile or brick joints, using sponges or trowels.",Manual Dexterity,2,0
+13608,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove excess grout or residue from tile or brick joints, using sponges or trowels.",Arm-Hand Steadiness,2,0
+13608,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove excess grout or residue from tile or brick joints, using sponges or trowels.",Finger Dexterity,1,0
+13608,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove excess grout or residue from tile or brick joints, using sponges or trowels.",Near Vision,2,0
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",Manual Dexterity,3,0
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",Arm-Hand Steadiness,2,0
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",Control Precision,2,0
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",Near Vision,2,0
+13601,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply grout between joints of bricks or tiles, using grouting trowels.",Finger Dexterity,1,0
+13611,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply caulk, sealants, or other agents to installed surfaces.",Manual Dexterity,2,0
+13611,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply caulk, sealants, or other agents to installed surfaces.",Arm-Hand Steadiness,2,0
+13611,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply caulk, sealants, or other agents to installed surfaces.",Control Precision,2,0
+13611,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Apply caulk, sealants, or other agents to installed surfaces.",Near Vision,1,0
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",Static Strength,2,0
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",Manual Dexterity,2,0
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",Arm-Hand Steadiness,2,0
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",Near Vision,1,0
+13609,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.",Dynamic Strength,1,0
+13602,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.",Manual Dexterity,2,0
+13602,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.",Near Vision,2,0
+13602,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.",Arm-Hand Steadiness,2,0
+13602,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.",Control Precision,1,0
+8271,Helpers--Carpenters,"Clean work areas, machines, or equipment, to maintain a clean and safe job site.",Static Strength,1,0
+8271,Helpers--Carpenters,"Clean work areas, machines, or equipment, to maintain a clean and safe job site.",Stamina,1,0
+8271,Helpers--Carpenters,"Clean work areas, machines, or equipment, to maintain a clean and safe job site.",Manual Dexterity,1,0
+8271,Helpers--Carpenters,"Clean work areas, machines, or equipment, to maintain a clean and safe job site.",Gross Body Coordination,1,0
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",Manual Dexterity,2,0
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",Arm-Hand Steadiness,2,0
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",Static Strength,2,0
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",Control Precision,1,0
+8270,Helpers--Carpenters,"Fasten timbers or lumber with glue, screws, pegs, or nails and install hardware.",Near Vision,1,0
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",Near Vision,2,0
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",Manual Dexterity,2,0
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",Control Precision,2,0
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",Number Facility,1,0
+8276,Helpers--Carpenters,"Perform tie spacing layout and measure, mark, drill or cut.",Arm-Hand Steadiness,1,0
+8269,Helpers--Carpenters,"Select tools, equipment, or materials from storage and transport items to work site.",Static Strength,2,0
+8269,Helpers--Carpenters,"Select tools, equipment, or materials from storage and transport items to work site.",Near Vision,1,0
+8269,Helpers--Carpenters,"Select tools, equipment, or materials from storage and transport items to work site.",Information Ordering,1,0
+8269,Helpers--Carpenters,"Select tools, equipment, or materials from storage and transport items to work site.",Stamina,1,0
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,Manual Dexterity,2,0
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,Arm-Hand Steadiness,3,0
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,Static Strength,2,0
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,Near Vision,1,0
+20443,Helpers--Carpenters,Drill holes in timbers or lumber.,Control Precision,2,0
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",Manual Dexterity,2,0
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",Control Precision,2,0
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",Near Vision,2,0
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",Static Strength,2,0
+20444,Helpers--Carpenters,"Cut timbers, lumber, or paneling to specified dimensions.",Arm-Hand Steadiness,2,0
+8267,Helpers--Carpenters,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",Static Strength,3,0
+8267,Helpers--Carpenters,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",Arm-Hand Steadiness,2,0
+8267,Helpers--Carpenters,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",Multilimb Coordination,2,0
+8267,Helpers--Carpenters,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",Trunk Strength,1,0
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",Control Precision,2,0
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",Near Vision,2,0
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",Spatial Orientation,2,0
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",Static Strength,1,0
+8273,Helpers--Carpenters,"Align, straighten, plumb, or square forms for installation.",Multilimb Coordination,1,0
+8272,Helpers--Carpenters,"Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines.",Arm-Hand Steadiness,3,0
+8272,Helpers--Carpenters,"Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines.",Near Vision,2,0
+8272,Helpers--Carpenters,"Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines.",Static Strength,1,0
+8272,Helpers--Carpenters,"Hold plumb bobs, sighting rods, or other equipment to aid in establishing reference points and lines.",Selective Attention,1,0
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",Static Strength,3,0
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",Multilimb Coordination,2,0
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",Trunk Strength,2,0
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",Gross Body Coordination,2,0
+8268,Helpers--Carpenters,"Erect scaffolding, shoring, or braces.",Gross Body Equilibrium,1,0
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,Static Strength,3,0
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,Dynamic Strength,2,0
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,Trunk Strength,2,0
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,Multilimb Coordination,2,0
+8278,Helpers--Carpenters,Construct forms and assist in raising them to the required elevation.,Gross Body Coordination,1,0
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,Manual Dexterity,2,0
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,Static Strength,2,0
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,Control Precision,1,0
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,Near Vision,1,0
+8279,Helpers--Carpenters,Install handrails under the direction of a carpenter.,Oral Comprehension,1,1

@@ -1,0 +1,495 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",Deductive Reasoning,3,0
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",Spatial Orientation,2,0
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",Problem Sensitivity,2,0
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",Information Ordering,2,0
+10598,Commercial Pilots,"Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",Visualization,2,0
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",Written Expression,2,0
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",Number Facility,2,0
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",Information Ordering,2,0
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",Near Vision,2,0
+10600,Commercial Pilots,"Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.",Perceptual Speed,1,0
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",Oral Comprehension,3,0
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",Oral Expression,3,0
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",Speech Recognition,2,0
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",Speech Clarity,2,0
+10599,Commercial Pilots,"Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.",Time Sharing,2,0
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",Manual Dexterity,2,0
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",Finger Dexterity,2,0
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",Arm-Hand Steadiness,1,0
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",Near Vision,2,0
+10608,Commercial Pilots,"Perform minor aircraft maintenance and repair work, or arrange for major maintenance.",Problem Sensitivity,2,0
+10607,Commercial Pilots,Supervise other crew members.,Oral Expression,2,0
+10607,Commercial Pilots,Supervise other crew members.,Oral Comprehension,2,0
+10607,Commercial Pilots,Supervise other crew members.,Selective Attention,1,0
+10607,Commercial Pilots,Supervise other crew members.,Information Ordering,1,0
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,Oral Expression,2,0
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,Problem Sensitivity,2,0
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,Deductive Reasoning,2,0
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,Reaction Time,1,0
+10597,Commercial Pilots,Request changes in altitudes or routes as circumstances dictate.,Spatial Orientation,1,0
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,Written Expression,2,0
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,Information Ordering,2,0
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,Oral Expression,1,0
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,Number Facility,1,0
+10604,Commercial Pilots,File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.,Deductive Reasoning,1,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Static Strength,2,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Dynamic Strength,2,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Gross Body Coordination,2,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Stamina,2,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Reaction Time,2,0
+10606,Commercial Pilots,Rescue and evacuate injured persons.,Trunk Strength,1,0
+10602,Commercial Pilots,Instruct other pilots and student pilots in aircraft operations.,Oral Expression,3,0
+10602,Commercial Pilots,Instruct other pilots and student pilots in aircraft operations.,Oral Comprehension,2,0
+10602,Commercial Pilots,Instruct other pilots and student pilots in aircraft operations.,Information Ordering,2,0
+10602,Commercial Pilots,Instruct other pilots and student pilots in aircraft operations.,Written Expression,1,0
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,Selective Attention,3,0
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,Problem Sensitivity,2,0
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,Deductive Reasoning,2,0
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,Oral Expression,1,0
+10609,Commercial Pilots,Fly with other pilots or pilot-license applicants to evaluate their proficiency.,Near Vision,1,0
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,Written Expression,2,0
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,Information Ordering,2,0
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,Deductive Reasoning,2,0
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,Written Comprehension,1,0
+10610,Commercial Pilots,Plan and formulate flight activities and test schedules and prepare flight evaluation reports.,Time Sharing,1,0
+10601,Commercial Pilots,Teach company regulations and procedures to other pilots.,Oral Expression,3,0
+10601,Commercial Pilots,Teach company regulations and procedures to other pilots.,Oral Comprehension,2,0
+10601,Commercial Pilots,Teach company regulations and procedures to other pilots.,Written Comprehension,1,0
+10601,Commercial Pilots,Teach company regulations and procedures to other pilots.,Information Ordering,1,0
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",Oral Expression,3,0
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",Selective Attention,2,0
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",Problem Sensitivity,2,0
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",Speech Clarity,2,0
+12731,Air Traffic Controllers,"Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems.",Time Sharing,2,0
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,Oral Expression,3,0
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,Deductive Reasoning,2,0
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,Selective Attention,2,0
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,Reaction Time,2,0
+12728,Air Traffic Controllers,Issue landing and take-off authorizations or instructions.,Time Sharing,2,0
+12735,Air Traffic Controllers,Transfer control of departing flights to traffic control centers and accept control of arriving flights.,Oral Expression,2,0
+12735,Air Traffic Controllers,Transfer control of departing flights to traffic control centers and accept control of arriving flights.,Oral Comprehension,2,0
+12735,Air Traffic Controllers,Transfer control of departing flights to traffic control centers and accept control of arriving flights.,Information Ordering,2,0
+12735,Air Traffic Controllers,Transfer control of departing flights to traffic control centers and accept control of arriving flights.,Time Sharing,2,0
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,Deductive Reasoning,3,0
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,Problem Sensitivity,3,0
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,Oral Expression,2,0
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,Spatial Orientation,2,0
+12732,Air Traffic Controllers,Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations.,Time Sharing,2,0
+12733,Air Traffic Controllers,Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties.,Oral Expression,2,0
+12733,Air Traffic Controllers,Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties.,Reaction Time,2,0
+12733,Air Traffic Controllers,Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties.,Problem Sensitivity,2,0
+12733,Air Traffic Controllers,Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties.,Selective Attention,1,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Selective Attention,3,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Time Sharing,3,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Spatial Orientation,2,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Near Vision,2,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Reaction Time,2,0
+12729,Air Traffic Controllers,Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety.,Deductive Reasoning,2,0
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,Spatial Orientation,2,0
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,Selective Attention,2,0
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,Oral Expression,2,0
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,Deductive Reasoning,2,0
+12734,Air Traffic Controllers,Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land.,Time Sharing,2,0
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",Selective Attention,3,0
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",Near Vision,2,0
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",Perceptual Speed,2,0
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",Spatial Orientation,2,0
+12730,Air Traffic Controllers,"Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references.",Time Sharing,2,0
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",Selective Attention,2,0
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",Spatial Orientation,2,0
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",Oral Expression,2,0
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",Near Vision,1,0
+12736,Air Traffic Controllers,"Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers.",Time Sharing,1,0
+12739,Air Traffic Controllers,"Contact pilots by radio to provide meteorological, navigational, or other information.",Oral Expression,3,0
+12739,Air Traffic Controllers,"Contact pilots by radio to provide meteorological, navigational, or other information.",Speech Clarity,2,0
+12739,Air Traffic Controllers,"Contact pilots by radio to provide meteorological, navigational, or other information.",Information Ordering,1,0
+12738,Air Traffic Controllers,"Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement.",Oral Expression,2,0
+12738,Air Traffic Controllers,"Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement.",Oral Comprehension,2,0
+12738,Air Traffic Controllers,"Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement.",Time Sharing,2,0
+12738,Air Traffic Controllers,"Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement.",Information Ordering,1,0
+12737,Air Traffic Controllers,Determine the timing or procedures for flight vector changes.,Deductive Reasoning,3,0
+12737,Air Traffic Controllers,Determine the timing or procedures for flight vector changes.,Spatial Orientation,2,0
+12737,Air Traffic Controllers,Determine the timing or procedures for flight vector changes.,Mathematical Reasoning,1,0
+12737,Air Traffic Controllers,Determine the timing or procedures for flight vector changes.,Problem Sensitivity,2,0
+12740,Air Traffic Controllers,Initiate or coordinate searches for missing aircraft.,Deductive Reasoning,2,0
+12740,Air Traffic Controllers,Initiate or coordinate searches for missing aircraft.,Oral Expression,2,0
+12740,Air Traffic Controllers,Initiate or coordinate searches for missing aircraft.,Problem Sensitivity,2,0
+12740,Air Traffic Controllers,Initiate or coordinate searches for missing aircraft.,Information Ordering,1,0
+20691,Air Traffic Controllers,Provide on-the-job training to new air traffic controllers.,Oral Expression,3,0
+20691,Air Traffic Controllers,Provide on-the-job training to new air traffic controllers.,Oral Comprehension,2,0
+20691,Air Traffic Controllers,Provide on-the-job training to new air traffic controllers.,Information Ordering,1,0
+12741,Air Traffic Controllers,Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes.,Selective Attention,2,0
+12741,Air Traffic Controllers,Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes.,Deductive Reasoning,2,0
+12741,Air Traffic Controllers,Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes.,Spatial Orientation,2,0
+12741,Air Traffic Controllers,Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes.,Near Vision,1,0
+12742,Air Traffic Controllers,"Relay air traffic information, such as courses, altitudes, or expected arrival times, to control centers.",Oral Expression,2,0
+12742,Air Traffic Controllers,"Relay air traffic information, such as courses, altitudes, or expected arrival times, to control centers.",Information Ordering,2,0
+12742,Air Traffic Controllers,"Relay air traffic information, such as courses, altitudes, or expected arrival times, to control centers.",Memorization,1,0
+12744,Air Traffic Controllers,"Inspect, adjust, or control radio equipment or airport lights.",Manual Dexterity,2,0
+12744,Air Traffic Controllers,"Inspect, adjust, or control radio equipment or airport lights.",Near Vision,2,0
+12744,Air Traffic Controllers,"Inspect, adjust, or control radio equipment or airport lights.",Control Precision,1,0
+12744,Air Traffic Controllers,"Inspect, adjust, or control radio equipment or airport lights.",Finger Dexterity,1,0
+12743,Air Traffic Controllers,"Compile information about flights from flight plans, pilot reports, radar, or observations.",Information Ordering,2,0
+12743,Air Traffic Controllers,"Compile information about flights from flight plans, pilot reports, radar, or observations.",Near Vision,2,0
+12743,Air Traffic Controllers,"Compile information about flights from flight plans, pilot reports, radar, or observations.",Perceptual Speed,2,0
+12743,Air Traffic Controllers,"Compile information about flights from flight plans, pilot reports, radar, or observations.",Memorization,1,0
+12747,Air Traffic Controllers,Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace.,Information Ordering,3,0
+12747,Air Traffic Controllers,Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace.,Deductive Reasoning,2,0
+12747,Air Traffic Controllers,Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace.,Spatial Orientation,1,0
+12747,Air Traffic Controllers,Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace.,Time Sharing,1,0
+12748,Air Traffic Controllers,"Review records or reports for clarity and completeness and maintain records or reports, as required under federal law.",Written Comprehension,2,0
+12748,Air Traffic Controllers,"Review records or reports for clarity and completeness and maintain records or reports, as required under federal law.",Near Vision,2,0
+12748,Air Traffic Controllers,"Review records or reports for clarity and completeness and maintain records or reports, as required under federal law.",Information Ordering,2,0
+12748,Air Traffic Controllers,"Review records or reports for clarity and completeness and maintain records or reports, as required under federal law.",Perceptual Speed,1,0
+12749,Air Traffic Controllers,Complete daily activity reports and keep records of messages from aircraft.,Written Expression,2,0
+12749,Air Traffic Controllers,Complete daily activity reports and keep records of messages from aircraft.,Information Ordering,2,0
+12749,Air Traffic Controllers,Complete daily activity reports and keep records of messages from aircraft.,Memorization,1,0
+12749,Air Traffic Controllers,Complete daily activity reports and keep records of messages from aircraft.,Near Vision,1,0
+12745,Air Traffic Controllers,"Conduct pre-flight briefings on weather conditions, suggested routes, altitudes, indications of turbulence, or other flight safety information.",Oral Expression,3,0
+12745,Air Traffic Controllers,"Conduct pre-flight briefings on weather conditions, suggested routes, altitudes, indications of turbulence, or other flight safety information.",Information Ordering,1,0
+12745,Air Traffic Controllers,"Conduct pre-flight briefings on weather conditions, suggested routes, altitudes, indications of turbulence, or other flight safety information.",Written Comprehension,1,0
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",Inductive Reasoning,2,0
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",Deductive Reasoning,2,0
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",Mathematical Reasoning,2,0
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",Spatial Orientation,2,0
+12746,Air Traffic Controllers,"Analyze factors such as weather reports, fuel requirements, or maps to determine air routes.",Written Comprehension,1,0
+23939,Airfield Operations Specialists,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,Near Vision,2,0
+23939,Airfield Operations Specialists,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,Far Vision,2,0
+23939,Airfield Operations Specialists,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,Problem Sensitivity,2,0
+23939,Airfield Operations Specialists,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,Selective Attention,1,0
+10613,Airfield Operations Specialists,Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation.,Deductive Reasoning,2,0
+10613,Airfield Operations Specialists,Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation.,Problem Sensitivity,2,0
+10613,Airfield Operations Specialists,Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation.,Information Ordering,1,0
+10613,Airfield Operations Specialists,Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation.,Oral Expression,1,0
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,Near Vision,2,0
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,Far Vision,2,0
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,Selective Attention,2,0
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,Gross Body Coordination,1,0
+23940,Airfield Operations Specialists,Conduct inspections of the airport property and perimeter to maintain controlled access to airfields.,Stamina,1,0
+20456,Airfield Operations Specialists,Assist in responding to aircraft and medical emergencies.,Reaction Time,2,0
+20456,Airfield Operations Specialists,Assist in responding to aircraft and medical emergencies.,Stamina,2,0
+20456,Airfield Operations Specialists,Assist in responding to aircraft and medical emergencies.,Gross Body Coordination,2,0
+20456,Airfield Operations Specialists,Assist in responding to aircraft and medical emergencies.,Problem Sensitivity,2,0
+23941,Airfield Operations Specialists,Initiate or conduct airport-wide coordination of snow removal on runways and taxiways.,Deductive Reasoning,2,0
+23941,Airfield Operations Specialists,Initiate or conduct airport-wide coordination of snow removal on runways and taxiways.,Information Ordering,2,0
+23941,Airfield Operations Specialists,Initiate or conduct airport-wide coordination of snow removal on runways and taxiways.,Oral Expression,1,0
+20457,Airfield Operations Specialists,Manage wildlife on and around airport grounds.,Problem Sensitivity,2,0
+20457,Airfield Operations Specialists,Manage wildlife on and around airport grounds.,Far Vision,2,0
+20457,Airfield Operations Specialists,Manage wildlife on and around airport grounds.,Reaction Time,1,0
+20457,Airfield Operations Specialists,Manage wildlife on and around airport grounds.,Gross Body Coordination,1,0
+10621,Airfield Operations Specialists,Coordinate communications between air traffic control and maintenance personnel.,Oral Expression,2,0
+10621,Airfield Operations Specialists,Coordinate communications between air traffic control and maintenance personnel.,Oral Comprehension,2,0
+10621,Airfield Operations Specialists,Coordinate communications between air traffic control and maintenance personnel.,Information Ordering,1,0
+10622,Airfield Operations Specialists,"Perform and supervise airfield management activities, including mobile airfield management functions.",Deductive Reasoning,2,0
+10622,Airfield Operations Specialists,"Perform and supervise airfield management activities, including mobile airfield management functions.",Information Ordering,2,0
+10622,Airfield Operations Specialists,"Perform and supervise airfield management activities, including mobile airfield management functions.",Oral Expression,1,0
+10614,Airfield Operations Specialists,Plan and coordinate airfield construction.,Deductive Reasoning,2,0
+10614,Airfield Operations Specialists,Plan and coordinate airfield construction.,Information Ordering,2,0
+10614,Airfield Operations Specialists,Plan and coordinate airfield construction.,Written Comprehension,1,0
+10614,Airfield Operations Specialists,Plan and coordinate airfield construction.,Spatial Orientation,1,0
+10616,Airfield Operations Specialists,"Monitor the arrival, parking, refueling, loading, and departure of all aircraft.",Selective Attention,2,0
+10616,Airfield Operations Specialists,"Monitor the arrival, parking, refueling, loading, and departure of all aircraft.",Near Vision,2,0
+10616,Airfield Operations Specialists,"Monitor the arrival, parking, refueling, loading, and departure of all aircraft.",Spatial Orientation,1,0
+10616,Airfield Operations Specialists,"Monitor the arrival, parking, refueling, loading, and departure of all aircraft.",Time Sharing,2,0
+10618,Airfield Operations Specialists,Train operations staff.,Oral Expression,3,0
+10618,Airfield Operations Specialists,Train operations staff.,Oral Comprehension,2,0
+10618,Airfield Operations Specialists,Train operations staff.,Information Ordering,1,0
+10615,Airfield Operations Specialists,"Coordinate with agencies, such as air traffic control, civil engineers, or command posts, to ensure support of airfield management activities.",Oral Expression,2,0
+10615,Airfield Operations Specialists,"Coordinate with agencies, such as air traffic control, civil engineers, or command posts, to ensure support of airfield management activities.",Oral Comprehension,2,0
+10615,Airfield Operations Specialists,"Coordinate with agencies, such as air traffic control, civil engineers, or command posts, to ensure support of airfield management activities.",Information Ordering,1,0
+10619,Airfield Operations Specialists,"Relay departure, arrival, delay, aircraft and airfield status, and other pertinent information to upline controlling agencies.",Oral Expression,2,0
+10619,Airfield Operations Specialists,"Relay departure, arrival, delay, aircraft and airfield status, and other pertinent information to upline controlling agencies.",Information Ordering,2,0
+10619,Airfield Operations Specialists,"Relay departure, arrival, delay, aircraft and airfield status, and other pertinent information to upline controlling agencies.",Written Expression,1,0
+10630,Airfield Operations Specialists,Provide aircrews with information and services needed for airfield management and flight planning.,Oral Expression,2,0
+10630,Airfield Operations Specialists,Provide aircrews with information and services needed for airfield management and flight planning.,Oral Comprehension,2,0
+10630,Airfield Operations Specialists,Provide aircrews with information and services needed for airfield management and flight planning.,Information Ordering,1,0
+10626,Airfield Operations Specialists,"Coordinate with agencies to meet aircrew requirements for billeting, messing, refueling, ground transportation, and transient aircraft maintenance.",Oral Expression,2,0
+10626,Airfield Operations Specialists,"Coordinate with agencies to meet aircrew requirements for billeting, messing, refueling, ground transportation, and transient aircraft maintenance.",Information Ordering,2,0
+10626,Airfield Operations Specialists,"Coordinate with agencies to meet aircrew requirements for billeting, messing, refueling, ground transportation, and transient aircraft maintenance.",Oral Comprehension,1,0
+10632,Airfield Operations Specialists,Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties.,Near Vision,2,0
+10632,Airfield Operations Specialists,Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties.,Manual Dexterity,1,0
+10632,Airfield Operations Specialists,Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties.,Selective Attention,2,0
+10632,Airfield Operations Specialists,Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties.,Perceptual Speed,1,0
+10623,Airfield Operations Specialists,"Receive, transmit, and control message traffic.",Oral Comprehension,2,0
+10623,Airfield Operations Specialists,"Receive, transmit, and control message traffic.",Oral Expression,2,0
+10623,Airfield Operations Specialists,"Receive, transmit, and control message traffic.",Perceptual Speed,1,0
+10623,Airfield Operations Specialists,"Receive, transmit, and control message traffic.",Selective Attention,1,0
+10617,Airfield Operations Specialists,Maintain air-to-ground and point-to-point radio contact with aircraft commanders.,Oral Expression,2,0
+10617,Airfield Operations Specialists,Maintain air-to-ground and point-to-point radio contact with aircraft commanders.,Oral Comprehension,2,0
+10617,Airfield Operations Specialists,Maintain air-to-ground and point-to-point radio contact with aircraft commanders.,Speech Clarity,1,0
+10617,Airfield Operations Specialists,Maintain air-to-ground and point-to-point radio contact with aircraft commanders.,Speech Recognition,1,0
+10620,Airfield Operations Specialists,"Procure, produce, and provide information on the safe operation of aircraft, such as flight planning publications, operations publications, charts and maps, or weather information.",Written Expression,2,0
+10620,Airfield Operations Specialists,"Procure, produce, and provide information on the safe operation of aircraft, such as flight planning publications, operations publications, charts and maps, or weather information.",Written Comprehension,2,0
+10620,Airfield Operations Specialists,"Procure, produce, and provide information on the safe operation of aircraft, such as flight planning publications, operations publications, charts and maps, or weather information.",Information Ordering,2,0
+10629,Airfield Operations Specialists,Anticipate aircraft equipment needs for air evacuation and cargo flights.,Deductive Reasoning,2,0
+10629,Airfield Operations Specialists,Anticipate aircraft equipment needs for air evacuation and cargo flights.,Problem Sensitivity,2,0
+10629,Airfield Operations Specialists,Anticipate aircraft equipment needs for air evacuation and cargo flights.,Information Ordering,1,0
+10633,Airfield Operations Specialists,Post visual display boards and status boards.,Near Vision,2,0
+10633,Airfield Operations Specialists,Post visual display boards and status boards.,Information Ordering,1,0
+10633,Airfield Operations Specialists,Post visual display boards and status boards.,Perceptual Speed,1,0
+10633,Airfield Operations Specialists,Post visual display boards and status boards.,Manual Dexterity,1,0
+10624,Airfield Operations Specialists,"Receive and post weather information and flight plan data, such as air routes or arrival and departure times.",Near Vision,2,0
+10624,Airfield Operations Specialists,"Receive and post weather information and flight plan data, such as air routes or arrival and departure times.",Information Ordering,2,0
+10624,Airfield Operations Specialists,"Receive and post weather information and flight plan data, such as air routes or arrival and departure times.",Perceptual Speed,1,0
+10624,Airfield Operations Specialists,"Receive and post weather information and flight plan data, such as air routes or arrival and departure times.",Memorization,1,0
+10631,Airfield Operations Specialists,Conduct departure and arrival briefings.,Oral Expression,3,0
+10631,Airfield Operations Specialists,Conduct departure and arrival briefings.,Information Ordering,1,0
+10631,Airfield Operations Specialists,Conduct departure and arrival briefings.,Oral Comprehension,1,0
+10627,Airfield Operations Specialists,Collaborate with others to plan flight schedules and air crew assignments.,Oral Expression,2,0
+10627,Airfield Operations Specialists,Collaborate with others to plan flight schedules and air crew assignments.,Deductive Reasoning,2,0
+10627,Airfield Operations Specialists,Collaborate with others to plan flight schedules and air crew assignments.,Information Ordering,2,0
+10627,Airfield Operations Specialists,Collaborate with others to plan flight schedules and air crew assignments.,Oral Comprehension,1,0
+10625,Airfield Operations Specialists,"Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights.",Written Expression,2,0
+10625,Airfield Operations Specialists,"Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights.",Information Ordering,2,0
+10625,Airfield Operations Specialists,"Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights.",Near Vision,1,0
+10625,Airfield Operations Specialists,"Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights.",Memorization,1,0
+10628,Airfield Operations Specialists,Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies.,Oral Expression,2,0
+10628,Airfield Operations Specialists,Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies.,Information Ordering,2,0
+10628,Airfield Operations Specialists,Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies.,Oral Comprehension,1,0
+10634,Airfield Operations Specialists,Check military flight plans with civilian agencies.,Written Comprehension,2,0
+10634,Airfield Operations Specialists,Check military flight plans with civilian agencies.,Near Vision,1,0
+10634,Airfield Operations Specialists,Check military flight plans with civilian agencies.,Deductive Reasoning,1,0
+10634,Airfield Operations Specialists,Check military flight plans with civilian agencies.,Oral Expression,1,0
+9639,Flight Attendants,"Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.",Near Vision,2,0
+9639,Flight Attendants,"Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.",Perceptual Speed,1,0
+9639,Flight Attendants,"Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.",Manual Dexterity,1,0
+9639,Flight Attendants,"Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.",Problem Sensitivity,1,0
+9637,Flight Attendants,"Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.",Oral Expression,3,0
+9637,Flight Attendants,"Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.",Manual Dexterity,1,0
+9637,Flight Attendants,"Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.",Gross Body Coordination,1,0
+9637,Flight Attendants,"Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.",Speech Clarity,2,0
+23942,Flight Attendants,Monitor passenger behavior to identify threats to the safety of the crew and other passengers.,Selective Attention,3,0
+23942,Flight Attendants,Monitor passenger behavior to identify threats to the safety of the crew and other passengers.,Problem Sensitivity,2,0
+23942,Flight Attendants,Monitor passenger behavior to identify threats to the safety of the crew and other passengers.,Near Vision,1,0
+9638,Flight Attendants,Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.,Near Vision,2,0
+9638,Flight Attendants,Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.,Selective Attention,2,0
+9638,Flight Attendants,Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.,Gross Body Equilibrium,1,0
+9638,Flight Attendants,Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.,Gross Body Coordination,1,0
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",Oral Expression,2,0
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",Reaction Time,2,0
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",Gross Body Coordination,2,0
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",Stamina,2,0
+9636,Flight Attendants,"Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.",Dynamic Strength,1,0
+9642,Flight Attendants,"Prepare passengers and aircraft for landing, following procedures.",Information Ordering,1,0
+9642,Flight Attendants,"Prepare passengers and aircraft for landing, following procedures.",Selective Attention,2,0
+9642,Flight Attendants,"Prepare passengers and aircraft for landing, following procedures.",Oral Expression,1,0
+9642,Flight Attendants,"Prepare passengers and aircraft for landing, following procedures.",Near Vision,1,0
+9640,Flight Attendants,Administer first aid to passengers in distress.,Manual Dexterity,2,0
+9640,Flight Attendants,Administer first aid to passengers in distress.,Problem Sensitivity,2,0
+9640,Flight Attendants,Administer first aid to passengers in distress.,Near Vision,1,0
+9640,Flight Attendants,Administer first aid to passengers in distress.,Reaction Time,1,0
+9643,Flight Attendants,"Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities.",Problem Sensitivity,2,0
+9643,Flight Attendants,"Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities.",Oral Comprehension,1,0
+9643,Flight Attendants,"Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities.",Near Vision,1,0
+9641,Flight Attendants,"Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers.",Oral Comprehension,3,0
+9641,Flight Attendants,"Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers.",Memorization,2,0
+9641,Flight Attendants,"Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers.",Selective Attention,1,0
+9645,Flight Attendants,"Reassure passengers when situations, such as turbulence, are encountered.",Oral Expression,2,0
+9645,Flight Attendants,"Reassure passengers when situations, such as turbulence, are encountered.",Speech Clarity,1,0
+9645,Flight Attendants,"Reassure passengers when situations, such as turbulence, are encountered.",Speech Recognition,1,0
+9644,Flight Attendants,"Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply.",Near Vision,2,0
+9644,Flight Attendants,"Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply.",Perceptual Speed,1,0
+9644,Flight Attendants,"Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply.",Information Ordering,1,0
+9656,Flight Attendants,"Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers.",Written Expression,2,0
+9656,Flight Attendants,"Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers.",Number Facility,1,0
+9656,Flight Attendants,"Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers.",Information Ordering,2,0
+9646,Flight Attendants,Announce flight delays and descent preparations.,Oral Expression,2,0
+9646,Flight Attendants,Announce flight delays and descent preparations.,Speech Clarity,1,0
+9646,Flight Attendants,Announce flight delays and descent preparations.,Information Ordering,1,0
+9651,Flight Attendants,Greet passengers boarding aircraft and direct them to assigned seats.,Oral Expression,2,0
+9651,Flight Attendants,Greet passengers boarding aircraft and direct them to assigned seats.,Near Vision,1,0
+9651,Flight Attendants,Greet passengers boarding aircraft and direct them to assigned seats.,Oral Comprehension,1,0
+9649,Flight Attendants,Assist passengers entering or disembarking the aircraft.,Manual Dexterity,1,0
+9649,Flight Attendants,Assist passengers entering or disembarking the aircraft.,Gross Body Coordination,1,0
+9649,Flight Attendants,Assist passengers entering or disembarking the aircraft.,Static Strength,1,0
+9652,Flight Attendants,"Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.",Gross Body Coordination,1,0
+9652,Flight Attendants,"Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.",Manual Dexterity,1,0
+9652,Flight Attendants,"Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.",Near Vision,1,0
+9652,Flight Attendants,"Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.",Selective Attention,1,0
+9650,Flight Attendants,"Inspect and clean cabins, checking for any problems and making sure that cabins are in order.",Near Vision,2,0
+9650,Flight Attendants,"Inspect and clean cabins, checking for any problems and making sure that cabins are in order.",Manual Dexterity,1,0
+9650,Flight Attendants,"Inspect and clean cabins, checking for any problems and making sure that cabins are in order.",Perceptual Speed,1,0
+9654,Flight Attendants,Operate audio and video systems.,Manual Dexterity,1,0
+9654,Flight Attendants,Operate audio and video systems.,Near Vision,1,0
+9654,Flight Attendants,Operate audio and video systems.,Control Precision,1,0
+9648,Flight Attendants,"Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.",Oral Comprehension,2,0
+9648,Flight Attendants,"Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.",Oral Expression,2,0
+9648,Flight Attendants,"Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.",Memorization,1,0
+9657,Flight Attendants,Collect money for meals and beverages.,Number Facility,2,0
+9657,Flight Attendants,Collect money for meals and beverages.,Manual Dexterity,1,0
+9657,Flight Attendants,Collect money for meals and beverages.,Near Vision,1,0
+9658,Flight Attendants,Heat and serve prepared foods.,Manual Dexterity,2,0
+9658,Flight Attendants,Heat and serve prepared foods.,Near Vision,1,0
+9658,Flight Attendants,Heat and serve prepared foods.,Gross Body Coordination,1,0
+9647,Flight Attendants,Inspect passenger tickets to verify information and to obtain destination information.,Near Vision,2,0
+9647,Flight Attendants,Inspect passenger tickets to verify information and to obtain destination information.,Perceptual Speed,2,0
+9647,Flight Attendants,Inspect passenger tickets to verify information and to obtain destination information.,Information Ordering,1,0
+9655,Flight Attendants,"Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.",Static Strength,2,0
+9655,Flight Attendants,"Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.",Dynamic Strength,1,0
+9655,Flight Attendants,"Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.",Manual Dexterity,1,0
+9655,Flight Attendants,"Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.",Extent Flexibility,1,0
+9653,Flight Attendants,"Take inventory of headsets, alcoholic beverages, and money collected.",Number Facility,2,0
+9653,Flight Attendants,"Take inventory of headsets, alcoholic beverages, and money collected.",Perceptual Speed,1,0
+9653,Flight Attendants,"Take inventory of headsets, alcoholic beverages, and money collected.",Near Vision,1,0
+9659,Flight Attendants,Sell alcoholic beverages to passengers.,Number Facility,1,0
+9659,Flight Attendants,Sell alcoholic beverages to passengers.,Manual Dexterity,1,0
+9659,Flight Attendants,Sell alcoholic beverages to passengers.,Oral Expression,1,0
+8607,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Remove and replace soiled linens or equipment to maintain sanitary conditions.,Manual Dexterity,1,0
+8607,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Remove and replace soiled linens or equipment to maintain sanitary conditions.,Gross Body Coordination,1,0
+8607,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Remove and replace soiled linens or equipment to maintain sanitary conditions.,Static Strength,1,0
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",Control Precision,2,0
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",Reaction Time,2,0
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",Multilimb Coordination,2,0
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",Near Vision,1,0
+8606,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",Far Vision,1,0
+8612,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials.,Oral Expression,2,0
+8612,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials.,Memorization,1,0
+8612,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials.,Information Ordering,1,0
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",Static Strength,3,0
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",Dynamic Strength,2,0
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",Trunk Strength,2,0
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",Multilimb Coordination,2,0
+8608,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants.",Gross Body Coordination,1,0
+8609,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Accompany and assist emergency medical technicians on calls.,Problem Sensitivity,1,0
+8609,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Accompany and assist emergency medical technicians on calls.,Manual Dexterity,1,0
+8609,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Accompany and assist emergency medical technicians on calls.,Reaction Time,1,0
+8611,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Replace supplies and disposable items on ambulances.,Manual Dexterity,1,0
+8611,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Replace supplies and disposable items on ambulances.,Near Vision,1,0
+8611,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Replace supplies and disposable items on ambulances.,Information Ordering,1,0
+21028,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Perform minor maintenance on emergency medical services vehicles, such as ambulances.",Manual Dexterity,2,0
+21028,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Perform minor maintenance on emergency medical services vehicles, such as ambulances.",Finger Dexterity,1,0
+21028,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Perform minor maintenance on emergency medical services vehicles, such as ambulances.",Near Vision,1,0
+21028,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Perform minor maintenance on emergency medical services vehicles, such as ambulances.",Static Strength,1,0
+21029,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Clean and wash rigs, ambulances, or equipment.",Gross Body Coordination,1,0
+21029,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Clean and wash rigs, ambulances, or equipment.",Static Strength,1,0
+21029,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Clean and wash rigs, ambulances, or equipment.",Stamina,1,0
+8610,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Earn and maintain appropriate certifications.,Written Comprehension,2,1
+8610,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Earn and maintain appropriate certifications.,Memorization,2,1
+8610,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Earn and maintain appropriate certifications.,Oral Comprehension,1,1
+8613,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Administer first aid, such as bandaging, splinting, or administering oxygen.",Manual Dexterity,2,0
+8613,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Administer first aid, such as bandaging, splinting, or administering oxygen.",Finger Dexterity,2,0
+8613,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Administer first aid, such as bandaging, splinting, or administering oxygen.",Arm-Hand Steadiness,2,0
+8613,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Administer first aid, such as bandaging, splinting, or administering oxygen.",Problem Sensitivity,1,0
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,Static Strength,3,0
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,Dynamic Strength,2,0
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,Gross Body Coordination,2,0
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,Reaction Time,2,0
+8614,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Restrain or shackle violent patients.,Trunk Strength,1,0
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",Control Precision,2,0
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",Multilimb Coordination,2,0
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",Reaction Time,2,0
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",Near Vision,1,0
+3158,Driver/Sales Workers,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",Far Vision,1,0
+3156,Driver/Sales Workers,Inform regular customers of new products or services and price changes.,Oral Expression,2,0
+3156,Driver/Sales Workers,Inform regular customers of new products or services and price changes.,Memorization,1,0
+3156,Driver/Sales Workers,Inform regular customers of new products or services and price changes.,Oral Comprehension,1,0
+3161,Driver/Sales Workers,Record sales or delivery information on daily sales or delivery record.,Written Expression,1,0
+3161,Driver/Sales Workers,Record sales or delivery information on daily sales or delivery record.,Number Facility,2,0
+3161,Driver/Sales Workers,Record sales or delivery information on daily sales or delivery record.,Information Ordering,1,0
+3155,Driver/Sales Workers,Listen to and resolve customers' complaints regarding products or services.,Oral Comprehension,2,0
+3155,Driver/Sales Workers,Listen to and resolve customers' complaints regarding products or services.,Oral Expression,2,0
+3155,Driver/Sales Workers,Listen to and resolve customers' complaints regarding products or services.,Problem Sensitivity,2,0
+3154,Driver/Sales Workers,"Collect money from customers, make change, and record transactions on customer receipts.",Number Facility,3,0
+3154,Driver/Sales Workers,"Collect money from customers, make change, and record transactions on customer receipts.",Manual Dexterity,1,0
+3154,Driver/Sales Workers,"Collect money from customers, make change, and record transactions on customer receipts.",Near Vision,1,0
+3164,Driver/Sales Workers,Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages.,Manual Dexterity,2,0
+3164,Driver/Sales Workers,Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages.,Finger Dexterity,1,0
+3164,Driver/Sales Workers,Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages.,Near Vision,1,0
+3164,Driver/Sales Workers,Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages.,Static Strength,1,0
+3163,Driver/Sales Workers,Arrange merchandise and sales promotion displays or issue sales promotion materials to customers.,Manual Dexterity,1,0
+3163,Driver/Sales Workers,Arrange merchandise and sales promotion displays or issue sales promotion materials to customers.,Near Vision,1,0
+3163,Driver/Sales Workers,Arrange merchandise and sales promotion displays or issue sales promotion materials to customers.,Gross Body Coordination,1,0
+3159,Driver/Sales Workers,"Collect coins from vending machines, refill machines, and remove aged merchandise.",Manual Dexterity,2,0
+3159,Driver/Sales Workers,"Collect coins from vending machines, refill machines, and remove aged merchandise.",Number Facility,1,0
+3159,Driver/Sales Workers,"Collect coins from vending machines, refill machines, and remove aged merchandise.",Static Strength,1,0
+3159,Driver/Sales Workers,"Collect coins from vending machines, refill machines, and remove aged merchandise.",Finger Dexterity,1,0
+3157,Driver/Sales Workers,Write customer orders and sales contracts according to company guidelines.,Written Expression,2,0
+3157,Driver/Sales Workers,Write customer orders and sales contracts according to company guidelines.,Number Facility,1,0
+3157,Driver/Sales Workers,Write customer orders and sales contracts according to company guidelines.,Information Ordering,1,0
+3162,Driver/Sales Workers,"Review lists of dealers, customers, or station drops and load trucks.",Information Ordering,2,0
+3162,Driver/Sales Workers,"Review lists of dealers, customers, or station drops and load trucks.",Static Strength,2,0
+3162,Driver/Sales Workers,"Review lists of dealers, customers, or station drops and load trucks.",Dynamic Strength,1,0
+3162,Driver/Sales Workers,"Review lists of dealers, customers, or station drops and load trucks.",Near Vision,1,0
+3165,Driver/Sales Workers,"Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events.",Oral Expression,1,0
+3165,Driver/Sales Workers,"Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events.",Number Facility,1,0
+3165,Driver/Sales Workers,"Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events.",Manual Dexterity,1,0
+20693,Heavy and Tractor-Trailer Truck Drivers,Check all load-related documentation for completeness and accuracy.,Near Vision,2,0
+20693,Heavy and Tractor-Trailer Truck Drivers,Check all load-related documentation for completeness and accuracy.,Perceptual Speed,2,0
+20693,Heavy and Tractor-Trailer Truck Drivers,Check all load-related documentation for completeness and accuracy.,Written Comprehension,1,0
+20692,Heavy and Tractor-Trailer Truck Drivers,Inspect loads to ensure that cargo is secure.,Near Vision,2,0
+20692,Heavy and Tractor-Trailer Truck Drivers,Inspect loads to ensure that cargo is secure.,Problem Sensitivity,2,0
+20692,Heavy and Tractor-Trailer Truck Drivers,Inspect loads to ensure that cargo is secure.,Manual Dexterity,1,0
+10636,Heavy and Tractor-Trailer Truck Drivers,"Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order.",Near Vision,2,0
+10636,Heavy and Tractor-Trailer Truck Drivers,"Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order.",Problem Sensitivity,2,0
+10636,Heavy and Tractor-Trailer Truck Drivers,"Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order.",Manual Dexterity,1,0
+10651,Heavy and Tractor-Trailer Truck Drivers,Crank trailer landing gear up or down to safely secure vehicles.,Static Strength,3,0
+10651,Heavy and Tractor-Trailer Truck Drivers,Crank trailer landing gear up or down to safely secure vehicles.,Dynamic Strength,2,0
+10651,Heavy and Tractor-Trailer Truck Drivers,Crank trailer landing gear up or down to safely secure vehicles.,Arm-Hand Steadiness,1,0
+10651,Heavy and Tractor-Trailer Truck Drivers,Crank trailer landing gear up or down to safely secure vehicles.,Multilimb Coordination,1,0
+10638,Heavy and Tractor-Trailer Truck Drivers,Obtain receipts or signatures for delivered goods and collect payment for services when required.,Near Vision,1,0
+10638,Heavy and Tractor-Trailer Truck Drivers,Obtain receipts or signatures for delivered goods and collect payment for services when required.,Number Facility,1,0
+10638,Heavy and Tractor-Trailer Truck Drivers,Obtain receipts or signatures for delivered goods and collect payment for services when required.,Oral Expression,1,0
+10637,Heavy and Tractor-Trailer Truck Drivers,"Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations.",Written Expression,2,0
+10637,Heavy and Tractor-Trailer Truck Drivers,"Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations.",Information Ordering,2,0
+10637,Heavy and Tractor-Trailer Truck Drivers,"Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations.",Number Facility,1,0
+10643,Heavy and Tractor-Trailer Truck Drivers,Read bills of lading to determine assignment details.,Near Vision,2,0
+10643,Heavy and Tractor-Trailer Truck Drivers,Read bills of lading to determine assignment details.,Written Comprehension,2,0
+10643,Heavy and Tractor-Trailer Truck Drivers,Read bills of lading to determine assignment details.,Information Ordering,1,0
+10644,Heavy and Tractor-Trailer Truck Drivers,"Report vehicle defects, accidents, traffic violations, or damage to the vehicles.",Written Expression,1,0
+10644,Heavy and Tractor-Trailer Truck Drivers,"Report vehicle defects, accidents, traffic violations, or damage to the vehicles.",Oral Expression,1,0
+10644,Heavy and Tractor-Trailer Truck Drivers,"Report vehicle defects, accidents, traffic violations, or damage to the vehicles.",Problem Sensitivity,1,0
+10653,Heavy and Tractor-Trailer Truck Drivers,"Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.",Manual Dexterity,2,0
+10653,Heavy and Tractor-Trailer Truck Drivers,"Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.",Static Strength,1,0
+10653,Heavy and Tractor-Trailer Truck Drivers,"Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.",Finger Dexterity,1,0
+10653,Heavy and Tractor-Trailer Truck Drivers,"Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.",Near Vision,1,0
+10646,Heavy and Tractor-Trailer Truck Drivers,"Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.",Manual Dexterity,2,0
+10646,Heavy and Tractor-Trailer Truck Drivers,"Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.",Static Strength,2,0
+10646,Heavy and Tractor-Trailer Truck Drivers,"Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.",Multilimb Coordination,2,0
+10646,Heavy and Tractor-Trailer Truck Drivers,"Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.",Arm-Hand Steadiness,1,0
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",Control Precision,3,0
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",Depth Perception,2,0
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",Multilimb Coordination,2,0
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",Spatial Orientation,2,0
+10640,Heavy and Tractor-Trailer Truck Drivers,"Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.",Rate Control,2,0
+10647,Heavy and Tractor-Trailer Truck Drivers,"Collect delivery instructions from appropriate sources, verifying instructions and routes.",Oral Comprehension,2,0
+10647,Heavy and Tractor-Trailer Truck Drivers,"Collect delivery instructions from appropriate sources, verifying instructions and routes.",Written Comprehension,1,0
+10647,Heavy and Tractor-Trailer Truck Drivers,"Collect delivery instructions from appropriate sources, verifying instructions and routes.",Information Ordering,1,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Control Precision,3,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Multilimb Coordination,3,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Reaction Time,2,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Far Vision,2,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Rate Control,2,0
+10641,Heavy and Tractor-Trailer Truck Drivers,"Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",Stamina,2,0
+10645,Heavy and Tractor-Trailer Truck Drivers,Read and interpret maps to determine vehicle routes.,Spatial Orientation,3,0
+10645,Heavy and Tractor-Trailer Truck Drivers,Read and interpret maps to determine vehicle routes.,Visualization,2,0
+10645,Heavy and Tractor-Trailer Truck Drivers,Read and interpret maps to determine vehicle routes.,Near Vision,1,0
+10650,Heavy and Tractor-Trailer Truck Drivers,Check conditions of trailers after contents have been unloaded to ensure that there has been no damage.,Near Vision,2,0
+10650,Heavy and Tractor-Trailer Truck Drivers,Check conditions of trailers after contents have been unloaded to ensure that there has been no damage.,Problem Sensitivity,1,0
+10650,Heavy and Tractor-Trailer Truck Drivers,Check conditions of trailers after contents have been unloaded to ensure that there has been no damage.,Information Ordering,1,0
+20695,Heavy and Tractor-Trailer Truck Drivers,"Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.",Manual Dexterity,1,0
+20695,Heavy and Tractor-Trailer Truck Drivers,"Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.",Near Vision,1,0
+20695,Heavy and Tractor-Trailer Truck Drivers,"Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.",Oral Expression,1,0
+20695,Heavy and Tractor-Trailer Truck Drivers,"Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.",Selective Attention,1,0
+20694,Heavy and Tractor-Trailer Truck Drivers,Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.,Control Precision,2,0
+20694,Heavy and Tractor-Trailer Truck Drivers,Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.,Multilimb Coordination,2,0
+20694,Heavy and Tractor-Trailer Truck Drivers,Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.,Reaction Time,1,0
+20694,Heavy and Tractor-Trailer Truck Drivers,Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.,Far Vision,1,0
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",Static Strength,3,0
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",Dynamic Strength,2,0
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",Trunk Strength,2,0
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",Multilimb Coordination,1,0
+20696,Heavy and Tractor-Trailer Truck Drivers,"Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.",Gross Body Coordination,1,0
+19923,Heavy and Tractor-Trailer Truck Drivers,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.",Deductive Reasoning,2,0
+19923,Heavy and Tractor-Trailer Truck Drivers,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.",Spatial Orientation,2,0
+19923,Heavy and Tractor-Trailer Truck Drivers,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.",Near Vision,1,0
+19923,Heavy and Tractor-Trailer Truck Drivers,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.",Information Ordering,1,0
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",Static Strength,2,0
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",Manual Dexterity,2,0
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",Finger Dexterity,1,0
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",Arm-Hand Steadiness,1,0
+10662,Heavy and Tractor-Trailer Truck Drivers,"Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.",Dynamic Strength,1,0
+10656,Heavy and Tractor-Trailer Truck Drivers,Remove debris from loaded trailers.,Static Strength,2,0
+10656,Heavy and Tractor-Trailer Truck Drivers,Remove debris from loaded trailers.,Dynamic Strength,1,0
+10656,Heavy and Tractor-Trailer Truck Drivers,Remove debris from loaded trailers.,Trunk Strength,1,0
+10656,Heavy and Tractor-Trailer Truck Drivers,Remove debris from loaded trailers.,Gross Body Coordination,1,0

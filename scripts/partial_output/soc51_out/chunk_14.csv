@@ -1,0 +1,446 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+12580,Semiconductor Processing Technicians,"Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.",Finger Dexterity,3,0
+12580,Semiconductor Processing Technicians,"Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.",Arm-Hand Steadiness,3,0
+12580,Semiconductor Processing Technicians,"Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.",Manual Dexterity,2,0
+12580,Semiconductor Processing Technicians,"Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.",Near Vision,2,0
+12580,Semiconductor Processing Technicians,"Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.",Control Precision,2,0
+12581,Semiconductor Processing Technicians,"Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.",Control Precision,3,0
+12581,Semiconductor Processing Technicians,"Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.",Near Vision,2,0
+12581,Semiconductor Processing Technicians,"Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.",Information Ordering,2,0
+12581,Semiconductor Processing Technicians,"Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.",Number Facility,2,0
+12581,Semiconductor Processing Technicians,"Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.",Rate Control,2,0
+12582,Semiconductor Processing Technicians,"Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.",Control Precision,3,0
+12582,Semiconductor Processing Technicians,"Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.",Manual Dexterity,2,0
+12582,Semiconductor Processing Technicians,"Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.",Arm-Hand Steadiness,2,0
+12582,Semiconductor Processing Technicians,"Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.",Near Vision,2,0
+12582,Semiconductor Processing Technicians,"Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.",Multilimb Coordination,2,0
+12583,Semiconductor Processing Technicians,Load semiconductor material into furnace.,Manual Dexterity,2,0
+12583,Semiconductor Processing Technicians,Load semiconductor material into furnace.,Arm-Hand Steadiness,2,0
+12583,Semiconductor Processing Technicians,Load semiconductor material into furnace.,Near Vision,1,0
+12583,Semiconductor Processing Technicians,Load semiconductor material into furnace.,Control Precision,1,0
+12584,Semiconductor Processing Technicians,"Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.",Near Vision,2,0
+12584,Semiconductor Processing Technicians,"Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.",Selective Attention,3,0
+12584,Semiconductor Processing Technicians,"Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.",Control Precision,2,0
+12584,Semiconductor Processing Technicians,"Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.",Information Ordering,1,0
+12584,Semiconductor Processing Technicians,"Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.",Deductive Reasoning,1,0
+12585,Semiconductor Processing Technicians,"Count, sort, and weigh processed items.",Number Facility,3,0
+12585,Semiconductor Processing Technicians,"Count, sort, and weigh processed items.",Near Vision,2,0
+12585,Semiconductor Processing Technicians,"Count, sort, and weigh processed items.",Perceptual Speed,2,0
+12585,Semiconductor Processing Technicians,"Count, sort, and weigh processed items.",Manual Dexterity,1,0
+12586,Semiconductor Processing Technicians,Calculate etching time based on thickness of material to be removed from wafers or crystals.,Mathematical Reasoning,3,0
+12586,Semiconductor Processing Technicians,Calculate etching time based on thickness of material to be removed from wafers or crystals.,Number Facility,3,0
+12586,Semiconductor Processing Technicians,Calculate etching time based on thickness of material to be removed from wafers or crystals.,Deductive Reasoning,2,0
+12587,Semiconductor Processing Technicians,"Inspect equipment for leaks, diagnose malfunctions, and request repairs.",Problem Sensitivity,3,0
+12587,Semiconductor Processing Technicians,"Inspect equipment for leaks, diagnose malfunctions, and request repairs.",Near Vision,2,0
+12587,Semiconductor Processing Technicians,"Inspect equipment for leaks, diagnose malfunctions, and request repairs.",Deductive Reasoning,2,0
+12587,Semiconductor Processing Technicians,"Inspect equipment for leaks, diagnose malfunctions, and request repairs.",Oral Expression,1,0
+12588,Semiconductor Processing Technicians,"Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.",Near Vision,3,0
+12588,Semiconductor Processing Technicians,"Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.",Control Precision,3,0
+12588,Semiconductor Processing Technicians,"Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.",Arm-Hand Steadiness,2,0
+12588,Semiconductor Processing Technicians,"Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.",Visualization,2,0
+12588,Semiconductor Processing Technicians,"Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.",Manual Dexterity,2,0
+12589,Semiconductor Processing Technicians,"Stamp, etch, or scribe identifying information on finished component according to specifications.",Arm-Hand Steadiness,2,0
+12589,Semiconductor Processing Technicians,"Stamp, etch, or scribe identifying information on finished component according to specifications.",Near Vision,2,0
+12589,Semiconductor Processing Technicians,"Stamp, etch, or scribe identifying information on finished component according to specifications.",Manual Dexterity,2,0
+12589,Semiconductor Processing Technicians,"Stamp, etch, or scribe identifying information on finished component according to specifications.",Control Precision,2,0
+12591,Semiconductor Processing Technicians,Scribe or separate wafers into dice.,Arm-Hand Steadiness,3,0
+12591,Semiconductor Processing Technicians,Scribe or separate wafers into dice.,Control Precision,3,0
+12591,Semiconductor Processing Technicians,Scribe or separate wafers into dice.,Near Vision,2,0
+12591,Semiconductor Processing Technicians,Scribe or separate wafers into dice.,Manual Dexterity,2,0
+12591,Semiconductor Processing Technicians,Scribe or separate wafers into dice.,Finger Dexterity,2,0
+12592,Semiconductor Processing Technicians,"Connect reactor to computer, using hand tools and power tools.",Manual Dexterity,2,0
+12592,Semiconductor Processing Technicians,"Connect reactor to computer, using hand tools and power tools.",Finger Dexterity,2,0
+12592,Semiconductor Processing Technicians,"Connect reactor to computer, using hand tools and power tools.",Arm-Hand Steadiness,1,0
+12592,Semiconductor Processing Technicians,"Connect reactor to computer, using hand tools and power tools.",Multilimb Coordination,1,0
+12592,Semiconductor Processing Technicians,"Connect reactor to computer, using hand tools and power tools.",Near Vision,1,0
+12595,Semiconductor Processing Technicians,"Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.",Number Facility,2,0
+12595,Semiconductor Processing Technicians,"Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.",Manual Dexterity,2,0
+12595,Semiconductor Processing Technicians,"Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.",Near Vision,1,0
+12595,Semiconductor Processing Technicians,"Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.",Problem Sensitivity,2,0
+12595,Semiconductor Processing Technicians,"Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.",Selective Attention,1,0
+19484,Photographic Process Workers and Processing Machine Operators,"Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software.",Near Vision,2,0
+19484,Photographic Process Workers and Processing Machine Operators,"Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software.",Visual Color Discrimination,1,0
+19484,Photographic Process Workers and Processing Machine Operators,"Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software.",Perceptual Speed,1,0
+19484,Photographic Process Workers and Processing Machine Operators,"Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software.",Number Facility,1,1
+19465,Photographic Process Workers and Processing Machine Operators,Create prints according to customer specifications and laboratory protocols.,Near Vision,2,0
+19465,Photographic Process Workers and Processing Machine Operators,Create prints according to customer specifications and laboratory protocols.,Visual Color Discrimination,2,0
+19465,Photographic Process Workers and Processing Machine Operators,Create prints according to customer specifications and laboratory protocols.,Written Comprehension,1,0
+19465,Photographic Process Workers and Processing Machine Operators,Create prints according to customer specifications and laboratory protocols.,Control Precision,1,0
+19479,Photographic Process Workers and Processing Machine Operators,"Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures.",Visual Color Discrimination,3,0
+19479,Photographic Process Workers and Processing Machine Operators,"Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures.",Near Vision,2,0
+19479,Photographic Process Workers and Processing Machine Operators,"Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures.",Control Precision,2,0
+19479,Photographic Process Workers and Processing Machine Operators,"Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures.",Manual Dexterity,1,0
+19486,Photographic Process Workers and Processing Machine Operators,"Set or adjust machine controls, according to specifications, type of operation, or material requirements.",Control Precision,2,0
+19486,Photographic Process Workers and Processing Machine Operators,"Set or adjust machine controls, according to specifications, type of operation, or material requirements.",Near Vision,1,0
+19486,Photographic Process Workers and Processing Machine Operators,"Set or adjust machine controls, according to specifications, type of operation, or material requirements.",Information Ordering,1,0
+19483,Photographic Process Workers and Processing Machine Operators,Review computer-processed digital images for quality.,Near Vision,3,0
+19483,Photographic Process Workers and Processing Machine Operators,Review computer-processed digital images for quality.,Visual Color Discrimination,3,0
+19483,Photographic Process Workers and Processing Machine Operators,Review computer-processed digital images for quality.,Perceptual Speed,2,0
+19483,Photographic Process Workers and Processing Machine Operators,Review computer-processed digital images for quality.,Flexibility of Closure,1,0
+19476,Photographic Process Workers and Processing Machine Operators,"Operate scanners or related computer equipment to digitize negatives, photographic prints, or other images.",Near Vision,2,0
+19476,Photographic Process Workers and Processing Machine Operators,"Operate scanners or related computer equipment to digitize negatives, photographic prints, or other images.",Manual Dexterity,1,0
+19476,Photographic Process Workers and Processing Machine Operators,"Operate scanners or related computer equipment to digitize negatives, photographic prints, or other images.",Control Precision,1,0
+19467,Photographic Process Workers and Processing Machine Operators,"Fill tanks of processing machines with solutions such as developer, dyes, stop-baths, fixers, bleaches, or washes.",Manual Dexterity,1,0
+19467,Photographic Process Workers and Processing Machine Operators,"Fill tanks of processing machines with solutions such as developer, dyes, stop-baths, fixers, bleaches, or washes.",Static Strength,1,0
+19467,Photographic Process Workers and Processing Machine Operators,"Fill tanks of processing machines with solutions such as developer, dyes, stop-baths, fixers, bleaches, or washes.",Near Vision,1,0
+19473,Photographic Process Workers and Processing Machine Operators,"Measure and mix chemicals to prepare solutions for processing, according to formulas.",Number Facility,3,0
+19473,Photographic Process Workers and Processing Machine Operators,"Measure and mix chemicals to prepare solutions for processing, according to formulas.",Mathematical Reasoning,2,0
+19473,Photographic Process Workers and Processing Machine Operators,"Measure and mix chemicals to prepare solutions for processing, according to formulas.",Manual Dexterity,1,0
+19473,Photographic Process Workers and Processing Machine Operators,"Measure and mix chemicals to prepare solutions for processing, according to formulas.",Near Vision,1,0
+19471,Photographic Process Workers and Processing Machine Operators,"Load digital images onto computers directly from cameras or from storage devices, such as flash memory cards or universal serial bus (USB) devices.",Manual Dexterity,1,0
+19471,Photographic Process Workers and Processing Machine Operators,"Load digital images onto computers directly from cameras or from storage devices, such as flash memory cards or universal serial bus (USB) devices.",Finger Dexterity,1,0
+19471,Photographic Process Workers and Processing Machine Operators,"Load digital images onto computers directly from cameras or from storage devices, such as flash memory cards or universal serial bus (USB) devices.",Near Vision,1,0
+19477,Photographic Process Workers and Processing Machine Operators,Operate special equipment to perform tasks such as transferring film to videotape or producing photographic enlargements.,Control Precision,2,0
+19477,Photographic Process Workers and Processing Machine Operators,Operate special equipment to perform tasks such as transferring film to videotape or producing photographic enlargements.,Near Vision,2,0
+19477,Photographic Process Workers and Processing Machine Operators,Operate special equipment to perform tasks such as transferring film to videotape or producing photographic enlargements.,Manual Dexterity,1,0
+19466,Photographic Process Workers and Processing Machine Operators,"Examine developed prints for defects, such as broken lines, spots, or blurs.",Near Vision,3,0
+19466,Photographic Process Workers and Processing Machine Operators,"Examine developed prints for defects, such as broken lines, spots, or blurs.",Flexibility of Closure,2,0
+19466,Photographic Process Workers and Processing Machine Operators,"Examine developed prints for defects, such as broken lines, spots, or blurs.",Visual Color Discrimination,1,0
+19466,Photographic Process Workers and Processing Machine Operators,"Examine developed prints for defects, such as broken lines, spots, or blurs.",Perceptual Speed,2,0
+19480,Photographic Process Workers and Processing Machine Operators,"Read work orders to determine required processes, techniques, materials, or equipment.",Written Comprehension,3,0
+19480,Photographic Process Workers and Processing Machine Operators,"Read work orders to determine required processes, techniques, materials, or equipment.",Near Vision,1,0
+19470,Photographic Process Workers and Processing Machine Operators,"Load circuit boards, racks or rolls of film, negatives, or printing paper into processing or printing machines.",Manual Dexterity,2,0
+19470,Photographic Process Workers and Processing Machine Operators,"Load circuit boards, racks or rolls of film, negatives, or printing paper into processing or printing machines.",Arm-Hand Steadiness,1,0
+19470,Photographic Process Workers and Processing Machine Operators,"Load circuit boards, racks or rolls of film, negatives, or printing paper into processing or printing machines.",Near Vision,1,0
+19469,Photographic Process Workers and Processing Machine Operators,Insert processed negatives and prints into envelopes for delivery to customers.,Manual Dexterity,2,0
+19469,Photographic Process Workers and Processing Machine Operators,Insert processed negatives and prints into envelopes for delivery to customers.,Finger Dexterity,1,0
+19469,Photographic Process Workers and Processing Machine Operators,Insert processed negatives and prints into envelopes for delivery to customers.,Near Vision,1,0
+19481,Photographic Process Workers and Processing Machine Operators,Reprint originals for enlargement or in sections to be pieced together.,Near Vision,2,0
+19481,Photographic Process Workers and Processing Machine Operators,Reprint originals for enlargement or in sections to be pieced together.,Visualization,2,0
+19481,Photographic Process Workers and Processing Machine Operators,Reprint originals for enlargement or in sections to be pieced together.,Control Precision,1,0
+19488,Photographic Process Workers and Processing Machine Operators,"Clean or maintain photoprocessing or darkroom equipment, using ultrasonic equipment or cleaning and rinsing solutions.",Manual Dexterity,1,0
+19488,Photographic Process Workers and Processing Machine Operators,"Clean or maintain photoprocessing or darkroom equipment, using ultrasonic equipment or cleaning and rinsing solutions.",Near Vision,1,0
+19488,Photographic Process Workers and Processing Machine Operators,"Clean or maintain photoprocessing or darkroom equipment, using ultrasonic equipment or cleaning and rinsing solutions.",Static Strength,1,0
+19474,Photographic Process Workers and Processing Machine Operators,Monitor equipment operation to detect malfunctions.,Selective Attention,3,0
+19474,Photographic Process Workers and Processing Machine Operators,Monitor equipment operation to detect malfunctions.,Near Vision,1,0
+19474,Photographic Process Workers and Processing Machine Operators,Monitor equipment operation to detect malfunctions.,Problem Sensitivity,2,0
+19472,Photographic Process Workers and Processing Machine Operators,"Maintain records, such as quantities or types of processing completed, materials used, or customer charges.",Written Expression,2,0
+19472,Photographic Process Workers and Processing Machine Operators,"Maintain records, such as quantities or types of processing completed, materials used, or customer charges.",Number Facility,1,0
+19472,Photographic Process Workers and Processing Machine Operators,"Maintain records, such as quantities or types of processing completed, materials used, or customer charges.",Information Ordering,1,0
+19468,Photographic Process Workers and Processing Machine Operators,"Immerse film, negatives, paper, or prints in developing solutions, fixing solutions, and water to complete photographic development processes.",Manual Dexterity,2,0
+19468,Photographic Process Workers and Processing Machine Operators,"Immerse film, negatives, paper, or prints in developing solutions, fixing solutions, and water to complete photographic development processes.",Arm-Hand Steadiness,1,0
+19468,Photographic Process Workers and Processing Machine Operators,"Immerse film, negatives, paper, or prints in developing solutions, fixing solutions, and water to complete photographic development processes.",Near Vision,1,0
+19492,Photographic Process Workers and Processing Machine Operators,"Examine quality of film fades or dissolves for potential color corrections, using color analyzers.",Visual Color Discrimination,3,0
+19492,Photographic Process Workers and Processing Machine Operators,"Examine quality of film fades or dissolves for potential color corrections, using color analyzers.",Near Vision,2,0
+19492,Photographic Process Workers and Processing Machine Operators,"Examine quality of film fades or dissolves for potential color corrections, using color analyzers.",Flexibility of Closure,1,0
+19499,Photographic Process Workers and Processing Machine Operators,"Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity.",Finger Dexterity,2,0
+19499,Photographic Process Workers and Processing Machine Operators,"Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity.",Manual Dexterity,2,0
+19499,Photographic Process Workers and Processing Machine Operators,"Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity.",Near Vision,2,0
+19499,Photographic Process Workers and Processing Machine Operators,"Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity.",Visual Color Discrimination,1,0
+19491,Photographic Process Workers and Processing Machine Operators,"Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration.",Visual Color Discrimination,3,0
+19491,Photographic Process Workers and Processing Machine Operators,"Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration.",Near Vision,2,0
+19491,Photographic Process Workers and Processing Machine Operators,"Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration.",Visualization,2,0
+19491,Photographic Process Workers and Processing Machine Operators,"Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration.",Flexibility of Closure,1,0
+19478,Photographic Process Workers and Processing Machine Operators,"Place sensitized paper in frames of projection printers, photostats, or other reproduction machines.",Manual Dexterity,2,0
+19478,Photographic Process Workers and Processing Machine Operators,"Place sensitized paper in frames of projection printers, photostats, or other reproduction machines.",Finger Dexterity,1,0
+19478,Photographic Process Workers and Processing Machine Operators,"Place sensitized paper in frames of projection printers, photostats, or other reproduction machines.",Near Vision,1,0
+19500,Photographic Process Workers and Processing Machine Operators,Upload digital images onto Web sites for customers.,Near Vision,1,0
+19500,Photographic Process Workers and Processing Machine Operators,Upload digital images onto Web sites for customers.,Manual Dexterity,1,0
+19500,Photographic Process Workers and Processing Machine Operators,Upload digital images onto Web sites for customers.,Perceptual Speed,1,1
+19496,Photographic Process Workers and Processing Machine Operators,Produce timed prints with separate densities or color settings for each scene of a production.,Visual Color Discrimination,3,0
+19496,Photographic Process Workers and Processing Machine Operators,Produce timed prints with separate densities or color settings for each scene of a production.,Near Vision,2,0
+19496,Photographic Process Workers and Processing Machine Operators,Produce timed prints with separate densities or color settings for each scene of a production.,Control Precision,2,0
+19496,Photographic Process Workers and Processing Machine Operators,Produce timed prints with separate densities or color settings for each scene of a production.,Number Facility,1,0
+19498,Photographic Process Workers and Processing Machine Operators,Splice broken or separated film and mount film on reels.,Finger Dexterity,3,0
+19498,Photographic Process Workers and Processing Machine Operators,Splice broken or separated film and mount film on reels.,Manual Dexterity,2,0
+19498,Photographic Process Workers and Processing Machine Operators,Splice broken or separated film and mount film on reels.,Arm-Hand Steadiness,2,0
+19498,Photographic Process Workers and Processing Machine Operators,Splice broken or separated film and mount film on reels.,Near Vision,2,0
+19482,Photographic Process Workers and Processing Machine Operators,Retouch photographic negatives or original prints to correct defects.,Finger Dexterity,2,0
+19482,Photographic Process Workers and Processing Machine Operators,Retouch photographic negatives or original prints to correct defects.,Arm-Hand Steadiness,3,0
+19482,Photographic Process Workers and Processing Machine Operators,Retouch photographic negatives or original prints to correct defects.,Near Vision,2,0
+19482,Photographic Process Workers and Processing Machine Operators,Retouch photographic negatives or original prints to correct defects.,Control Precision,2,0
+19482,Photographic Process Workers and Processing Machine Operators,Retouch photographic negatives or original prints to correct defects.,Visual Color Discrimination,1,0
+11932,Computer Numerically Controlled Tool Operators,"Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures.",Near Vision,3,0
+11932,Computer Numerically Controlled Tool Operators,"Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures.",Control Precision,2,0
+11932,Computer Numerically Controlled Tool Operators,"Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures.",Number Facility,2,0
+11932,Computer Numerically Controlled Tool Operators,"Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures.",Arm-Hand Steadiness,1,0
+11944,Computer Numerically Controlled Tool Operators,Set up and operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic workpieces.,Control Precision,3,0
+11944,Computer Numerically Controlled Tool Operators,Set up and operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic workpieces.,Multilimb Coordination,2,0
+11944,Computer Numerically Controlled Tool Operators,Set up and operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic workpieces.,Near Vision,2,0
+11944,Computer Numerically Controlled Tool Operators,Set up and operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic workpieces.,Manual Dexterity,2,0
+11934,Computer Numerically Controlled Tool Operators,"Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments.",Manual Dexterity,3,0
+11934,Computer Numerically Controlled Tool Operators,"Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments.",Arm-Hand Steadiness,2,0
+11934,Computer Numerically Controlled Tool Operators,"Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments.",Control Precision,2,0
+11934,Computer Numerically Controlled Tool Operators,"Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments.",Near Vision,2,0
+11934,Computer Numerically Controlled Tool Operators,"Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments.",Static Strength,1,0
+11946,Computer Numerically Controlled Tool Operators,"Review program specifications or blueprints to determine and set machine operations and sequencing, finished workpiece dimensions, or numerical control sequences.",Visualization,2,0
+11946,Computer Numerically Controlled Tool Operators,"Review program specifications or blueprints to determine and set machine operations and sequencing, finished workpiece dimensions, or numerical control sequences.",Information Ordering,2,0
+11946,Computer Numerically Controlled Tool Operators,"Review program specifications or blueprints to determine and set machine operations and sequencing, finished workpiece dimensions, or numerical control sequences.",Near Vision,1,0
+11946,Computer Numerically Controlled Tool Operators,"Review program specifications or blueprints to determine and set machine operations and sequencing, finished workpiece dimensions, or numerical control sequences.",Deductive Reasoning,2,0
+11937,Computer Numerically Controlled Tool Operators,"Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences.",Manual Dexterity,2,0
+11937,Computer Numerically Controlled Tool Operators,"Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences.",Static Strength,1,0
+11937,Computer Numerically Controlled Tool Operators,"Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences.",Arm-Hand Steadiness,1,0
+11937,Computer Numerically Controlled Tool Operators,"Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences.",Reaction Time,1,0
+11935,Computer Numerically Controlled Tool Operators,"Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",Auditory Attention,3,0
+11935,Computer Numerically Controlled Tool Operators,"Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",Sound Localization,2,0
+11935,Computer Numerically Controlled Tool Operators,"Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",Problem Sensitivity,2,0
+11935,Computer Numerically Controlled Tool Operators,"Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",Control Precision,1,0
+11955,Computer Numerically Controlled Tool Operators,"Implement changes to machine programs, and enter new specifications, using computers.",Finger Dexterity,1,0
+11955,Computer Numerically Controlled Tool Operators,"Implement changes to machine programs, and enter new specifications, using computers.",Information Ordering,2,0
+11955,Computer Numerically Controlled Tool Operators,"Implement changes to machine programs, and enter new specifications, using computers.",Near Vision,1,0
+11955,Computer Numerically Controlled Tool Operators,"Implement changes to machine programs, and enter new specifications, using computers.",Deductive Reasoning,1,0
+11940,Computer Numerically Controlled Tool Operators,Calculate machine speed and feed ratios and the size and position of cuts.,Mathematical Reasoning,3,0
+11940,Computer Numerically Controlled Tool Operators,Calculate machine speed and feed ratios and the size and position of cuts.,Number Facility,3,0
+11940,Computer Numerically Controlled Tool Operators,Calculate machine speed and feed ratios and the size and position of cuts.,Deductive Reasoning,1,0
+11953,Computer Numerically Controlled Tool Operators,"Transfer commands from servers to computer numerical control (CNC) modules, using computer network links.",Finger Dexterity,1,0
+11953,Computer Numerically Controlled Tool Operators,"Transfer commands from servers to computer numerical control (CNC) modules, using computer network links.",Near Vision,1,0
+11953,Computer Numerically Controlled Tool Operators,"Transfer commands from servers to computer numerical control (CNC) modules, using computer network links.",Information Ordering,1,0
+11933,Computer Numerically Controlled Tool Operators,Remove and replace dull cutting tools.,Manual Dexterity,2,0
+11933,Computer Numerically Controlled Tool Operators,Remove and replace dull cutting tools.,Arm-Hand Steadiness,2,0
+11933,Computer Numerically Controlled Tool Operators,Remove and replace dull cutting tools.,Static Strength,1,0
+11933,Computer Numerically Controlled Tool Operators,Remove and replace dull cutting tools.,Finger Dexterity,1,0
+11942,Computer Numerically Controlled Tool Operators,Check to ensure that workpieces are properly lubricated and cooled during machine operation.,Near Vision,1,0
+11942,Computer Numerically Controlled Tool Operators,Check to ensure that workpieces are properly lubricated and cooled during machine operation.,Selective Attention,2,0
+11942,Computer Numerically Controlled Tool Operators,Check to ensure that workpieces are properly lubricated and cooled during machine operation.,Problem Sensitivity,1,0
+11936,Computer Numerically Controlled Tool Operators,"Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.",Control Precision,2,0
+11936,Computer Numerically Controlled Tool Operators,"Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.",Problem Sensitivity,2,0
+11936,Computer Numerically Controlled Tool Operators,"Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.",Manual Dexterity,2,0
+11936,Computer Numerically Controlled Tool Operators,"Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.",Deductive Reasoning,1,0
+11947,Computer Numerically Controlled Tool Operators,"Monitor machine operation and control panel displays, and compare readings to specifications to detect malfunctions.",Near Vision,2,0
+11947,Computer Numerically Controlled Tool Operators,"Monitor machine operation and control panel displays, and compare readings to specifications to detect malfunctions.",Selective Attention,3,0
+11947,Computer Numerically Controlled Tool Operators,"Monitor machine operation and control panel displays, and compare readings to specifications to detect malfunctions.",Perceptual Speed,2,0
+11947,Computer Numerically Controlled Tool Operators,"Monitor machine operation and control panel displays, and compare readings to specifications to detect malfunctions.",Problem Sensitivity,1,0
+11949,Computer Numerically Controlled Tool Operators,"Maintain machines and remove and replace broken or worn machine tools, using hand tools.",Manual Dexterity,2,0
+11949,Computer Numerically Controlled Tool Operators,"Maintain machines and remove and replace broken or worn machine tools, using hand tools.",Arm-Hand Steadiness,2,0
+11949,Computer Numerically Controlled Tool Operators,"Maintain machines and remove and replace broken or worn machine tools, using hand tools.",Static Strength,1,0
+11949,Computer Numerically Controlled Tool Operators,"Maintain machines and remove and replace broken or worn machine tools, using hand tools.",Finger Dexterity,1,0
+11941,Computer Numerically Controlled Tool Operators,Insert control instructions into machine control units to start operation.,Finger Dexterity,2,0
+11941,Computer Numerically Controlled Tool Operators,Insert control instructions into machine control units to start operation.,Near Vision,1,0
+11941,Computer Numerically Controlled Tool Operators,Insert control instructions into machine control units to start operation.,Control Precision,1,0
+11939,Computer Numerically Controlled Tool Operators,"Modify cutting programs to account for problems encountered during operation, and save modified programs.",Deductive Reasoning,2,0
+11939,Computer Numerically Controlled Tool Operators,"Modify cutting programs to account for problems encountered during operation, and save modified programs.",Problem Sensitivity,2,0
+11939,Computer Numerically Controlled Tool Operators,"Modify cutting programs to account for problems encountered during operation, and save modified programs.",Information Ordering,1,0
+11956,Computer Numerically Controlled Tool Operators,Write simple programs for computer-controlled machine tools.,Deductive Reasoning,2,0
+11956,Computer Numerically Controlled Tool Operators,Write simple programs for computer-controlled machine tools.,Information Ordering,2,0
+11956,Computer Numerically Controlled Tool Operators,Write simple programs for computer-controlled machine tools.,Written Expression,1,0
+11938,Computer Numerically Controlled Tool Operators,Lift workpieces to machines manually or with hoists or cranes.,Static Strength,3,0
+11938,Computer Numerically Controlled Tool Operators,Lift workpieces to machines manually or with hoists or cranes.,Dynamic Strength,2,0
+11938,Computer Numerically Controlled Tool Operators,Lift workpieces to machines manually or with hoists or cranes.,Trunk Strength,2,0
+11938,Computer Numerically Controlled Tool Operators,Lift workpieces to machines manually or with hoists or cranes.,Multilimb Coordination,1,0
+11938,Computer Numerically Controlled Tool Operators,Lift workpieces to machines manually or with hoists or cranes.,Control Precision,1,0
+11943,Computer Numerically Controlled Tool Operators,Input initial part dimensions into machine control panels.,Finger Dexterity,1,0
+11943,Computer Numerically Controlled Tool Operators,Input initial part dimensions into machine control panels.,Number Facility,2,0
+11943,Computer Numerically Controlled Tool Operators,Input initial part dimensions into machine control panels.,Near Vision,1,0
+11954,Computer Numerically Controlled Tool Operators,Set up future jobs while machines are operating.,Time Sharing,2,0
+11954,Computer Numerically Controlled Tool Operators,Set up future jobs while machines are operating.,Information Ordering,1,0
+11954,Computer Numerically Controlled Tool Operators,Set up future jobs while machines are operating.,Selective Attention,1,0
+11945,Computer Numerically Controlled Tool Operators,Confer with supervisors or programmers to resolve machine malfunctions or production errors or to obtain approval to continue production.,Oral Expression,2,0
+11945,Computer Numerically Controlled Tool Operators,Confer with supervisors or programmers to resolve machine malfunctions or production errors or to obtain approval to continue production.,Oral Comprehension,2,0
+11945,Computer Numerically Controlled Tool Operators,Confer with supervisors or programmers to resolve machine malfunctions or production errors or to obtain approval to continue production.,Problem Sensitivity,1,0
+11950,Computer Numerically Controlled Tool Operators,"Stack or load finished items, or place items on conveyor systems.",Static Strength,2,0
+11950,Computer Numerically Controlled Tool Operators,"Stack or load finished items, or place items on conveyor systems.",Manual Dexterity,2,0
+11950,Computer Numerically Controlled Tool Operators,"Stack or load finished items, or place items on conveyor systems.",Trunk Strength,1,0
+11950,Computer Numerically Controlled Tool Operators,"Stack or load finished items, or place items on conveyor systems.",Gross Body Coordination,1,0
+11948,Computer Numerically Controlled Tool Operators,Control coolant systems.,Control Precision,2,0
+11948,Computer Numerically Controlled Tool Operators,Control coolant systems.,Near Vision,1,0
+11951,Computer Numerically Controlled Tool Operators,"Clean machines, tooling, or parts, using solvents or solutions and rags.",Manual Dexterity,2,0
+11951,Computer Numerically Controlled Tool Operators,"Clean machines, tooling, or parts, using solvents or solutions and rags.",Static Strength,1,0
+11951,Computer Numerically Controlled Tool Operators,"Clean machines, tooling, or parts, using solvents or solutions and rags.",Arm-Hand Steadiness,1,0
+11952,Computer Numerically Controlled Tool Operators,"Enter commands or load control media, such as tapes, cards, or disks, into machine controllers to retrieve programmed instructions.",Finger Dexterity,2,0
+11952,Computer Numerically Controlled Tool Operators,"Enter commands or load control media, such as tapes, cards, or disks, into machine controllers to retrieve programmed instructions.",Manual Dexterity,1,0
+11952,Computer Numerically Controlled Tool Operators,"Enter commands or load control media, such as tapes, cards, or disks, into machine controllers to retrieve programmed instructions.",Near Vision,1,0
+11958,Computer Numerically Controlled Tool Operators,Lay out and mark areas of parts to be shot peened and fill hoppers with shot.,Manual Dexterity,2,0
+11958,Computer Numerically Controlled Tool Operators,Lay out and mark areas of parts to be shot peened and fill hoppers with shot.,Near Vision,2,0
+11958,Computer Numerically Controlled Tool Operators,Lay out and mark areas of parts to be shot peened and fill hoppers with shot.,Static Strength,1,0
+11958,Computer Numerically Controlled Tool Operators,Lay out and mark areas of parts to be shot peened and fill hoppers with shot.,Control Precision,1,0
+11957,Computer Numerically Controlled Tool Operators,"Examine electronic components for defects or completeness of laser-beam trimming, using microscopes.",Near Vision,3,0
+11957,Computer Numerically Controlled Tool Operators,"Examine electronic components for defects or completeness of laser-beam trimming, using microscopes.",Flexibility of Closure,2,0
+11957,Computer Numerically Controlled Tool Operators,"Examine electronic components for defects or completeness of laser-beam trimming, using microscopes.",Problem Sensitivity,1,0
+11959,Computer Numerically Controlled Tool Programmers,"Determine the sequence of machine operations, and select the proper cutting tools needed to machine workpieces into the desired shapes.",Deductive Reasoning,3,0
+11959,Computer Numerically Controlled Tool Programmers,"Determine the sequence of machine operations, and select the proper cutting tools needed to machine workpieces into the desired shapes.",Visualization,2,0
+11959,Computer Numerically Controlled Tool Programmers,"Determine the sequence of machine operations, and select the proper cutting tools needed to machine workpieces into the desired shapes.",Information Ordering,2,0
+11961,Computer Numerically Controlled Tool Programmers,"Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates.",Mathematical Reasoning,3,0
+11961,Computer Numerically Controlled Tool Programmers,"Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates.",Visualization,2,0
+11961,Computer Numerically Controlled Tool Programmers,"Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates.",Deductive Reasoning,2,0
+11961,Computer Numerically Controlled Tool Programmers,"Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates.",Number Facility,2,0
+11963,Computer Numerically Controlled Tool Programmers,Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications.,Near Vision,2,0
+11963,Computer Numerically Controlled Tool Programmers,Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications.,Deductive Reasoning,2,0
+11963,Computer Numerically Controlled Tool Programmers,Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications.,Selective Attention,2,0
+11963,Computer Numerically Controlled Tool Programmers,Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications.,Problem Sensitivity,2,0
+11966,Computer Numerically Controlled Tool Programmers,"Write programs in the language of a machine's controller and store programs on media, such as punch tapes, magnetic tapes, or disks.",Deductive Reasoning,2,0
+11966,Computer Numerically Controlled Tool Programmers,"Write programs in the language of a machine's controller and store programs on media, such as punch tapes, magnetic tapes, or disks.",Information Ordering,2,0
+11966,Computer Numerically Controlled Tool Programmers,"Write programs in the language of a machine's controller and store programs on media, such as punch tapes, magnetic tapes, or disks.",Written Expression,1,0
+11962,Computer Numerically Controlled Tool Programmers,"Determine reference points, machine cutting paths, or hole locations, and compute angular and linear dimensions, radii, and curvatures.",Mathematical Reasoning,3,0
+11962,Computer Numerically Controlled Tool Programmers,"Determine reference points, machine cutting paths, or hole locations, and compute angular and linear dimensions, radii, and curvatures.",Visualization,3,0
+11962,Computer Numerically Controlled Tool Programmers,"Determine reference points, machine cutting paths, or hole locations, and compute angular and linear dimensions, radii, and curvatures.",Number Facility,2,0
+11968,Computer Numerically Controlled Tool Programmers,"Enter computer commands to store or retrieve parts patterns, graphic displays, or programs that transfer data to other media.",Finger Dexterity,1,0
+11968,Computer Numerically Controlled Tool Programmers,"Enter computer commands to store or retrieve parts patterns, graphic displays, or programs that transfer data to other media.",Information Ordering,1,0
+11968,Computer Numerically Controlled Tool Programmers,"Enter computer commands to store or retrieve parts patterns, graphic displays, or programs that transfer data to other media.",Near Vision,1,0
+11960,Computer Numerically Controlled Tool Programmers,"Revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.",Deductive Reasoning,2,0
+11960,Computer Numerically Controlled Tool Programmers,"Revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.",Problem Sensitivity,2,0
+11960,Computer Numerically Controlled Tool Programmers,"Revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.",Information Ordering,1,0
+11967,Computer Numerically Controlled Tool Programmers,Modify existing programs to enhance efficiency.,Deductive Reasoning,2,0
+11967,Computer Numerically Controlled Tool Programmers,Modify existing programs to enhance efficiency.,Originality,1,1
+11967,Computer Numerically Controlled Tool Programmers,Modify existing programs to enhance efficiency.,Information Ordering,1,0
+11965,Computer Numerically Controlled Tool Programmers,Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers.,Finger Dexterity,2,0
+11965,Computer Numerically Controlled Tool Programmers,Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers.,Number Facility,2,0
+11965,Computer Numerically Controlled Tool Programmers,Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers.,Control Precision,1,0
+11971,Computer Numerically Controlled Tool Programmers,Sort shop orders into groups to maximize materials utilization and minimize machine setup time.,Information Ordering,2,0
+11971,Computer Numerically Controlled Tool Programmers,Sort shop orders into groups to maximize materials utilization and minimize machine setup time.,Deductive Reasoning,2,0
+11971,Computer Numerically Controlled Tool Programmers,Sort shop orders into groups to maximize materials utilization and minimize machine setup time.,Category Flexibility,1,0
+11964,Computer Numerically Controlled Tool Programmers,Compare encoded tapes or computer printouts with original part specifications and blueprints to verify accuracy of instructions.,Near Vision,2,0
+11964,Computer Numerically Controlled Tool Programmers,Compare encoded tapes or computer printouts with original part specifications and blueprints to verify accuracy of instructions.,Perceptual Speed,2,0
+11964,Computer Numerically Controlled Tool Programmers,Compare encoded tapes or computer printouts with original part specifications and blueprints to verify accuracy of instructions.,Information Ordering,1,0
+11969,Computer Numerically Controlled Tool Programmers,"Prepare geometric layouts from graphic displays, using computer-assisted drafting software or drafting instruments and graph paper.",Visualization,3,0
+11969,Computer Numerically Controlled Tool Programmers,"Prepare geometric layouts from graphic displays, using computer-assisted drafting software or drafting instruments and graph paper.",Mathematical Reasoning,2,0
+11969,Computer Numerically Controlled Tool Programmers,"Prepare geometric layouts from graphic displays, using computer-assisted drafting software or drafting instruments and graph paper.",Near Vision,1,0
+20922,Computer Numerically Controlled Tool Programmers,Perform preventative maintenance or minor repairs on machines.,Manual Dexterity,2,0
+20922,Computer Numerically Controlled Tool Programmers,Perform preventative maintenance or minor repairs on machines.,Problem Sensitivity,2,0
+20922,Computer Numerically Controlled Tool Programmers,Perform preventative maintenance or minor repairs on machines.,Arm-Hand Steadiness,1,0
+24013,Computer Numerically Controlled Tool Programmers,Order tooling for jobs.,Written Expression,1,1
+24013,Computer Numerically Controlled Tool Programmers,Order tooling for jobs.,Information Ordering,1,0
+24013,Computer Numerically Controlled Tool Programmers,Order tooling for jobs.,Number Facility,1,0
+11970,Computer Numerically Controlled Tool Programmers,Write instruction sheets and cutter lists for a machine's controller to guide setup and encode numerical control tapes.,Written Expression,2,0
+11970,Computer Numerically Controlled Tool Programmers,Write instruction sheets and cutter lists for a machine's controller to guide setup and encode numerical control tapes.,Information Ordering,2,0
+11970,Computer Numerically Controlled Tool Programmers,Write instruction sheets and cutter lists for a machine's controller to guide setup and encode numerical control tapes.,Deductive Reasoning,1,0
+11973,Computer Numerically Controlled Tool Programmers,"Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards.",Near Vision,3,0
+11973,Computer Numerically Controlled Tool Programmers,"Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards.",Arm-Hand Steadiness,2,0
+11973,Computer Numerically Controlled Tool Programmers,"Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards.",Control Precision,2,0
+11973,Computer Numerically Controlled Tool Programmers,"Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards.",Manual Dexterity,1,0
+11973,Computer Numerically Controlled Tool Programmers,"Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards.",Flexibility of Closure,1,1
+12607,Adhesive Bonding Machine Operators and Tenders,Align and position materials being joined to ensure accurate application of adhesive or heat sealing.,Control Precision,2,0
+12607,Adhesive Bonding Machine Operators and Tenders,Align and position materials being joined to ensure accurate application of adhesive or heat sealing.,Near Vision,2,0
+12607,Adhesive Bonding Machine Operators and Tenders,Align and position materials being joined to ensure accurate application of adhesive or heat sealing.,Manual Dexterity,2,0
+12607,Adhesive Bonding Machine Operators and Tenders,Align and position materials being joined to ensure accurate application of adhesive or heat sealing.,Arm-Hand Steadiness,1,0
+12598,Adhesive Bonding Machine Operators and Tenders,"Adjust machine components according to specifications such as widths, lengths, and thickness of materials and amounts of glue, cement, or adhesive required.",Control Precision,2,0
+12598,Adhesive Bonding Machine Operators and Tenders,"Adjust machine components according to specifications such as widths, lengths, and thickness of materials and amounts of glue, cement, or adhesive required.",Number Facility,1,0
+12598,Adhesive Bonding Machine Operators and Tenders,"Adjust machine components according to specifications such as widths, lengths, and thickness of materials and amounts of glue, cement, or adhesive required.",Near Vision,1,0
+12599,Adhesive Bonding Machine Operators and Tenders,Monitor machine operations to detect malfunctions and report or resolve problems.,Selective Attention,3,0
+12599,Adhesive Bonding Machine Operators and Tenders,Monitor machine operations to detect malfunctions and report or resolve problems.,Problem Sensitivity,2,0
+12599,Adhesive Bonding Machine Operators and Tenders,Monitor machine operations to detect malfunctions and report or resolve problems.,Near Vision,1,0
+12604,Adhesive Bonding Machine Operators and Tenders,"Start machines, and turn valves or move controls to feed, admit, apply, or transfer materials and adhesives, and to adjust temperature, pressure, and time settings.",Control Precision,2,0
+12604,Adhesive Bonding Machine Operators and Tenders,"Start machines, and turn valves or move controls to feed, admit, apply, or transfer materials and adhesives, and to adjust temperature, pressure, and time settings.",Manual Dexterity,2,0
+12604,Adhesive Bonding Machine Operators and Tenders,"Start machines, and turn valves or move controls to feed, admit, apply, or transfer materials and adhesives, and to adjust temperature, pressure, and time settings.",Finger Dexterity,1,0
+12601,Adhesive Bonding Machine Operators and Tenders,"Fill machines with glue, cement, or adhesives.",Manual Dexterity,2,0
+12601,Adhesive Bonding Machine Operators and Tenders,"Fill machines with glue, cement, or adhesives.",Static Strength,1,0
+12605,Adhesive Bonding Machine Operators and Tenders,Perform test production runs and make adjustments as necessary to ensure that completed products meet standards and specifications.,Near Vision,2,0
+12605,Adhesive Bonding Machine Operators and Tenders,Perform test production runs and make adjustments as necessary to ensure that completed products meet standards and specifications.,Control Precision,2,0
+12605,Adhesive Bonding Machine Operators and Tenders,Perform test production runs and make adjustments as necessary to ensure that completed products meet standards and specifications.,Problem Sensitivity,2,0
+12597,Adhesive Bonding Machine Operators and Tenders,"Examine and measure completed materials or products to verify conformance to specifications, using measuring devices such as tape measures, gauges, or calipers.",Near Vision,3,0
+12597,Adhesive Bonding Machine Operators and Tenders,"Examine and measure completed materials or products to verify conformance to specifications, using measuring devices such as tape measures, gauges, or calipers.",Number Facility,2,0
+12597,Adhesive Bonding Machine Operators and Tenders,"Examine and measure completed materials or products to verify conformance to specifications, using measuring devices such as tape measures, gauges, or calipers.",Arm-Hand Steadiness,1,0
+12600,Adhesive Bonding Machine Operators and Tenders,Read work orders and communicate with coworkers to determine machine and equipment settings and adjustments and supply and product specifications.,Written Comprehension,2,0
+12600,Adhesive Bonding Machine Operators and Tenders,Read work orders and communicate with coworkers to determine machine and equipment settings and adjustments and supply and product specifications.,Oral Comprehension,2,0
+12600,Adhesive Bonding Machine Operators and Tenders,Read work orders and communicate with coworkers to determine machine and equipment settings and adjustments and supply and product specifications.,Oral Expression,1,0
+12609,Adhesive Bonding Machine Operators and Tenders,"Remove and stack completed materials or products, and restock materials to be joined.",Static Strength,2,0
+12609,Adhesive Bonding Machine Operators and Tenders,"Remove and stack completed materials or products, and restock materials to be joined.",Manual Dexterity,2,0
+12609,Adhesive Bonding Machine Operators and Tenders,"Remove and stack completed materials or products, and restock materials to be joined.",Trunk Strength,1,0
+12608,Adhesive Bonding Machine Operators and Tenders,"Observe gauges, meters, and control panels to obtain information about equipment temperatures and pressures, or the speed of feeders or conveyors.",Near Vision,3,0
+12608,Adhesive Bonding Machine Operators and Tenders,"Observe gauges, meters, and control panels to obtain information about equipment temperatures and pressures, or the speed of feeders or conveyors.",Selective Attention,2,0
+12603,Adhesive Bonding Machine Operators and Tenders,"Maintain production records such as quantities, dimensions, and thicknesses of materials processed.",Number Facility,2,0
+12603,Adhesive Bonding Machine Operators and Tenders,"Maintain production records such as quantities, dimensions, and thicknesses of materials processed.",Written Expression,1,0
+12603,Adhesive Bonding Machine Operators and Tenders,"Maintain production records such as quantities, dimensions, and thicknesses of materials processed.",Information Ordering,1,0
+12606,Adhesive Bonding Machine Operators and Tenders,Remove jammed materials from machines and readjust components as necessary to resume normal operations.,Manual Dexterity,2,0
+12606,Adhesive Bonding Machine Operators and Tenders,Remove jammed materials from machines and readjust components as necessary to resume normal operations.,Problem Sensitivity,2,0
+12606,Adhesive Bonding Machine Operators and Tenders,Remove jammed materials from machines and readjust components as necessary to resume normal operations.,Finger Dexterity,1,0
+12606,Adhesive Bonding Machine Operators and Tenders,Remove jammed materials from machines and readjust components as necessary to resume normal operations.,Static Strength,1,0
+12602,Adhesive Bonding Machine Operators and Tenders,"Mount or load material such as paper, plastic, wood, or rubber in feeding mechanisms of cementing or gluing machines.",Manual Dexterity,2,0
+12602,Adhesive Bonding Machine Operators and Tenders,"Mount or load material such as paper, plastic, wood, or rubber in feeding mechanisms of cementing or gluing machines.",Static Strength,1,0
+12602,Adhesive Bonding Machine Operators and Tenders,"Mount or load material such as paper, plastic, wood, or rubber in feeding mechanisms of cementing or gluing machines.",Arm-Hand Steadiness,1,0
+12611,Adhesive Bonding Machine Operators and Tenders,"Transport materials, supplies, and finished products between storage and work areas, using forklifts.",Control Precision,2,0
+12611,Adhesive Bonding Machine Operators and Tenders,"Transport materials, supplies, and finished products between storage and work areas, using forklifts.",Multilimb Coordination,2,0
+12611,Adhesive Bonding Machine Operators and Tenders,"Transport materials, supplies, and finished products between storage and work areas, using forklifts.",Depth Perception,2,0
+12611,Adhesive Bonding Machine Operators and Tenders,"Transport materials, supplies, and finished products between storage and work areas, using forklifts.",Near Vision,1,0
+12611,Adhesive Bonding Machine Operators and Tenders,"Transport materials, supplies, and finished products between storage and work areas, using forklifts.",Far Vision,1,0
+12610,Adhesive Bonding Machine Operators and Tenders,"Clean and maintain gluing and cementing machines, using solutions, lubricants, brushes, and scrapers.",Manual Dexterity,2,0
+12610,Adhesive Bonding Machine Operators and Tenders,"Clean and maintain gluing and cementing machines, using solutions, lubricants, brushes, and scrapers.",Static Strength,1,0
+12610,Adhesive Bonding Machine Operators and Tenders,"Clean and maintain gluing and cementing machines, using solutions, lubricants, brushes, and scrapers.",Arm-Hand Steadiness,1,0
+12612,Adhesive Bonding Machine Operators and Tenders,Measure and mix ingredients to prepare glue.,Number Facility,2,0
+12612,Adhesive Bonding Machine Operators and Tenders,Measure and mix ingredients to prepare glue.,Manual Dexterity,1,0
+12612,Adhesive Bonding Machine Operators and Tenders,Measure and mix ingredients to prepare glue.,Near Vision,1,0
+14368,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.,Number Facility,2,0
+14368,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.,Manual Dexterity,1,0
+14368,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.,Near Vision,1,0
+14372,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.",Near Vision,2,0
+14372,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.",Selective Attention,2,0
+14372,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.",Control Precision,2,0
+14373,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.",Control Precision,2,0
+14373,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.",Near Vision,1,0
+14373,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.",Finger Dexterity,1,0
+14369,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.",Manual Dexterity,2,0
+14369,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.",Static Strength,2,0
+14369,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.",Trunk Strength,1,0
+14367,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",Control Precision,1,1
+14367,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",Manual Dexterity,1,0
+14367,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",Static Strength,1,0
+14367,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",Near Vision,1,0
+14375,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Record gauge readings, materials used, processing times, or test results in production logs.",Number Facility,2,0
+14375,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Record gauge readings, materials used, processing times, or test results in production logs.",Written Expression,1,0
+14375,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Record gauge readings, materials used, processing times, or test results in production logs.",Near Vision,1,0
+14374,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Examine and inspect machines to detect malfunctions.,Near Vision,2,0
+14374,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Examine and inspect machines to detect malfunctions.,Problem Sensitivity,3,0
+14374,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Examine and inspect machines to detect malfunctions.,Selective Attention,1,0
+14370,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.",Number Facility,3,0
+14370,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.",Manual Dexterity,1,0
+14370,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.",Near Vision,1,0
+14371,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.",Manual Dexterity,2,0
+14371,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.",Near Vision,1,0
+14371,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.",Number Facility,1,0
+14376,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.",Manual Dexterity,2,0
+14376,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.",Arm-Hand Steadiness,1,0
+14376,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.",Static Strength,1,0
+14376,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.",Finger Dexterity,1,0
+14377,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.",Static Strength,2,0
+14377,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.",Manual Dexterity,2,0
+14377,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.",Trunk Strength,1,0
+8544,Cooling and Freezing Equipment Operators and Tenders,"Record temperatures, amounts of materials processed, or test results on report forms.",Number Facility,2,0
+8544,Cooling and Freezing Equipment Operators and Tenders,"Record temperatures, amounts of materials processed, or test results on report forms.",Written Expression,1,0
+8544,Cooling and Freezing Equipment Operators and Tenders,"Record temperatures, amounts of materials processed, or test results on report forms.",Near Vision,1,0
+8543,Cooling and Freezing Equipment Operators and Tenders,"Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed.",Near Vision,2,0
+8543,Cooling and Freezing Equipment Operators and Tenders,"Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed.",Selective Attention,3,0
+8543,Cooling and Freezing Equipment Operators and Tenders,"Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed.",Control Precision,2,0
+8545,Cooling and Freezing Equipment Operators and Tenders,"Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures.",Near Vision,3,0
+8545,Cooling and Freezing Equipment Operators and Tenders,"Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures.",Control Precision,2,0
+8545,Cooling and Freezing Equipment Operators and Tenders,"Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures.",Number Facility,1,0
+8547,Cooling and Freezing Equipment Operators and Tenders,"Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes.",Control Precision,2,0
+8547,Cooling and Freezing Equipment Operators and Tenders,"Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes.",Manual Dexterity,2,0
+8547,Cooling and Freezing Equipment Operators and Tenders,"Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes.",Finger Dexterity,1,0
+8546,Cooling and Freezing Equipment Operators and Tenders,"Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",Problem Sensitivity,2,0
+8546,Cooling and Freezing Equipment Operators and Tenders,"Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",Manual Dexterity,2,0
+8546,Cooling and Freezing Equipment Operators and Tenders,"Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",Oral Expression,1,0
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",Manual Dexterity,3,0
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",Arm-Hand Steadiness,2,0
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",Static Strength,1,0
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",Multilimb Coordination,1,0
+8548,Cooling and Freezing Equipment Operators and Tenders,"Assemble equipment, and attach pipes, fittings, or valves, using hand tools.",Finger Dexterity,1,0
+8553,Cooling and Freezing Equipment Operators and Tenders,"Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment.",Number Facility,2,0
+8553,Cooling and Freezing Equipment Operators and Tenders,"Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment.",Static Strength,2,0
+8553,Cooling and Freezing Equipment Operators and Tenders,"Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment.",Manual Dexterity,1,0
+8542,Cooling and Freezing Equipment Operators and Tenders,Adjust machine or freezer speed and air intake to obtain desired consistency and amount of product.,Control Precision,2,0
+8542,Cooling and Freezing Equipment Operators and Tenders,Adjust machine or freezer speed and air intake to obtain desired consistency and amount of product.,Near Vision,1,0
+8550,Cooling and Freezing Equipment Operators and Tenders,Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container.,Number Facility,2,0
+8550,Cooling and Freezing Equipment Operators and Tenders,Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container.,Control Precision,2,0
+8550,Cooling and Freezing Equipment Operators and Tenders,Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container.,Manual Dexterity,1,0
+8557,Cooling and Freezing Equipment Operators and Tenders,"Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions.",Manual Dexterity,2,0
+8557,Cooling and Freezing Equipment Operators and Tenders,"Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions.",Near Vision,1,0
+8557,Cooling and Freezing Equipment Operators and Tenders,"Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions.",Static Strength,1,0
+8554,Cooling and Freezing Equipment Operators and Tenders,"Load and position wrapping paper, sticks, bags, or cartons into dispensing machines.",Manual Dexterity,2,0
+8554,Cooling and Freezing Equipment Operators and Tenders,"Load and position wrapping paper, sticks, bags, or cartons into dispensing machines.",Finger Dexterity,1,0
+8554,Cooling and Freezing Equipment Operators and Tenders,"Load and position wrapping paper, sticks, bags, or cartons into dispensing machines.",Near Vision,1,0
+8559,Cooling and Freezing Equipment Operators and Tenders,"Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers.",Near Vision,2,0
+8559,Cooling and Freezing Equipment Operators and Tenders,"Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers.",Number Facility,2,0
+8559,Cooling and Freezing Equipment Operators and Tenders,"Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers.",Manual Dexterity,1,0
+8552,Cooling and Freezing Equipment Operators and Tenders,"Start agitators to blend contents, or start beater, scraper, and expeller blades to mix contents with air and prevent sticking.",Control Precision,2,0
+8552,Cooling and Freezing Equipment Operators and Tenders,"Start agitators to blend contents, or start beater, scraper, and expeller blades to mix contents with air and prevent sticking.",Manual Dexterity,1,0
+8555,Cooling and Freezing Equipment Operators and Tenders,"Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes.",Manual Dexterity,2,0
+8555,Cooling and Freezing Equipment Operators and Tenders,"Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes.",Control Precision,2,0
+8555,Cooling and Freezing Equipment Operators and Tenders,"Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes.",Finger Dexterity,1,0
+8556,Cooling and Freezing Equipment Operators and Tenders,"Place or position containers into equipment, and remove containers after completion of cooling or freezing processes.",Manual Dexterity,2,0
+8556,Cooling and Freezing Equipment Operators and Tenders,"Place or position containers into equipment, and remove containers after completion of cooling or freezing processes.",Static Strength,1,0
+8556,Cooling and Freezing Equipment Operators and Tenders,"Place or position containers into equipment, and remove containers after completion of cooling or freezing processes.",Trunk Strength,1,0
+8549,Cooling and Freezing Equipment Operators and Tenders,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",Static Strength,2,0
+8549,Cooling and Freezing Equipment Operators and Tenders,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",Dynamic Strength,2,0
+8549,Cooling and Freezing Equipment Operators and Tenders,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",Manual Dexterity,2,0
+8549,Cooling and Freezing Equipment Operators and Tenders,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",Arm-Hand Steadiness,1,0
+8560,Cooling and Freezing Equipment Operators and Tenders,Activate mechanical rakes to regulate flow of ice from storage bins to vats.,Control Precision,2,0
+8560,Cooling and Freezing Equipment Operators and Tenders,Activate mechanical rakes to regulate flow of ice from storage bins to vats.,Manual Dexterity,1,0
+8560,Cooling and Freezing Equipment Operators and Tenders,Activate mechanical rakes to regulate flow of ice from storage bins to vats.,Near Vision,1,0
+8551,Cooling and Freezing Equipment Operators and Tenders,Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation.,Manual Dexterity,2,0
+8551,Cooling and Freezing Equipment Operators and Tenders,Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation.,Arm-Hand Steadiness,1,0
+8551,Cooling and Freezing Equipment Operators and Tenders,Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation.,Static Strength,1,0
+14395,Etchers and Engravers,"Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses.",Near Vision,3,0
+14395,Etchers and Engravers,"Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses.",Flexibility of Closure,2,0
+14395,Etchers and Engravers,"Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses.",Finger Dexterity,1,0
+14386,Etchers and Engravers,"Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces.",Visualization,2,0
+14386,Etchers and Engravers,"Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces.",Near Vision,2,0
+14386,Etchers and Engravers,"Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces.",Deductive Reasoning,1,0

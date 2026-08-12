@@ -1,0 +1,559 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Stamina,2,0
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Manual Dexterity,2,0
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Static Strength,1,0
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Near Vision,1,0
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Gross Body Coordination,1,0
+7964,Animal Control Workers,Clean facilities and equipment such as dog pens and animal control trucks.,Trunk Strength,1,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Oral Expression,2,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Oral Comprehension,2,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Written Expression,1,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Information Ordering,2,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Problem Sensitivity,1,0
+7972,Animal Control Workers,Organize the adoption of unclaimed animals.,Written Comprehension,1,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Near Vision,2,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Written Comprehension,2,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Problem Sensitivity,2,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Deductive Reasoning,2,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Information Ordering,1,0
+7971,Animal Control Workers,"Examine animal licenses, and inspect establishments housing animals for compliance with laws.",Selective Attention,1,0
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Oral Expression,3,0
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Oral Comprehension,2,0
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Gross Body Coordination,1,1
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Manual Dexterity,1,1
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Problem Sensitivity,1,0
+7973,Animal Control Workers,"Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection.",Information Ordering,1,0
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,Written Expression,3,0
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,Written Comprehension,2,0
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,Information Ordering,2,0
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,Memorization,1,0
+13095,Private Detectives and Investigators,Write reports or case summaries to document investigations.,Problem Sensitivity,1,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Problem Sensitivity,2,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Deductive Reasoning,2,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Inductive Reasoning,2,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Oral Comprehension,1,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Selective Attention,1,0
+13099,Private Detectives and Investigators,Conduct private investigations on a paid basis.,Information Ordering,1,0
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",Near Vision,2,0
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",Information Ordering,2,0
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",Selective Attention,2,0
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",Deductive Reasoning,2,0
+13096,Private Detectives and Investigators,"Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.",Written Comprehension,2,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Deductive Reasoning,2,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Information Ordering,2,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Oral Comprehension,1,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Written Comprehension,2,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Problem Sensitivity,1,0
+20758,Private Detectives and Investigators,"Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.",Oral Expression,1,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Problem Sensitivity,3,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Deductive Reasoning,3,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Inductive Reasoning,2,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Number Facility,1,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Information Ordering,1,0
+13106,Private Detectives and Investigators,Expose fraudulent insurance claims or stolen funds.,Written Expression,1,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Deductive Reasoning,3,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Inductive Reasoning,2,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Problem Sensitivity,2,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Information Ordering,2,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Oral Comprehension,1,0
+13097,Private Detectives and Investigators,"Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.",Selective Attention,1,0
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,Oral Expression,3,0
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,Memorization,2,0
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,Oral Comprehension,2,0
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,Selective Attention,1,0
+13100,Private Detectives and Investigators,Testify at hearings or court trials to present evidence.,Speech Clarity,1,0
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",Oral Expression,2,0
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",Oral Comprehension,3,0
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",Problem Sensitivity,2,0
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",Speech Recognition,2,0
+13101,Private Detectives and Investigators,"Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.",Deductive Reasoning,1,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Far Vision,3,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Near Vision,1,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Selective Attention,3,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Depth Perception,1,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Written Expression,1,0
+13102,Private Detectives and Investigators,"Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.",Peripheral Vision,1,1
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",Oral Expression,2,0
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",Oral Comprehension,2,0
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",Problem Sensitivity,1,0
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",Information Ordering,1,0
+13107,Private Detectives and Investigators,"Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.",Written Comprehension,1,0
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",Number Facility,3,0
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",Mathematical Reasoning,2,0
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",Deductive Reasoning,2,0
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",Problem Sensitivity,2,0
+13105,Private Detectives and Investigators,"Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.",Information Ordering,1,0
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",Selective Attention,2,0
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",Oral Expression,2,0
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",Oral Comprehension,2,0
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",Problem Sensitivity,2,0
+13104,Private Detectives and Investigators,"Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.",Speech Recognition,1,1
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,Oral Expression,2,0
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,Selective Attention,2,0
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,Reaction Time,1,0
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,Far Vision,1,0
+13103,Private Detectives and Investigators,Alert appropriate personnel to suspects' locations.,Problem Sensitivity,1,0
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",Number Facility,3,0
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",Near Vision,2,0
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",Selective Attention,2,0
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",Mathematical Reasoning,1,0
+13109,Private Detectives and Investigators,"Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.",Information Ordering,1,0
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,Selective Attention,2,0
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,Near Vision,1,0
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,Written Comprehension,1,0
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,Problem Sensitivity,2,0
+4409,Gambling Surveillance Officers and Gambling Investigators,Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures.,Deductive Reasoning,1,0
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",Selective Attention,3,0
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",Near Vision,2,0
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",Far Vision,1,0
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",Problem Sensitivity,3,0
+4407,Gambling Surveillance Officers and Gambling Investigators,"Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors.",Peripheral Vision,1,1
+4408,Gambling Surveillance Officers and Gambling Investigators,"Report all violations and suspicious behaviors to supervisors, verbally or in writing.",Oral Expression,2,0
+4408,Gambling Surveillance Officers and Gambling Investigators,"Report all violations and suspicious behaviors to supervisors, verbally or in writing.",Written Expression,2,0
+4408,Gambling Surveillance Officers and Gambling Investigators,"Report all violations and suspicious behaviors to supervisors, verbally or in writing.",Information Ordering,1,0
+4408,Gambling Surveillance Officers and Gambling Investigators,"Report all violations and suspicious behaviors to supervisors, verbally or in writing.",Problem Sensitivity,1,0
+21145,Gambling Surveillance Officers and Gambling Investigators,Develop and maintain log of surveillance observations.,Written Expression,2,0
+21145,Gambling Surveillance Officers and Gambling Investigators,Develop and maintain log of surveillance observations.,Information Ordering,2,0
+21145,Gambling Surveillance Officers and Gambling Investigators,Develop and maintain log of surveillance observations.,Memorization,1,0
+21145,Gambling Surveillance Officers and Gambling Investigators,Develop and maintain log of surveillance observations.,Written Comprehension,1,0
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,Near Vision,2,0
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,Selective Attention,1,0
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,Problem Sensitivity,1,0
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,Hearing Sensitivity,1,0
+21146,Gambling Surveillance Officers and Gambling Investigators,Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately.,Manual Dexterity,1,0
+21147,Gambling Surveillance Officers and Gambling Investigators,Review video surveillance footage.,Near Vision,2,0
+21147,Gambling Surveillance Officers and Gambling Investigators,Review video surveillance footage.,Selective Attention,3,0
+21147,Gambling Surveillance Officers and Gambling Investigators,Review video surveillance footage.,Problem Sensitivity,2,0
+21147,Gambling Surveillance Officers and Gambling Investigators,Review video surveillance footage.,Far Vision,1,0
+4410,Gambling Surveillance Officers and Gambling Investigators,Act as oversight or security agents for management or customers.,Selective Attention,1,0
+4410,Gambling Surveillance Officers and Gambling Investigators,Act as oversight or security agents for management or customers.,Problem Sensitivity,1,0
+4410,Gambling Surveillance Officers and Gambling Investigators,Act as oversight or security agents for management or customers.,Oral Expression,1,0
+4410,Gambling Surveillance Officers and Gambling Investigators,Act as oversight or security agents for management or customers.,Near Vision,1,0
+4411,Gambling Surveillance Officers and Gambling Investigators,Supervise or train surveillance observers.,Oral Expression,2,0
+4411,Gambling Surveillance Officers and Gambling Investigators,Supervise or train surveillance observers.,Oral Comprehension,1,0
+4411,Gambling Surveillance Officers and Gambling Investigators,Supervise or train surveillance observers.,Information Ordering,1,0
+4411,Gambling Surveillance Officers and Gambling Investigators,Supervise or train surveillance observers.,Written Comprehension,1,0
+20894,Security Guards,Lock doors and gates of entrances and exits to secure buildings.,Manual Dexterity,2,0
+20894,Security Guards,Lock doors and gates of entrances and exits to secure buildings.,Near Vision,1,0
+20894,Security Guards,Lock doors and gates of entrances and exits to secure buildings.,Gross Body Coordination,1,0
+20894,Security Guards,Lock doors and gates of entrances and exits to secure buildings.,Finger Dexterity,1,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Far Vision,2,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Near Vision,1,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Selective Attention,2,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Stamina,2,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Gross Body Coordination,1,0
+2131,Security Guards,"Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates.",Hearing Sensitivity,1,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Reaction Time,2,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Manual Dexterity,2,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Oral Expression,1,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Problem Sensitivity,2,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Near Vision,1,0
+20895,Security Guards,Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics.,Static Strength,1,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Reaction Time,2,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Selective Attention,2,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Problem Sensitivity,2,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Stamina,1,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Gross Body Coordination,1,0
+2132,Security Guards,Answer alarms and investigate disturbances.,Far Vision,1,0
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",Selective Attention,2,0
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",Stamina,1,0
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",Near Vision,1,0
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",Gross Body Coordination,1,0
+2136,Security Guards,"Circulate among visitors, patrons, or employees to preserve order and protect property.",Far Vision,1,0
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",Selective Attention,2,0
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",Near Vision,1,0
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",Problem Sensitivity,1,0
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",Oral Expression,1,0
+2133,Security Guards,"Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.",Oral Comprehension,1,0
+2134,Security Guards,"Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.",Written Expression,3,0
+2134,Security Guards,"Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.",Information Ordering,2,0
+2134,Security Guards,"Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.",Memorization,1,0
+2134,Security Guards,"Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.",Written Comprehension,1,0
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",Static Strength,2,0
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",Dynamic Strength,2,0
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",Gross Body Coordination,2,0
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",Reaction Time,2,0
+2138,Security Guards,"Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary.",Oral Expression,2,0
+2137,Security Guards,"Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed.",Oral Comprehension,2,0
+2137,Security Guards,"Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed.",Oral Expression,2,0
+2137,Security Guards,"Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed.",Speech Recognition,2,0
+2137,Security Guards,"Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed.",Information Ordering,1,0
+2135,Security Guards,"Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.",Oral Expression,2,0
+2135,Security Guards,"Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.",Reaction Time,2,0
+2135,Security Guards,"Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.",Problem Sensitivity,1,0
+2135,Security Guards,"Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.",Speech Clarity,1,0
+2139,Security Guards,Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas.,Near Vision,2,0
+2139,Security Guards,Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas.,Selective Attention,2,0
+2139,Security Guards,Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas.,Control Precision,1,0
+2139,Security Guards,Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas.,Auditory Attention,1,0
+2141,Security Guards,"Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering.",Near Vision,2,0
+2141,Security Guards,"Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering.",Manual Dexterity,2,0
+2141,Security Guards,"Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering.",Problem Sensitivity,2,0
+2141,Security Guards,"Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering.",Control Precision,1,0
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,Far Vision,2,0
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,Control Precision,2,0
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,Reaction Time,2,0
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,Multilimb Coordination,1,0
+2140,Security Guards,Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection.,Selective Attention,2,0
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",Near Vision,1,0
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",Control Precision,1,0
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",Problem Sensitivity,1,0
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",Manual Dexterity,1,0
+2143,Security Guards,"Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler.",Selective Attention,1,0
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",Far Vision,2,0
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",Reaction Time,2,0
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",Gross Body Coordination,1,0
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",Selective Attention,2,0
+11117,Crossing Guards and Flaggers,"Direct or escort pedestrians across streets, stopping traffic, as necessary.",Depth Perception,1,0
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,Far Vision,2,0
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,Reaction Time,2,0
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,Selective Attention,2,0
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,Gross Body Coordination,1,0
+11118,Crossing Guards and Flaggers,Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites.,Multilimb Coordination,1,0
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,Far Vision,3,0
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,Selective Attention,3,0
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,Depth Perception,2,0
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,Reaction Time,2,0
+11116,Crossing Guards and Flaggers,Monitor traffic flow to locate safe gaps through which pedestrians can cross streets.,Peripheral Vision,1,0
+11119,Crossing Guards and Flaggers,Communicate traffic and crossing rules and other information to students and adults.,Oral Expression,2,0
+11119,Crossing Guards and Flaggers,Communicate traffic and crossing rules and other information to students and adults.,Oral Comprehension,2,0
+11119,Crossing Guards and Flaggers,Communicate traffic and crossing rules and other information to students and adults.,Speech Clarity,1,0
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",Far Vision,2,0
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",Multilimb Coordination,2,0
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",Gross Body Coordination,1,0
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",Reaction Time,2,0
+11122,Crossing Guards and Flaggers,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",Selective Attention,1,0
+11120,Crossing Guards and Flaggers,Report unsafe behavior of children to school officials.,Oral Expression,2,0
+11120,Crossing Guards and Flaggers,Report unsafe behavior of children to school officials.,Written Expression,1,0
+11120,Crossing Guards and Flaggers,Report unsafe behavior of children to school officials.,Problem Sensitivity,1,0
+11120,Crossing Guards and Flaggers,Report unsafe behavior of children to school officials.,Selective Attention,1,0
+11121,Crossing Guards and Flaggers,"Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities.",Near Vision,2,0
+11121,Crossing Guards and Flaggers,"Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities.",Far Vision,2,0
+11121,Crossing Guards and Flaggers,"Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities.",Memorization,2,0
+11121,Crossing Guards and Flaggers,"Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities.",Written Expression,1,0
+11125,Crossing Guards and Flaggers,Distribute traffic control signs and markers at designated points.,Static Strength,1,0
+11125,Crossing Guards and Flaggers,Distribute traffic control signs and markers at designated points.,Manual Dexterity,1,0
+11125,Crossing Guards and Flaggers,Distribute traffic control signs and markers at designated points.,Gross Body Coordination,1,0
+11125,Crossing Guards and Flaggers,Distribute traffic control signs and markers at designated points.,Stamina,1,0
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,Far Vision,2,0
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,Reaction Time,2,0
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,Oral Expression,1,0
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,Gross Body Coordination,1,0
+11124,Crossing Guards and Flaggers,Stop speeding vehicles to warn drivers of traffic laws.,Selective Attention,1,0
+11123,Crossing Guards and Flaggers,Learn the location and purpose of street traffic signs within assigned patrol areas.,Memorization,3,0
+11123,Crossing Guards and Flaggers,Learn the location and purpose of street traffic signs within assigned patrol areas.,Visualization,1,0
+11123,Crossing Guards and Flaggers,Learn the location and purpose of street traffic signs within assigned patrol areas.,Near Vision,1,0
+11123,Crossing Guards and Flaggers,Learn the location and purpose of street traffic signs within assigned patrol areas.,Spatial Orientation,1,0
+11126,Crossing Guards and Flaggers,Discuss traffic routing plans and control-point locations with superiors.,Oral Expression,2,0
+11126,Crossing Guards and Flaggers,Discuss traffic routing plans and control-point locations with superiors.,Oral Comprehension,2,0
+11126,Crossing Guards and Flaggers,Discuss traffic routing plans and control-point locations with superiors.,Visualization,1,0
+11126,Crossing Guards and Flaggers,Discuss traffic routing plans and control-point locations with superiors.,Spatial Orientation,1,0
+11127,Crossing Guards and Flaggers,Inform drivers of detour routes through construction sites.,Oral Expression,2,0
+11127,Crossing Guards and Flaggers,Inform drivers of detour routes through construction sites.,Spatial Orientation,1,0
+11127,Crossing Guards and Flaggers,Inform drivers of detour routes through construction sites.,Visualization,1,0
+11127,Crossing Guards and Flaggers,Inform drivers of detour routes through construction sites.,Oral Comprehension,1,0
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",Far Vision,3,0
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",Selective Attention,3,0
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",Depth Perception,1,0
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",Stamina,2,0
+5041,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.",Gross Body Equilibrium,1,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Dynamic Strength,3,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Stamina,3,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Gross Body Coordination,2,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Reaction Time,3,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Multilimb Coordination,2,0
+5039,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Rescue distressed persons, using rescue techniques and equipment.",Static Strength,1,0
+5040,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Contact emergency medical personnel in case of serious injury.,Oral Expression,2,0
+5040,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Contact emergency medical personnel in case of serious injury.,Reaction Time,1,0
+5040,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Contact emergency medical personnel in case of serious injury.,Problem Sensitivity,1,0
+5040,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Contact emergency medical personnel in case of serious injury.,Speech Clarity,1,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Manual Dexterity,2,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Reaction Time,2,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Problem Sensitivity,2,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Near Vision,1,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Stamina,1,0
+5042,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.",Static Strength,1,0
+5044,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.",Oral Expression,2,0
+5044,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.",Selective Attention,1,0
+5044,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.",Far Vision,1,0
+5044,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.",Problem Sensitivity,1,0
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,Near Vision,2,0
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,Control Precision,1,0
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,Number Facility,1,0
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,Visual Color Discrimination,2,1
+20129,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Maintain quality of pool water by testing chemical levels.,Manual Dexterity,1,0
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",Written Expression,2,0
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",Information Ordering,2,0
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",Memorization,1,0
+5045,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.",Written Comprehension,1,0
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",Oral Expression,2,0
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",Gross Body Coordination,2,0
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",Multilimb Coordination,1,0
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",Oral Comprehension,1,0
+5043,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.",Dynamic Flexibility,1,0
+5046,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.",Near Vision,2,0
+5046,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.",Problem Sensitivity,2,0
+5046,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.",Manual Dexterity,1,0
+5046,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.",Selective Attention,1,0
+5048,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Inspect recreational facilities for cleanliness.,Near Vision,2,0
+5048,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Inspect recreational facilities for cleanliness.,Problem Sensitivity,1,0
+5048,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Inspect recreational facilities for cleanliness.,Selective Attention,1,0
+5049,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.",Far Vision,3,0
+5049,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.",Selective Attention,3,0
+5049,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.",Depth Perception,1,0
+5049,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.",Peripheral Vision,1,0
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,Multilimb Coordination,2,0
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,Control Precision,2,0
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,Near Vision,1,0
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,Gross Body Coordination,2,0
+5051,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Operate underwater recovery units.,Stamina,2,0
+5047,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance with staff selection, training, and supervision.",Oral Expression,2,0
+5047,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance with staff selection, training, and supervision.",Oral Comprehension,1,0
+5047,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance with staff selection, training, and supervision.",Deductive Reasoning,1,0
+5050,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance in the safe use of equipment, such as ski lifts.",Oral Expression,1,0
+5050,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance in the safe use of equipment, such as ski lifts.",Manual Dexterity,1,0
+5050,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance in the safe use of equipment, such as ski lifts.",Gross Body Coordination,1,0
+5050,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Provide assistance in the safe use of equipment, such as ski lifts.",Oral Comprehension,1,0
+5052,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Participate in recreational demonstrations to entertain resort guests.,Gross Body Coordination,2,0
+5052,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Participate in recreational demonstrations to entertain resort guests.,Dynamic Flexibility,1,1
+5052,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Participate in recreational demonstrations to entertain resort guests.,Multilimb Coordination,1,0
+5052,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",Participate in recreational demonstrations to entertain resort guests.,Gross Body Equilibrium,1,0
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",Near Vision,3,0
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",Selective Attention,3,0
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",Problem Sensitivity,2,0
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",Speed of Closure,2,0
+15341,Transportation Security Screeners,"Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation.",Perceptual Speed,1,0
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,Manual Dexterity,2,0
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,Near Vision,2,0
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,Finger Dexterity,1,0
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,Problem Sensitivity,1,0
+15348,Transportation Security Screeners,Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons.,Selective Attention,1,0
+15332,Transportation Security Screeners,"Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification.",Near Vision,2,0
+15332,Transportation Security Screeners,"Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification.",Selective Attention,1,0
+15332,Transportation Security Screeners,"Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification.",Perceptual Speed,1,0
+15332,Transportation Security Screeners,"Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification.",Oral Comprehension,1,0
+15350,Transportation Security Screeners,"Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems.",Manual Dexterity,2,0
+15350,Transportation Security Screeners,"Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems.",Near Vision,1,0
+15350,Transportation Security Screeners,"Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems.",Control Precision,1,0
+15350,Transportation Security Screeners,"Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems.",Problem Sensitivity,1,0
+15346,Transportation Security Screeners,"Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches.",Manual Dexterity,2,0
+15346,Transportation Security Screeners,"Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches.",Arm-Hand Steadiness,1,0
+15346,Transportation Security Screeners,"Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches.",Selective Attention,1,0
+15346,Transportation Security Screeners,"Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches.",Near Vision,1,0
+15345,Transportation Security Screeners,Notify supervisors or other appropriate personnel when security breaches occur.,Oral Expression,2,0
+15345,Transportation Security Screeners,Notify supervisors or other appropriate personnel when security breaches occur.,Reaction Time,1,0
+15345,Transportation Security Screeners,Notify supervisors or other appropriate personnel when security breaches occur.,Problem Sensitivity,1,0
+15349,Transportation Security Screeners,"Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment.",Manual Dexterity,1,0
+15349,Transportation Security Screeners,"Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment.",Near Vision,1,0
+15349,Transportation Security Screeners,"Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment.",Static Strength,1,0
+15349,Transportation Security Screeners,"Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment.",Selective Attention,1,0
+15337,Transportation Security Screeners,Decide whether baggage that triggers alarms should be searched or should be allowed to pass through.,Deductive Reasoning,2,0
+15337,Transportation Security Screeners,Decide whether baggage that triggers alarms should be searched or should be allowed to pass through.,Problem Sensitivity,2,0
+15337,Transportation Security Screeners,Decide whether baggage that triggers alarms should be searched or should be allowed to pass through.,Near Vision,1,0
+15337,Transportation Security Screeners,Decide whether baggage that triggers alarms should be searched or should be allowed to pass through.,Selective Attention,1,0
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,Stamina,2,0
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,Far Vision,1,0
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,Selective Attention,2,0
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,Gross Body Coordination,1,0
+15354,Transportation Security Screeners,Follow those who breach security until police or other security personnel arrive to apprehend them.,Reaction Time,1,0
+15339,Transportation Security Screeners,Inform other screeners when baggage should not be opened because it might contain explosives.,Oral Expression,2,0
+15339,Transportation Security Screeners,Inform other screeners when baggage should not be opened because it might contain explosives.,Problem Sensitivity,1,0
+15339,Transportation Security Screeners,Inform other screeners when baggage should not be opened because it might contain explosives.,Selective Attention,1,0
+15342,Transportation Security Screeners,Inspect checked baggage for signs of tampering.,Near Vision,2,0
+15342,Transportation Security Screeners,Inspect checked baggage for signs of tampering.,Problem Sensitivity,2,0
+15342,Transportation Security Screeners,Inspect checked baggage for signs of tampering.,Selective Attention,1,0
+15331,Transportation Security Screeners,Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors.,Oral Expression,2,0
+15331,Transportation Security Screeners,Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors.,Oral Comprehension,1,0
+15331,Transportation Security Screeners,Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors.,Selective Attention,1,0
+15333,Transportation Security Screeners,Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure.,Manual Dexterity,1,0
+15333,Transportation Security Screeners,Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure.,Reaction Time,1,0
+15333,Transportation Security Screeners,Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure.,Oral Comprehension,1,0
+15333,Transportation Security Screeners,Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure.,Gross Body Coordination,1,0
+15353,Transportation Security Screeners,"Challenge suspicious people, requesting their badges and asking what their business is in a particular areas.",Oral Expression,2,0
+15353,Transportation Security Screeners,"Challenge suspicious people, requesting their badges and asking what their business is in a particular areas.",Problem Sensitivity,2,0
+15353,Transportation Security Screeners,"Challenge suspicious people, requesting their badges and asking what their business is in a particular areas.",Near Vision,1,0
+15353,Transportation Security Screeners,"Challenge suspicious people, requesting their badges and asking what their business is in a particular areas.",Selective Attention,1,0
+15355,Transportation Security Screeners,Patrol work areas to detect any suspicious items.,Far Vision,2,0
+15355,Transportation Security Screeners,Patrol work areas to detect any suspicious items.,Selective Attention,2,0
+15355,Transportation Security Screeners,Patrol work areas to detect any suspicious items.,Stamina,1,0
+15355,Transportation Security Screeners,Patrol work areas to detect any suspicious items.,Near Vision,1,0
+15336,Transportation Security Screeners,"Contact police directly in cases of urgent security issues, using phones or two-way radios.",Oral Expression,2,0
+15336,Transportation Security Screeners,"Contact police directly in cases of urgent security issues, using phones or two-way radios.",Reaction Time,1,0
+15336,Transportation Security Screeners,"Contact police directly in cases of urgent security issues, using phones or two-way radios.",Problem Sensitivity,1,0
+15336,Transportation Security Screeners,"Contact police directly in cases of urgent security issues, using phones or two-way radios.",Speech Clarity,1,0
+15347,Transportation Security Screeners,Record information about any baggage that sets off alarms in monitoring equipment.,Written Expression,2,0
+15347,Transportation Security Screeners,Record information about any baggage that sets off alarms in monitoring equipment.,Near Vision,1,0
+15347,Transportation Security Screeners,Record information about any baggage that sets off alarms in monitoring equipment.,Information Ordering,1,0
+15352,Transportation Security Screeners,Watch for potentially dangerous persons whose pictures are posted at checkpoints.,Far Vision,2,0
+15352,Transportation Security Screeners,Watch for potentially dangerous persons whose pictures are posted at checkpoints.,Selective Attention,3,0
+15352,Transportation Security Screeners,Watch for potentially dangerous persons whose pictures are posted at checkpoints.,Memorization,2,0
+15352,Transportation Security Screeners,Watch for potentially dangerous persons whose pictures are posted at checkpoints.,Near Vision,1,0
+15335,Transportation Security Screeners,Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists.,Oral Expression,2,0
+15335,Transportation Security Screeners,Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists.,Deductive Reasoning,1,0
+15335,Transportation Security Screeners,Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists.,Oral Comprehension,1,0
+15335,Transportation Security Screeners,Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists.,Problem Sensitivity,1,0
+15334,Transportation Security Screeners,Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal.,Manual Dexterity,2,0
+15334,Transportation Security Screeners,Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal.,Near Vision,1,0
+15334,Transportation Security Screeners,Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal.,Oral Expression,1,0
+15334,Transportation Security Screeners,Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal.,Problem Sensitivity,1,0
+15344,Transportation Security Screeners,Monitor passenger flow through screening checkpoints to ensure order and efficiency.,Selective Attention,2,0
+15344,Transportation Security Screeners,Monitor passenger flow through screening checkpoints to ensure order and efficiency.,Near Vision,1,0
+15344,Transportation Security Screeners,Monitor passenger flow through screening checkpoints to ensure order and efficiency.,Time Sharing,1,0
+15344,Transportation Security Screeners,Monitor passenger flow through screening checkpoints to ensure order and efficiency.,Far Vision,1,0
+15340,Transportation Security Screeners,"Inform passengers of how to mail prohibited items to themselves, or confiscate these items.",Oral Expression,2,0
+15340,Transportation Security Screeners,"Inform passengers of how to mail prohibited items to themselves, or confiscate these items.",Oral Comprehension,1,0
+15340,Transportation Security Screeners,"Inform passengers of how to mail prohibited items to themselves, or confiscate these items.",Manual Dexterity,1,0
+15356,Transportation Security Screeners,Provide directions and respond to passenger inquiries.,Oral Expression,2,0
+15356,Transportation Security Screeners,Provide directions and respond to passenger inquiries.,Oral Comprehension,2,0
+15356,Transportation Security Screeners,Provide directions and respond to passenger inquiries.,Spatial Orientation,1,0
+15338,Transportation Security Screeners,Direct passengers to areas where they can pick up their baggage after screening is complete.,Oral Expression,1,0
+15338,Transportation Security Screeners,Direct passengers to areas where they can pick up their baggage after screening is complete.,Spatial Orientation,1,0
+15338,Transportation Security Screeners,Direct passengers to areas where they can pick up their baggage after screening is complete.,Oral Comprehension,1,0
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",Near Vision,3,0
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",Selective Attention,3,0
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",Problem Sensitivity,2,0
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",Speed of Closure,2,0
+15351,Transportation Security Screeners,"View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems.",Perceptual Speed,1,0
+15343,Transportation Security Screeners,"Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection.",Near Vision,2,0
+15343,Transportation Security Screeners,"Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection.",Selective Attention,2,0
+15343,Transportation Security Screeners,"Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection.",Speed of Closure,1,0
+15343,Transportation Security Screeners,"Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection.",Problem Sensitivity,1,0
+23081,School Bus Monitors,Announce routes or stops.,Oral Expression,2,0
+23081,School Bus Monitors,Announce routes or stops.,Memorization,1,0
+23081,School Bus Monitors,Announce routes or stops.,Speech Clarity,1,0
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",Manual Dexterity,2,0
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",Static Strength,1,0
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",Gross Body Coordination,1,0
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",Oral Expression,1,0
+23082,School Bus Monitors,"Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus.",Oral Comprehension,1,0
+23083,School Bus Monitors,Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation.,Manual Dexterity,2,0
+23083,School Bus Monitors,Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation.,Finger Dexterity,2,0
+23083,School Bus Monitors,Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation.,Static Strength,1,0
+23083,School Bus Monitors,Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation.,Control Precision,1,0
+23084,School Bus Monitors,"Clean school bus interiors by picking up waste, wiping down windows, or vacuuming.",Manual Dexterity,1,0
+23084,School Bus Monitors,"Clean school bus interiors by picking up waste, wiping down windows, or vacuuming.",Stamina,1,0
+23084,School Bus Monitors,"Clean school bus interiors by picking up waste, wiping down windows, or vacuuming.",Gross Body Coordination,1,0
+23084,School Bus Monitors,"Clean school bus interiors by picking up waste, wiping down windows, or vacuuming.",Near Vision,1,0
+23085,School Bus Monitors,Direct students boarding and exiting the school bus.,Oral Expression,1,0
+23085,School Bus Monitors,Direct students boarding and exiting the school bus.,Selective Attention,1,0
+23085,School Bus Monitors,Direct students boarding and exiting the school bus.,Reaction Time,1,0
+23086,School Bus Monitors,Direct students evacuating the bus during safety drills.,Oral Expression,2,0
+23086,School Bus Monitors,Direct students evacuating the bus during safety drills.,Reaction Time,1,0
+23086,School Bus Monitors,Direct students evacuating the bus during safety drills.,Selective Attention,1,0
+23086,School Bus Monitors,Direct students evacuating the bus during safety drills.,Problem Sensitivity,1,0
+23087,School Bus Monitors,Escort young children across roads or highways.,Far Vision,2,0
+23087,School Bus Monitors,Escort young children across roads or highways.,Selective Attention,2,0
+23087,School Bus Monitors,Escort young children across roads or highways.,Reaction Time,1,0
+23087,School Bus Monitors,Escort young children across roads or highways.,Gross Body Coordination,1,0
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,Reaction Time,2,0
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,Oral Expression,1,0
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,Stamina,1,0
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,Gross Body Coordination,1,0
+23088,School Bus Monitors,Evacuate students from the school bus in emergency situations.,Problem Sensitivity,1,0
+23089,School Bus Monitors,Guide the driver when the bus is moving in reverse gear.,Far Vision,2,0
+23089,School Bus Monitors,Guide the driver when the bus is moving in reverse gear.,Depth Perception,2,1
+23089,School Bus Monitors,Guide the driver when the bus is moving in reverse gear.,Oral Expression,1,0
+23089,School Bus Monitors,Guide the driver when the bus is moving in reverse gear.,Selective Attention,1,0
+23090,School Bus Monitors,Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed.,Far Vision,2,0
+23090,School Bus Monitors,Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed.,Selective Attention,2,0
+23090,School Bus Monitors,Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed.,Reaction Time,1,0
+23090,School Bus Monitors,Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed.,Auditory Attention,1,0
+23091,School Bus Monitors,Monitor the conduct of students to maintain discipline and safety.,Selective Attention,2,0
+23091,School Bus Monitors,Monitor the conduct of students to maintain discipline and safety.,Near Vision,1,0
+23091,School Bus Monitors,Monitor the conduct of students to maintain discipline and safety.,Problem Sensitivity,1,0
+23091,School Bus Monitors,Monitor the conduct of students to maintain discipline and safety.,Oral Comprehension,1,0
+23092,School Bus Monitors,Open and close school bus doors for students.,Manual Dexterity,1,0
+23092,School Bus Monitors,Open and close school bus doors for students.,Reaction Time,1,0
+23092,School Bus Monitors,Open and close school bus doors for students.,Selective Attention,1,0
+23093,School Bus Monitors,Operate a wheelchair lift to load or unload wheelchairs.,Control Precision,2,0
+23093,School Bus Monitors,Operate a wheelchair lift to load or unload wheelchairs.,Manual Dexterity,1,0
+23093,School Bus Monitors,Operate a wheelchair lift to load or unload wheelchairs.,Static Strength,1,0
+23093,School Bus Monitors,Operate a wheelchair lift to load or unload wheelchairs.,Near Vision,1,0
+23094,School Bus Monitors,Prevent or defuse altercations between students.,Oral Expression,2,0
+23094,School Bus Monitors,Prevent or defuse altercations between students.,Problem Sensitivity,2,0
+23094,School Bus Monitors,Prevent or defuse altercations between students.,Reaction Time,1,0
+23094,School Bus Monitors,Prevent or defuse altercations between students.,Oral Comprehension,1,0
+23095,School Bus Monitors,"Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios.",Oral Expression,2,0
+23095,School Bus Monitors,"Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios.",Speech Clarity,1,0
+23095,School Bus Monitors,"Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios.",Information Ordering,1,0
+23096,School Bus Monitors,"Respond to students' questions, requests, or complaints.",Oral Comprehension,2,0
+23096,School Bus Monitors,"Respond to students' questions, requests, or complaints.",Oral Expression,2,0
+23096,School Bus Monitors,"Respond to students' questions, requests, or complaints.",Problem Sensitivity,1,0
+23097,School Bus Monitors,"Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues.",Oral Expression,2,0
+23097,School Bus Monitors,"Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues.",Oral Comprehension,2,0
+23097,School Bus Monitors,"Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues.",Problem Sensitivity,1,0
+23097,School Bus Monitors,"Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues.",Information Ordering,1,0
+23098,School Bus Monitors,"Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed.",Written Expression,2,0
+23098,School Bus Monitors,"Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed.",Number Facility,2,0
+23098,School Bus Monitors,"Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed.",Information Ordering,1,0
+23098,School Bus Monitors,"Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed.",Written Comprehension,1,0
+17561,Retail Loss Prevention Specialists,"Investigate known or suspected internal theft, external theft, or vendor fraud.",Deductive Reasoning,2,0
+17561,Retail Loss Prevention Specialists,"Investigate known or suspected internal theft, external theft, or vendor fraud.",Problem Sensitivity,2,0
+17561,Retail Loss Prevention Specialists,"Investigate known or suspected internal theft, external theft, or vendor fraud.",Information Ordering,1,0
+17561,Retail Loss Prevention Specialists,"Investigate known or suspected internal theft, external theft, or vendor fraud.",Inductive Reasoning,1,0
+17560,Retail Loss Prevention Specialists,Implement or monitor processes to reduce property or financial losses.,Deductive Reasoning,1,0
+17560,Retail Loss Prevention Specialists,Implement or monitor processes to reduce property or financial losses.,Problem Sensitivity,2,0
+17560,Retail Loss Prevention Specialists,Implement or monitor processes to reduce property or financial losses.,Information Ordering,1,0
+17560,Retail Loss Prevention Specialists,Implement or monitor processes to reduce property or financial losses.,Written Comprehension,1,0
+17565,Retail Loss Prevention Specialists,Identify and report merchandise or stock shortages.,Number Facility,2,0
+17565,Retail Loss Prevention Specialists,Identify and report merchandise or stock shortages.,Problem Sensitivity,1,0
+17565,Retail Loss Prevention Specialists,Identify and report merchandise or stock shortages.,Written Expression,1,0
+17565,Retail Loss Prevention Specialists,Identify and report merchandise or stock shortages.,Near Vision,1,0
+17567,Retail Loss Prevention Specialists,Maintain documentation or reports on security-related incidents or investigations.,Written Expression,2,0
+17567,Retail Loss Prevention Specialists,Maintain documentation or reports on security-related incidents or investigations.,Information Ordering,2,0
+17567,Retail Loss Prevention Specialists,Maintain documentation or reports on security-related incidents or investigations.,Memorization,1,0
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,Dynamic Strength,2,0
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,Gross Body Coordination,2,0
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,Reaction Time,2,0
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,Static Strength,1,0
+17575,Retail Loss Prevention Specialists,Apprehend shoplifters in accordance with guidelines.,Stamina,1,0
+17573,Retail Loss Prevention Specialists,"Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks.",Near Vision,2,0
+17573,Retail Loss Prevention Specialists,"Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks.",Problem Sensitivity,1,0
+17573,Retail Loss Prevention Specialists,"Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks.",Manual Dexterity,1,0
+17573,Retail Loss Prevention Specialists,"Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks.",Selective Attention,1,0
+17578,Retail Loss Prevention Specialists,Identify and report safety concerns to maintain a safe shopping and working environment.,Problem Sensitivity,2,0
+17578,Retail Loss Prevention Specialists,Identify and report safety concerns to maintain a safe shopping and working environment.,Near Vision,1,0
+17578,Retail Loss Prevention Specialists,Identify and report safety concerns to maintain a safe shopping and working environment.,Written Expression,1,0
+17578,Retail Loss Prevention Specialists,Identify and report safety concerns to maintain a safe shopping and working environment.,Selective Attention,1,0
+17563,Retail Loss Prevention Specialists,Conduct store audits to identify problem areas or procedural deficiencies.,Problem Sensitivity,2,0
+17563,Retail Loss Prevention Specialists,Conduct store audits to identify problem areas or procedural deficiencies.,Deductive Reasoning,1,0
+17563,Retail Loss Prevention Specialists,Conduct store audits to identify problem areas or procedural deficiencies.,Information Ordering,1,0
+17563,Retail Loss Prevention Specialists,Conduct store audits to identify problem areas or procedural deficiencies.,Number Facility,1,0
+17568,Retail Loss Prevention Specialists,"Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management.",Selective Attention,1,0
+17568,Retail Loss Prevention Specialists,"Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management.",Problem Sensitivity,1,0
+17568,Retail Loss Prevention Specialists,"Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management.",Written Comprehension,1,0
+17568,Retail Loss Prevention Specialists,"Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management.",Information Ordering,1,0
+17566,Retail Loss Prevention Specialists,"Inspect buildings, equipment, or access points to determine security risks.",Near Vision,2,0
+17566,Retail Loss Prevention Specialists,"Inspect buildings, equipment, or access points to determine security risks.",Problem Sensitivity,2,0
+17566,Retail Loss Prevention Specialists,"Inspect buildings, equipment, or access points to determine security risks.",Deductive Reasoning,1,0
+17569,Retail Loss Prevention Specialists,"Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses.",Selective Attention,3,0
+17569,Retail Loss Prevention Specialists,"Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses.",Near Vision,2,0
+17569,Retail Loss Prevention Specialists,"Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses.",Far Vision,1,0
+17569,Retail Loss Prevention Specialists,"Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses.",Problem Sensitivity,1,0
+17570,Retail Loss Prevention Specialists,Prepare written reports on investigations.,Written Expression,3,0
+17570,Retail Loss Prevention Specialists,Prepare written reports on investigations.,Information Ordering,2,0
+17570,Retail Loss Prevention Specialists,Prepare written reports on investigations.,Written Comprehension,1,0
+17562,Retail Loss Prevention Specialists,Collaborate with law enforcement agencies to report or investigate crimes.,Oral Expression,2,0
+17562,Retail Loss Prevention Specialists,Collaborate with law enforcement agencies to report or investigate crimes.,Oral Comprehension,2,0
+17562,Retail Loss Prevention Specialists,Collaborate with law enforcement agencies to report or investigate crimes.,Deductive Reasoning,1,0
+17574,Retail Loss Prevention Specialists,Testify in civil or criminal court proceedings.,Oral Expression,3,0
+17574,Retail Loss Prevention Specialists,Testify in civil or criminal court proceedings.,Memorization,2,0
+17574,Retail Loss Prevention Specialists,Testify in civil or criminal court proceedings.,Oral Comprehension,1,0
+17579,Retail Loss Prevention Specialists,Recommend methods to reduce potential financial fraud losses.,Deductive Reasoning,2,0
+17579,Retail Loss Prevention Specialists,Recommend methods to reduce potential financial fraud losses.,Problem Sensitivity,2,0
+17579,Retail Loss Prevention Specialists,Recommend methods to reduce potential financial fraud losses.,Written Expression,1,0
+17579,Retail Loss Prevention Specialists,Recommend methods to reduce potential financial fraud losses.,Inductive Reasoning,1,0
+17572,Retail Loss Prevention Specialists,Train establishment personnel in loss prevention activities.,Oral Expression,2,0
+17572,Retail Loss Prevention Specialists,Train establishment personnel in loss prevention activities.,Oral Comprehension,1,0
+17572,Retail Loss Prevention Specialists,Train establishment personnel in loss prevention activities.,Information Ordering,1,0
+17577,Retail Loss Prevention Specialists,"Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training.",Oral Expression,2,0
+17577,Retail Loss Prevention Specialists,"Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training.",Oral Comprehension,1,0
+17577,Retail Loss Prevention Specialists,"Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training.",Information Ordering,1,0
+17580,Retail Loss Prevention Specialists,"Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders.",Reaction Time,2,0
+17580,Retail Loss Prevention Specialists,"Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders.",Problem Sensitivity,2,0
+17580,Retail Loss Prevention Specialists,"Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders.",Stamina,1,0
+17580,Retail Loss Prevention Specialists,"Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders.",Oral Expression,1,0
+17571,Retail Loss Prevention Specialists,Recommend new or improved processes or equipment to reduce risk exposure.,Deductive Reasoning,2,0
+17571,Retail Loss Prevention Specialists,Recommend new or improved processes or equipment to reduce risk exposure.,Problem Sensitivity,1,0
+17571,Retail Loss Prevention Specialists,Recommend new or improved processes or equipment to reduce risk exposure.,Originality,1,1
+17571,Retail Loss Prevention Specialists,Recommend new or improved processes or equipment to reduce risk exposure.,Inductive Reasoning,1,0

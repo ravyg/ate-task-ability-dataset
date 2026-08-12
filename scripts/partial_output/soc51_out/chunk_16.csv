@@ -1,0 +1,185 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Manual Dexterity,3,0
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Control Precision,2,0
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Arm-Hand Steadiness,2,0
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Near Vision,2,0
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Finger Dexterity,2,0
+14414,Tire Builders,"Cut plies at splice points, and press ends together to form continuous bands.",Multilimb Coordination,1,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Multilimb Coordination,3,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Manual Dexterity,2,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Rate Control,2,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Control Precision,2,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Near Vision,2,0
+14410,Tire Builders,"Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.",Response Orientation,1,0
+14422,Tire Builders,Clean and paint completed tires.,Manual Dexterity,2,0
+14422,Tire Builders,Clean and paint completed tires.,Arm-Hand Steadiness,2,0
+14422,Tire Builders,Clean and paint completed tires.,Control Precision,1,0
+14422,Tire Builders,Clean and paint completed tires.,Near Vision,1,0
+14422,Tire Builders,Clean and paint completed tires.,Stamina,1,0
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,Manual Dexterity,3,0
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,Arm-Hand Steadiness,2,0
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,Control Precision,2,0
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,Near Vision,1,0
+14424,Tire Builders,Rub cement sticks on drum edges to provide adhesive surfaces for plies.,Finger Dexterity,1,0
+14429,Tire Builders,Depress pedals to collapse drums after processing is complete.,Control Precision,2,0
+14429,Tire Builders,Depress pedals to collapse drums after processing is complete.,Reaction Time,1,0
+14429,Tire Builders,Depress pedals to collapse drums after processing is complete.,Multilimb Coordination,1,0
+14429,Tire Builders,Depress pedals to collapse drums after processing is complete.,Speed of Limb Movement,1,1
+14419,Tire Builders,Wind chafers and breakers onto plies.,Manual Dexterity,3,0
+14419,Tire Builders,Wind chafers and breakers onto plies.,Finger Dexterity,2,0
+14419,Tire Builders,Wind chafers and breakers onto plies.,Arm-Hand Steadiness,2,0
+14419,Tire Builders,Wind chafers and breakers onto plies.,Control Precision,2,0
+14419,Tire Builders,Wind chafers and breakers onto plies.,Near Vision,1,0
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",Manual Dexterity,2,0
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",Control Precision,2,0
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",Near Vision,2,0
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",Static Strength,1,0
+14420,Tire Builders,"Pull plies from supply racks, and align plies with edges of drums.",Arm-Hand Steadiness,1,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Static Strength,2,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Dynamic Strength,2,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Manual Dexterity,2,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Gross Body Coordination,1,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Trunk Strength,1,0
+12699,Helpers--Production Workers,"Load and unload items from machines, conveyors, and conveyances.",Multilimb Coordination,1,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Control Precision,2,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Multilimb Coordination,2,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Near Vision,2,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Manual Dexterity,2,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Reaction Time,1,0
+12693,Helpers--Production Workers,"Operate machinery used in the production process, or assist machine operators.",Selective Attention,1,0
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",Manual Dexterity,2,0
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",Arm-Hand Steadiness,1,0
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",Control Precision,1,0
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",Near Vision,1,0
+12706,Helpers--Production Workers,"Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.",Multilimb Coordination,1,0
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,Near Vision,3,0
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,Perceptual Speed,2,0
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,Problem Sensitivity,2,0
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,Flexibility of Closure,1,0
+12694,Helpers--Production Workers,Examine products to verify conformance to quality standards.,Visual Color Discrimination,1,1
+12703,Helpers--Production Workers,Start machines or equipment to begin production processes.,Control Precision,2,0
+12703,Helpers--Production Workers,Start machines or equipment to begin production processes.,Reaction Time,1,0
+12703,Helpers--Production Workers,Start machines or equipment to begin production processes.,Near Vision,1,0
+12703,Helpers--Production Workers,Start machines or equipment to begin production processes.,Manual Dexterity,1,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Selective Attention,3,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Near Vision,2,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Problem Sensitivity,2,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Auditory Attention,2,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Oral Expression,1,0
+12695,Helpers--Production Workers,"Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.",Hearing Sensitivity,1,0
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",Manual Dexterity,2,0
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",Static Strength,2,0
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",Arm-Hand Steadiness,1,0
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",Control Precision,1,0
+12707,Helpers--Production Workers,"Remove products, machine attachments, or waste material from machines.",Trunk Strength,1,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Static Strength,3,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Trunk Strength,2,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Dynamic Strength,2,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Stamina,2,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Gross Body Equilibrium,1,0
+12696,Helpers--Production Workers,"Lift raw materials, finished products, and packed items, manually or using hoists.",Multilimb Coordination,1,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Static Strength,2,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Dynamic Strength,2,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Stamina,2,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Gross Body Coordination,1,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Control Precision,1,0
+12710,Helpers--Production Workers,"Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.",Trunk Strength,1,0
+12708,Helpers--Production Workers,Pack and store materials and products.,Manual Dexterity,2,0
+12708,Helpers--Production Workers,Pack and store materials and products.,Static Strength,1,0
+12708,Helpers--Production Workers,Pack and store materials and products.,Trunk Strength,1,0
+12708,Helpers--Production Workers,Pack and store materials and products.,Gross Body Coordination,1,0
+12708,Helpers--Production Workers,Pack and store materials and products.,Near Vision,1,0
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",Manual Dexterity,2,0
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",Static Strength,1,0
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",Gross Body Coordination,1,0
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",Stamina,1,0
+12700,Helpers--Production Workers,"Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.",Oral Comprehension,1,0
+12697,Helpers--Production Workers,Count finished products to determine if product orders are complete.,Number Facility,3,0
+12697,Helpers--Production Workers,Count finished products to determine if product orders are complete.,Perceptual Speed,2,0
+12697,Helpers--Production Workers,Count finished products to determine if product orders are complete.,Near Vision,2,0
+12697,Helpers--Production Workers,Count finished products to determine if product orders are complete.,Selective Attention,1,0
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",Near Vision,2,0
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",Number Facility,2,0
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",Mathematical Reasoning,2,0
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",Perceptual Speed,2,0
+12713,Helpers--Production Workers,"Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.",Control Precision,1,0
+12704,Helpers--Production Workers,"Separate products according to weight, grade, size, or composition of materials used to produce them.",Perceptual Speed,2,0
+12704,Helpers--Production Workers,"Separate products according to weight, grade, size, or composition of materials used to produce them.",Near Vision,2,0
+12704,Helpers--Production Workers,"Separate products according to weight, grade, size, or composition of materials used to produce them.",Category Flexibility,2,1
+12704,Helpers--Production Workers,"Separate products according to weight, grade, size, or composition of materials used to produce them.",Manual Dexterity,2,0
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",Control Precision,2,0
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",Manual Dexterity,2,0
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",Arm-Hand Steadiness,1,0
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",Rate Control,1,0
+12705,Helpers--Production Workers,"Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.",Near Vision,1,0
+12698,Helpers--Production Workers,Mark or tag identification on parts.,Manual Dexterity,2,0
+12698,Helpers--Production Workers,Mark or tag identification on parts.,Near Vision,2,0
+12698,Helpers--Production Workers,Mark or tag identification on parts.,Finger Dexterity,1,0
+12698,Helpers--Production Workers,Mark or tag identification on parts.,Control Precision,1,0
+12698,Helpers--Production Workers,Mark or tag identification on parts.,Written Expression,1,1
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,Manual Dexterity,2,0
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,Number Facility,2,0
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,Information Ordering,2,0
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,Near Vision,1,0
+12716,Helpers--Production Workers,Mix ingredients according to specified procedures or formulas.,Control Precision,1,0
+12709,Helpers--Production Workers,"Tie products in bundles for further processing or shipment, following prescribed procedures.",Manual Dexterity,3,0
+12709,Helpers--Production Workers,"Tie products in bundles for further processing or shipment, following prescribed procedures.",Finger Dexterity,2,0
+12709,Helpers--Production Workers,"Tie products in bundles for further processing or shipment, following prescribed procedures.",Arm-Hand Steadiness,1,0
+12709,Helpers--Production Workers,"Tie products in bundles for further processing or shipment, following prescribed procedures.",Information Ordering,1,0
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",Near Vision,2,0
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",Written Expression,2,0
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",Number Facility,2,0
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",Perceptual Speed,1,0
+12702,Helpers--Production Workers,"Record information, such as the number of products tested, meter readings, or dates and times of product production.",Information Ordering,1,0
+12715,Helpers--Production Workers,"Read gauges or charts, and record data obtained.",Near Vision,3,0
+12715,Helpers--Production Workers,"Read gauges or charts, and record data obtained.",Perceptual Speed,2,0
+12715,Helpers--Production Workers,"Read gauges or charts, and record data obtained.",Number Facility,2,0
+12715,Helpers--Production Workers,"Read gauges or charts, and record data obtained.",Written Expression,1,0
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",Static Strength,2,0
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",Manual Dexterity,2,0
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",Control Precision,2,0
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",Multilimb Coordination,1,0
+12720,Helpers--Production Workers,"Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.",Arm-Hand Steadiness,1,0
+12711,Helpers--Production Workers,Signal coworkers to direct them to move products during the production process.,Oral Expression,2,0
+12711,Helpers--Production Workers,Signal coworkers to direct them to move products during the production process.,Near Vision,1,0
+12711,Helpers--Production Workers,Signal coworkers to direct them to move products during the production process.,Selective Attention,1,0
+12711,Helpers--Production Workers,Signal coworkers to direct them to move products during the production process.,Reaction Time,1,1
+12701,Helpers--Production Workers,Clean and lubricate equipment.,Manual Dexterity,2,0
+12701,Helpers--Production Workers,Clean and lubricate equipment.,Arm-Hand Steadiness,1,0
+12701,Helpers--Production Workers,Clean and lubricate equipment.,Static Strength,1,0
+12701,Helpers--Production Workers,Clean and lubricate equipment.,Near Vision,1,0
+12712,Helpers--Production Workers,Prepare raw materials for processing.,Manual Dexterity,2,0
+12712,Helpers--Production Workers,Prepare raw materials for processing.,Static Strength,1,0
+12712,Helpers--Production Workers,Prepare raw materials for processing.,Near Vision,1,0
+12712,Helpers--Production Workers,Prepare raw materials for processing.,Control Precision,1,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Manual Dexterity,3,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Finger Dexterity,2,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Control Precision,2,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Near Vision,2,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Arm-Hand Steadiness,1,0
+12725,Helpers--Production Workers,"Perform minor repairs to machines, such as replacing damaged or worn parts.",Problem Sensitivity,1,0
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",Manual Dexterity,2,0
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",Static Strength,2,0
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",Arm-Hand Steadiness,1,0
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",Control Precision,1,0
+12726,Helpers--Production Workers,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",Multilimb Coordination,1,0
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,Manual Dexterity,2,0
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,Control Precision,2,0
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,Static Strength,1,0
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,Near Vision,1,0
+12717,Helpers--Production Workers,Position spouts or chutes of storage bins so that containers can be filled.,Multilimb Coordination,1,0
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",Manual Dexterity,1,0
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",Static Strength,1,0
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",Stamina,1,0
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",Gross Body Coordination,1,0
+12719,Helpers--Production Workers,"Wash work areas, machines, equipment, vehicles, or products.",Trunk Strength,1,0
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,Static Strength,2,0
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,Dynamic Strength,2,0
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,Explosive Strength,1,1
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,Manual Dexterity,1,0
+12722,Helpers--Production Workers,Break up defective products for reprocessing.,Trunk Strength,1,0
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,Manual Dexterity,2,0
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,Control Precision,2,0
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,Finger Dexterity,1,0
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,Static Strength,1,0
+12724,Helpers--Production Workers,Cut or break flashing from materials or products.,Arm-Hand Steadiness,1,0

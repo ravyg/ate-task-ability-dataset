@@ -1,0 +1,510 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+10288,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering.",Visualization,3,0
+10288,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering.",Manual Dexterity,2,0
+10288,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering.",Finger Dexterity,2,0
+10288,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering.",Deductive Reasoning,2,0
+10288,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering.",Near Vision,1,0
+10291,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces.,Manual Dexterity,2,0
+10291,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces.,Near Vision,2,0
+10291,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces.,Control Precision,1,0
+10291,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces.,Selective Attention,1,0
+10291,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces.,Arm-Hand Steadiness,1,0
+10287,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Tend auxiliary equipment used in welding processes.,Selective Attention,2,0
+10287,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Tend auxiliary equipment used in welding processes.,Near Vision,2,0
+10287,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Tend auxiliary equipment used in welding processes.,Auditory Attention,1,0
+10287,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Tend auxiliary equipment used in welding processes.,Manual Dexterity,1,0
+10287,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Tend auxiliary equipment used in welding processes.,Reaction Time,1,0
+10283,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics.",Mathematical Reasoning,3,0
+10283,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics.",Number Facility,3,0
+10283,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics.",Deductive Reasoning,2,0
+10283,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics.",Written Expression,1,0
+10283,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics.",Information Ordering,1,0
+10293,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Anneal finished workpieces to relieve internal stress.,Selective Attention,2,0
+10293,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Anneal finished workpieces to relieve internal stress.,Near Vision,2,0
+10293,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Anneal finished workpieces to relieve internal stress.,Manual Dexterity,1,0
+10293,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Anneal finished workpieces to relieve internal stress.,Static Strength,1,0
+10268,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Load or feed workpieces into welding machines to join or bond components.,Manual Dexterity,2,0
+10268,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Load or feed workpieces into welding machines to join or bond components.,Static Strength,2,0
+10268,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Load or feed workpieces into welding machines to join or bond components.,Multilimb Coordination,2,0
+10268,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Load or feed workpieces into welding machines to join or bond components.,Near Vision,1,0
+10268,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Load or feed workpieces into welding machines to join or bond components.,Control Precision,1,0
+10289,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Fill hoppers and position spouts to direct flow of flux or manually brush flux onto seams of workpieces.,Manual Dexterity,3,0
+10289,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Fill hoppers and position spouts to direct flow of flux or manually brush flux onto seams of workpieces.,Arm-Hand Steadiness,2,0
+10289,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Fill hoppers and position spouts to direct flow of flux or manually brush flux onto seams of workpieces.,Near Vision,2,0
+10289,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Fill hoppers and position spouts to direct flow of flux or manually brush flux onto seams of workpieces.,Control Precision,1,0
+10273,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Start, monitor, and adjust robotic welding production lines.",Selective Attention,3,0
+10273,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Start, monitor, and adjust robotic welding production lines.",Near Vision,2,0
+10273,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Start, monitor, and adjust robotic welding production lines.",Control Precision,2,0
+10273,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Start, monitor, and adjust robotic welding production lines.",Reaction Time,2,0
+10273,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Start, monitor, and adjust robotic welding production lines.",Multilimb Coordination,1,0
+10278,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels.",Manual Dexterity,3,0
+10278,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels.",Finger Dexterity,2,0
+10278,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels.",Arm-Hand Steadiness,2,0
+10278,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels.",Near Vision,2,0
+10278,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels.",Control Precision,1,0
+10294,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Immerse completed workpieces into water or acid baths to cool and clean components.,Manual Dexterity,2,0
+10294,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Immerse completed workpieces into water or acid baths to cool and clean components.,Static Strength,1,0
+10294,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Immerse completed workpieces into water or acid baths to cool and clean components.,Arm-Hand Steadiness,1,0
+10294,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Immerse completed workpieces into water or acid baths to cool and clean components.,Near Vision,1,0
+12087,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Read production schedules and work orders to determine processing sequences, furnace temperatures, and heat cycle requirements for objects to be heat-treated.",Written Comprehension,3,0
+12087,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Read production schedules and work orders to determine processing sequences, furnace temperatures, and heat cycle requirements for objects to be heat-treated.",Information Ordering,2,0
+12087,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Read production schedules and work orders to determine processing sequences, furnace temperatures, and heat cycle requirements for objects to be heat-treated.",Near Vision,1,0
+12087,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Read production schedules and work orders to determine processing sequences, furnace temperatures, and heat cycle requirements for objects to be heat-treated.",Deductive Reasoning,1,0
+12088,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Record times that parts are removed from furnaces to document that objects have attained specified temperatures for specified times.,Written Expression,2,0
+12088,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Record times that parts are removed from furnaces to document that objects have attained specified temperatures for specified times.,Selective Attention,2,0
+12088,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Record times that parts are removed from furnaces to document that objects have attained specified temperatures for specified times.,Time Sharing,1,0
+12088,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Record times that parts are removed from furnaces to document that objects have attained specified temperatures for specified times.,Near Vision,1,0
+12094,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations.",Control Precision,3,0
+12094,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations.",Near Vision,2,0
+12094,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations.",Visual Color Discrimination,3,0
+12094,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations.",Selective Attention,2,0
+12094,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations.",Deductive Reasoning,1,0
+12107,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Start conveyors and open furnace doors to load stock, or signal crane operators to uncover soaking pits and lower ingots into them.",Multilimb Coordination,2,0
+12107,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Start conveyors and open furnace doors to load stock, or signal crane operators to uncover soaking pits and lower ingots into them.",Static Strength,2,0
+12107,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Start conveyors and open furnace doors to load stock, or signal crane operators to uncover soaking pits and lower ingots into them.",Manual Dexterity,1,0
+12107,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Start conveyors and open furnace doors to load stock, or signal crane operators to uncover soaking pits and lower ingots into them.",Near Vision,1,0
+12089,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal.",Control Precision,2,0
+12089,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal.",Selective Attention,2,0
+12089,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal.",Manual Dexterity,2,0
+12089,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal.",Near Vision,2,0
+12089,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal.",Multilimb Coordination,1,0
+12091,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths.",Static Strength,2,0
+12091,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths.",Manual Dexterity,2,0
+12091,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths.",Arm-Hand Steadiness,1,0
+12091,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths.",Near Vision,1,0
+12091,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths.",Stamina,1,0
+12099,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Move controls to light gas burners and to adjust gas and water flow and flame temperature.,Control Precision,3,0
+12099,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Move controls to light gas burners and to adjust gas and water flow and flame temperature.,Manual Dexterity,2,0
+12099,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Move controls to light gas burners and to adjust gas and water flow and flame temperature.,Near Vision,1,0
+12099,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Move controls to light gas burners and to adjust gas and water flow and flame temperature.,Rate Control,1,0
+12093,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Instruct new workers in machine operation.,Oral Expression,3,0
+12093,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Instruct new workers in machine operation.,Oral Comprehension,1,0
+12093,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Instruct new workers in machine operation.,Information Ordering,1,0
+12095,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine flame temperatures, current frequencies, heating cycles, and induction heating coils needed, based on degree of hardness required and properties of stock to be treated.",Deductive Reasoning,3,0
+12095,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine flame temperatures, current frequencies, heating cycles, and induction heating coils needed, based on degree of hardness required and properties of stock to be treated.",Mathematical Reasoning,2,0
+12095,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine flame temperatures, current frequencies, heating cycles, and induction heating coils needed, based on degree of hardness required and properties of stock to be treated.",Number Facility,1,0
+12095,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine flame temperatures, current frequencies, heating cycles, and induction heating coils needed, based on degree of hardness required and properties of stock to be treated.",Information Ordering,1,0
+12090,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine types and temperatures of baths and quenching media needed to attain specified part hardness, toughness, and ductility, using heat-treating charts and knowledge of methods, equipment, and metals.",Deductive Reasoning,3,0
+12090,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine types and temperatures of baths and quenching media needed to attain specified part hardness, toughness, and ductility, using heat-treating charts and knowledge of methods, equipment, and metals.",Written Comprehension,2,0
+12090,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine types and temperatures of baths and quenching media needed to attain specified part hardness, toughness, and ductility, using heat-treating charts and knowledge of methods, equipment, and metals.",Mathematical Reasoning,1,0
+12090,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Determine types and temperatures of baths and quenching media needed to attain specified part hardness, toughness, and ductility, using heat-treating charts and knowledge of methods, equipment, and metals.",Information Ordering,1,0
+12104,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Examine parts to ensure metal shades and colors conform to specifications, using knowledge of metal heat-treating.",Visual Color Discrimination,3,0
+12104,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Examine parts to ensure metal shades and colors conform to specifications, using knowledge of metal heat-treating.",Near Vision,3,0
+12104,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Examine parts to ensure metal shades and colors conform to specifications, using knowledge of metal heat-treating.",Selective Attention,1,0
+12112,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Set and adjust speeds of reels and conveyors for prescribed time cycles to pass parts through continuous furnaces.,Rate Control,3,0
+12112,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Set and adjust speeds of reels and conveyors for prescribed time cycles to pass parts through continuous furnaces.,Control Precision,2,0
+12112,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Set and adjust speeds of reels and conveyors for prescribed time cycles to pass parts through continuous furnaces.,Near Vision,1,0
+12112,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Set and adjust speeds of reels and conveyors for prescribed time cycles to pass parts through continuous furnaces.,Number Facility,1,0
+12096,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Load parts into containers and place containers on conveyors to be inserted into furnaces, or insert parts into furnaces.",Manual Dexterity,2,0
+12096,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Load parts into containers and place containers on conveyors to be inserted into furnaces, or insert parts into furnaces.",Static Strength,2,0
+12096,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Load parts into containers and place containers on conveyors to be inserted into furnaces, or insert parts into furnaces.",Multilimb Coordination,1,0
+12096,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Load parts into containers and place containers on conveyors to be inserted into furnaces, or insert parts into furnaces.",Near Vision,1,0
+12102,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Test parts for hardness, using hardness testing equipment, or by examining and feeling samples.",Near Vision,2,0
+12102,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Test parts for hardness, using hardness testing equipment, or by examining and feeling samples.",Finger Dexterity,1,0
+12102,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Test parts for hardness, using hardness testing equipment, or by examining and feeling samples.",Control Precision,2,0
+12102,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Test parts for hardness, using hardness testing equipment, or by examining and feeling samples.",Arm-Hand Steadiness,1,0
+12101,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Signal forklift operators to deposit or extract containers of parts into and from furnaces and quenching rinse tanks.,Oral Expression,2,0
+12101,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Signal forklift operators to deposit or extract containers of parts into and from furnaces and quenching rinse tanks.,Reaction Time,1,0
+12101,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Signal forklift operators to deposit or extract containers of parts into and from furnaces and quenching rinse tanks.,Near Vision,1,0
+12101,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Signal forklift operators to deposit or extract containers of parts into and from furnaces and quenching rinse tanks.,Selective Attention,1,0
+12097,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount workpieces in fixtures, on arbors, or between centers of machines.",Manual Dexterity,3,0
+12097,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount workpieces in fixtures, on arbors, or between centers of machines.",Arm-Hand Steadiness,2,0
+12097,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount workpieces in fixtures, on arbors, or between centers of machines.",Control Precision,2,0
+12097,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount workpieces in fixtures, on arbors, or between centers of machines.",Static Strength,1,0
+12097,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount workpieces in fixtures, on arbors, or between centers of machines.",Near Vision,1,0
+12100,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Reduce heat when processing is complete to allow parts to cool in furnaces or machinery.,Control Precision,2,0
+12100,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Reduce heat when processing is complete to allow parts to cool in furnaces or machinery.,Near Vision,1,0
+12100,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Reduce heat when processing is complete to allow parts to cool in furnaces or machinery.,Selective Attention,1,0
+12113,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount fixtures and industrial coils on machines, using hand tools.",Manual Dexterity,3,0
+12113,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount fixtures and industrial coils on machines, using hand tools.",Finger Dexterity,2,0
+12113,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount fixtures and industrial coils on machines, using hand tools.",Arm-Hand Steadiness,2,0
+12113,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Mount fixtures and industrial coils on machines, using hand tools.",Static Strength,1,0
+12108,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat billets, bars, plates, rods, and other stock to specified temperatures preparatory to forging, rolling, or processing, using oil, gas, or electrical furnaces.",Control Precision,2,0
+12108,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat billets, bars, plates, rods, and other stock to specified temperatures preparatory to forging, rolling, or processing, using oil, gas, or electrical furnaces.",Static Strength,2,0
+12108,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat billets, bars, plates, rods, and other stock to specified temperatures preparatory to forging, rolling, or processing, using oil, gas, or electrical furnaces.",Near Vision,1,0
+12108,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat billets, bars, plates, rods, and other stock to specified temperatures preparatory to forging, rolling, or processing, using oil, gas, or electrical furnaces.",Selective Attention,2,0
+12092,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Position stock in furnaces, using tongs, chain hoists, or pry bars.",Static Strength,3,0
+12092,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Position stock in furnaces, using tongs, chain hoists, or pry bars.",Manual Dexterity,2,0
+12092,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Position stock in furnaces, using tongs, chain hoists, or pry bars.",Multilimb Coordination,2,0
+12092,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Position stock in furnaces, using tongs, chain hoists, or pry bars.",Trunk Strength,1,0
+12092,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Position stock in furnaces, using tongs, chain hoists, or pry bars.",Near Vision,1,0
+12106,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Repair, replace, and maintain furnace equipment as needed, using hand tools.",Manual Dexterity,2,0
+12106,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Repair, replace, and maintain furnace equipment as needed, using hand tools.",Finger Dexterity,2,0
+12106,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Repair, replace, and maintain furnace equipment as needed, using hand tools.",Static Strength,1,0
+12106,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Repair, replace, and maintain furnace equipment as needed, using hand tools.",Deductive Reasoning,1,0
+12106,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Repair, replace, and maintain furnace equipment as needed, using hand tools.",Near Vision,1,0
+12109,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths.",Manual Dexterity,2,0
+12109,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths.",Static Strength,1,0
+12109,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths.",Near Vision,1,0
+12109,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths.",Arm-Hand Steadiness,1,0
+12111,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Stamp heat-treatment identification marks on parts, using hammers and punches.",Manual Dexterity,2,0
+12111,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Stamp heat-treatment identification marks on parts, using hammers and punches.",Arm-Hand Steadiness,2,0
+12111,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Stamp heat-treatment identification marks on parts, using hammers and punches.",Control Precision,2,0
+12111,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Stamp heat-treatment identification marks on parts, using hammers and punches.",Near Vision,2,0
+12111,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Stamp heat-treatment identification marks on parts, using hammers and punches.",Static Strength,1,0
+10298,"Layout Workers, Metal and Plastic","Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills.",Manual Dexterity,3,0
+10298,"Layout Workers, Metal and Plastic","Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills.",Arm-Hand Steadiness,2,0
+10298,"Layout Workers, Metal and Plastic","Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills.",Near Vision,3,0
+10298,"Layout Workers, Metal and Plastic","Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills.",Control Precision,2,0
+10298,"Layout Workers, Metal and Plastic","Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills.",Visualization,1,0
+10302,"Layout Workers, Metal and Plastic","Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules.",Visualization,3,0
+10302,"Layout Workers, Metal and Plastic","Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules.",Spatial Orientation,2,0
+10302,"Layout Workers, Metal and Plastic","Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules.",Mathematical Reasoning,2,0
+10302,"Layout Workers, Metal and Plastic","Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules.",Information Ordering,2,0
+10302,"Layout Workers, Metal and Plastic","Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules.",Near Vision,1,0
+10295,"Layout Workers, Metal and Plastic",Fit and align fabricated parts to be welded or assembled.,Manual Dexterity,2,0
+10295,"Layout Workers, Metal and Plastic",Fit and align fabricated parts to be welded or assembled.,Near Vision,2,0
+10295,"Layout Workers, Metal and Plastic",Fit and align fabricated parts to be welded or assembled.,Control Precision,2,0
+10295,"Layout Workers, Metal and Plastic",Fit and align fabricated parts to be welded or assembled.,Multilimb Coordination,1,0
+10295,"Layout Workers, Metal and Plastic",Fit and align fabricated parts to be welded or assembled.,Spatial Orientation,1,0
+10300,"Layout Workers, Metal and Plastic","Locate center lines and verify template positions, using measuring instruments such as gauge blocks, height gauges, and dial indicators.",Near Vision,3,0
+10300,"Layout Workers, Metal and Plastic","Locate center lines and verify template positions, using measuring instruments such as gauge blocks, height gauges, and dial indicators.",Control Precision,2,0
+10300,"Layout Workers, Metal and Plastic","Locate center lines and verify template positions, using measuring instruments such as gauge blocks, height gauges, and dial indicators.",Perceptual Speed,1,0
+10300,"Layout Workers, Metal and Plastic","Locate center lines and verify template positions, using measuring instruments such as gauge blocks, height gauges, and dial indicators.",Arm-Hand Steadiness,1,0
+10296,"Layout Workers, Metal and Plastic","Plan and develop layouts from blueprints and templates, applying knowledge of trigonometry, design, effects of heat, and properties of metals.",Visualization,3,0
+10296,"Layout Workers, Metal and Plastic","Plan and develop layouts from blueprints and templates, applying knowledge of trigonometry, design, effects of heat, and properties of metals.",Mathematical Reasoning,3,0
+10296,"Layout Workers, Metal and Plastic","Plan and develop layouts from blueprints and templates, applying knowledge of trigonometry, design, effects of heat, and properties of metals.",Written Comprehension,2,0
+10296,"Layout Workers, Metal and Plastic","Plan and develop layouts from blueprints and templates, applying knowledge of trigonometry, design, effects of heat, and properties of metals.",Spatial Orientation,2,0
+10297,"Layout Workers, Metal and Plastic","Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",Visualization,2,0
+10297,"Layout Workers, Metal and Plastic","Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",Manual Dexterity,2,0
+10297,"Layout Workers, Metal and Plastic","Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",Static Strength,2,0
+10297,"Layout Workers, Metal and Plastic","Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",Near Vision,2,0
+10297,"Layout Workers, Metal and Plastic","Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",Spatial Orientation,1,0
+10299,"Layout Workers, Metal and Plastic","Compute layout dimensions, and determine and mark reference points on metal stock or workpieces for further processing, such as welding and assembly.",Mathematical Reasoning,3,0
+10299,"Layout Workers, Metal and Plastic","Compute layout dimensions, and determine and mark reference points on metal stock or workpieces for further processing, such as welding and assembly.",Number Facility,2,0
+10299,"Layout Workers, Metal and Plastic","Compute layout dimensions, and determine and mark reference points on metal stock or workpieces for further processing, such as welding and assembly.",Near Vision,2,0
+10299,"Layout Workers, Metal and Plastic","Compute layout dimensions, and determine and mark reference points on metal stock or workpieces for further processing, such as welding and assembly.",Manual Dexterity,1,0
+10301,"Layout Workers, Metal and Plastic","Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates.",Static Strength,3,0
+10301,"Layout Workers, Metal and Plastic","Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates.",Dynamic Strength,2,0
+10301,"Layout Workers, Metal and Plastic","Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates.",Multilimb Coordination,2,0
+10301,"Layout Workers, Metal and Plastic","Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates.",Trunk Strength,2,0
+10301,"Layout Workers, Metal and Plastic","Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates.",Near Vision,1,0
+10304,"Layout Workers, Metal and Plastic","Design and prepare templates of wood, paper, or metal.",Visualization,3,0
+10304,"Layout Workers, Metal and Plastic","Design and prepare templates of wood, paper, or metal.",Manual Dexterity,2,0
+10304,"Layout Workers, Metal and Plastic","Design and prepare templates of wood, paper, or metal.",Spatial Orientation,1,0
+10304,"Layout Workers, Metal and Plastic","Design and prepare templates of wood, paper, or metal.",Near Vision,1,0
+10307,"Layout Workers, Metal and Plastic","Install doors, hatches, brackets, and clips.",Manual Dexterity,2,0
+10307,"Layout Workers, Metal and Plastic","Install doors, hatches, brackets, and clips.",Static Strength,2,0
+10307,"Layout Workers, Metal and Plastic","Install doors, hatches, brackets, and clips.",Arm-Hand Steadiness,1,0
+10307,"Layout Workers, Metal and Plastic","Install doors, hatches, brackets, and clips.",Multilimb Coordination,1,0
+10307,"Layout Workers, Metal and Plastic","Install doors, hatches, brackets, and clips.",Near Vision,1,0
+10305,"Layout Workers, Metal and Plastic",Brace parts in position within hulls or ships for riveting or welding.,Static Strength,3,0
+10305,"Layout Workers, Metal and Plastic",Brace parts in position within hulls or ships for riveting or welding.,Manual Dexterity,2,0
+10305,"Layout Workers, Metal and Plastic",Brace parts in position within hulls or ships for riveting or welding.,Multilimb Coordination,2,0
+10305,"Layout Workers, Metal and Plastic",Brace parts in position within hulls or ships for riveting or welding.,Trunk Strength,2,0
+10305,"Layout Workers, Metal and Plastic",Brace parts in position within hulls or ships for riveting or welding.,Gross Body Coordination,1,0
+10303,"Layout Workers, Metal and Plastic",Inspect machined parts to verify conformance to specifications.,Near Vision,3,0
+10303,"Layout Workers, Metal and Plastic",Inspect machined parts to verify conformance to specifications.,Selective Attention,2,0
+10303,"Layout Workers, Metal and Plastic",Inspect machined parts to verify conformance to specifications.,Perceptual Speed,2,0
+10303,"Layout Workers, Metal and Plastic",Inspect machined parts to verify conformance to specifications.,Control Precision,1,0
+10306,"Layout Workers, Metal and Plastic",Add dimensional details to blueprints or drawings made by other workers.,Visualization,2,0
+10306,"Layout Workers, Metal and Plastic",Add dimensional details to blueprints or drawings made by other workers.,Near Vision,2,0
+10306,"Layout Workers, Metal and Plastic",Add dimensional details to blueprints or drawings made by other workers.,Written Expression,2,0
+10306,"Layout Workers, Metal and Plastic",Add dimensional details to blueprints or drawings made by other workers.,Mathematical Reasoning,1,0
+10308,"Layout Workers, Metal and Plastic","Apply pigment to layout surfaces, using paint brushes.",Manual Dexterity,2,0
+10308,"Layout Workers, Metal and Plastic","Apply pigment to layout surfaces, using paint brushes.",Arm-Hand Steadiness,2,0
+10308,"Layout Workers, Metal and Plastic","Apply pigment to layout surfaces, using paint brushes.",Near Vision,1,0
+10308,"Layout Workers, Metal and Plastic","Apply pigment to layout surfaces, using paint brushes.",Control Precision,1,0
+10311,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Immerse workpieces in coating solutions or liquid metal or plastic for specified times.,Manual Dexterity,2,0
+10311,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Immerse workpieces in coating solutions or liquid metal or plastic for specified times.,Static Strength,1,0
+10311,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Immerse workpieces in coating solutions or liquid metal or plastic for specified times.,Near Vision,1,0
+10311,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Immerse workpieces in coating solutions or liquid metal or plastic for specified times.,Time Sharing,1,0
+10326,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust dials to regulate flow of current and voltage supplied to terminals to control plating processes.,Control Precision,3,0
+10326,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust dials to regulate flow of current and voltage supplied to terminals to control plating processes.,Near Vision,2,0
+10326,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust dials to regulate flow of current and voltage supplied to terminals to control plating processes.,Finger Dexterity,1,0
+10326,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust dials to regulate flow of current and voltage supplied to terminals to control plating processes.,Number Facility,1,0
+10309,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Inspect coated or plated areas for defects, such as air bubbles or uneven coverage.",Near Vision,3,0
+10309,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Inspect coated or plated areas for defects, such as air bubbles or uneven coverage.",Selective Attention,2,0
+10309,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Inspect coated or plated areas for defects, such as air bubbles or uneven coverage.",Perceptual Speed,2,0
+10309,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Inspect coated or plated areas for defects, such as air bubbles or uneven coverage.",Visual Color Discrimination,1,0
+10312,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces.",Control Precision,2,0
+10312,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces.",Manual Dexterity,2,0
+10312,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces.",Near Vision,2,0
+10312,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces.",Selective Attention,1,0
+10319,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Observe gauges to ensure that machines are operating properly, making adjustments or stopping machines when problems occur.",Near Vision,3,0
+10319,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Observe gauges to ensure that machines are operating properly, making adjustments or stopping machines when problems occur.",Selective Attention,3,0
+10319,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Observe gauges to ensure that machines are operating properly, making adjustments or stopping machines when problems occur.",Reaction Time,1,0
+10319,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Observe gauges to ensure that machines are operating properly, making adjustments or stopping machines when problems occur.",Control Precision,1,0
+10318,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Remove objects from solutions at periodic intervals and observe objects to verify conformance to specifications.,Near Vision,2,0
+10318,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Remove objects from solutions at periodic intervals and observe objects to verify conformance to specifications.,Manual Dexterity,2,0
+10318,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Remove objects from solutions at periodic intervals and observe objects to verify conformance to specifications.,Selective Attention,1,0
+10318,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Remove objects from solutions at periodic intervals and observe objects to verify conformance to specifications.,Arm-Hand Steadiness,1,0
+10316,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Maintain production records.,Written Expression,2,0
+10316,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Maintain production records.,Number Facility,1,0
+10316,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Maintain production records.,Information Ordering,1,0
+10342,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Remove excess materials or impurities from objects, using air hoses or grinding machines.",Manual Dexterity,2,0
+10342,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Remove excess materials or impurities from objects, using air hoses or grinding machines.",Arm-Hand Steadiness,2,0
+10342,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Remove excess materials or impurities from objects, using air hoses or grinding machines.",Control Precision,1,0
+10342,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Remove excess materials or impurities from objects, using air hoses or grinding machines.",Near Vision,1,0
+10328,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Examine completed objects to determine thicknesses of metal deposits, or measure thicknesses by using instruments such as micrometers.",Near Vision,3,0
+10328,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Examine completed objects to determine thicknesses of metal deposits, or measure thicknesses by using instruments such as micrometers.",Finger Dexterity,1,0
+10328,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Examine completed objects to determine thicknesses of metal deposits, or measure thicknesses by using instruments such as micrometers.",Number Facility,1,0
+10328,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Examine completed objects to determine thicknesses of metal deposits, or measure thicknesses by using instruments such as micrometers.",Perceptual Speed,1,0
+10327,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Rinse coated objects in cleansing liquids and dry them with cloths, centrifugal driers, or by tumbling in sawdust-filled barrels.",Manual Dexterity,2,0
+10327,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Rinse coated objects in cleansing liquids and dry them with cloths, centrifugal driers, or by tumbling in sawdust-filled barrels.",Static Strength,1,0
+10327,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Rinse coated objects in cleansing liquids and dry them with cloths, centrifugal driers, or by tumbling in sawdust-filled barrels.",Near Vision,1,0
+10323,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Determine sizes and compositions of objects to be plated, and amounts of electrical current and time required.",Mathematical Reasoning,2,0
+10323,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Determine sizes and compositions of objects to be plated, and amounts of electrical current and time required.",Deductive Reasoning,2,0
+10323,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Determine sizes and compositions of objects to be plated, and amounts of electrical current and time required.",Number Facility,2,0
+10323,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Determine sizes and compositions of objects to be plated, and amounts of electrical current and time required.",Near Vision,1,0
+10314,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Test machinery to ensure that it is operating properly.,Selective Attention,2,0
+10314,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Test machinery to ensure that it is operating properly.,Near Vision,2,0
+10314,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Test machinery to ensure that it is operating properly.,Deductive Reasoning,1,0
+10329,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure or weigh materials, using rulers, calculators, and scales.",Number Facility,2,0
+10329,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure or weigh materials, using rulers, calculators, and scales.",Near Vision,2,0
+10329,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure or weigh materials, using rulers, calculators, and scales.",Finger Dexterity,1,0
+10331,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure, mark, and mask areas to be excluded from plating.",Near Vision,2,0
+10331,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure, mark, and mask areas to be excluded from plating.",Manual Dexterity,2,0
+10331,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure, mark, and mask areas to be excluded from plating.",Arm-Hand Steadiness,1,0
+10331,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure, mark, and mask areas to be excluded from plating.",Control Precision,1,0
+10310,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Immerse objects to be coated or plated into cleaning solutions, or spray objects with conductive solutions to prepare them for plating.",Manual Dexterity,2,0
+10310,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Immerse objects to be coated or plated into cleaning solutions, or spray objects with conductive solutions to prepare them for plating.",Arm-Hand Steadiness,1,0
+10310,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Immerse objects to be coated or plated into cleaning solutions, or spray objects with conductive solutions to prepare them for plating.",Near Vision,1,0
+10335,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Read production schedules to determine setups of equipment and machines.,Written Comprehension,2,0
+10335,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Read production schedules to determine setups of equipment and machines.,Information Ordering,1,0
+10335,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Read production schedules to determine setups of equipment and machines.,Near Vision,1,0
+10330,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend objects, such as parts or molds from cathode rods, or negative terminals, and immerse objects in plating solutions.",Manual Dexterity,2,0
+10330,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend objects, such as parts or molds from cathode rods, or negative terminals, and immerse objects in plating solutions.",Arm-Hand Steadiness,2,0
+10330,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend objects, such as parts or molds from cathode rods, or negative terminals, and immerse objects in plating solutions.",Static Strength,1,0
+10330,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend objects, such as parts or molds from cathode rods, or negative terminals, and immerse objects in plating solutions.",Near Vision,1,0
+10324,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend sticks or pieces of plating metal from anodes, or positive terminals, and immerse metal in plating solutions.",Manual Dexterity,2,0
+10324,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend sticks or pieces of plating metal from anodes, or positive terminals, and immerse metal in plating solutions.",Arm-Hand Steadiness,2,0
+10324,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend sticks or pieces of plating metal from anodes, or positive terminals, and immerse metal in plating solutions.",Static Strength,1,0
+10324,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Suspend sticks or pieces of plating metal from anodes, or positive terminals, and immerse metal in plating solutions.",Near Vision,1,0
+10317,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust controls to set temperatures of coating substances and speeds of machines and equipment.,Control Precision,3,0
+10317,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust controls to set temperatures of coating substances and speeds of machines and equipment.,Near Vision,1,0
+10317,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Adjust controls to set temperatures of coating substances and speeds of machines and equipment.,Rate Control,1,0
+10325,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Monitor and measure thicknesses of electroplating on component parts to verify conformance to specifications, using micrometers.",Near Vision,3,0
+10325,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Monitor and measure thicknesses of electroplating on component parts to verify conformance to specifications, using micrometers.",Finger Dexterity,1,0
+10325,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Monitor and measure thicknesses of electroplating on component parts to verify conformance to specifications, using micrometers.",Number Facility,1,0
+10325,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Monitor and measure thicknesses of electroplating on component parts to verify conformance to specifications, using micrometers.",Selective Attention,1,0
+10315,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate hoists to place workpieces onto machine feed carriages or spindles.,Control Precision,2,0
+10315,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate hoists to place workpieces onto machine feed carriages or spindles.,Multilimb Coordination,2,0
+10315,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate hoists to place workpieces onto machine feed carriages or spindles.,Static Strength,1,0
+10315,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate hoists to place workpieces onto machine feed carriages or spindles.,Near Vision,1,0
+10315,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate hoists to place workpieces onto machine feed carriages or spindles.,Depth Perception,1,0
+10313,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position and feed materials into processing machines, by hand or by using automated equipment.",Manual Dexterity,2,0
+10313,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position and feed materials into processing machines, by hand or by using automated equipment.",Multilimb Coordination,1,0
+10313,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position and feed materials into processing machines, by hand or by using automated equipment.",Near Vision,1,0
+10313,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position and feed materials into processing machines, by hand or by using automated equipment.",Control Precision,1,0
+10337,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position objects to be plated in frames, or suspend them from positive or negative terminals of power supplies.",Manual Dexterity,2,0
+10337,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position objects to be plated in frames, or suspend them from positive or negative terminals of power supplies.",Arm-Hand Steadiness,2,0
+10337,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position objects to be plated in frames, or suspend them from positive or negative terminals of power supplies.",Near Vision,1,0
+10345,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate sandblasting equipment to roughen and clean surfaces of workpieces.,Manual Dexterity,2,0
+10345,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate sandblasting equipment to roughen and clean surfaces of workpieces.,Static Strength,1,0
+10345,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate sandblasting equipment to roughen and clean surfaces of workpieces.,Arm-Hand Steadiness,1,0
+10345,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate sandblasting equipment to roughen and clean surfaces of workpieces.,Near Vision,1,0
+10345,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Operate sandblasting equipment to roughen and clean surfaces of workpieces.,Multilimb Coordination,1,0
+10322,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean and maintain equipment, using water hoses and scrapers.",Manual Dexterity,2,0
+10322,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean and maintain equipment, using water hoses and scrapers.",Static Strength,1,0
+10322,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean and maintain equipment, using water hoses and scrapers.",Stamina,1,0
+10343,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean workpieces, using wire brushes.",Manual Dexterity,2,0
+10343,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean workpieces, using wire brushes.",Arm-Hand Steadiness,1,0
+10343,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Clean workpieces, using wire brushes.",Static Strength,1,0
+10332,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Mix and test solutions, and turn valves to fill tanks with solutions.",Manual Dexterity,2,0
+10332,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Mix and test solutions, and turn valves to fill tanks with solutions.",Near Vision,1,0
+10332,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Mix and test solutions, and turn valves to fill tanks with solutions.",Number Facility,1,0
+10332,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Mix and test solutions, and turn valves to fill tanks with solutions.",Control Precision,1,0
+10340,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn parts and adjust equipment components, using hand tools.",Manual Dexterity,2,0
+10340,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn parts and adjust equipment components, using hand tools.",Finger Dexterity,2,0
+10340,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn parts and adjust equipment components, using hand tools.",Static Strength,1,0
+10340,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn parts and adjust equipment components, using hand tools.",Near Vision,1,0
+10333,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Place plated or coated materials on racks and transfer them to ovens to dry for specified periods of time.,Manual Dexterity,2,0
+10333,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Place plated or coated materials on racks and transfer them to ovens to dry for specified periods of time.,Static Strength,1,0
+10333,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Place plated or coated materials on racks and transfer them to ovens to dry for specified periods of time.,Multilimb Coordination,1,0
+10338,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure and set stops, rolls, brushes, and guides on automatic feeders and conveying equipment or coating machines, using micrometers, rules, and hand tools.",Near Vision,2,0
+10338,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure and set stops, rolls, brushes, and guides on automatic feeders and conveying equipment or coating machines, using micrometers, rules, and hand tools.",Manual Dexterity,2,0
+10338,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure and set stops, rolls, brushes, and guides on automatic feeders and conveying equipment or coating machines, using micrometers, rules, and hand tools.",Control Precision,2,0
+10338,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Measure and set stops, rolls, brushes, and guides on automatic feeders and conveying equipment or coating machines, using micrometers, rules, and hand tools.",Finger Dexterity,1,0
+10320,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position containers to receive parts, and load or unload materials in containers, using dollies or handtrucks.",Static Strength,3,0
+10320,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position containers to receive parts, and load or unload materials in containers, using dollies or handtrucks.",Dynamic Strength,2,0
+10320,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position containers to receive parts, and load or unload materials in containers, using dollies or handtrucks.",Trunk Strength,1,0
+10320,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Position containers to receive parts, and load or unload materials in containers, using dollies or handtrucks.",Gross Body Coordination,1,0
+10321,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors.",Manual Dexterity,2,0
+10321,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors.",Static Strength,1,0
+10321,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors.",Finger Dexterity,1,0
+10339,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Preheat workpieces in ovens.,Manual Dexterity,1,0
+10339,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Preheat workpieces in ovens.,Near Vision,1,0
+10339,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",Preheat workpieces in ovens.,Control Precision,1,0
+10349,"Tool Grinders, Filers, and Sharpeners","Monitor machine operations to determine whether adjustments are necessary, stopping machines when problems occur.",Selective Attention,3,0
+10349,"Tool Grinders, Filers, and Sharpeners","Monitor machine operations to determine whether adjustments are necessary, stopping machines when problems occur.",Near Vision,2,0
+10349,"Tool Grinders, Filers, and Sharpeners","Monitor machine operations to determine whether adjustments are necessary, stopping machines when problems occur.",Reaction Time,1,0
+10350,"Tool Grinders, Filers, and Sharpeners","Inspect, feel, and measure workpieces to ensure that surfaces and dimensions meet specifications.",Near Vision,3,0
+10350,"Tool Grinders, Filers, and Sharpeners","Inspect, feel, and measure workpieces to ensure that surfaces and dimensions meet specifications.",Finger Dexterity,2,0
+10350,"Tool Grinders, Filers, and Sharpeners","Inspect, feel, and measure workpieces to ensure that surfaces and dimensions meet specifications.",Perceptual Speed,2,0
+10358,"Tool Grinders, Filers, and Sharpeners","Study blueprints or layouts of metal workpieces to determine grinding procedures, and to plan machine setups and operational sequences.",Written Comprehension,2,0
+10358,"Tool Grinders, Filers, and Sharpeners","Study blueprints or layouts of metal workpieces to determine grinding procedures, and to plan machine setups and operational sequences.",Visualization,3,0
+10358,"Tool Grinders, Filers, and Sharpeners","Study blueprints or layouts of metal workpieces to determine grinding procedures, and to plan machine setups and operational sequences.",Information Ordering,2,0
+10354,"Tool Grinders, Filers, and Sharpeners","Select and mount grinding wheels on machines, according to specifications, using hand tools and applying knowledge of abrasives and grinding procedures.",Manual Dexterity,2,0
+10354,"Tool Grinders, Filers, and Sharpeners","Select and mount grinding wheels on machines, according to specifications, using hand tools and applying knowledge of abrasives and grinding procedures.",Finger Dexterity,2,0
+10354,"Tool Grinders, Filers, and Sharpeners","Select and mount grinding wheels on machines, according to specifications, using hand tools and applying knowledge of abrasives and grinding procedures.",Static Strength,1,0
+10354,"Tool Grinders, Filers, and Sharpeners","Select and mount grinding wheels on machines, according to specifications, using hand tools and applying knowledge of abrasives and grinding procedures.",Arm-Hand Steadiness,1,0
+10357,"Tool Grinders, Filers, and Sharpeners","Compute numbers, widths, and angles of cutting tools, micrometers, scales, and gauges, and adjust tools to produce specified cuts.",Mathematical Reasoning,3,0
+10357,"Tool Grinders, Filers, and Sharpeners","Compute numbers, widths, and angles of cutting tools, micrometers, scales, and gauges, and adjust tools to produce specified cuts.",Number Facility,3,0
+10357,"Tool Grinders, Filers, and Sharpeners","Compute numbers, widths, and angles of cutting tools, micrometers, scales, and gauges, and adjust tools to produce specified cuts.",Control Precision,2,0
+10357,"Tool Grinders, Filers, and Sharpeners","Compute numbers, widths, and angles of cutting tools, micrometers, scales, and gauges, and adjust tools to produce specified cuts.",Near Vision,1,0
+10359,"Tool Grinders, Filers, and Sharpeners",Turn valves to direct flow of coolant against cutting wheels and workpieces during grinding.,Manual Dexterity,2,0
+10359,"Tool Grinders, Filers, and Sharpeners",Turn valves to direct flow of coolant against cutting wheels and workpieces during grinding.,Control Precision,1,0
+10359,"Tool Grinders, Filers, and Sharpeners",Turn valves to direct flow of coolant against cutting wheels and workpieces during grinding.,Near Vision,1,0
+10351,"Tool Grinders, Filers, and Sharpeners","Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools.",Control Precision,3,0
+10351,"Tool Grinders, Filers, and Sharpeners","Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools.",Arm-Hand Steadiness,2,0
+10351,"Tool Grinders, Filers, and Sharpeners","Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools.",Manual Dexterity,2,0
+10351,"Tool Grinders, Filers, and Sharpeners","Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools.",Near Vision,2,0
+10351,"Tool Grinders, Filers, and Sharpeners","Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools.",Multilimb Coordination,1,0
+10348,"Tool Grinders, Filers, and Sharpeners","Dress grinding wheels, according to specifications.",Manual Dexterity,2,0
+10348,"Tool Grinders, Filers, and Sharpeners","Dress grinding wheels, according to specifications.",Finger Dexterity,1,0
+10348,"Tool Grinders, Filers, and Sharpeners","Dress grinding wheels, according to specifications.",Control Precision,2,0
+10348,"Tool Grinders, Filers, and Sharpeners","Dress grinding wheels, according to specifications.",Near Vision,1,0
+10353,"Tool Grinders, Filers, and Sharpeners","File or finish surfaces of workpieces, using prescribed hand tools.",Manual Dexterity,2,0
+10353,"Tool Grinders, Filers, and Sharpeners","File or finish surfaces of workpieces, using prescribed hand tools.",Arm-Hand Steadiness,2,0
+10353,"Tool Grinders, Filers, and Sharpeners","File or finish surfaces of workpieces, using prescribed hand tools.",Control Precision,1,0
+10353,"Tool Grinders, Filers, and Sharpeners","File or finish surfaces of workpieces, using prescribed hand tools.",Near Vision,1,0
+10355,"Tool Grinders, Filers, and Sharpeners","Perform basic maintenance, such as cleaning and lubricating machine parts.",Manual Dexterity,1,0
+10355,"Tool Grinders, Filers, and Sharpeners","Perform basic maintenance, such as cleaning and lubricating machine parts.",Finger Dexterity,1,0
+10355,"Tool Grinders, Filers, and Sharpeners","Perform basic maintenance, such as cleaning and lubricating machine parts.",Static Strength,1,0
+10352,"Tool Grinders, Filers, and Sharpeners","Remove finished workpieces from machines and place them in boxes or on racks, setting aside pieces that are defective.",Manual Dexterity,2,0
+10352,"Tool Grinders, Filers, and Sharpeners","Remove finished workpieces from machines and place them in boxes or on racks, setting aside pieces that are defective.",Near Vision,2,0
+10352,"Tool Grinders, Filers, and Sharpeners","Remove finished workpieces from machines and place them in boxes or on racks, setting aside pieces that are defective.",Selective Attention,1,0
+10352,"Tool Grinders, Filers, and Sharpeners","Remove finished workpieces from machines and place them in boxes or on racks, setting aside pieces that are defective.",Static Strength,1,0
+10356,"Tool Grinders, Filers, and Sharpeners","Remove and replace worn or broken machine parts, using hand tools.",Manual Dexterity,2,0
+10356,"Tool Grinders, Filers, and Sharpeners","Remove and replace worn or broken machine parts, using hand tools.",Finger Dexterity,2,0
+10356,"Tool Grinders, Filers, and Sharpeners","Remove and replace worn or broken machine parts, using hand tools.",Static Strength,1,0
+20926,"Tool Grinders, Filers, and Sharpeners",Fit parts together in pre-assembly to ensure that dimensions are accurate.,Manual Dexterity,2,0
+20926,"Tool Grinders, Filers, and Sharpeners",Fit parts together in pre-assembly to ensure that dimensions are accurate.,Near Vision,2,0
+20926,"Tool Grinders, Filers, and Sharpeners",Fit parts together in pre-assembly to ensure that dimensions are accurate.,Control Precision,2,0
+20926,"Tool Grinders, Filers, and Sharpeners",Fit parts together in pre-assembly to ensure that dimensions are accurate.,Arm-Hand Steadiness,1,0
+10364,"Tool Grinders, Filers, and Sharpeners","Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment.",Manual Dexterity,2,0
+10364,"Tool Grinders, Filers, and Sharpeners","Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment.",Arm-Hand Steadiness,2,0
+10364,"Tool Grinders, Filers, and Sharpeners","Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment.",Control Precision,2,0
+10364,"Tool Grinders, Filers, and Sharpeners","Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment.",Near Vision,2,0
+10364,"Tool Grinders, Filers, and Sharpeners","Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment.",Static Strength,1,0
+10362,"Tool Grinders, Filers, and Sharpeners","Duplicate workpiece contours, using tracer attachments.",Control Precision,3,0
+10362,"Tool Grinders, Filers, and Sharpeners","Duplicate workpiece contours, using tracer attachments.",Arm-Hand Steadiness,2,0
+10362,"Tool Grinders, Filers, and Sharpeners","Duplicate workpiece contours, using tracer attachments.",Near Vision,2,0
+10362,"Tool Grinders, Filers, and Sharpeners","Duplicate workpiece contours, using tracer attachments.",Manual Dexterity,1,0
+10361,"Tool Grinders, Filers, and Sharpeners","Inspect dies to detect defects, assess wear, and verify specifications, using micrometers, steel gauge pins, and loupes.",Near Vision,3,0
+10361,"Tool Grinders, Filers, and Sharpeners","Inspect dies to detect defects, assess wear, and verify specifications, using micrometers, steel gauge pins, and loupes.",Perceptual Speed,2,0
+10361,"Tool Grinders, Filers, and Sharpeners","Inspect dies to detect defects, assess wear, and verify specifications, using micrometers, steel gauge pins, and loupes.",Finger Dexterity,1,0
+10361,"Tool Grinders, Filers, and Sharpeners","Inspect dies to detect defects, assess wear, and verify specifications, using micrometers, steel gauge pins, and loupes.",Selective Attention,1,0
+10365,"Tool Grinders, Filers, and Sharpeners",Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves.,Manual Dexterity,2,0
+10365,"Tool Grinders, Filers, and Sharpeners",Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves.,Arm-Hand Steadiness,1,0
+10365,"Tool Grinders, Filers, and Sharpeners",Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves.,Near Vision,1,0
+10365,"Tool Grinders, Filers, and Sharpeners",Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves.,Visual Color Discrimination,1,0
+10363,"Tool Grinders, Filers, and Sharpeners","Straighten workpieces and remove dents, using straightening presses and hammers.",Static Strength,2,0
+10363,"Tool Grinders, Filers, and Sharpeners","Straighten workpieces and remove dents, using straightening presses and hammers.",Manual Dexterity,2,0
+10363,"Tool Grinders, Filers, and Sharpeners","Straighten workpieces and remove dents, using straightening presses and hammers.",Control Precision,2,0
+10363,"Tool Grinders, Filers, and Sharpeners","Straighten workpieces and remove dents, using straightening presses and hammers.",Near Vision,1,0
+10363,"Tool Grinders, Filers, and Sharpeners","Straighten workpieces and remove dents, using straightening presses and hammers.",Arm-Hand Steadiness,1,0
+20927,Prepress Technicians and Workers,Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece.,Near Vision,2,0
+20927,Prepress Technicians and Workers,Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece.,Visual Color Discrimination,2,0
+20927,Prepress Technicians and Workers,Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece.,Perceptual Speed,1,0
+20927,Prepress Technicians and Workers,Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece.,Visualization,1,0
+20928,Prepress Technicians and Workers,Proofread and perform quality control of text and images.,Near Vision,3,0
+20928,Prepress Technicians and Workers,Proofread and perform quality control of text and images.,Selective Attention,3,0
+20928,Prepress Technicians and Workers,Proofread and perform quality control of text and images.,Perceptual Speed,2,0
+20928,Prepress Technicians and Workers,Proofread and perform quality control of text and images.,Written Comprehension,2,0
+10403,Prepress Technicians and Workers,"Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced.",Near Vision,2,0
+10403,Prepress Technicians and Workers,"Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced.",Finger Dexterity,2,0
+10403,Prepress Technicians and Workers,"Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced.",Visualization,2,0
+10403,Prepress Technicians and Workers,"Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced.",Perceptual Speed,1,0
+20929,Prepress Technicians and Workers,"Perform ""preflight"" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer.",Selective Attention,3,0
+20929,Prepress Technicians and Workers,"Perform ""preflight"" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer.",Near Vision,2,0
+20929,Prepress Technicians and Workers,"Perform ""preflight"" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer.",Perceptual Speed,2,0
+20929,Prepress Technicians and Workers,"Perform ""preflight"" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer.",Information Ordering,1,0
+10405,Prepress Technicians and Workers,Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film.,Near Vision,2,0
+10405,Prepress Technicians and Workers,Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film.,Control Precision,2,0
+10405,Prepress Technicians and Workers,Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film.,Manual Dexterity,1,0
+10405,Prepress Technicians and Workers,Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film.,Selective Attention,1,0
+10402,Prepress Technicians and Workers,"Enter, store, and retrieve information on computer-aided equipment.",Finger Dexterity,2,0
+10402,Prepress Technicians and Workers,"Enter, store, and retrieve information on computer-aided equipment.",Near Vision,1,0
+10402,Prepress Technicians and Workers,"Enter, store, and retrieve information on computer-aided equipment.",Perceptual Speed,1,0
+10404,Prepress Technicians and Workers,"Maintain, adjust, and clean equipment, and perform minor repairs.",Manual Dexterity,2,0
+10404,Prepress Technicians and Workers,"Maintain, adjust, and clean equipment, and perform minor repairs.",Finger Dexterity,1,0
+10404,Prepress Technicians and Workers,"Maintain, adjust, and clean equipment, and perform minor repairs.",Static Strength,1,0
+10407,Prepress Technicians and Workers,"Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate.",Near Vision,2,0
+10407,Prepress Technicians and Workers,"Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate.",Selective Attention,2,0
+10407,Prepress Technicians and Workers,"Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate.",Control Precision,1,0
+10407,Prepress Technicians and Workers,"Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate.",Visual Color Discrimination,1,0
+10425,Prepress Technicians and Workers,Select proper types of plates according to press run lengths.,Deductive Reasoning,2,0
+10425,Prepress Technicians and Workers,Select proper types of plates according to press run lengths.,Near Vision,1,0
+10425,Prepress Technicians and Workers,Select proper types of plates according to press run lengths.,Number Facility,1,0
+10412,Prepress Technicians and Workers,"Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes.",Near Vision,3,0
+10412,Prepress Technicians and Workers,"Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes.",Perceptual Speed,3,0
+10412,Prepress Technicians and Workers,"Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes.",Selective Attention,2,0
+10412,Prepress Technicians and Workers,"Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes.",Flexibility of Closure,1,0
+10410,Prepress Technicians and Workers,Examine unexposed photographic plates to detect flaws or foreign particles prior to printing.,Near Vision,3,0
+10410,Prepress Technicians and Workers,Examine unexposed photographic plates to detect flaws or foreign particles prior to printing.,Selective Attention,2,0
+10410,Prepress Technicians and Workers,Examine unexposed photographic plates to detect flaws or foreign particles prior to printing.,Perceptual Speed,2,0
+10406,Prepress Technicians and Workers,Examine photographic images for obvious imperfections prior to plate making.,Near Vision,3,0
+10406,Prepress Technicians and Workers,Examine photographic images for obvious imperfections prior to plate making.,Selective Attention,2,0
+10406,Prepress Technicians and Workers,Examine photographic images for obvious imperfections prior to plate making.,Perceptual Speed,2,0
+10433,Prepress Technicians and Workers,"Scale copy for reductions and enlargements, using proportion wheels.",Mathematical Reasoning,2,0
+10433,Prepress Technicians and Workers,"Scale copy for reductions and enlargements, using proportion wheels.",Near Vision,2,0
+10433,Prepress Technicians and Workers,"Scale copy for reductions and enlargements, using proportion wheels.",Number Facility,2,0
+10433,Prepress Technicians and Workers,"Scale copy for reductions and enlargements, using proportion wheels.",Visualization,1,0
+10427,Prepress Technicians and Workers,"Analyze originals to evaluate color density, gradation highlights, middle tones, and shadows, using densitometers and knowledge of light and color.",Visual Color Discrimination,3,0
+10427,Prepress Technicians and Workers,"Analyze originals to evaluate color density, gradation highlights, middle tones, and shadows, using densitometers and knowledge of light and color.",Near Vision,2,0
+10427,Prepress Technicians and Workers,"Analyze originals to evaluate color density, gradation highlights, middle tones, and shadows, using densitometers and knowledge of light and color.",Deductive Reasoning,1,0
+10428,Prepress Technicians and Workers,"Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers.",Visual Color Discrimination,2,0
+10428,Prepress Technicians and Workers,"Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers.",Near Vision,2,0
+10428,Prepress Technicians and Workers,"Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers.",Finger Dexterity,1,0
+10428,Prepress Technicians and Workers,"Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers.",Control Precision,1,0
+19430,Printing Press Operators,"Start presses and pull proofs to check for ink coverage and density, alignment, and registration.",Near Vision,2,0
+19430,Printing Press Operators,"Start presses and pull proofs to check for ink coverage and density, alignment, and registration.",Selective Attention,2,0
+19430,Printing Press Operators,"Start presses and pull proofs to check for ink coverage and density, alignment, and registration.",Visual Color Discrimination,2,0
+19430,Printing Press Operators,"Start presses and pull proofs to check for ink coverage and density, alignment, and registration.",Manual Dexterity,1,0
+19423,Printing Press Operators,"Examine job orders to determine quantities to be printed, stock specifications, colors, or special printing instructions.",Written Comprehension,2,0
+19423,Printing Press Operators,"Examine job orders to determine quantities to be printed, stock specifications, colors, or special printing instructions.",Near Vision,1,0
+19423,Printing Press Operators,"Examine job orders to determine quantities to be printed, stock specifications, colors, or special printing instructions.",Number Facility,1,0
+19417,Printing Press Operators,Adjust ink fountain flow rates.,Control Precision,3,0
+19417,Printing Press Operators,Adjust ink fountain flow rates.,Finger Dexterity,1,0
+19417,Printing Press Operators,Adjust ink fountain flow rates.,Near Vision,1,0
+19431,Printing Press Operators,Verify that paper and ink meet the specifications for a given job.,Near Vision,2,0
+19431,Printing Press Operators,Verify that paper and ink meet the specifications for a given job.,Visual Color Discrimination,2,0
+19431,Printing Press Operators,Verify that paper and ink meet the specifications for a given job.,Selective Attention,1,0
+19421,Printing Press Operators,Collect and inspect random samples during print runs to identify any necessary adjustments.,Near Vision,3,0
+19421,Printing Press Operators,Collect and inspect random samples during print runs to identify any necessary adjustments.,Selective Attention,2,0
+19421,Printing Press Operators,Collect and inspect random samples during print runs to identify any necessary adjustments.,Visual Color Discrimination,1,0
+19421,Printing Press Operators,Collect and inspect random samples during print runs to identify any necessary adjustments.,Perceptual Speed,1,0
+19424,Printing Press Operators,Feed paper through press cylinders and adjust feed and tension controls.,Manual Dexterity,2,0
+19424,Printing Press Operators,Feed paper through press cylinders and adjust feed and tension controls.,Finger Dexterity,2,0
+19424,Printing Press Operators,Feed paper through press cylinders and adjust feed and tension controls.,Control Precision,2,0
+19424,Printing Press Operators,Feed paper through press cylinders and adjust feed and tension controls.,Near Vision,1,0
+19427,Printing Press Operators,"Monitor automated press operation systems and respond to fault, error, or alert messages.",Selective Attention,3,0
+19427,Printing Press Operators,"Monitor automated press operation systems and respond to fault, error, or alert messages.",Near Vision,2,0
+19427,Printing Press Operators,"Monitor automated press operation systems and respond to fault, error, or alert messages.",Reaction Time,2,0
+19426,Printing Press Operators,"Load presses with paper and make necessary adjustments, according to paper size.",Manual Dexterity,2,0
+19426,Printing Press Operators,"Load presses with paper and make necessary adjustments, according to paper size.",Static Strength,1,0
+19426,Printing Press Operators,"Load presses with paper and make necessary adjustments, according to paper size.",Control Precision,1,0
+19426,Printing Press Operators,"Load presses with paper and make necessary adjustments, according to paper size.",Near Vision,1,0
+19429,Printing Press Operators,Secure printing plates to printing units and adjust tolerances.,Manual Dexterity,2,0
+19429,Printing Press Operators,Secure printing plates to printing units and adjust tolerances.,Control Precision,2,0
+19429,Printing Press Operators,Secure printing plates to printing units and adjust tolerances.,Arm-Hand Steadiness,2,0
+19429,Printing Press Operators,Secure printing plates to printing units and adjust tolerances.,Static Strength,1,0
+19419,Printing Press Operators,"Clean ink fountains, plates, or printing unit cylinders when press runs are completed.",Manual Dexterity,2,0
+19419,Printing Press Operators,"Clean ink fountains, plates, or printing unit cylinders when press runs are completed.",Finger Dexterity,1,0
+19419,Printing Press Operators,"Clean ink fountains, plates, or printing unit cylinders when press runs are completed.",Static Strength,1,0
+19418,Printing Press Operators,"Change press plates, blankets, or cylinders, as required.",Manual Dexterity,2,0
+19418,Printing Press Operators,"Change press plates, blankets, or cylinders, as required.",Static Strength,2,0
+19418,Printing Press Operators,"Change press plates, blankets, or cylinders, as required.",Arm-Hand Steadiness,1,0
+19418,Printing Press Operators,"Change press plates, blankets, or cylinders, as required.",Control Precision,1,0
+19428,Printing Press Operators,Obtain or mix inks and fill ink fountains.,Manual Dexterity,2,0
+19428,Printing Press Operators,Obtain or mix inks and fill ink fountains.,Visual Color Discrimination,2,0
+19428,Printing Press Operators,Obtain or mix inks and fill ink fountains.,Static Strength,1,0
+19428,Printing Press Operators,Obtain or mix inks and fill ink fountains.,Near Vision,1,0
+19425,Printing Press Operators,Input production job settings into workstation terminals that control automated printing systems.,Finger Dexterity,2,0
+19425,Printing Press Operators,Input production job settings into workstation terminals that control automated printing systems.,Near Vision,1,0
+19425,Printing Press Operators,Input production job settings into workstation terminals that control automated printing systems.,Perceptual Speed,1,0
+19420,Printing Press Operators,"Clean or oil presses or make minor repairs, using hand tools.",Manual Dexterity,2,0
+19420,Printing Press Operators,"Clean or oil presses or make minor repairs, using hand tools.",Finger Dexterity,1,0
+19420,Printing Press Operators,"Clean or oil presses or make minor repairs, using hand tools.",Static Strength,1,0
+19435,Printing Press Operators,Maintain time or production records.,Written Expression,2,0
+19435,Printing Press Operators,Maintain time or production records.,Number Facility,1,0
+19435,Printing Press Operators,Maintain time or production records.,Information Ordering,1,0
+19437,Printing Press Operators,"Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary.",Selective Attention,1,0
+19437,Printing Press Operators,"Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary.",Number Facility,1,0
+19437,Printing Press Operators,"Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary.",Written Expression,1,0
+19437,Printing Press Operators,"Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary.",Information Ordering,1,0
+19436,Printing Press Operators,"Monitor environmental factors, such as humidity and temperature, that may impact equipment performance and make necessary adjustments.",Selective Attention,3,0
+19436,Printing Press Operators,"Monitor environmental factors, such as humidity and temperature, that may impact equipment performance and make necessary adjustments.",Near Vision,1,0
+19436,Printing Press Operators,"Monitor environmental factors, such as humidity and temperature, that may impact equipment performance and make necessary adjustments.",Deductive Reasoning,1,0

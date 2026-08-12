@@ -1,0 +1,488 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+291,Art Directors,Work with creative directors to develop design solutions.,Oral Expression,2,0
+291,Art Directors,Work with creative directors to develop design solutions.,Oral Comprehension,2,0
+291,Art Directors,Work with creative directors to develop design solutions.,Originality,3,0
+291,Art Directors,Work with creative directors to develop design solutions.,Fluency of Ideas,2,0
+291,Art Directors,Work with creative directors to develop design solutions.,Deductive Reasoning,1,0
+288,Art Directors,Present final layouts to clients for approval.,Oral Expression,3,0
+288,Art Directors,Present final layouts to clients for approval.,Oral Comprehension,2,0
+288,Art Directors,Present final layouts to clients for approval.,Speech Clarity,2,0
+288,Art Directors,Present final layouts to clients for approval.,Visualization,1,0
+286,Art Directors,"Manage own accounts and projects, working within budget and scheduling requirements.",Information Ordering,3,0
+286,Art Directors,"Manage own accounts and projects, working within budget and scheduling requirements.",Mathematical Reasoning,2,0
+286,Art Directors,"Manage own accounts and projects, working within budget and scheduling requirements.",Time Sharing,2,0
+286,Art Directors,"Manage own accounts and projects, working within budget and scheduling requirements.",Deductive Reasoning,1,0
+286,Art Directors,"Manage own accounts and projects, working within budget and scheduling requirements.",Number Facility,1,0
+287,Art Directors,"Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities.",Oral Expression,3,0
+287,Art Directors,"Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities.",Oral Comprehension,3,0
+287,Art Directors,"Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities.",Deductive Reasoning,1,0
+287,Art Directors,"Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities.",Information Ordering,1,0
+289,Art Directors,"Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",Oral Comprehension,3,0
+289,Art Directors,"Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",Oral Expression,2,0
+289,Art Directors,"Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",Problem Sensitivity,2,0
+289,Art Directors,"Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",Deductive Reasoning,1,0
+289,Art Directors,"Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",Information Ordering,1,0
+284,Art Directors,"Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.",Visualization,3,0
+284,Art Directors,"Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.",Originality,3,0
+284,Art Directors,"Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.",Fluency of Ideas,2,0
+284,Art Directors,"Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.",Information Ordering,2,0
+284,Art Directors,"Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.",Written Expression,1,0
+285,Art Directors,"Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.",Near Vision,2,0
+285,Art Directors,"Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.",Perceptual Speed,2,0
+285,Art Directors,"Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.",Selective Attention,2,0
+285,Art Directors,"Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.",Visual Color Discrimination,1,0
+285,Art Directors,"Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.",Written Comprehension,1,0
+294,Art Directors,Create custom illustrations or other graphic elements.,Originality,3,0
+294,Art Directors,Create custom illustrations or other graphic elements.,Visualization,3,0
+294,Art Directors,Create custom illustrations or other graphic elements.,Fluency of Ideas,2,0
+294,Art Directors,Create custom illustrations or other graphic elements.,Near Vision,1,0
+294,Art Directors,Create custom illustrations or other graphic elements.,Manual Dexterity,1,1
+293,Art Directors,Attend photo shoots and printing sessions to ensure that the products needed are obtained.,Near Vision,2,0
+293,Art Directors,Attend photo shoots and printing sessions to ensure that the products needed are obtained.,Selective Attention,2,0
+293,Art Directors,Attend photo shoots and printing sessions to ensure that the products needed are obtained.,Visual Color Discrimination,1,0
+293,Art Directors,Attend photo shoots and printing sessions to ensure that the products needed are obtained.,Oral Comprehension,1,0
+293,Art Directors,Attend photo shoots and printing sessions to ensure that the products needed are obtained.,Problem Sensitivity,1,1
+292,Art Directors,Review illustrative material to determine if it conforms to standards and specifications.,Near Vision,2,0
+292,Art Directors,Review illustrative material to determine if it conforms to standards and specifications.,Selective Attention,2,0
+292,Art Directors,Review illustrative material to determine if it conforms to standards and specifications.,Visual Color Discrimination,2,0
+292,Art Directors,Review illustrative material to determine if it conforms to standards and specifications.,Perceptual Speed,2,0
+292,Art Directors,Review illustrative material to determine if it conforms to standards and specifications.,Written Comprehension,1,0
+290,Art Directors,"Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing.",Oral Expression,3,0
+290,Art Directors,"Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing.",Oral Comprehension,2,0
+290,Art Directors,"Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing.",Deductive Reasoning,1,0
+290,Art Directors,"Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing.",Information Ordering,1,0
+20242,Art Directors,"Research current trends and new technology, such as printing production techniques, computer software, and design trends.",Written Comprehension,3,0
+20242,Art Directors,"Research current trends and new technology, such as printing production techniques, computer software, and design trends.",Inductive Reasoning,2,0
+20242,Art Directors,"Research current trends and new technology, such as printing production techniques, computer software, and design trends.",Information Ordering,1,0
+20242,Art Directors,"Research current trends and new technology, such as printing production techniques, computer software, and design trends.",Fluency of Ideas,1,0
+295,Art Directors,"Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",Near Vision,2,0
+295,Art Directors,"Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",Written Expression,2,0
+295,Art Directors,"Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",Manual Dexterity,1,0
+295,Art Directors,"Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",Information Ordering,2,0
+295,Art Directors,"Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",Visualization,1,0
+297,Art Directors,"Conceptualize and help design interfaces for multimedia games, products, and devices.",Originality,3,0
+297,Art Directors,"Conceptualize and help design interfaces for multimedia games, products, and devices.",Visualization,3,0
+297,Art Directors,"Conceptualize and help design interfaces for multimedia games, products, and devices.",Fluency of Ideas,2,0
+297,Art Directors,"Conceptualize and help design interfaces for multimedia games, products, and devices.",Problem Sensitivity,1,0
+298,Art Directors,Prepare detailed storyboards showing sequence and timing of story development for television production.,Visualization,3,0
+298,Art Directors,Prepare detailed storyboards showing sequence and timing of story development for television production.,Originality,2,0
+298,Art Directors,Prepare detailed storyboards showing sequence and timing of story development for television production.,Information Ordering,2,0
+298,Art Directors,Prepare detailed storyboards showing sequence and timing of story development for television production.,Fluency of Ideas,2,0
+298,Art Directors,Prepare detailed storyboards showing sequence and timing of story development for television production.,Written Expression,1,0
+296,Art Directors,Negotiate with printers and estimators to determine what services will be performed.,Oral Expression,3,0
+296,Art Directors,Negotiate with printers and estimators to determine what services will be performed.,Oral Comprehension,2,0
+296,Art Directors,Negotiate with printers and estimators to determine what services will be performed.,Deductive Reasoning,2,0
+296,Art Directors,Negotiate with printers and estimators to determine what services will be performed.,Mathematical Reasoning,1,0
+9250,Craft Artists,"Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics.",Visual Color Discrimination,2,0
+9250,Craft Artists,"Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics.",Near Vision,1,0
+9250,Craft Artists,"Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics.",Problem Sensitivity,2,0
+9250,Craft Artists,"Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics.",Deductive Reasoning,1,0
+9250,Craft Artists,"Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics.",Selective Attention,1,0
+9247,Craft Artists,"Create functional or decorative objects by hand, using a variety of methods and materials.",Manual Dexterity,3,0
+9247,Craft Artists,"Create functional or decorative objects by hand, using a variety of methods and materials.",Finger Dexterity,2,0
+9247,Craft Artists,"Create functional or decorative objects by hand, using a variety of methods and materials.",Originality,2,0
+9247,Craft Artists,"Create functional or decorative objects by hand, using a variety of methods and materials.",Arm-Hand Steadiness,2,0
+9247,Craft Artists,"Create functional or decorative objects by hand, using a variety of methods and materials.",Near Vision,1,0
+9252,Craft Artists,Develop concepts or creative ideas for craft objects.,Originality,3,0
+9252,Craft Artists,Develop concepts or creative ideas for craft objects.,Fluency of Ideas,3,0
+9252,Craft Artists,Develop concepts or creative ideas for craft objects.,Visualization,2,0
+9251,Craft Artists,Apply finishes to objects being crafted.,Arm-Hand Steadiness,2,0
+9251,Craft Artists,Apply finishes to objects being crafted.,Manual Dexterity,2,0
+9251,Craft Artists,Apply finishes to objects being crafted.,Near Vision,1,0
+9251,Craft Artists,Apply finishes to objects being crafted.,Control Precision,1,0
+9248,Craft Artists,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",Manual Dexterity,3,0
+9248,Craft Artists,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",Finger Dexterity,2,0
+9248,Craft Artists,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",Control Precision,2,0
+9248,Craft Artists,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",Arm-Hand Steadiness,2,0
+9248,Craft Artists,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",Near Vision,1,0
+9253,Craft Artists,"Set specifications for materials, dimensions, and finishes.",Mathematical Reasoning,1,0
+9253,Craft Artists,"Set specifications for materials, dimensions, and finishes.",Visualization,1,0
+9253,Craft Artists,"Set specifications for materials, dimensions, and finishes.",Information Ordering,2,0
+9253,Craft Artists,"Set specifications for materials, dimensions, and finishes.",Near Vision,1,0
+9253,Craft Artists,"Set specifications for materials, dimensions, and finishes.",Written Expression,1,0
+9258,Craft Artists,"Advertise products and work, using media such as internet advertising and brochures.",Written Expression,2,0
+9258,Craft Artists,"Advertise products and work, using media such as internet advertising and brochures.",Originality,2,0
+9258,Craft Artists,"Advertise products and work, using media such as internet advertising and brochures.",Fluency of Ideas,1,0
+9257,Craft Artists,Sketch or draw objects to be crafted.,Visualization,3,0
+9257,Craft Artists,Sketch or draw objects to be crafted.,Near Vision,2,0
+9257,Craft Artists,Sketch or draw objects to be crafted.,Manual Dexterity,2,0
+9257,Craft Artists,Sketch or draw objects to be crafted.,Originality,2,0
+24006,Craft Artists,Pack products for shipping.,Manual Dexterity,2,0
+24006,Craft Artists,Pack products for shipping.,Near Vision,1,0
+24006,Craft Artists,Pack products for shipping.,Control Precision,1,1
+24006,Craft Artists,Pack products for shipping.,Static Strength,1,0
+9255,Craft Artists,Fabricate patterns or templates to guide craft production.,Manual Dexterity,2,0
+9255,Craft Artists,Fabricate patterns or templates to guide craft production.,Visualization,2,0
+9255,Craft Artists,Fabricate patterns or templates to guide craft production.,Near Vision,1,0
+9255,Craft Artists,Fabricate patterns or templates to guide craft production.,Information Ordering,1,0
+9256,Craft Artists,Create prototypes or models of objects to be crafted.,Manual Dexterity,3,0
+9256,Craft Artists,Create prototypes or models of objects to be crafted.,Visualization,2,0
+9256,Craft Artists,Create prototypes or models of objects to be crafted.,Finger Dexterity,2,0
+9256,Craft Artists,Create prototypes or models of objects to be crafted.,Originality,1,0
+9259,Craft Artists,"Develop product packaging, display, and pricing strategies.",Originality,2,0
+9259,Craft Artists,"Develop product packaging, display, and pricing strategies.",Mathematical Reasoning,1,0
+9259,Craft Artists,"Develop product packaging, display, and pricing strategies.",Fluency of Ideas,1,0
+9259,Craft Artists,"Develop product packaging, display, and pricing strategies.",Deductive Reasoning,1,0
+9254,Craft Artists,Confer with customers to assess customer needs or obtain feedback.,Oral Comprehension,3,0
+9254,Craft Artists,Confer with customers to assess customer needs or obtain feedback.,Oral Expression,2,0
+9254,Craft Artists,Confer with customers to assess customer needs or obtain feedback.,Problem Sensitivity,1,0
+20881,Craft Artists,Plan and attend craft shows to market products.,Information Ordering,1,0
+20881,Craft Artists,Plan and attend craft shows to market products.,Oral Expression,2,0
+20881,Craft Artists,Plan and attend craft shows to market products.,Stamina,1,1
+20881,Craft Artists,Plan and attend craft shows to market products.,Fluency of Ideas,1,0
+9261,Craft Artists,Develop designs using specialized computer software.,Visualization,3,0
+9261,Craft Artists,Develop designs using specialized computer software.,Near Vision,2,0
+9261,Craft Artists,Develop designs using specialized computer software.,Manual Dexterity,1,0
+9261,Craft Artists,Develop designs using specialized computer software.,Originality,2,0
+9260,Craft Artists,"Research craft trends, venues, and customer buying patterns to inspire designs and marketing strategies.",Written Comprehension,2,0
+9260,Craft Artists,"Research craft trends, venues, and customer buying patterns to inspire designs and marketing strategies.",Inductive Reasoning,2,0
+9260,Craft Artists,"Research craft trends, venues, and customer buying patterns to inspire designs and marketing strategies.",Fluency of Ideas,1,0
+9260,Craft Artists,"Research craft trends, venues, and customer buying patterns to inspire designs and marketing strategies.",Originality,1,0
+10989,"Fine Artists, Including Painters, Sculptors, and Illustrators","Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",Originality,3,0
+10989,"Fine Artists, Including Painters, Sculptors, and Illustrators","Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",Manual Dexterity,2,0
+10989,"Fine Artists, Including Painters, Sculptors, and Illustrators","Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",Visual Color Discrimination,2,0
+10989,"Fine Artists, Including Painters, Sculptors, and Illustrators","Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",Near Vision,1,0
+10989,"Fine Artists, Including Painters, Sculptors, and Illustrators","Use materials such as pens and ink, watercolors, charcoal, oil, or computer software to create artwork.",Arm-Hand Steadiness,1,0
+10990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods.",Originality,3,0
+10990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods.",Visualization,3,0
+10990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods.",Visual Color Discrimination,2,0
+10990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods.",Fluency of Ideas,2,0
+10991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Confer with clients, editors, writers, art directors, and other interested parties regarding the nature and content of artwork to be produced.",Oral Comprehension,3,0
+10991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Confer with clients, editors, writers, art directors, and other interested parties regarding the nature and content of artwork to be produced.",Oral Expression,2,0
+10991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Confer with clients, editors, writers, art directors, and other interested parties regarding the nature and content of artwork to be produced.",Problem Sensitivity,1,0
+10993,"Fine Artists, Including Painters, Sculptors, and Illustrators","Maintain portfolios of artistic work to demonstrate styles, interests, and abilities.",Information Ordering,2,0
+10993,"Fine Artists, Including Painters, Sculptors, and Illustrators","Maintain portfolios of artistic work to demonstrate styles, interests, and abilities.",Visualization,1,0
+10993,"Fine Artists, Including Painters, Sculptors, and Illustrators","Maintain portfolios of artistic work to demonstrate styles, interests, and abilities.",Near Vision,1,0
+20990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Market artwork through brochures, mailings, or Web sites.",Written Expression,2,0
+20990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Market artwork through brochures, mailings, or Web sites.",Originality,1,0
+20990,"Fine Artists, Including Painters, Sculptors, and Illustrators","Market artwork through brochures, mailings, or Web sites.",Fluency of Ideas,1,0
+10997,"Fine Artists, Including Painters, Sculptors, and Illustrators",Study different techniques to learn how to apply them to artistic endeavors.,Written Comprehension,2,0
+10997,"Fine Artists, Including Painters, Sculptors, and Illustrators",Study different techniques to learn how to apply them to artistic endeavors.,Visualization,2,0
+10997,"Fine Artists, Including Painters, Sculptors, and Illustrators",Study different techniques to learn how to apply them to artistic endeavors.,Memorization,1,0
+10996,"Fine Artists, Including Painters, Sculptors, and Illustrators","Monitor events, trends, and other circumstances, research specific subject areas, attend art exhibitions, and read art publications to develop ideas and keep current on art world activities.",Written Comprehension,2,0
+10996,"Fine Artists, Including Painters, Sculptors, and Illustrators","Monitor events, trends, and other circumstances, research specific subject areas, attend art exhibitions, and read art publications to develop ideas and keep current on art world activities.",Inductive Reasoning,2,0
+10996,"Fine Artists, Including Painters, Sculptors, and Illustrators","Monitor events, trends, and other circumstances, research specific subject areas, attend art exhibitions, and read art publications to develop ideas and keep current on art world activities.",Fluency of Ideas,1,0
+10996,"Fine Artists, Including Painters, Sculptors, and Illustrators","Monitor events, trends, and other circumstances, research specific subject areas, attend art exhibitions, and read art publications to develop ideas and keep current on art world activities.",Selective Attention,1,0
+20991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Photograph objects, places, or scenes for reference material.",Near Vision,2,0
+20991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Photograph objects, places, or scenes for reference material.",Visualization,1,0
+20991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Photograph objects, places, or scenes for reference material.",Control Precision,1,0
+20991,"Fine Artists, Including Painters, Sculptors, and Illustrators","Photograph objects, places, or scenes for reference material.",Depth Perception,1,0
+11011,"Fine Artists, Including Painters, Sculptors, and Illustrators","Model substances such as clay or wax, using fingers and small hand tools to form objects.",Finger Dexterity,3,0
+11011,"Fine Artists, Including Painters, Sculptors, and Illustrators","Model substances such as clay or wax, using fingers and small hand tools to form objects.",Manual Dexterity,3,0
+11011,"Fine Artists, Including Painters, Sculptors, and Illustrators","Model substances such as clay or wax, using fingers and small hand tools to form objects.",Arm-Hand Steadiness,2,0
+11011,"Fine Artists, Including Painters, Sculptors, and Illustrators","Model substances such as clay or wax, using fingers and small hand tools to form objects.",Visualization,2,0
+11011,"Fine Artists, Including Painters, Sculptors, and Illustrators","Model substances such as clay or wax, using fingers and small hand tools to form objects.",Control Precision,1,0
+11000,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal.",Manual Dexterity,3,0
+11000,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal.",Arm-Hand Steadiness,2,0
+11000,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal.",Static Strength,2,0
+11000,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal.",Visualization,2,0
+11000,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sculptures, statues, and other three-dimensional artwork by using abrasives and tools to shape, carve, and fabricate materials such as clay, stone, wood, or metal.",Control Precision,2,0
+20992,"Fine Artists, Including Painters, Sculptors, and Illustrators",Set up exhibitions of artwork for display or sale.,Visualization,2,0
+20992,"Fine Artists, Including Painters, Sculptors, and Illustrators",Set up exhibitions of artwork for display or sale.,Manual Dexterity,1,0
+20992,"Fine Artists, Including Painters, Sculptors, and Illustrators",Set up exhibitions of artwork for display or sale.,Information Ordering,1,0
+20992,"Fine Artists, Including Painters, Sculptors, and Illustrators",Set up exhibitions of artwork for display or sale.,Gross Body Coordination,1,1
+10998,"Fine Artists, Including Painters, Sculptors, and Illustrators","Render drawings, illustrations, and sketches of buildings, manufactured products, or models, working from sketches, blueprints, memory, models, or reference materials.",Visualization,3,0
+10998,"Fine Artists, Including Painters, Sculptors, and Illustrators","Render drawings, illustrations, and sketches of buildings, manufactured products, or models, working from sketches, blueprints, memory, models, or reference materials.",Near Vision,2,0
+10998,"Fine Artists, Including Painters, Sculptors, and Illustrators","Render drawings, illustrations, and sketches of buildings, manufactured products, or models, working from sketches, blueprints, memory, models, or reference materials.",Manual Dexterity,2,0
+10998,"Fine Artists, Including Painters, Sculptors, and Illustrators","Render drawings, illustrations, and sketches of buildings, manufactured products, or models, working from sketches, blueprints, memory, models, or reference materials.",Memorization,1,0
+11003,"Fine Artists, Including Painters, Sculptors, and Illustrators","Shade and fill in sketch outlines and backgrounds, using a variety of media such as water colors, markers, and transparent washes, labeling designated colors when necessary.",Manual Dexterity,2,0
+11003,"Fine Artists, Including Painters, Sculptors, and Illustrators","Shade and fill in sketch outlines and backgrounds, using a variety of media such as water colors, markers, and transparent washes, labeling designated colors when necessary.",Visual Color Discrimination,2,0
+11003,"Fine Artists, Including Painters, Sculptors, and Illustrators","Shade and fill in sketch outlines and backgrounds, using a variety of media such as water colors, markers, and transparent washes, labeling designated colors when necessary.",Near Vision,2,0
+11003,"Fine Artists, Including Painters, Sculptors, and Illustrators","Shade and fill in sketch outlines and backgrounds, using a variety of media such as water colors, markers, and transparent washes, labeling designated colors when necessary.",Arm-Hand Steadiness,1,0
+20993,"Fine Artists, Including Painters, Sculptors, and Illustrators",Frame and mat artwork for display or sale.,Manual Dexterity,2,0
+20993,"Fine Artists, Including Painters, Sculptors, and Illustrators",Frame and mat artwork for display or sale.,Near Vision,1,0
+20993,"Fine Artists, Including Painters, Sculptors, and Illustrators",Frame and mat artwork for display or sale.,Control Precision,1,0
+20994,"Fine Artists, Including Painters, Sculptors, and Illustrators",Submit artwork to shows or galleries.,Information Ordering,1,0
+20994,"Fine Artists, Including Painters, Sculptors, and Illustrators",Submit artwork to shows or galleries.,Written Expression,1,1
+20994,"Fine Artists, Including Painters, Sculptors, and Illustrators",Submit artwork to shows or galleries.,Deductive Reasoning,1,1
+10992,"Fine Artists, Including Painters, Sculptors, and Illustrators","Submit preliminary or finished artwork or project plans to clients for approval, incorporating changes as necessary.",Oral Comprehension,2,0
+10992,"Fine Artists, Including Painters, Sculptors, and Illustrators","Submit preliminary or finished artwork or project plans to clients for approval, incorporating changes as necessary.",Oral Expression,1,0
+10992,"Fine Artists, Including Painters, Sculptors, and Illustrators","Submit preliminary or finished artwork or project plans to clients for approval, incorporating changes as necessary.",Visualization,1,0
+10992,"Fine Artists, Including Painters, Sculptors, and Illustrators","Submit preliminary or finished artwork or project plans to clients for approval, incorporating changes as necessary.",Deductive Reasoning,1,0
+11004,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with engineers, mechanics, and other technical experts as necessary to build and install creations.",Oral Comprehension,2,0
+11004,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with engineers, mechanics, and other technical experts as necessary to build and install creations.",Oral Expression,2,0
+11004,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with engineers, mechanics, and other technical experts as necessary to build and install creations.",Deductive Reasoning,1,0
+11004,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with engineers, mechanics, and other technical experts as necessary to build and install creations.",Gross Body Coordination,1,1
+10995,"Fine Artists, Including Painters, Sculptors, and Illustrators","Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art.",Manual Dexterity,3,0
+10995,"Fine Artists, Including Painters, Sculptors, and Illustrators","Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art.",Finger Dexterity,2,0
+10995,"Fine Artists, Including Painters, Sculptors, and Illustrators","Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art.",Control Precision,2,0
+10995,"Fine Artists, Including Painters, Sculptors, and Illustrators","Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art.",Static Strength,1,0
+10995,"Fine Artists, Including Painters, Sculptors, and Illustrators","Cut, bend, laminate, arrange, and fasten individual or mixed raw and manufactured materials and products to form works of art.",Visualization,1,0
+11013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Provide entertainment at special events by performing activities such as drawing cartoons.,Manual Dexterity,2,0
+11013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Provide entertainment at special events by performing activities such as drawing cartoons.,Originality,2,0
+11013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Provide entertainment at special events by performing activities such as drawing cartoons.,Near Vision,1,0
+11013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Provide entertainment at special events by performing activities such as drawing cartoons.,Speed of Limb Movement,1,0
+11013,"Fine Artists, Including Painters, Sculptors, and Illustrators",Provide entertainment at special events by performing activities such as drawing cartoons.,Fluency of Ideas,1,0
+11002,"Fine Artists, Including Painters, Sculptors, and Illustrators","Develop project budgets for approval, estimating time lines and material costs.",Mathematical Reasoning,3,0
+11002,"Fine Artists, Including Painters, Sculptors, and Illustrators","Develop project budgets for approval, estimating time lines and material costs.",Number Facility,2,0
+11002,"Fine Artists, Including Painters, Sculptors, and Illustrators","Develop project budgets for approval, estimating time lines and material costs.",Information Ordering,2,0
+11005,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create and prepare sketches and model drawings of cartoon characters, providing details from memory, live models, manufactured products, or reference materials.",Visualization,3,0
+11005,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create and prepare sketches and model drawings of cartoon characters, providing details from memory, live models, manufactured products, or reference materials.",Memorization,2,0
+11005,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create and prepare sketches and model drawings of cartoon characters, providing details from memory, live models, manufactured products, or reference materials.",Manual Dexterity,2,0
+11005,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create and prepare sketches and model drawings of cartoon characters, providing details from memory, live models, manufactured products, or reference materials.",Originality,2,0
+10994,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create finished art work as decoration, or to elucidate or substitute for spoken or written messages.",Originality,2,0
+10994,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create finished art work as decoration, or to elucidate or substitute for spoken or written messages.",Visualization,2,0
+10994,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create finished art work as decoration, or to elucidate or substitute for spoken or written messages.",Manual Dexterity,1,0
+10999,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sketches, profiles, or likenesses of posed subjects or photographs, using any combination of freehand drawing, mechanical assembly kits, and computer imaging.",Visualization,3,0
+10999,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sketches, profiles, or likenesses of posed subjects or photographs, using any combination of freehand drawing, mechanical assembly kits, and computer imaging.",Near Vision,2,0
+10999,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sketches, profiles, or likenesses of posed subjects or photographs, using any combination of freehand drawing, mechanical assembly kits, and computer imaging.",Manual Dexterity,2,0
+10999,"Fine Artists, Including Painters, Sculptors, and Illustrators","Create sketches, profiles, or likenesses of posed subjects or photographs, using any combination of freehand drawing, mechanical assembly kits, and computer imaging.",Memorization,1,0
+11009,"Fine Artists, Including Painters, Sculptors, and Illustrators","Trace drawings onto clear acetate for painting or coloring, or trace them with ink to make final copies.",Arm-Hand Steadiness,2,0
+11009,"Fine Artists, Including Painters, Sculptors, and Illustrators","Trace drawings onto clear acetate for painting or coloring, or trace them with ink to make final copies.",Near Vision,2,0
+11009,"Fine Artists, Including Painters, Sculptors, and Illustrators","Trace drawings onto clear acetate for painting or coloring, or trace them with ink to make final copies.",Manual Dexterity,2,0
+11009,"Fine Artists, Including Painters, Sculptors, and Illustrators","Trace drawings onto clear acetate for painting or coloring, or trace them with ink to make final copies.",Control Precision,2,0
+11010,"Fine Artists, Including Painters, Sculptors, and Illustrators","Apply solvents and cleaning agents to clean surfaces of paintings, and to remove accretions, discolorations, and deteriorated varnish.",Arm-Hand Steadiness,2,0
+11010,"Fine Artists, Including Painters, Sculptors, and Illustrators","Apply solvents and cleaning agents to clean surfaces of paintings, and to remove accretions, discolorations, and deteriorated varnish.",Near Vision,2,0
+11010,"Fine Artists, Including Painters, Sculptors, and Illustrators","Apply solvents and cleaning agents to clean surfaces of paintings, and to remove accretions, discolorations, and deteriorated varnish.",Control Precision,2,0
+11010,"Fine Artists, Including Painters, Sculptors, and Illustrators","Apply solvents and cleaning agents to clean surfaces of paintings, and to remove accretions, discolorations, and deteriorated varnish.",Manual Dexterity,1,0
+11012,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with writers who create ideas, stories, or captions that are combined with artists' work.",Oral Comprehension,2,0
+11012,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with writers who create ideas, stories, or captions that are combined with artists' work.",Oral Expression,2,0
+11012,"Fine Artists, Including Painters, Sculptors, and Illustrators","Collaborate with writers who create ideas, stories, or captions that are combined with artists' work.",Fluency of Ideas,1,0
+11008,"Fine Artists, Including Painters, Sculptors, and Illustrators","Brush or spray protective or decorative finishes on completed background panels, informational legends, exhibit accessories, or finished paintings.",Arm-Hand Steadiness,2,0
+11008,"Fine Artists, Including Painters, Sculptors, and Illustrators","Brush or spray protective or decorative finishes on completed background panels, informational legends, exhibit accessories, or finished paintings.",Manual Dexterity,2,0
+11008,"Fine Artists, Including Painters, Sculptors, and Illustrators","Brush or spray protective or decorative finishes on completed background panels, informational legends, exhibit accessories, or finished paintings.",Control Precision,2,0
+11008,"Fine Artists, Including Painters, Sculptors, and Illustrators","Brush or spray protective or decorative finishes on completed background panels, informational legends, exhibit accessories, or finished paintings.",Near Vision,1,0
+20995,"Fine Artists, Including Painters, Sculptors, and Illustrators",Teach artistic techniques to children or adults.,Oral Expression,3,0
+20995,"Fine Artists, Including Painters, Sculptors, and Illustrators",Teach artistic techniques to children or adults.,Oral Comprehension,2,0
+20995,"Fine Artists, Including Painters, Sculptors, and Illustrators",Teach artistic techniques to children or adults.,Written Expression,1,0
+6882,Special Effects Artists and Animators,"Design complex graphics and animation, using independent judgment, creativity, and computer equipment.",Originality,3,0
+6882,Special Effects Artists and Animators,"Design complex graphics and animation, using independent judgment, creativity, and computer equipment.",Visualization,3,0
+6882,Special Effects Artists and Animators,"Design complex graphics and animation, using independent judgment, creativity, and computer equipment.",Fluency of Ideas,2,0
+6882,Special Effects Artists and Animators,"Design complex graphics and animation, using independent judgment, creativity, and computer equipment.",Near Vision,1,0
+6888,Special Effects Artists and Animators,"Create basic designs, drawings, and illustrations for product labels, cartons, direct mail, or television.",Visualization,2,0
+6888,Special Effects Artists and Animators,"Create basic designs, drawings, and illustrations for product labels, cartons, direct mail, or television.",Originality,2,0
+6888,Special Effects Artists and Animators,"Create basic designs, drawings, and illustrations for product labels, cartons, direct mail, or television.",Near Vision,1,0
+6893,Special Effects Artists and Animators,"Participate in design and production of multimedia campaigns, handling budgeting and scheduling, and assisting with such responsibilities as production coordination, background design, and progress tracking.",Information Ordering,2,0
+6893,Special Effects Artists and Animators,"Participate in design and production of multimedia campaigns, handling budgeting and scheduling, and assisting with such responsibilities as production coordination, background design, and progress tracking.",Mathematical Reasoning,1,0
+6893,Special Effects Artists and Animators,"Participate in design and production of multimedia campaigns, handling budgeting and scheduling, and assisting with such responsibilities as production coordination, background design, and progress tracking.",Time Sharing,2,0
+6893,Special Effects Artists and Animators,"Participate in design and production of multimedia campaigns, handling budgeting and scheduling, and assisting with such responsibilities as production coordination, background design, and progress tracking.",Originality,1,0
+6883,Special Effects Artists and Animators,"Create two-dimensional and three-dimensional images depicting objects in motion or illustrating a process, using computer animation or modeling programs.",Visualization,3,0
+6883,Special Effects Artists and Animators,"Create two-dimensional and three-dimensional images depicting objects in motion or illustrating a process, using computer animation or modeling programs.",Originality,2,0
+6883,Special Effects Artists and Animators,"Create two-dimensional and three-dimensional images depicting objects in motion or illustrating a process, using computer animation or modeling programs.",Spatial Orientation,2,0
+6883,Special Effects Artists and Animators,"Create two-dimensional and three-dimensional images depicting objects in motion or illustrating a process, using computer animation or modeling programs.",Near Vision,1,0
+6884,Special Effects Artists and Animators,"Make objects or characters appear lifelike by manipulating light, color, texture, shadow, and transparency, or manipulating static images to give the illusion of motion.",Visualization,3,0
+6884,Special Effects Artists and Animators,"Make objects or characters appear lifelike by manipulating light, color, texture, shadow, and transparency, or manipulating static images to give the illusion of motion.",Visual Color Discrimination,2,0
+6884,Special Effects Artists and Animators,"Make objects or characters appear lifelike by manipulating light, color, texture, shadow, and transparency, or manipulating static images to give the illusion of motion.",Originality,2,0
+6884,Special Effects Artists and Animators,"Make objects or characters appear lifelike by manipulating light, color, texture, shadow, and transparency, or manipulating static images to give the illusion of motion.",Near Vision,1,0
+6886,Special Effects Artists and Animators,"Apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters.",Visualization,3,0
+6886,Special Effects Artists and Animators,"Apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters.",Originality,2,0
+6886,Special Effects Artists and Animators,"Apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters.",Information Ordering,2,0
+6886,Special Effects Artists and Animators,"Apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters.",Fluency of Ideas,2,0
+6895,Special Effects Artists and Animators,Implement and maintain configuration control systems.,Information Ordering,2,1
+6895,Special Effects Artists and Animators,Implement and maintain configuration control systems.,Deductive Reasoning,1,1
+6895,Special Effects Artists and Animators,Implement and maintain configuration control systems.,Written Comprehension,1,1
+6887,Special Effects Artists and Animators,"Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques.",Originality,2,0
+6887,Special Effects Artists and Animators,"Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques.",Visualization,2,0
+6887,Special Effects Artists and Animators,"Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques.",Fluency of Ideas,2,0
+6887,Special Effects Artists and Animators,"Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques.",Written Expression,1,0
+6887,Special Effects Artists and Animators,"Script, plan, and create animated narrative sequences under tight deadlines, using computer software and hand drawing techniques.",Time Sharing,1,0
+6890,Special Effects Artists and Animators,"Develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",Written Expression,2,0
+6890,Special Effects Artists and Animators,"Develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",Visualization,2,0
+6890,Special Effects Artists and Animators,"Develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",Originality,1,0
+6885,Special Effects Artists and Animators,"Assemble, typeset, scan, and produce digital camera-ready art or film negatives and printer's proofs.",Near Vision,2,0
+6885,Special Effects Artists and Animators,"Assemble, typeset, scan, and produce digital camera-ready art or film negatives and printer's proofs.",Manual Dexterity,1,0
+6885,Special Effects Artists and Animators,"Assemble, typeset, scan, and produce digital camera-ready art or film negatives and printer's proofs.",Perceptual Speed,1,0
+6885,Special Effects Artists and Animators,"Assemble, typeset, scan, and produce digital camera-ready art or film negatives and printer's proofs.",Visual Color Discrimination,1,0
+6894,Special Effects Artists and Animators,"Convert real objects to animated objects through modeling, using techniques such as optical scanning.",Visualization,2,0
+6894,Special Effects Artists and Animators,"Convert real objects to animated objects through modeling, using techniques such as optical scanning.",Spatial Orientation,2,0
+6894,Special Effects Artists and Animators,"Convert real objects to animated objects through modeling, using techniques such as optical scanning.",Near Vision,1,0
+6889,Special Effects Artists and Animators,"Create pen-and-paper images to be scanned, edited, colored, textured, or animated by computer.",Manual Dexterity,2,0
+6889,Special Effects Artists and Animators,"Create pen-and-paper images to be scanned, edited, colored, textured, or animated by computer.",Visualization,2,0
+6889,Special Effects Artists and Animators,"Create pen-and-paper images to be scanned, edited, colored, textured, or animated by computer.",Near Vision,1,0
+6889,Special Effects Artists and Animators,"Create pen-and-paper images to be scanned, edited, colored, textured, or animated by computer.",Originality,1,0
+6891,Special Effects Artists and Animators,Use models to simulate the behavior of animated objects in the finished sequence.,Visualization,2,0
+6891,Special Effects Artists and Animators,Use models to simulate the behavior of animated objects in the finished sequence.,Spatial Orientation,1,0
+6891,Special Effects Artists and Animators,Use models to simulate the behavior of animated objects in the finished sequence.,Problem Sensitivity,1,1
+6896,Commercial and Industrial Designers,"Prepare sketches of ideas, detailed drawings, illustrations, artwork, or blueprints, using drafting instruments, paints and brushes, or computer-aided design equipment.",Visualization,3,0
+6896,Commercial and Industrial Designers,"Prepare sketches of ideas, detailed drawings, illustrations, artwork, or blueprints, using drafting instruments, paints and brushes, or computer-aided design equipment.",Near Vision,2,0
+6896,Commercial and Industrial Designers,"Prepare sketches of ideas, detailed drawings, illustrations, artwork, or blueprints, using drafting instruments, paints and brushes, or computer-aided design equipment.",Manual Dexterity,2,0
+6896,Commercial and Industrial Designers,"Prepare sketches of ideas, detailed drawings, illustrations, artwork, or blueprints, using drafting instruments, paints and brushes, or computer-aided design equipment.",Originality,1,0
+6898,Commercial and Industrial Designers,"Modify and refine designs, using working models, to conform with customer specifications, production limitations, or changes in design trends.",Visualization,2,0
+6898,Commercial and Industrial Designers,"Modify and refine designs, using working models, to conform with customer specifications, production limitations, or changes in design trends.",Deductive Reasoning,2,0
+6898,Commercial and Industrial Designers,"Modify and refine designs, using working models, to conform with customer specifications, production limitations, or changes in design trends.",Manual Dexterity,1,0
+6898,Commercial and Industrial Designers,"Modify and refine designs, using working models, to conform with customer specifications, production limitations, or changes in design trends.",Problem Sensitivity,1,0
+6902,Commercial and Industrial Designers,"Evaluate feasibility of design ideas, based on factors such as appearance, safety, function, serviceability, budget, production costs/methods, and market characteristics.",Deductive Reasoning,3,0
+6902,Commercial and Industrial Designers,"Evaluate feasibility of design ideas, based on factors such as appearance, safety, function, serviceability, budget, production costs/methods, and market characteristics.",Problem Sensitivity,2,0
+6902,Commercial and Industrial Designers,"Evaluate feasibility of design ideas, based on factors such as appearance, safety, function, serviceability, budget, production costs/methods, and market characteristics.",Mathematical Reasoning,1,0
+6902,Commercial and Industrial Designers,"Evaluate feasibility of design ideas, based on factors such as appearance, safety, function, serviceability, budget, production costs/methods, and market characteristics.",Information Ordering,1,0
+6900,Commercial and Industrial Designers,"Confer with engineering, marketing, production, or sales departments, or with customers, to establish and evaluate design concepts for manufactured products.",Oral Comprehension,3,0
+6900,Commercial and Industrial Designers,"Confer with engineering, marketing, production, or sales departments, or with customers, to establish and evaluate design concepts for manufactured products.",Oral Expression,2,0
+6900,Commercial and Industrial Designers,"Confer with engineering, marketing, production, or sales departments, or with customers, to establish and evaluate design concepts for manufactured products.",Deductive Reasoning,1,0
+6901,Commercial and Industrial Designers,Present designs and reports to customers or design committees for approval and discuss need for modification.,Oral Expression,3,0
+6901,Commercial and Industrial Designers,Present designs and reports to customers or design committees for approval and discuss need for modification.,Speech Clarity,1,0
+6901,Commercial and Industrial Designers,Present designs and reports to customers or design committees for approval and discuss need for modification.,Written Expression,1,0
+6901,Commercial and Industrial Designers,Present designs and reports to customers or design committees for approval and discuss need for modification.,Oral Comprehension,1,0
+6904,Commercial and Industrial Designers,"Research production specifications, costs, production materials, and manufacturing methods and provide cost estimates and itemized production requirements.",Mathematical Reasoning,2,0
+6904,Commercial and Industrial Designers,"Research production specifications, costs, production materials, and manufacturing methods and provide cost estimates and itemized production requirements.",Number Facility,2,0
+6904,Commercial and Industrial Designers,"Research production specifications, costs, production materials, and manufacturing methods and provide cost estimates and itemized production requirements.",Written Comprehension,2,0
+6904,Commercial and Industrial Designers,"Research production specifications, costs, production materials, and manufacturing methods and provide cost estimates and itemized production requirements.",Information Ordering,1,0
+6897,Commercial and Industrial Designers,Direct and coordinate the fabrication of models or samples and the drafting of working drawings and specification sheets from sketches.,Oral Expression,2,0
+6897,Commercial and Industrial Designers,Direct and coordinate the fabrication of models or samples and the drafting of working drawings and specification sheets from sketches.,Visualization,2,0
+6897,Commercial and Industrial Designers,Direct and coordinate the fabrication of models or samples and the drafting of working drawings and specification sheets from sketches.,Information Ordering,1,0
+6909,Commercial and Industrial Designers,"Investigate product characteristics such as the product's safety and handling qualities, its market appeal, how efficiently it can be produced, and ways of distributing, using, and maintaining it.",Deductive Reasoning,2,0
+6909,Commercial and Industrial Designers,"Investigate product characteristics such as the product's safety and handling qualities, its market appeal, how efficiently it can be produced, and ways of distributing, using, and maintaining it.",Problem Sensitivity,2,0
+6909,Commercial and Industrial Designers,"Investigate product characteristics such as the product's safety and handling qualities, its market appeal, how efficiently it can be produced, and ways of distributing, using, and maintaining it.",Written Comprehension,1,0
+6906,Commercial and Industrial Designers,Develop manufacturing procedures and monitor the manufacture of their designs in a factory to improve operations and product quality.,Deductive Reasoning,2,0
+6906,Commercial and Industrial Designers,Develop manufacturing procedures and monitor the manufacture of their designs in a factory to improve operations and product quality.,Selective Attention,2,0
+6906,Commercial and Industrial Designers,Develop manufacturing procedures and monitor the manufacture of their designs in a factory to improve operations and product quality.,Problem Sensitivity,2,0
+6906,Commercial and Industrial Designers,Develop manufacturing procedures and monitor the manufacture of their designs in a factory to improve operations and product quality.,Information Ordering,1,0
+6911,Commercial and Industrial Designers,"Participate in new product planning or market research, including studying the potential need for new products.",Inductive Reasoning,2,0
+6911,Commercial and Industrial Designers,"Participate in new product planning or market research, including studying the potential need for new products.",Written Comprehension,1,0
+6911,Commercial and Industrial Designers,"Participate in new product planning or market research, including studying the potential need for new products.",Fluency of Ideas,1,0
+6903,Commercial and Industrial Designers,"Read publications, attend showings, and study competing products and design styles and motifs to obtain perspective and generate design concepts.",Written Comprehension,2,0
+6903,Commercial and Industrial Designers,"Read publications, attend showings, and study competing products and design styles and motifs to obtain perspective and generate design concepts.",Fluency of Ideas,2,0
+6903,Commercial and Industrial Designers,"Read publications, attend showings, and study competing products and design styles and motifs to obtain perspective and generate design concepts.",Originality,1,0
+6908,Commercial and Industrial Designers,"Fabricate models or samples in paper, wood, glass, fabric, plastic, metal, or other materials, using hand or power tools.",Manual Dexterity,3,0
+6908,Commercial and Industrial Designers,"Fabricate models or samples in paper, wood, glass, fabric, plastic, metal, or other materials, using hand or power tools.",Finger Dexterity,2,0
+6908,Commercial and Industrial Designers,"Fabricate models or samples in paper, wood, glass, fabric, plastic, metal, or other materials, using hand or power tools.",Control Precision,2,0
+6908,Commercial and Industrial Designers,"Fabricate models or samples in paper, wood, glass, fabric, plastic, metal, or other materials, using hand or power tools.",Visualization,1,0
+6910,Commercial and Industrial Designers,Develop industrial standards and regulatory guidelines.,Deductive Reasoning,2,0
+6910,Commercial and Industrial Designers,Develop industrial standards and regulatory guidelines.,Written Expression,2,0
+6910,Commercial and Industrial Designers,Develop industrial standards and regulatory guidelines.,Information Ordering,2,0
+6899,Commercial and Industrial Designers,Coordinate the look and function of product lines.,Visualization,2,0
+6899,Commercial and Industrial Designers,Coordinate the look and function of product lines.,Deductive Reasoning,1,0
+6899,Commercial and Industrial Designers,Coordinate the look and function of product lines.,Information Ordering,1,0
+6907,Commercial and Industrial Designers,Supervise assistants' work throughout the design process.,Oral Expression,2,0
+6907,Commercial and Industrial Designers,Supervise assistants' work throughout the design process.,Selective Attention,1,0
+6907,Commercial and Industrial Designers,Supervise assistants' work throughout the design process.,Deductive Reasoning,1,0
+6905,Commercial and Industrial Designers,"Design graphic material for use as ornamentation, illustration, or advertising on manufactured materials and packaging or containers.",Originality,2,0
+6905,Commercial and Industrial Designers,"Design graphic material for use as ornamentation, illustration, or advertising on manufactured materials and packaging or containers.",Visualization,2,0
+6905,Commercial and Industrial Designers,"Design graphic material for use as ornamentation, illustration, or advertising on manufactured materials and packaging or containers.",Visual Color Discrimination,1,0
+6912,Commercial and Industrial Designers,Advise corporations on issues involving corporate image projects or problems.,Oral Expression,2,0
+6912,Commercial and Industrial Designers,Advise corporations on issues involving corporate image projects or problems.,Deductive Reasoning,2,0
+6912,Commercial and Industrial Designers,Advise corporations on issues involving corporate image projects or problems.,Written Expression,1,0
+13015,Fashion Designers,"Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",Visualization,3,0
+13015,Fashion Designers,"Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",Near Vision,2,0
+13015,Fashion Designers,"Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",Manual Dexterity,2,0
+13015,Fashion Designers,"Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",Written Expression,1,0
+13014,Fashion Designers,"Examine sample garments on and off models, modifying designs to achieve desired effects.",Near Vision,2,0
+13014,Fashion Designers,"Examine sample garments on and off models, modifying designs to achieve desired effects.",Visualization,2,0
+13014,Fashion Designers,"Examine sample garments on and off models, modifying designs to achieve desired effects.",Visual Color Discrimination,1,0
+13014,Fashion Designers,"Examine sample garments on and off models, modifying designs to achieve desired effects.",Problem Sensitivity,1,0
+13016,Fashion Designers,Confer with sales and management executives or with clients to discuss design ideas.,Oral Expression,3,0
+13016,Fashion Designers,Confer with sales and management executives or with clients to discuss design ideas.,Oral Comprehension,2,0
+13016,Fashion Designers,Confer with sales and management executives or with clients to discuss design ideas.,Fluency of Ideas,1,0
+13019,Fashion Designers,Select materials and production techniques to be used for products.,Visual Color Discrimination,1,0
+13019,Fashion Designers,Select materials and production techniques to be used for products.,Deductive Reasoning,1,0
+13019,Fashion Designers,Select materials and production techniques to be used for products.,Problem Sensitivity,1,0
+13019,Fashion Designers,Select materials and production techniques to be used for products.,Near Vision,1,0
+13020,Fashion Designers,"Provide sample garments to agents and sales representatives, and arrange for showings of sample garments at sales meetings or fashion shows.",Information Ordering,1,0
+13020,Fashion Designers,"Provide sample garments to agents and sales representatives, and arrange for showings of sample garments at sales meetings or fashion shows.",Oral Expression,1,1
+13020,Fashion Designers,"Provide sample garments to agents and sales representatives, and arrange for showings of sample garments at sales meetings or fashion shows.",Oral Comprehension,1,0
+13013,Fashion Designers,Direct and coordinate workers involved in drawing and cutting patterns and constructing samples or finished garments.,Oral Expression,2,0
+13013,Fashion Designers,Direct and coordinate workers involved in drawing and cutting patterns and constructing samples or finished garments.,Selective Attention,1,0
+13013,Fashion Designers,Direct and coordinate workers involved in drawing and cutting patterns and constructing samples or finished garments.,Information Ordering,1,0
+13017,Fashion Designers,"Identify target markets for designs, looking at factors such as age, gender, and socioeconomic status.",Inductive Reasoning,2,0
+13017,Fashion Designers,"Identify target markets for designs, looking at factors such as age, gender, and socioeconomic status.",Deductive Reasoning,1,0
+13017,Fashion Designers,"Identify target markets for designs, looking at factors such as age, gender, and socioeconomic status.",Written Comprehension,1,1
+13024,Fashion Designers,Collaborate with other designers to coordinate special products and designs.,Oral Comprehension,2,0
+13024,Fashion Designers,Collaborate with other designers to coordinate special products and designs.,Oral Expression,2,0
+13024,Fashion Designers,Collaborate with other designers to coordinate special products and designs.,Fluency of Ideas,1,0
+13018,Fashion Designers,Attend fashion shows and review garment magazines and manuals to gather information about fashion trends and consumer preferences.,Written Comprehension,2,0
+13018,Fashion Designers,Attend fashion shows and review garment magazines and manuals to gather information about fashion trends and consumer preferences.,Near Vision,1,0
+13018,Fashion Designers,Attend fashion shows and review garment magazines and manuals to gather information about fashion trends and consumer preferences.,Selective Attention,1,0
+13022,Fashion Designers,Purchase new or used clothing and accessory items as needed to complete designs.,Deductive Reasoning,1,1
+13022,Fashion Designers,Purchase new or used clothing and accessory items as needed to complete designs.,Visual Color Discrimination,1,1
+13022,Fashion Designers,Purchase new or used clothing and accessory items as needed to complete designs.,Near Vision,1,1
+13023,Fashion Designers,Visit textile showrooms to keep up-to-date on the latest fabrics.,Near Vision,1,1
+13023,Fashion Designers,Visit textile showrooms to keep up-to-date on the latest fabrics.,Visual Color Discrimination,1,1
+13023,Fashion Designers,Visit textile showrooms to keep up-to-date on the latest fabrics.,Selective Attention,1,1
+13021,Fashion Designers,Adapt other designers' ideas for the mass market.,Originality,2,0
+13021,Fashion Designers,Adapt other designers' ideas for the mass market.,Deductive Reasoning,2,0
+13021,Fashion Designers,Adapt other designers' ideas for the mass market.,Visualization,1,0
+13030,Fashion Designers,Test fabrics or oversee testing so that garment care labels can be created.,Near Vision,1,0
+13030,Fashion Designers,Test fabrics or oversee testing so that garment care labels can be created.,Deductive Reasoning,1,0
+13030,Fashion Designers,Test fabrics or oversee testing so that garment care labels can be created.,Problem Sensitivity,1,0
+13026,Fashion Designers,Determine prices for styles.,Mathematical Reasoning,2,0
+13026,Fashion Designers,Determine prices for styles.,Number Facility,2,0
+13026,Fashion Designers,Determine prices for styles.,Deductive Reasoning,1,0
+13028,Fashion Designers,"Develop a group of products or accessories, and market them through venues such as boutiques or mail-order catalogs.",Originality,1,0
+13028,Fashion Designers,"Develop a group of products or accessories, and market them through venues such as boutiques or mail-order catalogs.",Deductive Reasoning,1,0
+13028,Fashion Designers,"Develop a group of products or accessories, and market them through venues such as boutiques or mail-order catalogs.",Fluency of Ideas,1,0
+13027,Fashion Designers,"Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",Manual Dexterity,3,0
+13027,Fashion Designers,"Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",Finger Dexterity,2,0
+13027,Fashion Designers,"Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",Near Vision,2,0
+13027,Fashion Designers,"Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",Control Precision,2,0
+13027,Fashion Designers,"Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",Visualization,1,0
+13031,Fashion Designers,"Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",Manual Dexterity,3,0
+13031,Fashion Designers,"Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",Finger Dexterity,3,0
+13031,Fashion Designers,"Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",Arm-Hand Steadiness,2,0
+13031,Fashion Designers,"Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",Near Vision,1,0
+13031,Fashion Designers,"Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",Multilimb Coordination,1,0
+13025,Fashion Designers,"Design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions.",Originality,2,0
+13025,Fashion Designers,"Design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions.",Visualization,2,0
+13025,Fashion Designers,"Design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions.",Oral Comprehension,1,0
+13032,Fashion Designers,Research the styles and periods of clothing needed for film or theatrical productions.,Written Comprehension,2,0
+13032,Fashion Designers,Research the styles and periods of clothing needed for film or theatrical productions.,Memorization,1,0
+13032,Fashion Designers,Research the styles and periods of clothing needed for film or theatrical productions.,Inductive Reasoning,1,0
+13029,Fashion Designers,Read scripts and consult directors and other production staff to develop design concepts and plan productions.,Written Comprehension,2,0
+13029,Fashion Designers,Read scripts and consult directors and other production staff to develop design concepts and plan productions.,Oral Comprehension,2,0
+13029,Fashion Designers,Read scripts and consult directors and other production staff to develop design concepts and plan productions.,Fluency of Ideas,1,0
+1719,Floral Designers,"Confer with clients regarding price and type of arrangement desired and the date, time, and place of delivery.",Oral Comprehension,3,0
+1719,Floral Designers,"Confer with clients regarding price and type of arrangement desired and the date, time, and place of delivery.",Oral Expression,2,0
+1719,Floral Designers,"Confer with clients regarding price and type of arrangement desired and the date, time, and place of delivery.",Information Ordering,1,0
+1722,Floral Designers,"Select flora and foliage for arrangements, working with numerous combinations to synthesize and develop new creations.",Originality,2,0
+1722,Floral Designers,"Select flora and foliage for arrangements, working with numerous combinations to synthesize and develop new creations.",Visual Color Discrimination,2,0
+1722,Floral Designers,"Select flora and foliage for arrangements, working with numerous combinations to synthesize and develop new creations.",Fluency of Ideas,2,0
+1722,Floral Designers,"Select flora and foliage for arrangements, working with numerous combinations to synthesize and develop new creations.",Visualization,1,0
+1723,Floral Designers,Order and purchase flowers and supplies from wholesalers and growers.,Number Facility,1,0
+1723,Floral Designers,Order and purchase flowers and supplies from wholesalers and growers.,Oral Expression,1,0
+1723,Floral Designers,Order and purchase flowers and supplies from wholesalers and growers.,Written Expression,1,0
+20751,Floral Designers,"Deliver arrangements to customers, or oversee employees responsible for deliveries.",Gross Body Coordination,1,1
+20751,Floral Designers,"Deliver arrangements to customers, or oversee employees responsible for deliveries.",Static Strength,1,1
+20751,Floral Designers,"Deliver arrangements to customers, or oversee employees responsible for deliveries.",Oral Expression,1,1
+1720,Floral Designers,"Plan arrangement according to client's requirements, using knowledge of design and properties of materials, or select appropriate standard design pattern.",Visualization,2,0
+1720,Floral Designers,"Plan arrangement according to client's requirements, using knowledge of design and properties of materials, or select appropriate standard design pattern.",Deductive Reasoning,1,0
+1720,Floral Designers,"Plan arrangement according to client's requirements, using knowledge of design and properties of materials, or select appropriate standard design pattern.",Originality,2,0
+1720,Floral Designers,"Plan arrangement according to client's requirements, using knowledge of design and properties of materials, or select appropriate standard design pattern.",Memorization,1,0
+1721,Floral Designers,"Water plants, and cut, condition, and clean flowers and foliage for storage.",Manual Dexterity,2,0
+1721,Floral Designers,"Water plants, and cut, condition, and clean flowers and foliage for storage.",Finger Dexterity,1,0
+1721,Floral Designers,"Water plants, and cut, condition, and clean flowers and foliage for storage.",Near Vision,1,0
+1725,Floral Designers,"Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials.",Manual Dexterity,3,0
+1725,Floral Designers,"Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials.",Finger Dexterity,2,0
+1725,Floral Designers,"Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials.",Arm-Hand Steadiness,2,0
+1725,Floral Designers,"Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials.",Visualization,1,0
+1725,Floral Designers,"Trim material and arrange bouquets, wreaths, terrariums, and other items, using trimmers, shapers, wire, pins, floral tape, foam, and other materials.",Visual Color Discrimination,1,0
+1724,Floral Designers,Wrap and price completed arrangements.,Manual Dexterity,2,0
+1724,Floral Designers,Wrap and price completed arrangements.,Finger Dexterity,1,0
+1724,Floral Designers,Wrap and price completed arrangements.,Number Facility,1,0
+1726,Floral Designers,"Perform office and retail service duties, such as keeping financial records, serving customers, answering telephones, selling giftware items, and receiving payment.",Number Facility,2,0
+1726,Floral Designers,"Perform office and retail service duties, such as keeping financial records, serving customers, answering telephones, selling giftware items, and receiving payment.",Oral Expression,1,0
+1726,Floral Designers,"Perform office and retail service duties, such as keeping financial records, serving customers, answering telephones, selling giftware items, and receiving payment.",Information Ordering,1,0
+1730,Floral Designers,Unpack stock as it comes into the shop.,Manual Dexterity,1,1
+1730,Floral Designers,Unpack stock as it comes into the shop.,Static Strength,1,1
+1730,Floral Designers,Unpack stock as it comes into the shop.,Near Vision,1,1
+1731,Floral Designers,"Create and change in-store and window displays, designs, and looks to enhance a shop's image.",Originality,2,0
+1731,Floral Designers,"Create and change in-store and window displays, designs, and looks to enhance a shop's image.",Visualization,2,0
+1731,Floral Designers,"Create and change in-store and window displays, designs, and looks to enhance a shop's image.",Manual Dexterity,1,0
+1727,Floral Designers,"Inform customers about the care, maintenance, and handling of various flowers and foliage, indoor plants, and other items.",Oral Expression,3,0
+1727,Floral Designers,"Inform customers about the care, maintenance, and handling of various flowers and foliage, indoor plants, and other items.",Oral Comprehension,1,0
+1727,Floral Designers,"Inform customers about the care, maintenance, and handling of various flowers and foliage, indoor plants, and other items.",Memorization,1,0
+1729,Floral Designers,Perform general cleaning duties in the store to ensure the shop is clean and tidy.,Gross Body Coordination,1,1
+1729,Floral Designers,Perform general cleaning duties in the store to ensure the shop is clean and tidy.,Stamina,1,1
+1729,Floral Designers,Perform general cleaning duties in the store to ensure the shop is clean and tidy.,Manual Dexterity,1,1
+1728,Floral Designers,"Decorate, or supervise the decoration of, buildings, halls, churches, or other facilities for parties, weddings and other occasions.",Visualization,2,0
+1728,Floral Designers,"Decorate, or supervise the decoration of, buildings, halls, churches, or other facilities for parties, weddings and other occasions.",Originality,2,0
+1728,Floral Designers,"Decorate, or supervise the decoration of, buildings, halls, churches, or other facilities for parties, weddings and other occasions.",Gross Body Coordination,1,0
+1728,Floral Designers,"Decorate, or supervise the decoration of, buildings, halls, churches, or other facilities for parties, weddings and other occasions.",Oral Expression,1,0
+1732,Floral Designers,"Conduct classes or demonstrations, or train other workers.",Oral Expression,3,0
+1732,Floral Designers,"Conduct classes or demonstrations, or train other workers.",Oral Comprehension,2,0
+1732,Floral Designers,"Conduct classes or demonstrations, or train other workers.",Manual Dexterity,1,0
+307,Graphic Designers,Key information into computer equipment to create layouts for client or supervisor.,Near Vision,2,0
+307,Graphic Designers,Key information into computer equipment to create layouts for client or supervisor.,Finger Dexterity,2,0
+307,Graphic Designers,Key information into computer equipment to create layouts for client or supervisor.,Visualization,1,0
+307,Graphic Designers,Key information into computer equipment to create layouts for client or supervisor.,Perceptual Speed,1,0
+304,Graphic Designers,"Review final layouts and suggest improvements, as needed.",Near Vision,2,0
+304,Graphic Designers,"Review final layouts and suggest improvements, as needed.",Selective Attention,2,0
+304,Graphic Designers,"Review final layouts and suggest improvements, as needed.",Visualization,1,0
+304,Graphic Designers,"Review final layouts and suggest improvements, as needed.",Written Expression,1,0
+300,Graphic Designers,"Determine size and arrangement of illustrative material and copy, and select style and size of type.",Visualization,2,0
+300,Graphic Designers,"Determine size and arrangement of illustrative material and copy, and select style and size of type.",Spatial Orientation,1,0
+300,Graphic Designers,"Determine size and arrangement of illustrative material and copy, and select style and size of type.",Information Ordering,1,0
+300,Graphic Designers,"Determine size and arrangement of illustrative material and copy, and select style and size of type.",Near Vision,1,0
+306,Graphic Designers,"Develop graphics and layouts for product illustrations, company logos, and Web sites.",Visualization,3,0
+306,Graphic Designers,"Develop graphics and layouts for product illustrations, company logos, and Web sites.",Originality,2,0
+306,Graphic Designers,"Develop graphics and layouts for product illustrations, company logos, and Web sites.",Near Vision,1,0
+299,Graphic Designers,"Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",Originality,3,0
+299,Graphic Designers,"Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",Visualization,3,0
+299,Graphic Designers,"Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",Fluency of Ideas,2,0

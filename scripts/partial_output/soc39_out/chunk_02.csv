@@ -1,0 +1,498 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",Manual Dexterity,2,0
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",Static Strength,2,0
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",Trunk Strength,1,0
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",Stamina,1,0
+4501,Embalmers,"Wash and dry bodies, using germicidal soap and towels or hot air dryers.",Near Vision,1,0
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,Oral Expression,2,0
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,Oral Comprehension,2,0
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,Information Ordering,2,0
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,Written Expression,1,0
+4502,Embalmers,Arrange for transporting the deceased to another state for interment.,Written Comprehension,1,0
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",Manual Dexterity,3,0
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",Near Vision,2,0
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",Selective Attention,2,0
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",Problem Sensitivity,2,0
+4498,Embalmers,"Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease.",Control Precision,1,0
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,Oral Expression,3,0
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,Oral Comprehension,2,0
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,Information Ordering,1,0
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,Selective Attention,1,0
+4503,Embalmers,Supervise funeral attendants and other funeral home staff.,Written Expression,1,0
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",Static Strength,3,0
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",Trunk Strength,2,0
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",Gross Body Equilibrium,2,0
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",Stamina,1,0
+4506,Embalmers,"Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved.",Oral Expression,1,0
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,Oral Expression,2,0
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,Visualization,2,0
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,Spatial Orientation,1,0
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,Manual Dexterity,1,0
+4507,Embalmers,Direct casket and floral display placement and arrange guest seating.,Information Ordering,1,0
+4508,Embalmers,Arrange funeral home equipment and perform general maintenance.,Manual Dexterity,2,0
+4508,Embalmers,Arrange funeral home equipment and perform general maintenance.,Static Strength,2,0
+4508,Embalmers,Arrange funeral home equipment and perform general maintenance.,Near Vision,1,0
+4508,Embalmers,Arrange funeral home equipment and perform general maintenance.,Multilimb Coordination,1,0
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",Oral Expression,2,0
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",Written Expression,2,0
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",Near Vision,1,0
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",Manual Dexterity,1,0
+4509,Embalmers,"Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner.",Problem Sensitivity,1,1
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,Manual Dexterity,3,0
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,Control Precision,2,0
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,Arm-Hand Steadiness,2,0
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,Static Strength,1,0
+4510,Embalmers,Press diaphragm to evacuate air from lungs.,Near Vision,1,0
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",Manual Dexterity,2,0
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",Stamina,2,0
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",Static Strength,1,0
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",Trunk Strength,1,0
+23180,Crematory Operators,"Clean the crematorium, including tables, floors, and equipment.",Near Vision,1,0
+23181,Crematory Operators,Document divided remains to ensure parts are not misplaced.,Selective Attention,3,0
+23181,Crematory Operators,Document divided remains to ensure parts are not misplaced.,Information Ordering,2,0
+23181,Crematory Operators,Document divided remains to ensure parts are not misplaced.,Written Expression,1,0
+23181,Crematory Operators,Document divided remains to ensure parts are not misplaced.,Near Vision,1,0
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",Manual Dexterity,3,0
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",Control Precision,2,0
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",Near Vision,2,0
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",Arm-Hand Steadiness,1,0
+23182,Crematory Operators,"Embalm, dress, or otherwise prepare the deceased for viewing.",Static Strength,1,0
+23183,Crematory Operators,Explain the cremation process to family or friends of the deceased.,Oral Expression,3,0
+23183,Crematory Operators,Explain the cremation process to family or friends of the deceased.,Oral Comprehension,2,0
+23183,Crematory Operators,Explain the cremation process to family or friends of the deceased.,Speech Clarity,1,0
+23183,Crematory Operators,Explain the cremation process to family or friends of the deceased.,Written Comprehension,1,0
+23184,Crematory Operators,Offer counsel and comfort to bereaved families or friends.,Oral Expression,3,0
+23184,Crematory Operators,Offer counsel and comfort to bereaved families or friends.,Oral Comprehension,2,0
+23184,Crematory Operators,Offer counsel and comfort to bereaved families or friends.,Speech Clarity,1,0
+23184,Crematory Operators,Offer counsel and comfort to bereaved families or friends.,Problem Sensitivity,1,0
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,Manual Dexterity,2,0
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,Static Strength,2,0
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,Trunk Strength,1,0
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,Arm-Hand Steadiness,1,0
+23185,Crematory Operators,Pick up and handle human or pet remains in a respectful manner.,Near Vision,1,0
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",Static Strength,3,0
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",Trunk Strength,2,0
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",Manual Dexterity,1,0
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",Gross Body Equilibrium,1,0
+23186,Crematory Operators,"Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis.",Near Vision,1,0
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",Manual Dexterity,2,0
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",Control Precision,1,0
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",Static Strength,1,0
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",Near Vision,1,0
+23187,Crematory Operators,"Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder.",Multilimb Coordination,1,0
+23188,Crematory Operators,Read documentation to confirm the identity of the deceased.,Written Comprehension,3,0
+23188,Crematory Operators,Read documentation to confirm the identity of the deceased.,Selective Attention,2,0
+23188,Crematory Operators,Read documentation to confirm the identity of the deceased.,Near Vision,1,0
+23188,Crematory Operators,Read documentation to confirm the identity of the deceased.,Perceptual Speed,1,0
+23189,Crematory Operators,"Remove jewelry, watches, or other personal items from the deceased prior to cremation.",Finger Dexterity,3,0
+23189,Crematory Operators,"Remove jewelry, watches, or other personal items from the deceased prior to cremation.",Manual Dexterity,2,0
+23189,Crematory Operators,"Remove jewelry, watches, or other personal items from the deceased prior to cremation.",Near Vision,2,0
+23189,Crematory Operators,"Remove jewelry, watches, or other personal items from the deceased prior to cremation.",Arm-Hand Steadiness,1,0
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,Manual Dexterity,2,0
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,Selective Attention,2,0
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,Static Strength,1,0
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,Near Vision,1,0
+23190,Crematory Operators,Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container.,Trunk Strength,1,0
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",Far Vision,2,0
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",Static Strength,2,0
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",Multilimb Coordination,1,0
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",Reaction Time,1,0
+23191,Crematory Operators,"Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle.",Depth Perception,1,0
+4512,Funeral Attendants,Greet people at the funeral home.,Oral Expression,3,0
+4512,Funeral Attendants,Greet people at the funeral home.,Oral Comprehension,1,0
+4512,Funeral Attendants,Greet people at the funeral home.,Speech Clarity,1,0
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,Oral Comprehension,2,0
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,Time Sharing,2,0
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,Selective Attention,1,0
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,Oral Expression,1,0
+4511,Funeral Attendants,Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned.,Problem Sensitivity,1,0
+4514,Funeral Attendants,Close caskets at appropriate point in services.,Manual Dexterity,2,0
+4514,Funeral Attendants,Close caskets at appropriate point in services.,Control Precision,1,0
+4514,Funeral Attendants,Close caskets at appropriate point in services.,Static Strength,1,0
+4514,Funeral Attendants,Close caskets at appropriate point in services.,Selective Attention,1,0
+4517,Funeral Attendants,Direct or escort mourners to parlors or chapels in which wakes or funerals are being held.,Oral Expression,2,0
+4517,Funeral Attendants,Direct or escort mourners to parlors or chapels in which wakes or funerals are being held.,Spatial Orientation,1,0
+4517,Funeral Attendants,Direct or escort mourners to parlors or chapels in which wakes or funerals are being held.,Gross Body Coordination,1,0
+4518,Funeral Attendants,Place caskets in parlors or chapels prior to wakes or funerals.,Static Strength,3,0
+4518,Funeral Attendants,Place caskets in parlors or chapels prior to wakes or funerals.,Trunk Strength,2,0
+4518,Funeral Attendants,Place caskets in parlors or chapels prior to wakes or funerals.,Gross Body Equilibrium,2,0
+4518,Funeral Attendants,Place caskets in parlors or chapels prior to wakes or funerals.,Stamina,1,0
+4513,Funeral Attendants,Offer assistance to mourners as they enter or exit limousines.,Manual Dexterity,1,0
+4513,Funeral Attendants,Offer assistance to mourners as they enter or exit limousines.,Static Strength,1,0
+4513,Funeral Attendants,Offer assistance to mourners as they enter or exit limousines.,Oral Expression,1,0
+4513,Funeral Attendants,Offer assistance to mourners as they enter or exit limousines.,Gross Body Coordination,1,0
+4521,Funeral Attendants,Clean funeral parlors or chapels.,Manual Dexterity,2,0
+4521,Funeral Attendants,Clean funeral parlors or chapels.,Stamina,1,0
+4521,Funeral Attendants,Clean funeral parlors or chapels.,Static Strength,1,0
+4521,Funeral Attendants,Clean funeral parlors or chapels.,Trunk Strength,1,0
+4522,Funeral Attendants,Arrange floral offerings or lights around caskets.,Manual Dexterity,2,0
+4522,Funeral Attendants,Arrange floral offerings or lights around caskets.,Visualization,1,0
+4522,Funeral Attendants,Arrange floral offerings or lights around caskets.,Near Vision,1,0
+4522,Funeral Attendants,Arrange floral offerings or lights around caskets.,Extent Flexibility,1,0
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",Far Vision,2,0
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",Multilimb Coordination,1,0
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",Manual Dexterity,1,0
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",Reaction Time,1,0
+4519,Funeral Attendants,"Clean and drive funeral vehicles, such as cars or hearses, in funeral processions.",Depth Perception,1,0
+4527,Funeral Attendants,Act as pallbearers.,Static Strength,3,0
+4527,Funeral Attendants,Act as pallbearers.,Trunk Strength,2,0
+4527,Funeral Attendants,Act as pallbearers.,Gross Body Equilibrium,2,0
+4527,Funeral Attendants,Act as pallbearers.,Stamina,1,0
+20600,Funeral Attendants,Supervise funeral processions and assist with cemetery parking.,Oral Expression,2,0
+20600,Funeral Attendants,Supervise funeral processions and assist with cemetery parking.,Spatial Orientation,1,0
+20600,Funeral Attendants,Supervise funeral processions and assist with cemetery parking.,Selective Attention,1,0
+20600,Funeral Attendants,Supervise funeral processions and assist with cemetery parking.,Time Sharing,1,0
+20601,Funeral Attendants,Deliver floral arrangements or other items to family members of the deceased.,Manual Dexterity,1,0
+20601,Funeral Attendants,Deliver floral arrangements or other items to family members of the deceased.,Static Strength,1,0
+20601,Funeral Attendants,Deliver floral arrangements or other items to family members of the deceased.,Oral Expression,1,0
+20601,Funeral Attendants,Deliver floral arrangements or other items to family members of the deceased.,Gross Body Coordination,1,0
+4520,Funeral Attendants,Carry flowers to hearses or limousines for transportation to places of interment.,Manual Dexterity,1,0
+4520,Funeral Attendants,Carry flowers to hearses or limousines for transportation to places of interment.,Static Strength,1,0
+4520,Funeral Attendants,Carry flowers to hearses or limousines for transportation to places of interment.,Gross Body Coordination,1,0
+4520,Funeral Attendants,Carry flowers to hearses or limousines for transportation to places of interment.,Stamina,1,0
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",Manual Dexterity,2,0
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",Static Strength,2,0
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",Stamina,1,0
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",Extent Flexibility,1,0
+20602,Funeral Attendants,"Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds.",Near Vision,1,0
+4525,Funeral Attendants,Issue and store funeral equipment.,Manual Dexterity,1,0
+4525,Funeral Attendants,Issue and store funeral equipment.,Information Ordering,1,0
+4525,Funeral Attendants,Issue and store funeral equipment.,Near Vision,1,0
+4525,Funeral Attendants,Issue and store funeral equipment.,Static Strength,1,0
+4523,Funeral Attendants,Provide advice to mourners on how to make charitable donations in honor of the deceased.,Oral Expression,2,0
+4523,Funeral Attendants,Provide advice to mourners on how to make charitable donations in honor of the deceased.,Oral Comprehension,2,0
+4523,Funeral Attendants,Provide advice to mourners on how to make charitable donations in honor of the deceased.,Written Comprehension,1,0
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",Manual Dexterity,3,0
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",Control Precision,2,0
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",Near Vision,2,0
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",Arm-Hand Steadiness,1,0
+20603,Funeral Attendants,"Embalm, dress, cosmeticize, and casket the deceased.",Static Strength,1,0
+20607,Funeral Attendants,Prepare obituaries for newspapers.,Written Expression,3,0
+20607,Funeral Attendants,Prepare obituaries for newspapers.,Written Comprehension,1,0
+20607,Funeral Attendants,Prepare obituaries for newspapers.,Fluency of Ideas,1,0
+4516,Funeral Attendants,Obtain burial permits and register deaths.,Written Comprehension,2,0
+4516,Funeral Attendants,Obtain burial permits and register deaths.,Written Expression,1,0
+4516,Funeral Attendants,Obtain burial permits and register deaths.,Information Ordering,1,0
+4516,Funeral Attendants,Obtain burial permits and register deaths.,Oral Comprehension,1,0
+20597,Funeral Attendants,Transport the deceased to the funeral home.,Static Strength,2,0
+20597,Funeral Attendants,Transport the deceased to the funeral home.,Far Vision,1,0
+20597,Funeral Attendants,Transport the deceased to the funeral home.,Multilimb Coordination,1,0
+20597,Funeral Attendants,Transport the deceased to the funeral home.,Trunk Strength,1,0
+20605,Funeral Attendants,"Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms.",Written Comprehension,2,0
+20605,Funeral Attendants,"Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms.",Information Ordering,1,0
+20605,Funeral Attendants,"Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms.",Oral Expression,1,0
+20605,Funeral Attendants,"Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms.",Written Expression,1,0
+4526,Funeral Attendants,Assist with cremations and the processing and packaging of cremated remains.,Manual Dexterity,2,0
+4526,Funeral Attendants,Assist with cremations and the processing and packaging of cremated remains.,Finger Dexterity,1,0
+4526,Funeral Attendants,Assist with cremations and the processing and packaging of cremated remains.,Near Vision,1,0
+4526,Funeral Attendants,Assist with cremations and the processing and packaging of cremated remains.,Selective Attention,1,0
+20598,Funeral Attendants,"Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs.",Oral Expression,3,0
+20598,Funeral Attendants,"Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs.",Oral Comprehension,2,0
+20598,Funeral Attendants,"Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs.",Problem Sensitivity,1,0
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",Finger Dexterity,2,0
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",Written Expression,1,0
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",Oral Expression,1,0
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",Oral Comprehension,1,0
+20599,Funeral Attendants,"Perform various administrative tasks, such as typing documents or answering telephone calls.",Perceptual Speed,1,0
+3335,"Morticians, Undertakers, and Funeral Arrangers",Oversee the preparation and care of the remains of people who have died.,Selective Attention,2,0
+3335,"Morticians, Undertakers, and Funeral Arrangers",Oversee the preparation and care of the remains of people who have died.,Oral Expression,1,0
+3335,"Morticians, Undertakers, and Funeral Arrangers",Oversee the preparation and care of the remains of people who have died.,Problem Sensitivity,1,0
+3335,"Morticians, Undertakers, and Funeral Arrangers",Oversee the preparation and care of the remains of people who have died.,Information Ordering,1,0
+3334,"Morticians, Undertakers, and Funeral Arrangers","Obtain information needed to complete legal documents, such as death certificates or burial permits.",Written Comprehension,2,0
+3334,"Morticians, Undertakers, and Funeral Arrangers","Obtain information needed to complete legal documents, such as death certificates or burial permits.",Oral Comprehension,1,0
+3334,"Morticians, Undertakers, and Funeral Arrangers","Obtain information needed to complete legal documents, such as death certificates or burial permits.",Information Ordering,1,0
+3334,"Morticians, Undertakers, and Funeral Arrangers","Obtain information needed to complete legal documents, such as death certificates or burial permits.",Written Expression,1,0
+3343,"Morticians, Undertakers, and Funeral Arrangers","Perform embalming duties, as necessary.",Manual Dexterity,3,0
+3343,"Morticians, Undertakers, and Funeral Arrangers","Perform embalming duties, as necessary.",Control Precision,2,0
+3343,"Morticians, Undertakers, and Funeral Arrangers","Perform embalming duties, as necessary.",Near Vision,2,0
+3343,"Morticians, Undertakers, and Funeral Arrangers","Perform embalming duties, as necessary.",Arm-Hand Steadiness,1,0
+3332,"Morticians, Undertakers, and Funeral Arrangers","Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Oral Expression,3,0
+3332,"Morticians, Undertakers, and Funeral Arrangers","Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Oral Comprehension,3,0
+3332,"Morticians, Undertakers, and Funeral Arrangers","Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Written Comprehension,1,0
+3332,"Morticians, Undertakers, and Funeral Arrangers","Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Problem Sensitivity,1,0
+21009,"Morticians, Undertakers, and Funeral Arrangers",Remove deceased remains from place of death.,Static Strength,3,0
+21009,"Morticians, Undertakers, and Funeral Arrangers",Remove deceased remains from place of death.,Trunk Strength,2,0
+21009,"Morticians, Undertakers, and Funeral Arrangers",Remove deceased remains from place of death.,Gross Body Equilibrium,1,0
+21009,"Morticians, Undertakers, and Funeral Arrangers",Remove deceased remains from place of death.,Stamina,1,0
+3336,"Morticians, Undertakers, and Funeral Arrangers",Contact cemeteries to schedule the opening and closing of graves.,Oral Expression,2,0
+3336,"Morticians, Undertakers, and Funeral Arrangers",Contact cemeteries to schedule the opening and closing of graves.,Oral Comprehension,2,0
+3336,"Morticians, Undertakers, and Funeral Arrangers",Contact cemeteries to schedule the opening and closing of graves.,Information Ordering,1,0
+15200,"Morticians, Undertakers, and Funeral Arrangers","Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services.",Information Ordering,3,0
+15200,"Morticians, Undertakers, and Funeral Arrangers","Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services.",Oral Expression,2,0
+15200,"Morticians, Undertakers, and Funeral Arrangers","Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services.",Time Sharing,1,0
+15200,"Morticians, Undertakers, and Funeral Arrangers","Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services.",Deductive Reasoning,1,0
+3340,"Morticians, Undertakers, and Funeral Arrangers",Close caskets and lead funeral corteges to churches or burial sites.,Manual Dexterity,1,0
+3340,"Morticians, Undertakers, and Funeral Arrangers",Close caskets and lead funeral corteges to churches or burial sites.,Spatial Orientation,1,0
+3340,"Morticians, Undertakers, and Funeral Arrangers",Close caskets and lead funeral corteges to churches or burial sites.,Far Vision,1,0
+3340,"Morticians, Undertakers, and Funeral Arrangers",Close caskets and lead funeral corteges to churches or burial sites.,Oral Expression,1,0
+3337,"Morticians, Undertakers, and Funeral Arrangers","Provide information on funeral service options, products, or merchandise, and maintain a casket display area.",Oral Expression,2,0
+3337,"Morticians, Undertakers, and Funeral Arrangers","Provide information on funeral service options, products, or merchandise, and maintain a casket display area.",Oral Comprehension,1,0
+3337,"Morticians, Undertakers, and Funeral Arrangers","Provide information on funeral service options, products, or merchandise, and maintain a casket display area.",Manual Dexterity,1,0
+3337,"Morticians, Undertakers, and Funeral Arrangers","Provide information on funeral service options, products, or merchandise, and maintain a casket display area.",Visualization,1,0
+3339,"Morticians, Undertakers, and Funeral Arrangers",Offer counsel and comfort to bereaved families or friends.,Oral Expression,3,0
+3339,"Morticians, Undertakers, and Funeral Arrangers",Offer counsel and comfort to bereaved families or friends.,Oral Comprehension,2,0
+3339,"Morticians, Undertakers, and Funeral Arrangers",Offer counsel and comfort to bereaved families or friends.,Problem Sensitivity,1,0
+3344,"Morticians, Undertakers, and Funeral Arrangers",Direct preparations and shipment of bodies for out-of-state burial.,Oral Expression,2,0
+3344,"Morticians, Undertakers, and Funeral Arrangers",Direct preparations and shipment of bodies for out-of-state burial.,Information Ordering,2,0
+3344,"Morticians, Undertakers, and Funeral Arrangers",Direct preparations and shipment of bodies for out-of-state burial.,Written Comprehension,1,0
+3345,"Morticians, Undertakers, and Funeral Arrangers",Discuss and negotiate prearranged funerals with clients.,Oral Expression,3,0
+3345,"Morticians, Undertakers, and Funeral Arrangers",Discuss and negotiate prearranged funerals with clients.,Oral Comprehension,2,0
+3345,"Morticians, Undertakers, and Funeral Arrangers",Discuss and negotiate prearranged funerals with clients.,Deductive Reasoning,1,0
+3345,"Morticians, Undertakers, and Funeral Arrangers",Discuss and negotiate prearranged funerals with clients.,Written Comprehension,1,0
+3347,"Morticians, Undertakers, and Funeral Arrangers","Maintain financial records, order merchandise, or prepare accounts.",Number Facility,2,0
+3347,"Morticians, Undertakers, and Funeral Arrangers","Maintain financial records, order merchandise, or prepare accounts.",Information Ordering,2,0
+3347,"Morticians, Undertakers, and Funeral Arrangers","Maintain financial records, order merchandise, or prepare accounts.",Written Comprehension,1,0
+3347,"Morticians, Undertakers, and Funeral Arrangers","Maintain financial records, order merchandise, or prepare accounts.",Mathematical Reasoning,1,0
+3342,"Morticians, Undertakers, and Funeral Arrangers","Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers.",Information Ordering,2,0
+3342,"Morticians, Undertakers, and Funeral Arrangers","Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers.",Oral Expression,1,0
+3342,"Morticians, Undertakers, and Funeral Arrangers","Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers.",Oral Comprehension,1,0
+3341,"Morticians, Undertakers, and Funeral Arrangers",Arrange for clergy members to perform needed services.,Oral Expression,2,0
+3341,"Morticians, Undertakers, and Funeral Arrangers",Arrange for clergy members to perform needed services.,Oral Comprehension,2,0
+3341,"Morticians, Undertakers, and Funeral Arrangers",Arrange for clergy members to perform needed services.,Information Ordering,1,0
+3348,"Morticians, Undertakers, and Funeral Arrangers","Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays.",Visualization,2,0
+3348,"Morticians, Undertakers, and Funeral Arrangers","Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays.",Manual Dexterity,1,0
+3348,"Morticians, Undertakers, and Funeral Arrangers","Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays.",Near Vision,1,0
+3348,"Morticians, Undertakers, and Funeral Arrangers","Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays.",Spatial Orientation,1,0
+15202,"Morticians, Undertakers, and Funeral Arrangers",Clean funeral home facilities and grounds.,Manual Dexterity,1,0
+15202,"Morticians, Undertakers, and Funeral Arrangers",Clean funeral home facilities and grounds.,Stamina,2,0
+15202,"Morticians, Undertakers, and Funeral Arrangers",Clean funeral home facilities and grounds.,Static Strength,1,0
+15202,"Morticians, Undertakers, and Funeral Arrangers",Clean funeral home facilities and grounds.,Trunk Strength,1,0
+15201,"Morticians, Undertakers, and Funeral Arrangers","Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff.",Oral Expression,2,0
+15201,"Morticians, Undertakers, and Funeral Arrangers","Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff.",Oral Comprehension,2,0
+15201,"Morticians, Undertakers, and Funeral Arrangers","Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff.",Information Ordering,1,0
+15201,"Morticians, Undertakers, and Funeral Arrangers","Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff.",Deductive Reasoning,1,0
+3346,"Morticians, Undertakers, and Funeral Arrangers",Inform survivors of benefits for which they may be eligible.,Oral Expression,2,0
+3346,"Morticians, Undertakers, and Funeral Arrangers",Inform survivors of benefits for which they may be eligible.,Oral Comprehension,2,0
+3346,"Morticians, Undertakers, and Funeral Arrangers",Inform survivors of benefits for which they may be eligible.,Written Comprehension,1,0
+3349,"Morticians, Undertakers, and Funeral Arrangers",Arrange for pallbearers or inform pallbearers or honorary groups of their duties.,Oral Expression,2,0
+3349,"Morticians, Undertakers, and Funeral Arrangers",Arrange for pallbearers or inform pallbearers or honorary groups of their duties.,Information Ordering,1,0
+3349,"Morticians, Undertakers, and Funeral Arrangers",Arrange for pallbearers or inform pallbearers or honorary groups of their duties.,Oral Comprehension,1,0
+3350,"Morticians, Undertakers, and Funeral Arrangers",Receive or usher people to their seats for services.,Oral Expression,1,0
+3350,"Morticians, Undertakers, and Funeral Arrangers",Receive or usher people to their seats for services.,Spatial Orientation,1,0
+3350,"Morticians, Undertakers, and Funeral Arrangers",Receive or usher people to their seats for services.,Gross Body Coordination,1,0
+15203,"Morticians, Undertakers, and Funeral Arrangers",Participate in community activities for funeral home promotion or other purposes.,Oral Expression,2,0
+15203,"Morticians, Undertakers, and Funeral Arrangers",Participate in community activities for funeral home promotion or other purposes.,Oral Comprehension,1,0
+15203,"Morticians, Undertakers, and Funeral Arrangers",Participate in community activities for funeral home promotion or other purposes.,Fluency of Ideas,1,0
+8049,Barbers,"Clean and sterilize scissors, combs, clippers, and other instruments.",Manual Dexterity,2,0
+8049,Barbers,"Clean and sterilize scissors, combs, clippers, and other instruments.",Near Vision,1,0
+8049,Barbers,"Clean and sterilize scissors, combs, clippers, and other instruments.",Finger Dexterity,1,0
+8051,Barbers,Drape and pin protective cloths around customers' shoulders.,Manual Dexterity,2,0
+8051,Barbers,Drape and pin protective cloths around customers' shoulders.,Finger Dexterity,2,0
+8051,Barbers,Drape and pin protective cloths around customers' shoulders.,Arm-Hand Steadiness,1,0
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",Finger Dexterity,3,0
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",Manual Dexterity,3,0
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",Arm-Hand Steadiness,2,0
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",Near Vision,2,0
+8050,Barbers,"Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors.",Control Precision,2,0
+8052,Barbers,Question patrons regarding desired services and haircut styles.,Oral Expression,3,0
+8052,Barbers,Question patrons regarding desired services and haircut styles.,Oral Comprehension,3,0
+8052,Barbers,Question patrons regarding desired services and haircut styles.,Speech Recognition,1,0
+8053,Barbers,Clean work stations and sweep floors.,Manual Dexterity,1,0
+8053,Barbers,Clean work stations and sweep floors.,Stamina,1,0
+8053,Barbers,Clean work stations and sweep floors.,Gross Body Coordination,1,0
+8063,Barbers,"Apply lather and shave beards or neck and temple hair contours, using razors.",Arm-Hand Steadiness,3,0
+8063,Barbers,"Apply lather and shave beards or neck and temple hair contours, using razors.",Control Precision,3,0
+8063,Barbers,"Apply lather and shave beards or neck and temple hair contours, using razors.",Finger Dexterity,2,0
+8063,Barbers,"Apply lather and shave beards or neck and temple hair contours, using razors.",Near Vision,2,0
+8054,Barbers,Record services provided on cashiers' tickets or receive payment from customers.,Number Facility,2,0
+8054,Barbers,Record services provided on cashiers' tickets or receive payment from customers.,Written Expression,1,0
+8054,Barbers,Record services provided on cashiers' tickets or receive payment from customers.,Perceptual Speed,1,0
+8056,Barbers,"Shape and trim beards and moustaches, using scissors.",Finger Dexterity,3,0
+8056,Barbers,"Shape and trim beards and moustaches, using scissors.",Manual Dexterity,2,0
+8056,Barbers,"Shape and trim beards and moustaches, using scissors.",Near Vision,2,0
+8056,Barbers,"Shape and trim beards and moustaches, using scissors.",Control Precision,2,0
+8061,Barbers,"Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel.",Written Comprehension,2,0
+8061,Barbers,"Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel.",Information Ordering,2,0
+8061,Barbers,"Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel.",Number Facility,1,0
+8061,Barbers,"Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel.",Oral Expression,1,0
+8057,Barbers,Stay informed of the latest styles and hair care techniques.,Written Comprehension,2,0
+8057,Barbers,Stay informed of the latest styles and hair care techniques.,Category Flexibility,1,0
+8057,Barbers,Stay informed of the latest styles and hair care techniques.,Fluency of Ideas,1,0
+8058,Barbers,Suggest treatments to alleviate hair problems.,Oral Expression,2,0
+8058,Barbers,Suggest treatments to alleviate hair problems.,Problem Sensitivity,2,0
+8058,Barbers,Suggest treatments to alleviate hair problems.,Oral Comprehension,1,0
+8055,Barbers,Order supplies.,Written Expression,1,0
+8055,Barbers,Order supplies.,Number Facility,1,0
+8055,Barbers,Order supplies.,Information Ordering,1,0
+8059,Barbers,Shampoo hair.,Manual Dexterity,2,0
+8059,Barbers,Shampoo hair.,Finger Dexterity,1,0
+8059,Barbers,Shampoo hair.,Arm-Hand Steadiness,1,0
+8059,Barbers,Shampoo hair.,Stamina,1,0
+8065,Barbers,"Recommend and sell lotions, tonics, or other cosmetic supplies.",Oral Expression,3,0
+8065,Barbers,"Recommend and sell lotions, tonics, or other cosmetic supplies.",Oral Comprehension,1,0
+8067,Barbers,Provide skin care and nail treatments.,Finger Dexterity,3,0
+8067,Barbers,Provide skin care and nail treatments.,Manual Dexterity,2,0
+8067,Barbers,Provide skin care and nail treatments.,Near Vision,2,0
+8067,Barbers,Provide skin care and nail treatments.,Arm-Hand Steadiness,1,0
+8060,Barbers,"Keep card files on clientele, recording notes of work done, products used and fees charged after each visit.",Written Expression,2,0
+8060,Barbers,"Keep card files on clientele, recording notes of work done, products used and fees charged after each visit.",Information Ordering,2,0
+8060,Barbers,"Keep card files on clientele, recording notes of work done, products used and fees charged after each visit.",Memorization,1,0
+8062,Barbers,"Curl, color, or straighten hair, using special chemical solutions and equipment.",Manual Dexterity,3,0
+8062,Barbers,"Curl, color, or straighten hair, using special chemical solutions and equipment.",Finger Dexterity,2,0
+8062,Barbers,"Curl, color, or straighten hair, using special chemical solutions and equipment.",Near Vision,2,0
+8062,Barbers,"Curl, color, or straighten hair, using special chemical solutions and equipment.",Control Precision,1,0
+8066,Barbers,"Provide face, neck, and scalp massages.",Manual Dexterity,2,0
+8066,Barbers,"Provide face, neck, and scalp massages.",Finger Dexterity,2,0
+8066,Barbers,"Provide face, neck, and scalp massages.",Arm-Hand Steadiness,2,0
+8066,Barbers,"Provide face, neck, and scalp massages.",Static Strength,1,0
+635,"Hairdressers, Hairstylists, and Cosmetologists","Keep work stations clean and sanitize tools, such as scissors and combs.",Manual Dexterity,1,0
+635,"Hairdressers, Hairstylists, and Cosmetologists","Keep work stations clean and sanitize tools, such as scissors and combs.",Near Vision,1,0
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",Finger Dexterity,3,0
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",Manual Dexterity,2,0
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",Near Vision,2,0
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",Visual Color Discrimination,2,0
+639,"Hairdressers, Hairstylists, and Cosmetologists","Bleach, dye, or tint hair, using applicator or brush.",Control Precision,1,0
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",Finger Dexterity,3,0
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",Manual Dexterity,3,0
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",Arm-Hand Steadiness,2,0
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",Near Vision,2,0
+636,"Hairdressers, Hairstylists, and Cosmetologists","Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.",Control Precision,2,0
+638,"Hairdressers, Hairstylists, and Cosmetologists",Schedule client appointments.,Information Ordering,2,0
+638,"Hairdressers, Hairstylists, and Cosmetologists",Schedule client appointments.,Oral Expression,1,0
+638,"Hairdressers, Hairstylists, and Cosmetologists",Schedule client appointments.,Memorization,1,0
+640,"Hairdressers, Hairstylists, and Cosmetologists","Update and maintain customer information records, such as beauty services provided.",Written Expression,1,0
+640,"Hairdressers, Hairstylists, and Cosmetologists","Update and maintain customer information records, such as beauty services provided.",Information Ordering,2,0
+640,"Hairdressers, Hairstylists, and Cosmetologists","Update and maintain customer information records, such as beauty services provided.",Memorization,1,0
+643,"Hairdressers, Hairstylists, and Cosmetologists",Demonstrate and sell hair care products and cosmetics.,Oral Expression,3,0
+643,"Hairdressers, Hairstylists, and Cosmetologists",Demonstrate and sell hair care products and cosmetics.,Manual Dexterity,1,0
+643,"Hairdressers, Hairstylists, and Cosmetologists",Demonstrate and sell hair care products and cosmetics.,Oral Comprehension,1,0
+637,"Hairdressers, Hairstylists, and Cosmetologists",Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,Problem Sensitivity,2,0
+637,"Hairdressers, Hairstylists, and Cosmetologists",Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,Visualization,2,0
+637,"Hairdressers, Hairstylists, and Cosmetologists",Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,Oral Expression,1,0
+637,"Hairdressers, Hairstylists, and Cosmetologists",Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,Near Vision,1,0
+641,"Hairdressers, Hairstylists, and Cosmetologists","Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.",Manual Dexterity,2,0
+641,"Hairdressers, Hairstylists, and Cosmetologists","Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.",Finger Dexterity,1,0
+641,"Hairdressers, Hairstylists, and Cosmetologists","Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.",Arm-Hand Steadiness,1,0
+641,"Hairdressers, Hairstylists, and Cosmetologists","Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.",Stamina,1,0
+642,"Hairdressers, Hairstylists, and Cosmetologists",Operate cash registers to receive payments from patrons.,Finger Dexterity,1,0
+642,"Hairdressers, Hairstylists, and Cosmetologists",Operate cash registers to receive payments from patrons.,Number Facility,2,0
+642,"Hairdressers, Hairstylists, and Cosmetologists",Operate cash registers to receive payments from patrons.,Perceptual Speed,1,0
+20899,"Hairdressers, Hairstylists, and Cosmetologists","Order, display, and maintain supplies.",Manual Dexterity,1,0
+20899,"Hairdressers, Hairstylists, and Cosmetologists","Order, display, and maintain supplies.",Visualization,1,0
+20899,"Hairdressers, Hairstylists, and Cosmetologists","Order, display, and maintain supplies.",Information Ordering,1,0
+646,"Hairdressers, Hairstylists, and Cosmetologists","Comb, brush, and spray hair or wigs to set style.",Finger Dexterity,2,0
+646,"Hairdressers, Hairstylists, and Cosmetologists","Comb, brush, and spray hair or wigs to set style.",Manual Dexterity,2,0
+646,"Hairdressers, Hairstylists, and Cosmetologists","Comb, brush, and spray hair or wigs to set style.",Arm-Hand Steadiness,1,0
+646,"Hairdressers, Hairstylists, and Cosmetologists","Comb, brush, and spray hair or wigs to set style.",Near Vision,1,0
+644,"Hairdressers, Hairstylists, and Cosmetologists",Develop new styles and techniques.,Originality,3,0
+644,"Hairdressers, Hairstylists, and Cosmetologists",Develop new styles and techniques.,Fluency of Ideas,2,0
+644,"Hairdressers, Hairstylists, and Cosmetologists",Develop new styles and techniques.,Visualization,2,0
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",Finger Dexterity,3,0
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",Manual Dexterity,2,0
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",Arm-Hand Steadiness,2,0
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",Near Vision,1,0
+645,"Hairdressers, Hairstylists, and Cosmetologists","Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.",Control Precision,1,0
+647,"Hairdressers, Hairstylists, and Cosmetologists","Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.",Finger Dexterity,3,0
+647,"Hairdressers, Hairstylists, and Cosmetologists","Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.",Arm-Hand Steadiness,3,0
+647,"Hairdressers, Hairstylists, and Cosmetologists","Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.",Near Vision,2,0
+647,"Hairdressers, Hairstylists, and Cosmetologists","Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.",Control Precision,2,0
+650,"Hairdressers, Hairstylists, and Cosmetologists","Shave, trim, and shape beards and moustaches.",Arm-Hand Steadiness,3,0
+650,"Hairdressers, Hairstylists, and Cosmetologists","Shave, trim, and shape beards and moustaches.",Finger Dexterity,2,0
+650,"Hairdressers, Hairstylists, and Cosmetologists","Shave, trim, and shape beards and moustaches.",Control Precision,2,0
+650,"Hairdressers, Hairstylists, and Cosmetologists","Shave, trim, and shape beards and moustaches.",Near Vision,2,0
+651,"Hairdressers, Hairstylists, and Cosmetologists","Train or supervise other hairstylists, hairdressers, and assistants.",Oral Expression,3,0
+651,"Hairdressers, Hairstylists, and Cosmetologists","Train or supervise other hairstylists, hairdressers, and assistants.",Oral Comprehension,2,0
+651,"Hairdressers, Hairstylists, and Cosmetologists","Train or supervise other hairstylists, hairdressers, and assistants.",Information Ordering,1,0
+649,"Hairdressers, Hairstylists, and Cosmetologists","Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.",Manual Dexterity,2,0
+649,"Hairdressers, Hairstylists, and Cosmetologists","Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.",Finger Dexterity,2,0
+649,"Hairdressers, Hairstylists, and Cosmetologists","Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.",Arm-Hand Steadiness,2,0
+649,"Hairdressers, Hairstylists, and Cosmetologists","Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.",Static Strength,1,0
+648,"Hairdressers, Hairstylists, and Cosmetologists",Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.,Oral Expression,2,0
+648,"Hairdressers, Hairstylists, and Cosmetologists",Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.,Problem Sensitivity,2,0
+648,"Hairdressers, Hairstylists, and Cosmetologists",Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.,Finger Dexterity,1,0
+648,"Hairdressers, Hairstylists, and Cosmetologists",Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.,Oral Comprehension,1,0
+652,"Hairdressers, Hairstylists, and Cosmetologists","Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.",Oral Expression,3,0
+652,"Hairdressers, Hairstylists, and Cosmetologists","Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.",Oral Comprehension,1,0
+652,"Hairdressers, Hairstylists, and Cosmetologists","Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.",Written Comprehension,1,0
+654,"Hairdressers, Hairstylists, and Cosmetologists","Clean, shape, and polish fingernails and toenails, using files and nail polish.",Finger Dexterity,3,0
+654,"Hairdressers, Hairstylists, and Cosmetologists","Clean, shape, and polish fingernails and toenails, using files and nail polish.",Arm-Hand Steadiness,2,0
+654,"Hairdressers, Hairstylists, and Cosmetologists","Clean, shape, and polish fingernails and toenails, using files and nail polish.",Near Vision,2,0
+654,"Hairdressers, Hairstylists, and Cosmetologists","Clean, shape, and polish fingernails and toenails, using files and nail polish.",Control Precision,1,0
+653,"Hairdressers, Hairstylists, and Cosmetologists","Give facials to patrons, using special compounds, such as lotions and creams.",Manual Dexterity,2,0
+653,"Hairdressers, Hairstylists, and Cosmetologists","Give facials to patrons, using special compounds, such as lotions and creams.",Finger Dexterity,2,0
+653,"Hairdressers, Hairstylists, and Cosmetologists","Give facials to patrons, using special compounds, such as lotions and creams.",Arm-Hand Steadiness,1,0
+653,"Hairdressers, Hairstylists, and Cosmetologists","Give facials to patrons, using special compounds, such as lotions and creams.",Near Vision,1,0
+656,"Hairdressers, Hairstylists, and Cosmetologists","Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.",Finger Dexterity,3,0
+656,"Hairdressers, Hairstylists, and Cosmetologists","Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.",Manual Dexterity,2,0
+656,"Hairdressers, Hairstylists, and Cosmetologists","Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.",Near Vision,2,0
+656,"Hairdressers, Hairstylists, and Cosmetologists","Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.",Visualization,1,0
+24008,"Makeup Artists, Theatrical and Performance",Clean supplies such as makeup brushes.,Finger Dexterity,1,0
+24008,"Makeup Artists, Theatrical and Performance",Clean supplies such as makeup brushes.,Manual Dexterity,1,0
+24008,"Makeup Artists, Theatrical and Performance",Clean supplies such as makeup brushes.,Near Vision,1,0
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,Control Precision,3,0
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,Finger Dexterity,2,0
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,Memorization,2,0
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,Near Vision,2,0
+14798,"Makeup Artists, Theatrical and Performance",Duplicate work precisely to replicate characters' appearances on a daily basis.,Visualization,1,0
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,Finger Dexterity,3,0
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,Manual Dexterity,3,0
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,Arm-Hand Steadiness,2,0
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,Near Vision,2,0
+14800,"Makeup Artists, Theatrical and Performance",Apply makeup to enhance or alter the appearance of people appearing in productions such as movies.,Visual Color Discrimination,2,0
+14805,"Makeup Artists, Theatrical and Performance","Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.",Written Comprehension,3,0
+14805,"Makeup Artists, Theatrical and Performance","Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.",Information Ordering,2,0
+14805,"Makeup Artists, Theatrical and Performance","Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.",Deductive Reasoning,2,0
+14805,"Makeup Artists, Theatrical and Performance","Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.",Visualization,1,0
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,Finger Dexterity,2,0
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,Visual Color Discrimination,2,0
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,Near Vision,2,0
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,Control Precision,2,0
+14801,"Makeup Artists, Theatrical and Performance",Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect.,Selective Attention,1,0
+14797,"Makeup Artists, Theatrical and Performance",Confer with stage or motion picture officials and performers to determine desired effects.,Oral Expression,3,0
+14797,"Makeup Artists, Theatrical and Performance",Confer with stage or motion picture officials and performers to determine desired effects.,Oral Comprehension,3,0
+14797,"Makeup Artists, Theatrical and Performance",Confer with stage or motion picture officials and performers to determine desired effects.,Fluency of Ideas,1,0
+14806,"Makeup Artists, Theatrical and Performance","Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics.",Written Expression,1,0
+14806,"Makeup Artists, Theatrical and Performance","Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics.",Information Ordering,2,0
+14806,"Makeup Artists, Theatrical and Performance","Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics.",Oral Expression,1,0
+14814,"Makeup Artists, Theatrical and Performance","Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements.",Written Comprehension,3,0
+14814,"Makeup Artists, Theatrical and Performance","Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements.",Visualization,2,0
+14814,"Makeup Artists, Theatrical and Performance","Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements.",Information Ordering,1,0
+14799,"Makeup Artists, Theatrical and Performance","Establish budgets, and work within budgetary limits.",Mathematical Reasoning,2,0
+14799,"Makeup Artists, Theatrical and Performance","Establish budgets, and work within budgetary limits.",Number Facility,2,0
+14799,"Makeup Artists, Theatrical and Performance","Establish budgets, and work within budgetary limits.",Information Ordering,1,0
+14802,"Makeup Artists, Theatrical and Performance","Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects.",Visual Color Discrimination,3,0
+14802,"Makeup Artists, Theatrical and Performance","Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects.",Finger Dexterity,2,0
+14802,"Makeup Artists, Theatrical and Performance","Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects.",Manual Dexterity,2,0
+14802,"Makeup Artists, Theatrical and Performance","Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects.",Near Vision,1,0
+14807,"Makeup Artists, Theatrical and Performance",Write makeup sheets and take photos to document specific looks and the products used to achieve the looks.,Written Expression,2,0
+14807,"Makeup Artists, Theatrical and Performance",Write makeup sheets and take photos to document specific looks and the products used to achieve the looks.,Near Vision,1,0
+14807,"Makeup Artists, Theatrical and Performance",Write makeup sheets and take photos to document specific looks and the products used to achieve the looks.,Information Ordering,1,0
+14804,"Makeup Artists, Theatrical and Performance",Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations.,Problem Sensitivity,2,0
+14804,"Makeup Artists, Theatrical and Performance",Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations.,Near Vision,2,0
+14804,"Makeup Artists, Theatrical and Performance",Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations.,Visual Color Discrimination,1,0
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",Finger Dexterity,3,0
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",Manual Dexterity,2,0
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",Control Precision,2,0
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",Near Vision,2,0
+14809,"Makeup Artists, Theatrical and Performance","Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness.",Originality,1,0
+14808,"Makeup Artists, Theatrical and Performance","Examine sketches, photographs, and plaster models to obtain desired character image depiction.",Visualization,3,0
+14808,"Makeup Artists, Theatrical and Performance","Examine sketches, photographs, and plaster models to obtain desired character image depiction.",Near Vision,2,0
+14808,"Makeup Artists, Theatrical and Performance","Examine sketches, photographs, and plaster models to obtain desired character image depiction.",Flexibility of Closure,1,0
+14803,"Makeup Artists, Theatrical and Performance",Cleanse and tone the skin to prepare it for makeup application.,Manual Dexterity,2,0
+14803,"Makeup Artists, Theatrical and Performance",Cleanse and tone the skin to prepare it for makeup application.,Finger Dexterity,1,0
+14803,"Makeup Artists, Theatrical and Performance",Cleanse and tone the skin to prepare it for makeup application.,Arm-Hand Steadiness,1,0
+14810,"Makeup Artists, Theatrical and Performance","Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements.",Visualization,2,0
+14810,"Makeup Artists, Theatrical and Performance","Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements.",Problem Sensitivity,2,0
+14810,"Makeup Artists, Theatrical and Performance","Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements.",Spatial Orientation,1,0
+14815,"Makeup Artists, Theatrical and Performance",Provide performers with makeup removal assistance after performances have been completed.,Manual Dexterity,2,0
+14815,"Makeup Artists, Theatrical and Performance",Provide performers with makeup removal assistance after performances have been completed.,Finger Dexterity,1,0
+14815,"Makeup Artists, Theatrical and Performance",Provide performers with makeup removal assistance after performances have been completed.,Near Vision,1,0
+14811,"Makeup Artists, Theatrical and Performance",Design rubber or plastic prostheses that can be used to change performers' appearances.,Originality,3,0
+14811,"Makeup Artists, Theatrical and Performance",Design rubber or plastic prostheses that can be used to change performers' appearances.,Visualization,2,0
+14811,"Makeup Artists, Theatrical and Performance",Design rubber or plastic prostheses that can be used to change performers' appearances.,Manual Dexterity,2,0
+14811,"Makeup Artists, Theatrical and Performance",Design rubber or plastic prostheses that can be used to change performers' appearances.,Finger Dexterity,1,0
+14812,"Makeup Artists, Theatrical and Performance","Create character drawings or models, based upon independent research, to augment period production files.",Originality,2,0
+14812,"Makeup Artists, Theatrical and Performance","Create character drawings or models, based upon independent research, to augment period production files.",Visualization,3,0
+14812,"Makeup Artists, Theatrical and Performance","Create character drawings or models, based upon independent research, to augment period production files.",Manual Dexterity,1,0
+14817,"Makeup Artists, Theatrical and Performance","Demonstrate products to clients, and provide instruction in makeup application.",Oral Expression,3,0
+14817,"Makeup Artists, Theatrical and Performance","Demonstrate products to clients, and provide instruction in makeup application.",Manual Dexterity,1,0
+14817,"Makeup Artists, Theatrical and Performance","Demonstrate products to clients, and provide instruction in makeup application.",Oral Comprehension,1,0
+14813,"Makeup Artists, Theatrical and Performance",Advise hairdressers on the hairstyles required for character parts.,Oral Expression,2,0
+14813,"Makeup Artists, Theatrical and Performance",Advise hairdressers on the hairstyles required for character parts.,Oral Comprehension,2,0
+14813,"Makeup Artists, Theatrical and Performance",Advise hairdressers on the hairstyles required for character parts.,Visualization,1,0
+14816,"Makeup Artists, Theatrical and Performance",Wash and reset wigs.,Manual Dexterity,2,0
+14816,"Makeup Artists, Theatrical and Performance",Wash and reset wigs.,Finger Dexterity,1,0
+14816,"Makeup Artists, Theatrical and Performance",Wash and reset wigs.,Near Vision,1,0
+8748,Manicurists and Pedicurists,Clean and sanitize tools and work environment.,Manual Dexterity,1,0
+8748,Manicurists and Pedicurists,Clean and sanitize tools and work environment.,Near Vision,1,0
+8748,Manicurists and Pedicurists,Clean and sanitize tools and work environment.,Finger Dexterity,1,0

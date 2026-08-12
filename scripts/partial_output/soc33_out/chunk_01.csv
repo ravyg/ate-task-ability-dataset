@@ -1,0 +1,502 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",Problem Sensitivity,3,0
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",Near Vision,2,0
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",Selective Attention,2,0
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",Deductive Reasoning,2,0
+22998,Fire Inspectors and Investigators,"Inspect buildings to locate hazardous conditions and fire code violations, such as accumulations of combustible material, electrical wiring problems, and inadequate or non-functional fire exits.",Far Vision,1,0
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",Problem Sensitivity,3,0
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",Near Vision,2,0
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",Deductive Reasoning,2,0
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",Manual Dexterity,1,0
+22997,Fire Inspectors and Investigators,"Examine fire sites and collect evidence such as glass, metal fragments, charred wood, and accelerant residue for use in determining the cause of a fire.",Selective Attention,2,0
+22999,Fire Inspectors and Investigators,Instruct children about the dangers of fire.,Oral Expression,3,0
+22999,Fire Inspectors and Investigators,Instruct children about the dangers of fire.,Speech Clarity,2,0
+22999,Fire Inspectors and Investigators,Instruct children about the dangers of fire.,Oral Comprehension,1,0
+22999,Fire Inspectors and Investigators,Instruct children about the dangers of fire.,Fluency of Ideas,1,1
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,Problem Sensitivity,2,0
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,Deductive Reasoning,2,0
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,Near Vision,1,0
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,Written Comprehension,1,0
+23000,Fire Inspectors and Investigators,Conduct fire code compliance follow-ups to ensure that corrective actions have been taken in cases where violations were found.,Selective Attention,1,0
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",Problem Sensitivity,3,0
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",Deductive Reasoning,2,0
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",Near Vision,2,0
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",Written Comprehension,2,0
+23001,Fire Inspectors and Investigators,"Inspect properties that store, handle, and use hazardous materials to ensure compliance with laws, codes, and regulations, and issue hazardous materials permits to facilities found in compliance.",Selective Attention,1,0
+23002,Fire Inspectors and Investigators,"Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered.",Written Expression,3,0
+23002,Fire Inspectors and Investigators,"Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered.",Written Comprehension,2,0
+23002,Fire Inspectors and Investigators,"Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered.",Information Ordering,2,0
+23002,Fire Inspectors and Investigators,"Write detailed reports of fire inspections performed, fire code violations observed, and corrective recommendations offered.",Memorization,1,0
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",Deductive Reasoning,3,0
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",Problem Sensitivity,2,0
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",Oral Expression,2,0
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",Written Comprehension,1,0
+23003,Fire Inspectors and Investigators,"Identify corrective actions necessary to bring properties into compliance with applicable fire codes, laws, regulations, and standards, and explain these measures to property owners or their representatives.",Oral Comprehension,1,0
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,Spatial Orientation,2,0
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,Visualization,2,0
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,Deductive Reasoning,2,0
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,Written Comprehension,1,0
+23004,Fire Inspectors and Investigators,Develop or review fire exit plans.,Information Ordering,1,0
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",Problem Sensitivity,2,0
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",Near Vision,2,0
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",Deductive Reasoning,2,0
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",Manual Dexterity,1,0
+23005,Fire Inspectors and Investigators,"Inspect and test fire protection or fire detection systems to verify that such systems are installed in accordance with appropriate laws, codes, ordinances, regulations, and standards.",Auditory Attention,1,0
+23006,Fire Inspectors and Investigators,"Coordinate efforts with other organizations, such as law enforcement agencies.",Oral Expression,2,0
+23006,Fire Inspectors and Investigators,"Coordinate efforts with other organizations, such as law enforcement agencies.",Oral Comprehension,2,0
+23006,Fire Inspectors and Investigators,"Coordinate efforts with other organizations, such as law enforcement agencies.",Information Ordering,1,0
+23006,Fire Inspectors and Investigators,"Coordinate efforts with other organizations, such as law enforcement agencies.",Time Sharing,1,0
+23007,Fire Inspectors and Investigators,"Attend training classes to maintain current knowledge of fire prevention, safety, and firefighting procedures.",Oral Comprehension,2,0
+23007,Fire Inspectors and Investigators,"Attend training classes to maintain current knowledge of fire prevention, safety, and firefighting procedures.",Written Comprehension,2,0
+23007,Fire Inspectors and Investigators,"Attend training classes to maintain current knowledge of fire prevention, safety, and firefighting procedures.",Memorization,2,0
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,Visualization,3,0
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,Spatial Orientation,2,0
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,Deductive Reasoning,2,0
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,Near Vision,2,0
+23008,Fire Inspectors and Investigators,Review blueprints and plans for new or remodeled buildings to ensure the structures meet fire safety codes.,Written Comprehension,1,0
+23009,Fire Inspectors and Investigators,Teach fire investigation techniques to other firefighter personnel.,Oral Expression,3,0
+23009,Fire Inspectors and Investigators,Teach fire investigation techniques to other firefighter personnel.,Oral Comprehension,1,0
+23009,Fire Inspectors and Investigators,Teach fire investigation techniques to other firefighter personnel.,Information Ordering,1,0
+23009,Fire Inspectors and Investigators,Teach fire investigation techniques to other firefighter personnel.,Written Expression,1,0
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,Selective Attention,2,0
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,Problem Sensitivity,2,0
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,Oral Expression,1,0
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,Information Ordering,1,0
+23010,Fire Inspectors and Investigators,Conduct fire exit drills to monitor and evaluate evacuation procedures.,Near Vision,1,0
+23011,Fire Inspectors and Investigators,Teach public education programs on fire safety and prevention.,Oral Expression,3,0
+23011,Fire Inspectors and Investigators,Teach public education programs on fire safety and prevention.,Fluency of Ideas,1,0
+23011,Fire Inspectors and Investigators,Teach public education programs on fire safety and prevention.,Oral Comprehension,1,0
+23012,Fire Inspectors and Investigators,"Recommend changes to fire prevention, inspection, and fire code endorsement procedures.",Deductive Reasoning,2,0
+23012,Fire Inspectors and Investigators,"Recommend changes to fire prevention, inspection, and fire code endorsement procedures.",Written Expression,2,0
+23012,Fire Inspectors and Investigators,"Recommend changes to fire prevention, inspection, and fire code endorsement procedures.",Inductive Reasoning,2,0
+23012,Fire Inspectors and Investigators,"Recommend changes to fire prevention, inspection, and fire code endorsement procedures.",Problem Sensitivity,1,0
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",Oral Comprehension,3,0
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",Oral Expression,2,0
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",Speech Recognition,2,0
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",Problem Sensitivity,1,0
+23013,Fire Inspectors and Investigators,"Subpoena and interview witnesses, property owners, and building occupants to obtain information and sworn testimony.",Written Comprehension,1,0
+23014,Fire Inspectors and Investigators,Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees.,Deductive Reasoning,3,0
+23014,Fire Inspectors and Investigators,Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees.,Problem Sensitivity,2,0
+23014,Fire Inspectors and Investigators,Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees.,Oral Comprehension,2,0
+23014,Fire Inspectors and Investigators,Conduct internal investigation to determine negligence and violation of laws and regulations by fire department employees.,Written Comprehension,1,0
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",Problem Sensitivity,2,0
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",Near Vision,2,0
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",Manual Dexterity,1,0
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",Deductive Reasoning,2,0
+23015,Fire Inspectors and Investigators,"Test sites and materials to establish facts, such as burn patterns and flash points of materials, using test equipment.",Selective Attention,1,0
+23016,Fire Inspectors and Investigators,Dust evidence or portions of fire scenes for latent fingerprints.,Manual Dexterity,3,0
+23016,Fire Inspectors and Investigators,Dust evidence or portions of fire scenes for latent fingerprints.,Arm-Hand Steadiness,2,0
+23016,Fire Inspectors and Investigators,Dust evidence or portions of fire scenes for latent fingerprints.,Near Vision,2,0
+23016,Fire Inspectors and Investigators,Dust evidence or portions of fire scenes for latent fingerprints.,Control Precision,1,0
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",Manual Dexterity,2,0
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",Near Vision,1,0
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",Deductive Reasoning,1,0
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",Finger Dexterity,1,0
+23017,Fire Inspectors and Investigators,"Arrange for the replacement of defective fire fighting equipment and for repair of fire alarm and sprinkler systems, making minor repairs such as servicing fire extinguishers when feasible.",Information Ordering,1,0
+23018,Fire Inspectors and Investigators,Issue permits for public assemblies.,Deductive Reasoning,1,0
+23018,Fire Inspectors and Investigators,Issue permits for public assemblies.,Written Comprehension,1,0
+23018,Fire Inspectors and Investigators,Issue permits for public assemblies.,Information Ordering,1,0
+23018,Fire Inspectors and Investigators,Issue permits for public assemblies.,Oral Expression,1,0
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",Oral Expression,2,0
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",Oral Comprehension,2,0
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",Information Ordering,2,0
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",Deductive Reasoning,1,0
+23019,Fire Inspectors and Investigators,"Supervise staff, training them, planning their work, and evaluating their performance.",Written Expression,1,0
+23020,Fire Inspectors and Investigators,"Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management.",Information Ordering,2,0
+23020,Fire Inspectors and Investigators,"Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management.",Deductive Reasoning,2,0
+23020,Fire Inspectors and Investigators,"Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management.",Written Expression,2,0
+23020,Fire Inspectors and Investigators,"Develop and coordinate fire prevention programs, such as false alarm billing, fire inspection reporting, and hazardous materials management.",Oral Expression,1,0
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",Oral Expression,2,0
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",Oral Comprehension,2,0
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",Speech Clarity,1,0
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",Speech Recognition,1,0
+11102,Forest Fire Inspectors and Prevention Specialists,"Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.",Information Ordering,1,0
+21143,Forest Fire Inspectors and Prevention Specialists,Conduct wildland firefighting training.,Oral Expression,2,0
+21143,Forest Fire Inspectors and Prevention Specialists,Conduct wildland firefighting training.,Stamina,1,0
+21143,Forest Fire Inspectors and Prevention Specialists,Conduct wildland firefighting training.,Gross Body Coordination,1,0
+21143,Forest Fire Inspectors and Prevention Specialists,Conduct wildland firefighting training.,Information Ordering,1,0
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",Problem Sensitivity,2,0
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",Far Vision,2,0
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",Spatial Orientation,1,0
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",Oral Expression,2,0
+11104,Forest Fire Inspectors and Prevention Specialists,"Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.",Speech Clarity,1,0
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,Oral Expression,3,0
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,Problem Sensitivity,2,0
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,Deductive Reasoning,2,0
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,Stamina,1,0
+11103,Forest Fire Inspectors and Prevention Specialists,Direct crews working on firelines during forest fires.,Selective Attention,1,0
+11107,Forest Fire Inspectors and Prevention Specialists,"Locate forest fires on area maps, using azimuth sighters and known landmarks.",Spatial Orientation,3,0
+11107,Forest Fire Inspectors and Prevention Specialists,"Locate forest fires on area maps, using azimuth sighters and known landmarks.",Visualization,2,0
+11107,Forest Fire Inspectors and Prevention Specialists,"Locate forest fires on area maps, using azimuth sighters and known landmarks.",Near Vision,1,0
+11107,Forest Fire Inspectors and Prevention Specialists,"Locate forest fires on area maps, using azimuth sighters and known landmarks.",Far Vision,2,0
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",Dynamic Strength,2,0
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",Static Strength,1,0
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",Stamina,2,0
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",Gross Body Coordination,2,0
+11106,Forest Fire Inspectors and Prevention Specialists,"Extinguish smaller fires with portable extinguishers, shovels, and axes.",Multilimb Coordination,1,0
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",Far Vision,3,0
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",Peripheral Vision,1,0
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",Problem Sensitivity,2,0
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",Stamina,1,0
+11112,Forest Fire Inspectors and Prevention Specialists,"Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.",Selective Attention,2,0
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",Near Vision,1,0
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",Number Facility,1,0
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",Information Ordering,2,0
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",Written Expression,1,0
+11113,Forest Fire Inspectors and Prevention Specialists,"Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.",Perceptual Speed,1,0
+11109,Forest Fire Inspectors and Prevention Specialists,"Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.",Near Vision,2,0
+11109,Forest Fire Inspectors and Prevention Specialists,"Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.",Perceptual Speed,1,0
+11109,Forest Fire Inspectors and Prevention Specialists,"Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.",Information Ordering,1,0
+11109,Forest Fire Inspectors and Prevention Specialists,"Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.",Problem Sensitivity,1,0
+21144,Forest Fire Inspectors and Prevention Specialists,Educate the public about fire safety and prevention.,Oral Expression,3,0
+21144,Forest Fire Inspectors and Prevention Specialists,Educate the public about fire safety and prevention.,Fluency of Ideas,1,0
+21144,Forest Fire Inspectors and Prevention Specialists,Educate the public about fire safety and prevention.,Oral Comprehension,1,0
+11110,Forest Fire Inspectors and Prevention Specialists,"Direct maintenance and repair of firefighting equipment, or requisition new equipment.",Oral Expression,1,0
+11110,Forest Fire Inspectors and Prevention Specialists,"Direct maintenance and repair of firefighting equipment, or requisition new equipment.",Information Ordering,1,0
+11110,Forest Fire Inspectors and Prevention Specialists,"Direct maintenance and repair of firefighting equipment, or requisition new equipment.",Deductive Reasoning,1,1
+11110,Forest Fire Inspectors and Prevention Specialists,"Direct maintenance and repair of firefighting equipment, or requisition new equipment.",Written Expression,1,0
+11108,Forest Fire Inspectors and Prevention Specialists,Maintain records and logbooks.,Written Expression,2,0
+11108,Forest Fire Inspectors and Prevention Specialists,Maintain records and logbooks.,Information Ordering,2,0
+11108,Forest Fire Inspectors and Prevention Specialists,Maintain records and logbooks.,Memorization,1,0
+11105,Forest Fire Inspectors and Prevention Specialists,"Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.",Deductive Reasoning,2,0
+11105,Forest Fire Inspectors and Prevention Specialists,"Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.",Written Comprehension,2,0
+11105,Forest Fire Inspectors and Prevention Specialists,"Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.",Oral Expression,1,0
+11105,Forest Fire Inspectors and Prevention Specialists,"Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.",Information Ordering,1,0
+11111,Forest Fire Inspectors and Prevention Specialists,Restrict public access and recreational use of forest lands during critical fire seasons.,Oral Expression,2,0
+11111,Forest Fire Inspectors and Prevention Specialists,Restrict public access and recreational use of forest lands during critical fire seasons.,Deductive Reasoning,1,0
+11111,Forest Fire Inspectors and Prevention Specialists,Restrict public access and recreational use of forest lands during critical fire seasons.,Problem Sensitivity,1,0
+11111,Forest Fire Inspectors and Prevention Specialists,Restrict public access and recreational use of forest lands during critical fire seasons.,Oral Comprehension,1,0
+11114,Forest Fire Inspectors and Prevention Specialists,Inspect camp sites to ensure that campers are in compliance with forest use regulations.,Near Vision,2,0
+11114,Forest Fire Inspectors and Prevention Specialists,Inspect camp sites to ensure that campers are in compliance with forest use regulations.,Problem Sensitivity,2,0
+11114,Forest Fire Inspectors and Prevention Specialists,Inspect camp sites to ensure that campers are in compliance with forest use regulations.,Deductive Reasoning,1,0
+11114,Forest Fire Inspectors and Prevention Specialists,Inspect camp sites to ensure that campers are in compliance with forest use regulations.,Oral Expression,1,0
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",Far Vision,2,0
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",Problem Sensitivity,2,0
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",Deductive Reasoning,2,0
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",Stamina,1,0
+11115,Forest Fire Inspectors and Prevention Specialists,"Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.",Written Expression,1,0
+20123,Bailiffs,"Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband.",Near Vision,2,0
+20123,Bailiffs,"Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband.",Selective Attention,3,0
+20123,Bailiffs,"Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband.",Perceptual Speed,2,0
+20123,Bailiffs,"Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and other contraband.",Problem Sensitivity,1,0
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,Selective Attention,2,0
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,Gross Body Coordination,1,0
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,Static Strength,1,0
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,Reaction Time,1,0
+20127,Bailiffs,Escort prisoners to and from courthouse and maintain custody of prisoners during court proceedings.,Near Vision,1,0
+2091,Bailiffs,Maintain order in courtroom during trial and guard jury from outside contact.,Selective Attention,3,0
+2091,Bailiffs,Maintain order in courtroom during trial and guard jury from outside contact.,Problem Sensitivity,1,0
+2091,Bailiffs,Maintain order in courtroom during trial and guard jury from outside contact.,Oral Expression,1,0
+2091,Bailiffs,Maintain order in courtroom during trial and guard jury from outside contact.,Near Vision,1,0
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,Far Vision,2,0
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,Selective Attention,2,0
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,Stamina,1,0
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,Problem Sensitivity,1,0
+20124,Bailiffs,Provide security by patrolling interior and exterior of courthouse and escorting judges and other court employees.,Gross Body Coordination,1,0
+2092,Bailiffs,Guard lodging of sequestered jury.,Selective Attention,2,0
+2092,Bailiffs,Guard lodging of sequestered jury.,Stamina,1,0
+2092,Bailiffs,Guard lodging of sequestered jury.,Near Vision,1,0
+2092,Bailiffs,Guard lodging of sequestered jury.,Auditory Attention,1,0
+2094,Bailiffs,Enforce courtroom rules of behavior and warn persons not to smoke or disturb court procedure.,Oral Expression,2,0
+2094,Bailiffs,Enforce courtroom rules of behavior and warn persons not to smoke or disturb court procedure.,Selective Attention,2,0
+2094,Bailiffs,Enforce courtroom rules of behavior and warn persons not to smoke or disturb court procedure.,Problem Sensitivity,1,0
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,Static Strength,2,0
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,Gross Body Coordination,2,0
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,Reaction Time,2,0
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,Dynamic Strength,1,0
+21197,Bailiffs,Arrest persons in court when arrest warrants have been issued.,Multilimb Coordination,1,0
+2095,Bailiffs,Report need for police or medical assistance to sheriff's office.,Oral Expression,2,0
+2095,Bailiffs,Report need for police or medical assistance to sheriff's office.,Speech Clarity,1,0
+2095,Bailiffs,Report need for police or medical assistance to sheriff's office.,Problem Sensitivity,1,0
+20125,Bailiffs,"Check courtroom for security and cleanliness and assure availability of sundry supplies, such as notepads, for use by judge, jurors, and attorneys.",Near Vision,2,0
+20125,Bailiffs,"Check courtroom for security and cleanliness and assure availability of sundry supplies, such as notepads, for use by judge, jurors, and attorneys.",Problem Sensitivity,1,0
+20125,Bailiffs,"Check courtroom for security and cleanliness and assure availability of sundry supplies, such as notepads, for use by judge, jurors, and attorneys.",Information Ordering,1,0
+2098,Bailiffs,Stop people from entering courtroom while judge charges jury.,Selective Attention,2,0
+2098,Bailiffs,Stop people from entering courtroom while judge charges jury.,Oral Expression,1,0
+2098,Bailiffs,Stop people from entering courtroom while judge charges jury.,Static Strength,1,0
+2098,Bailiffs,Stop people from entering courtroom while judge charges jury.,Reaction Time,1,0
+20126,Bailiffs,"Screen, control, and handle evidence and exhibits during court proceedings.",Near Vision,1,0
+20126,Bailiffs,"Screen, control, and handle evidence and exhibits during court proceedings.",Information Ordering,2,0
+20126,Bailiffs,"Screen, control, and handle evidence and exhibits during court proceedings.",Manual Dexterity,1,0
+20126,Bailiffs,"Screen, control, and handle evidence and exhibits during court proceedings.",Memorization,1,0
+21198,Bailiffs,"Provide assistance to the public, such as directions to court offices.",Oral Expression,2,0
+21198,Bailiffs,"Provide assistance to the public, such as directions to court offices.",Oral Comprehension,1,0
+21198,Bailiffs,"Provide assistance to the public, such as directions to court offices.",Spatial Orientation,1,0
+2097,Bailiffs,Announce entrance of judge.,Oral Expression,2,0
+2097,Bailiffs,Announce entrance of judge.,Speech Clarity,2,0
+2097,Bailiffs,Announce entrance of judge.,Selective Attention,1,0
+20128,Bailiffs,Maintain court docket.,Information Ordering,2,0
+20128,Bailiffs,Maintain court docket.,Written Comprehension,1,0
+20128,Bailiffs,Maintain court docket.,Memorization,1,0
+2093,Bailiffs,Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public.,Selective Attention,2,0
+2093,Bailiffs,Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public.,Stamina,1,0
+2093,Bailiffs,Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public.,Gross Body Coordination,1,0
+2093,Bailiffs,Provide jury escort to restaurant and other areas outside of courtroom to prevent jury contact with public.,Near Vision,1,0
+15252,Correctional Officers and Jailers,Conduct head counts to ensure that each prisoner is present.,Near Vision,2,0
+15252,Correctional Officers and Jailers,Conduct head counts to ensure that each prisoner is present.,Selective Attention,2,0
+15252,Correctional Officers and Jailers,Conduct head counts to ensure that each prisoner is present.,Number Facility,2,0
+15252,Correctional Officers and Jailers,Conduct head counts to ensure that each prisoner is present.,Perceptual Speed,1,0
+15254,Correctional Officers and Jailers,"Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes.",Near Vision,2,0
+15254,Correctional Officers and Jailers,"Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes.",Problem Sensitivity,2,0
+15254,Correctional Officers and Jailers,"Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes.",Manual Dexterity,1,0
+15254,Correctional Officers and Jailers,"Inspect conditions of locks, window bars, grills, doors, and gates at correctional facilities to ensure security and help prevent escapes.",Selective Attention,1,0
+15253,Correctional Officers and Jailers,"Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence.",Selective Attention,3,0
+15253,Correctional Officers and Jailers,"Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence.",Problem Sensitivity,2,0
+15253,Correctional Officers and Jailers,"Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence.",Far Vision,1,0
+15253,Correctional Officers and Jailers,"Monitor conduct of prisoners in housing unit, or during work or recreational activities, according to established policies, regulations, and procedures, to prevent escape or violence.",Near Vision,1,0
+15256,Correctional Officers and Jailers,"Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs.",Near Vision,2,0
+15256,Correctional Officers and Jailers,"Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs.",Manual Dexterity,2,0
+15256,Correctional Officers and Jailers,"Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs.",Problem Sensitivity,2,0
+15256,Correctional Officers and Jailers,"Search prisoners and vehicles and conduct shakedowns of cells for valuables and contraband, such as weapons or drugs.",Selective Attention,2,0
+2102,Correctional Officers and Jailers,Guard facility entrances to screen visitors.,Near Vision,2,0
+2102,Correctional Officers and Jailers,Guard facility entrances to screen visitors.,Selective Attention,2,0
+2102,Correctional Officers and Jailers,Guard facility entrances to screen visitors.,Problem Sensitivity,1,0
+15255,Correctional Officers and Jailers,"Record information, such as prisoner identification, charges, and incidents of inmate disturbance, keeping daily logs of prisoner activities.",Written Expression,2,0
+15255,Correctional Officers and Jailers,"Record information, such as prisoner identification, charges, and incidents of inmate disturbance, keeping daily logs of prisoner activities.",Information Ordering,2,0
+15255,Correctional Officers and Jailers,"Record information, such as prisoner identification, charges, and incidents of inmate disturbance, keeping daily logs of prisoner activities.",Memorization,1,0
+2104,Correctional Officers and Jailers,Inspect mail for the presence of contraband.,Near Vision,2,0
+2104,Correctional Officers and Jailers,Inspect mail for the presence of contraband.,Selective Attention,2,0
+2104,Correctional Officers and Jailers,Inspect mail for the presence of contraband.,Problem Sensitivity,1,0
+2104,Correctional Officers and Jailers,Inspect mail for the presence of contraband.,Manual Dexterity,1,0
+2117,Correctional Officers and Jailers,Maintain records of prisoners' identification and charges.,Written Expression,1,0
+2117,Correctional Officers and Jailers,Maintain records of prisoners' identification and charges.,Information Ordering,2,0
+2117,Correctional Officers and Jailers,Maintain records of prisoners' identification and charges.,Memorization,1,0
+2107,Correctional Officers and Jailers,"Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners.",Static Strength,3,0
+2107,Correctional Officers and Jailers,"Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners.",Dynamic Strength,2,0
+2107,Correctional Officers and Jailers,"Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners.",Gross Body Coordination,2,0
+2107,Correctional Officers and Jailers,"Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners.",Reaction Time,2,0
+2107,Correctional Officers and Jailers,"Use weapons, handcuffs, and physical force to maintain discipline and order among prisoners.",Control Precision,1,0
+15261,Correctional Officers and Jailers,"Use nondisciplinary tools and equipment, such as a computer.",Finger Dexterity,2,0
+15261,Correctional Officers and Jailers,"Use nondisciplinary tools and equipment, such as a computer.",Near Vision,1,0
+15261,Correctional Officers and Jailers,"Use nondisciplinary tools and equipment, such as a computer.",Manual Dexterity,1,0
+2108,Correctional Officers and Jailers,"Conduct fire, safety, and sanitation inspections.",Near Vision,2,0
+2108,Correctional Officers and Jailers,"Conduct fire, safety, and sanitation inspections.",Problem Sensitivity,2,0
+2108,Correctional Officers and Jailers,"Conduct fire, safety, and sanitation inspections.",Deductive Reasoning,1,0
+2105,Correctional Officers and Jailers,"Take prisoners into custody and escort to locations within and outside of facility, such as visiting room, courtroom, or airport.",Gross Body Coordination,1,0
+2105,Correctional Officers and Jailers,"Take prisoners into custody and escort to locations within and outside of facility, such as visiting room, courtroom, or airport.",Selective Attention,2,0
+2105,Correctional Officers and Jailers,"Take prisoners into custody and escort to locations within and outside of facility, such as visiting room, courtroom, or airport.",Static Strength,1,0
+2105,Correctional Officers and Jailers,"Take prisoners into custody and escort to locations within and outside of facility, such as visiting room, courtroom, or airport.",Stamina,1,0
+15258,Correctional Officers and Jailers,Participate in required job training.,Oral Comprehension,2,0
+15258,Correctional Officers and Jailers,Participate in required job training.,Written Comprehension,1,0
+15258,Correctional Officers and Jailers,Participate in required job training.,Memorization,1,0
+15259,Correctional Officers and Jailers,"Serve meals, distribute commissary items, and dispense prescribed medication to prisoners.",Manual Dexterity,2,0
+15259,Correctional Officers and Jailers,"Serve meals, distribute commissary items, and dispense prescribed medication to prisoners.",Near Vision,1,0
+15259,Correctional Officers and Jailers,"Serve meals, distribute commissary items, and dispense prescribed medication to prisoners.",Information Ordering,1,0
+15259,Correctional Officers and Jailers,"Serve meals, distribute commissary items, and dispense prescribed medication to prisoners.",Number Facility,1,0
+2110,Correctional Officers and Jailers,Settle disputes between inmates.,Oral Expression,2,0
+2110,Correctional Officers and Jailers,Settle disputes between inmates.,Oral Comprehension,2,0
+2110,Correctional Officers and Jailers,Settle disputes between inmates.,Problem Sensitivity,2,0
+2110,Correctional Officers and Jailers,Settle disputes between inmates.,Deductive Reasoning,1,0
+2109,Correctional Officers and Jailers,"Provide to supervisors oral and written reports of the quality and quantity of work performed by inmates, inmate disturbances and rule violations, and unusual occurrences.",Written Expression,2,0
+2109,Correctional Officers and Jailers,"Provide to supervisors oral and written reports of the quality and quantity of work performed by inmates, inmate disturbances and rule violations, and unusual occurrences.",Oral Expression,2,0
+2109,Correctional Officers and Jailers,"Provide to supervisors oral and written reports of the quality and quantity of work performed by inmates, inmate disturbances and rule violations, and unusual occurrences.",Information Ordering,2,0
+2111,Correctional Officers and Jailers,"Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites.",Far Vision,2,0
+2111,Correctional Officers and Jailers,"Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites.",Reaction Time,2,0
+2111,Correctional Officers and Jailers,"Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites.",Depth Perception,1,0
+2111,Correctional Officers and Jailers,"Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites.",Multilimb Coordination,1,0
+2111,Correctional Officers and Jailers,"Drive passenger vehicles and trucks used to transport inmates to other institutions, courtrooms, hospitals, and work sites.",Control Precision,1,0
+15260,Correctional Officers and Jailers,"Counsel inmates and respond to legitimate questions, concerns, and requests.",Oral Expression,2,0
+15260,Correctional Officers and Jailers,"Counsel inmates and respond to legitimate questions, concerns, and requests.",Oral Comprehension,2,0
+15260,Correctional Officers and Jailers,"Counsel inmates and respond to legitimate questions, concerns, and requests.",Problem Sensitivity,1,0
+2113,Correctional Officers and Jailers,"Assign duties to inmates, providing instructions as needed.",Oral Expression,2,0
+2113,Correctional Officers and Jailers,"Assign duties to inmates, providing instructions as needed.",Information Ordering,1,0
+2113,Correctional Officers and Jailers,"Assign duties to inmates, providing instructions as needed.",Oral Comprehension,1,0
+2114,Correctional Officers and Jailers,"Issue clothing, tools, and other authorized items to inmates.",Near Vision,1,0
+2114,Correctional Officers and Jailers,"Issue clothing, tools, and other authorized items to inmates.",Manual Dexterity,1,0
+2114,Correctional Officers and Jailers,"Issue clothing, tools, and other authorized items to inmates.",Information Ordering,1,0
+2112,Correctional Officers and Jailers,"Arrange daily schedules for prisoners, including library visits, work assignments, family visits, and counseling appointments.",Information Ordering,2,0
+2112,Correctional Officers and Jailers,"Arrange daily schedules for prisoners, including library visits, work assignments, family visits, and counseling appointments.",Time Sharing,1,0
+2112,Correctional Officers and Jailers,"Arrange daily schedules for prisoners, including library visits, work assignments, family visits, and counseling appointments.",Written Expression,1,0
+2103,Correctional Officers and Jailers,Search for and recapture escapees.,Stamina,2,0
+2103,Correctional Officers and Jailers,Search for and recapture escapees.,Far Vision,1,0
+2103,Correctional Officers and Jailers,Search for and recapture escapees.,Problem Sensitivity,2,0
+2103,Correctional Officers and Jailers,Search for and recapture escapees.,Gross Body Coordination,1,0
+2103,Correctional Officers and Jailers,Search for and recapture escapees.,Reaction Time,1,0
+15257,Correctional Officers and Jailers,Process or book convicted individuals into prison.,Information Ordering,2,0
+15257,Correctional Officers and Jailers,Process or book convicted individuals into prison.,Written Expression,1,0
+15257,Correctional Officers and Jailers,Process or book convicted individuals into prison.,Near Vision,1,0
+15257,Correctional Officers and Jailers,Process or book convicted individuals into prison.,Oral Expression,1,0
+2118,Correctional Officers and Jailers,Supervise and coordinate work of other correctional service officers.,Oral Expression,2,0
+2118,Correctional Officers and Jailers,Supervise and coordinate work of other correctional service officers.,Information Ordering,2,0
+2118,Correctional Officers and Jailers,Supervise and coordinate work of other correctional service officers.,Deductive Reasoning,1,0
+23976,Correctional Officers and Jailers,"Take fingerprints of arrestees, prisoners, or the general public.",Finger Dexterity,3,0
+23976,Correctional Officers and Jailers,"Take fingerprints of arrestees, prisoners, or the general public.",Manual Dexterity,2,0
+23976,Correctional Officers and Jailers,"Take fingerprints of arrestees, prisoners, or the general public.",Near Vision,2,0
+23976,Correctional Officers and Jailers,"Take fingerprints of arrestees, prisoners, or the general public.",Control Precision,1,0
+2116,Correctional Officers and Jailers,"Investigate crimes that have occurred within an institution, or assist police in their investigations of crimes and inmates.",Deductive Reasoning,3,0
+2116,Correctional Officers and Jailers,"Investigate crimes that have occurred within an institution, or assist police in their investigations of crimes and inmates.",Problem Sensitivity,2,0
+2116,Correctional Officers and Jailers,"Investigate crimes that have occurred within an institution, or assist police in their investigations of crimes and inmates.",Oral Comprehension,2,0
+2116,Correctional Officers and Jailers,"Investigate crimes that have occurred within an institution, or assist police in their investigations of crimes and inmates.",Written Expression,1,0
+2119,Correctional Officers and Jailers,"Sponsor inmate recreational activities, such as newspapers and self-help groups.",Oral Expression,2,0
+2119,Correctional Officers and Jailers,"Sponsor inmate recreational activities, such as newspapers and self-help groups.",Information Ordering,1,0
+2119,Correctional Officers and Jailers,"Sponsor inmate recreational activities, such as newspapers and self-help groups.",Fluency of Ideas,1,0
+23021,Detectives and Criminal Investigators,"Check victims for signs of life, such as breathing and pulse.",Near Vision,2,0
+23021,Detectives and Criminal Investigators,"Check victims for signs of life, such as breathing and pulse.",Problem Sensitivity,2,0
+23021,Detectives and Criminal Investigators,"Check victims for signs of life, such as breathing and pulse.",Auditory Attention,1,0
+23021,Detectives and Criminal Investigators,"Check victims for signs of life, such as breathing and pulse.",Selective Attention,1,0
+23022,Detectives and Criminal Investigators,"Obtain facts or statements from complainants, witnesses, and accused persons and record interviews, using recording device.",Oral Comprehension,3,0
+23022,Detectives and Criminal Investigators,"Obtain facts or statements from complainants, witnesses, and accused persons and record interviews, using recording device.",Oral Expression,2,0
+23022,Detectives and Criminal Investigators,"Obtain facts or statements from complainants, witnesses, and accused persons and record interviews, using recording device.",Speech Recognition,2,0
+23022,Detectives and Criminal Investigators,"Obtain facts or statements from complainants, witnesses, and accused persons and record interviews, using recording device.",Memorization,1,0
+23023,Detectives and Criminal Investigators,"Secure deceased body and obtain evidence from it, preventing bystanders from tampering with it prior to medical examiner's arrival.",Problem Sensitivity,2,0
+23023,Detectives and Criminal Investigators,"Secure deceased body and obtain evidence from it, preventing bystanders from tampering with it prior to medical examiner's arrival.",Near Vision,1,0
+23023,Detectives and Criminal Investigators,"Secure deceased body and obtain evidence from it, preventing bystanders from tampering with it prior to medical examiner's arrival.",Selective Attention,2,0
+23023,Detectives and Criminal Investigators,"Secure deceased body and obtain evidence from it, preventing bystanders from tampering with it prior to medical examiner's arrival.",Manual Dexterity,1,0
+23024,Detectives and Criminal Investigators,"Record progress of investigation, maintain informational files on suspects, and submit reports to commanding officer or magistrate to authorize warrants.",Written Expression,2,0
+23024,Detectives and Criminal Investigators,"Record progress of investigation, maintain informational files on suspects, and submit reports to commanding officer or magistrate to authorize warrants.",Information Ordering,2,0
+23024,Detectives and Criminal Investigators,"Record progress of investigation, maintain informational files on suspects, and submit reports to commanding officer or magistrate to authorize warrants.",Memorization,1,0
+23029,Detectives and Criminal Investigators,Prepare reports that detail investigation findings.,Written Expression,3,0
+23029,Detectives and Criminal Investigators,Prepare reports that detail investigation findings.,Information Ordering,2,0
+23029,Detectives and Criminal Investigators,Prepare reports that detail investigation findings.,Written Comprehension,1,0
+23025,Detectives and Criminal Investigators,"Prepare charges or responses to charges, or information for court cases, according to formalized procedures.",Written Expression,2,0
+23025,Detectives and Criminal Investigators,"Prepare charges or responses to charges, or information for court cases, according to formalized procedures.",Deductive Reasoning,2,0
+23025,Detectives and Criminal Investigators,"Prepare charges or responses to charges, or information for court cases, according to formalized procedures.",Information Ordering,2,0
+23026,Detectives and Criminal Investigators,"Preserve, process, and analyze items of evidence obtained from crime scenes and suspects, placing them in proper containers and destroying evidence no longer needed.",Manual Dexterity,2,0
+23026,Detectives and Criminal Investigators,"Preserve, process, and analyze items of evidence obtained from crime scenes and suspects, placing them in proper containers and destroying evidence no longer needed.",Near Vision,2,0
+23026,Detectives and Criminal Investigators,"Preserve, process, and analyze items of evidence obtained from crime scenes and suspects, placing them in proper containers and destroying evidence no longer needed.",Problem Sensitivity,1,0
+23026,Detectives and Criminal Investigators,"Preserve, process, and analyze items of evidence obtained from crime scenes and suspects, placing them in proper containers and destroying evidence no longer needed.",Information Ordering,1,0
+23027,Detectives and Criminal Investigators,"Obtain summary of incident from officer in charge at crime scene, taking care to avoid disturbing evidence.",Oral Comprehension,2,0
+23027,Detectives and Criminal Investigators,"Obtain summary of incident from officer in charge at crime scene, taking care to avoid disturbing evidence.",Selective Attention,2,0
+23027,Detectives and Criminal Investigators,"Obtain summary of incident from officer in charge at crime scene, taking care to avoid disturbing evidence.",Memorization,1,0
+23028,Detectives and Criminal Investigators,"Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene.",Near Vision,2,0
+23028,Detectives and Criminal Investigators,"Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene.",Manual Dexterity,1,0
+23028,Detectives and Criminal Investigators,"Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene.",Visualization,1,0
+23028,Detectives and Criminal Investigators,"Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene.",Selective Attention,2,0
+23028,Detectives and Criminal Investigators,"Note, mark, and photograph location of objects found, such as footprints, tire tracks, bullets and bloodstains, and take measurements of the scene.",Information Ordering,1,0
+23030,Detectives and Criminal Investigators,Examine records and governmental agency files to find identifying data about suspects.,Near Vision,1,0
+23030,Detectives and Criminal Investigators,Examine records and governmental agency files to find identifying data about suspects.,Perceptual Speed,2,0
+23030,Detectives and Criminal Investigators,Examine records and governmental agency files to find identifying data about suspects.,Problem Sensitivity,2,0
+23030,Detectives and Criminal Investigators,Examine records and governmental agency files to find identifying data about suspects.,Written Comprehension,2,0
+23031,Detectives and Criminal Investigators,"Secure persons at scene, keeping witnesses from conversing or leaving the scene before investigators arrive.",Selective Attention,2,0
+23031,Detectives and Criminal Investigators,"Secure persons at scene, keeping witnesses from conversing or leaving the scene before investigators arrive.",Oral Expression,1,0
+23031,Detectives and Criminal Investigators,"Secure persons at scene, keeping witnesses from conversing or leaving the scene before investigators arrive.",Problem Sensitivity,1,0
+23032,Detectives and Criminal Investigators,Provide information to lab personnel concerning the source of an item of evidence and tests to be performed.,Oral Expression,2,0
+23032,Detectives and Criminal Investigators,Provide information to lab personnel concerning the source of an item of evidence and tests to be performed.,Written Comprehension,1,0
+23032,Detectives and Criminal Investigators,Provide information to lab personnel concerning the source of an item of evidence and tests to be performed.,Oral Comprehension,1,0
+23033,Detectives and Criminal Investigators,Analyze completed police reports to determine what additional information and investigative work is needed.,Deductive Reasoning,3,0
+23033,Detectives and Criminal Investigators,Analyze completed police reports to determine what additional information and investigative work is needed.,Written Comprehension,2,0
+23033,Detectives and Criminal Investigators,Analyze completed police reports to determine what additional information and investigative work is needed.,Problem Sensitivity,2,0
+23050,Detectives and Criminal Investigators,Examine records to locate links in chains of evidence or information.,Deductive Reasoning,2,0
+23050,Detectives and Criminal Investigators,Examine records to locate links in chains of evidence or information.,Inductive Reasoning,2,0
+23050,Detectives and Criminal Investigators,Examine records to locate links in chains of evidence or information.,Written Comprehension,2,0
+23050,Detectives and Criminal Investigators,Examine records to locate links in chains of evidence or information.,Perceptual Speed,1,0
+23045,Detectives and Criminal Investigators,"Search for and collect evidence, such as fingerprints, using investigative equipment.",Near Vision,2,0
+23045,Detectives and Criminal Investigators,"Search for and collect evidence, such as fingerprints, using investigative equipment.",Manual Dexterity,2,0
+23045,Detectives and Criminal Investigators,"Search for and collect evidence, such as fingerprints, using investigative equipment.",Selective Attention,2,0
+23045,Detectives and Criminal Investigators,"Search for and collect evidence, such as fingerprints, using investigative equipment.",Problem Sensitivity,1,0
+23035,Detectives and Criminal Investigators,Prepare and serve search and arrest warrants.,Written Expression,2,0
+23035,Detectives and Criminal Investigators,Prepare and serve search and arrest warrants.,Deductive Reasoning,1,0
+23035,Detectives and Criminal Investigators,Prepare and serve search and arrest warrants.,Oral Expression,1,0
+23036,Detectives and Criminal Investigators,Question individuals or observe persons and establishments to confirm information given to patrol officers.,Oral Comprehension,2,0
+23036,Detectives and Criminal Investigators,Question individuals or observe persons and establishments to confirm information given to patrol officers.,Oral Expression,2,0
+23036,Detectives and Criminal Investigators,Question individuals or observe persons and establishments to confirm information given to patrol officers.,Problem Sensitivity,2,0
+23036,Detectives and Criminal Investigators,Question individuals or observe persons and establishments to confirm information given to patrol officers.,Selective Attention,1,0
+23046,Detectives and Criminal Investigators,"Determine scope, timing, and direction of investigations.",Deductive Reasoning,3,0
+23046,Detectives and Criminal Investigators,"Determine scope, timing, and direction of investigations.",Problem Sensitivity,2,0
+23046,Detectives and Criminal Investigators,"Determine scope, timing, and direction of investigations.",Information Ordering,2,0
+23034,Detectives and Criminal Investigators,Obtain and verify evidence by interviewing and observing suspects and witnesses or by analyzing records.,Oral Comprehension,2,0
+23034,Detectives and Criminal Investigators,Obtain and verify evidence by interviewing and observing suspects and witnesses or by analyzing records.,Deductive Reasoning,2,0
+23034,Detectives and Criminal Investigators,Obtain and verify evidence by interviewing and observing suspects and witnesses or by analyzing records.,Problem Sensitivity,2,0
+23034,Detectives and Criminal Investigators,Obtain and verify evidence by interviewing and observing suspects and witnesses or by analyzing records.,Written Comprehension,1,0
+23038,Detectives and Criminal Investigators,Participate or assist in raids and arrests.,Gross Body Coordination,2,0
+23038,Detectives and Criminal Investigators,Participate or assist in raids and arrests.,Reaction Time,2,0
+23038,Detectives and Criminal Investigators,Participate or assist in raids and arrests.,Static Strength,2,0
+23038,Detectives and Criminal Investigators,Participate or assist in raids and arrests.,Dynamic Strength,1,0
+23038,Detectives and Criminal Investigators,Participate or assist in raids and arrests.,Stamina,1,0
+23039,Detectives and Criminal Investigators,"Organize scene search, assigning specific tasks and areas of search to individual officers and obtaining adequate lighting as necessary.",Information Ordering,2,0
+23039,Detectives and Criminal Investigators,"Organize scene search, assigning specific tasks and areas of search to individual officers and obtaining adequate lighting as necessary.",Oral Expression,1,0
+23039,Detectives and Criminal Investigators,"Organize scene search, assigning specific tasks and areas of search to individual officers and obtaining adequate lighting as necessary.",Deductive Reasoning,1,0
+23039,Detectives and Criminal Investigators,"Organize scene search, assigning specific tasks and areas of search to individual officers and obtaining adequate lighting as necessary.",Visualization,1,0
+23040,Detectives and Criminal Investigators,Summon medical help for injured individuals and alert medical personnel to take statements from them.,Oral Expression,2,0
+23040,Detectives and Criminal Investigators,Summon medical help for injured individuals and alert medical personnel to take statements from them.,Problem Sensitivity,1,0
+23040,Detectives and Criminal Investigators,Summon medical help for injured individuals and alert medical personnel to take statements from them.,Speech Clarity,1,0
+23041,Detectives and Criminal Investigators,Notify command of situation and request assistance.,Oral Expression,2,0
+23041,Detectives and Criminal Investigators,Notify command of situation and request assistance.,Speech Clarity,1,0
+23041,Detectives and Criminal Investigators,Notify command of situation and request assistance.,Problem Sensitivity,1,0
+23043,Detectives and Criminal Investigators,Block or rope off scene and check perimeter to ensure that entire scene is secured.,Near Vision,1,0
+23043,Detectives and Criminal Investigators,Block or rope off scene and check perimeter to ensure that entire scene is secured.,Manual Dexterity,1,0
+23043,Detectives and Criminal Investigators,Block or rope off scene and check perimeter to ensure that entire scene is secured.,Selective Attention,2,0
+23043,Detectives and Criminal Investigators,Block or rope off scene and check perimeter to ensure that entire scene is secured.,Gross Body Coordination,1,0
+23037,Detectives and Criminal Investigators,"Identify case issues and evidence needed, based on analysis of charges, complaints, or allegations of law violations.",Deductive Reasoning,3,0
+23037,Detectives and Criminal Investigators,"Identify case issues and evidence needed, based on analysis of charges, complaints, or allegations of law violations.",Written Comprehension,2,0
+23037,Detectives and Criminal Investigators,"Identify case issues and evidence needed, based on analysis of charges, complaints, or allegations of law violations.",Problem Sensitivity,2,0
+23044,Detectives and Criminal Investigators,"Notify, or request notification of, medical examiner or district attorney representative.",Oral Expression,2,0
+23044,Detectives and Criminal Investigators,"Notify, or request notification of, medical examiner or district attorney representative.",Written Expression,1,0
+23044,Detectives and Criminal Investigators,"Notify, or request notification of, medical examiner or district attorney representative.",Oral Comprehension,1,1
+23048,Detectives and Criminal Investigators,Collaborate with other offices and agencies to exchange information and coordinate activities.,Oral Expression,2,0
+23048,Detectives and Criminal Investigators,Collaborate with other offices and agencies to exchange information and coordinate activities.,Oral Comprehension,2,0
+23048,Detectives and Criminal Investigators,Collaborate with other offices and agencies to exchange information and coordinate activities.,Information Ordering,1,0
+23047,Detectives and Criminal Investigators,Maintain surveillance of establishments to obtain identifying information on suspects.,Selective Attention,3,0
+23047,Detectives and Criminal Investigators,Maintain surveillance of establishments to obtain identifying information on suspects.,Far Vision,2,0
+23047,Detectives and Criminal Investigators,Maintain surveillance of establishments to obtain identifying information on suspects.,Near Vision,1,0
+23047,Detectives and Criminal Investigators,Maintain surveillance of establishments to obtain identifying information on suspects.,Memorization,1,0
+23042,Detectives and Criminal Investigators,Testify before grand juries concerning criminal activity investigations.,Oral Expression,3,0
+23042,Detectives and Criminal Investigators,Testify before grand juries concerning criminal activity investigations.,Memorization,2,0
+23042,Detectives and Criminal Investigators,Testify before grand juries concerning criminal activity investigations.,Written Comprehension,1,0
+23049,Detectives and Criminal Investigators,"Perform undercover assignments and maintain surveillance, including monitoring authorized wiretaps.",Selective Attention,3,0
+23049,Detectives and Criminal Investigators,"Perform undercover assignments and maintain surveillance, including monitoring authorized wiretaps.",Auditory Attention,2,0
+23049,Detectives and Criminal Investigators,"Perform undercover assignments and maintain surveillance, including monitoring authorized wiretaps.",Oral Comprehension,2,0
+23049,Detectives and Criminal Investigators,"Perform undercover assignments and maintain surveillance, including monitoring authorized wiretaps.",Memorization,1,0
+2120,Police Identification and Records Officers,Photograph crime or accident scenes for evidence records.,Near Vision,2,0
+2120,Police Identification and Records Officers,Photograph crime or accident scenes for evidence records.,Manual Dexterity,1,0
+2120,Police Identification and Records Officers,Photograph crime or accident scenes for evidence records.,Visualization,1,0
+2120,Police Identification and Records Officers,Photograph crime or accident scenes for evidence records.,Depth Perception,1,0
+18708,Police Identification and Records Officers,Maintain records of evidence and write and review reports.,Written Expression,2,0
+18708,Police Identification and Records Officers,Maintain records of evidence and write and review reports.,Information Ordering,2,0
+18708,Police Identification and Records Officers,Maintain records of evidence and write and review reports.,Written Comprehension,1,0
+18709,Police Identification and Records Officers,"Submit evidence to supervisors, crime labs, or court officials for legal proceedings.",Information Ordering,1,0
+18709,Police Identification and Records Officers,"Submit evidence to supervisors, crime labs, or court officials for legal proceedings.",Oral Expression,1,0
+18709,Police Identification and Records Officers,"Submit evidence to supervisors, crime labs, or court officials for legal proceedings.",Manual Dexterity,1,0
+2121,Police Identification and Records Officers,Testify in court and present evidence.,Oral Expression,3,0
+2121,Police Identification and Records Officers,Testify in court and present evidence.,Memorization,1,0
+2121,Police Identification and Records Officers,Testify in court and present evidence.,Written Comprehension,1,0
+2123,Police Identification and Records Officers,"Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary.",Near Vision,3,0
+2123,Police Identification and Records Officers,"Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary.",Selective Attention,2,0
+2123,Police Identification and Records Officers,"Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary.",Visual Color Discrimination,1,0
+2123,Police Identification and Records Officers,"Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary.",Problem Sensitivity,1,0
+2122,Police Identification and Records Officers,"Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures.",Manual Dexterity,3,0
+2122,Police Identification and Records Officers,"Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures.",Arm-Hand Steadiness,2,0
+2122,Police Identification and Records Officers,"Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures.",Near Vision,2,0
+2122,Police Identification and Records Officers,"Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures.",Control Precision,1,0
+21036,Police Identification and Records Officers,"Analyze and process evidence at crime scenes, during autopsies, or in the laboratory, wearing protective equipment and using powders and chemicals.",Manual Dexterity,2,0
+21036,Police Identification and Records Officers,"Analyze and process evidence at crime scenes, during autopsies, or in the laboratory, wearing protective equipment and using powders and chemicals.",Near Vision,2,0
+21036,Police Identification and Records Officers,"Analyze and process evidence at crime scenes, during autopsies, or in the laboratory, wearing protective equipment and using powders and chemicals.",Problem Sensitivity,1,0
+21036,Police Identification and Records Officers,"Analyze and process evidence at crime scenes, during autopsies, or in the laboratory, wearing protective equipment and using powders and chemicals.",Selective Attention,1,0
+2125,Police Identification and Records Officers,"Package, store and retrieve evidence.",Manual Dexterity,1,0
+2125,Police Identification and Records Officers,"Package, store and retrieve evidence.",Information Ordering,2,0
+2125,Police Identification and Records Officers,"Package, store and retrieve evidence.",Near Vision,1,0
+2129,Police Identification and Records Officers,Process film and prints from crime or accident scenes.,Near Vision,2,0
+2129,Police Identification and Records Officers,Process film and prints from crime or accident scenes.,Manual Dexterity,1,0
+2129,Police Identification and Records Officers,Process film and prints from crime or accident scenes.,Visual Color Discrimination,1,0
+24007,Police Identification and Records Officers,Take fingerprints.,Finger Dexterity,3,0
+24007,Police Identification and Records Officers,Take fingerprints.,Manual Dexterity,2,0
+24007,Police Identification and Records Officers,Take fingerprints.,Near Vision,2,0
+2127,Police Identification and Records Officers,Perform emergency work during off-hours.,Stamina,1,1
+2127,Police Identification and Records Officers,Perform emergency work during off-hours.,Problem Sensitivity,1,1
+2127,Police Identification and Records Officers,Perform emergency work during off-hours.,Reaction Time,1,1
+18711,Police Identification and Records Officers,Serve as technical advisor and coordinate with other law enforcement workers or legal personnel to exchange information on crime scene collection activities.,Oral Expression,2,0
+18711,Police Identification and Records Officers,Serve as technical advisor and coordinate with other law enforcement workers or legal personnel to exchange information on crime scene collection activities.,Oral Comprehension,2,0
+18711,Police Identification and Records Officers,Serve as technical advisor and coordinate with other law enforcement workers or legal personnel to exchange information on crime scene collection activities.,Written Comprehension,1,0
+21037,Police Identification and Records Officers,"Create sketches and diagrams, by hand or computer software, to depict crime scenes.",Visualization,3,0
+21037,Police Identification and Records Officers,"Create sketches and diagrams, by hand or computer software, to depict crime scenes.",Spatial Orientation,2,0
+21037,Police Identification and Records Officers,"Create sketches and diagrams, by hand or computer software, to depict crime scenes.",Manual Dexterity,1,0
+21037,Police Identification and Records Officers,"Create sketches and diagrams, by hand or computer software, to depict crime scenes.",Near Vision,1,0
+18712,Police Identification and Records Officers,"Coordinate or conduct instructional classes or in-services, such as citizen police academy classes and crime scene training for other officers.",Oral Expression,3,0
+18712,Police Identification and Records Officers,"Coordinate or conduct instructional classes or in-services, such as citizen police academy classes and crime scene training for other officers.",Information Ordering,1,0
+18712,Police Identification and Records Officers,"Coordinate or conduct instructional classes or in-services, such as citizen police academy classes and crime scene training for other officers.",Oral Comprehension,1,0
+18710,Police Identification and Records Officers,"Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System.",Near Vision,2,0
+18710,Police Identification and Records Officers,"Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System.",Perceptual Speed,2,0
+18710,Police Identification and Records Officers,"Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System.",Flexibility of Closure,2,1
+18710,Police Identification and Records Officers,"Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System.",Information Ordering,1,0
+18713,Police Identification and Records Officers,"Interview survivors, witnesses, suspects, and other law enforcement personnel.",Oral Comprehension,3,0
+18713,Police Identification and Records Officers,"Interview survivors, witnesses, suspects, and other law enforcement personnel.",Oral Expression,2,0
+18713,Police Identification and Records Officers,"Interview survivors, witnesses, suspects, and other law enforcement personnel.",Speech Recognition,1,0
+18713,Police Identification and Records Officers,"Interview survivors, witnesses, suspects, and other law enforcement personnel.",Problem Sensitivity,1,0
+17555,Intelligence Analysts,Validate known intelligence with data from other sources.,Deductive Reasoning,2,0
+17555,Intelligence Analysts,Validate known intelligence with data from other sources.,Inductive Reasoning,2,0
+17555,Intelligence Analysts,Validate known intelligence with data from other sources.,Written Comprehension,2,0
+17555,Intelligence Analysts,Validate known intelligence with data from other sources.,Problem Sensitivity,1,0
+17549,Intelligence Analysts,"Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases.",Inductive Reasoning,3,0
+17549,Intelligence Analysts,"Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases.",Deductive Reasoning,2,0
+17549,Intelligence Analysts,"Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases.",Written Comprehension,2,0
+17549,Intelligence Analysts,"Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases.",Information Ordering,2,0

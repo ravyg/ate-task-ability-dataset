@@ -1,0 +1,491 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Manual Dexterity,3,0
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Finger Dexterity,2,0
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Arm-Hand Steadiness,2,0
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Near Vision,2,0
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Multilimb Coordination,2,0
+13803,Home Appliance Repairers,Assemble new or reconditioned appliances.,Control Precision,1,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Manual Dexterity,3,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Deductive Reasoning,2,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Problem Sensitivity,2,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Static Strength,1,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Near Vision,2,0
+11815,Industrial Machinery Mechanics,Repair or maintain the operating condition of industrial production or processing machinery or equipment.,Multilimb Coordination,2,0
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,Manual Dexterity,3,0
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,Finger Dexterity,2,0
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,Arm-Hand Steadiness,2,0
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,Static Strength,1,0
+11814,Industrial Machinery Mechanics,Repair or replace broken or malfunctioning components of machinery or equipment.,Near Vision,2,0
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",Manual Dexterity,2,0
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",Finger Dexterity,2,0
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",Arm-Hand Steadiness,1,0
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",Near Vision,1,0
+11820,Industrial Machinery Mechanics,"Clean, lubricate, or adjust parts, equipment, or machinery.",Control Precision,1,0
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,Manual Dexterity,3,0
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,Static Strength,2,0
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,Arm-Hand Steadiness,2,0
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,Multilimb Coordination,2,0
+11813,Industrial Machinery Mechanics,Disassemble machinery or equipment to remove parts and make repairs.,Near Vision,1,0
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",Manual Dexterity,3,0
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",Arm-Hand Steadiness,2,0
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",Multilimb Coordination,2,0
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",Control Precision,2,0
+11817,Industrial Machinery Mechanics,"Reassemble equipment after completion of inspections, testing, or repairs.",Near Vision,1,0
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",Near Vision,3,0
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",Problem Sensitivity,2,0
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",Visual Color Discrimination,1,0
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",Flexibility of Closure,1,0
+11816,Industrial Machinery Mechanics,"Examine parts for defects, such as breakage or excessive wear.",Selective Attention,1,0
+11822,Industrial Machinery Mechanics,Record repairs and maintenance performed.,Written Expression,2,0
+11822,Industrial Machinery Mechanics,Record repairs and maintenance performed.,Written Comprehension,1,0
+11822,Industrial Machinery Mechanics,Record repairs and maintenance performed.,Information Ordering,1,0
+11822,Industrial Machinery Mechanics,Record repairs and maintenance performed.,Near Vision,1,0
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,Control Precision,2,0
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,Near Vision,2,0
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,Reaction Time,1,0
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,Problem Sensitivity,2,0
+11819,Industrial Machinery Mechanics,Operate newly repaired machinery or equipment to verify the adequacy of repairs.,Multilimb Coordination,1,0
+11824,Industrial Machinery Mechanics,"Record parts or materials used and order or requisition new parts or materials, as necessary.",Written Expression,1,0
+11824,Industrial Machinery Mechanics,"Record parts or materials used and order or requisition new parts or materials, as necessary.",Number Facility,1,0
+11824,Industrial Machinery Mechanics,"Record parts or materials used and order or requisition new parts or materials, as necessary.",Information Ordering,2,0
+11824,Industrial Machinery Mechanics,"Record parts or materials used and order or requisition new parts or materials, as necessary.",Written Comprehension,1,0
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",Problem Sensitivity,3,0
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",Deductive Reasoning,2,0
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",Near Vision,2,0
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",Finger Dexterity,1,0
+11818,Industrial Machinery Mechanics,"Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.",Selective Attention,2,0
+11821,Industrial Machinery Mechanics,"Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems.",Deductive Reasoning,3,0
+11821,Industrial Machinery Mechanics,"Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems.",Problem Sensitivity,3,0
+11821,Industrial Machinery Mechanics,"Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems.",Information Ordering,1,0
+11821,Industrial Machinery Mechanics,"Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems.",Written Comprehension,1,0
+11823,Industrial Machinery Mechanics,Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery.,Visualization,3,0
+11823,Industrial Machinery Mechanics,Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery.,Written Comprehension,3,0
+11823,Industrial Machinery Mechanics,Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery.,Spatial Orientation,1,0
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",Arm-Hand Steadiness,3,0
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",Near Vision,3,0
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",Control Precision,2,0
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",Manual Dexterity,2,0
+11825,Industrial Machinery Mechanics,"Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment.",Glare Sensitivity,2,0
+11827,Industrial Machinery Mechanics,Enter codes and instructions to program computer-controlled machinery.,Finger Dexterity,2,0
+11827,Industrial Machinery Mechanics,Enter codes and instructions to program computer-controlled machinery.,Near Vision,1,0
+11827,Industrial Machinery Mechanics,Enter codes and instructions to program computer-controlled machinery.,Written Comprehension,1,0
+11827,Industrial Machinery Mechanics,Enter codes and instructions to program computer-controlled machinery.,Information Ordering,2,0
+11826,Industrial Machinery Mechanics,Demonstrate equipment functions and features to machine operators.,Oral Expression,3,0
+11826,Industrial Machinery Mechanics,Demonstrate equipment functions and features to machine operators.,Manual Dexterity,1,1
+11826,Industrial Machinery Mechanics,Demonstrate equipment functions and features to machine operators.,Near Vision,1,0
+23935,Industrial Machinery Mechanics,Assign schedules to work crews.,Information Ordering,2,0
+23935,Industrial Machinery Mechanics,Assign schedules to work crews.,Oral Expression,1,0
+23935,Industrial Machinery Mechanics,Assign schedules to work crews.,Time Sharing,1,0
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",Static Strength,3,0
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",Manual Dexterity,2,0
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",Multilimb Coordination,2,0
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",Dynamic Strength,2,0
+11833,"Maintenance Workers, Machinery","Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.",Control Precision,1,0
+11828,"Maintenance Workers, Machinery",Reassemble machines after the completion of repair or maintenance work.,Manual Dexterity,3,0
+11828,"Maintenance Workers, Machinery",Reassemble machines after the completion of repair or maintenance work.,Arm-Hand Steadiness,2,0
+11828,"Maintenance Workers, Machinery",Reassemble machines after the completion of repair or maintenance work.,Multilimb Coordination,2,0
+11828,"Maintenance Workers, Machinery",Reassemble machines after the completion of repair or maintenance work.,Static Strength,1,0
+11834,"Maintenance Workers, Machinery","Record production, repair, and machine maintenance information.",Written Expression,2,0
+11834,"Maintenance Workers, Machinery","Record production, repair, and machine maintenance information.",Information Ordering,1,0
+11834,"Maintenance Workers, Machinery","Record production, repair, and machine maintenance information.",Near Vision,1,0
+11831,"Maintenance Workers, Machinery","Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.",Manual Dexterity,2,0
+11831,"Maintenance Workers, Machinery","Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.",Finger Dexterity,1,0
+11831,"Maintenance Workers, Machinery","Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.",Near Vision,1,0
+11831,"Maintenance Workers, Machinery","Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.",Control Precision,1,0
+11832,"Maintenance Workers, Machinery","Install, replace, or change machine parts and attachments, according to production specifications.",Manual Dexterity,3,0
+11832,"Maintenance Workers, Machinery","Install, replace, or change machine parts and attachments, according to production specifications.",Static Strength,1,0
+11832,"Maintenance Workers, Machinery","Install, replace, or change machine parts and attachments, according to production specifications.",Arm-Hand Steadiness,2,0
+11832,"Maintenance Workers, Machinery","Install, replace, or change machine parts and attachments, according to production specifications.",Near Vision,1,0
+11836,"Maintenance Workers, Machinery","Set up and operate machines, and adjust controls to regulate operations.",Control Precision,3,0
+11836,"Maintenance Workers, Machinery","Set up and operate machines, and adjust controls to regulate operations.",Rate Control,2,0
+11836,"Maintenance Workers, Machinery","Set up and operate machines, and adjust controls to regulate operations.",Near Vision,2,0
+11836,"Maintenance Workers, Machinery","Set up and operate machines, and adjust controls to regulate operations.",Multilimb Coordination,1,0
+11837,"Maintenance Workers, Machinery","Collaborate with other workers to repair or move machines, machine parts, or equipment.",Static Strength,2,0
+11837,"Maintenance Workers, Machinery","Collaborate with other workers to repair or move machines, machine parts, or equipment.",Multilimb Coordination,2,0
+11837,"Maintenance Workers, Machinery","Collaborate with other workers to repair or move machines, machine parts, or equipment.",Oral Comprehension,1,0
+11837,"Maintenance Workers, Machinery","Collaborate with other workers to repair or move machines, machine parts, or equipment.",Gross Body Coordination,1,0
+11835,"Maintenance Workers, Machinery",Read work orders and specifications to determine machines and equipment requiring repair or maintenance.,Written Comprehension,3,0
+11835,"Maintenance Workers, Machinery",Read work orders and specifications to determine machines and equipment requiring repair or maintenance.,Information Ordering,1,0
+11835,"Maintenance Workers, Machinery",Read work orders and specifications to determine machines and equipment requiring repair or maintenance.,Near Vision,1,0
+11835,"Maintenance Workers, Machinery",Read work orders and specifications to determine machines and equipment requiring repair or maintenance.,Problem Sensitivity,1,0
+11830,"Maintenance Workers, Machinery","Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.",Near Vision,2,0
+11830,"Maintenance Workers, Machinery","Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.",Problem Sensitivity,2,0
+11830,"Maintenance Workers, Machinery","Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.",Oral Expression,1,0
+11830,"Maintenance Workers, Machinery","Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.",Finger Dexterity,1,0
+11829,"Maintenance Workers, Machinery",Start machines and observe mechanical operation to determine efficiency and to detect problems.,Problem Sensitivity,2,0
+11829,"Maintenance Workers, Machinery",Start machines and observe mechanical operation to determine efficiency and to detect problems.,Near Vision,1,0
+11829,"Maintenance Workers, Machinery",Start machines and observe mechanical operation to determine efficiency and to detect problems.,Auditory Attention,1,0
+11829,"Maintenance Workers, Machinery",Start machines and observe mechanical operation to determine efficiency and to detect problems.,Selective Attention,1,0
+11839,"Maintenance Workers, Machinery","Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.",Static Strength,3,0
+11839,"Maintenance Workers, Machinery","Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.",Dynamic Strength,1,0
+11839,"Maintenance Workers, Machinery","Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.",Gross Body Coordination,1,0
+11839,"Maintenance Workers, Machinery","Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.",Control Precision,1,0
+11840,"Maintenance Workers, Machinery",Collect and discard worn machine parts and other refuse to maintain machinery and work areas.,Static Strength,2,0
+11840,"Maintenance Workers, Machinery",Collect and discard worn machine parts and other refuse to maintain machinery and work areas.,Manual Dexterity,1,0
+11840,"Maintenance Workers, Machinery",Collect and discard worn machine parts and other refuse to maintain machinery and work areas.,Trunk Strength,1,0
+11838,"Maintenance Workers, Machinery","Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished.",Number Facility,1,0
+11838,"Maintenance Workers, Machinery","Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished.",Information Ordering,2,0
+11838,"Maintenance Workers, Machinery","Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished.",Near Vision,1,0
+11843,"Maintenance Workers, Machinery","Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.",Static Strength,3,0
+11843,"Maintenance Workers, Machinery","Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.",Dynamic Strength,3,0
+11843,"Maintenance Workers, Machinery","Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.",Arm-Hand Steadiness,1,0
+11843,"Maintenance Workers, Machinery","Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.",Stamina,2,0
+11845,"Maintenance Workers, Machinery","Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes.",Manual Dexterity,2,0
+11845,"Maintenance Workers, Machinery","Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes.",Static Strength,1,0
+11845,"Maintenance Workers, Machinery","Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes.",Near Vision,1,0
+11841,"Maintenance Workers, Machinery","Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",Manual Dexterity,1,0
+11841,"Maintenance Workers, Machinery","Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",Static Strength,1,0
+11841,"Maintenance Workers, Machinery","Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",Near Vision,1,0
+11841,"Maintenance Workers, Machinery","Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",Stamina,1,0
+11842,"Maintenance Workers, Machinery","Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.",Manual Dexterity,2,0
+11842,"Maintenance Workers, Machinery","Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.",Finger Dexterity,2,0
+11842,"Maintenance Workers, Machinery","Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.",Arm-Hand Steadiness,2,0
+11842,"Maintenance Workers, Machinery","Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.",Near Vision,1,0
+11844,"Maintenance Workers, Machinery","Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.",Number Facility,2,0
+11844,"Maintenance Workers, Machinery","Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.",Visual Color Discrimination,1,0
+11844,"Maintenance Workers, Machinery","Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.",Near Vision,1,0
+11844,"Maintenance Workers, Machinery","Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.",Finger Dexterity,1,0
+3041,Millwrights,"Replace defective parts of machine, or adjust clearances and alignment of moving parts.",Control Precision,3,0
+3041,Millwrights,"Replace defective parts of machine, or adjust clearances and alignment of moving parts.",Manual Dexterity,2,0
+3041,Millwrights,"Replace defective parts of machine, or adjust clearances and alignment of moving parts.",Near Vision,2,0
+3041,Millwrights,"Replace defective parts of machine, or adjust clearances and alignment of moving parts.",Arm-Hand Steadiness,2,0
+21083,Millwrights,"Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs.",Control Precision,3,0
+21083,Millwrights,"Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs.",Near Vision,2,0
+21083,Millwrights,"Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs.",Spatial Orientation,2,0
+21083,Millwrights,"Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs.",Arm-Hand Steadiness,2,0
+3048,Millwrights,"Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts.",Control Precision,3,0
+3048,Millwrights,"Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts.",Finger Dexterity,2,0
+3048,Millwrights,"Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts.",Near Vision,2,0
+3048,Millwrights,"Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts.",Arm-Hand Steadiness,2,0
+3047,Millwrights,"Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline.",Depth Perception,3,0
+3047,Millwrights,"Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline.",Spatial Orientation,2,0
+3047,Millwrights,"Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline.",Near Vision,1,0
+3047,Millwrights,"Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline.",Response Orientation,2,1
+18785,Millwrights,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",Manual Dexterity,2,0
+18785,Millwrights,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",Finger Dexterity,1,0
+18785,Millwrights,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",Near Vision,1,0
+18785,Millwrights,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",Problem Sensitivity,1,0
+3045,Millwrights,"Assemble and install equipment, using hand tools and power tools.",Manual Dexterity,3,0
+3045,Millwrights,"Assemble and install equipment, using hand tools and power tools.",Static Strength,1,0
+3045,Millwrights,"Assemble and install equipment, using hand tools and power tools.",Multilimb Coordination,2,0
+3045,Millwrights,"Assemble and install equipment, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+3051,Millwrights,"Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools.",Manual Dexterity,2,0
+3051,Millwrights,"Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools.",Static Strength,2,0
+3051,Millwrights,"Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+3051,Millwrights,"Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools.",Near Vision,1,0
+3049,Millwrights,"Move machinery and equipment, using hoists, dollies, rollers, and trucks.",Static Strength,3,0
+3049,Millwrights,"Move machinery and equipment, using hoists, dollies, rollers, and trucks.",Gross Body Coordination,1,0
+3049,Millwrights,"Move machinery and equipment, using hoists, dollies, rollers, and trucks.",Multilimb Coordination,1,0
+3054,Millwrights,"Level bedplate and establish centerline, using straightedge, levels, and transit.",Near Vision,2,0
+3054,Millwrights,"Level bedplate and establish centerline, using straightedge, levels, and transit.",Spatial Orientation,2,0
+3054,Millwrights,"Level bedplate and establish centerline, using straightedge, levels, and transit.",Control Precision,1,0
+3054,Millwrights,"Level bedplate and establish centerline, using straightedge, levels, and transit.",Arm-Hand Steadiness,1,0
+3055,Millwrights,"Dismantle machines, using hammers, wrenches, crowbars, and other hand tools.",Static Strength,3,0
+3055,Millwrights,"Dismantle machines, using hammers, wrenches, crowbars, and other hand tools.",Dynamic Strength,2,0
+3055,Millwrights,"Dismantle machines, using hammers, wrenches, crowbars, and other hand tools.",Manual Dexterity,2,0
+3053,Millwrights,"Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit.",Manual Dexterity,2,0
+3053,Millwrights,"Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit.",Static Strength,2,0
+3053,Millwrights,"Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit.",Arm-Hand Steadiness,1,0
+3052,Millwrights,"Lay out mounting holes, using measuring instruments, and drill holes with power drill.",Near Vision,2,0
+3052,Millwrights,"Lay out mounting holes, using measuring instruments, and drill holes with power drill.",Control Precision,2,0
+3052,Millwrights,"Lay out mounting holes, using measuring instruments, and drill holes with power drill.",Arm-Hand Steadiness,2,0
+3052,Millwrights,"Lay out mounting holes, using measuring instruments, and drill holes with power drill.",Finger Dexterity,1,0
+3050,Millwrights,"Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools.",Manual Dexterity,3,0
+3050,Millwrights,"Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+3050,Millwrights,"Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools.",Multilimb Coordination,2,0
+18786,Millwrights,"Weld, repair, and fabricate equipment or machinery.",Arm-Hand Steadiness,3,0
+18786,Millwrights,"Weld, repair, and fabricate equipment or machinery.",Near Vision,3,0
+18786,Millwrights,"Weld, repair, and fabricate equipment or machinery.",Control Precision,2,0
+18786,Millwrights,"Weld, repair, and fabricate equipment or machinery.",Manual Dexterity,2,0
+3056,Millwrights,"Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment.",Manual Dexterity,2,0
+3056,Millwrights,"Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment.",Near Vision,1,0
+3056,Millwrights,"Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment.",Control Precision,1,0
+3056,Millwrights,"Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment.",Static Strength,1,0
+18788,Millwrights,"Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",Deductive Reasoning,3,0
+18788,Millwrights,"Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",Problem Sensitivity,3,0
+18788,Millwrights,"Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",Near Vision,1,0
+3057,Millwrights,"Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team.",Static Strength,2,0
+3057,Millwrights,"Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team.",Manual Dexterity,2,0
+3057,Millwrights,"Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team.",Multilimb Coordination,1,0
+3057,Millwrights,"Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team.",Oral Comprehension,1,0
+3043,Millwrights,"Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation.",Manual Dexterity,2,0
+3043,Millwrights,"Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation.",Near Vision,1,0
+3043,Millwrights,"Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation.",Problem Sensitivity,1,0
+3043,Millwrights,"Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation.",Arm-Hand Steadiness,1,0
+3046,Millwrights,"Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures.",Static Strength,3,0
+3046,Millwrights,"Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures.",Visualization,2,0
+3046,Millwrights,"Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures.",Spatial Orientation,2,0
+3046,Millwrights,"Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures.",Multilimb Coordination,1,0
+18787,Millwrights,"Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment.",Arm-Hand Steadiness,3,0
+18787,Millwrights,"Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment.",Near Vision,2,0
+18787,Millwrights,"Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment.",Control Precision,2,0
+18787,Millwrights,"Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment.",Glare Sensitivity,1,0
+3058,Millwrights,"Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel.",Static Strength,3,0
+3058,Millwrights,"Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel.",Dynamic Strength,2,0
+3058,Millwrights,"Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel.",Trunk Strength,1,0
+3058,Millwrights,"Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel.",Manual Dexterity,1,0
+3060,Millwrights,"Operate engine lathe to grind, file, and turn machine parts to dimensional specifications.",Control Precision,3,0
+3060,Millwrights,"Operate engine lathe to grind, file, and turn machine parts to dimensional specifications.",Near Vision,2,0
+3060,Millwrights,"Operate engine lathe to grind, file, and turn machine parts to dimensional specifications.",Manual Dexterity,2,0
+3060,Millwrights,"Operate engine lathe to grind, file, and turn machine parts to dimensional specifications.",Rate Control,1,0
+3059,Millwrights,"Install robot and modify its program, using teach pendant.",Finger Dexterity,2,0
+3059,Millwrights,"Install robot and modify its program, using teach pendant.",Near Vision,1,0
+3059,Millwrights,"Install robot and modify its program, using teach pendant.",Problem Sensitivity,1,1
+3059,Millwrights,"Install robot and modify its program, using teach pendant.",Manual Dexterity,1,0
+13819,"Refractory Materials Repairers, Except Brickmasons","Reline or repair ladles and pouring spouts with refractory clay, using trowels.",Manual Dexterity,2,0
+13819,"Refractory Materials Repairers, Except Brickmasons","Reline or repair ladles and pouring spouts with refractory clay, using trowels.",Arm-Hand Steadiness,2,0
+13819,"Refractory Materials Repairers, Except Brickmasons","Reline or repair ladles and pouring spouts with refractory clay, using trowels.",Static Strength,1,0
+13819,"Refractory Materials Repairers, Except Brickmasons","Reline or repair ladles and pouring spouts with refractory clay, using trowels.",Near Vision,1,0
+13820,"Refractory Materials Repairers, Except Brickmasons","Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.",Dynamic Strength,3,0
+13820,"Refractory Materials Repairers, Except Brickmasons","Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.",Static Strength,2,0
+13820,"Refractory Materials Repairers, Except Brickmasons","Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.",Arm-Hand Steadiness,1,0
+13820,"Refractory Materials Repairers, Except Brickmasons","Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.",Near Vision,1,0
+13821,"Refractory Materials Repairers, Except Brickmasons","Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.",Static Strength,2,0
+13821,"Refractory Materials Repairers, Except Brickmasons","Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.",Number Facility,1,0
+13821,"Refractory Materials Repairers, Except Brickmasons","Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.",Manual Dexterity,1,0
+13822,"Refractory Materials Repairers, Except Brickmasons","Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.",Near Vision,2,0
+13822,"Refractory Materials Repairers, Except Brickmasons","Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.",Number Facility,1,0
+13822,"Refractory Materials Repairers, Except Brickmasons","Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.",Manual Dexterity,2,0
+13822,"Refractory Materials Repairers, Except Brickmasons","Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.",Static Strength,1,0
+13824,"Refractory Materials Repairers, Except Brickmasons","Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.",Manual Dexterity,1,0
+13824,"Refractory Materials Repairers, Except Brickmasons","Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.",Static Strength,1,0
+13824,"Refractory Materials Repairers, Except Brickmasons","Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.",Near Vision,1,0
+13825,"Refractory Materials Repairers, Except Brickmasons","Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.",Static Strength,2,0
+13825,"Refractory Materials Repairers, Except Brickmasons","Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.",Dynamic Strength,2,0
+13825,"Refractory Materials Repairers, Except Brickmasons","Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.",Manual Dexterity,1,0
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",Gross Body Equilibrium,3,0
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",Static Strength,2,0
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",Gross Body Coordination,2,0
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",Extent Flexibility,1,0
+13827,"Refractory Materials Repairers, Except Brickmasons","Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.",Arm-Hand Steadiness,1,0
+13829,"Refractory Materials Repairers, Except Brickmasons","Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.",Manual Dexterity,2,0
+13829,"Refractory Materials Repairers, Except Brickmasons","Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.",Arm-Hand Steadiness,1,0
+13829,"Refractory Materials Repairers, Except Brickmasons","Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.",Near Vision,1,0
+13830,"Refractory Materials Repairers, Except Brickmasons","Dump and tamp clay in molds, using tamping tools.",Static Strength,2,0
+13830,"Refractory Materials Repairers, Except Brickmasons","Dump and tamp clay in molds, using tamping tools.",Dynamic Strength,2,0
+13830,"Refractory Materials Repairers, Except Brickmasons","Dump and tamp clay in molds, using tamping tools.",Manual Dexterity,1,0
+13832,"Refractory Materials Repairers, Except Brickmasons","Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.",Control Precision,2,0
+13832,"Refractory Materials Repairers, Except Brickmasons","Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.",Depth Perception,2,0
+13832,"Refractory Materials Repairers, Except Brickmasons","Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.",Multilimb Coordination,1,0
+8412,Electrical Power-Line Installers and Repairers,"Adhere to safety practices and procedures, such as checking equipment regularly and erecting barriers around work areas.",Near Vision,1,0
+8412,Electrical Power-Line Installers and Repairers,"Adhere to safety practices and procedures, such as checking equipment regularly and erecting barriers around work areas.",Selective Attention,2,0
+8412,Electrical Power-Line Installers and Repairers,"Adhere to safety practices and procedures, such as checking equipment regularly and erecting barriers around work areas.",Static Strength,1,0
+8418,Electrical Power-Line Installers and Repairers,Drive vehicles equipped with tools and materials to job sites.,Far Vision,2,0
+8418,Electrical Power-Line Installers and Repairers,Drive vehicles equipped with tools and materials to job sites.,Reaction Time,1,0
+8418,Electrical Power-Line Installers and Repairers,Drive vehicles equipped with tools and materials to job sites.,Control Precision,1,0
+8418,Electrical Power-Line Installers and Repairers,Drive vehicles equipped with tools and materials to job sites.,Depth Perception,1,0
+8413,Electrical Power-Line Installers and Repairers,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,Manual Dexterity,2,0
+8413,Electrical Power-Line Installers and Repairers,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,Near Vision,1,0
+8413,Electrical Power-Line Installers and Repairers,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,Problem Sensitivity,2,0
+8413,Electrical Power-Line Installers and Repairers,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,Arm-Hand Steadiness,1,0
+8414,Electrical Power-Line Installers and Repairers,Climb poles or use truck-mounted buckets to access equipment.,Gross Body Equilibrium,3,0
+8414,Electrical Power-Line Installers and Repairers,Climb poles or use truck-mounted buckets to access equipment.,Gross Body Coordination,3,0
+8414,Electrical Power-Line Installers and Repairers,Climb poles or use truck-mounted buckets to access equipment.,Static Strength,1,0
+8414,Electrical Power-Line Installers and Repairers,Climb poles or use truck-mounted buckets to access equipment.,Extent Flexibility,1,0
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",Manual Dexterity,2,0
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",Arm-Hand Steadiness,2,0
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",Near Vision,2,0
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",Deductive Reasoning,1,0
+8416,Electrical Power-Line Installers and Repairers,"Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches.",Static Strength,1,0
+8420,Electrical Power-Line Installers and Repairers,"Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments.",Problem Sensitivity,3,0
+8420,Electrical Power-Line Installers and Repairers,"Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments.",Near Vision,2,0
+8420,Electrical Power-Line Installers and Repairers,"Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments.",Far Vision,1,0
+8420,Electrical Power-Line Installers and Repairers,"Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments.",Deductive Reasoning,2,0
+8419,Electrical Power-Line Installers and Repairers,Coordinate work assignment preparation and completion with other workers.,Oral Expression,2,0
+8419,Electrical Power-Line Installers and Repairers,Coordinate work assignment preparation and completion with other workers.,Oral Comprehension,2,0
+8419,Electrical Power-Line Installers and Repairers,Coordinate work assignment preparation and completion with other workers.,Information Ordering,1,0
+8423,Electrical Power-Line Installers and Repairers,Replace or straighten damaged poles.,Static Strength,3,0
+8423,Electrical Power-Line Installers and Repairers,Replace or straighten damaged poles.,Dynamic Strength,2,0
+8423,Electrical Power-Line Installers and Repairers,Replace or straighten damaged poles.,Gross Body Coordination,1,0
+8421,Electrical Power-Line Installers and Repairers,"String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension.",Static Strength,2,0
+8421,Electrical Power-Line Installers and Repairers,"String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension.",Manual Dexterity,2,0
+8421,Electrical Power-Line Installers and Repairers,"String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension.",Gross Body Coordination,2,0
+8421,Electrical Power-Line Installers and Repairers,"String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension.",Rate Control,1,0
+8425,Electrical Power-Line Installers and Repairers,"Attach cross-arms, insulators, and auxiliary equipment to poles prior to installing them.",Manual Dexterity,2,0
+8425,Electrical Power-Line Installers and Repairers,"Attach cross-arms, insulators, and auxiliary equipment to poles prior to installing them.",Static Strength,2,0
+8425,Electrical Power-Line Installers and Repairers,"Attach cross-arms, insulators, and auxiliary equipment to poles prior to installing them.",Arm-Hand Steadiness,1,0
+8427,Electrical Power-Line Installers and Repairers,"Dig holes, using augers, and set poles, using cranes and power equipment.",Static Strength,3,0
+8427,Electrical Power-Line Installers and Repairers,"Dig holes, using augers, and set poles, using cranes and power equipment.",Dynamic Strength,2,0
+8427,Electrical Power-Line Installers and Repairers,"Dig holes, using augers, and set poles, using cranes and power equipment.",Multilimb Coordination,1,0
+8427,Electrical Power-Line Installers and Repairers,"Dig holes, using augers, and set poles, using cranes and power equipment.",Control Precision,1,0
+8426,Electrical Power-Line Installers and Repairers,"Travel in trucks, helicopters, and airplanes to inspect lines for freedom from obstruction and adequacy of insulation.",Far Vision,3,0
+8426,Electrical Power-Line Installers and Repairers,"Travel in trucks, helicopters, and airplanes to inspect lines for freedom from obstruction and adequacy of insulation.",Depth Perception,1,0
+8426,Electrical Power-Line Installers and Repairers,"Travel in trucks, helicopters, and airplanes to inspect lines for freedom from obstruction and adequacy of insulation.",Selective Attention,1,0
+8417,Electrical Power-Line Installers and Repairers,"Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments.",Problem Sensitivity,3,0
+8417,Electrical Power-Line Installers and Repairers,"Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments.",Deductive Reasoning,2,0
+8417,Electrical Power-Line Installers and Repairers,"Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments.",Near Vision,2,0
+8417,Electrical Power-Line Installers and Repairers,"Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments.",Written Comprehension,1,0
+8424,Electrical Power-Line Installers and Repairers,Install watt-hour meters and connect service drops between power lines and consumers' facilities.,Manual Dexterity,2,0
+8424,Electrical Power-Line Installers and Repairers,Install watt-hour meters and connect service drops between power lines and consumers' facilities.,Arm-Hand Steadiness,2,0
+8424,Electrical Power-Line Installers and Repairers,Install watt-hour meters and connect service drops between power lines and consumers' facilities.,Near Vision,1,0
+8424,Electrical Power-Line Installers and Repairers,Install watt-hour meters and connect service drops between power lines and consumers' facilities.,Static Strength,1,0
+8422,Electrical Power-Line Installers and Repairers,"Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections.",Near Vision,2,0
+8422,Electrical Power-Line Installers and Repairers,"Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections.",Visual Color Discrimination,2,0
+8422,Electrical Power-Line Installers and Repairers,"Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections.",Problem Sensitivity,1,0
+8422,Electrical Power-Line Installers and Repairers,"Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections.",Written Comprehension,1,0
+8415,Electrical Power-Line Installers and Repairers,Place insulating or fireproofing materials over conductors and joints.,Manual Dexterity,2,0
+8415,Electrical Power-Line Installers and Repairers,Place insulating or fireproofing materials over conductors and joints.,Finger Dexterity,1,0
+8415,Electrical Power-Line Installers and Repairers,Place insulating or fireproofing materials over conductors and joints.,Near Vision,1,0
+8429,Electrical Power-Line Installers and Repairers,"Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment.",Finger Dexterity,3,0
+8429,Electrical Power-Line Installers and Repairers,"Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment.",Arm-Hand Steadiness,3,0
+8429,Electrical Power-Line Installers and Repairers,"Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment.",Near Vision,2,0
+8429,Electrical Power-Line Installers and Repairers,"Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment.",Manual Dexterity,2,0
+8428,Electrical Power-Line Installers and Repairers,Trim trees that could be hazardous to the functioning of cables or wires.,Static Strength,2,0
+8428,Electrical Power-Line Installers and Repairers,Trim trees that could be hazardous to the functioning of cables or wires.,Gross Body Coordination,2,0
+8428,Electrical Power-Line Installers and Repairers,Trim trees that could be hazardous to the functioning of cables or wires.,Extent Flexibility,1,0
+8428,Electrical Power-Line Installers and Repairers,Trim trees that could be hazardous to the functioning of cables or wires.,Near Vision,1,0
+8432,Electrical Power-Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Static Strength,3,0
+8432,Electrical Power-Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Dynamic Strength,2,0
+8432,Electrical Power-Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Trunk Strength,2,0
+8433,Electrical Power-Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduit running through the trenches.",Static Strength,2,0
+8433,Electrical Power-Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduit running through the trenches.",Trunk Strength,2,0
+8433,Electrical Power-Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduit running through the trenches.",Manual Dexterity,1,0
+8434,Electrical Power-Line Installers and Repairers,"Cut trenches for laying underground cables, using trenchers and cable plows.",Control Precision,2,0
+8434,Electrical Power-Line Installers and Repairers,"Cut trenches for laying underground cables, using trenchers and cable plows.",Static Strength,1,0
+8434,Electrical Power-Line Installers and Repairers,"Cut trenches for laying underground cables, using trenchers and cable plows.",Multilimb Coordination,1,0
+8430,Electrical Power-Line Installers and Repairers,Cut and peel lead sheathing and insulation from defective or newly installed cables and conduits prior to splicing.,Manual Dexterity,2,0
+8430,Electrical Power-Line Installers and Repairers,Cut and peel lead sheathing and insulation from defective or newly installed cables and conduits prior to splicing.,Finger Dexterity,2,0
+8430,Electrical Power-Line Installers and Repairers,Cut and peel lead sheathing and insulation from defective or newly installed cables and conduits prior to splicing.,Arm-Hand Steadiness,2,0
+8431,Electrical Power-Line Installers and Repairers,"Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections.",Finger Dexterity,3,0
+8431,Electrical Power-Line Installers and Repairers,"Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections.",Arm-Hand Steadiness,2,0
+8431,Electrical Power-Line Installers and Repairers,"Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections.",Near Vision,2,0
+8431,Electrical Power-Line Installers and Repairers,"Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections.",Manual Dexterity,2,0
+11850,Telecommunications Line Installers and Repairers,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",Manual Dexterity,2,0
+11850,Telecommunications Line Installers and Repairers,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",Near Vision,1,0
+11850,Telecommunications Line Installers and Repairers,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",Problem Sensitivity,1,0
+11850,Telecommunications Line Installers and Repairers,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",Oral Expression,1,0
+11846,Telecommunications Line Installers and Repairers,"Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories.",Manual Dexterity,2,0
+11846,Telecommunications Line Installers and Repairers,"Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories.",Near Vision,2,0
+11846,Telecommunications Line Installers and Repairers,"Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories.",Finger Dexterity,1,0
+11849,Telecommunications Line Installers and Repairers,"Measure signal strength at utility poles, using electronic test equipment.",Near Vision,2,0
+11849,Telecommunications Line Installers and Repairers,"Measure signal strength at utility poles, using electronic test equipment.",Number Facility,1,0
+11849,Telecommunications Line Installers and Repairers,"Measure signal strength at utility poles, using electronic test equipment.",Perceptual Speed,1,0
+11847,Telecommunications Line Installers and Repairers,"Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.",Problem Sensitivity,3,0
+11847,Telecommunications Line Installers and Repairers,"Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.",Near Vision,2,0
+11847,Telecommunications Line Installers and Repairers,"Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.",Deductive Reasoning,2,0
+11847,Telecommunications Line Installers and Repairers,"Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.",Written Expression,1,0
+11848,Telecommunications Line Installers and Repairers,"Splice cables, using hand tools, epoxy, or mechanical equipment.",Finger Dexterity,3,0
+11848,Telecommunications Line Installers and Repairers,"Splice cables, using hand tools, epoxy, or mechanical equipment.",Arm-Hand Steadiness,2,0
+11848,Telecommunications Line Installers and Repairers,"Splice cables, using hand tools, epoxy, or mechanical equipment.",Manual Dexterity,2,0
+11848,Telecommunications Line Installers and Repairers,"Splice cables, using hand tools, epoxy, or mechanical equipment.",Near Vision,2,0
+11852,Telecommunications Line Installers and Repairers,"Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.",Gross Body Equilibrium,3,0
+11852,Telecommunications Line Installers and Repairers,"Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.",Gross Body Coordination,2,0
+11852,Telecommunications Line Installers and Repairers,"Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.",Extent Flexibility,2,0
+11852,Telecommunications Line Installers and Repairers,"Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.",Static Strength,1,0
+11857,Telecommunications Line Installers and Repairers,Clean or maintain tools or test equipment.,Manual Dexterity,1,0
+11857,Telecommunications Line Installers and Repairers,Clean or maintain tools or test equipment.,Near Vision,1,0
+11857,Telecommunications Line Installers and Repairers,Clean or maintain tools or test equipment.,Finger Dexterity,1,0
+11853,Telecommunications Line Installers and Repairers,"String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.",Static Strength,2,0
+11853,Telecommunications Line Installers and Repairers,"String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.",Manual Dexterity,2,0
+11853,Telecommunications Line Installers and Repairers,"String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.",Gross Body Coordination,1,0
+11853,Telecommunications Line Installers and Repairers,"String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.",Rate Control,1,0
+20806,Telecommunications Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Static Strength,3,0
+20806,Telecommunications Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Dynamic Strength,2,0
+20806,Telecommunications Line Installers and Repairers,Pull up cable by hand from large reels mounted on trucks.,Trunk Strength,2,0
+11855,Telecommunications Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduits running through trenches.",Static Strength,2,0
+11855,Telecommunications Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduits running through trenches.",Trunk Strength,2,0
+11855,Telecommunications Line Installers and Repairers,"Lay underground cable directly in trenches, or string it through conduits running through trenches.",Manual Dexterity,1,0
+20807,Telecommunications Line Installers and Repairers,Pull cable through ducts by hand or with winches.,Static Strength,3,0
+20807,Telecommunications Line Installers and Repairers,Pull cable through ducts by hand or with winches.,Dynamic Strength,2,0
+20807,Telecommunications Line Installers and Repairers,Pull cable through ducts by hand or with winches.,Manual Dexterity,1,0
+11861,Telecommunications Line Installers and Repairers,Dig trenches for underground wires or cables.,Static Strength,3,0
+11861,Telecommunications Line Installers and Repairers,Dig trenches for underground wires or cables.,Dynamic Strength,2,0
+11861,Telecommunications Line Installers and Repairers,Dig trenches for underground wires or cables.,Trunk Strength,2,0
+11861,Telecommunications Line Installers and Repairers,Dig trenches for underground wires or cables.,Stamina,1,0
+11858,Telecommunications Line Installers and Repairers,"Explain cable service to subscribers after installation, and collect any installation fees due.",Oral Expression,3,0
+11858,Telecommunications Line Installers and Repairers,"Explain cable service to subscribers after installation, and collect any installation fees due.",Oral Comprehension,2,0
+11858,Telecommunications Line Installers and Repairers,"Explain cable service to subscribers after installation, and collect any installation fees due.",Number Facility,1,0
+11851,Telecommunications Line Installers and Repairers,"Place insulation over conductors, or seal splices with moisture-proof covering.",Manual Dexterity,2,0
+11851,Telecommunications Line Installers and Repairers,"Place insulation over conductors, or seal splices with moisture-proof covering.",Finger Dexterity,1,0
+11851,Telecommunications Line Installers and Repairers,"Place insulation over conductors, or seal splices with moisture-proof covering.",Near Vision,1,0
+11859,Telecommunications Line Installers and Repairers,Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels.,Mathematical Reasoning,3,0
+11859,Telecommunications Line Installers and Repairers,Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels.,Number Facility,2,0
+11859,Telecommunications Line Installers and Repairers,Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels.,Deductive Reasoning,1,1
+11854,Telecommunications Line Installers and Repairers,Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.,Manual Dexterity,2,0
+11854,Telecommunications Line Installers and Repairers,Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.,Finger Dexterity,1,0
+11854,Telecommunications Line Installers and Repairers,Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.,Near Vision,1,0
+11854,Telecommunications Line Installers and Repairers,Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.,Problem Sensitivity,1,0
+11860,Telecommunications Line Installers and Repairers,"Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.",Control Precision,2,0
+11860,Telecommunications Line Installers and Repairers,"Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.",Multilimb Coordination,2,0
+11860,Telecommunications Line Installers and Repairers,"Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.",Near Vision,1,0
+11860,Telecommunications Line Installers and Repairers,"Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.",Reaction Time,1,0
+11863,Telecommunications Line Installers and Repairers,"Fill and tamp holes, using cement, earth, and tamping devices.",Static Strength,2,0
+11863,Telecommunications Line Installers and Repairers,"Fill and tamp holes, using cement, earth, and tamping devices.",Dynamic Strength,2,0
+11863,Telecommunications Line Installers and Repairers,"Fill and tamp holes, using cement, earth, and tamping devices.",Trunk Strength,1,0
+11862,Telecommunications Line Installers and Repairers,"Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.",Static Strength,3,0
+11862,Telecommunications Line Installers and Repairers,"Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.",Dynamic Strength,2,0
+11862,Telecommunications Line Installers and Repairers,"Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.",Multilimb Coordination,1,0
+11862,Telecommunications Line Installers and Repairers,"Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.",Control Precision,1,0
+8437,Camera and Photographic Equipment Repairers,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",Finger Dexterity,3,0
+8437,Camera and Photographic Equipment Repairers,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",Near Vision,3,0
+8437,Camera and Photographic Equipment Repairers,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",Arm-Hand Steadiness,2,0
+8437,Camera and Photographic Equipment Repairers,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",Control Precision,2,0
+8436,Camera and Photographic Equipment Repairers,"Disassemble equipment to gain access to defect, using hand tools.",Finger Dexterity,2,0
+8436,Camera and Photographic Equipment Repairers,"Disassemble equipment to gain access to defect, using hand tools.",Manual Dexterity,2,0
+8436,Camera and Photographic Equipment Repairers,"Disassemble equipment to gain access to defect, using hand tools.",Near Vision,2,0
+8436,Camera and Photographic Equipment Repairers,"Disassemble equipment to gain access to defect, using hand tools.",Arm-Hand Steadiness,1,0
+8440,Camera and Photographic Equipment Repairers,"Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges.",Near Vision,3,0
+8440,Camera and Photographic Equipment Repairers,"Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges.",Control Precision,2,0
+8440,Camera and Photographic Equipment Repairers,"Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges.",Perceptual Speed,1,0
+8440,Camera and Photographic Equipment Repairers,"Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges.",Problem Sensitivity,1,0
+8438,Camera and Photographic Equipment Repairers,"Clean and lubricate cameras and polish camera lenses, using cleaning materials and work aids.",Finger Dexterity,2,0
+8438,Camera and Photographic Equipment Repairers,"Clean and lubricate cameras and polish camera lenses, using cleaning materials and work aids.",Near Vision,1,0
+8438,Camera and Photographic Equipment Repairers,"Clean and lubricate cameras and polish camera lenses, using cleaning materials and work aids.",Manual Dexterity,1,0
+8442,Camera and Photographic Equipment Repairers,Requisition parts or materials.,Written Expression,1,0
+8442,Camera and Photographic Equipment Repairers,Requisition parts or materials.,Information Ordering,1,0
+8442,Camera and Photographic Equipment Repairers,Requisition parts or materials.,Number Facility,1,0
+8435,Camera and Photographic Equipment Repairers,"Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments.",Near Vision,3,0
+8435,Camera and Photographic Equipment Repairers,"Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments.",Control Precision,2,0
+8435,Camera and Photographic Equipment Repairers,"Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments.",Perceptual Speed,2,0
+8435,Camera and Photographic Equipment Repairers,"Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments.",Finger Dexterity,1,0
+8441,Camera and Photographic Equipment Repairers,"Examine cameras, equipment, processed film, or laboratory reports to diagnose malfunction, using work aids and specifications.",Near Vision,2,0
+8441,Camera and Photographic Equipment Repairers,"Examine cameras, equipment, processed film, or laboratory reports to diagnose malfunction, using work aids and specifications.",Problem Sensitivity,3,0
+8441,Camera and Photographic Equipment Repairers,"Examine cameras, equipment, processed film, or laboratory reports to diagnose malfunction, using work aids and specifications.",Deductive Reasoning,2,0
+8443,Camera and Photographic Equipment Repairers,"Read and interpret engineering drawings, diagrams, instructions, or specifications to determine needed repairs, fabrication method, and operation sequence.",Visualization,3,0
+8443,Camera and Photographic Equipment Repairers,"Read and interpret engineering drawings, diagrams, instructions, or specifications to determine needed repairs, fabrication method, and operation sequence.",Written Comprehension,3,0
+8443,Camera and Photographic Equipment Repairers,"Read and interpret engineering drawings, diagrams, instructions, or specifications to determine needed repairs, fabrication method, and operation sequence.",Spatial Orientation,1,1
+8439,Camera and Photographic Equipment Repairers,"Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments.",Near Vision,3,0
+8439,Camera and Photographic Equipment Repairers,"Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments.",Finger Dexterity,1,0
+8439,Camera and Photographic Equipment Repairers,"Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments.",Perceptual Speed,1,0
+8439,Camera and Photographic Equipment Repairers,"Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments.",Number Facility,1,0
+8444,Camera and Photographic Equipment Repairers,"Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications.",Finger Dexterity,3,0
+8444,Camera and Photographic Equipment Repairers,"Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications.",Near Vision,2,0
+8444,Camera and Photographic Equipment Repairers,"Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications.",Control Precision,3,0
+8444,Camera and Photographic Equipment Repairers,"Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications.",Arm-Hand Steadiness,2,0
+20808,Camera and Photographic Equipment Repairers,"Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment.",Finger Dexterity,3,0
+20808,Camera and Photographic Equipment Repairers,"Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment.",Arm-Hand Steadiness,2,0
+20808,Camera and Photographic Equipment Repairers,"Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment.",Near Vision,2,0
+20808,Camera and Photographic Equipment Repairers,"Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment.",Visualization,1,0
+8445,Camera and Photographic Equipment Repairers,"Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools.",Finger Dexterity,3,0
+8445,Camera and Photographic Equipment Repairers,"Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools.",Manual Dexterity,2,0
+8445,Camera and Photographic Equipment Repairers,"Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools.",Near Vision,2,0
+8445,Camera and Photographic Equipment Repairers,"Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools.",Visualization,1,0
+8447,Camera and Photographic Equipment Repairers,Record test data and document fabrication techniques on reports.,Written Expression,2,0
+8447,Camera and Photographic Equipment Repairers,Record test data and document fabrication techniques on reports.,Information Ordering,1,0
+8447,Camera and Photographic Equipment Repairers,Record test data and document fabrication techniques on reports.,Near Vision,1,0
+8447,Camera and Photographic Equipment Repairers,Record test data and document fabrication techniques on reports.,Written Comprehension,1,0
+8448,Camera and Photographic Equipment Repairers,"Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments.",Near Vision,3,0
+8448,Camera and Photographic Equipment Repairers,"Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments.",Finger Dexterity,1,0
+8448,Camera and Photographic Equipment Repairers,"Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments.",Spatial Orientation,1,0
+8448,Camera and Photographic Equipment Repairers,"Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments.",Perceptual Speed,1,0
+8449,Camera and Photographic Equipment Repairers,"Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment.",Oral Expression,1,0
+8449,Camera and Photographic Equipment Repairers,"Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment.",Written Expression,1,0
+8449,Camera and Photographic Equipment Repairers,"Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment.",Originality,1,1
+8449,Camera and Photographic Equipment Repairers,"Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment.",Fluency of Ideas,1,0
+3066,Medical Equipment Repairers,"Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.",Near Vision,2,0
+3066,Medical Equipment Repairers,"Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.",Finger Dexterity,2,0
+3066,Medical Equipment Repairers,"Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.",Problem Sensitivity,2,0
+3066,Medical Equipment Repairers,"Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.",Control Precision,1,0
+3065,Medical Equipment Repairers,"Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment.",Manual Dexterity,2,0
+3065,Medical Equipment Repairers,"Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment.",Finger Dexterity,1,0
+3065,Medical Equipment Repairers,"Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment.",Near Vision,1,0
+23980,Medical Equipment Repairers,"Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.",Problem Sensitivity,3,0
+23980,Medical Equipment Repairers,"Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.",Deductive Reasoning,2,0
+23980,Medical Equipment Repairers,"Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.",Near Vision,2,0
+3064,Medical Equipment Repairers,"Keep records of maintenance, repair, and required updates of equipment.",Written Expression,2,0
+3064,Medical Equipment Repairers,"Keep records of maintenance, repair, and required updates of equipment.",Information Ordering,1,0
+3064,Medical Equipment Repairers,"Keep records of maintenance, repair, and required updates of equipment.",Written Comprehension,1,0
+3063,Medical Equipment Repairers,"Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.",Manual Dexterity,3,0
+3063,Medical Equipment Repairers,"Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.",Finger Dexterity,2,0
+3063,Medical Equipment Repairers,"Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.",Arm-Hand Steadiness,2,0
+3063,Medical Equipment Repairers,"Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.",Near Vision,1,0

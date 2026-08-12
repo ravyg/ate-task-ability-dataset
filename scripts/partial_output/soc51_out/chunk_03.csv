@@ -1,0 +1,544 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Static Strength,3,0
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Dynamic Strength,2,0
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Trunk Strength,2,0
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Multilimb Coordination,2,0
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Control Precision,2,0
+10141,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.",Arm-Hand Steadiness,1,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Manual Dexterity,2,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Finger Dexterity,2,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Control Precision,2,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Near Vision,2,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Problem Sensitivity,2,0
+10156,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.",Static Strength,1,1
+10152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Compute machine indexings and settings for specified dimensions and base reference points.,Mathematical Reasoning,3,0
+10152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Compute machine indexings and settings for specified dimensions and base reference points.,Number Facility,3,0
+10152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Compute machine indexings and settings for specified dimensions and base reference points.,Deductive Reasoning,2,0
+10152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Compute machine indexings and settings for specified dimensions and base reference points.,Spatial Orientation,2,0
+10152,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Compute machine indexings and settings for specified dimensions and base reference points.,Visualization,1,0
+10157,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Maintain stocks of machine parts and machining tools.,Information Ordering,2,0
+10157,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Maintain stocks of machine parts and machining tools.,Memorization,1,1
+10157,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Maintain stocks of machine parts and machining tools.,Near Vision,1,0
+10157,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Maintain stocks of machine parts and machining tools.,Perceptual Speed,1,1
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Finger Dexterity,3,0
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Arm-Hand Steadiness,3,0
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Manual Dexterity,2,0
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Control Precision,2,0
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Near Vision,2,0
+10154,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Thread and hand-feed materials through machine cutters or abraders.,Reaction Time,1,0
+10155,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.,Control Precision,3,0
+10155,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.,Finger Dexterity,2,0
+10155,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.,Manual Dexterity,2,0
+10155,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.,Near Vision,1,0
+10155,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.,Arm-Hand Steadiness,1,0
+10153,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Slide spacers between buffs on spindles to set spacing.,Finger Dexterity,3,0
+10153,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Slide spacers between buffs on spindles to set spacing.,Manual Dexterity,2,0
+10153,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Slide spacers between buffs on spindles to set spacing.,Arm-Hand Steadiness,2,0
+10153,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Slide spacers between buffs on spindles to set spacing.,Control Precision,2,0
+10153,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Slide spacers between buffs on spindles to set spacing.,Near Vision,1,0
+11993,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust machine controls and change tool settings to keep dimensions within specified tolerances.,Control Precision,3,0
+11993,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust machine controls and change tool settings to keep dimensions within specified tolerances.,Near Vision,2,0
+11993,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust machine controls and change tool settings to keep dimensions within specified tolerances.,Finger Dexterity,2,0
+11993,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust machine controls and change tool settings to keep dimensions within specified tolerances.,Number Facility,1,0
+11993,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Adjust machine controls and change tool settings to keep dimensions within specified tolerances.,Rate Control,1,0
+11994,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.",Control Precision,3,0
+11994,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.",Rate Control,2,0
+11994,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.",Manual Dexterity,2,0
+11994,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.",Near Vision,2,0
+11994,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.",Spatial Orientation,1,0
+11992,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.",Visualization,3,0
+11992,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.",Written Comprehension,2,0
+11992,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.",Information Ordering,2,0
+11992,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.",Near Vision,1,0
+11992,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.",Deductive Reasoning,2,0
+11991,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.",Near Vision,3,0
+11991,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.",Control Precision,2,0
+11991,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.",Perceptual Speed,2,0
+11991,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.",Arm-Hand Steadiness,2,0
+11991,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.",Finger Dexterity,1,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Manual Dexterity,2,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Finger Dexterity,2,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Control Precision,2,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Near Vision,2,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Static Strength,1,0
+11999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.",Arm-Hand Steadiness,2,0
+12003,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.",Manual Dexterity,2,0
+12003,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.",Control Precision,2,0
+12003,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.",Arm-Hand Steadiness,2,0
+12003,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.",Finger Dexterity,1,0
+12003,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.",Rate Control,1,0
+12001,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics.",Mathematical Reasoning,3,0
+12001,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics.",Number Facility,3,0
+12001,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics.",Deductive Reasoning,2,0
+12001,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics.",Visualization,1,0
+11997,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.",Control Precision,3,0
+11997,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.",Rate Control,2,0
+11997,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.",Multilimb Coordination,2,0
+11997,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.",Near Vision,2,0
+11997,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.",Reaction Time,1,0
+12000,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.",Control Precision,3,0
+12000,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.",Finger Dexterity,2,0
+12000,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.",Near Vision,2,0
+12000,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.",Arm-Hand Steadiness,2,0
+12000,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.",Manual Dexterity,1,0
+11995,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Start lathe or turning machines and observe operations to ensure that specifications are met.,Near Vision,2,0
+11995,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Start lathe or turning machines and observe operations to ensure that specifications are met.,Selective Attention,2,0
+11995,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Start lathe or turning machines and observe operations to ensure that specifications are met.,Reaction Time,1,0
+11995,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Start lathe or turning machines and observe operations to ensure that specifications are met.,Perceptual Speed,1,0
+23998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Program computer numerical control machines.,Information Ordering,2,0
+23998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Program computer numerical control machines.,Deductive Reasoning,2,0
+23998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Program computer numerical control machines.,Near Vision,1,0
+23998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Program computer numerical control machines.,Mathematical Reasoning,2,0
+23998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Program computer numerical control machines.,Finger Dexterity,1,1
+20923,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Refill, change, and monitor the level of fluids, such as oil and coolant, in machines.",Near Vision,2,0
+20923,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Refill, change, and monitor the level of fluids, such as oil and coolant, in machines.",Manual Dexterity,1,0
+20923,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Refill, change, and monitor the level of fluids, such as oil and coolant, in machines.",Perceptual Speed,1,0
+20923,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Refill, change, and monitor the level of fluids, such as oil and coolant, in machines.",Control Precision,1,0
+23999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Clean work area.,Static Strength,1,1
+23999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Clean work area.,Gross Body Coordination,1,1
+23999,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Clean work area.,Stamina,1,1
+11998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.",Static Strength,3,0
+11998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.",Dynamic Strength,2,0
+11998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.",Trunk Strength,2,0
+11998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.",Manual Dexterity,2,0
+11998,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.",Control Precision,1,0
+12002,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.",Manual Dexterity,2,0
+12002,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.",Finger Dexterity,2,0
+12002,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.",Control Precision,2,0
+12002,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.",Near Vision,2,0
+12002,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.",Static Strength,1,0
+11996,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics.",Written Comprehension,2,0
+11996,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics.",Deductive Reasoning,2,0
+11996,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics.",Information Ordering,1,0
+11996,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics.",Near Vision,1,0
+12005,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.",Manual Dexterity,2,0
+12005,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.",Finger Dexterity,2,0
+12005,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.",Control Precision,2,0
+12005,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.",Near Vision,2,0
+12005,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.",Static Strength,1,0
+12004,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds.,Manual Dexterity,2,0
+12004,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds.,Control Precision,1,0
+12004,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds.,Finger Dexterity,1,0
+12004,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds.,Near Vision,1,0
+14001,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.",Near Vision,3,0
+14001,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.",Control Precision,2,0
+14001,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.",Manual Dexterity,2,0
+14001,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.",Perceptual Speed,2,0
+14001,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.",Static Strength,1,0
+14007,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Verify alignment of workpieces on machines, using measuring instruments such as rules, gauges, or calipers.",Near Vision,3,0
+14007,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Verify alignment of workpieces on machines, using measuring instruments such as rules, gauges, or calipers.",Control Precision,2,0
+14007,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Verify alignment of workpieces on machines, using measuring instruments such as rules, gauges, or calipers.",Spatial Orientation,2,0
+14007,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Verify alignment of workpieces on machines, using measuring instruments such as rules, gauges, or calipers.",Arm-Hand Steadiness,1,0
+14005,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",Control Precision,3,0
+14005,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",Manual Dexterity,2,0
+14005,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",Near Vision,2,0
+14005,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",Spatial Orientation,1,0
+14005,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",Rate Control,1,0
+14002,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Observe milling or planing machine operation, and adjust controls to ensure conformance with specified tolerances.",Near Vision,2,0
+14002,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Observe milling or planing machine operation, and adjust controls to ensure conformance with specified tolerances.",Selective Attention,2,0
+14002,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Observe milling or planing machine operation, and adjust controls to ensure conformance with specified tolerances.",Control Precision,2,0
+14002,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Observe milling or planing machine operation, and adjust controls to ensure conformance with specified tolerances.",Rate Control,1,0
+14011,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.",Manual Dexterity,2,0
+14011,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.",Finger Dexterity,2,0
+14011,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.",Control Precision,2,0
+14011,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.",Near Vision,1,0
+14011,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.",Static Strength,1,0
+14003,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.",Static Strength,3,0
+14003,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.",Manual Dexterity,2,0
+14003,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.",Control Precision,2,0
+14003,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.",Near Vision,1,0
+14003,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.",Trunk Strength,1,0
+14010,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.",Manual Dexterity,2,0
+14010,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.",Finger Dexterity,2,0
+14010,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.",Control Precision,2,0
+14010,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.",Near Vision,1,0
+14010,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.",Static Strength,1,0
+14004,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts, sketches, or work orders to assess workpiece specifications and to determine tooling instructions, tools and materials needed, and sequences of operations.",Visualization,3,0
+14004,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts, sketches, or work orders to assess workpiece specifications and to determine tooling instructions, tools and materials needed, and sequences of operations.",Written Comprehension,2,0
+14004,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts, sketches, or work orders to assess workpiece specifications and to determine tooling instructions, tools and materials needed, and sequences of operations.",Information Ordering,2,0
+14004,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Study blueprints, layouts, sketches, or work orders to assess workpiece specifications and to determine tooling instructions, tools and materials needed, and sequences of operations.",Deductive Reasoning,2,0
+14006,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Compute dimensions, tolerances, and angles of workpieces or machines according to specifications and knowledge of metal properties and shop mathematics.",Mathematical Reasoning,3,0
+14006,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Compute dimensions, tolerances, and angles of workpieces or machines according to specifications and knowledge of metal properties and shop mathematics.",Number Facility,3,0
+14006,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Compute dimensions, tolerances, and angles of workpieces or machines according to specifications and knowledge of metal properties and shop mathematics.",Deductive Reasoning,2,0
+14006,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Compute dimensions, tolerances, and angles of workpieces or machines according to specifications and knowledge of metal properties and shop mathematics.",Visualization,1,0
+14009,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",Manual Dexterity,2,0
+14009,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",Control Precision,2,0
+14009,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",Arm-Hand Steadiness,2,0
+14009,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",Finger Dexterity,1,0
+14015,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.",Manual Dexterity,2,0
+14015,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.",Finger Dexterity,2,0
+14015,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.",Control Precision,2,0
+14015,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.",Near Vision,1,0
+14015,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.",Static Strength,1,0
+14008,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select cutting speeds, feed rates, and depths of cuts, applying knowledge of metal properties and shop mathematics.",Deductive Reasoning,2,0
+14008,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select cutting speeds, feed rates, and depths of cuts, applying knowledge of metal properties and shop mathematics.",Mathematical Reasoning,2,0
+14008,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select cutting speeds, feed rates, and depths of cuts, applying knowledge of metal properties and shop mathematics.",Number Facility,2,0
+14008,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Select cutting speeds, feed rates, and depths of cuts, applying knowledge of metal properties and shop mathematics.",Information Ordering,1,0
+14012,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Record production output.,Information Ordering,2,0
+14012,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Record production output.,Number Facility,1,1
+14012,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Record production output.,Written Expression,1,0
+14013,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Turn valves or pull levers to start and regulate the flow of coolant or lubricant to work areas.,Manual Dexterity,2,0
+14013,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Turn valves or pull levers to start and regulate the flow of coolant or lubricant to work areas.,Control Precision,1,0
+14013,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Turn valves or pull levers to start and regulate the flow of coolant or lubricant to work areas.,Finger Dexterity,1,0
+14013,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Turn valves or pull levers to start and regulate the flow of coolant or lubricant to work areas.,Near Vision,1,0
+14014,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Make templates or cutting tools.,Manual Dexterity,2,0
+14014,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Make templates or cutting tools.,Finger Dexterity,2,0
+14014,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Make templates or cutting tools.,Control Precision,2,0
+14014,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Make templates or cutting tools.,Near Vision,2,0
+14014,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",Make templates or cutting tools.,Visualization,1,0
+20292,Machinists,"Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers.",Near Vision,2,0
+20292,Machinists,"Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers.",Number Facility,3,0
+20292,Machinists,"Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers.",Mathematical Reasoning,2,0
+20292,Machinists,"Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers.",Control Precision,1,0
+3094,Machinists,"Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.",Control Precision,3,0
+3094,Machinists,"Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.",Manual Dexterity,2,0
+3094,Machinists,"Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.",Near Vision,2,0
+3094,Machinists,"Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.",Spatial Orientation,1,0
+3094,Machinists,"Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.",Static Strength,1,0
+3095,Machinists,"Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such as micrometers.",Near Vision,3,0
+3095,Machinists,"Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such as micrometers.",Perceptual Speed,2,0
+3095,Machinists,"Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such as micrometers.",Control Precision,1,0
+3095,Machinists,"Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such as micrometers.",Number Facility,1,0
+20293,Machinists,"Set up, adjust, or operate basic or specialized machine tools used to perform precision machining operations.",Control Precision,3,0
+20293,Machinists,"Set up, adjust, or operate basic or specialized machine tools used to perform precision machining operations.",Manual Dexterity,2,0
+20293,Machinists,"Set up, adjust, or operate basic or specialized machine tools used to perform precision machining operations.",Near Vision,2,0
+20293,Machinists,"Set up, adjust, or operate basic or specialized machine tools used to perform precision machining operations.",Finger Dexterity,1,0
+3110,Machinists,"Program computers or electronic instruments, such as numerically controlled machine tools.",Information Ordering,2,0
+3110,Machinists,"Program computers or electronic instruments, such as numerically controlled machine tools.",Deductive Reasoning,2,0
+3110,Machinists,"Program computers or electronic instruments, such as numerically controlled machine tools.",Mathematical Reasoning,2,0
+3110,Machinists,"Program computers or electronic instruments, such as numerically controlled machine tools.",Near Vision,1,0
+20295,Machinists,"Study sample parts, blueprints, drawings, or engineering information to determine methods or sequences of operations needed to fabricate products.",Visualization,3,0
+20295,Machinists,"Study sample parts, blueprints, drawings, or engineering information to determine methods or sequences of operations needed to fabricate products.",Written Comprehension,2,0
+20295,Machinists,"Study sample parts, blueprints, drawings, or engineering information to determine methods or sequences of operations needed to fabricate products.",Deductive Reasoning,2,0
+20295,Machinists,"Study sample parts, blueprints, drawings, or engineering information to determine methods or sequences of operations needed to fabricate products.",Information Ordering,2,0
+3098,Machinists,Monitor the feed and speed of machines during the machining process.,Selective Attention,2,0
+3098,Machinists,Monitor the feed and speed of machines during the machining process.,Near Vision,2,0
+3098,Machinists,Monitor the feed and speed of machines during the machining process.,Rate Control,2,0
+3098,Machinists,Monitor the feed and speed of machines during the machining process.,Perceptual Speed,1,0
+20294,Machinists,Maintain machine tools in proper operational condition.,Near Vision,1,0
+20294,Machinists,Maintain machine tools in proper operational condition.,Manual Dexterity,2,0
+20294,Machinists,Maintain machine tools in proper operational condition.,Problem Sensitivity,2,0
+20294,Machinists,Maintain machine tools in proper operational condition.,Static Strength,1,0
+3117,Machinists,Fit and assemble parts to make or repair machine tools.,Manual Dexterity,2,0
+3117,Machinists,Fit and assemble parts to make or repair machine tools.,Finger Dexterity,2,0
+3117,Machinists,Fit and assemble parts to make or repair machine tools.,Control Precision,2,0
+3117,Machinists,Fit and assemble parts to make or repair machine tools.,Near Vision,1,0
+3117,Machinists,Fit and assemble parts to make or repair machine tools.,Arm-Hand Steadiness,1,0
+3097,Machinists,"Align and secure holding fixtures, cutting tools, attachments, accessories, or materials onto machines.",Manual Dexterity,2,0
+3097,Machinists,"Align and secure holding fixtures, cutting tools, attachments, accessories, or materials onto machines.",Control Precision,2,0
+3097,Machinists,"Align and secure holding fixtures, cutting tools, attachments, accessories, or materials onto machines.",Near Vision,2,0
+3097,Machinists,"Align and secure holding fixtures, cutting tools, attachments, accessories, or materials onto machines.",Static Strength,1,0
+3116,Machinists,Confer with numerical control programmers to check and ensure that new programs or machinery will function properly and that output will meet specifications.,Oral Comprehension,2,0
+3116,Machinists,Confer with numerical control programmers to check and ensure that new programs or machinery will function properly and that output will meet specifications.,Oral Expression,2,0
+3116,Machinists,Confer with numerical control programmers to check and ensure that new programs or machinery will function properly and that output will meet specifications.,Deductive Reasoning,2,0
+3116,Machinists,Confer with numerical control programmers to check and ensure that new programs or machinery will function properly and that output will meet specifications.,Written Comprehension,1,0
+3106,Machinists,Operate equipment to verify operational efficiency.,Near Vision,2,0
+3106,Machinists,Operate equipment to verify operational efficiency.,Selective Attention,2,0
+3106,Machinists,Operate equipment to verify operational efficiency.,Control Precision,1,0
+3106,Machinists,Operate equipment to verify operational efficiency.,Perceptual Speed,1,1
+20297,Machinists,Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.,Deductive Reasoning,3,0
+20297,Machinists,Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.,Inductive Reasoning,2,0
+20297,Machinists,Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.,Problem Sensitivity,2,0
+20297,Machinists,Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.,Written Expression,1,0
+20297,Machinists,Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.,Oral Expression,1,0
+20296,Machinists,Diagnose machine tool malfunctions to determine need for adjustments or repairs.,Problem Sensitivity,3,0
+20296,Machinists,Diagnose machine tool malfunctions to determine need for adjustments or repairs.,Deductive Reasoning,3,0
+20296,Machinists,Diagnose machine tool malfunctions to determine need for adjustments or repairs.,Inductive Reasoning,2,0
+20296,Machinists,Diagnose machine tool malfunctions to determine need for adjustments or repairs.,Near Vision,1,0
+3119,Machinists,"Design fixtures, tooling, or experimental parts to meet special engineering needs.",Visualization,3,0
+3119,Machinists,"Design fixtures, tooling, or experimental parts to meet special engineering needs.",Originality,2,0
+3119,Machinists,"Design fixtures, tooling, or experimental parts to meet special engineering needs.",Mathematical Reasoning,2,0
+3119,Machinists,"Design fixtures, tooling, or experimental parts to meet special engineering needs.",Deductive Reasoning,2,0
+19905,Machinists,Dispose of scrap or waste material in accordance with company policies and environmental regulations.,Static Strength,1,1
+19905,Machinists,Dispose of scrap or waste material in accordance with company policies and environmental regulations.,Information Ordering,1,1
+19905,Machinists,Dispose of scrap or waste material in accordance with company policies and environmental regulations.,Near Vision,1,1
+3112,Machinists,"Confer with engineering, supervisory, or manufacturing personnel to exchange technical information.",Oral Comprehension,3,0
+3112,Machinists,"Confer with engineering, supervisory, or manufacturing personnel to exchange technical information.",Oral Expression,3,0
+3112,Machinists,"Confer with engineering, supervisory, or manufacturing personnel to exchange technical information.",Written Comprehension,1,0
+3112,Machinists,"Confer with engineering, supervisory, or manufacturing personnel to exchange technical information.",Information Ordering,1,1
+3101,Machinists,"Lay out, measure, and mark metal stock to display placement of cuts.",Near Vision,3,0
+3101,Machinists,"Lay out, measure, and mark metal stock to display placement of cuts.",Control Precision,2,0
+3101,Machinists,"Lay out, measure, and mark metal stock to display placement of cuts.",Arm-Hand Steadiness,2,0
+3101,Machinists,"Lay out, measure, and mark metal stock to display placement of cuts.",Number Facility,1,0
+3101,Machinists,"Lay out, measure, and mark metal stock to display placement of cuts.",Visualization,1,0
+19906,Machinists,"Separate scrap waste and related materials for reuse, recycling, or disposal.",Near Vision,1,1
+19906,Machinists,"Separate scrap waste and related materials for reuse, recycling, or disposal.",Manual Dexterity,1,1
+19906,Machinists,"Separate scrap waste and related materials for reuse, recycling, or disposal.",Static Strength,1,1
+3103,Machinists,Check work pieces to ensure that they are properly lubricated or cooled.,Near Vision,2,0
+3103,Machinists,Check work pieces to ensure that they are properly lubricated or cooled.,Perceptual Speed,1,0
+3103,Machinists,Check work pieces to ensure that they are properly lubricated or cooled.,Selective Attention,1,1
+3115,Machinists,"Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.",Deductive Reasoning,2,0
+3115,Machinists,"Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.",Mathematical Reasoning,2,0
+3115,Machinists,"Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.",Information Ordering,2,0
+3115,Machinists,"Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.",Manual Dexterity,1,0
+3115,Machinists,"Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.",Near Vision,1,0
+3107,Machinists,Install repaired parts into equipment or install new equipment.,Manual Dexterity,2,0
+3107,Machinists,Install repaired parts into equipment or install new equipment.,Finger Dexterity,2,0
+3107,Machinists,Install repaired parts into equipment or install new equipment.,Control Precision,2,0
+3107,Machinists,Install repaired parts into equipment or install new equipment.,Static Strength,1,0
+3107,Machinists,Install repaired parts into equipment or install new equipment.,Near Vision,1,0
+3113,Machinists,"Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.",Manual Dexterity,2,0
+3113,Machinists,"Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.",Finger Dexterity,2,0
+3113,Machinists,"Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.",Static Strength,2,0
+3113,Machinists,"Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.",Near Vision,2,0
+3113,Machinists,"Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.",Problem Sensitivity,2,0
+3123,Machinists,"Test experimental models under simulated operating conditions, for purposes such as development, standardization, or feasibility of design.",Deductive Reasoning,2,0
+3123,Machinists,"Test experimental models under simulated operating conditions, for purposes such as development, standardization, or feasibility of design.",Near Vision,2,0
+3123,Machinists,"Test experimental models under simulated operating conditions, for purposes such as development, standardization, or feasibility of design.",Selective Attention,2,0
+3123,Machinists,"Test experimental models under simulated operating conditions, for purposes such as development, standardization, or feasibility of design.",Problem Sensitivity,2,0
+3122,Machinists,"Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.",Control Precision,3,0
+3122,Machinists,"Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.",Arm-Hand Steadiness,3,0
+3122,Machinists,"Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.",Near Vision,2,0
+3122,Machinists,"Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.",Manual Dexterity,2,0
+3122,Machinists,"Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.",Static Strength,1,0
+3120,Machinists,Prepare working sketches for the illustration of product appearance.,Visualization,3,0
+3120,Machinists,Prepare working sketches for the illustration of product appearance.,Manual Dexterity,1,0
+3120,Machinists,Prepare working sketches for the illustration of product appearance.,Near Vision,2,0
+3120,Machinists,Prepare working sketches for the illustration of product appearance.,Originality,1,0
+3114,Machinists,"Establish work procedures for fabricating new structural products, using a variety of metalworking machines.",Information Ordering,3,0
+3114,Machinists,"Establish work procedures for fabricating new structural products, using a variety of metalworking machines.",Deductive Reasoning,2,0
+3114,Machinists,"Establish work procedures for fabricating new structural products, using a variety of metalworking machines.",Visualization,2,0
+3114,Machinists,"Establish work procedures for fabricating new structural products, using a variety of metalworking machines.",Written Expression,1,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",Manual Dexterity,2,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",Finger Dexterity,2,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",Control Precision,2,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",Near Vision,2,0
+3121,Machinists,"Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.",Static Strength,1,0
+3109,Machinists,Advise clients about the materials being used for finished products.,Oral Expression,3,0
+3109,Machinists,Advise clients about the materials being used for finished products.,Oral Comprehension,2,0
+3109,Machinists,Advise clients about the materials being used for finished products.,Written Comprehension,1,0
+10163,Metal-Refining Furnace Operators and Tenders,"Regulate supplies of fuel and air, or control flow of electric current and water coolant to heat furnaces and adjust temperatures.",Control Precision,2,0
+10163,Metal-Refining Furnace Operators and Tenders,"Regulate supplies of fuel and air, or control flow of electric current and water coolant to heat furnaces and adjust temperatures.",Near Vision,2,0
+10163,Metal-Refining Furnace Operators and Tenders,"Regulate supplies of fuel and air, or control flow of electric current and water coolant to heat furnaces and adjust temperatures.",Rate Control,2,0
+10163,Metal-Refining Furnace Operators and Tenders,"Regulate supplies of fuel and air, or control flow of electric current and water coolant to heat furnaces and adjust temperatures.",Selective Attention,1,0
+10158,Metal-Refining Furnace Operators and Tenders,"Draw smelted metal samples from furnaces or kettles for analysis, and calculate types and amounts of materials needed to ensure that materials meet specifications.",Near Vision,2,0
+10158,Metal-Refining Furnace Operators and Tenders,"Draw smelted metal samples from furnaces or kettles for analysis, and calculate types and amounts of materials needed to ensure that materials meet specifications.",Number Facility,2,0
+10158,Metal-Refining Furnace Operators and Tenders,"Draw smelted metal samples from furnaces or kettles for analysis, and calculate types and amounts of materials needed to ensure that materials meet specifications.",Static Strength,1,0
+10158,Metal-Refining Furnace Operators and Tenders,"Draw smelted metal samples from furnaces or kettles for analysis, and calculate types and amounts of materials needed to ensure that materials meet specifications.",Control Precision,2,0
+10158,Metal-Refining Furnace Operators and Tenders,"Draw smelted metal samples from furnaces or kettles for analysis, and calculate types and amounts of materials needed to ensure that materials meet specifications.",Mathematical Reasoning,1,0
+10162,Metal-Refining Furnace Operators and Tenders,"Weigh materials to be charged into furnaces, using scales.",Number Facility,2,0
+10162,Metal-Refining Furnace Operators and Tenders,"Weigh materials to be charged into furnaces, using scales.",Near Vision,1,0
+10162,Metal-Refining Furnace Operators and Tenders,"Weigh materials to be charged into furnaces, using scales.",Static Strength,1,0
+10160,Metal-Refining Furnace Operators and Tenders,"Record production data, and maintain production logs.",Information Ordering,2,0
+10160,Metal-Refining Furnace Operators and Tenders,"Record production data, and maintain production logs.",Written Expression,1,0
+10160,Metal-Refining Furnace Operators and Tenders,"Record production data, and maintain production logs.",Number Facility,1,0
+10165,Metal-Refining Furnace Operators and Tenders,"Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",Near Vision,2,0
+10165,Metal-Refining Furnace Operators and Tenders,"Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",Visual Color Discrimination,3,0
+10165,Metal-Refining Furnace Operators and Tenders,"Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",Control Precision,2,0
+10165,Metal-Refining Furnace Operators and Tenders,"Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",Selective Attention,2,0
+10161,Metal-Refining Furnace Operators and Tenders,Operate controls to move or discharge metal workpieces from furnaces.,Control Precision,2,0
+10161,Metal-Refining Furnace Operators and Tenders,Operate controls to move or discharge metal workpieces from furnaces.,Multilimb Coordination,2,0
+10161,Metal-Refining Furnace Operators and Tenders,Operate controls to move or discharge metal workpieces from furnaces.,Near Vision,1,0
+10161,Metal-Refining Furnace Operators and Tenders,Operate controls to move or discharge metal workpieces from furnaces.,Static Strength,1,0
+10164,Metal-Refining Furnace Operators and Tenders,Inspect furnaces and equipment to locate defects and wear.,Near Vision,2,0
+10164,Metal-Refining Furnace Operators and Tenders,Inspect furnaces and equipment to locate defects and wear.,Problem Sensitivity,2,0
+10164,Metal-Refining Furnace Operators and Tenders,Inspect furnaces and equipment to locate defects and wear.,Perceptual Speed,1,0
+10159,Metal-Refining Furnace Operators and Tenders,"Drain, transfer, or remove molten metal from furnaces, and place it into molds, using hoists, pumps, or ladles.",Static Strength,2,0
+10159,Metal-Refining Furnace Operators and Tenders,"Drain, transfer, or remove molten metal from furnaces, and place it into molds, using hoists, pumps, or ladles.",Control Precision,2,0
+10159,Metal-Refining Furnace Operators and Tenders,"Drain, transfer, or remove molten metal from furnaces, and place it into molds, using hoists, pumps, or ladles.",Multilimb Coordination,2,0
+10159,Metal-Refining Furnace Operators and Tenders,"Drain, transfer, or remove molten metal from furnaces, and place it into molds, using hoists, pumps, or ladles.",Near Vision,2,0
+10159,Metal-Refining Furnace Operators and Tenders,"Drain, transfer, or remove molten metal from furnaces, and place it into molds, using hoists, pumps, or ladles.",Reaction Time,1,0
+10168,Metal-Refining Furnace Operators and Tenders,"Kindle fires, and shovel fuel and other materials into furnaces or onto conveyors by hand, with hoists, or by directing crane operators.",Static Strength,3,0
+10168,Metal-Refining Furnace Operators and Tenders,"Kindle fires, and shovel fuel and other materials into furnaces or onto conveyors by hand, with hoists, or by directing crane operators.",Dynamic Strength,2,0
+10168,Metal-Refining Furnace Operators and Tenders,"Kindle fires, and shovel fuel and other materials into furnaces or onto conveyors by hand, with hoists, or by directing crane operators.",Stamina,2,0
+10168,Metal-Refining Furnace Operators and Tenders,"Kindle fires, and shovel fuel and other materials into furnaces or onto conveyors by hand, with hoists, or by directing crane operators.",Trunk Strength,2,0
+10171,Metal-Refining Furnace Operators and Tenders,"Prepare material to load into furnaces, including cleaning, crushing, or applying chemicals, by using crushing machines, shovels, rakes, or sprayers.",Static Strength,3,0
+10171,Metal-Refining Furnace Operators and Tenders,"Prepare material to load into furnaces, including cleaning, crushing, or applying chemicals, by using crushing machines, shovels, rakes, or sprayers.",Dynamic Strength,2,0
+10171,Metal-Refining Furnace Operators and Tenders,"Prepare material to load into furnaces, including cleaning, crushing, or applying chemicals, by using crushing machines, shovels, rakes, or sprayers.",Stamina,2,0
+10171,Metal-Refining Furnace Operators and Tenders,"Prepare material to load into furnaces, including cleaning, crushing, or applying chemicals, by using crushing machines, shovels, rakes, or sprayers.",Manual Dexterity,1,0
+10167,Metal-Refining Furnace Operators and Tenders,"Remove impurities from the surface of molten metal, using strainers.",Control Precision,2,0
+10167,Metal-Refining Furnace Operators and Tenders,"Remove impurities from the surface of molten metal, using strainers.",Arm-Hand Steadiness,2,0
+10167,Metal-Refining Furnace Operators and Tenders,"Remove impurities from the surface of molten metal, using strainers.",Static Strength,2,0
+10167,Metal-Refining Furnace Operators and Tenders,"Remove impurities from the surface of molten metal, using strainers.",Near Vision,2,0
+10166,Metal-Refining Furnace Operators and Tenders,"Observe operations inside furnaces, using television screens, to ensure that problems do not occur.",Near Vision,2,0
+10166,Metal-Refining Furnace Operators and Tenders,"Observe operations inside furnaces, using television screens, to ensure that problems do not occur.",Selective Attention,3,0
+10166,Metal-Refining Furnace Operators and Tenders,"Observe operations inside furnaces, using television screens, to ensure that problems do not occur.",Problem Sensitivity,1,0
+10169,Metal-Refining Furnace Operators and Tenders,Sprinkle chemicals over molten metal to bring impurities to the surface.,Manual Dexterity,2,0
+10169,Metal-Refining Furnace Operators and Tenders,Sprinkle chemicals over molten metal to bring impurities to the surface.,Control Precision,1,0
+10169,Metal-Refining Furnace Operators and Tenders,Sprinkle chemicals over molten metal to bring impurities to the surface.,Static Strength,1,0
+10169,Metal-Refining Furnace Operators and Tenders,Sprinkle chemicals over molten metal to bring impurities to the surface.,Near Vision,1,0
+10170,Metal-Refining Furnace Operators and Tenders,Direct work crews in the cleaning and repair of furnace walls and flooring.,Oral Expression,3,0
+10170,Metal-Refining Furnace Operators and Tenders,Direct work crews in the cleaning and repair of furnace walls and flooring.,Oral Comprehension,2,0
+10170,Metal-Refining Furnace Operators and Tenders,Direct work crews in the cleaning and repair of furnace walls and flooring.,Information Ordering,1,0
+10172,Metal-Refining Furnace Operators and Tenders,"Scrape accumulations of metal oxides from floors, molds, and crucibles, and sift and store them for reclamation.",Static Strength,2,0
+10172,Metal-Refining Furnace Operators and Tenders,"Scrape accumulations of metal oxides from floors, molds, and crucibles, and sift and store them for reclamation.",Dynamic Strength,2,0
+10172,Metal-Refining Furnace Operators and Tenders,"Scrape accumulations of metal oxides from floors, molds, and crucibles, and sift and store them for reclamation.",Stamina,1,0
+10172,Metal-Refining Furnace Operators and Tenders,"Scrape accumulations of metal oxides from floors, molds, and crucibles, and sift and store them for reclamation.",Manual Dexterity,1,0
+12007,"Pourers and Casters, Metal","Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.",Control Precision,3,0
+12007,"Pourers and Casters, Metal","Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.",Static Strength,2,0
+12007,"Pourers and Casters, Metal","Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.",Arm-Hand Steadiness,2,0
+12007,"Pourers and Casters, Metal","Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.",Near Vision,2,0
+12007,"Pourers and Casters, Metal","Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.",Multilimb Coordination,2,0
+12008,"Pourers and Casters, Metal","Read temperature gauges and observe color changes, adjusting furnace flames, torches, or electrical heating units as necessary to melt metal to specifications.",Visual Color Discrimination,3,0
+12008,"Pourers and Casters, Metal","Read temperature gauges and observe color changes, adjusting furnace flames, torches, or electrical heating units as necessary to melt metal to specifications.",Near Vision,2,0
+12008,"Pourers and Casters, Metal","Read temperature gauges and observe color changes, adjusting furnace flames, torches, or electrical heating units as necessary to melt metal to specifications.",Control Precision,2,0
+12008,"Pourers and Casters, Metal","Read temperature gauges and observe color changes, adjusting furnace flames, torches, or electrical heating units as necessary to melt metal to specifications.",Selective Attention,1,0
+12016,"Pourers and Casters, Metal","Remove solidified steel or slag from pouring nozzles, using long bars or oxygen burners.",Static Strength,3,0
+12016,"Pourers and Casters, Metal","Remove solidified steel or slag from pouring nozzles, using long bars or oxygen burners.",Dynamic Strength,2,0
+12016,"Pourers and Casters, Metal","Remove solidified steel or slag from pouring nozzles, using long bars or oxygen burners.",Manual Dexterity,1,0
+12016,"Pourers and Casters, Metal","Remove solidified steel or slag from pouring nozzles, using long bars or oxygen burners.",Control Precision,1,0
+12009,"Pourers and Casters, Metal","Examine molds to ensure they are clean, smooth, and properly coated.",Near Vision,2,0
+12009,"Pourers and Casters, Metal","Examine molds to ensure they are clean, smooth, and properly coated.",Perceptual Speed,1,0
+12009,"Pourers and Casters, Metal","Examine molds to ensure they are clean, smooth, and properly coated.",Selective Attention,1,1
+12006,"Pourers and Casters, Metal","Collect samples, or signal workers to sample metal for analysis.",Near Vision,1,1
+12006,"Pourers and Casters, Metal","Collect samples, or signal workers to sample metal for analysis.",Oral Expression,1,1
+12006,"Pourers and Casters, Metal","Collect samples, or signal workers to sample metal for analysis.",Manual Dexterity,1,1
+12015,"Pourers and Casters, Metal",Load specified amounts of metal and flux into furnaces or clay crucibles.,Static Strength,2,0
+12015,"Pourers and Casters, Metal",Load specified amounts of metal and flux into furnaces or clay crucibles.,Number Facility,2,0
+12015,"Pourers and Casters, Metal",Load specified amounts of metal and flux into furnaces or clay crucibles.,Dynamic Strength,1,0
+12010,"Pourers and Casters, Metal","Position equipment such as ladles, grinding wheels, pouring nozzles, or crucibles, or signal other workers to position equipment.",Static Strength,2,0
+12010,"Pourers and Casters, Metal","Position equipment such as ladles, grinding wheels, pouring nozzles, or crucibles, or signal other workers to position equipment.",Multilimb Coordination,2,0
+12010,"Pourers and Casters, Metal","Position equipment such as ladles, grinding wheels, pouring nozzles, or crucibles, or signal other workers to position equipment.",Control Precision,1,0
+12010,"Pourers and Casters, Metal","Position equipment such as ladles, grinding wheels, pouring nozzles, or crucibles, or signal other workers to position equipment.",Oral Expression,1,0
+12011,"Pourers and Casters, Metal","Skim slag or remove excess metal from ingots or equipment, using hand tools, strainers, rakes, or burners, collecting scrap for recycling.",Static Strength,2,0
+12011,"Pourers and Casters, Metal","Skim slag or remove excess metal from ingots or equipment, using hand tools, strainers, rakes, or burners, collecting scrap for recycling.",Arm-Hand Steadiness,2,0
+12011,"Pourers and Casters, Metal","Skim slag or remove excess metal from ingots or equipment, using hand tools, strainers, rakes, or burners, collecting scrap for recycling.",Manual Dexterity,1,0
+12011,"Pourers and Casters, Metal","Skim slag or remove excess metal from ingots or equipment, using hand tools, strainers, rakes, or burners, collecting scrap for recycling.",Near Vision,1,0
+12019,"Pourers and Casters, Metal","Transport metal ingots to storage areas, using forklifts.",Control Precision,2,0
+12019,"Pourers and Casters, Metal","Transport metal ingots to storage areas, using forklifts.",Multilimb Coordination,2,0
+12019,"Pourers and Casters, Metal","Transport metal ingots to storage areas, using forklifts.",Depth Perception,2,0
+12019,"Pourers and Casters, Metal","Transport metal ingots to storage areas, using forklifts.",Near Vision,1,0
+12017,"Pourers and Casters, Metal","Assemble and embed cores in casting frames, using hand tools and equipment.",Manual Dexterity,2,0
+12017,"Pourers and Casters, Metal","Assemble and embed cores in casting frames, using hand tools and equipment.",Finger Dexterity,2,0
+12017,"Pourers and Casters, Metal","Assemble and embed cores in casting frames, using hand tools and equipment.",Control Precision,2,0
+12017,"Pourers and Casters, Metal","Assemble and embed cores in casting frames, using hand tools and equipment.",Near Vision,1,0
+12017,"Pourers and Casters, Metal","Assemble and embed cores in casting frames, using hand tools and equipment.",Static Strength,1,0
+12012,"Pourers and Casters, Metal","Turn valves to circulate water through cores, or spray water on filled molds to cool and solidify metal.",Manual Dexterity,2,0
+12012,"Pourers and Casters, Metal","Turn valves to circulate water through cores, or spray water on filled molds to cool and solidify metal.",Control Precision,1,0
+12012,"Pourers and Casters, Metal","Turn valves to circulate water through cores, or spray water on filled molds to cool and solidify metal.",Near Vision,1,0
+12014,"Pourers and Casters, Metal",Pull levers to lift ladle stoppers and to allow molten steel to flow into ingot molds to specified heights.,Control Precision,3,0
+12014,"Pourers and Casters, Metal",Pull levers to lift ladle stoppers and to allow molten steel to flow into ingot molds to specified heights.,Arm-Hand Steadiness,2,0
+12014,"Pourers and Casters, Metal",Pull levers to lift ladle stoppers and to allow molten steel to flow into ingot molds to specified heights.,Reaction Time,2,0
+12014,"Pourers and Casters, Metal",Pull levers to lift ladle stoppers and to allow molten steel to flow into ingot molds to specified heights.,Near Vision,2,0
+12018,"Pourers and Casters, Metal","Remove metal ingots or cores from molds, using hand tools, cranes, and chain hoists.",Static Strength,3,0
+12018,"Pourers and Casters, Metal","Remove metal ingots or cores from molds, using hand tools, cranes, and chain hoists.",Dynamic Strength,2,0
+12018,"Pourers and Casters, Metal","Remove metal ingots or cores from molds, using hand tools, cranes, and chain hoists.",Control Precision,1,0
+12018,"Pourers and Casters, Metal","Remove metal ingots or cores from molds, using hand tools, cranes, and chain hoists.",Manual Dexterity,1,0
+12021,"Pourers and Casters, Metal","Repair and maintain metal forms and equipment, using hand tools, sledges, and bars.",Static Strength,2,0
+12021,"Pourers and Casters, Metal","Repair and maintain metal forms and equipment, using hand tools, sledges, and bars.",Dynamic Strength,2,0
+12021,"Pourers and Casters, Metal","Repair and maintain metal forms and equipment, using hand tools, sledges, and bars.",Manual Dexterity,2,0
+12021,"Pourers and Casters, Metal","Repair and maintain metal forms and equipment, using hand tools, sledges, and bars.",Near Vision,1,0
+12013,"Pourers and Casters, Metal",Add metal to molds to compensate for shrinkage.,Control Precision,2,0
+12013,"Pourers and Casters, Metal",Add metal to molds to compensate for shrinkage.,Manual Dexterity,1,0
+12013,"Pourers and Casters, Metal",Add metal to molds to compensate for shrinkage.,Near Vision,1,0
+12013,"Pourers and Casters, Metal",Add metal to molds to compensate for shrinkage.,Static Strength,1,0
+12020,"Pourers and Casters, Metal","Stencil identifying information on ingots and pigs, using special hand tools.",Finger Dexterity,2,0
+12020,"Pourers and Casters, Metal","Stencil identifying information on ingots and pigs, using special hand tools.",Near Vision,2,0
+12020,"Pourers and Casters, Metal","Stencil identifying information on ingots and pigs, using special hand tools.",Manual Dexterity,1,0
+12020,"Pourers and Casters, Metal","Stencil identifying information on ingots and pigs, using special hand tools.",Control Precision,1,0
+12022,"Model Makers, Metal and Plastic","Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.",Visualization,3,0
+12022,"Model Makers, Metal and Plastic","Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.",Written Comprehension,2,0
+12022,"Model Makers, Metal and Plastic","Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.",Information Ordering,2,0
+12023,"Model Makers, Metal and Plastic","Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.",Control Precision,3,0
+12023,"Model Makers, Metal and Plastic","Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.",Manual Dexterity,2,0
+12023,"Model Makers, Metal and Plastic","Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.",Near Vision,2,0
+12023,"Model Makers, Metal and Plastic","Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.",Finger Dexterity,1,0
+20924,"Model Makers, Metal and Plastic",Program computer numerical control (CNC) machines to fabricate model parts.,Information Ordering,2,0
+20924,"Model Makers, Metal and Plastic",Program computer numerical control (CNC) machines to fabricate model parts.,Deductive Reasoning,2,0
+20924,"Model Makers, Metal and Plastic",Program computer numerical control (CNC) machines to fabricate model parts.,Mathematical Reasoning,2,0
+20924,"Model Makers, Metal and Plastic",Program computer numerical control (CNC) machines to fabricate model parts.,Near Vision,1,0
+12024,"Model Makers, Metal and Plastic","Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers.",Near Vision,3,0
+12024,"Model Makers, Metal and Plastic","Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers.",Perceptual Speed,2,0
+12024,"Model Makers, Metal and Plastic","Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers.",Control Precision,1,0
+12025,"Model Makers, Metal and Plastic","Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.",Manual Dexterity,2,0
+12025,"Model Makers, Metal and Plastic","Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.",Control Precision,2,0
+12025,"Model Makers, Metal and Plastic","Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.",Static Strength,2,0
+12025,"Model Makers, Metal and Plastic","Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.",Near Vision,2,0
+12025,"Model Makers, Metal and Plastic","Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.",Arm-Hand Steadiness,1,0
+12030,"Model Makers, Metal and Plastic",Rework or alter component model or parts as required to ensure that products meet standards.,Manual Dexterity,2,0
+12030,"Model Makers, Metal and Plastic",Rework or alter component model or parts as required to ensure that products meet standards.,Control Precision,2,0
+12030,"Model Makers, Metal and Plastic",Rework or alter component model or parts as required to ensure that products meet standards.,Near Vision,2,0
+12030,"Model Makers, Metal and Plastic",Rework or alter component model or parts as required to ensure that products meet standards.,Problem Sensitivity,1,0
+12027,"Model Makers, Metal and Plastic","Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.",Control Precision,2,0
+12027,"Model Makers, Metal and Plastic","Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.",Manual Dexterity,2,0
+12027,"Model Makers, Metal and Plastic","Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.",Arm-Hand Steadiness,2,0
+12027,"Model Makers, Metal and Plastic","Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.",Near Vision,2,0
+12027,"Model Makers, Metal and Plastic","Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.",Finger Dexterity,1,0
+12028,"Model Makers, Metal and Plastic","Grind, file, and sand parts to finished dimensions.",Manual Dexterity,2,0
+12028,"Model Makers, Metal and Plastic","Grind, file, and sand parts to finished dimensions.",Control Precision,2,0
+12028,"Model Makers, Metal and Plastic","Grind, file, and sand parts to finished dimensions.",Near Vision,2,0
+12028,"Model Makers, Metal and Plastic","Grind, file, and sand parts to finished dimensions.",Arm-Hand Steadiness,2,0
+12028,"Model Makers, Metal and Plastic","Grind, file, and sand parts to finished dimensions.",Static Strength,1,0
+12034,"Model Makers, Metal and Plastic","Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.",Visualization,2,0
+12034,"Model Makers, Metal and Plastic","Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.",Manual Dexterity,2,0
+12034,"Model Makers, Metal and Plastic","Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.",Control Precision,2,0
+12034,"Model Makers, Metal and Plastic","Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.",Originality,1,0
+12029,"Model Makers, Metal and Plastic","Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures.",Information Ordering,2,0
+12029,"Model Makers, Metal and Plastic","Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures.",Written Expression,2,0
+12029,"Model Makers, Metal and Plastic","Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures.",Number Facility,1,0
+12031,"Model Makers, Metal and Plastic","Align, fit, and join parts, using bolts and screws or by welding or gluing.",Manual Dexterity,2,0
+12031,"Model Makers, Metal and Plastic","Align, fit, and join parts, using bolts and screws or by welding or gluing.",Finger Dexterity,2,0
+12031,"Model Makers, Metal and Plastic","Align, fit, and join parts, using bolts and screws or by welding or gluing.",Control Precision,2,0
+12031,"Model Makers, Metal and Plastic","Align, fit, and join parts, using bolts and screws or by welding or gluing.",Near Vision,2,0
+12031,"Model Makers, Metal and Plastic","Align, fit, and join parts, using bolts and screws or by welding or gluing.",Arm-Hand Steadiness,2,0
+12026,"Model Makers, Metal and Plastic","Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.",Near Vision,3,0
+12026,"Model Makers, Metal and Plastic","Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.",Control Precision,2,0
+12026,"Model Makers, Metal and Plastic","Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.",Arm-Hand Steadiness,2,0
+12026,"Model Makers, Metal and Plastic","Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.",Number Facility,1,0
+12032,"Model Makers, Metal and Plastic",Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.,Oral Expression,2,0
+12032,"Model Makers, Metal and Plastic",Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.,Oral Comprehension,2,0
+12032,"Model Makers, Metal and Plastic",Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.,Problem Sensitivity,1,0
+20925,"Model Makers, Metal and Plastic",Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts.,Visualization,3,0
+20925,"Model Makers, Metal and Plastic",Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts.,Near Vision,1,0
+20925,"Model Makers, Metal and Plastic",Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts.,Information Ordering,1,0
+12033,"Model Makers, Metal and Plastic","Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.",Finger Dexterity,3,0
+12033,"Model Makers, Metal and Plastic","Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.",Manual Dexterity,2,0
+12033,"Model Makers, Metal and Plastic","Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.",Control Precision,2,0
+12033,"Model Makers, Metal and Plastic","Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.",Near Vision,2,0
+12033,"Model Makers, Metal and Plastic","Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.",Arm-Hand Steadiness,2,0
+12035,"Model Makers, Metal and Plastic",Wire and solder electrical and electronic connections and components.,Finger Dexterity,3,0
+12035,"Model Makers, Metal and Plastic",Wire and solder electrical and electronic connections and components.,Arm-Hand Steadiness,3,0
+12035,"Model Makers, Metal and Plastic",Wire and solder electrical and electronic connections and components.,Near Vision,2,0
+12035,"Model Makers, Metal and Plastic",Wire and solder electrical and electronic connections and components.,Control Precision,2,0
+12038,"Patternmakers, Metal and Plastic","Verify conformance of patterns or template dimensions to specifications, using measuring instruments such as calipers, scales, and micrometers.",Near Vision,3,0
+12038,"Patternmakers, Metal and Plastic","Verify conformance of patterns or template dimensions to specifications, using measuring instruments such as calipers, scales, and micrometers.",Number Facility,1,0
+12038,"Patternmakers, Metal and Plastic","Verify conformance of patterns or template dimensions to specifications, using measuring instruments such as calipers, scales, and micrometers.",Control Precision,1,0
+12036,"Patternmakers, Metal and Plastic","Set up and operate machine tools, such as milling machines, lathes, drill presses, and grinders, to machine castings or patterns.",Control Precision,3,0
+12036,"Patternmakers, Metal and Plastic","Set up and operate machine tools, such as milling machines, lathes, drill presses, and grinders, to machine castings or patterns.",Manual Dexterity,2,0
+12036,"Patternmakers, Metal and Plastic","Set up and operate machine tools, such as milling machines, lathes, drill presses, and grinders, to machine castings or patterns.",Near Vision,2,0
+12036,"Patternmakers, Metal and Plastic","Set up and operate machine tools, such as milling machines, lathes, drill presses, and grinders, to machine castings or patterns.",Finger Dexterity,1,0
+12042,"Patternmakers, Metal and Plastic",Repair and rework templates and patterns.,Manual Dexterity,2,0
+12042,"Patternmakers, Metal and Plastic",Repair and rework templates and patterns.,Control Precision,2,0
+12042,"Patternmakers, Metal and Plastic",Repair and rework templates and patterns.,Near Vision,1,0
+12041,"Patternmakers, Metal and Plastic","Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment.",Manual Dexterity,2,0
+12041,"Patternmakers, Metal and Plastic","Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment.",Finger Dexterity,2,0
+12041,"Patternmakers, Metal and Plastic","Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment.",Control Precision,2,0
+12041,"Patternmakers, Metal and Plastic","Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment.",Near Vision,1,0
+12041,"Patternmakers, Metal and Plastic","Assemble pattern sections, using hand tools, bolts, screws, rivets, glue, or welding equipment.",Arm-Hand Steadiness,1,0
+12037,"Patternmakers, Metal and Plastic","Read and interpret blueprints or drawings of parts to be cast or patterns to be made, compute dimensions, and plan operational sequences.",Visualization,3,0
+12037,"Patternmakers, Metal and Plastic","Read and interpret blueprints or drawings of parts to be cast or patterns to be made, compute dimensions, and plan operational sequences.",Written Comprehension,2,0
+12037,"Patternmakers, Metal and Plastic","Read and interpret blueprints or drawings of parts to be cast or patterns to be made, compute dimensions, and plan operational sequences.",Mathematical Reasoning,2,0
+12037,"Patternmakers, Metal and Plastic","Read and interpret blueprints or drawings of parts to be cast or patterns to be made, compute dimensions, and plan operational sequences.",Information Ordering,2,0
+12045,"Patternmakers, Metal and Plastic","Construct platforms, fixtures, and jigs for holding and placing patterns.",Manual Dexterity,2,0
+12045,"Patternmakers, Metal and Plastic","Construct platforms, fixtures, and jigs for holding and placing patterns.",Control Precision,2,0
+12045,"Patternmakers, Metal and Plastic","Construct platforms, fixtures, and jigs for holding and placing patterns.",Static Strength,2,0
+12045,"Patternmakers, Metal and Plastic","Construct platforms, fixtures, and jigs for holding and placing patterns.",Near Vision,1,0
+12044,"Patternmakers, Metal and Plastic","Clean and finish patterns or templates, using emery cloths, files, scrapers, and power grinders.",Manual Dexterity,2,0
+12044,"Patternmakers, Metal and Plastic","Clean and finish patterns or templates, using emery cloths, files, scrapers, and power grinders.",Control Precision,2,0
+12044,"Patternmakers, Metal and Plastic","Clean and finish patterns or templates, using emery cloths, files, scrapers, and power grinders.",Near Vision,2,0
+12044,"Patternmakers, Metal and Plastic","Clean and finish patterns or templates, using emery cloths, files, scrapers, and power grinders.",Arm-Hand Steadiness,1,0
+12046,"Patternmakers, Metal and Plastic",Mark identification numbers or symbols onto patterns or templates.,Finger Dexterity,2,0
+12046,"Patternmakers, Metal and Plastic",Mark identification numbers or symbols onto patterns or templates.,Near Vision,2,0
+12046,"Patternmakers, Metal and Plastic",Mark identification numbers or symbols onto patterns or templates.,Manual Dexterity,1,0
+12039,"Patternmakers, Metal and Plastic",Program computerized numerical control machine tools.,Information Ordering,2,0
+12039,"Patternmakers, Metal and Plastic",Program computerized numerical control machine tools.,Deductive Reasoning,2,0
+12039,"Patternmakers, Metal and Plastic",Program computerized numerical control machine tools.,Mathematical Reasoning,2,0
+12039,"Patternmakers, Metal and Plastic",Program computerized numerical control machine tools.,Near Vision,1,0
+21025,"Patternmakers, Metal and Plastic","Create computer models of patterns or parts, using modeling software.",Visualization,3,0
+21025,"Patternmakers, Metal and Plastic","Create computer models of patterns or parts, using modeling software.",Near Vision,1,0
+21025,"Patternmakers, Metal and Plastic","Create computer models of patterns or parts, using modeling software.",Information Ordering,1,0
+12040,"Patternmakers, Metal and Plastic","Design and create templates, patterns, or coreboxes according to work orders, sample parts, or mockups.",Visualization,3,0
+12040,"Patternmakers, Metal and Plastic","Design and create templates, patterns, or coreboxes according to work orders, sample parts, or mockups.",Originality,2,0
+12040,"Patternmakers, Metal and Plastic","Design and create templates, patterns, or coreboxes according to work orders, sample parts, or mockups.",Manual Dexterity,2,0
+12040,"Patternmakers, Metal and Plastic","Design and create templates, patterns, or coreboxes according to work orders, sample parts, or mockups.",Deductive Reasoning,1,0
+12043,"Patternmakers, Metal and Plastic","Lay out and draw or scribe patterns onto material, using compasses, protractors, rulers, scribes, or other instruments.",Near Vision,3,0
+12043,"Patternmakers, Metal and Plastic","Lay out and draw or scribe patterns onto material, using compasses, protractors, rulers, scribes, or other instruments.",Control Precision,2,0
+12043,"Patternmakers, Metal and Plastic","Lay out and draw or scribe patterns onto material, using compasses, protractors, rulers, scribes, or other instruments.",Arm-Hand Steadiness,2,0
+12043,"Patternmakers, Metal and Plastic","Lay out and draw or scribe patterns onto material, using compasses, protractors, rulers, scribes, or other instruments.",Finger Dexterity,1,0
+12049,"Patternmakers, Metal and Plastic",Paint or lacquer patterns.,Manual Dexterity,2,0
+12049,"Patternmakers, Metal and Plastic",Paint or lacquer patterns.,Control Precision,1,0
+12049,"Patternmakers, Metal and Plastic",Paint or lacquer patterns.,Near Vision,1,0
+12049,"Patternmakers, Metal and Plastic",Paint or lacquer patterns.,Arm-Hand Steadiness,1,0
+12047,"Patternmakers, Metal and Plastic","Select pattern materials such as wood, resin, and fiberglass.",Deductive Reasoning,2,0
+12047,"Patternmakers, Metal and Plastic","Select pattern materials such as wood, resin, and fiberglass.",Near Vision,1,0
+12047,"Patternmakers, Metal and Plastic","Select pattern materials such as wood, resin, and fiberglass.",Information Ordering,1,0
