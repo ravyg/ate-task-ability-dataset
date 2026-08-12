@@ -14,18 +14,19 @@ previously-missing SOC groups.**
 
 ## TL;DR — how to finish the run
 
-```bash
-cd scripts
-python3 -m pip install -r requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...          # your Anthropic API key
+The labeling is done **inside Claude Code** on your Claude plan credits — the same system
+that produced the first 47 chunks. **No API key, no `pip install` for labeling.**
 
-python3 label_chunks.py          # labels every still-pending chunk (resumable)
-python3 merge_validate.py        # merges + validates -> ../data/task_ability_mapping_new_groups.csv
-```
+1. `cd scripts` and start Claude Code: `claude`
+2. Paste the prompt in **[`RUN_WITH_CLAUDE.md`](RUN_WITH_CLAUDE.md)**. Claude labels the
+   remaining chunks with its **Sonnet** model, skipping the 47 already done.
+3. When labeling finishes, validate:
+   ```bash
+   python3 merge_validate.py     # merges + validates -> ../data/task_ability_mapping_new_groups.csv
+   ```
 
-That's it. `label_chunks.py` **skips any chunk already labeled**, so you can stop and
-re-run any time, and you only pay for what's left. When `merge_validate.py` prints
-`ALL TASKS LABELED`, the run is complete.
+That's it. The run **skips any chunk already labeled**, so you can stop and restart any
+time and only do what's left. When `merge_validate.py` prints `ALL TASKS LABELED`, you're done.
 
 ---
 
@@ -65,13 +66,12 @@ Remaining work by group (everything else is done):
 
 | File | Purpose |
 |------|---------|
-| `label_chunks.py` | Standalone labeler. Calls the Anthropic API, one request per chunk, validates against the 52 abilities, writes one CSV per chunk. **Resumable** (skips done chunks). |
+| `RUN_WITH_CLAUDE.md` | **Start here.** The Claude Code prompt to paste to finish the run (Sonnet, your plan credits, no API key). |
 | `merge_validate.py` | Concatenates all chunk CSVs, validates (52-ability check, dedup, no-skip), writes the merged new-groups CSV, and reports what's still unlabeled. |
 | `LABELING_SPEC_GENERAL.md` | The exact labeling instructions + the 52-ability list + few-shot examples. This is the ground truth for *how* to label. |
 | `manifest.json` | All 118 chunks: `soc`, `chunk`, `n_tasks`, input path, output path, status. |
 | `chunks/socNN/chunk_XX.json` | Input task statements (from O*NET 30.2), grouped into chunks. |
 | `partial_output/socNN_out/chunk_XX.csv` | Already-labeled chunks (the 47 done). Delete one to force a re-label. |
-| `requirements.txt` | Just `anthropic`. |
 
 ## Output schema (one row per task–ability)
 
@@ -83,23 +83,14 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 - `uncertain` — 1 if borderline, else 0.
 - Typically 3–7 abilities per task (dataset mean ≈ 5.4).
 
-## Useful flags
-
-```bash
-python3 label_chunks.py --dry-run          # list what would run, call nothing
-python3 label_chunks.py --soc 51           # only Production
-python3 label_chunks.py --workers 6        # more concurrency (watch rate limits)
-python3 label_chunks.py --model <model-id> # pin a specific model
-```
-
 ## Notes
 
-- **Model:** defaults to Claude **Sonnet** (`claude-sonnet-4-5-20250929`) — matches the
-  method used for the published mappings. Override with `--model` or `ATE_MODEL` if needed.
-- **Idempotent / safe to interrupt:** kill it anytime; re-run resumes. A chunk is "done"
-  purely by the existence of its output CSV.
+- **Model:** must stay on Claude **Sonnet** — matches the method used for the published
+  mappings and the 47 chunks already done. (The prompt in `RUN_WITH_CLAUDE.md` says so.)
+- **Idempotent / safe to interrupt:** stop anytime; restart resumes. A chunk is "done"
+  purely by the existence of its output CSV. To force a redo, delete that CSV.
+- **Cost control:** you can tell Claude to do one SOC group at a time to spread it out.
 - **No PII:** these rows are task-level ability labels only — no annotator names or
   emails. (Human-annotation/crowdsource files live elsewhere and are not touched here.)
-- **Cost control:** run group-by-group with `--soc` if you want to spread it out.
 - After `merge_validate.py` reports `ALL TASKS LABELED`, the new-groups CSV can be
   appended to `../data/task_ability_mapping.csv` for the full economy-wide release.

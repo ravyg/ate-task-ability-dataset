@@ -17,7 +17,27 @@ Usage:  python merge_validate.py
 import os, json, glob, csv, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-from label_chunks import ABILITIES  # single source of truth for the 52 names
+
+# The 52 O*NET abilities — the only permitted ability names.
+ABILITIES = {
+    # Cognitive (21)
+    "Category Flexibility","Deductive Reasoning","Flexibility of Closure","Fluency of Ideas",
+    "Inductive Reasoning","Information Ordering","Mathematical Reasoning","Memorization",
+    "Number Facility","Oral Comprehension","Oral Expression","Originality","Perceptual Speed",
+    "Problem Sensitivity","Selective Attention","Spatial Orientation","Speed of Closure",
+    "Time Sharing","Visualization","Written Comprehension","Written Expression",
+    # Psychomotor (10)
+    "Arm-Hand Steadiness","Control Precision","Finger Dexterity","Manual Dexterity",
+    "Multilimb Coordination","Rate Control","Reaction Time","Response Orientation",
+    "Speed of Limb Movement","Wrist-Finger Speed",
+    # Physical (9)
+    "Dynamic Flexibility","Dynamic Strength","Explosive Strength","Extent Flexibility",
+    "Gross Body Coordination","Gross Body Equilibrium","Stamina","Static Strength","Trunk Strength",
+    # Sensory (12)
+    "Auditory Attention","Depth Perception","Far Vision","Glare Sensitivity","Hearing Sensitivity",
+    "Near Vision","Night Vision","Peripheral Vision","Sound Localization","Speech Clarity",
+    "Speech Recognition","Visual Color Discrimination",
+}
 
 def main():
     manifest = json.load(open(os.path.join(HERE, "manifest.json")))
@@ -66,7 +86,7 @@ def main():
     if unlabeled:
         print(f"\nSTILL UNLABELED: {len(unlabeled)} tasks across groups "
               f"{ {k:v for k,v in sorted(by_group.items())} }")
-        print("Run  python label_chunks.py  to finish them, then re-run this.")
+        print("Finish them in Claude Code (see RUN_WITH_CLAUDE.md), then re-run this.")
     else:
         print("\nALL TASKS LABELED. Ready to append to data/task_ability_mapping.csv")
     print("=" * 60)
