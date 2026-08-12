@@ -1,0 +1,782 @@
+[
+{
+"task_id": "20483",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Develop final construction plans that include aesthetic representations of the structure or details for its construction."
+},
+{
+"task_id": "20479",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Prepare scale drawings or architectural designs, using computer-aided design or other tools."
+},
+{
+"task_id": "130",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Prepare information regarding design, structure specifications, materials, color, equipment, estimated costs, or construction time."
+},
+{
+"task_id": "131",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Consult with clients to determine functional or spatial requirements of structures."
+},
+{
+"task_id": "20481",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Meet with clients to review or discuss architectural drawings."
+},
+{
+"task_id": "20485",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Monitor the work of specialists, such as electrical engineers, mechanical engineers, interior designers, or sound specialists to ensure optimal form or function of designs or final structures."
+},
+{
+"task_id": "136",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Integrate engineering elements into unified architectural designs."
+},
+{
+"task_id": "20486",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Plan layouts of structural architectural projects."
+},
+{
+"task_id": "20484",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Conduct periodic on-site observations of construction work to monitor compliance with plans."
+},
+{
+"task_id": "134",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Prepare contract documents for building contractors."
+},
+{
+"task_id": "19596",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Plan or design structures such as residences, office buildings, theatres, factories, or other structural properties in accordance with environmental, safety, or other regulations."
+},
+{
+"task_id": "20480",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Direct activities of technicians engaged in preparing drawings or specification documents."
+},
+{
+"task_id": "138",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Administer construction contracts."
+},
+{
+"task_id": "20488",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Create three-dimensional or interactive representations of designs, using computer-assisted design software."
+},
+{
+"task_id": "139",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Represent clients in obtaining bids or awarding construction contracts."
+},
+{
+"task_id": "20482",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Develop marketing materials, proposals, or presentations to generate new work opportunities."
+},
+{
+"task_id": "19595",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Perform predesign services, such as feasibility or environmental impact studies."
+},
+{
+"task_id": "19593",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Design structures that incorporate environmentally friendly building practices or concepts, such as Leadership in Energy and Environmental Design (LEED) standards."
+},
+{
+"task_id": "19592",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Design or plan construction of green building projects to minimize adverse environmental impact or conserve energy."
+},
+{
+"task_id": "19594",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Gather information related to projects' environmental sustainability or operational efficiency."
+},
+{
+"task_id": "20487",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Inspect proposed building sites to determine suitability for construction."
+},
+{
+"task_id": "19591",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Design environmentally sound structural upgrades to existing buildings, such as natural lighting systems, green roofs, or rainwater collection systems."
+},
+{
+"task_id": "19590",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards."
+},
+{
+"task_id": "140",
+"soc": "17-1011.00",
+"occupation": "Architects, Except Landscape and Naval",
+"task_text": "Prepare operating and maintenance manuals, studies, or reports."
+},
+{
+"task_id": "20369",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Confer with clients, engineering personnel, or architects on landscape projects."
+},
+{
+"task_id": "20371",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Analyze data on conditions such as site location, drainage, or structure location for environmental reports or landscaping plans."
+},
+{
+"task_id": "20373",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Inspect landscape work to ensure compliance with specifications, evaluate quality of materials or work, or advise clients or construction personnel."
+},
+{
+"task_id": "20370",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Prepare site plans, specifications, or cost estimates for land development."
+},
+{
+"task_id": "20375",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Integrate existing land features or landscaping into designs."
+},
+{
+"task_id": "19597",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Collaborate with architects or related professionals on whole building design to maximize the aesthetic features of structures or surrounding land and to improve energy efficiency."
+},
+{
+"task_id": "18470",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Prepare graphic representations or drawings of proposed plans or designs."
+},
+{
+"task_id": "20378",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Inspect proposed sites to identify structural elements of land areas or other important site information, such as soil condition, existing landscaping, or the proximity of water management facilities."
+},
+{
+"task_id": "20380",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Collaborate with estimators to cost projects, create project plans, or coordinate bids from landscaping contractors."
+},
+{
+"task_id": "19598",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Create landscapes that minimize water consumption such as by incorporating drought-resistant grasses or indigenous plants."
+},
+{
+"task_id": "20379",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Develop planting plans to help clients garden productively or to achieve particular aesthetic effects."
+},
+{
+"task_id": "20376",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Manage the work of subcontractors to ensure quality control."
+},
+{
+"task_id": "20374",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Present project plans or designs to public stakeholders, such as government agencies or community groups."
+},
+{
+"task_id": "20372",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Develop marketing materials, proposals, or presentations to generate new work opportunities."
+},
+{
+"task_id": "20381",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Prepare conceptual drawings, graphics, or other visual representations of land areas to show predicted growth or development of land areas over time."
+},
+{
+"task_id": "19600",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Identify and select appropriate sustainable materials for use in landscape designs, such as recycled wood or recycled concrete boards for structural elements or recycled tires for playground bedding."
+},
+{
+"task_id": "20377",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Research latest products, technology, or design trends to stay current in the field."
+},
+{
+"task_id": "19599",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Design and integrate rainwater harvesting or gray and reclaimed water systems to conserve water into building or land designs."
+},
+{
+"task_id": "20382",
+"soc": "17-1012.00",
+"occupation": "Landscape Architects",
+"task_text": "Provide follow-up consultations for clients to ensure landscape designs are maturing or developing as planned."
+},
+{
+"task_id": "3517",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Compile data required for map preparation, including aerial photographs, survey notes, records, reports, and original maps."
+},
+{
+"task_id": "3522",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Delineate aerial photographic detail, such as control points, hydrography, topography, and cultural features, using precision stereoplotting apparatus or drafting instruments."
+},
+{
+"task_id": "3524",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Prepare and alter trace maps, charts, tables, detailed drawings, and three-dimensional optical models of terrain using stereoscopic plotting and computer graphics equipment."
+},
+{
+"task_id": "3526",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Study legal records to establish boundaries of local, national, and international properties."
+},
+{
+"task_id": "3518",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Inspect final compositions to ensure completeness and accuracy."
+},
+{
+"task_id": "3516",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Revise existing maps and charts, making all necessary corrections and adjustments."
+},
+{
+"task_id": "3514",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Identify, scale, and orient geodetic points, elevations, and other planimetric or topographic features, applying standard mathematical formulas."
+},
+{
+"task_id": "3515",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Collect information about specific features of the Earth, using aerial photography and other digital remote sensing techniques."
+},
+{
+"task_id": "3520",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Examine and analyze data from ground surveys, reports, aerial photographs, and satellite images to prepare topographic maps, aerial-photograph mosaics, and related charts."
+},
+{
+"task_id": "3523",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Build and update digital databases."
+},
+{
+"task_id": "3519",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Determine map content and layout, as well as production specifications such as scale, size, projection, and colors, and direct production to ensure that specifications are followed."
+},
+{
+"task_id": "3525",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Determine guidelines that specify which source material is acceptable for use."
+},
+{
+"task_id": "3521",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Select aerial photographic and remote sensing techniques and plotting equipment needed to meet required standards of accuracy."
+},
+{
+"task_id": "3527",
+"soc": "17-1021.00",
+"occupation": "Cartographers and Photogrammetrists",
+"task_text": "Travel over photographed areas to observe, identify, record, and verify all relevant features."
+},
+{
+"task_id": "3530",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles."
+},
+{
+"task_id": "3528",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performed."
+},
+{
+"task_id": "3534",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents."
+},
+{
+"task_id": "3529",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Verify the accuracy of survey data, including measurements and calculations conducted at survey sites."
+},
+{
+"task_id": "3536",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Search legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed."
+},
+{
+"task_id": "3531",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Record the results of surveys, including the shape, contour, location, elevation, and dimensions of land or land features."
+},
+{
+"task_id": "3533",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Prepare, or supervise preparation of, all data, charts, plots, maps, records, and documents related to surveys."
+},
+{
+"task_id": "3543",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Compute geodetic measurements and interpret survey data to determine positions, shapes, and elevations of geomorphic and topographic features."
+},
+{
+"task_id": "3532",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Calculate heights, depths, relative positions, property lines, and other characteristics of terrain."
+},
+{
+"task_id": "3535",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Plan and conduct ground surveys designed to establish baselines, elevations, and other geodetic measurements."
+},
+{
+"task_id": "3539",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Establish fixed points for use in making maps, using geodetic and engineering instruments."
+},
+{
+"task_id": "3540",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Determine longitudes and latitudes of important features and boundaries in survey areas, using theodolites, transits, levels, and satellite-based global positioning systems (GPS)."
+},
+{
+"task_id": "3541",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Train assistants and helpers, and direct their work in such activities as performing surveys or drafting maps."
+},
+{
+"task_id": "3537",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Coordinate findings with the work of engineering and architectural personnel, clients, and others concerned with projects."
+},
+{
+"task_id": "3542",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Analyze survey objectives and specifications to prepare survey proposals or to direct others in survey proposal preparation."
+},
+{
+"task_id": "20954",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Testify as an expert witness in court cases on land survey issues, such as property boundaries."
+},
+{
+"task_id": "3538",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Adjust surveying instruments to maintain their accuracy."
+},
+{
+"task_id": "3544",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Develop criteria for survey methods and procedures."
+},
+{
+"task_id": "3548",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Survey bodies of water to determine navigable channels and to secure data for construction of breakwaters, piers, and other marine structures."
+},
+{
+"task_id": "3549",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Direct aerial surveys of specified geographical areas."
+},
+{
+"task_id": "3546",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Conduct research in surveying and mapping methods, using knowledge of photogrammetric map compilation and electronic data processing."
+},
+{
+"task_id": "3547",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Locate and mark sites selected for geophysical prospecting activities, such as efforts to locate petroleum or other mineral products."
+},
+{
+"task_id": "3550",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Determine specifications for equipment to be used for aerial photography, as well as altitudes from which to photograph terrain."
+},
+{
+"task_id": "3545",
+"soc": "17-1022.00",
+"occupation": "Surveyors",
+"task_text": "Develop criteria for the design and modification of survey instruments."
+},
+{
+"task_id": "16299",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Analyze control or survey data to ensure adherence to project specifications or land survey standards."
+},
+{
+"task_id": "16302",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Conduct surveys to determine exact positions, measurement of points, elevations, lines, areas, volumes, contours, or other features of land surfaces."
+},
+{
+"task_id": "16298",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Calculate the exact horizontal and vertical position of points on the Earth's surface."
+},
+{
+"task_id": "16295",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Maintain databases of geodetic and related information, including coordinate, descriptive, or quality assurance data."
+},
+{
+"task_id": "16292",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Verify the mathematical correctness of newly collected survey data."
+},
+{
+"task_id": "16297",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Compute horizontal and vertical coordinates of control networks, using direct leveling or other geodetic survey techniques, such as triangulation, trilateration, and traversing, to establish features of the Earth's surface."
+},
+{
+"task_id": "16289",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Plan or direct the work of geodetic surveying staff, providing technical consultation as needed."
+},
+{
+"task_id": "16300",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Assess the quality of control data to determine the need for additional survey data for engineering, construction, or other projects."
+},
+{
+"task_id": "16290",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Distribute compiled geodetic data to government agencies or the general public."
+},
+{
+"task_id": "16293",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Request additional survey data when field collection errors occur or engineering surveying specifications are not maintained."
+},
+{
+"task_id": "16291",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in technology, equipment, or systems."
+},
+{
+"task_id": "16288",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Provide training and interpretation in the use of methods or procedures for observing and checking controls for geodetic and plane coordinates."
+},
+{
+"task_id": "16294",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Prepare progress or technical reports."
+},
+{
+"task_id": "16287",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Review existing standards, controls, or equipment used, recommending changes or upgrades as needed."
+},
+{
+"task_id": "16296",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Compute, retrace, or adjust existing surveys of features such as highway alignments, property boundaries, utilities, control and other surveys to match the ground elevation-dependent grids, geodetic grids, or property boundaries and to ensure accuracy and continuity of data used in engineering, surveying, or construction projects."
+},
+{
+"task_id": "16301",
+"soc": "17-1022.01",
+"occupation": "Geodetic Surveyors",
+"task_text": "Determine orientation of tracts of land, including position, boundaries, size, and shape, using theodolites, electronic distance-measuring equipment, satellite-based positioning equipment, land information systems, or other geodetic survey equipment."
+},
+{
+"task_id": "1339",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Formulate mathematical models or other methods of computer analysis to develop, evaluate, or modify design, according to customer engineering requirements."
+},
+{
+"task_id": "1337",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Plan or conduct experimental, environmental, operational, or stress tests on models or prototypes of aircraft or aerospace systems or equipment."
+},
+{
+"task_id": "20724",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Formulate conceptual design of aeronautical or aerospace products or systems to meet customer requirements or conform to environmental regulations."
+},
+{
+"task_id": "1345",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Plan or coordinate investigation and resolution of customers' reports of technical problems with aircraft or aerospace vehicles."
+},
+{
+"task_id": "1340",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Write technical reports or other documentation, such as handbooks or bulletins, for use by engineering staff, management, or customers."
+},
+{
+"task_id": "1335",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Direct or coordinate activities of engineering or technical personnel involved in designing, fabricating, modifying, or testing of aircraft or aerospace products."
+},
+{
+"task_id": "20725",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Evaluate product data or design from inspections or reports for conformance to engineering principles, customer requirements, environmental regulations, or quality standards."
+},
+{
+"task_id": "20726",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Develop design criteria for aeronautical or aerospace products or systems, including testing methods, production costs, quality standards, environmental standards, or completion dates."
+},
+{
+"task_id": "1341",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Analyze project requests, proposals, or engineering data to determine feasibility, productibility, cost, or production time of aerospace or aeronautical products."
+},
+{
+"task_id": "1346",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Maintain records of performance reports for future reference."
+},
+{
+"task_id": "20727",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Diagnose performance problems by reviewing reports or documentation from customers or field engineers or by inspecting malfunctioning or damaged products."
+},
+{
+"task_id": "20728",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Direct aerospace research and development programs."
+},
+{
+"task_id": "1344",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Evaluate and approve selection of vendors by studying past performance or new advertisements."
+},
+{
+"task_id": "19601",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Design new or modify existing aerospace systems to reduce polluting emissions, such as nitrogen oxide, carbon monoxide, or smoke emissions."
+},
+{
+"task_id": "19602",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Design or engineer filtration systems that reduce harmful emissions."
+},
+{
+"task_id": "19603",
+"soc": "17-2011.00",
+"occupation": "Aerospace Engineers",
+"task_text": "Evaluate biofuel performance specifications to determine feasibility for aerospace applications."
+},
+{
+"task_id": "5336",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Prepare reports, sketches, working drawings, specifications, proposals, and budgets for proposed sites or systems."
+},
+{
+"task_id": "5325",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Visit sites to observe environmental problems, to consult with contractors, or to monitor construction activities."
+},
+{
+"task_id": "5337",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Meet with clients, such as district or regional councils, farmers, and developers, to discuss their needs."
+},
+{
+"task_id": "5331",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Discuss plans with clients, contractors, consultants, and other engineers so that they can be evaluated and necessary changes made."
+},
+{
+"task_id": "5327",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Test agricultural machinery and equipment to ensure adequate performance."
+},
+{
+"task_id": "5334",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Plan and direct construction of rural electric-power distribution systems, and irrigation, drainage, and flood control systems for soil and water conservation."
+},
+{
+"task_id": "5329",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Provide advice on water quality and issues related to pollution management, river control, and ground and surface water resources."
+},
+{
+"task_id": "5328",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Design structures for crop storage, animal shelter and loading, and animal and crop processing, and supervise their construction."
+},
+{
+"task_id": "5330",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity."
+},
+{
+"task_id": "5338",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Design sensing, measuring, and recording devices, and other instrumentation used to study plant or animal life."
+},
+{
+"task_id": "5326",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Design agricultural machinery components and equipment, using computer-aided design (CAD) technology."
+},
+{
+"task_id": "5333",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Design and supervise environmental and land reclamation projects in agriculture and related industries."
+},
+{
+"task_id": "5335",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Design food processing plants and related mechanical systems."
+},
+{
+"task_id": "5332",
+"soc": "17-2021.00",
+"occupation": "Agricultural Engineers",
+"task_text": "Supervise food processing or manufacturing plant operations."
+},
+{
+"task_id": "8968",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Evaluate the safety, efficiency, and effectiveness of biomedical equipment."
+},
+{
+"task_id": "21856",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications."
+},
+{
+"task_id": "21847",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Design or develop medical diagnostic or clinical instrumentation, equipment, or procedures, using the principles of engineering and biobehavioral sciences."
+}
+]

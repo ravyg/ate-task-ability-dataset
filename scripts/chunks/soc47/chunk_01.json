@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8260",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Roll and press sheet wall and floor covering into cement base to smooth and finish surface, using hand roller."
+},
+{
+"task_id": "8261",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Apply adhesive cement to floor or wall material to join and adhere foundation material."
+},
+{
+"task_id": "8262",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Determine traffic areas and decide location of seams."
+},
+{
+"task_id": "8263",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Lay out, position, and apply shock-absorbing, sound-deadening, or decorative coverings to floors, walls, and cabinets, following guidelines to keep courses straight and create designs."
+},
+{
+"task_id": "8264",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Remove excess cement to clean finished surface."
+},
+{
+"task_id": "8265",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Disconnect and remove appliances, light fixtures, and worn floor and wall covering from floors, walls, and cabinets."
+},
+{
+"task_id": "8266",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Heat and soften floor covering materials to patch cracks or fit floor coverings around irregular surfaces, using blowtorch."
+},
+{
+"task_id": "23933",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Buff and vacuum floors to ensure their cleanliness prior to the application of finish."
+},
+{
+"task_id": "14870",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Scrape and sand floor edges and areas inaccessible to floor sanders, using scrapers, disk-type sanders, and sandpaper."
+},
+{
+"task_id": "14869",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Inspect floors for smoothness."
+},
+{
+"task_id": "14872",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Attach sandpaper to rollers of sanding machines."
+},
+{
+"task_id": "14871",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Guide sanding machines over surfaces of floors until surfaces are smooth."
+},
+{
+"task_id": "14873",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Apply filler compound and coats of finish to floors to seal wood."
+},
+{
+"task_id": "14874",
+"soc": "47-2043.00",
+"occupation": "Floor Sanders and Finishers",
+"task_text": "Remove excess glue from joints, using knives, scrapers, or wood chisels."
+},
+{
+"task_id": "2848",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Align and straighten tile using levels, squares, and straightedges."
+},
+{
+"task_id": "2851",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Finish and dress the joints and wipe excess grout from between tiles, using damp sponge."
+},
+{
+"task_id": "2850",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Cut and shape tile to fit around obstacles and into odd spaces and corners, using hand and power cutting tools."
+},
+{
+"task_id": "2849",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Determine and implement the best layout to achieve a desired pattern."
+},
+{
+"task_id": "2853",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Mix, apply, and spread plaster, concrete, mortar, cement, mastic, glue or other adhesives to form a bed for the tiles, using brush, trowel and screed."
+},
+{
+"task_id": "2859",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Study blueprints and examine surface to be covered to determine amount of material needed."
+},
+{
+"task_id": "2855",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Measure and mark surfaces to be tiled, following blueprints."
+},
+{
+"task_id": "2864",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Lay and set mosaic tiles to create decorative wall, mural, and floor designs."
+},
+{
+"task_id": "2852",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Apply mortar to tile back, position the tile, and press or tap with trowel handle to affix tile to base."
+},
+{
+"task_id": "2869",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Mix and apply mortar or cement to edges and ends of drain tiles to seal halves and joints."
+},
+{
+"task_id": "2871",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Apply a sealer to make grout stain- and water-resistant."
+},
+{
+"task_id": "2856",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Level concrete and allow to dry."
+},
+{
+"task_id": "2867",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Measure and cut metal lath to size for walls and ceilings, using tin snips."
+},
+{
+"task_id": "2861",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Install and anchor fixtures in designated positions, using hand tools."
+},
+{
+"task_id": "2858",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Prepare surfaces for tiling by attaching lath or waterproof paper, or by applying a cement mortar coat to a metal screen."
+},
+{
+"task_id": "2866",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Remove and replace cracked or damaged tile."
+},
+{
+"task_id": "2862",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Cut tile backing to required size, using shears."
+},
+{
+"task_id": "2863",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Remove any old tile, grout and adhesive using chisels and scrapers and clean the surface carefully."
+},
+{
+"task_id": "2860",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Cut, surface, polish, and install marble and granite or install pre-cast terrazzo, granite or marble units."
+},
+{
+"task_id": "2870",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Spread mastic or other adhesive base on roof deck to form base for promenade tile, using serrated spreader."
+},
+{
+"task_id": "2865",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Assist customers in selection of tile and grout."
+},
+{
+"task_id": "2854",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Prepare cost and labor estimates, based on calculations of time and materials needed for project."
+},
+{
+"task_id": "2872",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Brush glue onto manila paper on which design has been drawn and position tiles, finished side down, onto paper."
+},
+{
+"task_id": "2868",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Select and order tile and other items to be installed, such as bathroom accessories, walls, panels, and cabinets, according to specifications."
+},
+{
+"task_id": "2857",
+"soc": "47-2044.00",
+"occupation": "Tile and Stone Setters",
+"task_text": "Build underbeds and install anchor bolts, wires, and brackets."
+},
+{
+"task_id": "7047",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Check the forms that hold the concrete to see that they are properly constructed."
+},
+{
+"task_id": "7048",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Set the forms that hold concrete to the desired pitch and depth, and align them."
+},
+{
+"task_id": "7049",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Spread, level, and smooth concrete, using rake, shovel, hand or power trowel, hand or power screed, and float."
+},
+{
+"task_id": "7051",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Monitor how the wind, heat, or cold affect the curing of the concrete throughout the entire process."
+},
+{
+"task_id": "7050",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Mold expansion joints and edges, using edging tools, jointers, and straightedge."
+},
+{
+"task_id": "7052",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Signal truck driver to position truck to facilitate pouring concrete, and move chute to direct concrete on forms."
+},
+{
+"task_id": "7055",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Direct the casting of the concrete and supervise laborers who use shovels or special tools to spread it."
+},
+{
+"task_id": "7053",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Produce rough concrete surface, using broom."
+},
+{
+"task_id": "7061",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Apply hardening and sealing compounds to cure surface of concrete, and waterproof or restore surface."
+},
+{
+"task_id": "7054",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Operate power vibrator to compact concrete."
+},
+{
+"task_id": "7069",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Install anchor bolts, steel plates, door sills and other fixtures in freshly poured concrete or pattern or stamp the surface to provide a decorative finish."
+},
+{
+"task_id": "7059",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth, using trowel."
+},
+{
+"task_id": "7068",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Waterproof or restore concrete surfaces, using appropriate compounds."
+},
+{
+"task_id": "7056",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine."
+},
+{
+"task_id": "7062",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Chip, scrape, and grind high spots, ridges, and rough projections to finish concrete, using pneumatic chisels, power grinders, or hand tools."
+},
+{
+"task_id": "7057",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Cut out damaged areas, drill holes for reinforcing rods, and position reinforcing rods to repair concrete, using power saw and drill."
+},
+{
+"task_id": "7058",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Wet concrete surface, and rub with stone to smooth surface and obtain specified finish."
+},
+{
+"task_id": "7060",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven."
+},
+{
+"task_id": "7064",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Build wooden molds, and clamp molds around area to be repaired, using hand tools."
+},
+{
+"task_id": "7065",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish."
+},
+{
+"task_id": "7067",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Fabricate concrete beams, columns, and panels."
+},
+{
+"task_id": "7072",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Polish surface, using polishing or surfacing machine."
+},
+{
+"task_id": "7066",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Cut metal division strips, and press them into terrazzo base so that top edges form desired design or pattern."
+},
+{
+"task_id": "7071",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Push roller over surface to embed chips in surface."
+},
+{
+"task_id": "7070",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Apply muriatic acid to clean surface, and rinse with water."
+},
+{
+"task_id": "7063",
+"soc": "47-2051.00",
+"occupation": "Cement Masons and Concrete Finishers",
+"task_text": "Spread roofing paper on surface of foundation, and spread concrete onto roofing paper with trowel to form terrazzo base."
+},
+{
+"task_id": "9825",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Measure designated amounts of ingredients for terrazzo or grout, according to standard formulas and specifications, using graduated containers and scales, and load ingredients into portable mixer."
+},
+{
+"task_id": "9829",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Grind surfaces with a power grinder, or polish surfaces with polishing or surfacing machines."
+},
+{
+"task_id": "9823",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Cut metal division strips and press them into the terrazzo base for joints or changes of color to form designs or patterns or to help prevent cracks."
+},
+{
+"task_id": "9824",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Blend marble chip mixtures, place into panels, and push a roller over the surface to embed the chips."
+},
+{
+"task_id": "9831",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Modify mixing, grouting, grinding, or cleaning procedures, according to type of installation or material used."
+},
+{
+"task_id": "9827",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Spread, level, or smooth concrete or terrazzo mixtures to form bases or finished surfaces, using rakes, shovels, hand or power trowels, hand or power screeds, or floats."
+},
+{
+"task_id": "9828",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Grind curved surfaces or areas inaccessible to surfacing machine, such as stairways or cabinet tops, with portable hand grinder."
+},
+{
+"task_id": "9832",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Wash polished terrazzo surface, using cleaner and water, and apply sealer and curing agent according to manufacturer's specifications, using brush or sprayer."
+},
+{
+"task_id": "9830",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Position and secure moisture membrane and wire mesh in preparation for pouring base materials for terrazzo installation."
+},
+{
+"task_id": "9838",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Fill slight grinding depressions with matching grout material and hand-trowel for a smooth, uniform surface."
+},
+{
+"task_id": "9837",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Clean installation site, mixing and storage areas, tools, machines, and equipment, and store materials and equipment."
+},
+{
+"task_id": "9834",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish."
+},
+{
+"task_id": "9835",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth with a trowel."
+},
+{
+"task_id": "9833",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine."
+},
+{
+"task_id": "9839",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Chip, scrape, or grind high spots, ridges, or rough projections to finish concrete, using pneumatic chisel, hand chisel, or other hand tools."
+},
+{
+"task_id": "9826",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Mold expansion joints and edges, using edging tools, jointers, or straightedges."
+},
+{
+"task_id": "9841",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Move terrazzo installation materials, tools, machines, or work devices to work areas, manually or using wheelbarrow."
+},
+{
+"task_id": "9840",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven."
+},
+{
+"task_id": "9836",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Repair concrete by cutting out damaged areas, drilling holes for reinforcing rods, and positioning reinforcing rods, using power saw and drill."
+},
+{
+"task_id": "9845",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Precast terrazzo blocks in wooden forms."
+},
+{
+"task_id": "9848",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Wet concrete surface and rub with stone to smooth surface and obtain specified finish."
+},
+{
+"task_id": "9842",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Build wooden molds, clamping molds around areas to be repaired, or setting up frames to the proper depth and alignment."
+},
+{
+"task_id": "9846",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Spread roofing paper on surface of foundation and spread concrete onto roofing paper with trowel to form terrazzo base."
+},
+{
+"task_id": "9844",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Produce rough concrete surface, using broom."
+},
+{
+"task_id": "9847",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Remove frames when the foundation is dry."
+},
+{
+"task_id": "9843",
+"soc": "47-2053.00",
+"occupation": "Terrazzo Workers and Finishers",
+"task_text": "Signal truck driver to position truck to facilitate pouring concrete and move chute to direct concrete on forms."
+},
+{
+"task_id": "11472",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt."
+},
+{
+"task_id": "11465",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Lubricate, clean, or repair machinery, equipment, or tools."
+},
+{
+"task_id": "11458",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Signal equipment operators to facilitate alignment, movement, or adjustment of machinery, equipment, or materials."
+},
+{
+"task_id": "11456",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Read plans, instructions, or specifications to determine work activities."
+},
+{
+"task_id": "11461",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Measure, mark, or record openings or distances to layout areas where construction work will be performed."
+},
+{
+"task_id": "11455",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Clean or prepare construction sites to eliminate possible hazards."
+},
+{
+"task_id": "11459",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Dig ditches or trenches, backfill excavations, or compact and level earth to grade specifications, using picks, shovels, pneumatic tampers, or rakes."
+},
+{
+"task_id": "11462",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Load, unload, or identify building materials, machinery, or tools, distributing them to the appropriate locations, according to project plans or specifications."
+},
+{
+"task_id": "11460",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Position, join, align, or seal structural components, such as concrete wall sections or pipes."
+},
+{
+"task_id": "19838",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Perform site activities required of green certified construction practices, such as implementing waste management procedures, identifying materials for reuse, or installing erosion or sedimentation control mechanisms."
+},
+{
+"task_id": "11457",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Control traffic passing near, in, or around work zones."
+},
+{
+"task_id": "11469",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Install sewer, water, or storm drain pipes, using pipe-laying machinery or laser guidance equipment."
+},
+{
+"task_id": "11468",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Operate or maintain air monitoring or other sampling devices in confined or hazardous environments."
+},
+{
+"task_id": "11467",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Smooth or finish freshly poured cement or concrete, using floats, trowels, screeds, or powered cement finishing tools."
+},
+{
+"task_id": "11463",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Erect or dismantle scaffolding, shoring, braces, traffic barricades, ramps, or other temporary structures."
+},
+{
+"task_id": "11471",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Provide assistance to craft workers, such as carpenters, plasterers, or masons."
+},
+{
+"task_id": "11482",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Spray materials, such as water, sand, steam, vinyl, paint, or stucco, through hoses to clean, coat, or seal surfaces."
+},
+{
+"task_id": "11481",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Raze buildings or salvage useful materials."
+},
+{
+"task_id": "11473",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Mop, brush, or spread paints, cleaning solutions, or other compounds over surfaces to clean them or to provide protection."
+},
+{
+"task_id": "11464",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Position or dismantle forms for pouring concrete, using saws, hammers, nails, or bolts."
+},
+{
+"task_id": "11478",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Grind, scrape, sand, or polish surfaces, such as concrete, marble, terrazzo, or wood flooring, using abrasive tools or machines."
+},
+{
+"task_id": "11474",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Place, consolidate, or protect case-in-place concrete or masonry structures."
+},
+{
+"task_id": "11480",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Mix ingredients to create compounds for covering or cleaning surfaces."
+},
+{
+"task_id": "11477",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Mix, pour, or spread concrete, using portable cement mixers."
+},
+{
+"task_id": "11466",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Operate jackhammers or drills to break up concrete or pavement."
+},
+{
+"task_id": "11483",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Apply caulking compounds by hand or caulking guns to protect against entry of water or air."
+},
+{
+"task_id": "11479",
+"soc": "47-2061.00",
+"occupation": "Construction Laborers",
+"task_text": "Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls."
+},
+{
+"task_id": "4796",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Start machine, engage clutch, and push and move levers to guide machine along forms or guidelines and to control the operation of machine attachments."
+},
+{
+"task_id": "4809",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Fill tanks, hoppers, or machines with paving materials."
+},
+{
+"task_id": "4807",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Control paving machines to push dump trucks and to maintain a constant flow of asphalt or other material into hoppers or screeds."
+},
+{
+"task_id": "4805",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Observe distribution of paving material to adjust machine settings or material flow, and indicate low spots for workers to add material."
+},
+{
+"task_id": "4800",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Coordinate truck dumping."
+},
+{
+"task_id": "4804",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Drive machines onto truck trailers, and drive trucks to transport machines and material to and from job sites."
+},
+{
+"task_id": "4797",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Inspect, clean, maintain, and repair equipment, using mechanics' hand tools, or report malfunctions to supervisors."
+},
+{
+"task_id": "4801",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Set up and tear down equipment."
+},
+{
+"task_id": "4798",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Operate machines to spread, smooth, level, or steel-reinforce stone, concrete, or asphalt on road beds."
+},
+{
+"task_id": "4806",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Light burners or start heating units of machines, and regulate screed temperatures and asphalt flow rates."
+},
+{
+"task_id": "20143",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Control traffic."
+},
+{
+"task_id": "4803",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Shovel blacktop."
+}
+]

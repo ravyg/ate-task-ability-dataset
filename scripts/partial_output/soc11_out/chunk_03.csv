@@ -1,0 +1,832 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Selective Attention,3,0
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Perceptual Speed,2,0
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Near Vision,2,0
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Problem Sensitivity,2,0
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Written Comprehension,1,0
+15441,Geothermal Production Managers,"Monitor geothermal operations, using programmable logic controllers.",Deductive Reasoning,2,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Inductive Reasoning,3,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Problem Sensitivity,3,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Deductive Reasoning,2,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Far Vision,2,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Written Comprehension,2,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Oral Expression,2,0
+15432,Geothermal Production Managers,Conduct well field site assessments.,Gross Body Coordination,1,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Inductive Reasoning,3,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Problem Sensitivity,3,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Deductive Reasoning,2,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Originality,2,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Visualization,2,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Written Comprehension,2,0
+15442,Geothermal Production Managers,"Identify opportunities to improve plant electrical equipment, controls, or process control methodologies.",Category Flexibility,2,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Written Expression,3,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Written Comprehension,3,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Deductive Reasoning,2,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Information Ordering,2,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Oral Comprehension,2,0
+15437,Geothermal Production Managers,Prepare environmental permit applications or compliance reports.,Near Vision,1,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Oral Comprehension,3,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Oral Expression,3,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Deductive Reasoning,2,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Written Comprehension,2,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Speech Recognition,2,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Speech Clarity,2,0
+15440,Geothermal Production Managers,Negotiate interconnection agreements with other utilities.,Problem Sensitivity,2,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Written Comprehension,3,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Written Expression,2,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Deductive Reasoning,2,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Oral Comprehension,2,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Oral Expression,2,0
+15438,Geothermal Production Managers,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",Information Ordering,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Problem Sensitivity,3,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Inductive Reasoning,3,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Deductive Reasoning,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Manual Dexterity,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Finger Dexterity,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Near Vision,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Arm-Hand Steadiness,2,0
+15435,Geothermal Production Managers,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,Control Precision,1,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Oral Comprehension,3,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Oral Expression,3,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Problem Sensitivity,2,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Deductive Reasoning,2,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Speech Recognition,2,0
+15454,Biofuels Production Managers,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",Speech Clarity,2,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Deductive Reasoning,3,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Information Ordering,3,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Problem Sensitivity,2,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Oral Comprehension,2,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Written Comprehension,2,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Inductive Reasoning,2,0
+15462,Biofuels Production Managers,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",Time Sharing,2,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Oral Expression,3,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Oral Comprehension,2,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Written Comprehension,2,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Deductive Reasoning,2,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Speech Clarity,2,0
+15450,Biofuels Production Managers,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",Speech Recognition,1,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Oral Comprehension,3,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Oral Expression,3,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Problem Sensitivity,2,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Speech Recognition,2,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Speech Clarity,2,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Deductive Reasoning,2,0
+15453,Biofuels Production Managers,"Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.",Inductive Reasoning,2,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Written Comprehension,3,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Problem Sensitivity,3,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Perceptual Speed,2,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Inductive Reasoning,2,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Near Vision,2,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Selective Attention,2,0
+15456,Biofuels Production Managers,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",Number Facility,1,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Selective Attention,3,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Perceptual Speed,3,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Near Vision,2,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Problem Sensitivity,2,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Deductive Reasoning,2,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Reaction Time,2,0
+15458,Biofuels Production Managers,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",Visual Color Discrimination,1,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Control Precision,3,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Selective Attention,3,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Problem Sensitivity,2,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Reaction Time,2,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Near Vision,2,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Perceptual Speed,2,0
+15461,Biofuels Production Managers,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",Deductive Reasoning,2,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Oral Expression,3,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Oral Comprehension,2,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Speech Clarity,2,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Written Comprehension,2,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Deductive Reasoning,2,0
+15449,Biofuels Production Managers,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,Information Ordering,2,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Problem Sensitivity,3,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Reaction Time,3,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Deductive Reasoning,2,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Selective Attention,2,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Control Precision,2,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Time Sharing,2,0
+15455,Biofuels Production Managers,"Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Information Ordering,2,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Problem Sensitivity,3,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Selective Attention,2,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Written Comprehension,2,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Deductive Reasoning,2,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Oral Comprehension,2,0
+15451,Biofuels Production Managers,Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.,Far Vision,1,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Finger Dexterity,3,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Manual Dexterity,2,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Arm-Hand Steadiness,2,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Near Vision,2,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Selective Attention,2,0
+15452,Biofuels Production Managers,Draw samples of biofuels products or secondary by-products for quality control testing.,Problem Sensitivity,1,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Deductive Reasoning,3,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Written Comprehension,3,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Inductive Reasoning,2,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Problem Sensitivity,2,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Oral Comprehension,2,0
+15460,Biofuels Production Managers,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",Category Flexibility,2,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Mathematical Reasoning,3,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Number Facility,3,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Deductive Reasoning,2,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Written Comprehension,2,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Written Expression,2,0
+15457,Biofuels Production Managers,Prepare and manage biofuels plant or unit budgets.,Information Ordering,2,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Mathematical Reasoning,3,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Inductive Reasoning,3,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Number Facility,2,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Deductive Reasoning,2,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Written Comprehension,2,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Written Expression,2,0
+15459,Biofuels Production Managers,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",Perceptual Speed,1,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Deductive Reasoning,3,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Written Comprehension,3,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Oral Expression,2,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Problem Sensitivity,2,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Information Ordering,2,0
+21162,Biomass Power Plant Managers,Manage safety programs at power generation facilities.,Oral Comprehension,2,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Written Comprehension,3,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Deductive Reasoning,3,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Problem Sensitivity,2,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Inductive Reasoning,2,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Near Vision,2,0
+15471,Biomass Power Plant Managers,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,Oral Comprehension,1,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Written Comprehension,3,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Problem Sensitivity,3,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Perceptual Speed,2,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Inductive Reasoning,2,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Near Vision,2,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Selective Attention,2,0
+15470,Biomass Power Plant Managers,"Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.",Number Facility,1,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Oral Expression,3,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Oral Comprehension,2,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Problem Sensitivity,2,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Deductive Reasoning,2,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Speech Clarity,2,0
+15468,Biomass Power Plant Managers,"Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.",Speech Recognition,2,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Problem Sensitivity,3,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Deductive Reasoning,2,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Oral Expression,2,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Oral Comprehension,2,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Information Ordering,2,0
+15478,Biomass Power Plant Managers,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",Time Sharing,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Problem Sensitivity,3,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Near Vision,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Far Vision,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Perceptual Speed,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Deductive Reasoning,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Inductive Reasoning,2,0
+15480,Biomass Power Plant Managers,"Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.",Gross Body Coordination,1,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Information Ordering,3,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Deductive Reasoning,2,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Written Comprehension,2,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Written Expression,2,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Oral Expression,2,0
+15474,Biomass Power Plant Managers,"Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.",Time Sharing,2,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Mathematical Reasoning,3,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Number Facility,3,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Deductive Reasoning,2,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Written Comprehension,2,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Written Expression,2,0
+15473,Biomass Power Plant Managers,Prepare and manage biomass plant budgets.,Information Ordering,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Inductive Reasoning,3,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Mathematical Reasoning,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Problem Sensitivity,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Deductive Reasoning,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Number Facility,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Written Comprehension,2,0
+15477,Biomass Power Plant Managers,Evaluate power production or demand trends to identify opportunities for improved operations.,Category Flexibility,1,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Problem Sensitivity,3,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Inductive Reasoning,3,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Near Vision,2,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Far Vision,2,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Deductive Reasoning,2,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Perceptual Speed,2,0
+15476,Biomass Power Plant Managers,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",Gross Body Coordination,1,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Written Expression,3,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Written Comprehension,2,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Information Ordering,2,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Deductive Reasoning,2,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Number Facility,2,0
+15472,Biomass Power Plant Managers,"Prepare reports on biomass plant operations, status, maintenance, and other information.",Near Vision,1,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Number Facility,3,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Information Ordering,2,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Deductive Reasoning,2,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Written Comprehension,2,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Mathematical Reasoning,2,0
+15464,Biomass Power Plant Managers,Manage parts and supply inventories for biomass plants.,Perceptual Speed,1,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Auditory Attention,3,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Speech Recognition,3,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Oral Comprehension,2,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Oral Expression,2,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Selective Attention,2,0
+15465,Biomass Power Plant Managers,"Monitor and operate communications systems, such as mobile radios.",Hearing Sensitivity,2,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Problem Sensitivity,3,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Reaction Time,3,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Deductive Reasoning,2,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Selective Attention,2,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Control Precision,2,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Time Sharing,2,0
+15469,Biomass Power Plant Managers,"Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.",Information Ordering,2,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Written Expression,3,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Number Facility,2,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Perceptual Speed,2,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Near Vision,2,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Information Ordering,2,0
+15466,Biomass Power Plant Managers,Compile and record operational data on forms or in log books.,Selective Attention,2,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Selective Attention,3,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Perceptual Speed,3,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Near Vision,2,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Problem Sensitivity,2,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Visual Color Discrimination,2,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Deductive Reasoning,2,0
+15479,Biomass Power Plant Managers,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",Reaction Time,1,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Control Precision,3,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Selective Attention,3,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Perceptual Speed,2,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Near Vision,2,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Reaction Time,2,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Arm-Hand Steadiness,2,0
+15467,Biomass Power Plant Managers,Adjust equipment controls to generate specified amounts of electrical power.,Problem Sensitivity,1,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Manual Dexterity,3,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Finger Dexterity,3,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Problem Sensitivity,2,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Near Vision,2,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Arm-Hand Steadiness,2,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Deductive Reasoning,2,0
+15463,Biomass Power Plant Managers,"Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.",Control Precision,2,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Control Precision,3,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Selective Attention,3,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Reaction Time,2,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Multilimb Coordination,2,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Near Vision,2,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Problem Sensitivity,2,0
+15475,Biomass Power Plant Managers,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",Perceptual Speed,2,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Deductive Reasoning,3,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Problem Sensitivity,3,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Oral Expression,2,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Information Ordering,2,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Oral Comprehension,2,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Written Comprehension,2,0
+15520,Hydroelectric Production Managers,"Direct operations, maintenance, or repair of hydroelectric power facilities.",Time Sharing,2,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Problem Sensitivity,3,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Oral Expression,3,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Reaction Time,2,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Speech Clarity,2,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Oral Comprehension,2,0
+15515,Hydroelectric Production Managers,Identify and communicate power system emergencies.,Selective Attention,2,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Written Expression,3,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Information Ordering,2,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Written Comprehension,2,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Near Vision,2,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Number Facility,2,0
+15512,Hydroelectric Production Managers,"Maintain records of hydroelectric facility operations, maintenance, or repairs.",Perceptual Speed,1,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Problem Sensitivity,3,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Deductive Reasoning,2,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Oral Expression,2,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Information Ordering,2,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Gross Body Coordination,1,0
+15509,Hydroelectric Production Managers,Perform or direct preventive or corrective containment or cleanup to protect the environment.,Far Vision,1,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Selective Attention,3,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Problem Sensitivity,3,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Near Vision,2,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Far Vision,2,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Perceptual Speed,2,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Inductive Reasoning,2,0
+15513,Hydroelectric Production Managers,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",Hearing Sensitivity,1,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Problem Sensitivity,3,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Near Vision,2,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Far Vision,2,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Perceptual Speed,2,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Deductive Reasoning,2,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Gross Body Coordination,2,0
+15514,Hydroelectric Production Managers,"Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.",Inductive Reasoning,2,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Selective Attention,3,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Deductive Reasoning,2,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Problem Sensitivity,2,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Oral Expression,2,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Written Comprehension,2,0
+15519,Hydroelectric Production Managers,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,Perceptual Speed,2,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Deductive Reasoning,3,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Information Ordering,3,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Oral Comprehension,2,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Oral Expression,2,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Written Comprehension,2,0
+15508,Hydroelectric Production Managers,Plan or coordinate hydroelectric production operations to meet customer requirements.,Time Sharing,2,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Deductive Reasoning,3,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Problem Sensitivity,3,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Perceptual Speed,2,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Selective Attention,2,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Near Vision,2,0
+15518,Hydroelectric Production Managers,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",Number Facility,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Inductive Reasoning,3,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Deductive Reasoning,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Problem Sensitivity,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Originality,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Written Comprehension,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Written Expression,2,0
+15504,Hydroelectric Production Managers,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",Mathematical Reasoning,2,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Deductive Reasoning,3,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Oral Expression,3,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Problem Sensitivity,2,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Visualization,2,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Oral Comprehension,2,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Inductive Reasoning,2,0
+15503,Hydroelectric Production Managers,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,Speech Clarity,2,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Deductive Reasoning,2,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Oral Expression,3,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Problem Sensitivity,2,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Information Ordering,2,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Oral Comprehension,2,0
+15505,Hydroelectric Production Managers,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",Speech Clarity,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Deductive Reasoning,3,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Inductive Reasoning,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Written Comprehension,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Information Ordering,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Visualization,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Mathematical Reasoning,2,0
+15507,Hydroelectric Production Managers,Plan or manage hydroelectric plant upgrades.,Originality,1,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Oral Comprehension,3,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Oral Expression,3,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Problem Sensitivity,2,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Deductive Reasoning,2,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Written Comprehension,2,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Speech Recognition,2,0
+15506,Hydroelectric Production Managers,"Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.",Speech Clarity,2,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Written Comprehension,3,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Deductive Reasoning,3,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Mathematical Reasoning,2,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Number Facility,2,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Written Expression,2,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Information Ordering,2,0
+15516,Hydroelectric Production Managers,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",Near Vision,1,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Deductive Reasoning,3,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Written Comprehension,3,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Written Expression,2,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Inductive Reasoning,2,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Information Ordering,2,0
+15502,Hydroelectric Production Managers,Develop or implement policy evaluation procedures for hydroelectric generation activities.,Problem Sensitivity,2,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Selective Attention,3,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Control Precision,3,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Problem Sensitivity,2,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Deductive Reasoning,2,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Near Vision,2,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Reaction Time,2,0
+15510,Hydroelectric Production Managers,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",Arm-Hand Steadiness,2,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Deductive Reasoning,3,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Written Expression,2,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Number Facility,2,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Information Ordering,2,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Mathematical Reasoning,2,0
+15517,Hydroelectric Production Managers,Create or enforce hydrostation voltage schedules.,Written Comprehension,2,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Written Expression,3,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Written Comprehension,3,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Deductive Reasoning,2,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Information Ordering,2,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Inductive Reasoning,2,0
+1027,Purchasing Managers,"Develop and implement purchasing and contract management instructions, policies, and procedures.",Oral Comprehension,2,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Oral Comprehension,3,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Oral Expression,3,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Speech Recognition,2,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Speech Clarity,2,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Deductive Reasoning,2,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Problem Sensitivity,2,0
+1021,Purchasing Managers,"Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales.",Written Comprehension,1,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Written Expression,3,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Written Comprehension,3,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Deductive Reasoning,2,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Information Ordering,2,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Number Facility,2,0
+1033,Purchasing Managers,Prepare bid awards requiring board approval.,Mathematical Reasoning,2,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Oral Expression,3,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Deductive Reasoning,2,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Information Ordering,2,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Oral Comprehension,2,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Speech Clarity,2,0
+1032,Purchasing Managers,"Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies.",Time Sharing,2,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Written Comprehension,3,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Deductive Reasoning,3,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Problem Sensitivity,2,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Near Vision,2,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Perceptual Speed,2,0
+1025,Purchasing Managers,Review purchase order claims and contracts for conformance to company policy.,Information Ordering,1,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Written Comprehension,3,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Deductive Reasoning,3,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Inductive Reasoning,2,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Problem Sensitivity,2,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Near Vision,2,0
+1031,Purchasing Managers,"Review, evaluate, and approve specifications for issuing and awarding bids.",Number Facility,2,0
+1035,Purchasing Managers,Administer online purchasing systems.,Written Comprehension,3,0
+1035,Purchasing Managers,Administer online purchasing systems.,Information Ordering,2,0
+1035,Purchasing Managers,Administer online purchasing systems.,Near Vision,2,0
+1035,Purchasing Managers,Administer online purchasing systems.,Perceptual Speed,2,0
+1035,Purchasing Managers,Administer online purchasing systems.,Deductive Reasoning,2,0
+1035,Purchasing Managers,Administer online purchasing systems.,Number Facility,2,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Written Expression,3,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Number Facility,2,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Information Ordering,2,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Deductive Reasoning,2,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Near Vision,2,0
+1022,Purchasing Managers,Prepare and process requisitions and purchase orders for supplies and equipment.,Perceptual Speed,2,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Oral Comprehension,3,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Oral Expression,3,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Speech Recognition,2,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Speech Clarity,2,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Deductive Reasoning,2,0
+1024,Purchasing Managers,"Interview and hire staff, and oversee staff training.",Problem Sensitivity,2,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Inductive Reasoning,3,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Mathematical Reasoning,3,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Deductive Reasoning,2,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Number Facility,2,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Written Comprehension,2,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Originality,2,0
+21039,Purchasing Managers,Develop cost reduction strategies and savings plans.,Fluency of Ideas,1,0
+1023,Purchasing Managers,Control purchasing department budgets.,Mathematical Reasoning,3,0
+1023,Purchasing Managers,Control purchasing department budgets.,Number Facility,3,0
+1023,Purchasing Managers,Control purchasing department budgets.,Deductive Reasoning,2,0
+1023,Purchasing Managers,Control purchasing department budgets.,Written Comprehension,2,0
+1023,Purchasing Managers,Control purchasing department budgets.,Information Ordering,2,0
+1023,Purchasing Managers,Control purchasing department budgets.,Selective Attention,2,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Oral Comprehension,3,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Oral Expression,3,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Problem Sensitivity,2,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Deductive Reasoning,2,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Speech Recognition,2,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Speech Clarity,2,0
+1029,Purchasing Managers,Resolve vendor or contractor grievances and claims against suppliers.,Written Comprehension,2,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Inductive Reasoning,3,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Deductive Reasoning,2,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Mathematical Reasoning,2,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Written Comprehension,2,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Number Facility,2,0
+1026,Purchasing Managers,Analyze market and delivery systems to assess present and future material availability.,Problem Sensitivity,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Deductive Reasoning,3,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Inductive Reasoning,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Written Comprehension,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Written Expression,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Oral Expression,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Problem Sensitivity,2,0
+1028,Purchasing Managers,"Participate in the development of specifications for equipment, products, or substitute materials.",Category Flexibility,2,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Written Expression,3,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Information Ordering,2,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Number Facility,2,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Near Vision,2,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Perceptual Speed,2,0
+1020,Purchasing Managers,Maintain records of goods ordered and received.,Deductive Reasoning,1,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Oral Comprehension,3,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Oral Expression,3,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Deductive Reasoning,2,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Speech Recognition,2,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Speech Clarity,2,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Written Comprehension,2,0
+1030,Purchasing Managers,Represent companies in negotiating contracts and formulating policies with suppliers.,Problem Sensitivity,2,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Written Expression,3,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Written Comprehension,2,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Mathematical Reasoning,2,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Number Facility,2,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Inductive Reasoning,2,0
+1034,Purchasing Managers,Prepare reports regarding market conditions and merchandise costs.,Information Ordering,2,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Deductive Reasoning,3,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Oral Expression,2,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Information Ordering,2,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Written Comprehension,2,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Oral Comprehension,2,0
+1036,Purchasing Managers,Arrange for disposal of surplus materials.,Problem Sensitivity,1,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Oral Expression,3,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Oral Comprehension,2,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Problem Sensitivity,2,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Information Ordering,2,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Deductive Reasoning,2,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Speech Clarity,2,0
+21340,"Transportation, Storage, and Distribution Managers","Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials.",Selective Attention,1,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Deductive Reasoning,3,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Written Comprehension,3,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Problem Sensitivity,2,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Written Expression,2,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Information Ordering,2,0
+21341,"Transportation, Storage, and Distribution Managers","Plan, develop, or implement warehouse safety and security programs and activities.",Inductive Reasoning,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Problem Sensitivity,3,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Near Vision,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Far Vision,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Deductive Reasoning,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Perceptual Speed,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Inductive Reasoning,2,0
+21342,"Transportation, Storage, and Distribution Managers","Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements.",Gross Body Coordination,1,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Oral Expression,3,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Deductive Reasoning,2,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Oral Comprehension,2,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Information Ordering,2,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Speech Clarity,2,0
+21343,"Transportation, Storage, and Distribution Managers","Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements.",Time Sharing,2,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Oral Comprehension,3,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Oral Expression,3,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Deductive Reasoning,2,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Written Comprehension,2,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Speech Recognition,2,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Speech Clarity,2,0
+21344,"Transportation, Storage, and Distribution Managers","Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping.",Information Ordering,2,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Inductive Reasoning,3,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Deductive Reasoning,3,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Mathematical Reasoning,2,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Number Facility,2,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Written Comprehension,2,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Problem Sensitivity,2,0
+21345,"Transportation, Storage, and Distribution Managers",Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,Category Flexibility,2,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Problem Sensitivity,3,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Deductive Reasoning,2,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Oral Expression,2,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Oral Comprehension,2,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Inductive Reasoning,2,0
+21346,"Transportation, Storage, and Distribution Managers","Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues.",Written Comprehension,2,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Written Expression,3,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Written Comprehension,3,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Deductive Reasoning,2,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Information Ordering,2,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Inductive Reasoning,2,0
+21347,"Transportation, Storage, and Distribution Managers","Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials.",Problem Sensitivity,2,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Deductive Reasoning,3,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Problem Sensitivity,2,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Oral Expression,2,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Written Comprehension,2,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Selective Attention,2,0
+21348,"Transportation, Storage, and Distribution Managers","Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations.",Information Ordering,2,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Mathematical Reasoning,3,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Inductive Reasoning,3,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Number Facility,2,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Deductive Reasoning,2,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Written Comprehension,2,0
+21349,"Transportation, Storage, and Distribution Managers","Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers.",Problem Sensitivity,2,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Number Facility,3,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Selective Attention,2,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Near Vision,2,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Perceptual Speed,2,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Deductive Reasoning,2,0
+21350,"Transportation, Storage, and Distribution Managers",Monitor inventory levels of products or materials in warehouses.,Written Comprehension,2,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Deductive Reasoning,3,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Inductive Reasoning,2,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Mathematical Reasoning,2,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Number Facility,2,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Written Comprehension,2,0
+21351,"Transportation, Storage, and Distribution Managers",Establish or monitor specific supply chain-based performance measurement systems.,Information Ordering,2,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Mathematical Reasoning,3,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Number Facility,3,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Deductive Reasoning,2,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Written Expression,2,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Written Comprehension,2,0
+21352,"Transportation, Storage, and Distribution Managers",Prepare and manage departmental budgets.,Information Ordering,2,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Written Comprehension,3,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Deductive Reasoning,3,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Problem Sensitivity,2,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Selective Attention,2,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Perceptual Speed,2,0
+21353,"Transportation, Storage, and Distribution Managers",Monitor product import or export processes to ensure compliance with regulatory or legal requirements.,Information Ordering,2,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Written Expression,3,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Mathematical Reasoning,2,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Deductive Reasoning,2,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Written Comprehension,2,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Number Facility,2,0
+21354,"Transportation, Storage, and Distribution Managers","Prepare management recommendations, such as proposed fee and tariff increases or schedule changes.",Inductive Reasoning,2,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Oral Comprehension,3,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Oral Expression,3,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Speech Recognition,2,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Speech Clarity,2,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Deductive Reasoning,2,0
+21355,"Transportation, Storage, and Distribution Managers","Interview, select, and train warehouse and supervisory personnel.",Problem Sensitivity,2,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Oral Expression,3,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Oral Comprehension,2,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Mathematical Reasoning,2,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Number Facility,2,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Written Comprehension,2,0
+21356,"Transportation, Storage, and Distribution Managers",Advise sales and billing departments of transportation charges for customers' accounts.,Speech Clarity,2,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Mathematical Reasoning,3,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Inductive Reasoning,3,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Number Facility,2,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Deductive Reasoning,2,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Written Comprehension,2,0
+21357,"Transportation, Storage, and Distribution Managers","Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",Written Expression,2,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Oral Comprehension,3,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Oral Expression,3,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Deductive Reasoning,2,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Speech Recognition,2,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Speech Clarity,2,0
+21358,"Transportation, Storage, and Distribution Managers","Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing.",Information Ordering,2,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Deductive Reasoning,3,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Written Comprehension,2,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Information Ordering,2,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Number Facility,2,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Written Expression,2,0
+21359,"Transportation, Storage, and Distribution Managers","Implement specific customer requirements, such as internal reporting or customized transportation metrics.",Inductive Reasoning,2,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Written Expression,3,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Information Ordering,2,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Number Facility,2,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Near Vision,2,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Perceptual Speed,2,0
+21360,"Transportation, Storage, and Distribution Managers","Maintain metrics, reports, process documentation, customer service logs, or training or safety records.",Written Comprehension,2,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Written Comprehension,3,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Deductive Reasoning,3,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Near Vision,2,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Perceptual Speed,2,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Problem Sensitivity,2,0
+21361,"Transportation, Storage, and Distribution Managers",Examine invoices and shipping manifests for conformity to tariff and customs regulations.,Selective Attention,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Inductive Reasoning,3,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Deductive Reasoning,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Mathematical Reasoning,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Originality,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Category Flexibility,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Written Comprehension,2,0
+21362,"Transportation, Storage, and Distribution Managers","Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",Problem Sensitivity,2,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Deductive Reasoning,3,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Inductive Reasoning,2,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Written Comprehension,2,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Problem Sensitivity,2,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Number Facility,2,0
+21363,"Transportation, Storage, and Distribution Managers",Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,Perceptual Speed,2,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Oral Comprehension,3,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Oral Expression,3,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Deductive Reasoning,2,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Speech Recognition,2,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Speech Clarity,2,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Mathematical Reasoning,2,0
+21364,"Transportation, Storage, and Distribution Managers","Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates.",Number Facility,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Deductive Reasoning,3,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Inductive Reasoning,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Visualization,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Written Comprehension,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Mathematical Reasoning,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Originality,2,0
+21365,"Transportation, Storage, and Distribution Managers","Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design.",Spatial Orientation,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Oral Expression,3,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Deductive Reasoning,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Information Ordering,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Problem Sensitivity,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Oral Comprehension,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Time Sharing,2,0
+21366,"Transportation, Storage, and Distribution Managers","Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management.",Speech Clarity,2,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Inductive Reasoning,3,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Deductive Reasoning,2,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Problem Sensitivity,2,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Originality,2,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Written Comprehension,2,0
+21367,"Transportation, Storage, and Distribution Managers",Plan or implement improvements to internal or external systems or processes.,Category Flexibility,2,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Deductive Reasoning,3,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Mathematical Reasoning,2,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Written Comprehension,2,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Number Facility,2,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Inductive Reasoning,2,0
+21368,"Transportation, Storage, and Distribution Managers",Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services.,Problem Sensitivity,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Written Comprehension,3,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Number Facility,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Deductive Reasoning,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Inductive Reasoning,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Near Vision,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Information Ordering,2,0
+21369,"Transportation, Storage, and Distribution Managers","Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments.",Perceptual Speed,2,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Deductive Reasoning,3,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Mathematical Reasoning,2,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Inductive Reasoning,2,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Number Facility,2,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Problem Sensitivity,2,0
+20942,Supply Chain Managers,"Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",Oral Expression,2,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Deductive Reasoning,3,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Information Ordering,3,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Mathematical Reasoning,2,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Number Facility,2,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Written Comprehension,2,0
+20943,Supply Chain Managers,"Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.",Time Sharing,2,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Inductive Reasoning,3,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Mathematical Reasoning,2,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Deductive Reasoning,2,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Spatial Orientation,2,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Number Facility,2,0
+15680,Supply Chain Managers,Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.,Category Flexibility,2,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Deductive Reasoning,3,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Inductive Reasoning,2,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Mathematical Reasoning,2,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Number Facility,2,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Written Expression,2,0
+15695,Supply Chain Managers,"Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.",Written Comprehension,2,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Inductive Reasoning,3,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Deductive Reasoning,2,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Problem Sensitivity,2,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Information Ordering,2,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Written Comprehension,2,0
+20944,Supply Chain Managers,Implement new or improved supply chain processes to improve efficiency or performance.,Originality,2,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Deductive Reasoning,3,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Written Expression,2,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Information Ordering,2,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Oral Expression,2,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Written Comprehension,2,0
+15700,Supply Chain Managers,"Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.",Inductive Reasoning,2,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Oral Comprehension,3,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Oral Expression,3,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Deductive Reasoning,2,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Speech Recognition,2,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Speech Clarity,2,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Mathematical Reasoning,2,0
+15694,Supply Chain Managers,Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.,Inductive Reasoning,2,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Inductive Reasoning,3,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Mathematical Reasoning,2,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Number Facility,2,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Deductive Reasoning,2,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Problem Sensitivity,2,0
+15696,Supply Chain Managers,"Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.",Written Comprehension,2,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Oral Comprehension,3,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Oral Expression,3,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Deductive Reasoning,2,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Speech Recognition,2,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Speech Clarity,2,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Mathematical Reasoning,2,0
+15685,Supply Chain Managers,"Negotiate prices and terms with suppliers, vendors, or freight forwarders.",Number Facility,2,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Inductive Reasoning,3,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Deductive Reasoning,2,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Written Comprehension,2,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Number Facility,2,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Mathematical Reasoning,2,0
+15697,Supply Chain Managers,Analyze information about supplier performance or procurement program success.,Problem Sensitivity,2,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Problem Sensitivity,3,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Deductive Reasoning,2,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Selective Attention,2,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Written Comprehension,2,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Inductive Reasoning,2,0
+20945,Supply Chain Managers,Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.,Perceptual Speed,1,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Inductive Reasoning,3,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Deductive Reasoning,3,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Originality,2,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Mathematical Reasoning,2,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Written Comprehension,2,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Category Flexibility,2,0
+15701,Supply Chain Managers,"Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.",Problem Sensitivity,2,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Oral Comprehension,3,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Oral Expression,3,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Speech Recognition,2,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Speech Clarity,2,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Deductive Reasoning,2,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Mathematical Reasoning,2,0
+15688,Supply Chain Managers,"Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.",Written Comprehension,1,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Inductive Reasoning,3,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Number Facility,2,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Mathematical Reasoning,2,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Deductive Reasoning,2,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Problem Sensitivity,2,0
+20946,Supply Chain Managers,Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.,Selective Attention,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Oral Comprehension,3,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Oral Expression,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Deductive Reasoning,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Information Ordering,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Written Comprehension,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Time Sharing,2,0
+15698,Supply Chain Managers,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",Problem Sensitivity,2,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Deductive Reasoning,3,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Inductive Reasoning,2,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Oral Expression,2,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Oral Comprehension,2,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Problem Sensitivity,2,0
+20947,Supply Chain Managers,"Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.",Written Comprehension,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Inductive Reasoning,3,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Deductive Reasoning,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Visualization,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Spatial Orientation,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Written Comprehension,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Mathematical Reasoning,2,0
+15693,Supply Chain Managers,Design or implement plant warehousing strategies for production materials or finished products.,Originality,2,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Deductive Reasoning,3,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Inductive Reasoning,2,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Written Comprehension,2,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Information Ordering,2,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Problem Sensitivity,2,0
+19541,Supply Chain Managers,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",Written Expression,2,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Deductive Reasoning,3,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Inductive Reasoning,2,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Written Expression,2,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Written Comprehension,2,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Information Ordering,2,0
+15692,Supply Chain Managers,Develop or implement procedures or systems to evaluate or select suppliers.,Problem Sensitivity,2,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Written Expression,3,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Information Ordering,2,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Deductive Reasoning,2,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Near Vision,2,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Written Comprehension,2,0
+15691,Supply Chain Managers,"Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.",Perceptual Speed,1,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Visualization,3,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Spatial Orientation,2,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Oral Expression,2,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Written Expression,2,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Deductive Reasoning,2,0
+15681,Supply Chain Managers,Diagram supply chain models to help facilitate discussions with customers.,Inductive Reasoning,2,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Deductive Reasoning,3,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Inductive Reasoning,2,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Written Comprehension,2,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Problem Sensitivity,2,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Category Flexibility,2,0
+19542,Supply Chain Managers,"Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.",Mathematical Reasoning,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Inductive Reasoning,3,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Problem Sensitivity,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Deductive Reasoning,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Originality,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Fluency of Ideas,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Written Comprehension,2,0
+19543,Supply Chain Managers,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",Category Flexibility,2,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Written Comprehension,3,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Deductive Reasoning,3,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Information Ordering,2,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Problem Sensitivity,2,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Inductive Reasoning,2,0
+19546,Supply Chain Managers,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",Written Expression,2,0

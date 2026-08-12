@@ -1,0 +1,782 @@
+[
+{
+"task_id": "10642",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Secure cargo for transport, using ropes, blocks, chain, binders, or covers."
+},
+{
+"task_id": "10635",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Follow appropriate safety procedures for transporting dangerous goods."
+},
+{
+"task_id": "10655",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Inventory and inspect goods to be moved to determine quantities and conditions."
+},
+{
+"task_id": "10658",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Follow special cargo-related procedures, such as checking refrigeration systems for frozen foods or providing food or water for livestock."
+},
+{
+"task_id": "10660",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Install or remove special equipment, such as tire chains, grader blades, plow blades, or sanders."
+},
+{
+"task_id": "20697",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Wrap and secure goods using pads, packing paper, containers, or straps."
+},
+{
+"task_id": "19922",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment."
+},
+{
+"task_id": "10659",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Give directions to laborers who are packing goods and moving them onto trailers."
+},
+{
+"task_id": "8615",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Obey traffic laws and follow established traffic and transportation procedures."
+},
+{
+"task_id": "8617",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Report any mechanical problems encountered with vehicles."
+},
+{
+"task_id": "8620",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Verify the contents of inventory loads against shipping papers."
+},
+{
+"task_id": "8616",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Inspect and maintain vehicle supplies and equipment, such as gas, oil, water, tires, lights, or brakes, to ensure that vehicles are in proper working condition."
+},
+{
+"task_id": "8623",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Read maps and follow written or verbal geographic directions."
+},
+{
+"task_id": "8619",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Load and unload trucks, vans, or automobiles."
+},
+{
+"task_id": "8618",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Present bills and receipts and collect payments for goods delivered or loaded."
+},
+{
+"task_id": "8622",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Maintain records, such as vehicle logs, records of cargo, or billing statements, in accordance with regulations."
+},
+{
+"task_id": "8626",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Drive vehicles with capacities under three tons to transport materials to and from specified destinations, such as railroad stations, plants, residences, offices, or within industrial yards."
+},
+{
+"task_id": "8621",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Turn in receipts and money received from deliveries."
+},
+{
+"task_id": "8628",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Use and maintain the tools or equipment found on commercial vehicles, such as weighing or measuring devices."
+},
+{
+"task_id": "8624",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Report delays, accidents, or other traffic and transportation situations to bases or other vehicles, using telephones or mobile two-way radios."
+},
+{
+"task_id": "8629",
+"soc": "53-3033.00",
+"occupation": "Light Truck Drivers",
+"task_text": "Perform emergency repairs, such as changing tires or installing light bulbs, fuses, tire chains, or spark plugs."
+},
+{
+"task_id": "23716",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Comply with traffic regulations to operate vehicles in a safe and courteous manner."
+},
+{
+"task_id": "23719",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Follow safety rules as students board and exit buses or cross streets near bus stops."
+},
+{
+"task_id": "23715",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order."
+},
+{
+"task_id": "23729",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Report any bus malfunctions or needed repairs."
+},
+{
+"task_id": "23724",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Pick up and drop off students at regularly scheduled neighborhood locations, following strict time schedules."
+},
+{
+"task_id": "23717",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Drive gasoline, diesel, or electrically powered multi-passenger vehicles to transport students between neighborhoods, schools, and school activities."
+},
+{
+"task_id": "23722",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Maintain order among students during trips to ensure safety."
+},
+{
+"task_id": "23725",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Prepare and submit reports that may include the number of students or trips, hours worked, mileage, or fuel consumption."
+},
+{
+"task_id": "23721",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Maintain knowledge of first-aid procedures."
+},
+{
+"task_id": "23727",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Record bus routes."
+},
+{
+"task_id": "23730",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios."
+},
+{
+"task_id": "23720",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Keep bus interiors clean for students."
+},
+{
+"task_id": "23726",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Read maps and follow written and verbal geographic directions."
+},
+{
+"task_id": "23728",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Regulate heating, lighting, and ventilation systems for student comfort."
+},
+{
+"task_id": "23731",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Report delinquent student behaviors to school administration."
+},
+{
+"task_id": "23718",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Escort small children across roads and highways."
+},
+{
+"task_id": "23723",
+"soc": "53-3051.00",
+"occupation": "Bus Drivers, School",
+"task_text": "Make minor repairs to vehicles."
+},
+{
+"task_id": "18794",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Drive vehicles over specified routes or to specified destinations according to time schedules, complying with traffic regulations to ensure that passengers have a smooth and safe ride."
+},
+{
+"task_id": "3146",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Park vehicles at loading areas so that passengers can board."
+},
+{
+"task_id": "3144",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Inspect vehicles and check gas, oil, and water levels prior to departure."
+},
+{
+"task_id": "21085",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Announce stops to passengers."
+},
+{
+"task_id": "18795",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Assist passengers, such as elderly or individuals with disabilities, on and off bus, ensure they are seated properly, help carry baggage, and answer questions about bus schedules or routes."
+},
+{
+"task_id": "18798",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Collect tickets or cash fares from passengers."
+},
+{
+"task_id": "18796",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Handle passenger emergencies or disruptions."
+},
+{
+"task_id": "3148",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Report delays or accidents."
+},
+{
+"task_id": "3149",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Advise passengers to be seated and orderly while on vehicles."
+},
+{
+"task_id": "3150",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Regulate heating, lighting, and ventilating systems for passenger comfort."
+},
+{
+"task_id": "18797",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Record information, such as cash receipts and ticket fares, and maintain log book."
+},
+{
+"task_id": "18799",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Maintain cleanliness of bus or motor coach."
+},
+{
+"task_id": "21086",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Read maps to plan bus routes."
+},
+{
+"task_id": "3151",
+"soc": "53-3052.00",
+"occupation": "Bus Drivers, Transit and Intercity",
+"task_text": "Load and unload baggage in baggage compartments."
+},
+{
+"task_id": "23756",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation."
+},
+{
+"task_id": "23733",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Check the condition of a vehicle's tires, brakes, windshield wipers, lights, oil, fuel, water, and safety equipment to ensure that everything is in working order."
+},
+{
+"task_id": "23737",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Comply with traffic regulations to operate vehicles in a safe and courteous manner."
+},
+{
+"task_id": "23739",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations."
+},
+{
+"task_id": "23742",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Operate vehicles with specialized equipment, such as wheelchair lifts, to transport and secure passengers with special needs."
+},
+{
+"task_id": "23754",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Report any vehicle malfunctions or needed repairs."
+},
+{
+"task_id": "23745",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water."
+},
+{
+"task_id": "23746",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Pick up and drop off passengers at regularly scheduled neighborhood locations, following strict time schedules."
+},
+{
+"task_id": "23738",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Drive shuttle busses, limousines, company cars, or privately owned vehicles to transport passengers."
+},
+{
+"task_id": "23748",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Prepare and submit reports that may include the number of passengers or trips, hours worked, mileage driven fuel consumed, or fares received."
+},
+{
+"task_id": "23741",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Notify dispatchers or company mechanics of vehicle problems."
+},
+{
+"task_id": "23749",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Provide passengers with assistance entering and exiting vehicles, and help them with any luggage."
+},
+{
+"task_id": "23735",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service."
+},
+{
+"task_id": "23747",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Pick up or meet passengers according to requests, appointments, or schedules."
+},
+{
+"task_id": "23732",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Arrange to pick up particular customers or groups on a regular schedule."
+},
+{
+"task_id": "23755",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Report delays, accidents, or other traffic and transportation situations, using telephones or mobile two-way radios."
+},
+{
+"task_id": "23736",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Complete accident reports when necessary."
+},
+{
+"task_id": "23751",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Read maps and follow written and verbal geographic directions."
+},
+{
+"task_id": "23740",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Maintain knowledge of first-aid procedures."
+},
+{
+"task_id": "23753",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Regulate heating, lighting, and ventilation systems for passenger comfort."
+},
+{
+"task_id": "23752",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Record vehicle routes."
+},
+{
+"task_id": "23757",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Vacuum and clean interiors, and wash and polish exteriors of automobiles."
+},
+{
+"task_id": "23750",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants."
+},
+{
+"task_id": "23734",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Collect fares or vouchers from passengers, and make change or issue receipts as necessary."
+},
+{
+"task_id": "23744",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing."
+},
+{
+"task_id": "23743",
+"soc": "53-3053.00",
+"occupation": "Shuttle Drivers and Chauffeurs",
+"task_text": "Perform errands for customers or employers, such as delivering or picking up mail and packages."
+},
+{
+"task_id": "23758",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Collect fares or vouchers from passengers, and make change or issue receipts as necessary."
+},
+{
+"task_id": "23759",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Communicate with dispatchers by radio, telephone, or computer to exchange information and receive requests for passenger service."
+},
+{
+"task_id": "23760",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Complete accident reports when necessary."
+},
+{
+"task_id": "23761",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Determine fares based on trip distances and times, using taximeters and fee schedules, and announce fares to passengers."
+},
+{
+"task_id": "23762",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Drive taxicabs or privately owned vehicles to transport passengers."
+},
+{
+"task_id": "23763",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Follow relevant safety regulations and state laws governing vehicle operation, and ensure that passengers follow safety regulations."
+},
+{
+"task_id": "23764",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Notify dispatchers or company mechanics of vehicle problems."
+},
+{
+"task_id": "23765",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Perform minor vehicle repairs, such as cleaning spark plugs, or take vehicles to mechanics for servicing."
+},
+{
+"task_id": "23766",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Perform routine vehicle maintenance, such as regulating tire pressure and adding gasoline, oil, and water."
+},
+{
+"task_id": "23767",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Pick up passengers at prearranged locations, at taxi stands, or by cruising streets in high-traffic areas."
+},
+{
+"task_id": "23768",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Provide passengers with assistance entering and exiting vehicles, and help them with any luggage."
+},
+{
+"task_id": "23769",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Provide passengers with information or advice about the local area, points of interest, hotels, or restaurants."
+},
+{
+"task_id": "23770",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Report to taxicab services or garages to receive vehicle assignments."
+},
+{
+"task_id": "23771",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Test vehicle equipment, such as lights, brakes, horns, or windshield wipers, to ensure proper operation."
+},
+{
+"task_id": "23772",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Turn the taximeter on when passengers enter the cab, and turn it off when they reach the final destination."
+},
+{
+"task_id": "23773",
+"soc": "53-3054.00",
+"occupation": "Taxi Drivers",
+"task_text": "Vacuum and clean interiors and wash and polish exteriors of automobiles."
+},
+{
+"task_id": "12752",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Interpret train orders, signals, or railroad rules and regulations that govern the operation of locomotives."
+},
+{
+"task_id": "12754",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Confer with conductors or traffic control center personnel via radiophones to issue or receive information concerning stops, delays, or oncoming trains."
+},
+{
+"task_id": "12753",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Receive starting signals from conductors and use controls such as throttles or air brakes to drive electric, diesel-electric, steam, or gas turbine-electric locomotives."
+},
+{
+"task_id": "12750",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Monitor gauges or meters that measure speed, amperage, battery charge, or air pressure in brake lines or in main reservoirs."
+},
+{
+"task_id": "12751",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Observe tracks to detect obstructions."
+},
+{
+"task_id": "12758",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Call out train signals to assistants to verify meanings."
+},
+{
+"task_id": "12755",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Operate locomotives to transport freight or passengers between stations or to assemble or disassemble trains within rail yards."
+},
+{
+"task_id": "12757",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Check to ensure that brake examination tests are conducted at shunting stations."
+},
+{
+"task_id": "12756",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Respond to emergency conditions or breakdowns, following applicable safety procedures and rules."
+},
+{
+"task_id": "12759",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Inspect locomotives to verify adequate fuel, sand, water, or other supplies before each run or to check for mechanical problems."
+},
+{
+"task_id": "12762",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Inspect locomotives after runs to detect damaged or defective equipment."
+},
+{
+"task_id": "12760",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Prepare reports regarding any problems encountered, such as accidents, signaling problems, unscheduled stops, or delays."
+},
+{
+"task_id": "12761",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Check to ensure that documentation, such as procedure manuals or logbooks, are in the driver's cab and available for staff use."
+},
+{
+"task_id": "12764",
+"soc": "53-4011.00",
+"occupation": "Locomotive Engineers",
+"task_text": "Monitor train loading procedures to ensure that freight or rolling stock are loaded or unloaded without damage."
+},
+{
+"task_id": "10667",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Observe and respond to wayside and cab signals, including color light signals, position signals, torpedoes, flags, and hot box detectors."
+},
+{
+"task_id": "10669",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Inspect engines before and after use to ensure proper operation."
+},
+{
+"task_id": "10670",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Apply and release hand brakes."
+},
+{
+"task_id": "10666",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Signal crew members for movement of engines or trains, using lanterns, hand signals, radios, or telephones."
+},
+{
+"task_id": "10665",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Confer with conductors and other workers via radiotelephones or computers to exchange switching information."
+},
+{
+"task_id": "10675",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Inspect track for defects such as broken rails and switch malfunctions."
+},
+{
+"task_id": "10673",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Observe water levels and oil, air, and steam pressure gauges to ensure proper operation of equipment."
+},
+{
+"task_id": "10679",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Couple and uncouple air hoses and electrical connections between cars."
+},
+{
+"task_id": "10668",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars."
+},
+{
+"task_id": "10672",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Inspect the condition of stationary trains, rolling stock, and equipment."
+},
+{
+"task_id": "10671",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Read switching instructions and daily car schedules to determine work to be performed, or receive orders from yard conductors."
+},
+{
+"task_id": "10678",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Receive, relay, and act upon instructions and inquiries from train operations and customer service center personnel."
+},
+{
+"task_id": "10674",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Spot cars for loading and unloading at customer locations."
+},
+{
+"task_id": "10677",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Operate track switches, derails, automatic switches, and retarders to change routing of train or cars."
+},
+{
+"task_id": "10680",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Report arrival and departure times, train delays, work order completion, and time on duty."
+},
+{
+"task_id": "10685",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Perform routine repair and maintenance duties."
+},
+{
+"task_id": "10683",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Drive locomotives to and from various stations in roundhouses to have locomotives cleaned, serviced, repaired, or supplied."
+},
+{
+"task_id": "10681",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Pull knuckles to open them for coupling."
+},
+{
+"task_id": "10682",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Provide assistance in aligning drawbars, using available equipment to lift, pull, or push on the drawbars."
+},
+{
+"task_id": "10676",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Ride on moving cars by holding onto grab irons and standing on ladder steps."
+},
+{
+"task_id": "10684",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed."
+},
+{
+"task_id": "10687",
+"soc": "53-4013.00",
+"occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+"task_text": "Operate flatcars equipped with derricks or railcars to transport personnel or equipment."
+}
+]

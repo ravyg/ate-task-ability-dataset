@@ -1,0 +1,782 @@
+[
+{
+"task_id": "7964",
+"soc": "33-9011.00",
+"occupation": "Animal Control Workers",
+"task_text": "Clean facilities and equipment such as dog pens and animal control trucks."
+},
+{
+"task_id": "7972",
+"soc": "33-9011.00",
+"occupation": "Animal Control Workers",
+"task_text": "Organize the adoption of unclaimed animals."
+},
+{
+"task_id": "7971",
+"soc": "33-9011.00",
+"occupation": "Animal Control Workers",
+"task_text": "Examine animal licenses, and inspect establishments housing animals for compliance with laws."
+},
+{
+"task_id": "7973",
+"soc": "33-9011.00",
+"occupation": "Animal Control Workers",
+"task_text": "Train police officers in dog handling and training techniques for tracking, crowd control, and narcotics and bomb detection."
+},
+{
+"task_id": "13095",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Write reports or case summaries to document investigations."
+},
+{
+"task_id": "13099",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Conduct private investigations on a paid basis."
+},
+{
+"task_id": "13096",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations."
+},
+{
+"task_id": "20758",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history."
+},
+{
+"task_id": "13106",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Expose fraudulent insurance claims or stolen funds."
+},
+{
+"task_id": "13097",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases."
+},
+{
+"task_id": "13100",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Testify at hearings or court trials to present evidence."
+},
+{
+"task_id": "13101",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status."
+},
+{
+"task_id": "13102",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras."
+},
+{
+"task_id": "13107",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions."
+},
+{
+"task_id": "13105",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills."
+},
+{
+"task_id": "13104",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees."
+},
+{
+"task_id": "13103",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Alert appropriate personnel to suspects' locations."
+},
+{
+"task_id": "13109",
+"soc": "33-9021.00",
+"occupation": "Private Detectives and Investigators",
+"task_text": "Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages."
+},
+{
+"task_id": "4409",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Monitor establishment activities to ensure adherence to all state gaming regulations and company policies and procedures."
+},
+{
+"task_id": "4407",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Observe casino or casino hotel operations for irregular activities, such as cheating or theft by employees or patrons, using audio and video equipment and one-way mirrors."
+},
+{
+"task_id": "4408",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Report all violations and suspicious behaviors to supervisors, verbally or in writing."
+},
+{
+"task_id": "21145",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Develop and maintain log of surveillance observations."
+},
+{
+"task_id": "21146",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Inspect and monitor audio or video surveillance equipment to ensure it is working appropriately."
+},
+{
+"task_id": "21147",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Review video surveillance footage."
+},
+{
+"task_id": "4410",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Act as oversight or security agents for management or customers."
+},
+{
+"task_id": "4411",
+"soc": "33-9031.00",
+"occupation": "Gambling Surveillance Officers and Gambling Investigators",
+"task_text": "Supervise or train surveillance observers."
+},
+{
+"task_id": "20894",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Lock doors and gates of entrances and exits to secure buildings."
+},
+{
+"task_id": "2131",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Patrol industrial or commercial premises to prevent and detect signs of intrusion and ensure security of doors, windows, and gates."
+},
+{
+"task_id": "20895",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Respond to medical emergencies by administering basic first aid or by obtaining assistance from paramedics."
+},
+{
+"task_id": "2132",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Answer alarms and investigate disturbances."
+},
+{
+"task_id": "2136",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Circulate among visitors, patrons, or employees to preserve order and protect property."
+},
+{
+"task_id": "2133",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises."
+},
+{
+"task_id": "2134",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences."
+},
+{
+"task_id": "2138",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Warn persons of rule infractions or violations, and apprehend or evict violators from premises, using force when necessary."
+},
+{
+"task_id": "2137",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Answer telephone calls to take messages, answer questions, and provide information during non-business hours or when switchboard is closed."
+},
+{
+"task_id": "2135",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons."
+},
+{
+"task_id": "2139",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Operate detecting devices to screen individuals and prevent passage of prohibited articles into restricted areas."
+},
+{
+"task_id": "2141",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Inspect and adjust security systems, equipment, or machinery to ensure operational use and to detect evidence of tampering."
+},
+{
+"task_id": "2140",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Escort or drive motor vehicle to transport individuals to specified locations or to provide personal protection."
+},
+{
+"task_id": "2143",
+"soc": "33-9032.00",
+"occupation": "Security Guards",
+"task_text": "Monitor and adjust controls that regulate building systems, such as air conditioning, furnace, or boiler."
+},
+{
+"task_id": "11117",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Direct or escort pedestrians across streets, stopping traffic, as necessary."
+},
+{
+"task_id": "11118",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Guide or control vehicular or pedestrian traffic at such places as street and railroad crossings and construction sites."
+},
+{
+"task_id": "11116",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Monitor traffic flow to locate safe gaps through which pedestrians can cross streets."
+},
+{
+"task_id": "11119",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Communicate traffic and crossing rules and other information to students and adults."
+},
+{
+"task_id": "11122",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals."
+},
+{
+"task_id": "11120",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Report unsafe behavior of children to school officials."
+},
+{
+"task_id": "11121",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Record license numbers of vehicles disregarding traffic signals, and report infractions to appropriate authorities."
+},
+{
+"task_id": "11125",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Distribute traffic control signs and markers at designated points."
+},
+{
+"task_id": "11124",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Stop speeding vehicles to warn drivers of traffic laws."
+},
+{
+"task_id": "11123",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Learn the location and purpose of street traffic signs within assigned patrol areas."
+},
+{
+"task_id": "11126",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Discuss traffic routing plans and control-point locations with superiors."
+},
+{
+"task_id": "11127",
+"soc": "33-9091.00",
+"occupation": "Crossing Guards and Flaggers",
+"task_text": "Inform drivers of detour routes through construction sites."
+},
+{
+"task_id": "5041",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers."
+},
+{
+"task_id": "5039",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Rescue distressed persons, using rescue techniques and equipment."
+},
+{
+"task_id": "5040",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Contact emergency medical personnel in case of serious injury."
+},
+{
+"task_id": "5042",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment."
+},
+{
+"task_id": "5044",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Warn recreational participants of inclement weather, unsafe areas, or illegal conduct."
+},
+{
+"task_id": "20129",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Maintain quality of pool water by testing chemical levels."
+},
+{
+"task_id": "5045",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information."
+},
+{
+"task_id": "5043",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information."
+},
+{
+"task_id": "5046",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear."
+},
+{
+"task_id": "5048",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Inspect recreational facilities for cleanliness."
+},
+{
+"task_id": "5049",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions."
+},
+{
+"task_id": "5051",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Operate underwater recovery units."
+},
+{
+"task_id": "5047",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Provide assistance with staff selection, training, and supervision."
+},
+{
+"task_id": "5050",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Provide assistance in the safe use of equipment, such as ski lifts."
+},
+{
+"task_id": "5052",
+"soc": "33-9092.00",
+"occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+"task_text": "Participate in recreational demonstrations to entertain resort guests."
+},
+{
+"task_id": "15341",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Inspect carry-on items, using x-ray viewing equipment, to determine whether items contain objects that warrant further investigation."
+},
+{
+"task_id": "15348",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Search carry-on or checked baggage by hand when it is suspected to contain prohibited items such as weapons."
+},
+{
+"task_id": "15332",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Check passengers' tickets to ensure that they are valid, and to determine whether passengers have designations that require special handling, such as providing photo identification."
+},
+{
+"task_id": "15350",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Test baggage for any explosive materials, using equipment such as explosive detection machines or chemical swab systems."
+},
+{
+"task_id": "15346",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Perform pat-down or hand-held wand searches of passengers who have triggered machine alarms, who are unable to pass through metal detectors, or who have been randomly identified for such searches."
+},
+{
+"task_id": "15345",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Notify supervisors or other appropriate personnel when security breaches occur."
+},
+{
+"task_id": "15349",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Send checked baggage through automated screening machines, and set bags aside for searching or rescreening as indicated by equipment."
+},
+{
+"task_id": "15337",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Decide whether baggage that triggers alarms should be searched or should be allowed to pass through."
+},
+{
+"task_id": "15354",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Follow those who breach security until police or other security personnel arrive to apprehend them."
+},
+{
+"task_id": "15339",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Inform other screeners when baggage should not be opened because it might contain explosives."
+},
+{
+"task_id": "15342",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Inspect checked baggage for signs of tampering."
+},
+{
+"task_id": "15331",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Ask passengers to remove shoes and divest themselves of metal objects prior to walking through metal detectors."
+},
+{
+"task_id": "15333",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Close entry areas following security breaches or reopen areas after receiving notification that the airport is secure."
+},
+{
+"task_id": "15353",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Challenge suspicious people, requesting their badges and asking what their business is in a particular areas."
+},
+{
+"task_id": "15355",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Patrol work areas to detect any suspicious items."
+},
+{
+"task_id": "15336",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Contact police directly in cases of urgent security issues, using phones or two-way radios."
+},
+{
+"task_id": "15347",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Record information about any baggage that sets off alarms in monitoring equipment."
+},
+{
+"task_id": "15352",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Watch for potentially dangerous persons whose pictures are posted at checkpoints."
+},
+{
+"task_id": "15335",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Contact leads or supervisors to discuss objects of concern that are not on prohibited object lists."
+},
+{
+"task_id": "15334",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Confiscate dangerous items and hazardous materials found in opened bags and turn them over to airlines for disposal."
+},
+{
+"task_id": "15344",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Monitor passenger flow through screening checkpoints to ensure order and efficiency."
+},
+{
+"task_id": "15340",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Inform passengers of how to mail prohibited items to themselves, or confiscate these items."
+},
+{
+"task_id": "15356",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Provide directions and respond to passenger inquiries."
+},
+{
+"task_id": "15338",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Direct passengers to areas where they can pick up their baggage after screening is complete."
+},
+{
+"task_id": "15351",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "View images of checked bags and cargo, using remote screening equipment, and alert baggage screeners or handlers to any possible problems."
+},
+{
+"task_id": "15343",
+"soc": "33-9093.00",
+"occupation": "Transportation Security Screeners",
+"task_text": "Locate suspicious bags pictured in printouts sent from remote monitoring areas, and set these bags aside for inspection."
+},
+{
+"task_id": "23081",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Announce routes or stops."
+},
+{
+"task_id": "23082",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Assist children with disabilities or children with psychological, emotional, or behavioral issues with boarding and exiting the school bus."
+},
+{
+"task_id": "23083",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Buckle seatbelts or fasten wheelchair tie-down straps to secure passengers for transportation."
+},
+{
+"task_id": "23084",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Clean school bus interiors by picking up waste, wiping down windows, or vacuuming."
+},
+{
+"task_id": "23085",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Direct students boarding and exiting the school bus."
+},
+{
+"task_id": "23086",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Direct students evacuating the bus during safety drills."
+},
+{
+"task_id": "23087",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Escort young children across roads or highways."
+},
+{
+"task_id": "23088",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Evacuate students from the school bus in emergency situations."
+},
+{
+"task_id": "23089",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Guide the driver when the bus is moving in reverse gear."
+},
+{
+"task_id": "23090",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Monitor for trains at railroad crossings and signal the bus driver when it is safe to proceed."
+},
+{
+"task_id": "23091",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Monitor the conduct of students to maintain discipline and safety."
+},
+{
+"task_id": "23092",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Open and close school bus doors for students."
+},
+{
+"task_id": "23093",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Operate a wheelchair lift to load or unload wheelchairs."
+},
+{
+"task_id": "23094",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Prevent or defuse altercations between students."
+},
+{
+"task_id": "23095",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Report delays, accidents, or other traffic and transportation situations to dispatchers or other bus drivers, using phones or mobile two-way radios."
+},
+{
+"task_id": "23096",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Respond to students' questions, requests, or complaints."
+},
+{
+"task_id": "23097",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Talk to children's parents or guardians about problematic behaviors, emotional or developmental problems, or related issues."
+},
+{
+"task_id": "23098",
+"soc": "33-9094.00",
+"occupation": "School Bus Monitors",
+"task_text": "Write and submit reports that include data such as the number of passengers or trips, hours worked, mileage driven, or fuel consumed."
+},
+{
+"task_id": "17561",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Investigate known or suspected internal theft, external theft, or vendor fraud."
+},
+{
+"task_id": "17560",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Implement or monitor processes to reduce property or financial losses."
+},
+{
+"task_id": "17565",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Identify and report merchandise or stock shortages."
+},
+{
+"task_id": "17567",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Maintain documentation or reports on security-related incidents or investigations."
+},
+{
+"task_id": "17575",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Apprehend shoplifters in accordance with guidelines."
+},
+{
+"task_id": "17573",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Verify proper functioning of physical security systems, such as closed-circuit televisions, alarms, sensor tag systems, or locks."
+},
+{
+"task_id": "17578",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Identify and report safety concerns to maintain a safe shopping and working environment."
+},
+{
+"task_id": "17563",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Conduct store audits to identify problem areas or procedural deficiencies."
+},
+{
+"task_id": "17568",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Monitor compliance with standard operating procedures for loss prevention, physical security, or risk management."
+},
+{
+"task_id": "17566",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Inspect buildings, equipment, or access points to determine security risks."
+},
+{
+"task_id": "17569",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Perform covert surveillance of areas susceptible to loss, such loading docks, distribution centers, or warehouses."
+},
+{
+"task_id": "17570",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Prepare written reports on investigations."
+},
+{
+"task_id": "17562",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Collaborate with law enforcement agencies to report or investigate crimes."
+},
+{
+"task_id": "17574",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Testify in civil or criminal court proceedings."
+},
+{
+"task_id": "17579",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Recommend methods to reduce potential financial fraud losses."
+},
+{
+"task_id": "17572",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Train establishment personnel in loss prevention activities."
+},
+{
+"task_id": "17577",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Coordinate with risk management, human resources, or other departments to assist in company programs, investigations, or training."
+},
+{
+"task_id": "17580",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Respond to critical incidents, such as catastrophic events, violent weather, or civil disorders."
+},
+{
+"task_id": "17571",
+"soc": "33-9099.02",
+"occupation": "Retail Loss Prevention Specialists",
+"task_text": "Recommend new or improved processes or equipment to reduce risk exposure."
+}
+]

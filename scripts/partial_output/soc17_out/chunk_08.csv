@@ -1,0 +1,816 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Manual Dexterity,3,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Finger Dexterity,2,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Problem Sensitivity,2,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Deductive Reasoning,2,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Near Vision,2,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Selective Attention,2,0
+3640,Environmental Engineering Technologists and Technicians,"Receive, set up, test, or decontaminate equipment.",Information Ordering,1,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Written Comprehension,3,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Written Expression,3,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Deductive Reasoning,3,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Inductive Reasoning,2,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Information Ordering,2,0
+20033,Environmental Engineering Technologists and Technicians,Prepare permit applications or review compliance with environmental permits.,Problem Sensitivity,2,0
+3646,Environmental Engineering Technologists and Technicians,Review work plans to schedule activities.,Written Comprehension,3,0
+3646,Environmental Engineering Technologists and Technicians,Review work plans to schedule activities.,Information Ordering,3,0
+3646,Environmental Engineering Technologists and Technicians,Review work plans to schedule activities.,Deductive Reasoning,2,0
+3646,Environmental Engineering Technologists and Technicians,Review work plans to schedule activities.,Problem Sensitivity,2,0
+3646,Environmental Engineering Technologists and Technicians,Review work plans to schedule activities.,Time Sharing,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Static Strength,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Dynamic Strength,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Trunk Strength,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Stamina,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Gross Body Coordination,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Manual Dexterity,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Problem Sensitivity,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Selective Attention,2,0
+3653,Environmental Engineering Technologists and Technicians,Assist in the cleanup of hazardous material spills.,Near Vision,1,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Deductive Reasoning,3,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Problem Sensitivity,3,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Written Comprehension,2,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Near Vision,2,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Far Vision,2,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Selective Attention,2,0
+3649,Environmental Engineering Technologists and Technicians,"Inspect facilities to monitor compliance with regulations governing substances, such as asbestos, lead, or wastewater.",Inductive Reasoning,2,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Written Expression,3,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Written Comprehension,2,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Information Ordering,3,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Deductive Reasoning,2,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Mathematical Reasoning,2,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Fluency of Ideas,2,0
+3658,Environmental Engineering Technologists and Technicians,"Develop work plans, including writing specifications or establishing material, manpower, or facilities needs.",Problem Sensitivity,2,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Mathematical Reasoning,3,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Number Facility,3,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Inductive Reasoning,3,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Deductive Reasoning,2,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Written Comprehension,2,0
+3657,Environmental Engineering Technologists and Technicians,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,Problem Sensitivity,2,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Information Ordering,3,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Deductive Reasoning,2,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Written Comprehension,2,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Oral Comprehension,2,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Oral Expression,2,0
+3648,Environmental Engineering Technologists and Technicians,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",Problem Sensitivity,2,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Inductive Reasoning,3,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Deductive Reasoning,3,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Problem Sensitivity,3,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Written Comprehension,2,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Category Flexibility,2,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Originality,2,0
+19689,Environmental Engineering Technologists and Technicians,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",Flexibility of Closure,2,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Inductive Reasoning,3,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Deductive Reasoning,3,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Problem Sensitivity,3,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Mathematical Reasoning,2,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Written Comprehension,2,0
+19686,Environmental Engineering Technologists and Technicians,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",Number Facility,2,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Oral Comprehension,3,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Oral Expression,3,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Inductive Reasoning,2,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Problem Sensitivity,2,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Written Comprehension,2,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Deductive Reasoning,2,0
+3656,Environmental Engineering Technologists and Technicians,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,Fluency of Ideas,1,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Oral Comprehension,3,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Oral Expression,2,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Deductive Reasoning,3,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Written Comprehension,2,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Problem Sensitivity,2,0
+3650,Environmental Engineering Technologists and Technicians,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",Information Ordering,2,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Mathematical Reasoning,3,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Inductive Reasoning,3,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Deductive Reasoning,2,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Visualization,2,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Problem Sensitivity,2,0
+19690,Environmental Engineering Technologists and Technicians,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",Number Facility,2,0
+3652,Environmental Engineering Technologists and Technicians,Oversee support staff.,Oral Comprehension,2,0
+3652,Environmental Engineering Technologists and Technicians,Oversee support staff.,Oral Expression,3,0
+3652,Environmental Engineering Technologists and Technicians,Oversee support staff.,Problem Sensitivity,2,0
+3652,Environmental Engineering Technologists and Technicians,Oversee support staff.,Deductive Reasoning,1,0
+3652,Environmental Engineering Technologists and Technicians,Oversee support staff.,Information Ordering,2,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Mathematical Reasoning,3,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Inductive Reasoning,3,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Visualization,3,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Deductive Reasoning,2,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Problem Sensitivity,2,0
+19687,Environmental Engineering Technologists and Technicians,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,Originality,2,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Inductive Reasoning,3,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Deductive Reasoning,2,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Problem Sensitivity,3,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Mathematical Reasoning,2,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Originality,2,0
+3651,Environmental Engineering Technologists and Technicians,Improve chemical processes to reduce toxic emissions.,Category Flexibility,2,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Written Comprehension,3,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Information Ordering,2,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Deductive Reasoning,2,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Oral Comprehension,2,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Number Facility,2,0
+3647,Environmental Engineering Technologists and Technicians,"Obtain product information, identify vendors or suppliers, or order materials or equipment to maintain inventory.",Memorization,1,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Deductive Reasoning,3,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Problem Sensitivity,3,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Selective Attention,2,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Near Vision,2,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Written Comprehension,2,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Manual Dexterity,2,0
+20516,Industrial Engineering Technologists and Technicians,Test selected products at specified stages in the production process for performance characteristics or adherence to specifications.,Perceptual Speed,2,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Mathematical Reasoning,3,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Number Facility,3,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Inductive Reasoning,3,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Deductive Reasoning,2,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Written Comprehension,2,0
+3672,Industrial Engineering Technologists and Technicians,Compile and evaluate statistical data to determine and maintain quality and reliability of products.,Problem Sensitivity,2,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Inductive Reasoning,3,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Mathematical Reasoning,3,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Deductive Reasoning,2,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Number Facility,2,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Selective Attention,2,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Perceptual Speed,2,0
+3660,Industrial Engineering Technologists and Technicians,"Study time, motion, methods, or speed involved in maintenance, production, or other operations to establish standard production rate or improve efficiency.",Near Vision,1,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Written Comprehension,3,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Deductive Reasoning,3,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Perceptual Speed,2,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Selective Attention,2,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Near Vision,2,0
+3668,Industrial Engineering Technologists and Technicians,"Read worker logs, product processing sheets, or specification sheets to verify that records adhere to quality assurance specifications.",Information Ordering,2,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Deductive Reasoning,3,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Problem Sensitivity,3,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Far Vision,2,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Selective Attention,2,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Oral Comprehension,2,0
+20518,Industrial Engineering Technologists and Technicians,Verify that equipment is being operated and maintained according to quality assurance standards by observing worker performance.,Written Comprehension,2,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Information Ordering,3,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Deductive Reasoning,2,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Mathematical Reasoning,2,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Number Facility,2,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Time Sharing,2,0
+3663,Industrial Engineering Technologists and Technicians,"Aid in planning work assignments in accordance with worker performance, machine capacity, production schedules, or anticipated delays.",Problem Sensitivity,2,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Deductive Reasoning,3,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Inductive Reasoning,2,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Written Comprehension,3,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Problem Sensitivity,3,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Information Ordering,2,0
+19692,Industrial Engineering Technologists and Technicians,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",Selective Attention,2,0
+22022,Industrial Engineering Technologists and Technicians,"Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.",Written Comprehension,3,0
+22022,Industrial Engineering Technologists and Technicians,"Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.",Deductive Reasoning,2,0
+22022,Industrial Engineering Technologists and Technicians,"Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.",Information Ordering,2,0
+22022,Industrial Engineering Technologists and Technicians,"Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.",Memorization,2,0
+22022,Industrial Engineering Technologists and Technicians,"Adhere to all applicable regulations, policies, and procedures for health, safety, and environmental compliance.",Problem Sensitivity,2,0
+22023,Industrial Engineering Technologists and Technicians,"Analyze, estimate, or report production costs.",Mathematical Reasoning,3,0
+22023,Industrial Engineering Technologists and Technicians,"Analyze, estimate, or report production costs.",Number Facility,3,0
+22023,Industrial Engineering Technologists and Technicians,"Analyze, estimate, or report production costs.",Inductive Reasoning,2,0
+22023,Industrial Engineering Technologists and Technicians,"Analyze, estimate, or report production costs.",Deductive Reasoning,2,0
+22023,Industrial Engineering Technologists and Technicians,"Analyze, estimate, or report production costs.",Written Expression,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Deductive Reasoning,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Problem Sensitivity,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Manual Dexterity,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Finger Dexterity,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Near Vision,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Inductive Reasoning,2,0
+22024,Industrial Engineering Technologists and Technicians,"Assist engineers in developing, building, or testing prototypes or new products, processes, or procedures.",Visualization,2,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Arm-Hand Steadiness,3,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Finger Dexterity,3,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Manual Dexterity,3,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Near Vision,3,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Control Precision,2,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Deductive Reasoning,2,0
+22025,Industrial Engineering Technologists and Technicians,"Calibrate or adjust equipment to ensure quality production, using tools such as calipers, micrometers, height gauges, protractors, or ring gauges.",Selective Attention,2,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Mathematical Reasoning,3,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Number Facility,3,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Inductive Reasoning,3,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Deductive Reasoning,2,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Written Comprehension,2,0
+22026,Industrial Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Category Flexibility,2,0
+22027,Industrial Engineering Technologists and Technicians,"Coordinate equipment purchases, installations, or transfers.",Information Ordering,3,0
+22027,Industrial Engineering Technologists and Technicians,"Coordinate equipment purchases, installations, or transfers.",Oral Comprehension,2,0
+22027,Industrial Engineering Technologists and Technicians,"Coordinate equipment purchases, installations, or transfers.",Oral Expression,2,0
+22027,Industrial Engineering Technologists and Technicians,"Coordinate equipment purchases, installations, or transfers.",Deductive Reasoning,2,0
+22027,Industrial Engineering Technologists and Technicians,"Coordinate equipment purchases, installations, or transfers.",Written Comprehension,2,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Visualization,3,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Spatial Orientation,3,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Written Comprehension,2,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Deductive Reasoning,2,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Near Vision,2,0
+22028,Industrial Engineering Technologists and Technicians,"Create or interpret engineering drawings, schematic diagrams, formulas, or blueprints for management or engineering staff.",Flexibility of Closure,2,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Visualization,3,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Spatial Orientation,3,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Inductive Reasoning,2,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Deductive Reasoning,2,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Originality,2,0
+22029,Industrial Engineering Technologists and Technicians,Design plant layouts or production facilities.,Mathematical Reasoning,2,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Inductive Reasoning,3,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Deductive Reasoning,2,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Problem Sensitivity,2,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Information Ordering,2,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Originality,2,0
+22030,Industrial Engineering Technologists and Technicians,Develop manufacturing infrastructure to integrate or deploy new manufacturing processes.,Visualization,2,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Problem Sensitivity,3,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Inductive Reasoning,3,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Deductive Reasoning,2,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Written Expression,2,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Category Flexibility,2,0
+22031,Industrial Engineering Technologists and Technicians,"Develop or implement programs to address problems related to production, materials, safety, or quality.",Information Ordering,2,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Information Ordering,3,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Inductive Reasoning,2,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Deductive Reasoning,2,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Written Expression,2,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Problem Sensitivity,2,0
+22032,Industrial Engineering Technologists and Technicians,"Develop production, inventory, or quality assurance programs.",Mathematical Reasoning,2,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Inductive Reasoning,3,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Originality,3,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Problem Sensitivity,2,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Deductive Reasoning,2,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Category Flexibility,2,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Mathematical Reasoning,2,0
+22033,Industrial Engineering Technologists and Technicians,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",Fluency of Ideas,2,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Inductive Reasoning,3,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Problem Sensitivity,3,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Deductive Reasoning,2,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Category Flexibility,2,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Mathematical Reasoning,2,0
+22034,Industrial Engineering Technologists and Technicians,"Identify opportunities for improvements in quality, cost, or efficiency of automation equipment.",Written Comprehension,2,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Selective Attention,3,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Problem Sensitivity,3,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Control Precision,2,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Deductive Reasoning,2,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Near Vision,2,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Time Sharing,2,0
+22035,Industrial Engineering Technologists and Technicians,Monitor and adjust production processes or equipment for quality and productivity.,Manual Dexterity,1,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Deductive Reasoning,3,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Problem Sensitivity,3,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Selective Attention,2,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Written Comprehension,2,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Near Vision,2,0
+22036,Industrial Engineering Technologists and Technicians,"Oversee equipment start-up, characterization, qualification, or release.",Information Ordering,2,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Selective Attention,3,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Problem Sensitivity,3,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Far Vision,2,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Near Vision,2,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Deductive Reasoning,2,0
+22037,Industrial Engineering Technologists and Technicians,Oversee or inspect production processes.,Time Sharing,2,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Visualization,3,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Spatial Orientation,3,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Finger Dexterity,2,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Arm-Hand Steadiness,2,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Near Vision,2,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Deductive Reasoning,2,0
+22038,Industrial Engineering Technologists and Technicians,"Prepare layouts, drawings, or sketches of machinery or equipment, such as shop tooling, scale layouts, or new equipment design, using drafting equipment or computer-aided design (CAD) software.",Mathematical Reasoning,2,0
+22039,Industrial Engineering Technologists and Technicians,"Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.",Written Expression,3,0
+22039,Industrial Engineering Technologists and Technicians,"Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.",Written Comprehension,2,0
+22039,Industrial Engineering Technologists and Technicians,"Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.",Information Ordering,3,0
+22039,Industrial Engineering Technologists and Technicians,"Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.",Deductive Reasoning,2,0
+22039,Industrial Engineering Technologists and Technicians,"Prepare production documents, such as standard operating procedures, manufacturing batch records, inventory reports, or productivity reports.",Number Facility,2,0
+22040,Industrial Engineering Technologists and Technicians,Provide advice or training to other technicians.,Oral Expression,3,0
+22040,Industrial Engineering Technologists and Technicians,Provide advice or training to other technicians.,Oral Comprehension,2,0
+22040,Industrial Engineering Technologists and Technicians,Provide advice or training to other technicians.,Speech Clarity,2,0
+22040,Industrial Engineering Technologists and Technicians,Provide advice or training to other technicians.,Deductive Reasoning,2,0
+22040,Industrial Engineering Technologists and Technicians,Provide advice or training to other technicians.,Information Ordering,2,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Problem Sensitivity,3,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Inductive Reasoning,3,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Deductive Reasoning,2,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Oral Expression,2,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Written Expression,2,0
+22041,Industrial Engineering Technologists and Technicians,Recommend corrective or preventive actions to assure or improve product quality or reliability.,Category Flexibility,2,0
+22042,Industrial Engineering Technologists and Technicians,"Select cleaning materials, tools, or equipment.",Deductive Reasoning,3,0
+22042,Industrial Engineering Technologists and Technicians,"Select cleaning materials, tools, or equipment.",Category Flexibility,2,0
+22042,Industrial Engineering Technologists and Technicians,"Select cleaning materials, tools, or equipment.",Written Comprehension,2,0
+22042,Industrial Engineering Technologists and Technicians,"Select cleaning materials, tools, or equipment.",Problem Sensitivity,2,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Deductive Reasoning,3,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Mathematical Reasoning,2,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Number Facility,2,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Category Flexibility,2,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Inductive Reasoning,2,0
+22043,Industrial Engineering Technologists and Technicians,Select material quantities or processing methods needed to achieve efficient production.,Information Ordering,2,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Control Precision,3,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Manual Dexterity,3,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Finger Dexterity,2,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Deductive Reasoning,2,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Written Comprehension,2,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Selective Attention,2,0
+22044,Industrial Engineering Technologists and Technicians,Set up and operate production equipment in accordance with current good manufacturing practices and standard operating procedures.,Near Vision,2,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Arm-Hand Steadiness,3,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Finger Dexterity,3,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Near Vision,3,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Control Precision,3,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Selective Attention,2,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Deductive Reasoning,2,0
+22047,Nanotechnology Engineering Technologists and Technicians,"Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.",Mathematical Reasoning,2,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Written Expression,3,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Written Comprehension,2,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Information Ordering,3,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Selective Attention,2,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Number Facility,2,0
+22063,Nanotechnology Engineering Technologists and Technicians,Maintain accurate record or batch-record documentation of nanoproduction.,Memorization,1,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Arm-Hand Steadiness,3,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Finger Dexterity,3,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Control Precision,3,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Near Vision,3,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Manual Dexterity,2,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Deductive Reasoning,2,0
+22053,Nanotechnology Engineering Technologists and Technicians,"Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.",Selective Attention,2,0
+22046,Nanotechnology Engineering Technologists and Technicians,Maintain work area according to cleanroom or other processing standards.,Written Comprehension,2,0
+22046,Nanotechnology Engineering Technologists and Technicians,Maintain work area according to cleanroom or other processing standards.,Deductive Reasoning,2,0
+22046,Nanotechnology Engineering Technologists and Technicians,Maintain work area according to cleanroom or other processing standards.,Selective Attention,2,0
+22046,Nanotechnology Engineering Technologists and Technicians,Maintain work area according to cleanroom or other processing standards.,Manual Dexterity,2,0
+22046,Nanotechnology Engineering Technologists and Technicians,Maintain work area according to cleanroom or other processing standards.,Information Ordering,2,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Problem Sensitivity,3,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Finger Dexterity,3,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Manual Dexterity,3,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Arm-Hand Steadiness,2,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Near Vision,2,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Deductive Reasoning,2,0
+22049,Nanotechnology Engineering Technologists and Technicians,Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.,Written Expression,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Deductive Reasoning,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Written Comprehension,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Manual Dexterity,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Finger Dexterity,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Near Vision,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Selective Attention,2,0
+22068,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.,Inductive Reasoning,2,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Oral Comprehension,3,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Oral Expression,2,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Inductive Reasoning,3,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Deductive Reasoning,2,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Written Comprehension,2,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Originality,2,0
+22048,Nanotechnology Engineering Technologists and Technicians,"Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.",Problem Sensitivity,2,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Control Precision,3,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Manual Dexterity,3,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Finger Dexterity,2,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Selective Attention,2,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Written Comprehension,2,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Deductive Reasoning,2,0
+22045,Nanotechnology Engineering Technologists and Technicians,"Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.",Near Vision,2,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Selective Attention,3,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Problem Sensitivity,3,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Deductive Reasoning,2,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Far Vision,2,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Near Vision,2,0
+22054,Nanotechnology Engineering Technologists and Technicians,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,Written Comprehension,2,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Selective Attention,3,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Problem Sensitivity,3,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Near Vision,2,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Deductive Reasoning,2,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Written Comprehension,2,0
+22051,Nanotechnology Engineering Technologists and Technicians,"Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.",Perceptual Speed,2,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Arm-Hand Steadiness,3,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Finger Dexterity,3,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Manual Dexterity,3,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Near Vision,3,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Deductive Reasoning,2,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Written Comprehension,2,0
+22050,Nanotechnology Engineering Technologists and Technicians,Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.,Number Facility,2,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Near Vision,3,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Arm-Hand Steadiness,3,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Finger Dexterity,2,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Selective Attention,2,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Deductive Reasoning,2,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Mathematical Reasoning,2,0
+22056,Nanotechnology Engineering Technologists and Technicians,"Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.",Perceptual Speed,2,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Written Expression,3,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Written Comprehension,2,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Information Ordering,2,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Inductive Reasoning,2,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Deductive Reasoning,2,0
+22065,Nanotechnology Engineering Technologists and Technicians,"Prepare capability data, training materials, or other documentation for transfer of processes to production.",Oral Expression,1,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Information Ordering,3,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Written Comprehension,2,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Number Facility,2,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Selective Attention,2,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Mathematical Reasoning,2,0
+22052,Nanotechnology Engineering Technologists and Technicians,Collect or compile nanotechnology research or engineering data.,Deductive Reasoning,2,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Written Expression,3,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Oral Expression,3,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Written Comprehension,2,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Speech Clarity,2,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Fluency of Ideas,2,0
+22061,Nanotechnology Engineering Technologists and Technicians,"Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.",Information Ordering,2,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Written Expression,3,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Written Comprehension,2,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Deductive Reasoning,2,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Fluency of Ideas,2,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Number Facility,2,0
+22055,Nanotechnology Engineering Technologists and Technicians,Contribute written material or data for grant or patent applications.,Inductive Reasoning,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Inductive Reasoning,3,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Problem Sensitivity,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Deductive Reasoning,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Manual Dexterity,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Finger Dexterity,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Originality,2,0
+22060,Nanotechnology Engineering Technologists and Technicians,"Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.",Information Ordering,2,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Inductive Reasoning,3,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Originality,3,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Problem Sensitivity,2,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Deductive Reasoning,2,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Manual Dexterity,2,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Finger Dexterity,2,0
+22058,Nanotechnology Engineering Technologists and Technicians,Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.,Arm-Hand Steadiness,2,0
+22069,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in writing process specifications or documentation.,Written Expression,3,0
+22069,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in writing process specifications or documentation.,Written Comprehension,2,0
+22069,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in writing process specifications or documentation.,Deductive Reasoning,2,0
+22069,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in writing process specifications or documentation.,Information Ordering,2,0
+22069,Nanotechnology Engineering Technologists and Technicians,Assist nanoscientists or engineers in writing process specifications or documentation.,Oral Comprehension,1,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Selective Attention,3,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Near Vision,2,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Deductive Reasoning,2,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Number Facility,2,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Mathematical Reasoning,2,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Problem Sensitivity,2,0
+22067,Nanotechnology Engineering Technologists and Technicians,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",Perceptual Speed,2,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Arm-Hand Steadiness,3,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Finger Dexterity,3,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Near Vision,3,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Control Precision,2,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Deductive Reasoning,2,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Problem Sensitivity,2,0
+22062,Nanotechnology Engineering Technologists and Technicians,"Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.",Selective Attention,2,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Inductive Reasoning,3,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Deductive Reasoning,3,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Mathematical Reasoning,2,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Written Comprehension,2,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Category Flexibility,2,0
+22057,Nanotechnology Engineering Technologists and Technicians,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",Visualization,2,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Control Precision,3,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Manual Dexterity,3,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Selective Attention,2,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Deductive Reasoning,2,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Written Comprehension,2,0
+22059,Nanotechnology Engineering Technologists and Technicians,"Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.",Near Vision,2,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Finger Dexterity,3,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Manual Dexterity,3,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Arm-Hand Steadiness,3,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Control Precision,2,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Near Vision,2,0
+22064,Nanotechnology Engineering Technologists and Technicians,"Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.",Selective Attention,2,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Inductive Reasoning,3,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Deductive Reasoning,3,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Mathematical Reasoning,2,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Written Comprehension,2,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Information Ordering,2,0
+22066,Nanotechnology Engineering Technologists and Technicians,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,Problem Sensitivity,2,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Manual Dexterity,3,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Finger Dexterity,3,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Arm-Hand Steadiness,2,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Control Precision,2,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Near Vision,2,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Gross Body Coordination,2,0
+22072,Mechanical Engineering Technologists and Technicians,Assemble or disassemble complex mechanical systems.,Visualization,2,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Visualization,3,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Spatial Orientation,3,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Written Comprehension,3,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Deductive Reasoning,2,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Near Vision,2,0
+22082,Mechanical Engineering Technologists and Technicians,"Interpret engineering sketches, specifications, or drawings.",Flexibility of Closure,2,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Mathematical Reasoning,3,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Number Facility,3,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Deductive Reasoning,3,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Written Expression,2,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Inductive Reasoning,2,0
+1485,Mechanical Engineering Technologists and Technicians,Calculate required capacities for equipment of proposed system to obtain specified performance and submit data to engineering personnel for approval.,Problem Sensitivity,2,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Written Comprehension,3,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Visualization,3,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Deductive Reasoning,3,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Problem Sensitivity,2,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Near Vision,2,0
+1476,Mechanical Engineering Technologists and Technicians,"Review project instructions and blueprints to ascertain test specifications, procedures, and objectives, and test nature of technical problems such as redesign.",Inductive Reasoning,2,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Oral Expression,3,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Oral Comprehension,2,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Speech Clarity,2,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Deductive Reasoning,2,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Written Expression,2,0
+22086,Mechanical Engineering Technologists and Technicians,"Provide technical support to other employees regarding mechanical design, fabrication, testing, or documentation.",Inductive Reasoning,2,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Deductive Reasoning,3,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Problem Sensitivity,3,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Selective Attention,2,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Near Vision,2,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Manual Dexterity,2,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Control Precision,2,0
+22087,Mechanical Engineering Technologists and Technicians,"Test machines, components, materials, or products to determine characteristics such as performance, strength, or response to stress.",Inductive Reasoning,2,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Visualization,3,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Spatial Orientation,3,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Finger Dexterity,2,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Arm-Hand Steadiness,2,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Near Vision,2,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Written Expression,2,0
+1475,Mechanical Engineering Technologists and Technicians,"Draft detail drawing or sketch for drafting room completion or to request parts fabrication by machine, sheet or wood shops.",Deductive Reasoning,2,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Deductive Reasoning,3,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Inductive Reasoning,3,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Problem Sensitivity,3,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Mathematical Reasoning,2,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Manual Dexterity,2,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Control Precision,2,0
+1482,Mechanical Engineering Technologists and Technicians,"Analyze test results in relation to design or rated specifications and test objectives, and modify or adjust equipment to meet specifications.",Near Vision,2,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Written Expression,3,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Number Facility,3,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Information Ordering,2,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Deductive Reasoning,2,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Written Comprehension,2,0
+1486,Mechanical Engineering Technologists and Technicians,"Record test procedures and results, numerical and graphical data, and recommendations for changes in product or test methods.",Inductive Reasoning,2,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Visualization,3,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Spatial Orientation,3,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Inductive Reasoning,2,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Deductive Reasoning,2,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Mathematical Reasoning,2,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Written Expression,2,0
+22085,Mechanical Engineering Technologists and Technicians,"Prepare specifications, designs, or sketches for machines, components, or systems related to the generation, transmission, or use of mechanical or fluid energy.",Originality,2,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Near Vision,3,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Selective Attention,3,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Deductive Reasoning,2,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Number Facility,2,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Inductive Reasoning,2,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Mathematical Reasoning,2,0
+1487,Mechanical Engineering Technologists and Technicians,"Read dials and meters to determine amperage, voltage, electrical output and input at specific operating temperature to analyze parts performance.",Perceptual Speed,2,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Visualization,3,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Spatial Orientation,3,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Inductive Reasoning,2,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Deductive Reasoning,2,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Originality,2,0
+22077,Mechanical Engineering Technologists and Technicians,"Design molds, tools, dies, jigs, or fixtures for use in manufacturing processes.",Mathematical Reasoning,2,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Written Comprehension,3,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Deductive Reasoning,3,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Problem Sensitivity,2,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Information Ordering,2,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Visualization,2,0
+1477,Mechanical Engineering Technologists and Technicians,"Review project instructions and specifications to identify, modify and plan requirements fabrication, assembly and testing.",Inductive Reasoning,2,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Visualization,3,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Spatial Orientation,3,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Inductive Reasoning,3,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Originality,3,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Deductive Reasoning,2,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Mathematical Reasoning,2,0
+22078,Mechanical Engineering Technologists and Technicians,"Design specialized or customized equipment, machines, or structures.",Problem Sensitivity,2,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Inductive Reasoning,3,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Problem Sensitivity,3,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Deductive Reasoning,3,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Written Expression,2,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Mathematical Reasoning,2,0
+22075,Mechanical Engineering Technologists and Technicians,"Conduct failure analyses, document results, and recommend corrective actions.",Oral Expression,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Control Precision,3,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Manual Dexterity,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Deductive Reasoning,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Problem Sensitivity,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Inductive Reasoning,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Selective Attention,2,0
+1480,Mechanical Engineering Technologists and Technicians,Set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance.,Near Vision,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Deductive Reasoning,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Inductive Reasoning,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Problem Sensitivity,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Manual Dexterity,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Visualization,2,0
+22073,Mechanical Engineering Technologists and Technicians,"Assist engineers to design, develop, test, or manufacture industrial machinery, consumer products, or other equipment.",Written Comprehension,2,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Visualization,3,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Spatial Orientation,3,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Deductive Reasoning,2,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Near Vision,2,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Finger Dexterity,2,0
+22084,Mechanical Engineering Technologists and Technicians,"Prepare layouts of machinery, tools, plants, or equipment.",Arm-Hand Steadiness,2,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Written Expression,3,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Information Ordering,3,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Deductive Reasoning,2,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Number Facility,2,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Mathematical Reasoning,2,0
+22083,Mechanical Engineering Technologists and Technicians,"Prepare equipment inspection schedules, reliability schedules, work plans, or other records.",Written Comprehension,2,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Control Precision,3,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Manual Dexterity,3,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Finger Dexterity,2,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Selective Attention,2,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Near Vision,2,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Written Expression,2,0
+1489,Mechanical Engineering Technologists and Technicians,Set up prototype and test apparatus and operate test controlling equipment to observe and record prototype test results.,Deductive Reasoning,2,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Visualization,3,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Near Vision,3,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Deductive Reasoning,3,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Mathematical Reasoning,2,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Spatial Orientation,2,0
+1483,Mechanical Engineering Technologists and Technicians,Evaluate tool drawing designs by measuring drawing dimensions and comparing with original specifications for form and function using engineering skills.,Perceptual Speed,2,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Mathematical Reasoning,3,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Inductive Reasoning,3,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Deductive Reasoning,2,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Number Facility,2,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Visualization,2,0
+22070,Mechanical Engineering Technologists and Technicians,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",Problem Sensitivity,2,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Visualization,3,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Written Expression,3,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Spatial Orientation,2,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Near Vision,2,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Finger Dexterity,2,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Arm-Hand Steadiness,2,0
+1474,Mechanical Engineering Technologists and Technicians,Prepare parts sketches and write work orders and purchase requests to be furnished by outside contractors.,Deductive Reasoning,2,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Mathematical Reasoning,3,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Number Facility,3,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Deductive Reasoning,2,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Inductive Reasoning,2,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Written Expression,2,0
+1488,Mechanical Engineering Technologists and Technicians,"Estimate cost factors including labor and material for purchased and fabricated parts and costs for assembly, testing, or installing.",Information Ordering,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Manual Dexterity,3,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Finger Dexterity,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Control Precision,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Near Vision,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Deductive Reasoning,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Problem Sensitivity,2,0
+22074,Mechanical Engineering Technologists and Technicians,Assist mechanical engineers in product testing through activities such as setting up instrumentation for automobile crash tests.,Selective Attention,2,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Mathematical Reasoning,3,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Number Facility,3,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Inductive Reasoning,3,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Deductive Reasoning,2,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Category Flexibility,2,0
+22076,Mechanical Engineering Technologists and Technicians,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,Written Comprehension,2,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Mathematical Reasoning,3,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Number Facility,3,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Inductive Reasoning,2,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Deductive Reasoning,2,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Written Expression,2,0
+22071,Mechanical Engineering Technologists and Technicians,"Analyze or estimate production costs, such as labor, equipment, and plant space.",Information Ordering,2,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Manual Dexterity,3,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Finger Dexterity,3,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Arm-Hand Steadiness,2,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Control Precision,2,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Visualization,2,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Near Vision,2,0
+22079,Mechanical Engineering Technologists and Technicians,"Devise, fabricate, or assemble new or modified mechanical components for products such as industrial machinery or equipment, and measuring instruments.",Inductive Reasoning,2,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Oral Comprehension,3,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Oral Expression,3,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Speech Clarity,2,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Deductive Reasoning,2,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Written Comprehension,2,0
+22080,Mechanical Engineering Technologists and Technicians,"Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.",Visualization,2,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Selective Attention,3,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Problem Sensitivity,3,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Near Vision,2,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Deductive Reasoning,2,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Manual Dexterity,2,0
+23944,Mechanical Engineering Technologists and Technicians,"Monitor, inspect, or test mechanical equipment.",Auditory Attention,2,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Written Expression,3,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Information Ordering,2,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Number Facility,2,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Near Vision,2,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Finger Dexterity,2,0
+16606,Automotive Engineering Technicians,"Document test results, using cameras, spreadsheets, documents, or other tools.",Deductive Reasoning,2,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Manual Dexterity,3,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Finger Dexterity,3,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Control Precision,2,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Written Comprehension,2,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Deductive Reasoning,2,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Near Vision,2,0
+16599,Automotive Engineering Technicians,"Set up mechanical, hydraulic, or electric test equipment in accordance with engineering specifications, standards, or test procedures.",Visualization,2,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Written Comprehension,3,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Visualization,3,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Spatial Orientation,3,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Deductive Reasoning,2,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Near Vision,2,0
+16602,Automotive Engineering Technicians,"Read and interpret blueprints, schematics, work specifications, drawings, or charts.",Flexibility of Closure,2,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Problem Sensitivity,3,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Inductive Reasoning,3,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Near Vision,2,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Manual Dexterity,2,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Deductive Reasoning,2,0
+16605,Automotive Engineering Technicians,Inspect or test parts to determine nature or cause of defects or malfunctions.,Selective Attention,2,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Selective Attention,3,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Written Comprehension,2,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Oral Comprehension,2,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Deductive Reasoning,2,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Near Vision,2,0
+16601,Automotive Engineering Technicians,"Monitor computer-controlled test equipment, according to written or verbal instructions.",Problem Sensitivity,2,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Inductive Reasoning,3,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Deductive Reasoning,3,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Mathematical Reasoning,2,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Number Facility,2,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Written Comprehension,2,0
+16608,Automotive Engineering Technicians,"Analyze test data for automotive systems, subsystems, or component parts.",Problem Sensitivity,2,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Manual Dexterity,3,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Finger Dexterity,3,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Control Precision,2,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Arm-Hand Steadiness,2,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Near Vision,2,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Visualization,2,0
+16604,Automotive Engineering Technicians,"Install equipment, such as instrumentation, test equipment, engines, or aftermarket products, to ensure proper interfaces.",Deductive Reasoning,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Control Precision,3,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Manual Dexterity,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Selective Attention,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Deductive Reasoning,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Problem Sensitivity,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Written Comprehension,2,0
+16611,Automotive Engineering Technicians,"Perform or execute manual or automated tests of automotive system or component performance, efficiency, or durability.",Near Vision,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Manual Dexterity,3,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Finger Dexterity,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Arm-Hand Steadiness,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Control Precision,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Near Vision,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Problem Sensitivity,2,0
+16603,Automotive Engineering Technicians,Maintain test equipment in operational condition by performing routine maintenance or making minor repairs or adjustments as needed.,Deductive Reasoning,2,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Inductive Reasoning,3,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Deductive Reasoning,3,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Mathematical Reasoning,2,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Number Facility,2,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Written Comprehension,2,0
+19696,Automotive Engineering Technicians,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",Problem Sensitivity,2,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Inductive Reasoning,3,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Problem Sensitivity,2,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Deductive Reasoning,2,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Mathematical Reasoning,2,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Manual Dexterity,2,0
+19697,Automotive Engineering Technicians,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",Near Vision,2,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Manual Dexterity,3,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Finger Dexterity,3,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Arm-Hand Steadiness,2,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Control Precision,2,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Near Vision,2,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Visualization,2,0
+16607,Automotive Engineering Technicians,Fabricate new or modify existing prototype components or fixtures.,Inductive Reasoning,2,0
+16598,Automotive Engineering Technicians,"Order new test equipment, supplies, or replacement parts.",Written Comprehension,2,0
+16598,Automotive Engineering Technicians,"Order new test equipment, supplies, or replacement parts.",Information Ordering,2,0
+16598,Automotive Engineering Technicians,"Order new test equipment, supplies, or replacement parts.",Deductive Reasoning,2,0
+16598,Automotive Engineering Technicians,"Order new test equipment, supplies, or replacement parts.",Number Facility,2,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Inductive Reasoning,3,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Problem Sensitivity,3,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Deductive Reasoning,2,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Written Expression,2,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Oral Expression,2,0
+16610,Automotive Engineering Technicians,"Recommend product or component design improvements, based on test data or observations.",Category Flexibility,2,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Deductive Reasoning,3,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Inductive Reasoning,2,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Problem Sensitivity,2,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Written Comprehension,2,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Oral Expression,2,0
+16600,Automotive Engineering Technicians,"Recommend tests or testing conditions in accordance with designs, customer requirements, or industry standards to ensure test validity.",Information Ordering,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Control Precision,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Selective Attention,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Deductive Reasoning,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Problem Sensitivity,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Mathematical Reasoning,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Near Vision,2,0
+19699,Automotive Engineering Technicians,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",Written Comprehension,2,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Inductive Reasoning,3,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Deductive Reasoning,2,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Written Comprehension,2,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Problem Sensitivity,2,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Mathematical Reasoning,2,0
+19698,Automotive Engineering Technicians,"Participate in research or testing of computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Selective Attention,2,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Manual Dexterity,3,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Finger Dexterity,3,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Arm-Hand Steadiness,2,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Control Precision,2,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Near Vision,2,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Visualization,2,0
+16597,Automotive Engineering Technicians,Build instrumentation or laboratory test equipment for special purposes.,Inductive Reasoning,2,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Inductive Reasoning,3,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Deductive Reasoning,3,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Problem Sensitivity,3,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Mathematical Reasoning,2,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Number Facility,2,0
+22088,Calibration Technologists and Technicians,Analyze test data to identify defects or determine calibration requirements.,Written Comprehension,2,0
+22089,Calibration Technologists and Technicians,"Attend conferences, workshops, or other training sessions to learn about new tools or methods.",Oral Comprehension,3,0
+22089,Calibration Technologists and Technicians,"Attend conferences, workshops, or other training sessions to learn about new tools or methods.",Written Comprehension,2,0
+22089,Calibration Technologists and Technicians,"Attend conferences, workshops, or other training sessions to learn about new tools or methods.",Memorization,2,0
+22089,Calibration Technologists and Technicians,"Attend conferences, workshops, or other training sessions to learn about new tools or methods.",Speech Recognition,2,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Arm-Hand Steadiness,3,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Finger Dexterity,3,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Control Precision,3,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Near Vision,3,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Deductive Reasoning,2,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Number Facility,2,0
+22090,Calibration Technologists and Technicians,"Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.",Selective Attention,2,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Deductive Reasoning,3,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Problem Sensitivity,3,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Arm-Hand Steadiness,2,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Manual Dexterity,2,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Near Vision,2,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Selective Attention,2,0
+22091,Calibration Technologists and Technicians,"Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.",Mathematical Reasoning,2,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Inductive Reasoning,3,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Originality,3,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Deductive Reasoning,2,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Mathematical Reasoning,2,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Problem Sensitivity,2,0
+22092,Calibration Technologists and Technicians,"Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.",Written Expression,2,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Manual Dexterity,3,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Finger Dexterity,3,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Arm-Hand Steadiness,2,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Control Precision,2,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Near Vision,2,0
+22093,Calibration Technologists and Technicians,Disassemble and reassemble equipment for inspection.,Visualization,2,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Visualization,3,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Spatial Orientation,3,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Finger Dexterity,2,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Arm-Hand Steadiness,2,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Near Vision,2,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Deductive Reasoning,2,0
+22094,Calibration Technologists and Technicians,"Draw plans for developing jigs, fixtures, instruments, or other devices.",Mathematical Reasoning,2,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Manual Dexterity,3,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Finger Dexterity,3,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Arm-Hand Steadiness,2,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Control Precision,2,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Near Vision,2,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Problem Sensitivity,2,0
+22095,Calibration Technologists and Technicians,Maintain or repair measurement devices or equipment used for calibration testing.,Deductive Reasoning,2,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Control Precision,3,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Manual Dexterity,3,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Arm-Hand Steadiness,3,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Finger Dexterity,2,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Near Vision,2,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Visualization,2,0
+22096,Calibration Technologists and Technicians,"Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.",Multilimb Coordination,2,0
+22097,Calibration Technologists and Technicians,Order replacement parts for malfunctioning equipment.,Written Comprehension,2,0
+22097,Calibration Technologists and Technicians,Order replacement parts for malfunctioning equipment.,Information Ordering,2,0
+22097,Calibration Technologists and Technicians,Order replacement parts for malfunctioning equipment.,Deductive Reasoning,2,0
+22097,Calibration Technologists and Technicians,Order replacement parts for malfunctioning equipment.,Problem Sensitivity,2,0

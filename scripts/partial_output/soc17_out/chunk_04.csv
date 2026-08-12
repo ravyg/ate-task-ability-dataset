@@ -1,0 +1,898 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Oral Expression,3,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Oral Comprehension,2,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Deductive Reasoning,2,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Inductive Reasoning,2,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Problem Sensitivity,2,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Information Ordering,2,0
+9013,Materials Engineers,Guide technical staff in developing materials for specific uses in projected products or devices.,Written Comprehension,1,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Deductive Reasoning,3,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Inductive Reasoning,3,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Problem Sensitivity,3,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Written Comprehension,3,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Mathematical Reasoning,2,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Category Flexibility,2,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Information Ordering,2,0
+9010,Materials Engineers,"Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.",Written Expression,1,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Oral Expression,3,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Oral Comprehension,3,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Deductive Reasoning,2,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Problem Sensitivity,2,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Information Ordering,2,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Speech Clarity,2,0
+9003,Materials Engineers,"Supervise the work of technologists, technicians, and other engineers and scientists.",Speech Recognition,1,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Deductive Reasoning,3,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Inductive Reasoning,3,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Problem Sensitivity,3,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Information Ordering,3,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Mathematical Reasoning,2,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Written Comprehension,2,0
+9014,Materials Engineers,"Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.",Fluency of Ideas,1,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Deductive Reasoning,3,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Inductive Reasoning,3,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Problem Sensitivity,3,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Oral Expression,2,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Oral Comprehension,2,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Fluency of Ideas,2,0
+9009,Materials Engineers,"Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.",Written Comprehension,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Selective Attention,3,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Problem Sensitivity,3,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Deductive Reasoning,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Near Vision,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Oral Expression,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Information Ordering,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Inductive Reasoning,2,0
+9017,Materials Engineers,"Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.",Visual Color Discrimination,1,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Deductive Reasoning,3,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Inductive Reasoning,3,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Problem Sensitivity,3,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Category Flexibility,3,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Fluency of Ideas,2,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Mathematical Reasoning,2,0
+9008,Materials Engineers,"Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.",Information Ordering,2,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Oral Expression,3,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Oral Comprehension,3,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Written Comprehension,2,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Information Ordering,2,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Speech Clarity,2,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Deductive Reasoning,2,0
+9016,Materials Engineers,"Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.",Speech Recognition,1,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Written Expression,3,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Written Comprehension,3,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Number Facility,3,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Mathematical Reasoning,2,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Information Ordering,2,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Deductive Reasoning,2,0
+9007,Materials Engineers,"Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.",Perceptual Speed,1,0
+21167,Materials Engineers,Present technical information at conferences.,Oral Expression,3,0
+21167,Materials Engineers,Present technical information at conferences.,Speech Clarity,3,0
+21167,Materials Engineers,Present technical information at conferences.,Written Comprehension,2,0
+21167,Materials Engineers,Present technical information at conferences.,Information Ordering,2,0
+21167,Materials Engineers,Present technical information at conferences.,Deductive Reasoning,1,0
+21167,Materials Engineers,Present technical information at conferences.,Speech Recognition,1,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Deductive Reasoning,3,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Mathematical Reasoning,3,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Visualization,3,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Inductive Reasoning,2,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Selective Attention,2,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Near Vision,2,0
+9019,Materials Engineers,"Replicate the characteristics of materials and their components, using computers.",Information Ordering,2,0
+9011,Materials Engineers,Design processing plants and equipment.,Deductive Reasoning,3,0
+9011,Materials Engineers,Design processing plants and equipment.,Visualization,3,0
+9011,Materials Engineers,Design processing plants and equipment.,Mathematical Reasoning,3,0
+9011,Materials Engineers,Design processing plants and equipment.,Inductive Reasoning,2,0
+9011,Materials Engineers,Design processing plants and equipment.,Fluency of Ideas,2,0
+9011,Materials Engineers,Design processing plants and equipment.,Originality,2,0
+9011,Materials Engineers,Design processing plants and equipment.,Spatial Orientation,2,0
+9011,Materials Engineers,Design processing plants and equipment.,Near Vision,1,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Written Expression,3,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Written Comprehension,3,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Information Ordering,3,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Deductive Reasoning,2,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Fluency of Ideas,2,0
+9018,Materials Engineers,"Write for technical magazines, journals, and trade association publications.",Originality,2,0
+9020,Materials Engineers,Teach in colleges and universities.,Oral Expression,3,0
+9020,Materials Engineers,Teach in colleges and universities.,Oral Comprehension,3,0
+9020,Materials Engineers,Teach in colleges and universities.,Speech Clarity,3,0
+9020,Materials Engineers,Teach in colleges and universities.,Written Comprehension,2,0
+9020,Materials Engineers,Teach in colleges and universities.,Information Ordering,2,0
+9020,Materials Engineers,Teach in colleges and universities.,Deductive Reasoning,2,0
+9020,Materials Engineers,Teach in colleges and universities.,Speech Recognition,1,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Written Comprehension,3,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Near Vision,3,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Visualization,3,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Spatial Orientation,2,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Deductive Reasoning,2,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Flexibility of Closure,2,0
+1411,Mechanical Engineers,"Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.",Speed of Closure,1,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Deductive Reasoning,3,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Inductive Reasoning,3,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Problem Sensitivity,3,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Mathematical Reasoning,2,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Written Comprehension,2,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Visualization,2,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Information Ordering,2,0
+20733,Mechanical Engineers,"Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.",Near Vision,1,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Written Comprehension,3,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Deductive Reasoning,3,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Problem Sensitivity,3,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Information Ordering,2,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Inductive Reasoning,2,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Oral Expression,2,0
+20736,Mechanical Engineers,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",Written Expression,1,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Oral Comprehension,3,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Oral Expression,3,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Problem Sensitivity,3,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Deductive Reasoning,2,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Speech Recognition,2,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Speech Clarity,2,0
+1412,Mechanical Engineers,"Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.",Written Comprehension,1,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Inductive Reasoning,3,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Problem Sensitivity,3,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Deductive Reasoning,3,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Near Vision,2,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Information Ordering,2,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Flexibility of Closure,2,0
+20734,Mechanical Engineers,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,Written Comprehension,1,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Deductive Reasoning,3,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Inductive Reasoning,3,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Fluency of Ideas,2,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Originality,2,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Problem Sensitivity,2,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Visualization,2,0
+1421,Mechanical Engineers,Recommend design modifications to eliminate machine or system malfunctions.,Written Comprehension,1,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Written Comprehension,3,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Deductive Reasoning,3,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Inductive Reasoning,3,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Problem Sensitivity,3,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Mathematical Reasoning,2,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Information Ordering,2,0
+1413,Mechanical Engineers,"Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications.",Number Facility,1,0
+20741,Mechanical Engineers,Provide technical customer service.,Oral Expression,3,0
+20741,Mechanical Engineers,Provide technical customer service.,Oral Comprehension,3,0
+20741,Mechanical Engineers,Provide technical customer service.,Speech Clarity,2,0
+20741,Mechanical Engineers,Provide technical customer service.,Speech Recognition,2,0
+20741,Mechanical Engineers,Provide technical customer service.,Problem Sensitivity,2,0
+20741,Mechanical Engineers,Provide technical customer service.,Deductive Reasoning,2,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Problem Sensitivity,3,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Deductive Reasoning,3,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Near Vision,2,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Selective Attention,2,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Inductive Reasoning,2,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Information Ordering,2,0
+1419,Mechanical Engineers,"Oversee installation, operation, maintenance, or repair to ensure that machines or equipment are installed and functioning according to specifications.",Oral Expression,1,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Visualization,3,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Deductive Reasoning,3,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Near Vision,3,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Spatial Orientation,2,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Finger Dexterity,2,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Arm-Hand Steadiness,2,0
+20737,Mechanical Engineers,"Assist drafters in developing the structural design of products, using drafting tools or computer-assisted drafting equipment or software.",Written Comprehension,1,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Deductive Reasoning,3,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Inductive Reasoning,3,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Problem Sensitivity,3,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Mathematical Reasoning,2,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Information Ordering,2,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Selective Attention,2,0
+1420,Mechanical Engineers,"Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems.",Written Comprehension,1,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Deductive Reasoning,3,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Inductive Reasoning,3,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Problem Sensitivity,3,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Fluency of Ideas,2,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Originality,2,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Mathematical Reasoning,2,0
+20735,Mechanical Engineers,"Develop or test models of alternate designs or processing methods to assess feasibility, sustainability, operating condition effects, potential new applications, or necessity of modification.",Visualization,2,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Oral Expression,3,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Oral Comprehension,3,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Written Expression,2,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Deductive Reasoning,2,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Problem Sensitivity,2,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Speech Clarity,2,0
+1418,Mechanical Engineers,Provide feedback to design engineers on customer problems or needs.,Speech Recognition,1,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Written Expression,3,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Deductive Reasoning,3,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Written Comprehension,3,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Information Ordering,2,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Mathematical Reasoning,2,0
+1429,Mechanical Engineers,Write performance requirements for product development or engineering projects.,Fluency of Ideas,1,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Mathematical Reasoning,3,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Number Facility,3,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Deductive Reasoning,3,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Written Expression,2,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Written Comprehension,2,0
+20738,Mechanical Engineers,"Estimate costs or submit bids for engineering, construction, or extraction projects.",Information Ordering,2,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Deductive Reasoning,3,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Information Ordering,3,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Problem Sensitivity,2,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Oral Expression,2,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Inductive Reasoning,2,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Written Comprehension,2,0
+1423,Mechanical Engineers,"Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.",Category Flexibility,1,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Deductive Reasoning,3,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Visualization,3,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Fluency of Ideas,3,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Originality,2,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Inductive Reasoning,2,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Mathematical Reasoning,2,0
+19628,Mechanical Engineers,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",Problem Sensitivity,2,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Mathematical Reasoning,3,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Number Facility,3,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Deductive Reasoning,3,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Near Vision,2,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Selective Attention,2,0
+19627,Mechanical Engineers,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",Information Ordering,1,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Deductive Reasoning,3,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Inductive Reasoning,2,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Written Comprehension,2,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Written Expression,2,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Problem Sensitivity,2,0
+19631,Mechanical Engineers,Recommend the use of utility or energy services that minimize carbon footprints.,Oral Expression,1,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Oral Expression,3,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Oral Comprehension,2,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Problem Sensitivity,2,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Information Ordering,2,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Deductive Reasoning,2,0
+20739,Mechanical Engineers,"Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers.",Speech Clarity,1,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Deductive Reasoning,3,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Inductive Reasoning,3,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Written Comprehension,3,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Category Flexibility,2,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Problem Sensitivity,2,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Fluency of Ideas,2,0
+1430,Mechanical Engineers,"Apply engineering principles or practices to emerging fields, such as robotics, waste management, or biomedical engineering.",Originality,1,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Oral Expression,3,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Deductive Reasoning,3,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Problem Sensitivity,2,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Information Ordering,2,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Inductive Reasoning,2,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Oral Comprehension,2,0
+19629,Mechanical Engineers,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",Near Vision,1,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Deductive Reasoning,3,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Written Comprehension,3,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Problem Sensitivity,2,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Mathematical Reasoning,2,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Inductive Reasoning,2,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Information Ordering,2,0
+19632,Mechanical Engineers,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",Near Vision,1,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Deductive Reasoning,3,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Inductive Reasoning,3,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Problem Sensitivity,3,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Mathematical Reasoning,2,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Visualization,2,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Written Comprehension,2,0
+19630,Mechanical Engineers,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,Near Vision,1,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Inductive Reasoning,3,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Deductive Reasoning,3,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Problem Sensitivity,3,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Mathematical Reasoning,2,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Visualization,2,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Information Ordering,2,0
+20742,Mechanical Engineers,"Study industrial processes to maximize the efficiency of equipment applications, including equipment placement.",Spatial Orientation,1,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Deductive Reasoning,3,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Inductive Reasoning,3,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Visualization,2,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Mathematical Reasoning,2,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Problem Sensitivity,2,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Written Expression,2,0
+1431,Mechanical Engineers,Design test control apparatus or equipment or develop procedures for testing products.,Information Ordering,2,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Deductive Reasoning,3,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Information Ordering,3,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Written Comprehension,2,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Problem Sensitivity,2,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Oral Expression,2,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Written Expression,1,0
+1427,Mechanical Engineers,"Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.",Inductive Reasoning,1,0
+20740,Mechanical Engineers,Solicit new business.,Oral Expression,3,0
+20740,Mechanical Engineers,Solicit new business.,Oral Comprehension,3,0
+20740,Mechanical Engineers,Solicit new business.,Speech Clarity,3,0
+20740,Mechanical Engineers,Solicit new business.,Speech Recognition,2,0
+20740,Mechanical Engineers,Solicit new business.,Written Comprehension,1,0
+20740,Mechanical Engineers,Solicit new business.,Deductive Reasoning,1,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Deductive Reasoning,3,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Inductive Reasoning,3,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Problem Sensitivity,3,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Mathematical Reasoning,2,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Information Ordering,2,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Selective Attention,2,0
+16408,Fuel Cell Engineers,"Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.",Written Comprehension,1,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Oral Expression,3,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Deductive Reasoning,3,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Oral Comprehension,2,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Written Comprehension,2,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Problem Sensitivity,2,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Speech Clarity,2,0
+16407,Fuel Cell Engineers,Provide technical consultation or direction related to the development or production of fuel cell systems.,Speech Recognition,1,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Inductive Reasoning,3,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Deductive Reasoning,3,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Problem Sensitivity,3,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Mathematical Reasoning,2,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Number Facility,2,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Information Ordering,2,0
+16417,Fuel Cell Engineers,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",Written Comprehension,1,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Oral Expression,3,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Deductive Reasoning,3,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Problem Sensitivity,2,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Inductive Reasoning,2,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Information Ordering,2,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Oral Comprehension,2,0
+19946,Fuel Cell Engineers,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",Written Comprehension,1,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Selective Attention,3,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Near Vision,3,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Deductive Reasoning,3,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Inductive Reasoning,2,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Mathematical Reasoning,2,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Problem Sensitivity,2,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Manual Dexterity,1,0
+19950,Fuel Cell Engineers,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",Arm-Hand Steadiness,1,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Mathematical Reasoning,3,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Deductive Reasoning,3,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Inductive Reasoning,3,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Number Facility,2,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Written Comprehension,2,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Selective Attention,2,0
+16419,Fuel Cell Engineers,"Analyze fuel cell or related test data, using statistical software.",Perceptual Speed,1,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Inductive Reasoning,3,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Deductive Reasoning,3,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Problem Sensitivity,3,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Near Vision,2,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Flexibility of Closure,2,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Information Ordering,2,0
+16414,Fuel Cell Engineers,"Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.",Written Comprehension,1,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Written Expression,3,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Deductive Reasoning,3,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Written Comprehension,3,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Information Ordering,2,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Mathematical Reasoning,2,0
+19951,Fuel Cell Engineers,Define specifications for fuel cell materials.,Inductive Reasoning,1,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Deductive Reasoning,3,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Inductive Reasoning,3,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Problem Sensitivity,2,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Fluency of Ideas,2,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Originality,2,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Visualization,2,0
+16406,Fuel Cell Engineers,Recommend or implement changes to fuel cell system designs.,Written Comprehension,1,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Deductive Reasoning,3,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Problem Sensitivity,3,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Inductive Reasoning,3,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Written Comprehension,2,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Mathematical Reasoning,2,0
+16403,Fuel Cell Engineers,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",Information Ordering,2,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Written Comprehension,3,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Oral Comprehension,3,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Deductive Reasoning,2,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Information Ordering,2,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Inductive Reasoning,2,0
+16399,Fuel Cell Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.",Speech Recognition,1,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Manual Dexterity,3,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Finger Dexterity,3,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Arm-Hand Steadiness,2,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Near Vision,2,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Deductive Reasoning,2,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Information Ordering,2,0
+19945,Fuel Cell Engineers,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",Selective Attention,2,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Inductive Reasoning,3,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Deductive Reasoning,3,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Problem Sensitivity,2,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Mathematical Reasoning,2,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Fluency of Ideas,2,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Near Vision,1,0
+16413,Fuel Cell Engineers,Develop fuel cell materials or fuel cell test equipment.,Manual Dexterity,1,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Manual Dexterity,3,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Finger Dexterity,3,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Arm-Hand Steadiness,3,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Near Vision,2,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Control Precision,2,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Deductive Reasoning,2,0
+16412,Fuel Cell Engineers,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",Visualization,1,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Mathematical Reasoning,3,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Deductive Reasoning,3,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Visualization,3,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Inductive Reasoning,2,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Problem Sensitivity,2,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Number Facility,2,0
+19949,Fuel Cell Engineers,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",Information Ordering,2,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Deductive Reasoning,3,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Information Ordering,3,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Inductive Reasoning,2,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Problem Sensitivity,2,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Written Expression,2,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Fluency of Ideas,2,0
+16415,Fuel Cell Engineers,Design or implement fuel cell testing or development programs.,Originality,1,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Written Expression,3,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Written Comprehension,3,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Information Ordering,3,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Deductive Reasoning,2,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Fluency of Ideas,1,0
+16398,Fuel Cell Engineers,Write technical reports or proposals related to engineering projects.,Inductive Reasoning,1,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Deductive Reasoning,3,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Mathematical Reasoning,3,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Visualization,3,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Inductive Reasoning,2,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Problem Sensitivity,2,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Selective Attention,2,0
+16405,Fuel Cell Engineers,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",Number Facility,1,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Deductive Reasoning,3,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Visualization,3,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Mathematical Reasoning,3,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Inductive Reasoning,2,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Fluency of Ideas,2,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Originality,2,0
+16420,Fuel Cell Engineers,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",Spatial Orientation,2,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Inductive Reasoning,3,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Problem Sensitivity,3,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Deductive Reasoning,3,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Visualization,2,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Written Comprehension,2,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Mathematical Reasoning,2,0
+16411,Fuel Cell Engineers,Identify or define vehicle and system integration challenges for fuel cell vehicles.,Fluency of Ideas,1,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Mathematical Reasoning,3,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Number Facility,3,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Deductive Reasoning,3,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Inductive Reasoning,2,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Visualization,2,0
+16418,Fuel Cell Engineers,Calculate the efficiency or power output of a fuel cell system or process.,Problem Sensitivity,1,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Oral Expression,3,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Oral Comprehension,3,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Information Ordering,2,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Deductive Reasoning,2,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Problem Sensitivity,2,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Speech Clarity,2,0
+19947,Fuel Cell Engineers,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",Speech Recognition,1,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Deductive Reasoning,3,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Written Comprehension,3,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Problem Sensitivity,3,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Information Ordering,2,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Inductive Reasoning,2,0
+19948,Fuel Cell Engineers,"Authorize release of fuel cell parts, components, or subsystems for production.",Written Expression,1,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Deductive Reasoning,3,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Inductive Reasoning,3,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Problem Sensitivity,3,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Mathematical Reasoning,2,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Number Facility,2,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Written Comprehension,2,0
+19953,Fuel Cell Engineers,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",Information Ordering,1,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Deductive Reasoning,3,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Inductive Reasoning,3,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Problem Sensitivity,3,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Visualization,2,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Mathematical Reasoning,2,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Information Ordering,2,0
+16410,Fuel Cell Engineers,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,Fluency of Ideas,1,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Deductive Reasoning,3,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Inductive Reasoning,3,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Problem Sensitivity,3,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Mathematical Reasoning,2,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Fluency of Ideas,2,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Originality,2,0
+19952,Fuel Cell Engineers,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,Written Comprehension,1,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Deductive Reasoning,3,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Problem Sensitivity,3,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Information Ordering,2,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Near Vision,2,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Selective Attention,2,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Inductive Reasoning,2,0
+16438,Automotive Engineers,Conduct or direct system-level automotive testing.,Written Comprehension,1,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Oral Expression,3,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Oral Comprehension,2,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Deductive Reasoning,2,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Problem Sensitivity,2,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Speech Clarity,2,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Information Ordering,2,0
+16428,Automotive Engineers,Provide technical direction to other engineers or engineering support personnel.,Speech Recognition,1,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Inductive Reasoning,3,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Deductive Reasoning,3,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Problem Sensitivity,3,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Information Ordering,2,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Mathematical Reasoning,2,0
+16429,Automotive Engineers,"Perform failure, variation, or root cause analyses.",Written Comprehension,1,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Deductive Reasoning,3,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Mathematical Reasoning,3,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Inductive Reasoning,3,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Problem Sensitivity,2,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Selective Attention,2,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Near Vision,2,0
+16434,Automotive Engineers,"Calibrate vehicle systems, including control algorithms or other software systems.",Number Facility,1,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Deductive Reasoning,3,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Visualization,3,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Mathematical Reasoning,3,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Inductive Reasoning,2,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Problem Sensitivity,2,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Fluency of Ideas,2,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Spatial Orientation,2,0
+16437,Automotive Engineers,"Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.",Written Comprehension,1,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Written Expression,3,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Oral Expression,3,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Information Ordering,2,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Written Comprehension,2,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Deductive Reasoning,2,0
+16423,Automotive Engineers,Prepare or present technical or project status reports.,Speech Clarity,2,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Inductive Reasoning,3,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Deductive Reasoning,3,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Problem Sensitivity,3,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Fluency of Ideas,2,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Originality,2,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Mathematical Reasoning,2,0
+16426,Automotive Engineers,Conduct research studies to develop new concepts in the field of automotive engineering.,Written Comprehension,1,0
+16422,Automotive Engineers,Establish production or quality control standards.,Deductive Reasoning,3,0
+16422,Automotive Engineers,Establish production or quality control standards.,Written Expression,3,0
+16422,Automotive Engineers,Establish production or quality control standards.,Information Ordering,3,0
+16422,Automotive Engineers,Establish production or quality control standards.,Inductive Reasoning,2,0
+16422,Automotive Engineers,Establish production or quality control standards.,Problem Sensitivity,2,0
+16422,Automotive Engineers,Establish production or quality control standards.,Written Comprehension,2,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Deductive Reasoning,3,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Inductive Reasoning,3,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Problem Sensitivity,3,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Visualization,2,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Fluency of Ideas,2,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Originality,2,0
+16436,Automotive Engineers,Alter or modify designs to obtain specified functional or operational performance.,Mathematical Reasoning,1,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Inductive Reasoning,3,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Deductive Reasoning,3,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Written Comprehension,2,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Problem Sensitivity,2,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Fluency of Ideas,2,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Mathematical Reasoning,2,0
+19638,Automotive Engineers,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",Originality,1,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Deductive Reasoning,3,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Inductive Reasoning,3,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Mathematical Reasoning,2,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Written Expression,2,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Information Ordering,2,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Problem Sensitivity,2,0
+16432,Automotive Engineers,"Develop calibration methodologies, test methodologies, or tools.",Fluency of Ideas,1,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Fluency of Ideas,3,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Originality,3,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Deductive Reasoning,3,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Inductive Reasoning,2,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Visualization,2,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Mathematical Reasoning,2,0
+19633,Automotive Engineers,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",Problem Sensitivity,2,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Information Ordering,3,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Deductive Reasoning,3,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Written Expression,2,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Oral Expression,2,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Written Comprehension,2,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Problem Sensitivity,2,0
+16424,Automotive Engineers,Develop or implement operating methods or procedures.,Inductive Reasoning,1,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Mathematical Reasoning,3,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Deductive Reasoning,3,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Written Expression,3,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Number Facility,2,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Information Ordering,2,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Written Comprehension,2,0
+16431,Automotive Engineers,Develop engineering specifications or cost estimates for automotive design concepts.,Visualization,1,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Written Comprehension,3,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Deductive Reasoning,3,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Problem Sensitivity,2,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Inductive Reasoning,2,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Oral Expression,2,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Oral Comprehension,2,0
+16433,Automotive Engineers,Conduct automotive design reviews.,Speech Recognition,1,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Deductive Reasoning,3,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Mathematical Reasoning,3,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Visualization,3,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Inductive Reasoning,2,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Problem Sensitivity,2,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Fluency of Ideas,2,0
+19635,Automotive Engineers,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",Originality,2,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Written Expression,3,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Written Comprehension,3,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Information Ordering,2,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Deductive Reasoning,2,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Near Vision,2,0
+16425,Automotive Engineers,"Write, review, or maintain engineering documentation.",Perceptual Speed,1,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Written Expression,3,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Written Comprehension,3,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Deductive Reasoning,3,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Information Ordering,2,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Mathematical Reasoning,2,0
+19636,Automotive Engineers,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,Inductive Reasoning,2,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Deductive Reasoning,3,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Mathematical Reasoning,3,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Visualization,3,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Inductive Reasoning,2,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Problem Sensitivity,2,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Information Ordering,2,0
+16435,Automotive Engineers,Build models for algorithm or control feature verification testing.,Written Comprehension,1,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Oral Expression,3,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Oral Comprehension,2,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Information Ordering,2,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Deductive Reasoning,2,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Problem Sensitivity,2,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Speech Clarity,2,0
+16427,Automotive Engineers,"Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.",Written Comprehension,1,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Mathematical Reasoning,3,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Deductive Reasoning,3,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Inductive Reasoning,3,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Visualization,2,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Problem Sensitivity,2,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Fluency of Ideas,2,0
+16439,Automotive Engineers,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",Originality,2,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Deductive Reasoning,3,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Inductive Reasoning,3,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Problem Sensitivity,3,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Written Comprehension,2,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Mathematical Reasoning,2,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Category Flexibility,2,0
+16430,Automotive Engineers,Develop or integrate control feature requirements.,Information Ordering,1,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Written Comprehension,3,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Inductive Reasoning,3,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Deductive Reasoning,3,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Problem Sensitivity,2,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Fluency of Ideas,2,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Mathematical Reasoning,2,0
+19637,Automotive Engineers,"Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.",Originality,1,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Written Comprehension,3,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Oral Comprehension,3,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Inductive Reasoning,2,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Information Ordering,2,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Deductive Reasoning,2,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Speech Recognition,1,0
+16421,Automotive Engineers,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.",Memorization,1,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Deductive Reasoning,3,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Visualization,3,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Fluency of Ideas,2,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Originality,2,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Inductive Reasoning,2,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Mathematical Reasoning,2,0
+19634,Automotive Engineers,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",Problem Sensitivity,2,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Written Expression,3,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Written Comprehension,3,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Information Ordering,3,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Deductive Reasoning,2,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Inductive Reasoning,2,0
+3569,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare technical reports for use by mining, engineering, and management personnel.",Number Facility,1,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Near Vision,3,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Problem Sensitivity,3,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Inductive Reasoning,3,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Deductive Reasoning,2,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Far Vision,2,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Selective Attention,2,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Gross Body Equilibrium,1,0
+3561,"Mining and Geological Engineers, Including Mining Safety Engineers","Inspect mining areas for unsafe structures, equipment, and working conditions.",Gross Body Coordination,1,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Deductive Reasoning,3,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Inductive Reasoning,3,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Problem Sensitivity,3,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Mathematical Reasoning,2,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Information Ordering,2,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Category Flexibility,2,0
+3568,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.",Written Comprehension,1,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Deductive Reasoning,3,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Inductive Reasoning,3,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Problem Sensitivity,3,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Spatial Orientation,2,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Information Ordering,2,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Mathematical Reasoning,2,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Written Expression,2,0
+3562,"Mining and Geological Engineers, Including Mining Safety Engineers","Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.",Visualization,1,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Mathematical Reasoning,3,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Number Facility,3,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Written Expression,3,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Deductive Reasoning,2,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Information Ordering,2,0
+3565,"Mining and Geological Engineers, Including Mining Safety Engineers","Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.",Written Comprehension,2,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Mathematical Reasoning,3,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Deductive Reasoning,3,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Problem Sensitivity,2,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Inductive Reasoning,2,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Selective Attention,2,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Number Facility,2,0
+3566,"Mining and Geological Engineers, Including Mining Safety Engineers",Monitor mine production rates to assess operational effectiveness.,Near Vision,1,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Oral Expression,3,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Oral Comprehension,3,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Deductive Reasoning,2,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Problem Sensitivity,2,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Speech Clarity,2,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Information Ordering,2,0
+18610,"Mining and Geological Engineers, Including Mining Safety Engineers","Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.",Speech Recognition,1,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Written Comprehension,3,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Visualization,3,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Near Vision,3,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Inductive Reasoning,3,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Spatial Orientation,2,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Deductive Reasoning,2,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Far Vision,2,0
+3563,"Mining and Geological Engineers, Including Mining Safety Engineers","Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.",Depth Perception,1,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Deductive Reasoning,3,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Inductive Reasoning,3,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Visualization,2,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Problem Sensitivity,2,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Mathematical Reasoning,2,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Information Ordering,2,0
+3567,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, implement, and monitor the development of mines, facilities, systems, or equipment.",Spatial Orientation,1,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Auditory Attention,3,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Hearing Sensitivity,3,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Selective Attention,2,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Problem Sensitivity,2,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Deductive Reasoning,2,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Inductive Reasoning,2,0
+3571,"Mining and Geological Engineers, Including Mining Safety Engineers","Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.",Near Vision,1,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Problem Sensitivity,3,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Deductive Reasoning,3,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Information Ordering,3,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Inductive Reasoning,2,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Written Comprehension,2,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Oral Expression,2,0
+3570,"Mining and Geological Engineers, Including Mining Safety Engineers","Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.",Written Expression,1,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Inductive Reasoning,3,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Deductive Reasoning,3,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Problem Sensitivity,3,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Fluency of Ideas,2,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Originality,2,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Written Comprehension,2,0
+3574,"Mining and Geological Engineers, Including Mining Safety Engineers","Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.",Mathematical Reasoning,1,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Oral Expression,3,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Deductive Reasoning,3,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Information Ordering,3,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Problem Sensitivity,2,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Far Vision,2,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Spatial Orientation,2,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Visualization,2,0
+3575,"Mining and Geological Engineers, Including Mining Safety Engineers","Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.",Gross Body Equilibrium,1,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Mathematical Reasoning,3,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Deductive Reasoning,3,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Visualization,3,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Inductive Reasoning,2,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Problem Sensitivity,2,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Fluency of Ideas,2,0
+3572,"Mining and Geological Engineers, Including Mining Safety Engineers","Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.",Written Comprehension,1,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Deductive Reasoning,3,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Inductive Reasoning,3,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Mathematical Reasoning,2,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Problem Sensitivity,2,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Information Ordering,2,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Visualization,2,0
+3573,"Mining and Geological Engineers, Including Mining Safety Engineers","Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.",Spatial Orientation,1,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Inductive Reasoning,3,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Deductive Reasoning,3,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Problem Sensitivity,3,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Mathematical Reasoning,2,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Number Facility,2,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Fluency of Ideas,1,0
+3576,"Mining and Geological Engineers, Including Mining Safety Engineers","Evaluate data to develop new mining products, equipment, or processes.",Written Comprehension,1,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Deductive Reasoning,3,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Visualization,3,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Mathematical Reasoning,3,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Inductive Reasoning,2,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Fluency of Ideas,2,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Originality,2,0
+3578,"Mining and Geological Engineers, Including Mining Safety Engineers",Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.,Oral Expression,1,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Deductive Reasoning,3,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Inductive Reasoning,3,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Problem Sensitivity,3,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Mathematical Reasoning,2,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Selective Attention,2,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Information Ordering,2,0
+3577,"Mining and Geological Engineers, Including Mining Safety Engineers",Conduct or direct mining experiments to test or prove research findings.,Written Comprehension,1,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Deductive Reasoning,3,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Mathematical Reasoning,3,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Visualization,3,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Inductive Reasoning,2,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Fluency of Ideas,2,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Originality,2,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Problem Sensitivity,2,0
+5384,Nuclear Engineers,"Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms.",Spatial Orientation,1,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Selective Attention,3,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Problem Sensitivity,3,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Deductive Reasoning,3,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Near Vision,2,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Written Comprehension,2,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Inductive Reasoning,2,0
+5380,Nuclear Engineers,"Monitor nuclear facility operations to identify any design, construction, or operation practices that violate safety regulations and laws or could jeopardize safe operations.",Far Vision,1,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Deductive Reasoning,3,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Problem Sensitivity,3,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Oral Expression,3,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Reaction Time,2,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Information Ordering,2,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Response Orientation,2,0
+5385,Nuclear Engineers,Initiate corrective actions or order plant shutdowns in emergency situations.,Time Sharing,2,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Inductive Reasoning,3,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Deductive Reasoning,3,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Problem Sensitivity,3,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Near Vision,2,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Flexibility of Closure,2,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Written Comprehension,2,0
+5379,Nuclear Engineers,Examine accidents to obtain data for use in design of preventive measures.,Information Ordering,2,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Oral Expression,3,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Deductive Reasoning,3,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Problem Sensitivity,3,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Information Ordering,2,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Inductive Reasoning,2,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Selective Attention,2,0
+5389,Nuclear Engineers,Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards.,Speech Clarity,1,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Deductive Reasoning,3,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Mathematical Reasoning,3,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Visualization,2,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Inductive Reasoning,2,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Problem Sensitivity,2,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Information Ordering,2,0
+5383,Nuclear Engineers,"Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems.",Written Comprehension,2,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Deductive Reasoning,3,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Written Comprehension,3,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Problem Sensitivity,2,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Inductive Reasoning,2,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Information Ordering,2,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Oral Expression,2,0
+19642,Nuclear Engineers,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,Written Expression,1,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Written Expression,3,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Written Comprehension,3,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Information Ordering,3,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Deductive Reasoning,2,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Fluency of Ideas,2,0
+5387,Nuclear Engineers,Write operational instructions to be used in nuclear plant operation or nuclear fuel or waste handling and disposal.,Problem Sensitivity,1,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Written Expression,3,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Written Comprehension,3,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Inductive Reasoning,3,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Deductive Reasoning,2,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Information Ordering,2,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Mathematical Reasoning,1,0
+20956,Nuclear Engineers,"Prepare technical reports of findings or recommendations, based on synthesized analyses of test results.",Number Facility,1,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Written Expression,3,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Oral Expression,3,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Written Comprehension,2,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Information Ordering,2,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Deductive Reasoning,2,0
+19643,Nuclear Engineers,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",Speech Clarity,1,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Inductive Reasoning,3,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Deductive Reasoning,3,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Problem Sensitivity,3,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Fluency of Ideas,2,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Originality,2,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Written Comprehension,2,0
+19641,Nuclear Engineers,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",Mathematical Reasoning,1,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Selective Attention,3,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Deductive Reasoning,3,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Inductive Reasoning,2,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Mathematical Reasoning,2,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Number Facility,2,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Problem Sensitivity,2,0
+5388,Nuclear Engineers,Conduct tests of nuclear fuel behavior and cycles or performance of nuclear machinery and equipment to optimize performance of existing plants.,Near Vision,1,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Inductive Reasoning,3,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Deductive Reasoning,3,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Fluency of Ideas,3,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Originality,2,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Problem Sensitivity,2,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Mathematical Reasoning,2,0
+19640,Nuclear Engineers,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,Visualization,1,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Oral Comprehension,3,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Oral Expression,3,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Deductive Reasoning,2,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Inductive Reasoning,2,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Problem Sensitivity,2,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Speech Recognition,2,0
+20958,Nuclear Engineers,Consult with other scientists to determine parameters of experimentation or suitability of analytical models.,Speech Clarity,1,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Deductive Reasoning,3,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Inductive Reasoning,3,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Problem Sensitivity,3,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Written Expression,2,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Written Comprehension,2,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Information Ordering,2,0
+5386,Nuclear Engineers,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",Oral Expression,1,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Oral Expression,3,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Oral Comprehension,3,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Deductive Reasoning,2,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Problem Sensitivity,2,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Speech Clarity,2,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Speech Recognition,2,0
+20959,Nuclear Engineers,"Discuss construction project proposals with interested parties, such as vendors, contractors, or nuclear facility review boards.",Written Comprehension,1,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Deductive Reasoning,3,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Inductive Reasoning,3,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Problem Sensitivity,3,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Mathematical Reasoning,2,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Selective Attention,2,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Information Ordering,2,0
+5382,Nuclear Engineers,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",Written Comprehension,1,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Inductive Reasoning,3,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Deductive Reasoning,3,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Problem Sensitivity,3,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Mathematical Reasoning,2,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Written Comprehension,2,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Information Ordering,2,0
+19639,Nuclear Engineers,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",Fluency of Ideas,1,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Deductive Reasoning,3,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Inductive Reasoning,3,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Fluency of Ideas,2,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Originality,2,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Problem Sensitivity,2,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Mathematical Reasoning,2,0
+20957,Nuclear Engineers,"Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.",Visualization,2,0

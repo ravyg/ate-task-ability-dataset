@@ -1,0 +1,892 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+16511,Robotics Engineers,Provide technical support for robotic systems.,Oral Comprehension,3,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Oral Expression,3,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Problem Sensitivity,3,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Deductive Reasoning,2,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Written Comprehension,2,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Speech Recognition,2,0
+16511,Robotics Engineers,Provide technical support for robotic systems.,Speech Clarity,2,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Visualization,3,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Deductive Reasoning,3,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Inductive Reasoning,2,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Problem Sensitivity,2,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Spatial Orientation,2,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Written Expression,2,0
+16522,Robotics Engineers,Design end-of-arm tooling.,Mathematical Reasoning,2,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Visualization,3,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Deductive Reasoning,3,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Inductive Reasoning,3,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Problem Sensitivity,3,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Originality,2,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Mathematical Reasoning,2,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Spatial Orientation,2,0
+16530,Robotics Engineers,"Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems.",Written Expression,2,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Oral Comprehension,3,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Oral Expression,3,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Written Comprehension,2,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Problem Sensitivity,2,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Deductive Reasoning,2,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Speech Recognition,2,0
+16509,Robotics Engineers,"Supervise technologists, technicians, or other engineers.",Speech Clarity,2,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Deductive Reasoning,3,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Inductive Reasoning,3,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Problem Sensitivity,3,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Mathematical Reasoning,2,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Visualization,2,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Information Ordering,2,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Written Expression,2,0
+16528,Robotics Engineers,"Design software to control robotic systems for applications, such as military defense or manufacturing.",Originality,2,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Inductive Reasoning,3,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Deductive Reasoning,3,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Problem Sensitivity,3,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Originality,3,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Written Comprehension,2,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Mathematical Reasoning,2,0
+16523,Robotics Engineers,Conduct research on robotic technology to create new robotic systems or system capabilities.,Fluency of Ideas,2,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Problem Sensitivity,3,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Inductive Reasoning,3,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Deductive Reasoning,3,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Near Vision,2,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Written Comprehension,2,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Perceptual Speed,2,0
+16519,Robotics Engineers,Investigate mechanical failures or unexpected maintenance problems.,Visualization,2,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Problem Sensitivity,3,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Deductive Reasoning,3,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Visualization,3,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Manual Dexterity,2,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Arm-Hand Steadiness,2,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Near Vision,2,0
+16510,Robotics Engineers,"Integrate robotics with peripherals, such as welders, controllers, or other equipment.",Multilimb Coordination,1,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Problem Sensitivity,3,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Deductive Reasoning,3,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Inductive Reasoning,2,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Written Comprehension,2,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Near Vision,2,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Perceptual Speed,2,0
+21058,Robotics Engineers,Evaluate robotic systems or prototypes.,Mathematical Reasoning,2,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Manual Dexterity,3,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Arm-Hand Steadiness,3,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Finger Dexterity,2,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Control Precision,3,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Near Vision,2,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Problem Sensitivity,2,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Deductive Reasoning,2,0
+16520,Robotics Engineers,"Install, calibrate, operate, or maintain robots.",Visualization,2,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Inductive Reasoning,3,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Deductive Reasoning,3,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Problem Sensitivity,3,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Originality,2,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Mathematical Reasoning,2,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Written Comprehension,2,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Visualization,2,0
+16525,Robotics Engineers,"Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions.",Fluency of Ideas,2,0
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",Written Expression,3,0
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",Written Comprehension,2,0
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",Information Ordering,2,0
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",Deductive Reasoning,2,0
+16514,Robotics Engineers,"Document robotic application development, maintenance, or changes.",Perceptual Speed,1,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Visualization,3,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Deductive Reasoning,3,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Inductive Reasoning,3,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Problem Sensitivity,3,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Mathematical Reasoning,2,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Originality,2,0
+16527,Robotics Engineers,"Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials.",Written Expression,2,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Deductive Reasoning,3,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Inductive Reasoning,3,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Mathematical Reasoning,3,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Information Ordering,3,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Problem Sensitivity,2,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Written Expression,2,0
+16515,Robotics Engineers,Write algorithms or programming code for ad hoc robotic applications.,Originality,2,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Information Ordering,3,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Written Expression,2,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Number Facility,2,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Perceptual Speed,2,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Deductive Reasoning,2,0
+16513,Robotics Engineers,Make system device lists or event timing charts.,Written Comprehension,2,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Deductive Reasoning,3,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Inductive Reasoning,3,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Problem Sensitivity,3,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Originality,2,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Visualization,2,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Written Expression,2,0
+19667,Robotics Engineers,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,Mathematical Reasoning,2,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Spatial Orientation,3,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Visualization,3,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Deductive Reasoning,3,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Mathematical Reasoning,2,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Information Ordering,2,0
+16518,Robotics Engineers,Plan mobile robot paths and teach path plans to robots.,Problem Sensitivity,2,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Deductive Reasoning,3,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Inductive Reasoning,3,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Problem Sensitivity,3,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Visualization,2,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Mathematical Reasoning,2,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Originality,2,0
+19668,Robotics Engineers,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs.",Written Expression,2,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Deductive Reasoning,3,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Inductive Reasoning,3,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Problem Sensitivity,2,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Mathematical Reasoning,2,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Written Comprehension,2,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Visualization,2,0
+16524,Robotics Engineers,Automate assays on laboratory robotics.,Perceptual Speed,1,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Oral Comprehension,3,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Oral Expression,3,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Deductive Reasoning,3,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Written Comprehension,2,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Problem Sensitivity,2,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Speech Recognition,2,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Speech Clarity,2,0
+16540,Nanosystems Engineers,"Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",Inductive Reasoning,2,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Oral Comprehension,3,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Oral Expression,3,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Written Comprehension,2,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Problem Sensitivity,2,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Deductive Reasoning,2,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Speech Recognition,2,0
+16532,Nanosystems Engineers,Supervise technologists or technicians engaged in nanotechnology research or production.,Speech Clarity,2,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Inductive Reasoning,3,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Deductive Reasoning,3,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Problem Sensitivity,3,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Originality,2,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Mathematical Reasoning,2,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Written Comprehension,2,0
+16546,Nanosystems Engineers,"Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography.",Fluency of Ideas,2,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Arm-Hand Steadiness,3,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Finger Dexterity,3,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Near Vision,3,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Deductive Reasoning,2,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Problem Sensitivity,2,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Manual Dexterity,2,0
+16533,Nanosystems Engineers,"Synthesize, process, or characterize nanomaterials, using advanced tools or techniques.",Perceptual Speed,2,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Written Expression,3,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Oral Expression,3,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Written Comprehension,2,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Oral Comprehension,2,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Information Ordering,2,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Speech Clarity,2,0
+16537,Nanosystems Engineers,"Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",Deductive Reasoning,1,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Deductive Reasoning,3,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Inductive Reasoning,3,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Problem Sensitivity,3,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Near Vision,2,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Mathematical Reasoning,2,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Perceptual Speed,2,0
+16542,Nanosystems Engineers,"Design or conduct tests of new nanotechnology products, processes, or systems.",Written Expression,2,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Visualization,3,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Deductive Reasoning,3,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Inductive Reasoning,3,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Originality,3,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Problem Sensitivity,2,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Mathematical Reasoning,2,0
+16545,Nanosystems Engineers,"Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes.",Written Expression,2,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Written Expression,3,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Written Comprehension,3,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Deductive Reasoning,2,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Inductive Reasoning,2,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Fluency of Ideas,2,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Oral Expression,2,0
+16531,Nanosystems Engineers,Write proposals to secure external funding or to partner with other companies.,Information Ordering,2,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Arm-Hand Steadiness,3,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Finger Dexterity,3,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Near Vision,3,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Control Precision,2,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Perceptual Speed,2,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Problem Sensitivity,2,0
+16536,Nanosystems Engineers,"Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy.",Deductive Reasoning,2,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Deductive Reasoning,3,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Inductive Reasoning,3,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Problem Sensitivity,3,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Visualization,2,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Mathematical Reasoning,2,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Written Expression,2,0
+16539,Nanosystems Engineers,Develop processes or identify equipment needed for pilot or commercial nanoscale scale production.,Fluency of Ideas,2,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Oral Comprehension,3,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Oral Expression,3,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Problem Sensitivity,2,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Written Comprehension,2,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Deductive Reasoning,2,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Speech Recognition,2,0
+16535,Nanosystems Engineers,"Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use.",Speech Clarity,2,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Deductive Reasoning,3,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Inductive Reasoning,3,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Problem Sensitivity,3,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Mathematical Reasoning,2,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Visualization,2,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Written Expression,2,0
+16541,Nanosystems Engineers,"Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy.",Information Ordering,2,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Inductive Reasoning,3,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Deductive Reasoning,3,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Problem Sensitivity,3,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Mathematical Reasoning,2,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Originality,2,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Visualization,2,0
+19669,Nanosystems Engineers,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",Written Expression,2,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Inductive Reasoning,3,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Originality,3,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Fluency of Ideas,3,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Deductive Reasoning,2,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Problem Sensitivity,2,0
+16534,Nanosystems Engineers,Identify new applications for existing nanotechnologies.,Category Flexibility,2,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Visualization,3,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Deductive Reasoning,3,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Spatial Orientation,3,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Mathematical Reasoning,2,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Problem Sensitivity,2,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Written Expression,2,0
+16544,Nanosystems Engineers,"Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software.",Near Vision,2,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Deductive Reasoning,3,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Inductive Reasoning,3,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Originality,3,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Problem Sensitivity,3,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Mathematical Reasoning,2,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Written Expression,2,0
+19671,Nanosystems Engineers,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",Visualization,2,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Oral Comprehension,3,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Oral Expression,3,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Written Comprehension,2,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Problem Sensitivity,2,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Deductive Reasoning,2,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Speech Recognition,2,0
+16543,Nanosystems Engineers,"Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes.",Information Ordering,2,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Deductive Reasoning,3,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Inductive Reasoning,3,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Problem Sensitivity,3,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Mathematical Reasoning,2,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Originality,2,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Visualization,2,0
+19670,Nanosystems Engineers,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",Written Expression,2,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Deductive Reasoning,3,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Inductive Reasoning,3,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Problem Sensitivity,3,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Visualization,3,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Mathematical Reasoning,2,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Originality,2,0
+19673,Nanosystems Engineers,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,Written Expression,2,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Written Expression,3,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Written Comprehension,3,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Deductive Reasoning,2,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Information Ordering,2,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Fluency of Ideas,2,0
+16538,Nanosystems Engineers,Prepare nanotechnology-related invention disclosures or patent applications.,Oral Expression,1,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Inductive Reasoning,3,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Deductive Reasoning,3,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Problem Sensitivity,3,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Originality,2,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Mathematical Reasoning,2,0
+19677,Nanosystems Engineers,Reengineer nanomaterials to improve biodegradability.,Visualization,2,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Deductive Reasoning,3,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Inductive Reasoning,3,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Problem Sensitivity,3,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Originality,2,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Mathematical Reasoning,2,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Visualization,2,0
+19676,Nanosystems Engineers,"Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes.",Written Expression,2,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Inductive Reasoning,3,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Deductive Reasoning,3,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Problem Sensitivity,3,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Originality,2,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Mathematical Reasoning,2,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Arm-Hand Steadiness,2,0
+19674,Nanosystems Engineers,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",Near Vision,2,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Deductive Reasoning,3,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Inductive Reasoning,3,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Problem Sensitivity,3,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Visualization,3,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Originality,2,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Mathematical Reasoning,2,0
+19672,Nanosystems Engineers,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",Written Expression,2,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Inductive Reasoning,3,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Deductive Reasoning,3,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Originality,3,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Problem Sensitivity,3,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Mathematical Reasoning,2,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Visualization,2,0
+19675,Nanosystems Engineers,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",Written Expression,2,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Visualization,3,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Written Expression,3,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Spatial Orientation,3,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Near Vision,2,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Deductive Reasoning,2,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Information Ordering,2,0
+16559,Wind Energy Engineers,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",Perceptual Speed,1,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Deductive Reasoning,3,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Inductive Reasoning,3,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Problem Sensitivity,3,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Oral Expression,2,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Written Expression,2,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Mathematical Reasoning,2,0
+16549,Wind Energy Engineers,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",Oral Comprehension,2,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Visualization,3,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Spatial Orientation,3,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Mathematical Reasoning,3,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Deductive Reasoning,2,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Problem Sensitivity,2,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Written Expression,2,0
+16560,Wind Energy Engineers,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",Near Vision,2,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Oral Comprehension,3,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Oral Expression,3,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Deductive Reasoning,3,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Problem Sensitivity,2,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Written Comprehension,2,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Speech Recognition,2,0
+16553,Wind Energy Engineers,Provide engineering technical support to designers of prototype wind turbines.,Speech Clarity,2,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Inductive Reasoning,3,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Deductive Reasoning,3,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Problem Sensitivity,3,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Mathematical Reasoning,2,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Auditory Attention,2,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Near Vision,2,0
+16550,Wind Energy Engineers,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",Hearing Sensitivity,2,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Deductive Reasoning,3,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Inductive Reasoning,3,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Mathematical Reasoning,3,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Problem Sensitivity,3,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Visualization,2,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Originality,2,0
+16558,Wind Energy Engineers,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",Written Expression,2,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Deductive Reasoning,3,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Mathematical Reasoning,3,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Written Expression,3,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Problem Sensitivity,2,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Inductive Reasoning,2,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Visualization,2,0
+16557,Wind Energy Engineers,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.",Written Comprehension,2,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Near Vision,3,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Deductive Reasoning,3,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Problem Sensitivity,3,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Manual Dexterity,2,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Arm-Hand Steadiness,2,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Perceptual Speed,2,0
+16552,Wind Energy Engineers,"Test wind turbine components, using mechanical or electronic testing equipment.",Mathematical Reasoning,2,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Oral Comprehension,3,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Oral Expression,3,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Written Comprehension,2,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Problem Sensitivity,2,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Deductive Reasoning,2,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Speech Recognition,2,0
+16548,Wind Energy Engineers,Oversee the work activities of wind farm consultants or subcontractors.,Information Ordering,2,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Problem Sensitivity,3,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Deductive Reasoning,3,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Near Vision,3,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Mathematical Reasoning,2,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Manual Dexterity,2,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Arm-Hand Steadiness,2,0
+16551,Wind Energy Engineers,Test wind turbine equipment to determine effects of stress or fatigue.,Perceptual Speed,2,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Problem Sensitivity,3,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Deductive Reasoning,3,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Far Vision,2,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Near Vision,2,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Oral Comprehension,2,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Written Comprehension,2,0
+16555,Wind Energy Engineers,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,Selective Attention,2,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Deductive Reasoning,3,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Problem Sensitivity,3,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Oral Comprehension,2,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Oral Expression,2,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Information Ordering,2,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Written Comprehension,2,0
+16556,Wind Energy Engineers,"Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.",Speech Recognition,2,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Inductive Reasoning,3,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Deductive Reasoning,3,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Mathematical Reasoning,3,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Problem Sensitivity,3,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Written Comprehension,2,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Number Facility,2,0
+16562,Wind Energy Engineers,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",Perceptual Speed,2,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Inductive Reasoning,3,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Deductive Reasoning,3,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Problem Sensitivity,3,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Near Vision,2,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Mathematical Reasoning,2,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Written Comprehension,2,0
+16554,Wind Energy Engineers,Perform root cause analysis on wind turbine tower component failures.,Perceptual Speed,2,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Visualization,3,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Deductive Reasoning,3,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Spatial Orientation,3,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Mathematical Reasoning,2,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Problem Sensitivity,2,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Written Expression,2,0
+16561,Wind Energy Engineers,Design underground or overhead wind farm collector systems.,Inductive Reasoning,2,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Written Expression,3,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Written Comprehension,2,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Information Ordering,2,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Mathematical Reasoning,2,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Deductive Reasoning,2,0
+16547,Wind Energy Engineers,Write reports to document wind farm collector system test results.,Number Facility,1,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Problem Sensitivity,3,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Inductive Reasoning,3,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Near Vision,2,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Far Vision,2,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Deductive Reasoning,2,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Written Expression,2,0
+16575,Solar Energy Systems Engineers,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",Oral Comprehension,2,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Deductive Reasoning,3,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Inductive Reasoning,3,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Written Expression,3,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Information Ordering,2,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Problem Sensitivity,2,0
+16571,Solar Energy Systems Engineers,"Create plans for solar energy system development, monitoring, and evaluation activities.",Mathematical Reasoning,2,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Visualization,3,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Deductive Reasoning,3,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Mathematical Reasoning,3,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Problem Sensitivity,3,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Inductive Reasoning,2,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Written Expression,2,0
+16574,Solar Energy Systems Engineers,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",Spatial Orientation,2,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Oral Comprehension,3,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Oral Expression,3,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Problem Sensitivity,2,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Deductive Reasoning,2,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Written Comprehension,2,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Speech Recognition,2,0
+16568,Solar Energy Systems Engineers,"Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.",Speech Clarity,2,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Visualization,3,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Near Vision,3,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Deductive Reasoning,3,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Spatial Orientation,2,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Mathematical Reasoning,2,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Finger Dexterity,2,0
+16572,Solar Energy Systems Engineers,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",Written Expression,2,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Mathematical Reasoning,3,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Deductive Reasoning,3,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Inductive Reasoning,3,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Number Facility,2,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Visualization,2,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Problem Sensitivity,2,0
+16569,Solar Energy Systems Engineers,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,Written Comprehension,2,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Deductive Reasoning,3,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Inductive Reasoning,3,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Problem Sensitivity,3,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Written Comprehension,3,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Oral Expression,2,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Mathematical Reasoning,2,0
+16564,Solar Energy Systems Engineers,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,Written Expression,2,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Deductive Reasoning,3,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Inductive Reasoning,3,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Mathematical Reasoning,3,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Written Expression,3,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Problem Sensitivity,2,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Visualization,2,0
+16570,Solar Energy Systems Engineers,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",Information Ordering,2,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Deductive Reasoning,3,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Written Expression,3,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Information Ordering,3,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Problem Sensitivity,2,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Inductive Reasoning,2,0
+16566,Solar Energy Systems Engineers,Develop standard operation procedures and quality or safety standards for solar installation work.,Written Comprehension,2,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Information Ordering,3,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Written Expression,3,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Deductive Reasoning,2,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Problem Sensitivity,2,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Perceptual Speed,2,0
+16573,Solar Energy Systems Engineers,Create checklists for review or inspection of completed solar installation projects.,Written Comprehension,2,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Mathematical Reasoning,3,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Deductive Reasoning,3,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Inductive Reasoning,3,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Number Facility,2,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Problem Sensitivity,2,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Written Comprehension,2,0
+16565,Solar Energy Systems Engineers,"Perform thermal, stress, or cost reduction analyses for solar systems.",Written Expression,2,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Problem Sensitivity,3,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Deductive Reasoning,3,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Near Vision,2,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Mathematical Reasoning,2,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Perceptual Speed,2,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Inductive Reasoning,2,0
+16563,Solar Energy Systems Engineers,Test or evaluate photovoltaic (PV) cells or modules.,Written Expression,2,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Visualization,3,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Deductive Reasoning,3,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Inductive Reasoning,3,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Mathematical Reasoning,2,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Problem Sensitivity,2,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Originality,2,0
+16567,Solar Energy Systems Engineers,Design or develop vacuum tube collector systems for solar applications.,Written Expression,2,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Near Vision,3,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Finger Dexterity,3,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Arm-Hand Steadiness,3,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Visualization,3,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Spatial Orientation,2,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Wrist-Finger Speed,2,0
+21917,Architectural and Civil Drafters,"Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices.",Perceptual Speed,2,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Visualization,3,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Spatial Orientation,3,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Near Vision,3,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Deductive Reasoning,2,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Written Comprehension,2,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Finger Dexterity,2,0
+21918,Architectural and Civil Drafters,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",Arm-Hand Steadiness,2,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Deductive Reasoning,3,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Visualization,3,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Spatial Orientation,3,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Information Ordering,2,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Inductive Reasoning,2,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Problem Sensitivity,2,0
+21919,Architectural and Civil Drafters,"Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans.",Written Comprehension,2,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Written Comprehension,3,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Deductive Reasoning,3,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Inductive Reasoning,3,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Problem Sensitivity,2,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Visualization,2,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Information Ordering,2,0
+21920,Architectural and Civil Drafters,"Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",Perceptual Speed,2,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Visualization,3,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Spatial Orientation,3,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Near Vision,3,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Finger Dexterity,2,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Arm-Hand Steadiness,2,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Deductive Reasoning,2,0
+21921,Architectural and Civil Drafters,"Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures.",Perceptual Speed,2,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Visualization,3,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Spatial Orientation,3,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Near Vision,2,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Deductive Reasoning,2,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Inductive Reasoning,2,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Mathematical Reasoning,2,0
+21922,Architectural and Civil Drafters,"Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software.",Finger Dexterity,2,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Oral Comprehension,3,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Oral Expression,3,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Written Comprehension,2,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Problem Sensitivity,2,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Deductive Reasoning,2,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Speech Recognition,2,0
+21923,Architectural and Civil Drafters,"Supervise and train other technologists, technicians, and drafters.",Speech Clarity,2,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Deductive Reasoning,3,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Visualization,3,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Information Ordering,3,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Spatial Orientation,2,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Inductive Reasoning,2,0
+21924,Architectural and Civil Drafters,"Determine the order of work and method of presentation, such as orthographic or isometric drawing.",Problem Sensitivity,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Near Vision,3,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Perceptual Speed,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Manual Dexterity,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Finger Dexterity,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Information Ordering,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Selective Attention,2,0
+21925,Architectural and Civil Drafters,"Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods.",Visualization,1,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Visualization,3,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Spatial Orientation,3,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Near Vision,3,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Mathematical Reasoning,2,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Finger Dexterity,2,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Arm-Hand Steadiness,2,0
+21926,Architectural and Civil Drafters,"Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data.",Deductive Reasoning,2,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Inductive Reasoning,3,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Deductive Reasoning,3,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Written Comprehension,3,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Visualization,2,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Spatial Orientation,2,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Mathematical Reasoning,2,0
+21927,Architectural and Civil Drafters,"Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports.",Perceptual Speed,2,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Near Vision,3,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Number Facility,3,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Perceptual Speed,3,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Selective Attention,2,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Deductive Reasoning,2,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Mathematical Reasoning,2,0
+21928,Architectural and Civil Drafters,Check dimensions of materials to be used and assign numbers to lists of materials.,Written Comprehension,1,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Written Comprehension,3,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Deductive Reasoning,3,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Information Ordering,3,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Problem Sensitivity,2,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Number Facility,2,0
+21929,Architectural and Civil Drafters,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",Inductive Reasoning,2,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Problem Sensitivity,3,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Far Vision,2,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Near Vision,2,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Deductive Reasoning,2,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Oral Comprehension,2,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Gross Body Coordination,1,0
+21930,Architectural and Civil Drafters,"Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings.",Depth Perception,2,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Oral Comprehension,3,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Oral Expression,3,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Written Comprehension,2,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Deductive Reasoning,2,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Visualization,2,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Speech Clarity,2,0
+21931,Architectural and Civil Drafters,Explain drawings to production or construction teams and provide adjustments as necessary.,Speech Recognition,2,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Near Vision,3,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Deductive Reasoning,2,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Inductive Reasoning,2,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Written Comprehension,2,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Far Vision,2,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Gross Body Coordination,1,0
+21932,Architectural and Civil Drafters,"Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary.",Depth Perception,2,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Deductive Reasoning,3,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Mathematical Reasoning,3,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Number Facility,3,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Written Comprehension,2,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Inductive Reasoning,2,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Written Expression,2,0
+21933,Architectural and Civil Drafters,"Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists.",Perceptual Speed,2,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Near Vision,3,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Perceptual Speed,3,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Selective Attention,3,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Written Comprehension,2,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Spatial Orientation,2,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Speed of Closure,2,0
+21934,Architectural and Civil Drafters,Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations.,Flexibility of Closure,2,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Near Vision,3,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Finger Dexterity,3,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Arm-Hand Steadiness,3,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Wrist-Finger Speed,2,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Visualization,2,0
+21935,Architectural and Civil Drafters,Create freehand drawings and lettering to accompany drawings.,Perceptual Speed,2,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Mathematical Reasoning,3,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Number Facility,3,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Visualization,2,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Deductive Reasoning,2,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Written Expression,2,0
+21936,Architectural and Civil Drafters,Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations.,Spatial Orientation,2,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Visualization,3,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Near Vision,3,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Spatial Orientation,2,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Finger Dexterity,2,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Arm-Hand Steadiness,2,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Oral Expression,2,0
+21937,Architectural and Civil Drafters,Prepare colored drawings of landscape and interior designs for presentation to client.,Visual Color Discrimination,3,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Mathematical Reasoning,3,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Deductive Reasoning,3,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Number Facility,3,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Inductive Reasoning,2,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Visualization,2,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Problem Sensitivity,2,0
+21938,Architectural and Civil Drafters,"Calculate weights, volumes, and stress factors and their implications for technical aspects of designs.",Written Expression,2,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Visualization,3,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Spatial Orientation,3,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Near Vision,3,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Mathematical Reasoning,2,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Number Facility,2,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Deductive Reasoning,2,0
+21939,Architectural and Civil Drafters,"Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination.",Perceptual Speed,2,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Near Vision,3,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Arm-Hand Steadiness,3,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Finger Dexterity,3,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Wrist-Finger Speed,2,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Selective Attention,2,0
+21940,Architectural and Civil Drafters,"Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments.",Manual Dexterity,2,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Mathematical Reasoning,3,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Deductive Reasoning,3,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Number Facility,3,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Written Comprehension,2,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Inductive Reasoning,2,0
+21941,Architectural and Civil Drafters,"Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures.",Problem Sensitivity,2,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Written Expression,3,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Written Comprehension,3,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Mathematical Reasoning,3,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Deductive Reasoning,2,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Number Facility,2,0
+21942,Architectural and Civil Drafters,"Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision.",Information Ordering,2,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Oral Comprehension,3,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Oral Expression,3,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Problem Sensitivity,3,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Far Vision,2,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Near Vision,2,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Deductive Reasoning,2,0
+21943,Architectural and Civil Drafters,"Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.",Depth Perception,2,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Written Comprehension,3,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Deductive Reasoning,3,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Near Vision,3,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Visualization,2,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Perceptual Speed,2,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Problem Sensitivity,2,0
+21944,Architectural and Civil Drafters,"Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.",Selective Attention,2,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Near Vision,3,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Finger Dexterity,3,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Arm-Hand Steadiness,3,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Visualization,3,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Spatial Orientation,2,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Perceptual Speed,2,0
+21951,Electrical and Electronics Drafters,"Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.",Deductive Reasoning,2,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Visualization,3,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Near Vision,3,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Deductive Reasoning,3,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Spatial Orientation,2,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Finger Dexterity,2,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Arm-Hand Steadiness,2,0
+21945,Electrical and Electronics Drafters,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",Written Expression,2,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Information Ordering,3,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Near Vision,3,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Selective Attention,3,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Perceptual Speed,2,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Written Comprehension,2,0
+21946,Electrical and Electronics Drafters,Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.,Manual Dexterity,2,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Written Comprehension,3,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Deductive Reasoning,3,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Near Vision,3,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Perceptual Speed,2,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Problem Sensitivity,2,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Mathematical Reasoning,2,0
+21948,Electrical and Electronics Drafters,Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.,Selective Attention,2,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Oral Comprehension,3,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Oral Expression,3,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Deductive Reasoning,2,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Written Comprehension,2,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Visualization,2,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Speech Recognition,2,0
+21947,Electrical and Electronics Drafters,"Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.",Speech Clarity,2,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Oral Comprehension,3,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Oral Expression,3,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Problem Sensitivity,2,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Deductive Reasoning,2,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Speech Recognition,2,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Speech Clarity,2,0
+21950,Electrical and Electronics Drafters,Confer with engineering staff and other personnel to resolve problems.,Written Comprehension,2,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Near Vision,3,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Mathematical Reasoning,3,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Deductive Reasoning,2,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Number Facility,2,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Selective Attention,2,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Manual Dexterity,2,0
+21952,Electrical and Electronics Drafters,"Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.",Arm-Hand Steadiness,2,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Visualization,3,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Deductive Reasoning,3,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Mathematical Reasoning,3,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Problem Sensitivity,2,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Spatial Orientation,2,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Written Expression,2,0
+21954,Electrical and Electronics Drafters,"Design electrical systems, such as lighting systems.",Inductive Reasoning,2,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Near Vision,3,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Visualization,3,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Spatial Orientation,3,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Finger Dexterity,2,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Arm-Hand Steadiness,2,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Mathematical Reasoning,2,0
+21955,Electrical and Electronics Drafters,Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.,Deductive Reasoning,2,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Written Comprehension,3,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Oral Comprehension,3,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Oral Expression,2,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Problem Sensitivity,2,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Deductive Reasoning,2,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Speech Recognition,2,0
+21958,Electrical and Electronics Drafters,Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.,Speech Clarity,1,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Near Vision,2,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Perceptual Speed,2,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Selective Attention,2,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Information Ordering,2,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Written Comprehension,2,0
+21953,Electrical and Electronics Drafters,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",Finger Dexterity,2,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Written Comprehension,3,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Near Vision,3,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Deductive Reasoning,3,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Mathematical Reasoning,2,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Perceptual Speed,2,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Visualization,2,0
+21949,Electrical and Electronics Drafters,"Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.",Selective Attention,2,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Deductive Reasoning,3,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Mathematical Reasoning,3,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Near Vision,3,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Visualization,2,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Perceptual Speed,2,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Number Facility,2,0
+21963,Electrical and Electronics Drafters,"Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.",Selective Attention,2,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Written Comprehension,3,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Near Vision,3,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Oral Comprehension,2,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Oral Expression,2,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Deductive Reasoning,2,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Visualization,2,0
+21965,Electrical and Electronics Drafters,"Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.",Speech Recognition,2,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Written Comprehension,3,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Deductive Reasoning,3,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Inductive Reasoning,2,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Problem Sensitivity,2,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Perceptual Speed,2,0
+21956,Electrical and Electronics Drafters,"Study work order requests to determine type of service, such as lighting or power, demanded by installation.",Visualization,1,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Oral Comprehension,3,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Oral Expression,3,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Visualization,2,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Written Comprehension,2,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Deductive Reasoning,2,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Speech Clarity,2,0
+21957,Electrical and Electronics Drafters,"Explain drawings to production or construction teams and provide adjustments, as necessary.",Speech Recognition,2,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Near Vision,3,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Arm-Hand Steadiness,3,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Finger Dexterity,3,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Wrist-Finger Speed,2,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Selective Attention,2,0
+21959,Electrical and Electronics Drafters,Reproduce working drawings on copy machines or trace drawings in ink.,Manual Dexterity,2,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Near Vision,3,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Visualization,3,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Deductive Reasoning,2,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Perceptual Speed,2,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Selective Attention,2,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Finger Dexterity,2,0
+21960,Electrical and Electronics Drafters,Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.,Information Ordering,2,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Deductive Reasoning,3,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Visualization,3,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Information Ordering,3,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Spatial Orientation,2,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Inductive Reasoning,2,0
+21964,Electrical and Electronics Drafters,"Determine the order of work and the method of presentation, such as orthographic or isometric drawing.",Problem Sensitivity,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Near Vision,3,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Far Vision,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Visualization,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Finger Dexterity,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Arm-Hand Steadiness,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Spatial Orientation,2,0
+21966,Electrical and Electronics Drafters,Visit proposed installation sites and draw rough sketches of location.,Depth Perception,2,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Near Vision,3,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Deductive Reasoning,3,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Written Comprehension,3,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Finger Dexterity,2,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Perceptual Speed,2,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Mathematical Reasoning,2,0
+21961,Electrical and Electronics Drafters,Key and program specified commands and engineering specifications into computer system to change functions and test final layout.,Problem Sensitivity,2,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Near Vision,3,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Selective Attention,2,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Manual Dexterity,2,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Finger Dexterity,2,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Perceptual Speed,2,0
+21970,Electrical and Electronics Drafters,Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.,Arm-Hand Steadiness,2,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Deductive Reasoning,3,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Near Vision,3,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Written Comprehension,2,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Mathematical Reasoning,2,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Perceptual Speed,2,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Finger Dexterity,2,0
+21967,Electrical and Electronics Drafters,"Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.",Arm-Hand Steadiness,1,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Near Vision,3,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Visualization,3,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Finger Dexterity,2,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Arm-Hand Steadiness,2,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Deductive Reasoning,2,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Perceptual Speed,2,0
+21968,Electrical and Electronics Drafters,Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.,Spatial Orientation,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Written Expression,3,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Number Facility,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Mathematical Reasoning,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Visualization,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Near Vision,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Deductive Reasoning,2,0
+21969,Electrical and Electronics Drafters,Write technical reports and draw charts that display statistics and data.,Information Ordering,2,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Oral Comprehension,3,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Oral Expression,3,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Problem Sensitivity,2,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Deductive Reasoning,2,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Written Comprehension,2,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Speech Recognition,2,0
+21962,Electrical and Electronics Drafters,"Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.",Information Ordering,2,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Oral Comprehension,3,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Oral Expression,3,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Written Comprehension,2,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Deductive Reasoning,2,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Visualization,2,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Speech Clarity,2,0
+21971,Electrical and Electronics Drafters,"Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.",Speech Recognition,2,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Written Comprehension,3,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Mathematical Reasoning,3,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Deductive Reasoning,3,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Number Facility,2,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Problem Sensitivity,2,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Written Expression,2,0
+21972,Electrical and Electronics Drafters,"Prepare and interpret specifications, calculating weights, volumes, or stress factors.",Inductive Reasoning,2,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Oral Comprehension,3,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Oral Expression,3,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Written Comprehension,2,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Problem Sensitivity,2,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Deductive Reasoning,2,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Speech Recognition,2,0
+21973,Electrical and Electronics Drafters,"Supervise or train other technologists, technicians, or drafters.",Speech Clarity,2,0

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "2210",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Carry food supplies, equipment, and utensils to and from storage and work areas."
+},
+{
+"task_id": "2208",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Remove trash and clean kitchen garbage containers."
+},
+{
+"task_id": "2197",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Store food in designated containers and storage areas to prevent spoilage."
+},
+{
+"task_id": "2203",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Weigh or measure ingredients."
+},
+{
+"task_id": "18734",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Vacuum dining area and sweep and mop kitchen floor."
+},
+{
+"task_id": "18732",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items."
+},
+{
+"task_id": "18731",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving."
+},
+{
+"task_id": "18729",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures."
+},
+{
+"task_id": "21005",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Assemble meal trays with foods in accordance with patients' diets."
+},
+{
+"task_id": "2207",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Stock cupboards and refrigerators, and tend salad bars and buffet meals."
+},
+{
+"task_id": "2213",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Use manual or electric appliances to clean, peel, slice, and trim foods."
+},
+{
+"task_id": "2217",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Load dishes, glasses, and tableware into dishwashing machines."
+},
+{
+"task_id": "2200",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Portion and wrap food, or place it directly on plates for service to patrons."
+},
+{
+"task_id": "2220",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments."
+},
+{
+"task_id": "2201",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets."
+},
+{
+"task_id": "2209",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks."
+},
+{
+"task_id": "2221",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads."
+},
+{
+"task_id": "2206",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas."
+},
+{
+"task_id": "2214",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Stir and strain soups and sauces."
+},
+{
+"task_id": "2211",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Make special dressings and sauces as condiments for sandwiches."
+},
+{
+"task_id": "2212",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Scrape leftovers from dishes into garbage containers."
+},
+{
+"task_id": "2215",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Distribute food to waiters and waitresses to serve to customers."
+},
+{
+"task_id": "18733",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Operate cash register, handle money, and give correct change."
+},
+{
+"task_id": "2222",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients."
+},
+{
+"task_id": "2199",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Package take-out foods or serve food to customers."
+},
+{
+"task_id": "2219",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Cut, slice or grind meat, poultry, and seafood to prepare for cooking."
+},
+{
+"task_id": "2218",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving."
+},
+{
+"task_id": "2216",
+"soc": "35-2021.00",
+"occupation": "Food Preparation Workers",
+"task_text": "Keep records of the quantities of food used."
+},
+{
+"task_id": "2227",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Clean glasses, utensils, and bar equipment."
+},
+{
+"task_id": "2223",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Collect money for drinks served."
+},
+{
+"task_id": "2225",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Balance cash receipts."
+},
+{
+"task_id": "2224",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Check identification of customers to verify age requirements for purchase of alcohol."
+},
+{
+"task_id": "2230",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Clean bars, work areas, and tables."
+},
+{
+"task_id": "2226",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons."
+},
+{
+"task_id": "2228",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Take beverage orders from serving staff or directly from patrons."
+},
+{
+"task_id": "2229",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Serve wine, and bottled or draft beer."
+},
+{
+"task_id": "2237",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Plan, organize, and control the operations of a cocktail lounge or bar."
+},
+{
+"task_id": "18735",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws."
+},
+{
+"task_id": "2232",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Serve snacks or food items to customers seated at the bar."
+},
+{
+"task_id": "2231",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks."
+},
+{
+"task_id": "2235",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Slice and pit fruit for garnishing drinks."
+},
+{
+"task_id": "2234",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Ask customers who become loud and obnoxious to leave, or physically remove them."
+},
+{
+"task_id": "2236",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Arrange bottles and glasses to make attractive displays."
+},
+{
+"task_id": "2241",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Create drink recipes."
+},
+{
+"task_id": "2238",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Supervise the work of bar staff and other bartenders."
+},
+{
+"task_id": "2233",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Order or requisition liquors and supplies."
+},
+{
+"task_id": "2239",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Plan bar menus."
+},
+{
+"task_id": "2240",
+"soc": "35-3011.00",
+"occupation": "Bartenders",
+"task_text": "Prepare appetizers such as pickles, cheese, and cold meats."
+},
+{
+"task_id": "23100",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Accept payment from customers, and make change as necessary."
+},
+{
+"task_id": "23110",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Serve customers in eating places that specialize in fast service and inexpensive carry-out food."
+},
+{
+"task_id": "23104",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper."
+},
+{
+"task_id": "23103",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Balance receipts and payments in cash registers."
+},
+{
+"task_id": "23099",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Communicate with customers regarding orders, comments, and complaints."
+},
+{
+"task_id": "23105",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars."
+},
+{
+"task_id": "23108",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Monitor and order supplies or food items, and restock as necessary to maintain inventory."
+},
+{
+"task_id": "23102",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary."
+},
+{
+"task_id": "23109",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Brew coffee and tea, and fill containers with requested beverages."
+},
+{
+"task_id": "23107",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Clean and organize eating, service, and kitchen areas."
+},
+{
+"task_id": "23106",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures."
+},
+{
+"task_id": "23115",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines."
+},
+{
+"task_id": "23113",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout."
+},
+{
+"task_id": "23121",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Set up dining areas for meals, and clear them following meals."
+},
+{
+"task_id": "23111",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Collect and return dirty dishes to the kitchen for washing."
+},
+{
+"task_id": "23101",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment."
+},
+{
+"task_id": "23123",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Deliver orders to kitchens, and pick up and serve food when it is ready."
+},
+{
+"task_id": "23118",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Perform personnel activities, such as supervising and training employees."
+},
+{
+"task_id": "23122",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Add relishes and garnishes to food orders, according to instructions."
+},
+{
+"task_id": "23120",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Distribute food to servers."
+},
+{
+"task_id": "23116",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags."
+},
+{
+"task_id": "23114",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Notify kitchen personnel of shortages or special orders."
+},
+{
+"task_id": "23119",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders."
+},
+{
+"task_id": "23125",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Plan, prepare, and deliver meals to individuals with special dietary needs."
+},
+{
+"task_id": "23117",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Replenish foods at serving stations."
+},
+{
+"task_id": "23112",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Wash dishes, glassware, and silverware after meals."
+},
+{
+"task_id": "23124",
+"soc": "35-3023.00",
+"occupation": "Fast Food and Counter Workers",
+"task_text": "Arrange tables and decorations according to instructions."
+},
+{
+"task_id": "17588",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Receive and process customer payments."
+},
+{
+"task_id": "17581",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas."
+},
+{
+"task_id": "17591",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Take customer orders and convey them to other employees for preparation."
+},
+{
+"task_id": "17582",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Clean or sanitize work areas, utensils, or equipment."
+},
+{
+"task_id": "17585",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Describe menu items to customers, or suggest products that might appeal to them."
+},
+{
+"task_id": "17583",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Clean service or seating areas."
+},
+{
+"task_id": "17589",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Serve prepared foods, such as muffins, biscotti, or bagels."
+},
+{
+"task_id": "17597",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Prepare or serve menu items, such as sandwiches or salads."
+},
+{
+"task_id": "17598",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Set up or restock product displays."
+},
+{
+"task_id": "17593",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Weigh, grind, or pack coffee beans for customers."
+},
+{
+"task_id": "17590",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Stock customer service stations with paper products or beverage preparation items."
+},
+{
+"task_id": "17594",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Wrap, label, or date food items for sale."
+},
+{
+"task_id": "17587",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Provide customers with product details, such as coffee blend or preparation descriptions."
+},
+{
+"task_id": "17592",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Take out garbage."
+},
+{
+"task_id": "17586",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Order, receive, or stock supplies or retail products."
+},
+{
+"task_id": "17599",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Slice fruits, vegetables, desserts, or meats for use in food service."
+},
+{
+"task_id": "17584",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning."
+},
+{
+"task_id": "17596",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Demonstrate the use of retail equipment, such as espresso machines."
+},
+{
+"task_id": "17595",
+"soc": "35-3023.01",
+"occupation": "Baristas",
+"task_text": "Create signs to advertise store products or events."
+},
+{
+"task_id": "2276",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Collect payments from customers."
+},
+{
+"task_id": "2275",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages."
+},
+{
+"task_id": "2277",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff."
+},
+{
+"task_id": "2279",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Check with customers to ensure that they are enjoying their meals, and take action to correct any problems."
+},
+{
+"task_id": "2278",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Take orders from patrons for food or beverages."
+},
+{
+"task_id": "2281",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Prepare checks that itemize and total meal costs and sales taxes."
+},
+{
+"task_id": "18745",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning."
+},
+{
+"task_id": "2285",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Clean tables or counters after patrons have finished dining."
+},
+{
+"task_id": "2280",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required."
+},
+{
+"task_id": "18747",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom."
+},
+{
+"task_id": "2283",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Present menus to patrons and answer questions about menu items, making recommendations upon request."
+},
+{
+"task_id": "2288",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Prepare tables for meals, including setting up items such as linens, silverware, and glassware."
+},
+{
+"task_id": "2290",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Stock service areas with supplies such as coffee, food, tableware, and linens."
+},
+{
+"task_id": "18744",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties."
+},
+{
+"task_id": "2284",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Inform customers of daily specials."
+},
+{
+"task_id": "2287",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Explain how various menu items are prepared, describing ingredients and cooking methods."
+},
+{
+"task_id": "18746",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests."
+},
+{
+"task_id": "2292",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Fill salt, pepper, sugar, cream, condiment, and napkin containers."
+},
+{
+"task_id": "2289",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee."
+},
+{
+"task_id": "2286",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine."
+},
+{
+"task_id": "2293",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Escort customers to their tables."
+},
+{
+"task_id": "18748",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Provide guests with information about local areas, including directions."
+},
+{
+"task_id": "2291",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Garnish and decorate dishes in preparation for serving."
+},
+{
+"task_id": "2295",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Bring wine selections to tables with appropriate glasses, and pour the wines for customers."
+},
+{
+"task_id": "2294",
+"soc": "35-3031.00",
+"occupation": "Waiters and Waitresses",
+"task_text": "Describe and recommend wines to customers."
+},
+{
+"task_id": "11152",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Place food servings on plates or trays according to orders or instructions."
+},
+{
+"task_id": "11150",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Clean or sterilize dishes, kitchen utensils, equipment, or facilities."
+},
+{
+"task_id": "11149",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed."
+},
+{
+"task_id": "11151",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Examine trays to ensure that they contain required items."
+},
+{
+"task_id": "11153",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Load trays with accessories, such as eating utensils, napkins, or condiments."
+},
+{
+"task_id": "11154",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Take food orders and relay orders to kitchens or serving counters so they can be filled."
+},
+{
+"task_id": "11158",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Monitor food preparation or serving techniques to ensure that proper procedures are followed."
+},
+{
+"task_id": "11156",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Remove trays and stack dishes for return to kitchen after meals are finished."
+},
+{
+"task_id": "11159",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Carry food, silverware, or linen on trays or use carts to carry trays."
+},
+{
+"task_id": "11161",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Record amounts and types of special food items served to customers."
+},
+{
+"task_id": "11155",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Stock service stations with items, such as ice, napkins, or straws."
+}
+]

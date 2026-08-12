@@ -1,0 +1,782 @@
+[
+{
+"task_id": "19761",
+"soc": "19-2042.00",
+"occupation": "Geoscientists, Except Hydrologists and Geographers",
+"task_text": "Determine methods to incorporate geomethane or methane hydrates into global energy production or evaluate the potential environmental impacts of such incorporation."
+},
+{
+"task_id": "18618",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Prepare written and oral reports describing research results, using illustrations, maps, appendices, and other information."
+},
+{
+"task_id": "9104",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Design and conduct scientific hydrogeological investigations to ensure that accurate and appropriate information is available for use in water resource management decisions."
+},
+{
+"task_id": "9108",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Measure and graph phenomena such as lake levels, stream flows, and changes in water volumes."
+},
+{
+"task_id": "9116",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Conduct research and communicate information to promote the conservation and preservation of water resources."
+},
+{
+"task_id": "9102",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Coordinate and supervise the work of professional and technical staff, including research assistants, technologists, and technicians."
+},
+{
+"task_id": "9105",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Study public water supply issues, including flood and drought risks, water quality, wastewater, and impacts on wetland habitats."
+},
+{
+"task_id": "9107",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Apply research findings to help minimize the environmental impacts of pollution, waterborne diseases, erosion, and sedimentation."
+},
+{
+"task_id": "9100",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Study and document quantities, distribution, disposition, and development of underground and surface waters."
+},
+{
+"task_id": "9112",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Install, maintain, and calibrate instruments such as those that monitor water levels, rainfall, and sediments."
+},
+{
+"task_id": "18617",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Develop computer models for hydrologic predictions."
+},
+{
+"task_id": "9115",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Study and analyze the physical aspects of the earth in terms of hydrological components, including atmosphere, hydrosphere, and interior structure."
+},
+{
+"task_id": "9119",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Evaluate research data in terms of its impact on issues such as soil and water conservation, flood control planning, and water supply forecasting."
+},
+{
+"task_id": "9106",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Collect and analyze water samples as part of field investigations or to validate data from automatic monitors."
+},
+{
+"task_id": "9103",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Prepare hydrogeologic evaluations of known or suspected hazardous waste sites and land treatment and feedlot facilities."
+},
+{
+"task_id": "9113",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Evaluate data and provide recommendations regarding the feasibility of municipal projects, such as hydroelectric power plants, irrigation systems, flood warning systems, and waste treatment facilities."
+},
+{
+"task_id": "9111",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Develop or modify methods for conducting hydrologic studies."
+},
+{
+"task_id": "9118",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Review applications for site plans and permits and recommend approval, denial, modification, or further investigative action."
+},
+{
+"task_id": "9120",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Monitor the work of well contractors, exploratory borers, and engineers and enforce rules regarding their activities."
+},
+{
+"task_id": "9110",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Answer questions and provide technical assistance and information to contractors or the public regarding issues such as well drilling, code requirements, hydrology, and geology."
+},
+{
+"task_id": "9123",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Investigate properties, origins, and activities of glaciers, ice, snow, and permafrost."
+},
+{
+"task_id": "9114",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Conduct short- and long-term climate assessments and study storm occurrences."
+},
+{
+"task_id": "9121",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Administer programs designed to ensure the proper sealing of abandoned wells."
+},
+{
+"task_id": "9109",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Investigate complaints or conflicts related to the alteration of public waters, gathering information, recommending alternatives, informing participants of progress, and preparing draft orders."
+},
+{
+"task_id": "9117",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Design civil works associated with hydrographic activities and supervise their construction, installation, and maintenance."
+},
+{
+"task_id": "9122",
+"soc": "19-2043.00",
+"occupation": "Hydrologists",
+"task_text": "Compile and evaluate hydrologic information to prepare navigational charts and maps and to predict atmospheric conditions."
+},
+{
+"task_id": "18270",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Manage or analyze data obtained from remote sensing systems to obtain meaningful results."
+},
+{
+"task_id": "18256",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Analyze data acquired from aircraft, satellites, or ground-based platforms, using statistical analysis software, image analysis software, or Geographic Information Systems (GIS)."
+},
+{
+"task_id": "18258",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Integrate other geospatial data sources into projects."
+},
+{
+"task_id": "18260",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Organize and maintain geospatial data and associated documentation."
+},
+{
+"task_id": "18265",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Compile and format image data to increase its usefulness."
+},
+{
+"task_id": "18259",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Prepare or deliver reports or presentations of geospatial project information."
+},
+{
+"task_id": "18267",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Discuss project goals, equipment requirements, or methodologies with colleagues or team members."
+},
+{
+"task_id": "18261",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Process aerial or satellite imagery to create products such as land cover maps."
+},
+{
+"task_id": "18262",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Design or implement strategies for collection, analysis, or display of geographic data."
+},
+{
+"task_id": "18257",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Develop or build databases for remote sensing or related geospatial project information."
+},
+{
+"task_id": "18264",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Collect supporting data, such as climatic or field survey data, to corroborate remote sensing data analyses."
+},
+{
+"task_id": "18271",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Monitor quality of remote sensing data collection operations to determine if procedural or equipment changes are necessary."
+},
+{
+"task_id": "18277",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Train technicians in the use of remote sensing technology."
+},
+{
+"task_id": "18276",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Set up or maintain remote sensing data collection systems."
+},
+{
+"task_id": "18263",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Direct all activity associated with implementation, operation, or enhancement of remote sensing hardware or software."
+},
+{
+"task_id": "18273",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Attend meetings or seminars or read current literature to maintain knowledge of developments in the field of remote sensing."
+},
+{
+"task_id": "18266",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Conduct research into the application or enhancement of remote sensing technology."
+},
+{
+"task_id": "18275",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Recommend new remote sensing hardware or software acquisitions."
+},
+{
+"task_id": "19774",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Use remote sensing data for forest or carbon tracking activities to assess the impact of environmental change."
+},
+{
+"task_id": "18268",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Develop automated routines to correct for the presence of image distorting artifacts, such as ground vegetation."
+},
+{
+"task_id": "18269",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Develop new analytical techniques or sensor systems."
+},
+{
+"task_id": "18274",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Participate in fieldwork."
+},
+{
+"task_id": "19773",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Apply remote sensing data or techniques, such as surface water modeling or dust cloud detection, to address environmental issues."
+},
+{
+"task_id": "18272",
+"soc": "19-2099.01",
+"occupation": "Remote Sensing Scientists and Technologists",
+"task_text": "Direct installation or testing of new remote sensing hardware or software."
+},
+{
+"task_id": "7536",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Study economic and statistical data in area of specialization, such as finance, labor, or agriculture."
+},
+{
+"task_id": "7538",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Compile, analyze, and report data to explain economic phenomena and forecast market trends, applying mathematical models and statistical techniques."
+},
+{
+"task_id": "20052",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Study the socioeconomic impacts of new public policies, such as proposed legislation, taxes, services, and regulations."
+},
+{
+"task_id": "21106",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Explain economic impact of policies to the public."
+},
+{
+"task_id": "23988",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Review documents written by others."
+},
+{
+"task_id": "7537",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Provide advice and consultation on economic relationships to businesses, public and private agencies, and other employers."
+},
+{
+"task_id": "7539",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Formulate recommendations, policies, or plans to solve economic problems or to interpret markets."
+},
+{
+"task_id": "7542",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Supervise research projects and students' study projects."
+},
+{
+"task_id": "20053",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Conduct research on economic issues, and disseminate research findings through technical reports or scientific articles in journals."
+},
+{
+"task_id": "7540",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Develop economic guidelines and standards, and prepare points of view used in forecasting trends and formulating economic policy."
+},
+{
+"task_id": "7544",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Teach theories, principles, and methods of economics."
+},
+{
+"task_id": "7541",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Testify at regulatory or legislative hearings concerning the estimated effects of changes in legislation or public policy, and present recommendations based on cost-benefit analyses."
+},
+{
+"task_id": "20051",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Provide litigation support, such as writing reports for expert testimony or testifying as an expert witness."
+},
+{
+"task_id": "7543",
+"soc": "19-3011.00",
+"occupation": "Economists",
+"task_text": "Forecast production and consumption of renewable resources and supply, consumption, and depletion of non-renewable resources."
+},
+{
+"task_id": "16902",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Write technical documents or academic articles to communicate study results or economic forecasts."
+},
+{
+"task_id": "16915",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Conduct research on economic and environmental topics, such as alternative fuel use, public and private land use, soil conservation, air and water pollution control, and endangered species protection."
+},
+{
+"task_id": "16910",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Collect and analyze data to compare the environmental implications of economic policy or practice alternatives."
+},
+{
+"task_id": "19985",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Assess the costs and benefits of various activities, policies, or regulations that affect the environment or natural resource stocks."
+},
+{
+"task_id": "16897",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Prepare and deliver presentations to communicate economic and environmental study results, to present policy recommendations, or to raise awareness of environmental consequences."
+},
+{
+"task_id": "19984",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Develop programs or policy recommendations to achieve environmental goals in cost-effective ways."
+},
+{
+"task_id": "16909",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Develop economic models, forecasts, or scenarios to predict future economic and environmental outcomes."
+},
+{
+"task_id": "16901",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Demonstrate or promote the economic benefits of sound environmental regulations."
+},
+{
+"task_id": "16914",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Conduct research to study the relationships among environmental problems and patterns of economic production and consumption."
+},
+{
+"task_id": "16913",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Perform complex, dynamic, and integrated mathematical modeling of ecological, environmental, or economic systems."
+},
+{
+"task_id": "16903",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Write social, legal, or economic impact statements to inform decision makers for natural resource policies, standards, or programs."
+},
+{
+"task_id": "21177",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Teach courses in environmental economics."
+},
+{
+"task_id": "19986",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Develop programs or policy recommendations to promote sustainability and sustainable development."
+},
+{
+"task_id": "16906",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Develop systems for collecting, analyzing, and interpreting environmental and economic data."
+},
+{
+"task_id": "16904",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Write research proposals and grant applications to obtain private or public funding for environmental and economic studies."
+},
+{
+"task_id": "16905",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Examine the exhaustibility of natural resources or the long-term costs of environmental rehabilitation."
+},
+{
+"task_id": "16898",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Monitor or analyze market and environmental trends."
+},
+{
+"task_id": "16908",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Develop environmental research project plans, including information on budgets, goals, deliverables, timelines, and resource requirements."
+},
+{
+"task_id": "16900",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Identify and recommend environmentally friendly business practices."
+},
+{
+"task_id": "16899",
+"soc": "19-3011.01",
+"occupation": "Environmental Economists",
+"task_text": "Interpret indicators to ascertain the overall health of an environment."
+},
+{
+"task_id": "7550",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Conduct surveys and collect data, using methods such as interviews, questionnaires, focus groups, market analysis surveys, public opinion polls, literature reviews, and file reviews."
+},
+{
+"task_id": "7545",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Prepare and present summaries and analyses of survey data, including tables, graphs, and fact sheets that describe survey techniques and results."
+},
+{
+"task_id": "7546",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Consult with clients to identify survey needs and specific requirements, such as special samples."
+},
+{
+"task_id": "7555",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Determine and specify details of survey projects, including sources of information, procedures to be used, and the design of survey instruments and materials."
+},
+{
+"task_id": "7556",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Support, plan, and coordinate operations for single or multiple surveys."
+},
+{
+"task_id": "7553",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Monitor and evaluate survey progress and performance, using sample disposition reports and response rate calculations."
+},
+{
+"task_id": "7551",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Collaborate with other researchers in the planning, implementation, and evaluation of surveys."
+},
+{
+"task_id": "7549",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Conduct research to gather information about survey topics."
+},
+{
+"task_id": "7552",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Direct and review the work of staff members, including survey support staff and interviewers who gather survey data."
+},
+{
+"task_id": "7557",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Direct updates and changes in survey implementation and methods."
+},
+{
+"task_id": "7554",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Produce documentation of the questionnaire development process, data collection methods, sampling designs, and decisions related to sample statistical weighting."
+},
+{
+"task_id": "21107",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Write proposals to win new projects."
+},
+{
+"task_id": "7548",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Review, classify, and record survey data in preparation for computer analysis."
+},
+{
+"task_id": "7547",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Analyze data from surveys, old records, or case studies, using statistical software."
+},
+{
+"task_id": "7559",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Write training manuals to be used by survey interviewers."
+},
+{
+"task_id": "7558",
+"soc": "19-3022.00",
+"occupation": "Survey Researchers",
+"task_text": "Hire and train recruiters and data collectors."
+},
+{
+"task_id": "20230",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Provide advice on best practices and implementation for selection."
+},
+{
+"task_id": "7560",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Develop and implement employee selection or placement programs."
+},
+{
+"task_id": "7572",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Analyze data, using statistical methods and applications, to evaluate the outcomes and effectiveness of workplace programs."
+},
+{
+"task_id": "7568",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Develop interview techniques, rating scales, and psychological tests used to assess skills, abilities, and interests for the purpose of employee selection, placement, or promotion."
+},
+{
+"task_id": "7562",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Observe and interview workers to obtain information about the physical, mental, and educational requirements of jobs, as well as information about aspects such as job satisfaction."
+},
+{
+"task_id": "7571",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Facilitate organizational development and change."
+},
+{
+"task_id": "7561",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Analyze job requirements and content to establish criteria for classification, selection, training, and other related personnel functions."
+},
+{
+"task_id": "7564",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency."
+},
+{
+"task_id": "20222",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Conduct presentations on research findings for clients or at research meetings."
+},
+{
+"task_id": "20229",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Coach senior executives and managers on leadership and performance."
+},
+{
+"task_id": "20225",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Conduct individual assessments, including interpreting measures and providing feedback for selection, placement, or promotion."
+},
+{
+"task_id": "20228",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Train clients to administer human resources functions, including testing, selection, and performance management."
+},
+{
+"task_id": "7569",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Assess employee performance."
+},
+{
+"task_id": "7565",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Identify training and development needs."
+},
+{
+"task_id": "7567",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Formulate and implement training programs, applying principles of learning and individual differences."
+},
+{
+"task_id": "7570",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Study organizational effectiveness, productivity, and efficiency, including the nature of workplace supervision and leadership."
+},
+{
+"task_id": "20223",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Provide expert testimony in employment lawsuits."
+},
+{
+"task_id": "7566",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Conduct research studies of physical work environments, organizational structures, communication systems, group interactions, morale, or motivation to assess organizational functioning."
+},
+{
+"task_id": "20227",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Develop new business by contacting potential clients, making sales presentations, and writing proposals."
+},
+{
+"task_id": "7563",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Write reports on research findings and implications to contribute to general knowledge or to suggest potential changes in organizational functioning."
+},
+{
+"task_id": "20226",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Write articles, white papers, or reports to share research findings and educate others."
+},
+{
+"task_id": "20224",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Review research literature to remain current on psychological science issues."
+},
+{
+"task_id": "7573",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Counsel workers about job and career-related issues."
+},
+{
+"task_id": "7575",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Participate in mediation and dispute resolution."
+},
+{
+"task_id": "7574",
+"soc": "19-3032.00",
+"occupation": "Industrial-Organizational Psychologists",
+"task_text": "Study consumers' reactions to new products and package designs, and to advertising efforts, using surveys and tests."
+},
+{
+"task_id": "22190",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Conduct assessments of patients' risk for harm to self or others."
+},
+{
+"task_id": "22165",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Document patient information including session notes, progress notes, recommendations, and treatment plans."
+},
+{
+"task_id": "22168",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Identify psychological, emotional, or behavioral issues and diagnose disorders, using information obtained from interviews, tests, records, or reference materials."
+},
+{
+"task_id": "22170",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Write reports on clients and maintain required paperwork."
+},
+{
+"task_id": "22164",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Counsel individuals, groups, or families to help them understand problems, deal with crisis situations, define goals, and develop realistic action plans."
+}
+]

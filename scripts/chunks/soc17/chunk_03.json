@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8989",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Develop plans for the prevention of destruction by fire, wind, and water."
+},
+{
+"task_id": "8994",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Conduct research on fire retardants and the fire safety of materials and devices."
+},
+{
+"task_id": "18607",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Estimate production costs, cost saving methods, and the effects of product design changes on expenditures for management review, action, and control."
+},
+{
+"task_id": "1394",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Plan and establish sequence of operations to fabricate and assemble parts or products and to promote efficient utilization."
+},
+{
+"task_id": "1391",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Analyze statistical data and product specifications to determine standards and establish quality and reliability objectives of finished product."
+},
+{
+"task_id": "18609",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Confer with clients, vendors, staff, and management personnel regarding purchases, product and production specifications, manufacturing capabilities, or project status."
+},
+{
+"task_id": "1400",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Communicate with management and user personnel to develop production and design standards."
+},
+{
+"task_id": "1407",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Evaluate precision and accuracy of production and testing equipment and engineering drawings to formulate corrective action plan."
+},
+{
+"task_id": "1393",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Recommend methods for improving utilization of personnel, material, and utilities."
+},
+{
+"task_id": "1403",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Record or oversee recording of information to ensure currency of engineering drawings and documentation of production problems."
+},
+{
+"task_id": "1398",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Draft and design layout of equipment, materials, and workspace to illustrate maximum efficiency using drafting tools and computer."
+},
+{
+"task_id": "1405",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Direct workers engaged in product measurement, inspection, and testing activities to ensure quality control and reliability."
+},
+{
+"task_id": "1392",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Develop manufacturing methods, labor utilization standards, and cost analysis systems to promote efficient staff and facility utilization."
+},
+{
+"task_id": "1399",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Review production schedules, engineering specifications, orders, and related information to obtain knowledge of manufacturing methods, procedures, and activities."
+},
+{
+"task_id": "1408",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Complete production reports, purchase orders, and material, tool, and equipment lists."
+},
+{
+"task_id": "18608",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Coordinate and implement quality control objectives, activities, or procedures to resolve production problems, maximize product reliability, or minimize costs."
+},
+{
+"task_id": "1406",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Implement methods and procedures for disposition of discrepant material and defective or damaged parts, and assess cost and responsibility."
+},
+{
+"task_id": "1395",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Apply statistical methods and perform mathematical calculations to determine manufacturing processes, staff requirements, and production standards."
+},
+{
+"task_id": "1404",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Study operations sequence, material flow, functional statements, organization charts, and project information to determine worker functions and responsibilities."
+},
+{
+"task_id": "1402",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Formulate sampling procedures and designs and develop forms and instructions for recording, evaluating, and reporting quality and reliability data."
+},
+{
+"task_id": "1410",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Regulate and alter workflow schedules according to established manufacturing sequences and lead times to expedite production operations."
+},
+{
+"task_id": "1409",
+"soc": "17-2112.00",
+"occupation": "Industrial Engineers",
+"task_text": "Schedule deliveries based on production forecasts, material substitutions, storage and handling facilities, and maintenance requirements."
+},
+{
+"task_id": "16393",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Collect data through direct observation of work activities or witnessing the conduct of tests."
+},
+{
+"task_id": "16378",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Conduct interviews or surveys of users or customers to collect information on topics, such as requirements, needs, fatigue, ergonomics, or interfaces."
+},
+{
+"task_id": "16396",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Advocate for end users in collaboration with other professionals, including engineers, designers, managers, or customers."
+},
+{
+"task_id": "16387",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Inspect work sites to identify physical hazards."
+},
+{
+"task_id": "16381",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Prepare reports or presentations summarizing results or conclusions of human factors engineering or ergonomics activities, such as testing, investigation, or validation."
+},
+{
+"task_id": "16379",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Recommend workplace changes to improve health and safety, using knowledge of potentially harmful factors, such as heavy loads or repetitive motions."
+},
+{
+"task_id": "16383",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Perform functional, task, or anthropometric analysis, using tools, such as checklists, surveys, videotaping, or force measurement."
+},
+{
+"task_id": "16380",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Provide technical support to clients through activities, such as rearranging workplace fixtures to reduce physical hazards or discomfort or modifying task sequences to reduce cycle time."
+},
+{
+"task_id": "16392",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Assess the user-interface or usability characteristics of products."
+},
+{
+"task_id": "16386",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Establish system operating or training requirements to ensure optimized human-machine interfaces."
+},
+{
+"task_id": "16385",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Integrate human factors requirements into operational hardware."
+},
+{
+"task_id": "16374",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Review health, safety, accident, or worker compensation records to evaluate safety program effectiveness or to identify jobs with high incidence of injury."
+},
+{
+"task_id": "16397",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Design or evaluate human work systems, using human factors engineering and ergonomic principles to optimize usability, cost, quality, safety, or performance."
+},
+{
+"task_id": "16372",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Write, review, or comment on documents, such as proposals, test plans, or procedures."
+},
+{
+"task_id": "16373",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Train users in task techniques or ergonomic principles."
+},
+{
+"task_id": "16391",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Conduct research to evaluate potential solutions related to changes in equipment design, procedures, manpower, personnel, or training."
+},
+{
+"task_id": "16375",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Provide human factors technical expertise on topics, such as advanced user-interface technology development or the role of human users in automated or autonomous sub-systems in advanced vehicle systems."
+},
+{
+"task_id": "16388",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Develop or implement human performance research, investigation, or analysis protocols."
+},
+{
+"task_id": "16389",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Develop or implement research methodologies or statistical analysis plans to test and evaluate developmental prototypes used in new products or processes, such as cockpit designs, user workstations, or computerized human models."
+},
+{
+"task_id": "16377",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Estimate time or resource requirements for ergonomic or human factors research or development projects."
+},
+{
+"task_id": "16390",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Design cognitive aids, such as procedural storyboards or decision support systems."
+},
+{
+"task_id": "16395",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Analyze complex systems to determine potential for further development, production, interoperability, compatibility, or usefulness in a particular area, such as aviation."
+},
+{
+"task_id": "16376",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Investigate theoretical or conceptual issues, such as the human design considerations of lunar landers or habitats."
+},
+{
+"task_id": "16384",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Operate testing equipment, such as heat stress meters, octave band analyzers, motion analysis equipment, inclinometers, light meters, thermoanemometers, sling psychrometers, or colorimetric detection tubes."
+},
+{
+"task_id": "16382",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Perform statistical analyses, such as social network pattern analysis, network modeling, discrete event simulation, agent-based modeling, statistical natural language processing, computational sociology, mathematical optimization, or systems dynamics."
+},
+{
+"task_id": "16394",
+"soc": "17-2112.01",
+"occupation": "Human Factors Engineers and Ergonomists",
+"task_text": "Apply modeling or quantitative analysis to forecast events, such as human decisions or behaviors, the structure or processes of organizations, or the attitudes or actions of human groups."
+},
+{
+"task_id": "21051",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Study product characteristics or customer requirements to determine validation objectives and standards."
+},
+{
+"task_id": "18131",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Analyze validation test data to determine whether systems or processes have met validation criteria or to identify root causes of production problems."
+},
+{
+"task_id": "18129",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Develop validation master plans, process flow diagrams, test cases, or standard operating procedures."
+},
+{
+"task_id": "18137",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Prepare detailed reports or design statements, based on results of validation and qualification tests or reviews of procedures and protocols."
+},
+{
+"task_id": "18144",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Maintain validation test equipment."
+},
+{
+"task_id": "18127",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Conduct validation or qualification tests of new or existing processes, equipment, or software in accordance with internal protocols or external standards."
+},
+{
+"task_id": "18142",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Communicate with regulatory agencies regarding compliance documentation or validation results."
+},
+{
+"task_id": "18146",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Prepare, maintain, or review validation and compliance documentation, such as engineering change notices, schematics, or protocols."
+},
+{
+"task_id": "21052",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Recommend resolution of identified deviations from established product or process standards."
+},
+{
+"task_id": "18128",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Design validation study features, such as sampling, testing, or analytical methodologies."
+},
+{
+"task_id": "18130",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Prepare validation or performance qualification protocols for new or modified manufacturing processes, systems, or equipment for production of pharmaceuticals, electronics, or other products."
+},
+{
+"task_id": "18133",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Create, populate, or maintain databases for tracking validation activities, test results, or validated systems."
+},
+{
+"task_id": "18139",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Resolve testing problems by modifying testing methods or revising test objectives and standards."
+},
+{
+"task_id": "18132",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Conduct audits of validation or performance qualification processes to ensure compliance with internal or regulatory requirements."
+},
+{
+"task_id": "21053",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Draw samples of raw materials, intermediate products, or finished products for validation testing."
+},
+{
+"task_id": "18134",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Direct validation activities, such as protocol creation or testing."
+},
+{
+"task_id": "18143",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Coordinate the implementation or scheduling of validation testing with affected departments and personnel."
+},
+{
+"task_id": "18145",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Participate in internal or external training programs to maintain knowledge of validation principles, industry trends, or novel technologies."
+},
+{
+"task_id": "19647",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Validate or characterize sustainable or environmentally friendly products, using electronic testing platforms."
+},
+{
+"task_id": "18141",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Assist in training equipment operators or other staff on validation protocols and standard operating procedures."
+},
+{
+"task_id": "21054",
+"soc": "17-2112.02",
+"occupation": "Validation Engineers",
+"task_text": "Devise automated lab validation test stations or other test fixtures or equipment."
+},
+{
+"task_id": "18181",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Troubleshoot new or existing product problems involving designs, materials, or processes."
+},
+{
+"task_id": "18177",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Investigate or resolve operational problems, such as material use variances or bottlenecks."
+},
+{
+"task_id": "20960",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Identify opportunities or implement changes to improve manufacturing processes or products or to reduce costs, using knowledge of fabrication processes, tooling and production equipment, assembly methods, quality control standards, or product design, materials and parts."
+},
+{
+"task_id": "18167",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Apply continuous improvement methods, such as lean manufacturing, to enhance manufacturing quality, reliability, or cost-effectiveness."
+},
+{
+"task_id": "18183",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Provide technical expertise or support related to manufacturing."
+},
+{
+"task_id": "20961",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Incorporate new manufacturing methods or processes to improve existing operations."
+},
+{
+"task_id": "18180",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Review product designs for manufacturability or completeness."
+},
+{
+"task_id": "20962",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Determine root causes of failures or recommend changes in designs, tolerances, or processing methods, using statistical procedures."
+},
+{
+"task_id": "18182",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Prepare reports summarizing information or trends related to manufacturing performance."
+},
+{
+"task_id": "18178",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Prepare documentation for new manufacturing processes or engineering procedures."
+},
+{
+"task_id": "18168",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Design layout of equipment or workspaces to achieve maximum efficiency."
+},
+{
+"task_id": "18170",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Communicate manufacturing capabilities, production schedules, or other information to facilitate production processes."
+},
+{
+"task_id": "18185",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Supervise technicians, technologists, analysts, administrative staff, or other engineers."
+},
+{
+"task_id": "18172",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Design, install, or troubleshoot manufacturing equipment."
+},
+{
+"task_id": "18175",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Evaluate manufactured products according to specifications and quality standards."
+},
+{
+"task_id": "18174",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Estimate costs, production times, or staffing requirements for new designs."
+},
+{
+"task_id": "18186",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Train production personnel in new or existing methods."
+},
+{
+"task_id": "20963",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Design tests of finished products or process capabilities to establish standards or validate process requirements."
+},
+{
+"task_id": "19649",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Analyze the financial impacts of sustainable manufacturing processes or sustainable product manufacturing."
+},
+{
+"task_id": "19650",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste."
+},
+{
+"task_id": "18179",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Purchase equipment, materials, or parts."
+},
+{
+"task_id": "19651",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Evaluate current or proposed manufacturing processes or practices for environmental sustainability, considering factors such as greenhouse gas emissions, air pollution, water pollution, energy use, or waste creation."
+},
+{
+"task_id": "18184",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Read current literature, talk with colleagues, participate in educational programs, attend meetings or workshops, or participate in professional organizations or conferences to keep abreast of developments in the manufacturing field."
+},
+{
+"task_id": "19652",
+"soc": "17-2112.03",
+"occupation": "Manufacturing Engineers",
+"task_text": "Redesign packaging for manufactured products to minimize raw material use or waste."
+},
+{
+"task_id": "21890",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Perform monitoring activities to ensure that ships comply with international regulations and standards for life-saving equipment and pollution preventatives."
+},
+{
+"task_id": "21887",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Design complete hull and superstructure according to specifications and test data, in conformity with standards of safety, efficiency, and economy."
+},
+{
+"task_id": "21915",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Conduct analyses of ships, such as stability, structural, weight, and vibration analyses."
+},
+{
+"task_id": "21889",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Study design proposals and specifications to establish basic characteristics of craft, such as size, weight, speed, propulsion, displacement, and draft."
+},
+{
+"task_id": "21907",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Maintain contact with, and formulate reports for, contractors and clients to ensure completion of work at minimum cost."
+},
+{
+"task_id": "21903",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Coordinate activities with regulatory bodies to ensure repairs and alterations are at minimum cost and consistent with safety."
+},
+{
+"task_id": "21894",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Check, test, and maintain automatic controls and alarm systems."
+},
+{
+"task_id": "21905",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Prepare technical reports for use by engineering, management, or sales personnel."
+},
+{
+"task_id": "21895",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Design layout of craft interior, including cargo space, passenger compartments, ladder wells, and elevators."
+},
+{
+"task_id": "21900",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Prepare, or direct the preparation of, product or system layouts and detailed drawings and schematics."
+},
+{
+"task_id": "21892",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Evaluate performance of craft during dock and sea trials to determine design changes and conformance with national and international standards."
+},
+{
+"task_id": "21899",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Inspect marine equipment and machinery to draw up work requests and job specifications."
+},
+{
+"task_id": "21896",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Evaluate operation of marine equipment during acceptance testing and shakedown cruises."
+},
+{
+"task_id": "21910",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Conduct analytical, environmental, operational, or performance studies to develop designs for products, such as marine engines, equipment, and structures."
+},
+{
+"task_id": "21916",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Establish arrangement of boiler room equipment and propulsion machinery, heating and ventilating systems, refrigeration equipment, piping, and other functional equipment."
+},
+{
+"task_id": "21901",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Investigate and observe tests on machinery and equipment for compliance with standards."
+},
+{
+"task_id": "21893",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Prepare plans, estimates, design and construction schedules, and contract specifications, including any special provisions."
+},
+{
+"task_id": "21904",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Design and oversee testing, installation, and repair of marine apparatus and equipment."
+},
+{
+"task_id": "21898",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Conduct environmental, operational, or performance tests on marine machinery and equipment."
+},
+{
+"task_id": "21913",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Analyze data to determine feasibility of product proposals."
+},
+{
+"task_id": "21911",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Determine conditions under which tests are to be conducted, as well as sequences and phases of test operations."
+},
+{
+"task_id": "21909",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Confer with research personnel to clarify or resolve problems and to develop or modify designs."
+},
+{
+"task_id": "21912",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Review work requests and compare them with previous work completed on ships to ensure that costs are economically sound."
+},
+{
+"task_id": "21888",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Supervise other engineers and crew members and train them for routine and emergency duties."
+},
+{
+"task_id": "21897",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Act as liaisons between ships' captains and shore personnel to ensure that schedules and budgets are maintained, and that ships are operated safely and efficiently."
+},
+{
+"task_id": "21902",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Maintain records of engineering department activities, including expense records and details of equipment maintenance and repairs."
+},
+{
+"task_id": "21908",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Maintain and coordinate repair of marine machinery and equipment for installation on vessels."
+},
+{
+"task_id": "21891",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Oversee construction and testing of prototype in model basin and develop sectional and waterline curves of hull to establish center of gravity, ideal hull form, and buoyancy and stability data."
+},
+{
+"task_id": "21906",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Procure materials needed to repair marine equipment and machinery."
+},
+{
+"task_id": "21914",
+"soc": "17-2121.00",
+"occupation": "Marine Engineers and Naval Architects",
+"task_text": "Schedule machine overhauls and the servicing of electrical, heating, ventilation, refrigeration, water, and sewage systems."
+},
+{
+"task_id": "9001",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Analyze product failure data and laboratory test results to determine causes of problems and develop solutions."
+},
+{
+"task_id": "9004",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Design and direct the testing or control of processing procedures."
+},
+{
+"task_id": "9002",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Monitor material performance, and evaluate its deterioration."
+},
+{
+"task_id": "9006",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Conduct or supervise tests on raw materials or finished products to ensure their quality."
+},
+{
+"task_id": "9005",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Evaluate technical specifications and economic factors relating to process or product design objectives."
+},
+{
+"task_id": "9012",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Modify properties of metal alloys, using thermal and mechanical treatments."
+},
+{
+"task_id": "9015",
+"soc": "17-2131.00",
+"occupation": "Materials Engineers",
+"task_text": "Determine appropriate methods for fabricating and joining materials."
+}
+]

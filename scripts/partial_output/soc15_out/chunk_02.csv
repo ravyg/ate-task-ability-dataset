@@ -1,0 +1,814 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+1281,Computer Programmers,Train subordinates in programming and program coding.,Oral Expression,3,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Oral Comprehension,2,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Written Expression,2,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Information Ordering,2,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Deductive Reasoning,2,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Speech Clarity,2,0
+1281,Computer Programmers,Train subordinates in programming and program coding.,Fluency of Ideas,1,0
+21049,Computer Programmers,Develop Web sites.,Deductive Reasoning,3,0
+21049,Computer Programmers,Develop Web sites.,Inductive Reasoning,2,0
+21049,Computer Programmers,Develop Web sites.,Problem Sensitivity,2,0
+21049,Computer Programmers,Develop Web sites.,Visualization,2,0
+21049,Computer Programmers,Develop Web sites.,Written Comprehension,2,0
+21049,Computer Programmers,Develop Web sites.,Information Ordering,2,0
+21049,Computer Programmers,Develop Web sites.,Near Vision,1,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Oral Expression,3,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Oral Comprehension,2,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Speech Clarity,2,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Information Ordering,2,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Written Expression,2,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Deductive Reasoning,1,0
+21050,Computer Programmers,Train users on the use and function of computer programs.,Speech Recognition,1,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Oral Comprehension,3,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Oral Expression,2,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Inductive Reasoning,3,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Deductive Reasoning,2,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Originality,2,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Fluency of Ideas,2,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Written Comprehension,2,0
+1280,Computer Programmers,Collaborate with computer manufacturers and other users to develop new programming methods.,Problem Sensitivity,2,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Deductive Reasoning,3,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Inductive Reasoning,3,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Problem Sensitivity,3,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Written Comprehension,2,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Mathematical Reasoning,2,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Number Facility,1,0
+21662,Software Developers,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,Information Ordering,2,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Deductive Reasoning,3,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Inductive Reasoning,2,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Information Ordering,3,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Problem Sensitivity,2,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Written Expression,2,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Written Comprehension,2,0
+21669,Software Developers,"Develop or direct software system testing or validation procedures, programming, or documentation.",Oral Expression,1,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Oral Comprehension,3,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Oral Expression,3,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Deductive Reasoning,3,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Inductive Reasoning,2,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Problem Sensitivity,2,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Written Comprehension,2,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Speech Recognition,2,0
+21664,Software Developers,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",Speech Clarity,1,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Deductive Reasoning,3,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Inductive Reasoning,3,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Problem Sensitivity,3,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Written Comprehension,2,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Information Ordering,2,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Flexibility of Closure,2,0
+21670,Software Developers,"Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",Near Vision,1,0
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",Written Expression,3,0
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",Written Comprehension,2,0
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",Information Ordering,2,0
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",Deductive Reasoning,2,0
+21673,Software Developers,"Prepare reports or correspondence concerning project specifications, activities, or status.",Fluency of Ideas,1,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Deductive Reasoning,3,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Inductive Reasoning,3,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Problem Sensitivity,2,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Written Comprehension,2,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Information Ordering,3,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Mathematical Reasoning,1,0
+21661,Software Developers,"Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",Written Expression,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Deductive Reasoning,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Inductive Reasoning,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Information Ordering,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Written Comprehension,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Number Facility,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Mathematical Reasoning,2,0
+21676,Software Developers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Selective Attention,2,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Deductive Reasoning,3,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Inductive Reasoning,3,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Mathematical Reasoning,3,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Number Facility,2,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Problem Sensitivity,3,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Visualization,2,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Information Ordering,2,0
+21667,Software Developers,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",Originality,2,0
+21668,Software Developers,Determine system performance standards.,Deductive Reasoning,3,0
+21668,Software Developers,Determine system performance standards.,Inductive Reasoning,2,0
+21668,Software Developers,Determine system performance standards.,Mathematical Reasoning,2,0
+21668,Software Developers,Determine system performance standards.,Problem Sensitivity,2,0
+21668,Software Developers,Determine system performance standards.,Written Comprehension,2,0
+21668,Software Developers,Determine system performance standards.,Information Ordering,1,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Oral Comprehension,3,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Oral Expression,3,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Written Comprehension,2,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Deductive Reasoning,2,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Speech Clarity,2,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Speech Recognition,2,0
+21665,Software Developers,"Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",Written Expression,1,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Oral Comprehension,3,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Oral Expression,2,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Speech Recognition,2,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Written Comprehension,2,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Deductive Reasoning,2,0
+21663,Software Developers,Confer with data processing or project managers to obtain information on limitations or capabilities for data processing projects.,Speech Clarity,1,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Selective Attention,3,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Problem Sensitivity,3,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Deductive Reasoning,2,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Written Comprehension,2,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Near Vision,2,0
+21671,Software Developers,Monitor functioning of equipment to ensure system operates in conformance with specifications.,Inductive Reasoning,2,0
+21666,Software Developers,Coordinate installation of software system.,Information Ordering,3,0
+21666,Software Developers,Coordinate installation of software system.,Deductive Reasoning,2,0
+21666,Software Developers,Coordinate installation of software system.,Oral Expression,2,0
+21666,Software Developers,Coordinate installation of software system.,Oral Comprehension,2,0
+21666,Software Developers,Coordinate installation of software system.,Problem Sensitivity,2,0
+21666,Software Developers,Coordinate installation of software system.,Written Expression,1,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Oral Expression,3,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Oral Comprehension,2,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Deductive Reasoning,2,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Written Comprehension,2,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Problem Sensitivity,2,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Information Ordering,2,0
+21678,Software Developers,"Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.",Speech Clarity,1,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Oral Expression,3,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Oral Comprehension,2,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Deductive Reasoning,2,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Information Ordering,3,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Problem Sensitivity,1,0
+21677,Software Developers,"Supervise and assign work to programmers, designers, technologists, technicians, or other engineering or scientific personnel.",Written Expression,1,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Deductive Reasoning,3,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Inductive Reasoning,2,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Written Comprehension,3,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Mathematical Reasoning,2,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Number Facility,2,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Problem Sensitivity,2,0
+21672,Software Developers,"Obtain and evaluate information on factors such as reporting formats required, costs, or security needs to determine hardware configuration.",Information Ordering,2,0
+21679,Software Developers,Train users to use new or modified equipment.,Oral Expression,3,0
+21679,Software Developers,Train users to use new or modified equipment.,Oral Comprehension,2,0
+21679,Software Developers,Train users to use new or modified equipment.,Speech Clarity,2,0
+21679,Software Developers,Train users to use new or modified equipment.,Information Ordering,2,0
+21679,Software Developers,Train users to use new or modified equipment.,Written Expression,2,0
+21679,Software Developers,Train users to use new or modified equipment.,Deductive Reasoning,1,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Problem Sensitivity,3,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Inductive Reasoning,3,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Deductive Reasoning,2,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Written Expression,3,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Selective Attention,2,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Near Vision,2,0
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",Written Comprehension,2,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Written Expression,3,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Information Ordering,2,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Deductive Reasoning,2,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Problem Sensitivity,2,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Selective Attention,2,0
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",Written Comprehension,1,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Deductive Reasoning,3,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Inductive Reasoning,3,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Information Ordering,3,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Problem Sensitivity,3,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Fluency of Ideas,2,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Written Comprehension,2,0
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",Category Flexibility,2,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Deductive Reasoning,3,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Inductive Reasoning,2,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Information Ordering,3,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Fluency of Ideas,2,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Problem Sensitivity,2,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Written Expression,2,0
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",Originality,1,0
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,Written Expression,3,0
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,Information Ordering,3,0
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,Deductive Reasoning,2,0
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,Written Comprehension,2,0
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,Selective Attention,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Oral Expression,3,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Written Expression,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Deductive Reasoning,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Inductive Reasoning,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Oral Comprehension,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Problem Sensitivity,2,0
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,Fluency of Ideas,1,0
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",Deductive Reasoning,2,0
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",Information Ordering,2,0
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",Problem Sensitivity,2,0
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",Written Comprehension,2,0
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",Selective Attention,1,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Problem Sensitivity,3,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Deductive Reasoning,2,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Inductive Reasoning,2,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Selective Attention,2,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Information Ordering,2,0
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,Written Comprehension,1,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Information Ordering,3,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Deductive Reasoning,2,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Written Expression,2,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Category Flexibility,2,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Selective Attention,2,0
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,Written Comprehension,1,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Deductive Reasoning,3,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Inductive Reasoning,2,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Information Ordering,3,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Written Expression,3,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Problem Sensitivity,2,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Written Comprehension,2,0
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",Category Flexibility,1,0
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,Selective Attention,3,0
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,Information Ordering,2,0
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,Problem Sensitivity,2,0
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,Deductive Reasoning,2,0
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,Written Comprehension,1,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Deductive Reasoning,2,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Written Comprehension,3,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Written Expression,2,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Problem Sensitivity,2,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Selective Attention,2,0
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,Information Ordering,1,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Oral Comprehension,3,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Oral Expression,3,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Problem Sensitivity,2,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Deductive Reasoning,2,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Written Comprehension,2,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Speech Recognition,2,0
+14646,Software Quality Assurance Analysts and Testers,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",Fluency of Ideas,1,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Information Ordering,3,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Deductive Reasoning,2,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Inductive Reasoning,2,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Mathematical Reasoning,2,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Written Comprehension,2,0
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,Problem Sensitivity,1,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Selective Attention,3,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Problem Sensitivity,3,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Deductive Reasoning,2,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Inductive Reasoning,2,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Near Vision,2,0
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,Written Comprehension,1,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Deductive Reasoning,3,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Problem Sensitivity,2,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Information Ordering,2,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Selective Attention,2,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Written Comprehension,2,0
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",Category Flexibility,2,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Inductive Reasoning,3,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Problem Sensitivity,3,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Deductive Reasoning,2,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Written Comprehension,2,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Oral Comprehension,2,0
+14651,Software Quality Assurance Analysts and Testers,Investigate customer problems referred by technical support.,Selective Attention,2,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Written Comprehension,3,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Deductive Reasoning,3,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Problem Sensitivity,2,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Selective Attention,3,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Inductive Reasoning,2,0
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",Written Expression,1,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Deductive Reasoning,3,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Problem Sensitivity,3,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Written Comprehension,3,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Inductive Reasoning,2,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Written Expression,2,0
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",Selective Attention,2,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Inductive Reasoning,3,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Deductive Reasoning,3,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Problem Sensitivity,3,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Written Comprehension,3,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Selective Attention,2,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Flexibility of Closure,2,0
+14661,Software Quality Assurance Analysts and Testers,"Perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",Near Vision,1,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Deductive Reasoning,3,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Inductive Reasoning,2,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Originality,2,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Information Ordering,3,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Problem Sensitivity,2,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Written Comprehension,2,0
+14659,Software Quality Assurance Analysts and Testers,Design or develop automated testing tools.,Fluency of Ideas,1,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Deductive Reasoning,2,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Information Ordering,3,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Problem Sensitivity,2,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Written Comprehension,2,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Inductive Reasoning,2,0
+14656,Software Quality Assurance Analysts and Testers,Install and configure recreations of software production environments to allow testing of software performance.,Visualization,1,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Oral Comprehension,3,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Oral Expression,3,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Inductive Reasoning,3,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Problem Sensitivity,3,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Deductive Reasoning,2,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Speech Recognition,2,0
+14657,Software Quality Assurance Analysts and Testers,Collaborate with field staff or customers to evaluate or diagnose problems and recommend possible solutions.,Fluency of Ideas,1,0
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,Oral Expression,2,0
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,Information Ordering,3,0
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,Oral Comprehension,2,0
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,Deductive Reasoning,2,0
+14660,Software Quality Assurance Analysts and Testers,Coordinate user or third-party testing.,Written Expression,2,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Problem Sensitivity,3,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Inductive Reasoning,2,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Deductive Reasoning,2,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Oral Comprehension,2,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Selective Attention,2,0
+14662,Software Quality Assurance Analysts and Testers,Visit beta testing sites to evaluate software performance.,Written Expression,1,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Inductive Reasoning,3,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Deductive Reasoning,2,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Mathematical Reasoning,2,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Number Facility,2,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Written Comprehension,2,0
+14664,Software Quality Assurance Analysts and Testers,Conduct historical analyses of test results.,Information Ordering,2,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Deductive Reasoning,3,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Inductive Reasoning,2,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Written Comprehension,2,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Category Flexibility,2,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Problem Sensitivity,2,0
+14663,Software Quality Assurance Analysts and Testers,Evaluate or recommend software for testing or bug tracking.,Written Expression,2,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Deductive Reasoning,3,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Inductive Reasoning,3,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Problem Sensitivity,3,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Written Comprehension,2,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Information Ordering,2,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Flexibility of Closure,2,0
+21680,Software Quality Assurance Analysts and Testers,"Modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",Near Vision,1,0
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Deductive Reasoning,2,0
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Inductive Reasoning,2,1
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Written Comprehension,2,0
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Written Expression,2,0
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Problem Sensitivity,2,0
+21681,Software Quality Assurance Analysts and Testers,"Recommend purchase of equipment to control dust, temperature, or humidity in area of system installation.",Mathematical Reasoning,1,1
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Deductive Reasoning,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Inductive Reasoning,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Information Ordering,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Written Comprehension,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Number Facility,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Mathematical Reasoning,2,0
+21682,Software Quality Assurance Analysts and Testers,"Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",Selective Attention,2,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Deductive Reasoning,3,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Inductive Reasoning,2,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Information Ordering,2,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Written Comprehension,2,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Problem Sensitivity,2,0
+14707,Web Developers,Write supporting code for Web applications or Web sites.,Near Vision,1,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Deductive Reasoning,3,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Inductive Reasoning,2,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Visualization,2,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Information Ordering,2,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Problem Sensitivity,2,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Written Comprehension,2,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Originality,1,0
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Near Vision,1,0
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,Information Ordering,2,0
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,Deductive Reasoning,2,0
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,Selective Attention,2,0
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,Problem Sensitivity,2,0
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,Written Comprehension,1,0
+14711,Web Developers,"Select programming languages, design tools, or applications.",Deductive Reasoning,3,0
+14711,Web Developers,"Select programming languages, design tools, or applications.",Inductive Reasoning,2,0
+14711,Web Developers,"Select programming languages, design tools, or applications.",Category Flexibility,2,0
+14711,Web Developers,"Select programming languages, design tools, or applications.",Written Comprehension,2,0
+14711,Web Developers,"Select programming languages, design tools, or applications.",Problem Sensitivity,2,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Deductive Reasoning,3,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Written Comprehension,3,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Problem Sensitivity,3,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Selective Attention,2,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Inductive Reasoning,2,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Category Flexibility,2,0
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",Near Vision,1,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Deductive Reasoning,3,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Inductive Reasoning,2,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Mathematical Reasoning,2,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Information Ordering,3,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Visualization,2,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Problem Sensitivity,2,0
+14704,Web Developers,Develop databases that support Web applications and Web sites.,Written Comprehension,1,0
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Information Ordering,2,0
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Selective Attention,3,0
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Problem Sensitivity,3,0
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Deductive Reasoning,2,0
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Written Comprehension,2,0
+14695,Web Developers,Perform or direct Web site updates.,Deductive Reasoning,2,0
+14695,Web Developers,Perform or direct Web site updates.,Information Ordering,2,0
+14695,Web Developers,Perform or direct Web site updates.,Oral Expression,2,0
+14695,Web Developers,Perform or direct Web site updates.,Written Comprehension,2,0
+14695,Web Developers,Perform or direct Web site updates.,Problem Sensitivity,1,0
+14701,Web Developers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Written Comprehension,3,0
+14701,Web Developers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Oral Comprehension,2,0
+14701,Web Developers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Inductive Reasoning,2,0
+14701,Web Developers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Memorization,2,0
+14701,Web Developers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Speech Recognition,1,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Deductive Reasoning,3,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Inductive Reasoning,3,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Oral Comprehension,2,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Written Comprehension,2,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Problem Sensitivity,2,0
+14702,Web Developers,Analyze user needs to determine technical requirements.,Information Ordering,2,0
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",Written Expression,3,0
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",Written Comprehension,3,0
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",Deductive Reasoning,2,0
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",Information Ordering,2,0
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",Oral Comprehension,1,0
+14705,Web Developers,Renew domain name registrations.,Information Ordering,2,0
+14705,Web Developers,Renew domain name registrations.,Selective Attention,2,0
+14705,Web Developers,Renew domain name registrations.,Written Comprehension,2,0
+14705,Web Developers,Renew domain name registrations.,Deductive Reasoning,1,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Oral Comprehension,3,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Oral Expression,3,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Deductive Reasoning,2,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Inductive Reasoning,2,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Speech Recognition,2,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Speech Clarity,2,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Problem Sensitivity,2,0
+14697,Web Developers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Fluency of Ideas,1,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Oral Comprehension,3,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Oral Expression,3,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Problem Sensitivity,2,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Deductive Reasoning,2,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Speech Recognition,2,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Written Expression,1,0
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Speech Clarity,1,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Oral Comprehension,3,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Oral Expression,2,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Deductive Reasoning,2,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Inductive Reasoning,2,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Fluency of Ideas,2,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Written Comprehension,2,0
+14706,Web Developers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Problem Sensitivity,1,0
+14726,Web Developers,"Document test plans, testing procedures, or test results.",Written Expression,3,0
+14726,Web Developers,"Document test plans, testing procedures, or test results.",Information Ordering,3,0
+14726,Web Developers,"Document test plans, testing procedures, or test results.",Deductive Reasoning,2,0
+14726,Web Developers,"Document test plans, testing procedures, or test results.",Written Comprehension,2,0
+14726,Web Developers,"Document test plans, testing procedures, or test results.",Selective Attention,2,0
+14717,Web Developers,Establish appropriate server directory trees.,Information Ordering,3,0
+14717,Web Developers,Establish appropriate server directory trees.,Deductive Reasoning,2,0
+14717,Web Developers,Establish appropriate server directory trees.,Visualization,2,0
+14717,Web Developers,Establish appropriate server directory trees.,Written Comprehension,1,0
+14719,Web Developers,Recommend and implement performance improvements.,Deductive Reasoning,3,0
+14719,Web Developers,Recommend and implement performance improvements.,Inductive Reasoning,3,0
+14719,Web Developers,Recommend and implement performance improvements.,Problem Sensitivity,3,0
+14719,Web Developers,Recommend and implement performance improvements.,Mathematical Reasoning,2,0
+14719,Web Developers,Recommend and implement performance improvements.,Written Expression,2,0
+14719,Web Developers,Recommend and implement performance improvements.,Information Ordering,2,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Written Expression,3,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Number Facility,2,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Mathematical Reasoning,2,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Information Ordering,3,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Selective Attention,2,0
+14728,Web Developers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Written Comprehension,1,0
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,Information Ordering,3,0
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,Deductive Reasoning,2,0
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,Written Expression,3,0
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,Written Comprehension,2,0
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,Problem Sensitivity,1,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Visualization,3,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Deductive Reasoning,3,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Inductive Reasoning,2,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Originality,2,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Information Ordering,2,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Written Expression,2,0
+14724,Web Developers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Fluency of Ideas,1,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Written Expression,3,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Written Comprehension,2,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Deductive Reasoning,2,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Information Ordering,3,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Oral Expression,2,0
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Fluency of Ideas,1,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Deductive Reasoning,3,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Inductive Reasoning,2,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Written Comprehension,2,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Category Flexibility,2,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Problem Sensitivity,2,0
+14725,Web Developers,Evaluate or recommend server hardware or software.,Written Expression,2,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Selective Attention,3,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Problem Sensitivity,3,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Written Comprehension,2,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Deductive Reasoning,2,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Oral Expression,2,0
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,Near Vision,1,0
+14729,Web Developers,Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems.,Deductive Reasoning,2,0
+14729,Web Developers,Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems.,Information Ordering,3,0
+14729,Web Developers,Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems.,Written Comprehension,3,0
+14729,Web Developers,Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems.,Problem Sensitivity,2,0
+14729,Web Developers,Install and configure hypertext transfer protocol (HTTP) servers and associated operating systems.,Inductive Reasoning,1,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Deductive Reasoning,3,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Inductive Reasoning,3,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Written Comprehension,3,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Written Expression,2,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Category Flexibility,2,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Information Ordering,2,0
+14727,Web Developers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Mathematical Reasoning,1,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Visualization,3,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Deductive Reasoning,3,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Information Ordering,2,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Inductive Reasoning,2,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Written Expression,2,0
+14730,Web Developers,Develop system interaction or sequence diagrams.,Originality,1,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Deductive Reasoning,3,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Inductive Reasoning,2,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Problem Sensitivity,3,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Originality,2,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Information Ordering,2,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Mathematical Reasoning,2,0
+21683,Web Developers,"Design and implement Web site security measures, such as firewalls and message encryption.",Written Comprehension,1,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Deductive Reasoning,3,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Inductive Reasoning,2,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Written Comprehension,3,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Information Ordering,2,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Mathematical Reasoning,2,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Problem Sensitivity,2,0
+21684,Web Developers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, and legal issues including accessibility and privacy.",Written Expression,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Oral Comprehension,3,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Oral Expression,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Deductive Reasoning,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Inductive Reasoning,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Fluency of Ideas,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Written Comprehension,2,0
+21685,Web and Digital Interface Designers,Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.,Problem Sensitivity,1,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Oral Comprehension,3,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Oral Expression,3,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Deductive Reasoning,2,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Written Comprehension,2,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Information Ordering,2,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Speech Recognition,1,0
+21686,Web and Digital Interface Designers,"Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",Speech Clarity,1,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Oral Comprehension,3,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Oral Expression,3,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Problem Sensitivity,2,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Deductive Reasoning,2,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Speech Recognition,2,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Written Expression,1,0
+21687,Web and Digital Interface Designers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,Speech Clarity,1,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Inductive Reasoning,3,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Deductive Reasoning,2,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Written Comprehension,3,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Oral Comprehension,2,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Problem Sensitivity,2,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Category Flexibility,2,0
+21688,Web and Digital Interface Designers,Conduct user research to determine design requirements and analyze user feedback to improve design quality.,Fluency of Ideas,1,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Oral Comprehension,3,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Oral Expression,3,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Deductive Reasoning,2,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Inductive Reasoning,2,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Speech Recognition,2,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Speech Clarity,2,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Problem Sensitivity,2,0
+21689,Web and Digital Interface Designers,"Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",Fluency of Ideas,1,0
+21690,Web and Digital Interface Designers,Create searchable indices for Web page content.,Information Ordering,3,0
+21690,Web and Digital Interface Designers,Create searchable indices for Web page content.,Category Flexibility,3,0
+21690,Web and Digital Interface Designers,Create searchable indices for Web page content.,Deductive Reasoning,2,0
+21690,Web and Digital Interface Designers,Create searchable indices for Web page content.,Written Comprehension,2,0
+21690,Web and Digital Interface Designers,Create searchable indices for Web page content.,Inductive Reasoning,1,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Visualization,3,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Deductive Reasoning,3,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Inductive Reasoning,2,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Originality,2,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Information Ordering,2,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Written Expression,2,0
+21691,Web and Digital Interface Designers,"Create Web models or prototypes that include physical, interface, logical, or data models.",Fluency of Ideas,1,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Deductive Reasoning,3,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Inductive Reasoning,2,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Visualization,2,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Information Ordering,2,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Problem Sensitivity,2,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Written Comprehension,2,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Originality,1,0
+21692,Web and Digital Interface Designers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",Near Vision,1,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Written Expression,3,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Information Ordering,3,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Deductive Reasoning,2,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Originality,2,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Written Comprehension,2,0
+21693,Web and Digital Interface Designers,Develop and document style guidelines for Web site content.,Fluency of Ideas,1,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Originality,3,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Fluency of Ideas,3,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Visualization,3,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Oral Comprehension,2,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Inductive Reasoning,2,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Written Comprehension,2,0
+21694,Web and Digital Interface Designers,Develop new visual design concepts and modify concepts based on stakeholder feedback.,Category Flexibility,1,0
+21695,Web and Digital Interface Designers,Develop or implement procedures for ongoing Web site revision.,Information Ordering,3,0
+21695,Web and Digital Interface Designers,Develop or implement procedures for ongoing Web site revision.,Deductive Reasoning,2,0
+21695,Web and Digital Interface Designers,Develop or implement procedures for ongoing Web site revision.,Written Expression,3,0
+21695,Web and Digital Interface Designers,Develop or implement procedures for ongoing Web site revision.,Written Comprehension,2,0
+21695,Web and Digital Interface Designers,Develop or implement procedures for ongoing Web site revision.,Problem Sensitivity,1,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Visualization,3,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Deductive Reasoning,3,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Information Ordering,2,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Inductive Reasoning,2,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Written Expression,2,0
+21696,Web and Digital Interface Designers,Develop system interaction or sequence diagrams.,Originality,1,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Visualization,3,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Information Ordering,3,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Deductive Reasoning,2,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Originality,2,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Written Comprehension,2,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Inductive Reasoning,2,0
+21697,Web and Digital Interface Designers,"Develop Web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",Fluency of Ideas,1,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Deductive Reasoning,3,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Inductive Reasoning,2,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Information Ordering,3,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Written Expression,3,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Problem Sensitivity,2,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Category Flexibility,2,0
+21698,Web and Digital Interface Designers,"Develop, validate, and document test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.",Written Comprehension,2,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Originality,3,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Visualization,3,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Information Ordering,3,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Fluency of Ideas,2,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Oral Expression,2,0
+21699,Web and Digital Interface Designers,"Direct and execute pre-production activities, such as creating moodboards or storyboards and establishing a project timeline.",Deductive Reasoning,1,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Written Expression,3,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Number Facility,2,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Mathematical Reasoning,2,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Information Ordering,3,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Selective Attention,2,0
+21700,Web and Digital Interface Designers,"Document technical factors such as server load, bandwidth, database performance, and browser and device types.",Written Comprehension,1,0
+21701,Web and Digital Interface Designers,Identify or maintain links to and from other Web sites and check links to ensure proper functioning.,Selective Attention,3,0
+21701,Web and Digital Interface Designers,Identify or maintain links to and from other Web sites and check links to ensure proper functioning.,Problem Sensitivity,2,0
+21701,Web and Digital Interface Designers,Identify or maintain links to and from other Web sites and check links to ensure proper functioning.,Information Ordering,2,0
+21701,Web and Digital Interface Designers,Identify or maintain links to and from other Web sites and check links to ensure proper functioning.,Deductive Reasoning,2,0
+21701,Web and Digital Interface Designers,Identify or maintain links to and from other Web sites and check links to ensure proper functioning.,Written Comprehension,1,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Problem Sensitivity,3,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Inductive Reasoning,2,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Deductive Reasoning,2,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Oral Comprehension,2,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Written Comprehension,2,0
+21702,Web and Digital Interface Designers,"Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",Oral Expression,2,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Deductive Reasoning,3,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Inductive Reasoning,2,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Written Comprehension,3,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Information Ordering,2,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Mathematical Reasoning,2,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Problem Sensitivity,2,0
+21703,Web and Digital Interface Designers,"Incorporate technical considerations into Web site design plans, such as budgets, equipment, performance requirements, or legal issues including accessibility and privacy.",Written Expression,2,0
+21704,Web and Digital Interface Designers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Written Comprehension,3,0
+21704,Web and Digital Interface Designers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Oral Comprehension,2,0
+21704,Web and Digital Interface Designers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Inductive Reasoning,2,0
+21704,Web and Digital Interface Designers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Memorization,2,0
+21704,Web and Digital Interface Designers,"Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",Speech Recognition,1,0
+21705,Web and Digital Interface Designers,Perform or direct Web site updates.,Deductive Reasoning,2,0
+21705,Web and Digital Interface Designers,Perform or direct Web site updates.,Information Ordering,2,0
+21705,Web and Digital Interface Designers,Perform or direct Web site updates.,Oral Expression,2,0
+21705,Web and Digital Interface Designers,Perform or direct Web site updates.,Written Comprehension,2,0
+21705,Web and Digital Interface Designers,Perform or direct Web site updates.,Problem Sensitivity,1,0
+21706,Web and Digital Interface Designers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Information Ordering,2,0
+21706,Web and Digital Interface Designers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Selective Attention,3,0
+21706,Web and Digital Interface Designers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Problem Sensitivity,3,0
+21706,Web and Digital Interface Designers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Deductive Reasoning,2,0
+21706,Web and Digital Interface Designers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",Written Comprehension,2,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Written Expression,3,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Written Comprehension,2,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Deductive Reasoning,2,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Information Ordering,3,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Oral Expression,2,0
+21707,Web and Digital Interface Designers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",Fluency of Ideas,1,0
+21708,Web and Digital Interface Designers,Register Web sites with search engines to increase Web site traffic.,Information Ordering,2,0
+21708,Web and Digital Interface Designers,Register Web sites with search engines to increase Web site traffic.,Deductive Reasoning,1,0
+21708,Web and Digital Interface Designers,Register Web sites with search engines to increase Web site traffic.,Written Comprehension,2,0
+21708,Web and Digital Interface Designers,Register Web sites with search engines to increase Web site traffic.,Selective Attention,1,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Originality,3,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Inductive Reasoning,3,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Fluency of Ideas,3,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Written Comprehension,2,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Deductive Reasoning,2,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Visualization,2,0
+21709,Web and Digital Interface Designers,"Research and apply innovative solutions for product design, visuals, and user experience to meet the needs of individual Web development projects.",Problem Sensitivity,1,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Deductive Reasoning,3,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Inductive Reasoning,3,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Written Comprehension,3,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Written Expression,2,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Category Flexibility,2,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Information Ordering,2,0
+21710,Web and Digital Interface Designers,"Research, document, rate, or select alternatives for Web architecture or technologies.",Mathematical Reasoning,1,0
+21711,Web and Digital Interface Designers,"Respond to user email inquiries, or set up automated systems to send responses.",Written Expression,3,0
+21711,Web and Digital Interface Designers,"Respond to user email inquiries, or set up automated systems to send responses.",Written Comprehension,3,0
+21711,Web and Digital Interface Designers,"Respond to user email inquiries, or set up automated systems to send responses.",Deductive Reasoning,2,0
+21711,Web and Digital Interface Designers,"Respond to user email inquiries, or set up automated systems to send responses.",Information Ordering,2,0
+21711,Web and Digital Interface Designers,"Respond to user email inquiries, or set up automated systems to send responses.",Oral Comprehension,1,0
+21712,Web and Digital Interface Designers,"Select programming languages, design tools, or applications.",Deductive Reasoning,3,0
+21712,Web and Digital Interface Designers,"Select programming languages, design tools, or applications.",Inductive Reasoning,2,0
+21712,Web and Digital Interface Designers,"Select programming languages, design tools, or applications.",Category Flexibility,2,0
+21712,Web and Digital Interface Designers,"Select programming languages, design tools, or applications.",Written Comprehension,2,0
+21712,Web and Digital Interface Designers,"Select programming languages, design tools, or applications.",Problem Sensitivity,2,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Written Expression,3,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Written Comprehension,3,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Information Ordering,3,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Deductive Reasoning,2,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Fluency of Ideas,2,0
+21713,Web and Digital Interface Designers,"Write and edit technical documentation for digital interface products and designs, such as user manuals, testing protocols, and reports.",Selective Attention,1,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Deductive Reasoning,3,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Inductive Reasoning,2,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Information Ordering,2,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Written Comprehension,2,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Problem Sensitivity,2,0
+21714,Web and Digital Interface Designers,Write supporting code for Web applications or Web sites.,Near Vision,1,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Inductive Reasoning,3,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Deductive Reasoning,2,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Problem Sensitivity,2,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Mathematical Reasoning,2,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Originality,2,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Written Comprehension,1,0
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,Fluency of Ideas,1,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Originality,3,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Fluency of Ideas,3,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Inductive Reasoning,2,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Deductive Reasoning,2,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Visualization,2,0
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",Written Expression,1,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Originality,3,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Fluency of Ideas,3,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Written Expression,3,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Deductive Reasoning,2,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Inductive Reasoning,2,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Visualization,2,0
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",Information Ordering,1,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Oral Comprehension,3,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Inductive Reasoning,2,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Deductive Reasoning,2,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Fluency of Ideas,2,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Written Comprehension,2,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Speech Recognition,2,0
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",Oral Expression,1,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Deductive Reasoning,3,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Inductive Reasoning,2,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Oral Comprehension,2,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Oral Expression,2,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Problem Sensitivity,2,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Written Comprehension,2,0
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,Speech Clarity,1,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Written Expression,3,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Information Ordering,3,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Deductive Reasoning,2,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Written Comprehension,2,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Fluency of Ideas,2,0
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",Originality,1,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Written Expression,3,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Information Ordering,3,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Visualization,3,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Deductive Reasoning,2,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Originality,2,0
+16216,Video Game Designers,"Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",Written Comprehension,1,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Oral Expression,3,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Written Expression,2,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Deductive Reasoning,2,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Inductive Reasoning,2,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Fluency of Ideas,2,0
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,Speech Clarity,1,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Information Ordering,3,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Written Expression,3,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Deductive Reasoning,2,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Oral Expression,2,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Oral Comprehension,2,0
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",Mathematical Reasoning,1,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Oral Expression,3,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Written Expression,2,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Deductive Reasoning,2,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Problem Sensitivity,2,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Written Comprehension,2,0
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,Speech Clarity,1,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Originality,3,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Visualization,3,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Fluency of Ideas,2,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Deductive Reasoning,2,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Oral Expression,2,0
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,Written Expression,1,0
+16207,Video Game Designers,Guide design discussions between development teams.,Oral Expression,3,0
+16207,Video Game Designers,Guide design discussions between development teams.,Oral Comprehension,3,0
+16207,Video Game Designers,Guide design discussions between development teams.,Deductive Reasoning,2,0
+16207,Video Game Designers,Guide design discussions between development teams.,Fluency of Ideas,2,0
+16207,Video Game Designers,Guide design discussions between development teams.,Speech Clarity,2,0
+16207,Video Game Designers,Guide design discussions between development teams.,Speech Recognition,2,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Problem Sensitivity,3,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Deductive Reasoning,3,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Selective Attention,2,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Oral Expression,2,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Written Comprehension,2,0
+16206,Video Game Designers,Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.,Inductive Reasoning,2,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Oral Expression,3,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Speech Clarity,3,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Fluency of Ideas,2,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Originality,2,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Oral Comprehension,2,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Written Expression,1,0
+16204,Video Game Designers,"Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",Visualization,1,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Visualization,3,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Originality,3,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Spatial Orientation,2,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Fluency of Ideas,2,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Deductive Reasoning,1,0
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,Near Vision,1,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Written Comprehension,3,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Oral Comprehension,3,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Inductive Reasoning,2,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Memorization,2,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Speech Recognition,2,0
+16196,Video Game Designers,"Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Category Flexibility,1,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Inductive Reasoning,2,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Originality,3,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Fluency of Ideas,3,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Written Comprehension,2,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Category Flexibility,2,0
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",Deductive Reasoning,1,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Oral Comprehension,2,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Oral Expression,2,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Visualization,3,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Originality,2,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Speech Recognition,1,0
+16215,Video Game Designers,Collaborate with artists to achieve appropriate visual style.,Fluency of Ideas,1,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Written Expression,3,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Originality,3,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Fluency of Ideas,3,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Written Comprehension,2,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Oral Expression,1,0
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,Deductive Reasoning,1,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Oral Comprehension,3,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Oral Expression,2,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Deductive Reasoning,3,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Inductive Reasoning,2,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Problem Sensitivity,2,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Speech Recognition,2,0
+16213,Video Game Designers,Consult with multiple stakeholders to define requirements and implement online features.,Written Comprehension,1,0

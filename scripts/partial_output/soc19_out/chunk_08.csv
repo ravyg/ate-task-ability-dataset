@@ -1,0 +1,804 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Problem Sensitivity,3,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Deductive Reasoning,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Inductive Reasoning,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Manual Dexterity,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Finger Dexterity,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Arm-Hand Steadiness,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Near Vision,2,0
+22316,Nuclear Technicians,"Perform testing, maintenance, repair, or upgrading of accelerator systems.",Selective Attention,2,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Oral Expression,3,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Oral Comprehension,2,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Problem Sensitivity,2,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Speech Clarity,2,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Speech Recognition,1,0
+22318,Nuclear Technicians,Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas.,Information Ordering,2,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Mathematical Reasoning,3,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Number Facility,3,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Deductive Reasoning,2,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Written Comprehension,2,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Selective Attention,2,0
+22319,Nuclear Technicians,"Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables.",Near Vision,2,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Problem Sensitivity,3,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Selective Attention,3,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Inductive Reasoning,2,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Near Vision,2,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Manual Dexterity,2,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Perceptual Speed,2,0
+22320,Nuclear Technicians,"Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Category Flexibility,1,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Oral Comprehension,3,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Oral Expression,3,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Speech Clarity,2,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Speech Recognition,2,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Problem Sensitivity,2,0
+22321,Nuclear Technicians,"Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources.",Information Ordering,2,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Problem Sensitivity,3,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Deductive Reasoning,3,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Inductive Reasoning,2,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Information Ordering,2,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Category Flexibility,2,0
+22323,Nuclear Technicians,"Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination.",Written Comprehension,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Manual Dexterity,3,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Arm-Hand Steadiness,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Finger Dexterity,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Stamina,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Static Strength,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Near Vision,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Selective Attention,2,0
+22324,Nuclear Technicians,"Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines.",Control Precision,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Manual Dexterity,3,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Finger Dexterity,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Arm-Hand Steadiness,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Selective Attention,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Near Vision,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Problem Sensitivity,2,0
+22326,Nuclear Technicians,"Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment.",Information Ordering,2,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Deductive Reasoning,3,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Problem Sensitivity,3,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Inductive Reasoning,2,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Written Comprehension,2,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Information Ordering,2,0
+22327,Nuclear Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Category Flexibility,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Manual Dexterity,3,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Control Precision,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Finger Dexterity,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Problem Sensitivity,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Deductive Reasoning,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Near Vision,2,0
+22328,Nuclear Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Selective Attention,2,0
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,Oral Expression,3,0
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,Oral Comprehension,2,0
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,Speech Clarity,2,0
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,Written Comprehension,2,0
+20539,Nuclear Monitoring Technicians,Brief workers on radiation levels in work areas.,Information Ordering,2,0
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,Mathematical Reasoning,3,0
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,Number Facility,3,0
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,Deductive Reasoning,2,0
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,Written Comprehension,2,0
+7597,Nuclear Monitoring Technicians,Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.,Selective Attention,2,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Selective Attention,3,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Problem Sensitivity,2,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Near Vision,2,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Perceptual Speed,2,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Inductive Reasoning,2,0
+7599,Nuclear Monitoring Technicians,Monitor personnel to determine the amounts and intensities of radiation exposure.,Mathematical Reasoning,1,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Oral Expression,3,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Problem Sensitivity,3,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Speech Clarity,2,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Oral Comprehension,2,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Deductive Reasoning,2,0
+7600,Nuclear Monitoring Technicians,Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.,Mathematical Reasoning,1,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Problem Sensitivity,3,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Reaction Time,3,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Deductive Reasoning,2,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Information Ordering,2,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Auditory Attention,2,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Selective Attention,2,0
+7598,Nuclear Monitoring Technicians,Provide initial response to abnormal events or to alarms from radiation monitoring equipment.,Oral Expression,2,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Inductive Reasoning,3,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Problem Sensitivity,3,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Selective Attention,2,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Near Vision,2,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Mathematical Reasoning,2,0
+7602,Nuclear Monitoring Technicians,"Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.",Category Flexibility,2,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Oral Expression,3,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Oral Comprehension,2,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Speech Clarity,2,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Written Comprehension,2,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Information Ordering,2,0
+7601,Nuclear Monitoring Technicians,Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.,Deductive Reasoning,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Manual Dexterity,3,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Finger Dexterity,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Arm-Hand Steadiness,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Selective Attention,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Near Vision,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Problem Sensitivity,2,0
+7603,Nuclear Monitoring Technicians,"Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.",Information Ordering,2,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Inductive Reasoning,3,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Problem Sensitivity,2,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Near Vision,2,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Deductive Reasoning,2,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Perceptual Speed,2,0
+20540,Nuclear Monitoring Technicians,"Analyze samples, such as air or water samples, for contaminants or other elements.",Selective Attention,2,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Deductive Reasoning,3,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Problem Sensitivity,3,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Inductive Reasoning,2,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Information Ordering,2,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Category Flexibility,2,0
+7605,Nuclear Monitoring Technicians,"Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.",Written Comprehension,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Manual Dexterity,3,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Control Precision,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Finger Dexterity,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Problem Sensitivity,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Deductive Reasoning,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Near Vision,2,0
+7604,Nuclear Monitoring Technicians,Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.,Selective Attention,2,0
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",Written Expression,3,0
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",Written Comprehension,2,0
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",Information Ordering,2,0
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",Deductive Reasoning,2,0
+7612,Nuclear Monitoring Technicians,"Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.",Near Vision,1,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Manual Dexterity,3,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Finger Dexterity,2,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Arm-Hand Steadiness,2,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Selective Attention,2,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Near Vision,2,0
+20541,Nuclear Monitoring Technicians,"Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.",Information Ordering,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Manual Dexterity,3,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Arm-Hand Steadiness,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Finger Dexterity,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Stamina,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Static Strength,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Near Vision,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Selective Attention,2,0
+7606,Nuclear Monitoring Technicians,"Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.",Control Precision,2,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Wrist-Finger Speed,3,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Finger Dexterity,2,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Selective Attention,2,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Written Comprehension,2,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Number Facility,2,0
+7610,Nuclear Monitoring Technicians,Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.,Near Vision,2,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Manual Dexterity,3,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Finger Dexterity,3,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Arm-Hand Steadiness,3,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Control Precision,2,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Near Vision,2,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Problem Sensitivity,2,0
+7608,Nuclear Monitoring Technicians,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Deductive Reasoning,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Deductive Reasoning,3,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Inductive Reasoning,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Mathematical Reasoning,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Problem Sensitivity,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Originality,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Written Comprehension,2,0
+12963,Social Science Research Assistants,Design and create special programs for tasks such as statistical analysis and data entry and cleaning.,Visualization,2,0
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",Written Expression,3,0
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",Written Comprehension,3,0
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",Information Ordering,2,0
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",Oral Expression,2,0
+12953,Social Science Research Assistants,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",Deductive Reasoning,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Written Expression,3,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Written Comprehension,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Inductive Reasoning,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Mathematical Reasoning,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Visualization,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Number Facility,2,0
+12957,Social Science Research Assistants,"Prepare tables, graphs, fact sheets, and written reports summarizing research results.",Information Ordering,2,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Mathematical Reasoning,3,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Number Facility,3,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Deductive Reasoning,2,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Inductive Reasoning,2,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Written Comprehension,2,0
+12955,Social Science Research Assistants,"Perform descriptive and multivariate statistical analyses of data, using computer software.",Selective Attention,2,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Perceptual Speed,3,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Selective Attention,3,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Problem Sensitivity,2,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Near Vision,2,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Written Comprehension,2,0
+12956,Social Science Research Assistants,"Verify the accuracy and validity of data entered in databases, correcting any errors.",Deductive Reasoning,2,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Deductive Reasoning,3,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Problem Sensitivity,2,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Inductive Reasoning,2,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Information Ordering,2,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Written Expression,2,0
+12959,Social Science Research Assistants,Develop and implement research quality control procedures.,Originality,2,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Information Ordering,3,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Perceptual Speed,2,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Selective Attention,2,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Written Comprehension,2,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Deductive Reasoning,2,0
+12952,Social Science Research Assistants,"Prepare, manipulate, and manage extensive databases.",Near Vision,2,0
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,Wrist-Finger Speed,3,0
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,Selective Attention,2,0
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,Perceptual Speed,2,0
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,Near Vision,2,0
+12962,Social Science Research Assistants,Perform data entry and other clerical work as required for project completion.,Written Comprehension,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Written Comprehension,3,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Inductive Reasoning,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Deductive Reasoning,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Flexibility of Closure,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Speed of Closure,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Selective Attention,2,0
+12960,Social Science Research Assistants,Conduct internet-based and library research.,Near Vision,2,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Oral Expression,3,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Speech Clarity,3,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Oral Comprehension,2,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Written Comprehension,2,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Deductive Reasoning,2,0
+12961,Social Science Research Assistants,Present research findings to groups of people.,Information Ordering,2,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Oral Expression,3,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Oral Comprehension,3,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Speech Clarity,2,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Speech Recognition,2,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Written Comprehension,2,0
+12954,Social Science Research Assistants,Obtain informed consent of research subjects or their guardians.,Deductive Reasoning,2,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Oral Expression,3,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Oral Comprehension,3,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Speech Clarity,2,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Speech Recognition,2,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Information Ordering,2,0
+12967,Social Science Research Assistants,"Administer standardized tests to research subjects, or interview them to collect research data.",Selective Attention,2,0
+12968,Social Science Research Assistants,Recruit and schedule research participants.,Oral Expression,2,0
+12968,Social Science Research Assistants,Recruit and schedule research participants.,Oral Comprehension,2,0
+12968,Social Science Research Assistants,Recruit and schedule research participants.,Information Ordering,2,0
+12968,Social Science Research Assistants,Recruit and schedule research participants.,Written Comprehension,2,0
+12968,Social Science Research Assistants,Recruit and schedule research participants.,Speech Clarity,2,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Deductive Reasoning,3,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Oral Comprehension,2,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Oral Expression,2,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Problem Sensitivity,2,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Written Comprehension,2,0
+12966,Social Science Research Assistants,Screen potential subjects to determine their suitability as study participants.,Speech Recognition,2,0
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",Information Ordering,3,0
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",Selective Attention,2,0
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",Written Comprehension,2,0
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",Oral Comprehension,2,0
+12969,Social Science Research Assistants,"Track research participants, and perform any necessary follow-up tasks.",Memorization,2,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Written Expression,3,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Written Comprehension,3,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Deductive Reasoning,2,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Information Ordering,2,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Perceptual Speed,2,0
+12958,Social Science Research Assistants,Edit and submit protocols and other required research documentation.,Near Vision,2,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Information Ordering,3,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Perceptual Speed,2,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Selective Attention,2,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Written Comprehension,2,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Deductive Reasoning,2,0
+12964,Social Science Research Assistants,Code data in preparation for computer entry.,Near Vision,2,0
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,Information Ordering,3,0
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,Selective Attention,2,0
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,Number Facility,2,0
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,Written Comprehension,2,0
+12972,Social Science Research Assistants,Track laboratory supplies and expenses such as participant reimbursement.,Near Vision,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Originality,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Deductive Reasoning,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Written Expression,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Written Comprehension,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Fluency of Ideas,2,0
+12965,Social Science Research Assistants,Provide assistance in the design of survey instruments such as questionnaires.,Inductive Reasoning,2,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Oral Expression,3,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Oral Comprehension,2,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Speech Clarity,2,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Problem Sensitivity,2,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Deductive Reasoning,2,0
+12971,Social Science Research Assistants,Supervise the work of survey interviewers.,Information Ordering,2,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Oral Comprehension,3,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Oral Expression,3,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Deductive Reasoning,2,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Inductive Reasoning,2,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Problem Sensitivity,2,0
+12973,Social Science Research Assistants,Perform needs assessments or consult with clients to determine the types of research and information required.,Written Comprehension,2,0
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,Information Ordering,3,0
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,Deductive Reasoning,2,0
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,Written Comprehension,2,0
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,Mathematical Reasoning,1,0
+12970,Social Science Research Assistants,Allocate and manage laboratory space and resources.,Oral Expression,1,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Manual Dexterity,3,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Stamina,3,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Dynamic Strength,2,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Trunk Strength,2,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Gross Body Coordination,2,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Gross Body Equilibrium,2,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Far Vision,2,0
+5566,Forest and Conservation Technicians,"Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.",Oral Expression,2,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Oral Expression,3,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Oral Comprehension,2,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Information Ordering,2,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Speech Clarity,2,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Deductive Reasoning,2,0
+5563,Forest and Conservation Technicians,"Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.",Problem Sensitivity,2,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Oral Expression,3,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Written Comprehension,3,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Oral Comprehension,2,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Deductive Reasoning,2,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Speech Clarity,2,0
+5570,Forest and Conservation Technicians,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",Information Ordering,2,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Far Vision,3,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Peripheral Vision,2,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Stamina,3,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Gross Body Coordination,2,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Gross Body Equilibrium,2,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Problem Sensitivity,2,0
+5569,Forest and Conservation Technicians,Patrol park or forest areas to protect resources and prevent damage.,Selective Attention,2,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Visualization,3,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Spatial Orientation,3,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Deductive Reasoning,2,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Written Comprehension,2,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Near Vision,2,0
+21061,Forest and Conservation Technicians,Map forest tract data using digital mapping systems.,Inductive Reasoning,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Written Expression,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Written Comprehension,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Number Facility,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Selective Attention,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Information Ordering,2,0
+5571,Forest and Conservation Technicians,Keep records of the amount and condition of logs taken to mills.,Near Vision,2,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Deductive Reasoning,3,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Oral Expression,2,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Problem Sensitivity,2,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Information Ordering,2,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Written Comprehension,2,0
+5567,Forest and Conservation Technicians,"Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.",Inductive Reasoning,2,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Problem Sensitivity,3,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Selective Attention,2,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Far Vision,2,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Inductive Reasoning,2,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Written Comprehension,2,0
+5564,Forest and Conservation Technicians,Monitor activities of logging companies and contractors.,Deductive Reasoning,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Manual Dexterity,3,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Stamina,3,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Dynamic Strength,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Trunk Strength,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Gross Body Coordination,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Gross Body Equilibrium,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Far Vision,2,0
+5578,Forest and Conservation Technicians,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",Information Ordering,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Visualization,3,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Spatial Orientation,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Deductive Reasoning,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Inductive Reasoning,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Oral Expression,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Problem Sensitivity,2,0
+5576,Forest and Conservation Technicians,Plan and supervise construction of access routes and forest roads.,Mathematical Reasoning,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Far Vision,3,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Visualization,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Spatial Orientation,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Problem Sensitivity,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Inductive Reasoning,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Stamina,2,0
+5565,Forest and Conservation Technicians,"Select and mark trees for thinning or logging, drawing detailed plans that include access roads.",Gross Body Coordination,2,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Oral Expression,3,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Problem Sensitivity,2,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Inductive Reasoning,2,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Written Comprehension,2,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Information Ordering,2,0
+5572,Forest and Conservation Technicians,"Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.",Deductive Reasoning,2,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Information Ordering,3,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Deductive Reasoning,2,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Written Comprehension,2,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Near Vision,2,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Wrist-Finger Speed,2,0
+5574,Forest and Conservation Technicians,Develop and maintain computer databases.,Selective Attention,2,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Near Vision,3,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Far Vision,2,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Inductive Reasoning,3,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Problem Sensitivity,2,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Manual Dexterity,2,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Stamina,2,0
+5581,Forest and Conservation Technicians,"Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.",Gross Body Coordination,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Far Vision,3,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Spatial Orientation,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Manual Dexterity,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Stamina,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Gross Body Coordination,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Mathematical Reasoning,2,0
+5575,Forest and Conservation Technicians,"Measure distances, clean sightlines, and record data to help survey crews.",Selective Attention,2,0
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",Written Comprehension,3,0
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",Deductive Reasoning,2,0
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",Information Ordering,2,0
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",Written Expression,2,0
+5573,Forest and Conservation Technicians,"Issue fire permits, timber permits, and other forest use licenses.",Oral Expression,1,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Spatial Orientation,3,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Visualization,3,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Far Vision,2,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Mathematical Reasoning,2,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Manual Dexterity,2,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Stamina,2,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Gross Body Coordination,2,0
+5568,Forest and Conservation Technicians,"Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.",Gross Body Equilibrium,2,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Oral Expression,3,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Oral Comprehension,2,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Speech Clarity,2,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Written Comprehension,2,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Deductive Reasoning,2,0
+5577,Forest and Conservation Technicians,"Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.",Inductive Reasoning,2,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Inductive Reasoning,3,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Deductive Reasoning,2,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Written Comprehension,2,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Problem Sensitivity,2,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Oral Expression,2,0
+5580,Forest and Conservation Technicians,"Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.",Mathematical Reasoning,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Inductive Reasoning,3,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Problem Sensitivity,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Manual Dexterity,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Selective Attention,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Near Vision,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Stamina,2,0
+5579,Forest and Conservation Technicians,"Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.",Gross Body Coordination,2,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Near Vision,3,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Manual Dexterity,3,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Finger Dexterity,2,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Arm-Hand Steadiness,2,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Problem Sensitivity,2,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Selective Attention,2,0
+1577,Forensic Science Technicians,"Collect evidence from crime scenes, storing it in conditions that preserve its integrity.",Information Ordering,2,0
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",Written Expression,3,0
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",Written Comprehension,3,0
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",Information Ordering,2,0
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",Deductive Reasoning,2,0
+18478,Forensic Science Technicians,"Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.",Near Vision,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Near Vision,3,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Far Vision,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Depth Perception,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Manual Dexterity,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Finger Dexterity,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Visual Color Discrimination,2,0
+20399,Forensic Science Technicians,Use photographic or video equipment to document evidence or crime scenes.,Selective Attention,2,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Oral Expression,3,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Speech Clarity,3,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Oral Comprehension,2,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Written Comprehension,2,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Deductive Reasoning,2,0
+1571,Forensic Science Technicians,Testify in court about investigative or analytical methods or findings.,Memorization,2,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Near Vision,3,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Manual Dexterity,3,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Finger Dexterity,2,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Arm-Hand Steadiness,2,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Perceptual Speed,2,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Visual Color Discrimination,2,0
+18479,Forensic Science Technicians,Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.,Deductive Reasoning,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Visualization,3,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Near Vision,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Far Vision,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Manual Dexterity,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Spatial Orientation,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Mathematical Reasoning,2,0
+23965,Forensic Science Technicians,Measure and sketch crime scenes to document evidence.,Selective Attention,2,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Near Vision,3,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Far Vision,2,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Inductive Reasoning,2,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Problem Sensitivity,2,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Oral Comprehension,2,0
+1584,Forensic Science Technicians,"Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.",Selective Attention,2,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Oral Expression,3,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Speech Clarity,2,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Written Comprehension,2,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Information Ordering,2,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Deductive Reasoning,2,0
+18481,Forensic Science Technicians,Train new technicians or other personnel on forensic science techniques.,Oral Comprehension,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Manual Dexterity,3,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Finger Dexterity,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Control Precision,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Arm-Hand Steadiness,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Near Vision,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Problem Sensitivity,2,0
+1574,Forensic Science Technicians,Operate and maintain laboratory equipment and apparatus.,Deductive Reasoning,2,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Near Vision,3,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Manual Dexterity,3,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Finger Dexterity,3,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Arm-Hand Steadiness,2,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Control Precision,2,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Perceptual Speed,2,0
+1582,Forensic Science Technicians,Collect impressions of dust from surfaces to obtain and identify fingerprints.,Visual Color Discrimination,2,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Near Vision,3,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Inductive Reasoning,3,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Deductive Reasoning,2,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Visualization,2,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Spatial Orientation,2,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Problem Sensitivity,2,0
+18482,Forensic Science Technicians,Examine and analyze blood stain patterns at crime scenes.,Visual Color Discrimination,2,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Inductive Reasoning,3,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Deductive Reasoning,3,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Visualization,2,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Spatial Orientation,2,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Mathematical Reasoning,2,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Problem Sensitivity,2,0
+1583,Forensic Science Technicians,Analyze gunshot residue and bullet paths to determine how shootings occurred.,Near Vision,2,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Oral Comprehension,3,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Oral Expression,3,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Speech Recognition,2,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Speech Clarity,2,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Deductive Reasoning,2,0
+1589,Forensic Science Technicians,"Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.",Written Comprehension,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Manual Dexterity,3,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Finger Dexterity,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Arm-Hand Steadiness,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Control Precision,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Near Vision,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Mathematical Reasoning,2,0
+1575,Forensic Science Technicians,"Prepare solutions, reagents, or sample formulations needed for laboratory work.",Selective Attention,2,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Near Vision,3,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Perceptual Speed,3,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Inductive Reasoning,2,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Deductive Reasoning,2,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Visualization,2,0
+23966,Forensic Science Technicians,"Examine footwear, tire tracks, or other types of impressions.",Speed of Closure,2,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Near Vision,3,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Inductive Reasoning,3,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Perceptual Speed,2,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Deductive Reasoning,2,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Visual Color Discrimination,2,0
+23967,Forensic Science Technicians,"Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.",Problem Sensitivity,2,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Inductive Reasoning,3,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Deductive Reasoning,3,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Visualization,2,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Spatial Orientation,2,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Problem Sensitivity,2,0
+1580,Forensic Science Technicians,Reconstruct crime scenes to determine relationships among pieces of evidence.,Information Ordering,2,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Inductive Reasoning,3,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Deductive Reasoning,3,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Near Vision,2,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Perceptual Speed,2,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Visualization,2,0
+20401,Forensic Science Technicians,Determine types of bullets and specific weapons used in shootings.,Problem Sensitivity,2,0
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,Written Comprehension,3,0
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,Deductive Reasoning,3,0
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,Inductive Reasoning,2,0
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,Problem Sensitivity,2,0
+20400,Forensic Science Technicians,Review forensic analysts' reports for technical merit.,Near Vision,2,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Inductive Reasoning,3,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Deductive Reasoning,3,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Category Flexibility,2,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Problem Sensitivity,2,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Written Comprehension,2,0
+1573,Forensic Science Technicians,"Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.",Near Vision,2,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Near Vision,3,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Perceptual Speed,3,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Deductive Reasoning,2,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Visualization,2,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Speed of Closure,2,0
+1590,Forensic Science Technicians,"Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.",Inductive Reasoning,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Inductive Reasoning,3,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Deductive Reasoning,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Category Flexibility,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Near Vision,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Mathematical Reasoning,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Problem Sensitivity,2,0
+1578,Forensic Science Technicians,"Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.",Selective Attention,2,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Near Vision,3,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Manual Dexterity,3,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Finger Dexterity,2,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Arm-Hand Steadiness,2,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Inductive Reasoning,2,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Deductive Reasoning,2,0
+1587,Forensic Science Technicians,"Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.",Problem Sensitivity,2,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Written Comprehension,3,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Inductive Reasoning,2,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Deductive Reasoning,2,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Problem Sensitivity,2,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Near Vision,2,0
+23969,Forensic Science Technicians,Analyze data from computers or other digital media sources for evidence related to criminal activity.,Selective Attention,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Selective Attention,3,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Inductive Reasoning,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Problem Sensitivity,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Near Vision,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Mathematical Reasoning,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Manual Dexterity,2,0
+16980,Quality Control Analysts,"Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples.",Information Ordering,2,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Deductive Reasoning,3,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Inductive Reasoning,2,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Problem Sensitivity,2,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Written Comprehension,2,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Mathematical Reasoning,2,0
+16974,Quality Control Analysts,"Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release.",Number Facility,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Manual Dexterity,3,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Finger Dexterity,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Arm-Hand Steadiness,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Control Precision,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Near Vision,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Problem Sensitivity,2,0
+16978,Quality Control Analysts,"Calibrate, validate, or maintain laboratory equipment.",Deductive Reasoning,2,0
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,Problem Sensitivity,3,0
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,Selective Attention,2,0
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,Deductive Reasoning,2,0
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,Near Vision,2,0
+16961,Quality Control Analysts,Ensure that lab cleanliness and safety standards are maintained.,Written Comprehension,2,0
+16956,Quality Control Analysts,Perform visual inspections of finished products.,Near Vision,3,0
+16956,Quality Control Analysts,Perform visual inspections of finished products.,Perceptual Speed,3,0
+16956,Quality Control Analysts,Perform visual inspections of finished products.,Visual Color Discrimination,2,0
+16956,Quality Control Analysts,Perform visual inspections of finished products.,Selective Attention,2,0
+16956,Quality Control Analysts,Perform visual inspections of finished products.,Problem Sensitivity,2,0
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",Written Expression,3,0
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",Written Comprehension,2,0
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",Information Ordering,2,0
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",Selective Attention,2,0
+16977,Quality Control Analysts,"Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms.",Near Vision,2,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Number Facility,3,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Mathematical Reasoning,2,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Inductive Reasoning,2,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Written Comprehension,2,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Selective Attention,2,0
+16979,Quality Control Analysts,Compile laboratory test data and perform appropriate analyses.,Near Vision,2,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Problem Sensitivity,3,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Deductive Reasoning,3,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Inductive Reasoning,2,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Near Vision,2,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Manual Dexterity,2,0
+16959,Quality Control Analysts,Identify and troubleshoot equipment problems.,Selective Attention,2,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Written Expression,3,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Written Comprehension,3,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Deductive Reasoning,2,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Inductive Reasoning,2,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Information Ordering,2,0
+16964,Quality Control Analysts,"Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses.",Mathematical Reasoning,2,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Problem Sensitivity,3,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Inductive Reasoning,3,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Deductive Reasoning,2,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Written Expression,2,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Oral Expression,2,0
+16973,Quality Control Analysts,Investigate or report questionable test results.,Written Comprehension,2,0
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",Selective Attention,3,0
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",Deductive Reasoning,2,0
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",Problem Sensitivity,2,0
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",Written Comprehension,3,0
+16972,Quality Control Analysts,"Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols.",Information Ordering,2,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Problem Sensitivity,3,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Inductive Reasoning,3,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Deductive Reasoning,2,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Oral Expression,2,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Written Expression,2,0
+16975,Quality Control Analysts,Identify quality problems and recommend solutions.,Originality,2,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Inductive Reasoning,3,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Problem Sensitivity,3,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Deductive Reasoning,2,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Written Comprehension,2,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Oral Expression,2,0
+16971,Quality Control Analysts,Participate in out-of-specification and failure investigations and recommend corrective actions.,Originality,2,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Near Vision,3,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Problem Sensitivity,2,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Perceptual Speed,2,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Manual Dexterity,2,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Static Strength,2,0
+16967,Quality Control Analysts,Receive and inspect raw materials.,Visual Color Discrimination,2,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Oral Expression,3,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Speech Clarity,2,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Written Comprehension,2,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Information Ordering,2,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Deductive Reasoning,2,0
+16955,Quality Control Analysts,Train other analysts to perform laboratory procedures and assays.,Oral Comprehension,2,0
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,Written Expression,3,0
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,Written Comprehension,2,0
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,Information Ordering,2,0
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,Deductive Reasoning,2,0
+16966,Quality Control Analysts,Supply quality control data necessary for regulatory submissions.,Near Vision,2,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Oral Expression,3,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Oral Comprehension,3,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Speech Clarity,2,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Written Comprehension,2,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Deductive Reasoning,2,0
+16957,Quality Control Analysts,"Serve as a technical liaison between quality control and other departments, vendors, or contractors.",Written Expression,2,0
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,Written Expression,3,0
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,Written Comprehension,3,0
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,Deductive Reasoning,2,0
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,Information Ordering,2,0
+16965,Quality Control Analysts,Write or revise standard quality control operating procedures.,Inductive Reasoning,2,0
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,Written Comprehension,3,0
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,Deductive Reasoning,2,0
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,Problem Sensitivity,2,0
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,Oral Comprehension,2,0
+16958,Quality Control Analysts,Participate in internal assessments and audits as required.,Information Ordering,2,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Deductive Reasoning,3,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Written Comprehension,3,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Inductive Reasoning,2,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Problem Sensitivity,2,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Information Ordering,2,0
+16970,Quality Control Analysts,Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines.,Mathematical Reasoning,2,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Inductive Reasoning,3,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Deductive Reasoning,2,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Problem Sensitivity,2,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Originality,2,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Written Comprehension,2,0
+16976,Quality Control Analysts,Evaluate analytical methods and procedures to determine how they might be improved.,Mathematical Reasoning,2,0
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,Written Expression,3,0
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,Written Comprehension,3,0
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,Deductive Reasoning,2,0
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,Information Ordering,2,0
+16969,Quality Control Analysts,Prepare or review required method transfer documentation including technical transfer protocols or reports.,Near Vision,2,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Written Comprehension,3,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Deductive Reasoning,3,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Problem Sensitivity,2,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Inductive Reasoning,2,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Number Facility,2,0
+16968,Quality Control Analysts,Review data from contract laboratories to ensure accuracy and regulatory compliance.,Near Vision,2,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Inductive Reasoning,3,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Deductive Reasoning,2,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Originality,2,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Problem Sensitivity,2,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Written Comprehension,2,0
+16962,Quality Control Analysts,Develop and qualify new testing methods.,Mathematical Reasoning,2,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Oral Expression,3,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Oral Comprehension,2,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Information Ordering,2,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Written Comprehension,2,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Deductive Reasoning,2,0
+16963,Quality Control Analysts,Coordinate testing with contract laboratories and vendors.,Speech Clarity,1,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Inductive Reasoning,3,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Deductive Reasoning,2,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Problem Sensitivity,2,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Written Comprehension,2,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Originality,2,0
+16960,Quality Control Analysts,Evaluate new technologies and methods to make recommendations regarding their use.,Oral Expression,2,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Spatial Orientation,3,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Visualization,2,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Manual Dexterity,2,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Far Vision,2,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Inductive Reasoning,2,0
+16999,Remote Sensing Technicians,"Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems.",Selective Attention,2,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Problem Sensitivity,3,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Perceptual Speed,3,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Selective Attention,2,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Deductive Reasoning,2,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Near Vision,2,0
+16986,Remote Sensing Technicians,Verify integrity and accuracy of data contained in remote sensing image analysis systems.,Written Comprehension,2,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Visualization,3,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Spatial Orientation,2,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Inductive Reasoning,2,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Deductive Reasoning,2,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Information Ordering,2,0
+16991,Remote Sensing Technicians,Integrate remotely sensed data with other geospatial data.,Near Vision,2,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Oral Comprehension,3,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Oral Expression,2,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Speech Recognition,2,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Deductive Reasoning,2,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Written Comprehension,2,0
+16996,Remote Sensing Technicians,"Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs.",Information Ordering,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Visualization,3,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Near Vision,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Perceptual Speed,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Inductive Reasoning,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Category Flexibility,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Visual Color Discrimination,2,0
+16997,Remote Sensing Technicians,"Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines.",Deductive Reasoning,2,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Visualization,3,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Inductive Reasoning,2,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Deductive Reasoning,2,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Near Vision,2,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Mathematical Reasoning,2,0
+16998,Remote Sensing Technicians,"Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights.",Spatial Orientation,2,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Visualization,3,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Spatial Orientation,2,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Near Vision,2,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Perceptual Speed,2,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Manual Dexterity,2,0
+16990,Remote Sensing Technicians,"Merge scanned images or build photo mosaics of large areas, using image processing software.",Selective Attention,2,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Visualization,3,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Spatial Orientation,2,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Deductive Reasoning,2,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Inductive Reasoning,2,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Oral Comprehension,2,0
+16981,Remote Sensing Technicians,Participate in the planning or development of mapping projects.,Written Comprehension,2,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Written Expression,3,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Visualization,2,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Near Vision,2,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Written Comprehension,2,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Information Ordering,2,0
+16987,Remote Sensing Technicians,"Prepare documentation or presentations, including charts, photos, or graphs.",Inductive Reasoning,2,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Mathematical Reasoning,3,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Deductive Reasoning,2,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Problem Sensitivity,2,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Number Facility,2,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Near Vision,2,0
+16994,Remote Sensing Technicians,Correct raw data for errors due to factors such as skew or atmospheric variation.,Inductive Reasoning,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Manual Dexterity,3,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Finger Dexterity,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Arm-Hand Steadiness,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Control Precision,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Near Vision,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Deductive Reasoning,2,0
+16995,Remote Sensing Technicians,Calibrate data collection equipment.,Problem Sensitivity,2,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Information Ordering,3,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Deductive Reasoning,2,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Written Comprehension,2,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Inductive Reasoning,2,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Near Vision,2,0
+16993,Remote Sensing Technicians,Develop or maintain geospatial information databases.,Visualization,2,0

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "253",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Recommend temporary foster care and advise foster or adoptive parents."
+},
+{
+"task_id": "238",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Counsel students whose behavior, school progress, or mental or physical impairment indicate a need for assistance, diagnosing students' problems and arranging for needed services."
+},
+{
+"task_id": "249",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Evaluate personal characteristics and home conditions of foster home or adoption applicants."
+},
+{
+"task_id": "255",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Conduct social research."
+},
+{
+"task_id": "252",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Supervise other social workers."
+},
+{
+"task_id": "256",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Lead group counseling sessions that provide support in such areas as grief, stress, or chemical dependency."
+},
+{
+"task_id": "257",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Serve on policy-making committees, assist in community development, and assist client groups by lobbying for solutions to problems."
+},
+{
+"task_id": "254",
+"soc": "21-1021.00",
+"occupation": "Child, Family, and School Social Workers",
+"task_text": "Determine clients' eligibility for financial assistance."
+},
+{
+"task_id": "263",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Advocate for clients or patients to resolve crises."
+},
+{
+"task_id": "23910",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Educate clients about end-of-life symptoms and options to assist them in making informed decisions."
+},
+{
+"task_id": "258",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Collaborate with other professionals to evaluate patients' medical or physical condition and to assess client needs."
+},
+{
+"task_id": "260",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Refer patient, client, or family to community resources to assist in recovery from mental or physical illness and to provide access to services such as financial assistance, legal aid, housing, job placement or education."
+},
+{
+"task_id": "265",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Utilize consultation data and social work experience to plan and coordinate client or patient care and rehabilitation, following through to ensure service efficacy."
+},
+{
+"task_id": "267",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Monitor, evaluate, and record client progress according to measurable goals described in treatment and care plan."
+},
+{
+"task_id": "264",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Identify environmental impediments to client or patient progress through interviews and review of patient records."
+},
+{
+"task_id": "261",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Counsel clients and patients in individual and group sessions to help them overcome dependencies, recover from illness, and adjust to life."
+},
+{
+"task_id": "15227",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Plan discharge from care facility to home or other care facility."
+},
+{
+"task_id": "262",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Organize support groups or counsel family members to assist them in understanding, dealing with, and supporting the client or patient."
+},
+{
+"task_id": "266",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Modify treatment plans to comply with changes in clients' status."
+},
+{
+"task_id": "268",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Supervise and direct other workers providing services to clients or patients."
+},
+{
+"task_id": "272",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Plan and conduct programs to combat social problems, prevent substance abuse, or improve community health and counseling services."
+},
+{
+"task_id": "269",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Develop or advise on social policy and assist in community development."
+},
+{
+"task_id": "271",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Conduct social research to advance knowledge in the social work field."
+},
+{
+"task_id": "259",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Investigate child abuse or neglect cases and take authorized protective action when necessary."
+},
+{
+"task_id": "270",
+"soc": "21-1022.00",
+"occupation": "Healthcare Social Workers",
+"task_text": "Oversee Medicaid- and Medicare-related paperwork and recordkeeping in hospitals."
+},
+{
+"task_id": "273",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Counsel clients in individual or group sessions to assist them in dealing with substance abuse, mental or physical illness, poverty, unemployment, or physical abuse."
+},
+{
+"task_id": "275",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Collaborate with counselors, physicians, or nurses to plan or coordinate treatment, drawing on social work experience and patient needs."
+},
+{
+"task_id": "276",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Monitor, evaluate, and record client progress with respect to treatment goals."
+},
+{
+"task_id": "18487",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Interview clients, review records, conduct assessments, or confer with other professionals to evaluate the mental or physical condition of clients or patients."
+},
+{
+"task_id": "281",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Supervise or direct other workers who provide services to clients or patients."
+},
+{
+"task_id": "279",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Modify treatment plans according to changes in client status."
+},
+{
+"task_id": "18489",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Assist clients in adhering to treatment plans, such as setting up appointments, arranging for transportation to appointments, or providing support."
+},
+{
+"task_id": "18488",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Educate clients or community members about mental or physical illness, abuse, medication, or available community resources."
+},
+{
+"task_id": "278",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Counsel or aid family members to assist them in understanding, dealing with, or supporting the client or patient."
+},
+{
+"task_id": "18490",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Increase social work knowledge by reviewing current literature, conducting social research, or attending seminars, training workshops, or classes."
+},
+{
+"task_id": "277",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Refer patient, client, or family to community resources for housing or treatment to assist in recovery from mental or physical illness, following through to ensure service efficacy."
+},
+{
+"task_id": "280",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Plan or conduct programs to prevent substance abuse, combat social problems, or improve health or counseling services in community."
+},
+{
+"task_id": "282",
+"soc": "21-1023.00",
+"occupation": "Mental Health and Substance Abuse Social Workers",
+"task_text": "Develop or advise on social policy or assist in community development."
+},
+{
+"task_id": "20236",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Prepare and distribute health education materials, such as reports, bulletins, and visual aids, to address smoking, vaccines, and other public health concerns."
+},
+{
+"task_id": "9218",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop and maintain cooperative working relationships with agencies and organizations interested in public health care."
+},
+{
+"task_id": "9222",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Maintain databases, mailing lists, telephone networks, and other information to facilitate the functioning of health education programs."
+},
+{
+"task_id": "9216",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Document activities and record information, such as the numbers of applications completed, presentations conducted, and persons assisted."
+},
+{
+"task_id": "9217",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop and present health education and promotion programs, such as training workshops, conferences, and school or community presentations."
+},
+{
+"task_id": "9221",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Collaborate with health specialists and civic groups to determine community health needs and the availability of services and to develop goals for meeting needs."
+},
+{
+"task_id": "9229",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop, conduct, or coordinate health needs assessments and other public health surveys."
+},
+{
+"task_id": "9223",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Supervise professional and technical staff in implementing health programs, objectives, and goals."
+},
+{
+"task_id": "9220",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop operational plans and policies necessary to achieve health education objectives and services."
+},
+{
+"task_id": "9225",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Provide program information to the public by preparing and presenting press releases, conducting media campaigns, or maintaining program-related Web sites."
+},
+{
+"task_id": "9228",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop and maintain health education libraries to provide resources for staff and community agencies."
+},
+{
+"task_id": "9224",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Design and conduct evaluations and diagnostic studies to assess the quality and performance of health education programs."
+},
+{
+"task_id": "9226",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop, prepare, and coordinate grant applications and grant-related activities to obtain funding for health education programs and related work."
+},
+{
+"task_id": "9227",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Provide guidance to agencies and organizations on assessment of health education needs and on development and delivery of health education programs."
+},
+{
+"task_id": "20237",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Design and administer training programs for new employees and continuing education for existing employees."
+},
+{
+"task_id": "20235",
+"soc": "21-1091.00",
+"occupation": "Health Education Specialists",
+"task_text": "Develop educational materials and programs for community agencies, local government, and state government."
+},
+{
+"task_id": "1614",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Prepare and maintain case folder for each assigned inmate or offender."
+},
+{
+"task_id": "1618",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Gather information about offenders' backgrounds by talking to offenders, their families and friends, and other people who have relevant information."
+},
+{
+"task_id": "1625",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Interview probationers and parolees regularly to evaluate their progress in accomplishing goals and maintaining the terms specified in their probation contracts and rehabilitation plans."
+},
+{
+"task_id": "1617",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Discuss with offenders how such issues as drug and alcohol abuse and anger management problems might have played roles in their criminal behavior."
+},
+{
+"task_id": "20056",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Supervise people on community-based sentences, such as electronically monitored home detention, and provide field supervision of probationers by conducting curfew checks or visits to home, work, or school."
+},
+{
+"task_id": "1628",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Investigate alleged parole violations, using interviews, surveillance, and search and seizure."
+},
+{
+"task_id": "1624",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Recommend remedial action or initiate court action in response to noncompliance with terms of probation or parole."
+},
+{
+"task_id": "1621",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Arrange for medical, mental health, or substance abuse treatment services according to individual needs or court orders."
+},
+{
+"task_id": "1620",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Develop liaisons and networks with other parole officers, community agencies, correctional institutions, psychiatric facilities, and aftercare agencies to plan for helping offenders with life adjustments."
+},
+{
+"task_id": "20055",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Administer drug and alcohol tests, including random drug screens of offenders, to verify compliance with substance abuse treatment programs."
+},
+{
+"task_id": "1616",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Inform offenders or inmates of requirements of conditional release, such as office visits, restitution payments, or educational and employment stipulations."
+},
+{
+"task_id": "1631",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Participate in decisions about whether cases should go before courts and which court should hear them."
+},
+{
+"task_id": "1615",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Write reports describing offenders' progress."
+},
+{
+"task_id": "1629",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Conduct prehearing and presentencing investigations and testify in court regarding offenders' backgrounds and recommended sentences and sentencing conditions."
+},
+{
+"task_id": "1623",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Arrange for postrelease services, such as employment, housing, counseling, education, and social activities."
+},
+{
+"task_id": "1622",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Provide offenders or inmates with assistance in matters concerning detainers, sentences in other jurisdictions, writs, and applications for social assistance."
+},
+{
+"task_id": "1633",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Develop and prepare packets containing information about social service agencies, assistance organizations, and programs that might be useful for inmates or offenders."
+},
+{
+"task_id": "1619",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Develop rehabilitation programs for assigned offenders or inmates, establishing rules of conduct, goals, and objectives."
+},
+{
+"task_id": "1630",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Recommend appropriate penitentiary for initial placement of an offender."
+},
+{
+"task_id": "1627",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Assess the suitability of penitentiary inmates for release under parole and statutory release programs and submit recommendations to parole boards."
+},
+{
+"task_id": "1632",
+"soc": "21-1092.00",
+"occupation": "Probation Officers and Correctional Treatment Specialists",
+"task_text": "Identify and approve work placements for offenders with community service sentences."
+},
+{
+"task_id": "21179",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Assess clients' cognitive abilities and physical and emotional needs to determine appropriate interventions."
+},
+{
+"task_id": "21180",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Develop and implement behavioral management and care plans for clients."
+},
+{
+"task_id": "3754",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Keep records or prepare reports for owner or management concerning visits with clients."
+},
+{
+"task_id": "3755",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Visit individuals in homes or attend group meetings to provide information on agency services, requirements, or procedures."
+},
+{
+"task_id": "3757",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Submit reports and review reports or problems with superior."
+},
+{
+"task_id": "3759",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Interview individuals or family members to compile information on social, educational, criminal, institutional, or drug history."
+},
+{
+"task_id": "3753",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Provide information or refer individuals to public or private agencies or community services for assistance."
+},
+{
+"task_id": "3756",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Advise clients regarding food stamps, child care, food, money management, sanitation, or housekeeping."
+},
+{
+"task_id": "3758",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Oversee day-to-day group activities of residents in institution."
+},
+{
+"task_id": "3770",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Assist in locating housing for displaced individuals."
+},
+{
+"task_id": "3765",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Consult with supervisor concerning programs for individual families."
+},
+{
+"task_id": "3764",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Demonstrate use and care of equipment for tenant use."
+},
+{
+"task_id": "3772",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Assist in planning food budgets, using charts or sample budgets."
+},
+{
+"task_id": "3771",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Assist clients with preparation of forms, such as tax or rent forms."
+},
+{
+"task_id": "3762",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Explain rules established by owner or management, such as sanitation or maintenance requirements or parking regulations."
+},
+{
+"task_id": "3767",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Observe clients' food selections and recommend alternate economical and nutritional food choices."
+},
+{
+"task_id": "3763",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Observe and discuss meal preparation and suggest alternate methods of food preparation."
+},
+{
+"task_id": "3761",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Transport and accompany clients to shopping areas or to appointments, using automobile."
+},
+{
+"task_id": "3768",
+"soc": "21-1093.00",
+"occupation": "Social and Human Service Assistants",
+"task_text": "Inform tenants of facilities, such as laundries or playgrounds."
+},
+{
+"task_id": "19031",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Maintain updated client records with plans, notes, appropriate forms, or related information."
+},
+{
+"task_id": "19017",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to improving general health, such as diet or exercise."
+},
+{
+"task_id": "19028",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Identify or contact members of high-risk or otherwise targeted groups, such as members of minority populations, low-income populations, or pregnant women."
+},
+{
+"task_id": "19026",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Contact clients in person, by phone, or in writing to ensure they have completed required or recommended actions."
+},
+{
+"task_id": "19027",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Distribute flyers, brochures, or other informational or educational documents to inform members of a targeted community."
+},
+{
+"task_id": "19036",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Refer community members to needed health services."
+},
+{
+"task_id": "19024",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Attend community meetings or health fairs to understand community issues or build relationships with community members."
+},
+{
+"task_id": "19033",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Perform basic diagnostic procedures, such as blood pressure screening, breast cancer screening, or communicable disease screening."
+},
+{
+"task_id": "19016",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to diagnostic screenings, such as breast cancer screening, pap smears, glaucoma tests, or diabetes screenings."
+},
+{
+"task_id": "19018",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to risk or prevention of conditions, such as lead poisoning, human immunodeficiency virus (HIV), prenatal substance abuse, or domestic violence."
+},
+{
+"task_id": "19015",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Administer immunizations or other basic preventive treatments."
+},
+{
+"task_id": "19029",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Identify the particular health care needs of individuals in a community or target area."
+},
+{
+"task_id": "19020",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to self-care, such as diabetes management."
+},
+{
+"task_id": "19025",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Conduct home visits for pregnant women, newborn infants, or other high-risk individuals to monitor their progress or assess their needs."
+},
+{
+"task_id": "19043",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Transport or accompany clients to scheduled health appointments or referral sites."
+},
+{
+"task_id": "19023",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advocate for individual or community health needs with government agencies or health service providers."
+},
+{
+"task_id": "19042",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Report incidences of child or elder abuse, neglect, or threats of harm to authorities, as required."
+},
+{
+"task_id": "19038",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Teach classes or otherwise disseminate medical or dental health information to school groups, community groups, or targeted families or individuals, in a manner consistent with cultural norms."
+},
+{
+"task_id": "19019",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to sanitation or hygiene, such as flossing or hand washing."
+},
+{
+"task_id": "19040",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Collect information from individuals to compile vital statistics about the general health of community members."
+},
+{
+"task_id": "19039",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Assist families to apply for social services, including Medicaid or Women, Infants, and Children (WIC)."
+},
+{
+"task_id": "19021",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups on issues related to social or intellectual development, such as education, childcare, or problem solving."
+},
+{
+"task_id": "19034",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Provide basic health services, such as first aid."
+},
+{
+"task_id": "19030",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Interpret, translate, or provide cultural mediation related to health services or information for community members."
+},
+{
+"task_id": "19032",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Monitor nutrition of children, elderly, or other high-risk groups."
+},
+{
+"task_id": "19022",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Advise clients or community groups to ensure parental understanding of the importance of childhood immunizations and how to access immunization services."
+},
+{
+"task_id": "19041",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Develop plans or formal contracts for individuals, families, or community groups to improve overall health."
+},
+{
+"task_id": "19035",
+"soc": "21-1094.00",
+"occupation": "Community Health Workers",
+"task_text": "Provide feedback to health service providers regarding improving service accessibility or acceptability."
+},
+{
+"task_id": "10934",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Pray and promote spirituality."
+},
+{
+"task_id": "10936",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Prepare and deliver sermons or other talks."
+},
+{
+"task_id": "10935",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Read from sacred texts, such as the Bible, Torah, or Koran."
+},
+{
+"task_id": "10937",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Organize and lead regular religious services."
+},
+{
+"task_id": "10939",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Instruct people who seek conversion to a particular faith."
+},
+{
+"task_id": "10938",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Share information about religious issues by writing articles, giving speeches, or teaching."
+},
+{
+"task_id": "10940",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Counsel individuals or groups concerning their spiritual, emotional, or personal needs."
+},
+{
+"task_id": "10943",
+"soc": "21-2011.00",
+"occupation": "Clergy",
+"task_text": "Administer religious rites or ordinances."
+}
+]

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "12580",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers."
+},
+{
+"task_id": "12581",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications."
+},
+{
+"task_id": "12582",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment."
+},
+{
+"task_id": "12583",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Load semiconductor material into furnace."
+},
+{
+"task_id": "12584",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals."
+},
+{
+"task_id": "12585",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Count, sort, and weigh processed items."
+},
+{
+"task_id": "12586",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Calculate etching time based on thickness of material to be removed from wafers or crystals."
+},
+{
+"task_id": "12587",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Inspect equipment for leaks, diagnose malfunctions, and request repairs."
+},
+{
+"task_id": "12588",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment."
+},
+{
+"task_id": "12589",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Stamp, etch, or scribe identifying information on finished component according to specifications."
+},
+{
+"task_id": "12591",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Scribe or separate wafers into dice."
+},
+{
+"task_id": "12592",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Connect reactor to computer, using hand tools and power tools."
+},
+{
+"task_id": "12595",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems."
+},
+{
+"task_id": "19484",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software."
+},
+{
+"task_id": "19465",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Create prints according to customer specifications and laboratory protocols."
+},
+{
+"task_id": "19479",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures."
+},
+{
+"task_id": "19486",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Set or adjust machine controls, according to specifications, type of operation, or material requirements."
+},
+{
+"task_id": "19483",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Review computer-processed digital images for quality."
+},
+{
+"task_id": "19476",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Operate scanners or related computer equipment to digitize negatives, photographic prints, or other images."
+},
+{
+"task_id": "19467",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Fill tanks of processing machines with solutions such as developer, dyes, stop-baths, fixers, bleaches, or washes."
+},
+{
+"task_id": "19473",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Measure and mix chemicals to prepare solutions for processing, according to formulas."
+},
+{
+"task_id": "19471",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Load digital images onto computers directly from cameras or from storage devices, such as flash memory cards or universal serial bus (USB) devices."
+},
+{
+"task_id": "19477",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Operate special equipment to perform tasks such as transferring film to videotape or producing photographic enlargements."
+},
+{
+"task_id": "19466",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Examine developed prints for defects, such as broken lines, spots, or blurs."
+},
+{
+"task_id": "19480",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Read work orders to determine required processes, techniques, materials, or equipment."
+},
+{
+"task_id": "19470",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Load circuit boards, racks or rolls of film, negatives, or printing paper into processing or printing machines."
+},
+{
+"task_id": "19469",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Insert processed negatives and prints into envelopes for delivery to customers."
+},
+{
+"task_id": "19481",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Reprint originals for enlargement or in sections to be pieced together."
+},
+{
+"task_id": "19488",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Clean or maintain photoprocessing or darkroom equipment, using ultrasonic equipment or cleaning and rinsing solutions."
+},
+{
+"task_id": "19474",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Monitor equipment operation to detect malfunctions."
+},
+{
+"task_id": "19472",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Maintain records, such as quantities or types of processing completed, materials used, or customer charges."
+},
+{
+"task_id": "19468",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Immerse film, negatives, paper, or prints in developing solutions, fixing solutions, and water to complete photographic development processes."
+},
+{
+"task_id": "19492",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Examine quality of film fades or dissolves for potential color corrections, using color analyzers."
+},
+{
+"task_id": "19499",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity."
+},
+{
+"task_id": "19491",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration."
+},
+{
+"task_id": "19478",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Place sensitized paper in frames of projection printers, photostats, or other reproduction machines."
+},
+{
+"task_id": "19500",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Upload digital images onto Web sites for customers."
+},
+{
+"task_id": "19496",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Produce timed prints with separate densities or color settings for each scene of a production."
+},
+{
+"task_id": "19498",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Splice broken or separated film and mount film on reels."
+},
+{
+"task_id": "19482",
+"soc": "51-9151.00",
+"occupation": "Photographic Process Workers and Processing Machine Operators",
+"task_text": "Retouch photographic negatives or original prints to correct defects."
+},
+{
+"task_id": "11932",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures."
+},
+{
+"task_id": "11944",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Set up and operate computer-controlled machines or robots to perform one or more machine functions on metal or plastic workpieces."
+},
+{
+"task_id": "11934",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Mount, install, align, and secure tools, attachments, fixtures, and workpieces on machines, using hand tools and precision measuring instruments."
+},
+{
+"task_id": "11946",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Review program specifications or blueprints to determine and set machine operations and sequencing, finished workpiece dimensions, or numerical control sequences."
+},
+{
+"task_id": "11937",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences."
+},
+{
+"task_id": "11935",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems."
+},
+{
+"task_id": "11955",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Implement changes to machine programs, and enter new specifications, using computers."
+},
+{
+"task_id": "11940",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Calculate machine speed and feed ratios and the size and position of cuts."
+},
+{
+"task_id": "11953",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Transfer commands from servers to computer numerical control (CNC) modules, using computer network links."
+},
+{
+"task_id": "11933",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Remove and replace dull cutting tools."
+},
+{
+"task_id": "11942",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Check to ensure that workpieces are properly lubricated and cooled during machine operation."
+},
+{
+"task_id": "11936",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction."
+},
+{
+"task_id": "11947",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Monitor machine operation and control panel displays, and compare readings to specifications to detect malfunctions."
+},
+{
+"task_id": "11949",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Maintain machines and remove and replace broken or worn machine tools, using hand tools."
+},
+{
+"task_id": "11941",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Insert control instructions into machine control units to start operation."
+},
+{
+"task_id": "11939",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Modify cutting programs to account for problems encountered during operation, and save modified programs."
+},
+{
+"task_id": "11956",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Write simple programs for computer-controlled machine tools."
+},
+{
+"task_id": "11938",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Lift workpieces to machines manually or with hoists or cranes."
+},
+{
+"task_id": "11943",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Input initial part dimensions into machine control panels."
+},
+{
+"task_id": "11954",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Set up future jobs while machines are operating."
+},
+{
+"task_id": "11945",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Confer with supervisors or programmers to resolve machine malfunctions or production errors or to obtain approval to continue production."
+},
+{
+"task_id": "11950",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Stack or load finished items, or place items on conveyor systems."
+},
+{
+"task_id": "11948",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Control coolant systems."
+},
+{
+"task_id": "11951",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Clean machines, tooling, or parts, using solvents or solutions and rags."
+},
+{
+"task_id": "11952",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Enter commands or load control media, such as tapes, cards, or disks, into machine controllers to retrieve programmed instructions."
+},
+{
+"task_id": "11958",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Lay out and mark areas of parts to be shot peened and fill hoppers with shot."
+},
+{
+"task_id": "11957",
+"soc": "51-9161.00",
+"occupation": "Computer Numerically Controlled Tool Operators",
+"task_text": "Examine electronic components for defects or completeness of laser-beam trimming, using microscopes."
+},
+{
+"task_id": "11959",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Determine the sequence of machine operations, and select the proper cutting tools needed to machine workpieces into the desired shapes."
+},
+{
+"task_id": "11961",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates."
+},
+{
+"task_id": "11963",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications."
+},
+{
+"task_id": "11966",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Write programs in the language of a machine's controller and store programs on media, such as punch tapes, magnetic tapes, or disks."
+},
+{
+"task_id": "11962",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Determine reference points, machine cutting paths, or hole locations, and compute angular and linear dimensions, radii, and curvatures."
+},
+{
+"task_id": "11968",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Enter computer commands to store or retrieve parts patterns, graphic displays, or programs that transfer data to other media."
+},
+{
+"task_id": "11960",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved."
+},
+{
+"task_id": "11967",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Modify existing programs to enhance efficiency."
+},
+{
+"task_id": "11965",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers."
+},
+{
+"task_id": "11971",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Sort shop orders into groups to maximize materials utilization and minimize machine setup time."
+},
+{
+"task_id": "11964",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Compare encoded tapes or computer printouts with original part specifications and blueprints to verify accuracy of instructions."
+},
+{
+"task_id": "11969",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Prepare geometric layouts from graphic displays, using computer-assisted drafting software or drafting instruments and graph paper."
+},
+{
+"task_id": "20922",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Perform preventative maintenance or minor repairs on machines."
+},
+{
+"task_id": "24013",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Order tooling for jobs."
+},
+{
+"task_id": "11970",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Write instruction sheets and cutter lists for a machine's controller to guide setup and encode numerical control tapes."
+},
+{
+"task_id": "11973",
+"soc": "51-9162.00",
+"occupation": "Computer Numerically Controlled Tool Programmers",
+"task_text": "Align and secure pattern film on reference tables of optical programmers, and observe enlarger scope views of printed circuit boards."
+},
+{
+"task_id": "12607",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Align and position materials being joined to ensure accurate application of adhesive or heat sealing."
+},
+{
+"task_id": "12598",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Adjust machine components according to specifications such as widths, lengths, and thickness of materials and amounts of glue, cement, or adhesive required."
+},
+{
+"task_id": "12599",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Monitor machine operations to detect malfunctions and report or resolve problems."
+},
+{
+"task_id": "12604",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Start machines, and turn valves or move controls to feed, admit, apply, or transfer materials and adhesives, and to adjust temperature, pressure, and time settings."
+},
+{
+"task_id": "12601",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Fill machines with glue, cement, or adhesives."
+},
+{
+"task_id": "12605",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Perform test production runs and make adjustments as necessary to ensure that completed products meet standards and specifications."
+},
+{
+"task_id": "12597",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Examine and measure completed materials or products to verify conformance to specifications, using measuring devices such as tape measures, gauges, or calipers."
+},
+{
+"task_id": "12600",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Read work orders and communicate with coworkers to determine machine and equipment settings and adjustments and supply and product specifications."
+},
+{
+"task_id": "12609",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Remove and stack completed materials or products, and restock materials to be joined."
+},
+{
+"task_id": "12608",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Observe gauges, meters, and control panels to obtain information about equipment temperatures and pressures, or the speed of feeders or conveyors."
+},
+{
+"task_id": "12603",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Maintain production records such as quantities, dimensions, and thicknesses of materials processed."
+},
+{
+"task_id": "12606",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Remove jammed materials from machines and readjust components as necessary to resume normal operations."
+},
+{
+"task_id": "12602",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Mount or load material such as paper, plastic, wood, or rubber in feeding mechanisms of cementing or gluing machines."
+},
+{
+"task_id": "12611",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Transport materials, supplies, and finished products between storage and work areas, using forklifts."
+},
+{
+"task_id": "12610",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Clean and maintain gluing and cementing machines, using solutions, lubricants, brushes, and scrapers."
+},
+{
+"task_id": "12612",
+"soc": "51-9191.00",
+"occupation": "Adhesive Bonding Machine Operators and Tenders",
+"task_text": "Measure and mix ingredients to prepare glue."
+},
+{
+"task_id": "14368",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations."
+},
+{
+"task_id": "14372",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions."
+},
+{
+"task_id": "14373",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines."
+},
+{
+"task_id": "14369",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water."
+},
+{
+"task_id": "14367",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber."
+},
+{
+"task_id": "14375",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Record gauge readings, materials used, processing times, or test results in production logs."
+},
+{
+"task_id": "14374",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Examine and inspect machines to detect malfunctions."
+},
+{
+"task_id": "14370",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes."
+},
+{
+"task_id": "14371",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity."
+},
+{
+"task_id": "14376",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns."
+},
+{
+"task_id": "14377",
+"soc": "51-9192.00",
+"occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+"task_text": "Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks."
+},
+{
+"task_id": "8544",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Record temperatures, amounts of materials processed, or test results on report forms."
+},
+{
+"task_id": "8543",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Monitor pressure gauges, ammeters, flowmeters, thermometers, or products, and adjust controls to maintain specified conditions, such as feed rate, product consistency, temperature, air pressure, and machine speed."
+},
+{
+"task_id": "8545",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Read dials and gauges on panel control boards to ascertain temperatures, alkalinities, and densities of mixtures, and turn valves to obtain specified mixtures."
+},
+{
+"task_id": "8547",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Start machinery, such as pumps, feeders, or conveyors, and turn valves to heat, admit, or transfer products, refrigerants, or mixes."
+},
+{
+"task_id": "8546",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary."
+},
+{
+"task_id": "8548",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Assemble equipment, and attach pipes, fittings, or valves, using hand tools."
+},
+{
+"task_id": "8553",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Measure or weigh specified amounts of ingredients or materials, and load them into tanks, vats, hoppers, or other equipment."
+},
+{
+"task_id": "8542",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Adjust machine or freezer speed and air intake to obtain desired consistency and amount of product."
+},
+{
+"task_id": "8550",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Weigh packages and adjust freezer air valves or switches on filler heads to obtain specified amounts of product in each container."
+},
+{
+"task_id": "8557",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Inspect and flush lines with solutions or steam, and spray equipment with sterilizing solutions."
+},
+{
+"task_id": "8554",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Load and position wrapping paper, sticks, bags, or cartons into dispensing machines."
+},
+{
+"task_id": "8559",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Sample and test product characteristics such as specific gravity, acidity, and sugar content, using hydrometers, pH meters, or refractometers."
+},
+{
+"task_id": "8552",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Start agitators to blend contents, or start beater, scraper, and expeller blades to mix contents with air and prevent sticking."
+},
+{
+"task_id": "8555",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Insert forming fixtures, and start machines that cut frozen products into measured portions or specified shapes."
+},
+{
+"task_id": "8556",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Place or position containers into equipment, and remove containers after completion of cooling or freezing processes."
+},
+{
+"task_id": "8549",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools."
+},
+{
+"task_id": "8560",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Activate mechanical rakes to regulate flow of ice from storage bins to vats."
+},
+{
+"task_id": "8551",
+"soc": "51-9193.00",
+"occupation": "Cooling and Freezing Equipment Operators and Tenders",
+"task_text": "Stir material with spoons or paddles to mix ingredients or allow even cooling and prevent coagulation."
+},
+{
+"task_id": "14395",
+"soc": "51-9194.00",
+"occupation": "Etchers and Engravers",
+"task_text": "Inspect etched work for depth of etching, uniformity, and defects, using calibrated microscopes, gauges, fingers, or magnifying lenses."
+},
+{
+"task_id": "14386",
+"soc": "51-9194.00",
+"occupation": "Etchers and Engravers",
+"task_text": "Examine sketches, diagrams, samples, blueprints, or photographs to decide how designs are to be etched, cut, or engraved onto workpieces."
+}
+]

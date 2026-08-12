@@ -1,0 +1,782 @@
+[
+{
+"task_id": "21974",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Use computer-aided drafting equipment or conventional drafting stations, technical handbooks, tables, calculators, or traditional drafting tools, such as boards, pencils, protractors, or T-squares."
+},
+{
+"task_id": "1447",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Develop detailed design drawings and specifications for mechanical equipment, dies, tools, and controls, using computer-assisted drafting (CAD) equipment."
+},
+{
+"task_id": "20964",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Produce three-dimensional models, using computer-aided design (CAD) software."
+},
+{
+"task_id": "1455",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Lay out and draw schematic, orthographic, or angle views to depict functional relationships of components, assemblies, systems, and machines."
+},
+{
+"task_id": "1452",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Modify and revise designs to correct operating deficiencies or to reduce production problems."
+},
+{
+"task_id": "1449",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Review and analyze specifications, sketches, drawings, ideas, and related data to assess factors affecting component designs and the procedures and instructions to be followed."
+},
+{
+"task_id": "1454",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Check dimensions of materials to be used and assign numbers to the materials."
+},
+{
+"task_id": "1453",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Design scale or full-size blueprints of specialty items, such as furniture and automobile body or chassis components."
+},
+{
+"task_id": "1450",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Compute mathematical formulas to develop and design detailed specifications for components or machinery, using computer-assisted equipment."
+},
+{
+"task_id": "1448",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Coordinate with and consult other workers to design, lay out, or detail components and systems and to resolve design or other problems."
+},
+{
+"task_id": "1456",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Confer with customer representatives to review schematics and answer questions pertaining to installation of systems."
+},
+{
+"task_id": "1451",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Position instructions and comments onto drawings."
+},
+{
+"task_id": "1458",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Supervise and train other drafters, technologists, and technicians."
+},
+{
+"task_id": "1459",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Lay out, draw, and reproduce illustrations for reference manuals and technical publications to describe operation and maintenance of mechanical systems."
+},
+{
+"task_id": "1457",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Draw freehand sketches of designs, trace finished drawings onto designated paper for the reproduction of blueprints, and reproduce working drawings on copy machines."
+},
+{
+"task_id": "1460",
+"soc": "17-3013.00",
+"occupation": "Mechanical Drafters",
+"task_text": "Shade or color drawings to clarify and emphasize details and dimensions or eliminate background, using ink, crayon, airbrush, and overlays."
+},
+{
+"task_id": "10888",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Test aircraft systems under simulated operational conditions, performing systems readiness tests and pre- and post-operational checkouts, to establish design or fabrication parameters."
+},
+{
+"task_id": "10885",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Identify required data, data acquisition plans, and test parameters, setting up equipment to conform to these specifications."
+},
+{
+"task_id": "10881",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Inspect, diagnose, maintain, and operate test setups and equipment to detect malfunctions."
+},
+{
+"task_id": "10883",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Confer with engineering personnel regarding details and implications of test procedures and results."
+},
+{
+"task_id": "10887",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Operate and calibrate computer systems and devices to comply with test requirements and to perform data acquisition and analysis."
+},
+{
+"task_id": "10882",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Record and interpret test data on parts, assemblies, and mechanisms."
+},
+{
+"task_id": "10884",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Adjust, repair, or replace faulty components of test setups and equipment."
+},
+{
+"task_id": "10889",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Fabricate and install parts and systems to be tested in test equipment, using hand tools, power tools, and test instruments."
+},
+{
+"task_id": "10890",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Finish vehicle instrumentation and deinstrumentation."
+},
+{
+"task_id": "10886",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Construct and maintain test facilities for aircraft parts and systems, according to specifications."
+},
+{
+"task_id": "21102",
+"soc": "17-3021.00",
+"occupation": "Aerospace Engineering and Operations Technologists and Technicians",
+"task_text": "Design electrical and mechanical systems for avionic instrumentation applications."
+},
+{
+"task_id": "1461",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Calculate dimensions, square footage, profile and component specifications, and material quantities, using calculator or computer."
+},
+{
+"task_id": "1464",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Read and review project blueprints and structural specifications to determine dimensions of structure or system and material requirements."
+},
+{
+"task_id": "1462",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications."
+},
+{
+"task_id": "1466",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions."
+},
+{
+"task_id": "1463",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Analyze proposed site factors and design maps, graphs, tracings, and diagrams to illustrate findings."
+},
+{
+"task_id": "1465",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Prepare reports and document project activities and data."
+},
+{
+"task_id": "1470",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Report maintenance problems occurring at project site to supervisor and negotiate changes to resolve system conflicts."
+},
+{
+"task_id": "1467",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Inspect project site and evaluate contractor work to detect design malfunctions and ensure conformance to design specifications and applicable codes."
+},
+{
+"task_id": "1471",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Conduct materials test and analysis, using tools and equipment and applying engineering knowledge."
+},
+{
+"task_id": "1469",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Develop plans and estimate costs for installation of systems, utilization of facilities, or construction of structures."
+},
+{
+"task_id": "20965",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Develop project budgets by estimating the cost of project activities."
+},
+{
+"task_id": "1468",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Plan and conduct field surveys to locate new sites and analyze details of project sites."
+},
+{
+"task_id": "1472",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Respond to public suggestions and complaints."
+},
+{
+"task_id": "20966",
+"soc": "17-3022.00",
+"occupation": "Civil Engineering Technologists and Technicians",
+"task_text": "Negotiate with contractors on prices for new contracts or modifications to existing contracts."
+},
+{
+"task_id": "21975",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Modify, maintain, or repair electronics equipment or systems to ensure proper functioning."
+},
+{
+"task_id": "21976",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Replace defective components or parts, using hand tools and precision instruments."
+},
+{
+"task_id": "21977",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Set up and operate specialized or standard test equipment to diagnose, test, or analyze the performance of electronic components, assemblies, or systems."
+},
+{
+"task_id": "21978",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Read blueprints, wiring diagrams, schematic drawings, or engineering instructions for assembling electronics units, applying knowledge of electronic theory and components."
+},
+{
+"task_id": "21979",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Identify and resolve equipment malfunctions, working with manufacturers or field representatives as necessary to procure replacement parts."
+},
+{
+"task_id": "21980",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Assemble electrical systems or prototypes, using hand tools or measuring instruments."
+},
+{
+"task_id": "21981",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Review electrical engineering plans to ensure adherence to design specifications and compliance with applicable electrical codes and standards."
+},
+{
+"task_id": "21982",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Assemble, test, or maintain circuitry or electronic components, according to engineering instructions, technical manuals, or knowledge of electronics, using hand or power tools."
+},
+{
+"task_id": "21983",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Review existing electrical engineering criteria to identify necessary revisions, deletions, or amendments to outdated material."
+},
+{
+"task_id": "21984",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Maintain system logs or manuals to document testing or operation of equipment."
+},
+{
+"task_id": "21985",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Select electronics equipment, components, or systems to meet functional specifications."
+},
+{
+"task_id": "21986",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Calculate design specifications or cost, material, and resource estimates, and prepare project schedules and budgets."
+},
+{
+"task_id": "21987",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Educate equipment operators on the proper use of equipment."
+},
+{
+"task_id": "21988",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Supervise the installation or operation of electronic equipment or systems."
+},
+{
+"task_id": "21989",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Compile and maintain records documenting engineering schematics, installed equipment, installation or operational problems, resources used, repairs, or corrective action performed."
+},
+{
+"task_id": "21990",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Modify electrical prototypes, parts, assemblies, or systems to correct functional deviations."
+},
+{
+"task_id": "21991",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Integrate software or hardware components, using computer, microprocessor, or control architecture."
+},
+{
+"task_id": "21992",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Procure parts and maintain inventory and related documentation."
+},
+{
+"task_id": "21993",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Participate in training or continuing education activities to stay abreast of engineering or industry advances."
+},
+{
+"task_id": "21994",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Research equipment or component needs, sources, competitive prices, delivery times, or ongoing operational costs."
+},
+{
+"task_id": "21995",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Provide user applications or engineering support or recommendations for new or existing equipment with regard to installation, upgrades, or enhancements."
+},
+{
+"task_id": "21996",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Specify, coordinate, or conduct quality control or quality assurance programs or procedures."
+},
+{
+"task_id": "21997",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Produce electronics drawings or other graphics representing industrial control, instrumentation, sensors, or analog or digital telecommunications networks, using computer-aided design (CAD) software."
+},
+{
+"task_id": "21998",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Install or maintain electrical control systems, industrial automation systems, or electrical equipment, including control circuits, variable speed drives, or programmable logic controllers."
+},
+{
+"task_id": "21999",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Design or modify engineering schematics for electrical transmission and distribution systems or for electrical installation in residential, commercial, or industrial buildings, using computer-aided design (CAD) software."
+},
+{
+"task_id": "22000",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Interpret test information to resolve design-related problems."
+},
+{
+"task_id": "22001",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Conduct statistical studies to analyze or compare production costs for sustainable or nonsustainable designs."
+},
+{
+"task_id": "22002",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Construct and evaluate electrical components for consumer electronics applications such as fuel cells for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers."
+},
+{
+"task_id": "22003",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Participate in the development or testing of electrical aspects of new green technologies, such as lighting, optical data storage devices, and energy efficient televisions."
+},
+{
+"task_id": "22004",
+"soc": "17-3023.00",
+"occupation": "Electrical and Electronic Engineering Technologists and Technicians",
+"task_text": "Review, develop, or prepare maintenance standards."
+},
+{
+"task_id": "10892",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Test performance of electromechanical assemblies, using test instruments such as oscilloscopes, electronic voltmeters, or bridges."
+},
+{
+"task_id": "22014",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Install or program computer hardware or machine or instrumentation software in microprocessor-based systems."
+},
+{
+"task_id": "10893",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Read blueprints, schematics, diagrams, or technical orders to determine methods and sequences of assembly."
+},
+{
+"task_id": "22015",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Modify, maintain, or repair electrical, electronic, or mechanical components, equipment, or systems to ensure proper functioning."
+},
+{
+"task_id": "10896",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Inspect parts for surface defects."
+},
+{
+"task_id": "10894",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Install electrical or electronic parts and hardware in housings or assemblies, using soldering equipment and hand tools."
+},
+{
+"task_id": "10898",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Verify part dimensions or clearances to ensure conformance to specifications, using precision measuring instruments."
+},
+{
+"task_id": "22012",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Fabricate or assemble mechanical, electrical, or electronic components or assemblies."
+},
+{
+"task_id": "10895",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Align, fit, or assemble component parts, using hand or power tools, fixtures, templates, or microscopes."
+},
+{
+"task_id": "22016",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Produce electrical, electronic, or mechanical drawings or other related documents or graphics necessary for electromechanical design, using computer-aided design (CAD) software."
+},
+{
+"task_id": "22018",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Select electromechanical equipment, materials, components, or systems to meet functional specifications."
+},
+{
+"task_id": "22011",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Establish and maintain inventory, records, or documentation systems."
+},
+{
+"task_id": "10902",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Develop, test, or program new robots."
+},
+{
+"task_id": "20743",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Prepare written documentation of electromechanical test results."
+},
+{
+"task_id": "10900",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Repair, rework, or calibrate hydraulic or pneumatic assemblies or systems to meet operational specifications or tolerances."
+},
+{
+"task_id": "22017",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Select and use laboratory, operational, or diagnostic techniques or test equipment to assess electromechanical circuits, equipment, processes, systems, or subsystems."
+},
+{
+"task_id": "19683",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Operate, test, or maintain robotic equipment used for green production applications, such as waste-to-energy conversion systems, minimization of material waste, or replacement of human operators in dangerous work environments."
+},
+{
+"task_id": "22009",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Determine whether selected electromechanical components comply with environmental standards and regulations."
+},
+{
+"task_id": "22010",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Develop or implement programs related to the environmental impact of engineering activities."
+},
+{
+"task_id": "10901",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Train others to install, use, or maintain robots."
+},
+{
+"task_id": "22005",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Analyze engineering designs of logic or digital circuitry, motor controls, instrumentation, or data acquisition for implementation into new or existing automated, servomechanical, or other electromechanical systems."
+},
+{
+"task_id": "22007",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs."
+},
+{
+"task_id": "22019",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Specify, coordinate, or conduct quality-control or quality-assurance programs and procedures."
+},
+{
+"task_id": "10899",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures."
+},
+{
+"task_id": "22021",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Translate electromechanical drawings into design specifications, applying principles of engineering, thermal or fluid sciences, mathematics, or statistics."
+},
+{
+"task_id": "22013",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Identify energy-conserving production or fabrication methods, such as by bending metal rather than cutting and welding or casting metal."
+},
+{
+"task_id": "23943",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Assist engineers to implement electromechanical designs in industrial or other settings."
+},
+{
+"task_id": "22008",
+"soc": "17-3024.00",
+"occupation": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+"task_text": "Consult with machinists to ensure that electromechanical equipment or systems meet design specifications."
+},
+{
+"task_id": "21059",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Make repairs to robots or peripheral equipment, such as replacement of defective circuit boards, sensors, controllers, encoders, or servomotors."
+},
+{
+"task_id": "16589",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Troubleshoot robotic systems, using knowledge of microprocessors, programmable controllers, electronics, circuit analysis, mechanics, sensor or feedback systems, hydraulics, or pneumatics."
+},
+{
+"task_id": "16593",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Install, program, or repair programmable controllers, robot controllers, end-of-arm tools, or conveyors."
+},
+{
+"task_id": "16579",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Maintain service records of robotic equipment or automated production systems."
+},
+{
+"task_id": "16584",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Modify computer-controlled robot movements."
+},
+{
+"task_id": "16592",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Perform preventive or corrective maintenance on robotic systems or components."
+},
+{
+"task_id": "16588",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Align, fit, or assemble components, using hand tools, power tools, fixtures, templates, or microscopes."
+},
+{
+"task_id": "16586",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Attach wires between controllers."
+},
+{
+"task_id": "19684",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Evaluate the efficiency and reliability of industrial robotic systems, reprogramming or calibrating to achieve maximum quantity and quality."
+},
+{
+"task_id": "16591",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Test performance of robotic assemblies, using instruments such as oscilloscopes, electronic voltmeters, or bridges."
+},
+{
+"task_id": "16576",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Train customers or other personnel to install, use, or maintain robots."
+},
+{
+"task_id": "16596",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Build or assemble robotic devices or systems."
+},
+{
+"task_id": "16581",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Document robotics test procedures and results."
+},
+{
+"task_id": "16587",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Assist engineers in the design, configuration, or application of robotic systems."
+},
+{
+"task_id": "16594",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Install new robotic systems in stationary positions or on tracks."
+},
+{
+"task_id": "16577",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Program complex robotic systems, such as vision systems."
+},
+{
+"task_id": "16585",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Develop robotic path motions to maximize efficiency, safety, and quality."
+},
+{
+"task_id": "16580",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Fabricate housings, jigs, fittings, or fixtures, using metalworking machines."
+},
+{
+"task_id": "16590",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Train robots, using artificial intelligence software or interactive training techniques, to perform simple or complex tasks, such as designing and carrying out a series of iterative tests of chemical samples."
+},
+{
+"task_id": "16583",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Inspect installation sites."
+},
+{
+"task_id": "21060",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Maintain inventories of robotic production supplies, such as sensors or cables."
+},
+{
+"task_id": "16582",
+"soc": "17-3024.01",
+"occupation": "Robotics Technicians",
+"task_text": "Develop three-dimensional simulations of automation systems."
+},
+{
+"task_id": "3641",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Maintain project logbook records or computer program files."
+},
+{
+"task_id": "20513",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Record laboratory or field data, including numerical data, test results, photographs, or summaries of visual observations."
+},
+{
+"task_id": "3643",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Perform environmental quality work in field or office settings."
+},
+{
+"task_id": "3654",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Produce environmental assessment reports, tabulating data and preparing charts, graphs, or sketches."
+},
+{
+"task_id": "20514",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Collect and analyze pollution samples, such as air or ground water."
+},
+{
+"task_id": "19688",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Decontaminate or test field equipment used to clean or test pollutants from soil, air, or water."
+},
+{
+"task_id": "19691",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Prepare and package environmental samples for shipping or testing."
+},
+{
+"task_id": "3655",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Maintain process parameters and evaluate process anomalies."
+},
+{
+"task_id": "3644",
+"soc": "17-3025.00",
+"occupation": "Environmental Engineering Technologists and Technicians",
+"task_text": "Review technical documents to ensure completeness and conformance to requirements."
+}
+]

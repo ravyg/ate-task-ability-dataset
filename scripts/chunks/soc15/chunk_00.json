@@ -1,0 +1,782 @@
+[
+{
+"task_id": "20950",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Troubleshoot program and system malfunctions to restore normal functioning."
+},
+{
+"task_id": "3464",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems."
+},
+{
+"task_id": "3465",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems."
+},
+{
+"task_id": "3482",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems."
+},
+{
+"task_id": "3468",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared."
+},
+{
+"task_id": "3466",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology."
+},
+{
+"task_id": "3474",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering."
+},
+{
+"task_id": "3469",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Consult with management to ensure agreement on system principles."
+},
+{
+"task_id": "3484",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Specify inputs accessed by the system and plan the distribution and use of the results."
+},
+{
+"task_id": "3470",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Expand or modify system to serve new purposes or improve work flow."
+},
+{
+"task_id": "3473",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Train staff and users to work with computer systems and programs."
+},
+{
+"task_id": "3475",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Assess the usefulness of pre-developed application packages and adapt them to a user environment."
+},
+{
+"task_id": "3472",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Determine computer software or hardware needed to set up or alter systems."
+},
+{
+"task_id": "3480",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements."
+},
+{
+"task_id": "3477",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Develop, document, and revise system design procedures, test procedures, and quality standards."
+},
+{
+"task_id": "3479",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Recommend new equipment or software packages."
+},
+{
+"task_id": "3476",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs."
+},
+{
+"task_id": "3467",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Confer with clients regarding the nature of the information processing or computation needs a computer program is to address."
+},
+{
+"task_id": "3478",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes."
+},
+{
+"task_id": "3471",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Interview or survey workers, observe job performance, or perform the job to determine what information is processed and how it is processed."
+},
+{
+"task_id": "3481",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Supervise computer programmers or other systems analysts or serve as project leaders for particular systems projects."
+},
+{
+"task_id": "3483",
+"soc": "15-1211.00",
+"occupation": "Computer Systems Analysts",
+"task_text": "Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation."
+},
+{
+"task_id": "18090",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other techniques."
+},
+{
+"task_id": "18092",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems."
+},
+{
+"task_id": "18097",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Develop or implement policies or practices to ensure the privacy, confidentiality, or security of patient information."
+},
+{
+"task_id": "18094",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Analyze and interpret patient, nursing, or information systems data to improve nursing services."
+},
+{
+"task_id": "18101",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Identify, collect, record, or analyze data relevant to the nursing care of patients."
+},
+{
+"task_id": "18096",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Apply knowledge of computer science, information science, nursing, and informatics theory to nursing practice, education, administration, or research, in collaboration with other health informatics specialists."
+},
+{
+"task_id": "18093",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management."
+},
+{
+"task_id": "18088",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts."
+},
+{
+"task_id": "18089",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Disseminate information about nursing informatics science and practice to the profession, other health care professions, nursing students, and the public."
+},
+{
+"task_id": "18095",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research."
+},
+{
+"task_id": "18100",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research."
+},
+{
+"task_id": "18102",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in informatics."
+},
+{
+"task_id": "18099",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Develop or deliver training programs for health information technology, creating operating manuals as needed."
+},
+{
+"task_id": "18098",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Design, conduct, or provide support to nursing informatics research."
+},
+{
+"task_id": "18104",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Inform local, state, national, and international health policies related to information management and communication, confidentiality and security, patient safety, infrastructure development, and economics."
+},
+{
+"task_id": "18103",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Provide consultation to nurses regarding hardware or software configuration."
+},
+{
+"task_id": "18091",
+"soc": "15-1211.01",
+"occupation": "Health Informatics Specialists",
+"task_text": "Plan, install, repair, or troubleshoot telehealth technology applications or systems in homes."
+},
+{
+"task_id": "5314",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs."
+},
+{
+"task_id": "5316",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Monitor current reports of computer viruses to determine when to update virus protection systems."
+},
+{
+"task_id": "5321",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers."
+},
+{
+"task_id": "5320",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures."
+},
+{
+"task_id": "5317",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Modify computer security files to incorporate new software, correct errors, or change individual access status."
+},
+{
+"task_id": "5323",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated."
+},
+{
+"task_id": "5322",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Document computer security and emergency measures policies, procedures, and tests."
+},
+{
+"task_id": "5315",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Confer with users to discuss issues such as computer data access needs, security violations, and programming changes."
+},
+{
+"task_id": "5319",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Monitor use of data files and regulate access to safeguard information in computer files."
+},
+{
+"task_id": "5318",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Coordinate implementation of computer system plan with establishment personnel and outside vendors."
+},
+{
+"task_id": "5313",
+"soc": "15-1212.00",
+"occupation": "Information Security Analysts",
+"task_text": "Train users and promote security awareness to ensure system security and to improve server and network efficiency."
+},
+{
+"task_id": "14623",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Analyze problems to develop solutions involving computer hardware and software."
+},
+{
+"task_id": "14626",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses."
+},
+{
+"task_id": "14624",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Assign or schedule tasks to meet work priorities and goals."
+},
+{
+"task_id": "14628",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Meet with managers, vendors, and others to solicit cooperation and resolve problems."
+},
+{
+"task_id": "14633",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Design computers and the software that runs them."
+},
+{
+"task_id": "14629",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers."
+},
+{
+"task_id": "14625",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Evaluate project plans and proposals to assess feasibility issues."
+},
+{
+"task_id": "14635",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics."
+},
+{
+"task_id": "14627",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Consult with users, management, vendors, and technicians to determine computing needs and system requirements."
+},
+{
+"task_id": "14630",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Develop and interpret organizational goals, policies, and procedures."
+},
+{
+"task_id": "14632",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Develop performance standards, and evaluate work in light of established standards."
+},
+{
+"task_id": "14634",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Maintain network hardware and software, direct network security measures, and monitor networks to ensure availability to system users."
+},
+{
+"task_id": "14637",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Direct daily operations of departments, coordinating project activities with other departments."
+},
+{
+"task_id": "14631",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Participate in staffing decisions and direct training of subordinates."
+},
+{
+"task_id": "14636",
+"soc": "15-1221.00",
+"occupation": "Computer and Information Research Scientists",
+"task_text": "Approve, prepare, monitor, and adjust operational budgets."
+},
+{
+"task_id": "19004",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Back up network data."
+},
+{
+"task_id": "18991",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Configure security settings or access permissions for groups or individuals."
+},
+{
+"task_id": "19003",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Analyze and report computer network security breaches or attempted breaches."
+},
+{
+"task_id": "18995",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Identify the causes of networking problems, using diagnostic testing software and equipment."
+},
+{
+"task_id": "18993",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Document network support activities."
+},
+{
+"task_id": "18992",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Configure wide area network (WAN) or local area network (LAN) routers or related equipment."
+},
+{
+"task_id": "18997",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Install network software, including security or firewall software."
+},
+{
+"task_id": "19002",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Troubleshoot network or connectivity problems for users or user groups."
+},
+{
+"task_id": "19010",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Provide telephone support related to networking or connectivity issues."
+},
+{
+"task_id": "18994",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes."
+},
+{
+"task_id": "18989",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Analyze network data to determine network usage, disk space availability, or server function."
+},
+{
+"task_id": "19000",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Perform routine maintenance or standard repairs to networking components or equipment."
+},
+{
+"task_id": "18990",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Configure and define parameters for installation or testing of local area network (LAN), wide area network (WAN), hubs, routers, switches, controllers, multiplexers, or related networking equipment."
+},
+{
+"task_id": "18998",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Install new hardware or software systems or components, ensuring integration with existing network systems."
+},
+{
+"task_id": "19001",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Test computer software or hardware, using standard diagnostic testing equipment and procedures."
+},
+{
+"task_id": "18999",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Install or repair network cables, including fiber optic cables."
+},
+{
+"task_id": "19009",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Monitor industry Web sites or publications for information about patches, releases, viruses, or potential problem identification."
+},
+{
+"task_id": "19006",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Create or update technical documentation for network installations or changes to existing installations."
+},
+{
+"task_id": "19014",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Train users in procedures related to network applications software or related systems."
+},
+{
+"task_id": "19013",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Test repaired items to ensure proper operation."
+},
+{
+"task_id": "18996",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Install and configure wireless networking equipment."
+},
+{
+"task_id": "19008",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Maintain logs of network activity."
+},
+{
+"task_id": "19007",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Document help desk requests and resolutions."
+},
+{
+"task_id": "19011",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Research hardware or software products to meet technical networking or security needs."
+},
+{
+"task_id": "19005",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Create or revise user instructions, procedures, or manuals."
+},
+{
+"task_id": "19012",
+"soc": "15-1231.00",
+"occupation": "Computer Network Support Specialists",
+"task_text": "Run monthly network reports."
+},
+{
+"task_id": "1285",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Oversee the daily performance of computer systems."
+},
+{
+"task_id": "1286",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Set up equipment for employee use, performing or ensuring proper installation of cables, operating systems, or appropriate software."
+},
+{
+"task_id": "1288",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support."
+},
+{
+"task_id": "1282",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Answer user inquiries regarding computer software or hardware operation to resolve problems."
+},
+{
+"task_id": "1284",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications."
+},
+{
+"task_id": "1289",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Confer with staff, users, and management to establish requirements for new systems or modifications."
+},
+{
+"task_id": "1283",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Enter commands and observe system functioning to verify correct operations and detect errors."
+},
+{
+"task_id": "1287",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities."
+},
+{
+"task_id": "1291",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Refer major hardware or software problems or defective products to vendors or technicians for service."
+},
+{
+"task_id": "1292",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Prepare evaluations of software or hardware, and recommend improvements or upgrades."
+},
+{
+"task_id": "1290",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Develop training materials and procedures, or train users in the proper use of hardware or software."
+},
+{
+"task_id": "1295",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Inspect equipment and read order sheets to prepare for delivery to users."
+},
+{
+"task_id": "1293",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Read trade magazines and technical manuals, or attend conferences and seminars to maintain knowledge of hardware and software."
+},
+{
+"task_id": "1297",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Conduct office automation feasibility studies, including workflow analysis, space design, or cost comparison analysis."
+},
+{
+"task_id": "15204",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Hire, supervise, and direct workers engaged in special project work, problem-solving, monitoring, and installation of data communication equipment and software."
+},
+{
+"task_id": "1296",
+"soc": "15-1232.00",
+"occupation": "Computer User Support Specialists",
+"task_text": "Modify and customize commercial programs for internal needs."
+},
+{
+"task_id": "18968",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop disaster recovery plans."
+},
+{
+"task_id": "18971",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes."
+},
+{
+"task_id": "18965",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop and implement solutions for network problems."
+},
+{
+"task_id": "18977",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Maintain networks by performing activities such as file addition, deletion, or backup."
+},
+{
+"task_id": "18960",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Coordinate network operations, maintenance, repairs, or upgrades."
+},
+{
+"task_id": "18959",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Coordinate installation of new equipment."
+},
+{
+"task_id": "18979",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning."
+},
+{
+"task_id": "18969",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop network-related documentation."
+},
+{
+"task_id": "18966",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop and write procedures for installation, use, or troubleshooting of communications hardware or software."
+},
+{
+"task_id": "18980",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing."
+},
+{
+"task_id": "18962",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Design, build, or operate equipment configuration prototypes, including network hardware, software, servers, or server operation systems."
+},
+{
+"task_id": "18956",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Adjust network sizes to meet volume or capacity demands."
+},
+{
+"task_id": "18958",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems."
+},
+{
+"task_id": "18967",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop conceptual, logical, or physical network designs."
+},
+{
+"task_id": "18975",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Evaluate network designs to determine whether customer requirements are met efficiently and effectively."
+},
+{
+"task_id": "18988",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Communicate with vendors to gather information about products, alert them to future needs, resolve problems, or address system maintenance issues."
+},
+{
+"task_id": "18972",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Develop plans or budgets for network equipment replacement."
+},
+{
+"task_id": "18957",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Communicate with customers, sales staff, or marketing staff to determine customer needs."
+},
+{
+"task_id": "18964",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas."
+},
+{
+"task_id": "18982",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies."
+},
+{
+"task_id": "18985",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Supervise engineers or other staff in the design or implementation of network solutions."
+},
+{
+"task_id": "18984",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Research and test new or modified hardware or software products to determine performance and interoperability."
+},
+{
+"task_id": "18974",
+"soc": "15-1241.00",
+"occupation": "Computer Network Architects",
+"task_text": "Estimate time and materials needed to complete projects."
+}
+]

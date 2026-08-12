@@ -1,0 +1,782 @@
+[
+{
+"task_id": "14362",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Route items to provide cutouts for parts, using portable routers, grinders, and hand tools."
+},
+{
+"task_id": "14366",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Transport items to work or storage areas, using carts."
+},
+{
+"task_id": "12417",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Set up, operate, or tend machines that cut or slice materials, such as glass, stone, cork, rubber, tobacco, food, paper, or insulating material."
+},
+{
+"task_id": "12419",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Review work orders, blueprints, specifications, or job samples to determine components, settings, and adjustments for cutting and slicing machines."
+},
+{
+"task_id": "12416",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Examine, measure, and weigh materials or products to verify conformance to specifications, using measuring devices, such as rulers, micrometers, or scales."
+},
+{
+"task_id": "12422",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Press buttons, pull levers, or depress pedals to start and operate cutting and slicing machines."
+},
+{
+"task_id": "12426",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Start machines to verify setups, and make any necessary adjustments."
+},
+{
+"task_id": "12432",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Feed stock into cutting machines, onto conveyors, or under cutting blades, by threading, guiding, pushing, or turning handwheels."
+},
+{
+"task_id": "12425",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Monitor operation of cutting or slicing machines to detect malfunctions or to determine whether supplies need replenishment."
+},
+{
+"task_id": "12418",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Stack and sort cut material for packaging, further processing, or shipping, according to types and sizes of material."
+},
+{
+"task_id": "12423",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Adjust machine controls to alter position, alignment, speed, or pressure."
+},
+{
+"task_id": "12427",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Remove completed materials or products from cutting or slicing machines, and stack or store them for additional processing."
+},
+{
+"task_id": "12424",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Maintain production records, such as quantities, types, and dimensions of materials produced."
+},
+{
+"task_id": "12421",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Remove defective or substandard materials from machines, and readjust machine components so that products meet standards."
+},
+{
+"task_id": "12433",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Position stock along cutting lines, or against stops on beds of scoring or cutting machines."
+},
+{
+"task_id": "12429",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Move stock or scrap to and from machines manually, or by using carts, handtrucks, or lift trucks."
+},
+{
+"task_id": "12428",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Select and install machine components, such as cutting blades, rollers, and templates, according to specifications, using hand tools."
+},
+{
+"task_id": "12430",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Clean and lubricate cutting machines, conveyors, blades, saws, or knives, using steam hoses, scrapers, brushes, or oil cans."
+},
+{
+"task_id": "12436",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Mark cutting lines or identifying information on stock, using marking pencils, rulers, or scribes."
+},
+{
+"task_id": "12420",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Type instructions on computer keyboards, push buttons to activate computer programs, or manually set cutting guides, clamps, and knives."
+},
+{
+"task_id": "12435",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Change or replace saw blades, cables, cutter heads, and grinding wheels, using hand tools."
+},
+{
+"task_id": "12438",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Position width gauge blocks between blades, and level blades and insert wedges into frames to secure blades to frames."
+},
+{
+"task_id": "12439",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Direct workers on cutting teams."
+},
+{
+"task_id": "12442",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Sharpen cutting blades, knives, or saws, using files, bench grinders, or honing stones."
+},
+{
+"task_id": "12437",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Turn cranks or press buttons to activate winches that move cars under sawing cables or saw frames."
+},
+{
+"task_id": "12440",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Tighten pulleys or add abrasives to maintain cutting speeds."
+},
+{
+"task_id": "12441",
+"soc": "51-9032.00",
+"occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+"task_text": "Cut stock manually to prepare for machine cutting, using tools such as knives, cleavers, handsaws, or hammers and chisels."
+},
+{
+"task_id": "12444",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Adjust machine components to regulate speeds, pressures, and temperatures, and amounts, dimensions, and flow of materials or ingredients."
+},
+{
+"task_id": "12447",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Press control buttons to activate machinery and equipment."
+},
+{
+"task_id": "12445",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Examine, measure, and weigh materials or products to verify conformance to standards, using measuring devices such as templates, micrometers, or scales."
+},
+{
+"task_id": "12446",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Monitor machine operations and observe lights and gauges to detect malfunctions."
+},
+{
+"task_id": "12455",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Clear jams, and remove defective or substandard materials or products."
+},
+{
+"task_id": "12452",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Notify supervisors when extruded filaments fail to meet standards."
+},
+{
+"task_id": "12451",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Record and maintain production data, such as meter readings, and quantities, types, and dimensions of materials produced."
+},
+{
+"task_id": "12449",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Review work orders, specifications, or instructions to determine materials, ingredients, procedures, components, settings, and adjustments for extruding, forming, pressing, or compacting machines."
+},
+{
+"task_id": "12448",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Turn controls to adjust machine functions, such as regulating air pressure, creating vacuums, and adjusting coolant flow."
+},
+{
+"task_id": "12466",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Clean dies, arbors, compression chambers, and molds, using swabs, sponges, or air hoses."
+},
+{
+"task_id": "12453",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Synchronize speeds of sections of machines when producing products involving several steps or processes."
+},
+{
+"task_id": "12456",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Move materials, supplies, components, and finished products between storage and work areas, using work aids such as racks, hoists, and handtrucks."
+},
+{
+"task_id": "12459",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Activate machines to shape or form products, such as candy bars, light bulbs, balloons, or insulation panels."
+},
+{
+"task_id": "12450",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Select and install machine components, such as dies, molds, and cutters, according to specifications, using hand tools and measuring devices."
+},
+{
+"task_id": "12463",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Send product samples to laboratories for analysis."
+},
+{
+"task_id": "12470",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Couple air and gas lines to machines to maintain plasticity of material and to regulate solidification of final products."
+},
+{
+"task_id": "12468",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Pour, scoop, or dump specified ingredients, metal assemblies, or mixtures into sections of machine prior to starting machines."
+},
+{
+"task_id": "12462",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Measure, mix, cut, shape, soften, and join materials and ingredients, such as powder, cornmeal, or rubber to prepare them for machine processing."
+},
+{
+"task_id": "12461",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Remove materials or products from molds or from extruding, forming, pressing, or compacting machines, and stack or store them for additional processing."
+},
+{
+"task_id": "12454",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Feed products into machines by hand or conveyor."
+},
+{
+"task_id": "12471",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Measure arbors and dies to verify sizes specified on work tickets."
+},
+{
+"task_id": "12458",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Complete work tickets, and place them with products."
+},
+{
+"task_id": "12467",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Disassemble equipment to repair it or to replace parts, such as nozzles, punches, and filters."
+},
+{
+"task_id": "12460",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Remove molds, mold components, and feeder tubes from machinery after production is complete."
+},
+{
+"task_id": "12457",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Swab molds with solutions to prevent products from sticking."
+},
+{
+"task_id": "12469",
+"soc": "51-9041.00",
+"occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+"task_text": "Install, align, and adjust neck rings, press plungers, and feeder tubes."
+},
+{
+"task_id": "4963",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Monitor equipment operation, gauges, and panel lights to detect deviations from standards."
+},
+{
+"task_id": "4966",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Confer with supervisors or other equipment operators to report equipment malfunctions or to resolve production problems."
+},
+{
+"task_id": "4962",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Press and adjust controls to activate, set, and regulate equipment according to specifications."
+},
+{
+"task_id": "4965",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Record gauge readings, test results, and shift production in log books."
+},
+{
+"task_id": "4964",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Read and interpret work orders and instructions to determine work assignments, process specifications, and production schedules."
+},
+{
+"task_id": "4967",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Examine or test samples of processed substances, or collect samples for laboratory testing, to ensure conformance to specifications."
+},
+{
+"task_id": "4969",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Transport materials and products to and from work areas, manually or using carts, handtrucks, or hoists."
+},
+{
+"task_id": "4970",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Stop equipment and clear blockages or jams, using fingers, wire, or hand tools."
+},
+{
+"task_id": "4976",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Load equipment receptacles or conveyors with material to be processed, by hand or using hoists."
+},
+{
+"task_id": "4971",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Remove products from equipment, manually or using hoists, and prepare them for storage, shipment, or additional processing."
+},
+{
+"task_id": "4972",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Calculate amounts of materials to be loaded into furnaces, adjusting amounts as necessary for specific conditions."
+},
+{
+"task_id": "4974",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Melt or refine metal before casting, calculating required temperatures, and observe metal color, adjusting controls as necessary to maintain required temperatures."
+},
+{
+"task_id": "4961",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Weigh or measure specified amounts of ingredients or materials for processing, using devices such as scales and calipers."
+},
+{
+"task_id": "4978",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Direct crane operators and crew members to load vessels with materials to be processed."
+},
+{
+"task_id": "4973",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Feed fuel, such as coal and coke, into fireboxes or onto conveyors, and remove ashes from furnaces, using shovels and buckets."
+},
+{
+"task_id": "4975",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Replace worn or defective equipment parts, using hand tools."
+},
+{
+"task_id": "4968",
+"soc": "51-9051.00",
+"occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+"task_text": "Clean, lubricate, and adjust equipment, using scrapers, solvents, air hoses, oil, and hand tools."
+},
+{
+"task_id": "12472",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Discard or reject products, materials, or equipment not meeting specifications."
+},
+{
+"task_id": "12478",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Mark items with details, such as grade or acceptance-rejection status."
+},
+{
+"task_id": "12480",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Measure dimensions of products to verify conformance to specifications, using measuring instruments, such as rulers, calipers, gauges, or micrometers."
+},
+{
+"task_id": "20299",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Notify supervisors or other personnel of production problems."
+},
+{
+"task_id": "12474",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Inspect, test, or measure materials, products, installations, or work for conformance to specifications."
+},
+{
+"task_id": "12485",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Write test or inspection reports describing results, recommendations, or needed repairs."
+},
+{
+"task_id": "20300",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Recommend necessary corrective actions, based on inspection results."
+},
+{
+"task_id": "12486",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Read dials or meters to verify that equipment is functioning at specified levels."
+},
+{
+"task_id": "12495",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Make minor adjustments to equipment, such as turning setscrews to calibrate instruments to required tolerances."
+},
+{
+"task_id": "20298",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Read blueprints, data, manuals, or other materials to determine specifications, inspection and testing procedures, adjustment methods, certification processes, formulas, or measuring instruments required."
+},
+{
+"task_id": "20306",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Monitor production operations or equipment to ensure conformance to specifications, making necessary process or assembly adjustments."
+},
+{
+"task_id": "12477",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Record inspection or test data, such as weights, temperatures, grades, or moisture content, and quantities inspected or graded."
+},
+{
+"task_id": "20304",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Position products, components, or parts for testing."
+},
+{
+"task_id": "12487",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Remove defects, such as chips, burrs, or lap corroded or pitted surfaces."
+},
+{
+"task_id": "12482",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Collect or select samples for testing or for use as models."
+},
+{
+"task_id": "20305",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Stack or arrange tested products for further processing, shipping, or packaging."
+},
+{
+"task_id": "20302",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Check arriving materials to ensure that they match purchase orders, submitting discrepancy reports as necessary."
+},
+{
+"task_id": "19920",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Inspect or test raw materials, parts, or products to determine compliance with environmental standards."
+},
+{
+"task_id": "12481",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Analyze test data, making computations as necessary, to determine test results."
+},
+{
+"task_id": "12484",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Compare colors, shapes, textures, or grades of products or materials with color charts, templates, or samples to verify conformance to standards."
+},
+{
+"task_id": "20301",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Clean, maintain, calibrate, or repair measuring instruments or test equipment, such as dial indicators, fixed gauges, or height gauges."
+},
+{
+"task_id": "12491",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Fabricate, install, position, or connect components, parts, finished products, or instruments for testing or operational purposes."
+},
+{
+"task_id": "20311",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Administer tests to assess whether engineers or operators are qualified to use equipment."
+},
+{
+"task_id": "20307",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Monitor machines that automatically measure, sort, or inspect products."
+},
+{
+"task_id": "12497",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Interpret legal requirements, provide safety information, or recommend compliance procedures to contractors, craft workers, engineers, or property owners."
+},
+{
+"task_id": "12488",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Adjust, clean, or repair products or processing equipment to correct defects found during inspections."
+},
+{
+"task_id": "20308",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Compute usable amounts of items in shipments."
+},
+{
+"task_id": "12493",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Grade, classify, or sort products according to sizes, weights, colors, or other specifications."
+},
+{
+"task_id": "20310",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Disassemble defective parts or components, such as inaccurate or worn gauges or measuring instruments."
+},
+{
+"task_id": "20303",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Compute defect percentages or averages, using formulas and calculators."
+},
+{
+"task_id": "20309",
+"soc": "51-9061.00",
+"occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+"task_text": "Weigh materials, products, containers, or samples to verify packaging weights or ingredient quantities."
+},
+{
+"task_id": "23624",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Clean and polish metal items and jewelry pieces, using jewelers' tools, polishing wheels, and chemical baths."
+},
+{
+"task_id": "23621",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Smooth soldered joints and rough spots, using hand files and emery paper, and polish smoothed areas with polishing wheels or buffing wire."
+},
+{
+"task_id": "23622",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Create jewelry from materials such as gold, silver, platinum, and precious or semiprecious stones."
+},
+{
+"task_id": "23625",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Cut and file pieces of jewelry such as rings, brooches, bracelets, and lockets."
+},
+{
+"task_id": "23628",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Examine assembled or finished products to ensure conformance to specifications, using magnifying glasses or precision measuring instruments."
+},
+{
+"task_id": "23623",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Make repairs, such as enlarging or reducing ring sizes, soldering pieces of jewelry together, and replacing broken clasps and mountings."
+},
+{
+"task_id": "23627",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Compute costs of labor and materials to determine production costs of products and articles."
+},
+{
+"task_id": "23620",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Position stones and metal pieces, and set, mount, and secure items in place, using setting and hand tools."
+},
+{
+"task_id": "23635",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Grade stones based on their color, perfection, and quality of cut."
+},
+{
+"task_id": "23626",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Select and acquire metals and gems for designs."
+},
+{
+"task_id": "23632",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Shape and straighten damaged or twisted articles by hand or using pliers."
+},
+{
+"task_id": "23638",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Create new jewelry designs and modify existing designs, using computers as necessary."
+},
+{
+"task_id": "23636",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Plate articles such as jewelry pieces and watch dials, using silver, gold, nickel, or other metals."
+},
+{
+"task_id": "23640",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Record the weights and processing times of finished pieces."
+},
+{
+"task_id": "23630",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Construct preliminary models of wax, metal, clay, or plaster, and form sample castings in molds."
+},
+{
+"task_id": "23637",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Write or modify design specifications such as the metal contents and weights of items."
+},
+{
+"task_id": "23633",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Soften metal to be used in designs by heating it with a gas torch and shape it, using hammers and dies."
+},
+{
+"task_id": "23629",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Pierce and cut open designs in ornamentation, using hand drills and scroll saws."
+},
+{
+"task_id": "23645",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Research and analyze reference materials, and consult with interested parties to develop new products or modify existing designs."
+},
+{
+"task_id": "23642",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Mark, engrave, or emboss designs on metal pieces such as castings, wire, or jewelry, following specifications."
+},
+{
+"task_id": "23631",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Pour molten metal alloys or other materials into molds to cast models of jewelry."
+},
+{
+"task_id": "23639",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Buy and sell jewelry, or serve as agents between buyers and sellers."
+},
+{
+"task_id": "23634",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Determine appraised values of diamonds and other gemstones based on price guides, market fluctuations, and stone grades and rarity."
+},
+{
+"task_id": "23641",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Lay out designs on metal stock, and cut along markings to fabricate pieces used to cast metal molds."
+},
+{
+"task_id": "23644",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Design and fabricate molds, models, and machine accessories, and modify hand tools used to cast metal and jewelry pieces."
+},
+{
+"task_id": "23643",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Cut designs in molds or other materials to be used as models in the fabrication of metal and jewelry products."
+},
+{
+"task_id": "23649",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Rout out locations where parts are to be joined to items, using routing machines."
+},
+{
+"task_id": "23647",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Weigh, mix, and melt metal alloys or materials needed for jewelry models."
+},
+{
+"task_id": "23646",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Anneal precious metal objects such as coffeepots, tea sets, and trays in gas ovens for prescribed times to soften metal for reworking."
+}
+]

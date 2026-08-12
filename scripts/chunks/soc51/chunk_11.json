@@ -1,0 +1,782 @@
+[
+{
+"task_id": "17819",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Operate chemical processing equipment for the production of biofuels."
+},
+{
+"task_id": "17829",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Monitor and record flow meter performance."
+},
+{
+"task_id": "17826",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems."
+},
+{
+"task_id": "17827",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Measure and monitor raw biofuels feedstock."
+},
+{
+"task_id": "17832",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes."
+},
+{
+"task_id": "17818",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Calculate, measure, load, or mix refined feedstock used in biofuels production."
+},
+{
+"task_id": "17831",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Monitor stored biofuels products or secondary by-products until reused or transferred to users."
+},
+{
+"task_id": "17823",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Assess the quality of biofuels additives for reprocessing."
+},
+{
+"task_id": "17833",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Clean biofuels processing work area, ensuring compliance with safety regulations."
+},
+{
+"task_id": "17835",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels."
+},
+{
+"task_id": "17824",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Calibrate liquid flow devices and meters, including fuel, chemical, and water meters."
+},
+{
+"task_id": "17836",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Rebuild, repair, or replace biofuels processing equipment components."
+},
+{
+"task_id": "17834",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Coordinate raw product sourcing or collection."
+},
+{
+"task_id": "12334",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Observe safety precautions to prevent fires or explosions."
+},
+{
+"task_id": "12342",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results."
+},
+{
+"task_id": "12336",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products."
+},
+{
+"task_id": "12339",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions."
+},
+{
+"task_id": "12341",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Draw samples of products at specified stages so that analyses can be performed."
+},
+{
+"task_id": "12333",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes."
+},
+{
+"task_id": "12335",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained."
+},
+{
+"task_id": "12340",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing."
+},
+{
+"task_id": "12338",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary."
+},
+{
+"task_id": "12345",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials."
+},
+{
+"task_id": "12346",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures."
+},
+{
+"task_id": "12351",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Implement appropriate industrial emergency response procedures."
+},
+{
+"task_id": "12337",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Measure, weigh, and mix chemical ingredients, according to specifications."
+},
+{
+"task_id": "12352",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Dump or scoop prescribed solid, granular, or powdered materials into equipment."
+},
+{
+"task_id": "12343",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Notify maintenance engineers of equipment malfunctions."
+},
+{
+"task_id": "12353",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Estimate materials required for production and manufacturing of products."
+},
+{
+"task_id": "12344",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products."
+},
+{
+"task_id": "12350",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results."
+},
+{
+"task_id": "12355",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Direct activities of workers assisting in control or verification of processes or in unloading of materials."
+},
+{
+"task_id": "12347",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment."
+},
+{
+"task_id": "12349",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Flush or clean equipment, using steam hoses or mechanical reamers."
+},
+{
+"task_id": "12348",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Make minor repairs, lubricate, and maintain equipment, using hand tools."
+},
+{
+"task_id": "12354",
+"soc": "51-9011.00",
+"occupation": "Chemical Equipment Operators and Tenders",
+"task_text": "Inventory supplies received and consumed."
+},
+{
+"task_id": "12366",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage."
+},
+{
+"task_id": "19918",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations."
+},
+{
+"task_id": "12357",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions."
+},
+{
+"task_id": "20824",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials."
+},
+{
+"task_id": "12356",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure."
+},
+{
+"task_id": "20825",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture."
+},
+{
+"task_id": "20826",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Start agitators, shakers, conveyors, pumps, or centrifuge machines."
+},
+{
+"task_id": "12365",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks."
+},
+{
+"task_id": "12360",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Collect samples of materials or products for laboratory analysis."
+},
+{
+"task_id": "12368",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Communicate processing instructions to other workers."
+},
+{
+"task_id": "12372",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers."
+},
+{
+"task_id": "20827",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Maintain logs of instrument readings, test results, or shift production for entry in computer databases."
+},
+{
+"task_id": "12369",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment."
+},
+{
+"task_id": "12364",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions."
+},
+{
+"task_id": "12363",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed."
+},
+{
+"task_id": "12362",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers."
+},
+{
+"task_id": "12371",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools."
+},
+{
+"task_id": "12367",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Connect pipes between vats and processing equipment."
+},
+{
+"task_id": "20828",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation."
+},
+{
+"task_id": "12373",
+"soc": "51-9012.00",
+"occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+"task_text": "Remove full containers from discharge outlets and replace them with empty containers."
+},
+{
+"task_id": "12376",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions."
+},
+{
+"task_id": "12381",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Clean, adjust, and maintain equipment, using hand tools."
+},
+{
+"task_id": "12389",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes."
+},
+{
+"task_id": "12377",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials."
+},
+{
+"task_id": "12382",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Notify supervisors of needed repairs."
+},
+{
+"task_id": "12380",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements."
+},
+{
+"task_id": "12378",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Record data from operations, testing, and production on specified forms."
+},
+{
+"task_id": "12384",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Reject defective products and readjust equipment to eliminate problems."
+},
+{
+"task_id": "12388",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Inspect chains, belts, or scrolls for signs of wear."
+},
+{
+"task_id": "12385",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Clean work areas."
+},
+{
+"task_id": "12379",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards."
+},
+{
+"task_id": "12375",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Read work orders to determine production specifications and information."
+},
+{
+"task_id": "12387",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools."
+},
+{
+"task_id": "12390",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Test samples of materials or products to ensure compliance with specifications, using test equipment."
+},
+{
+"task_id": "12392",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Mark bins as to types of mixtures stored."
+},
+{
+"task_id": "12386",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Transfer materials, supplies, and products between work areas, using moving equipment and hand tools."
+},
+{
+"task_id": "12395",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Add or mix chemicals and ingredients for processing, using hand tools or other devices."
+},
+{
+"task_id": "12391",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Collect samples of materials or products for laboratory testing."
+},
+{
+"task_id": "12394",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Load materials into machinery and equipment, using hand tools."
+},
+{
+"task_id": "12393",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Turn valves to regulate the moisture contents of materials."
+},
+{
+"task_id": "12383",
+"soc": "51-9021.00",
+"occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+"task_text": "Set mill gauges to specified fineness of grind."
+},
+{
+"task_id": "14334",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery."
+},
+{
+"task_id": "14329",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools."
+},
+{
+"task_id": "14333",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met."
+},
+{
+"task_id": "14336",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment."
+},
+{
+"task_id": "14330",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Mark defects, such as knotholes, cracks, and splits, for repair."
+},
+{
+"task_id": "14340",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Study blueprints or layouts to determine how to lay out workpieces or saw out templates."
+},
+{
+"task_id": "14331",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Move controls to adjust, start, or stop equipment during grinding and polishing processes."
+},
+{
+"task_id": "14338",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Load and adjust workpieces onto equipment or work tables, using hand tools."
+},
+{
+"task_id": "14344",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Repair and maintain equipment, objects, or parts, using hand tools."
+},
+{
+"task_id": "14332",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes."
+},
+{
+"task_id": "14346",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications."
+},
+{
+"task_id": "14345",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Sharpen abrasive grinding tools, using machines and hand tools."
+},
+{
+"task_id": "14339",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Transfer equipment, objects, or parts to specified work areas, using moving devices."
+},
+{
+"task_id": "14337",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers."
+},
+{
+"task_id": "14335",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Record product and processing data on specified forms."
+},
+{
+"task_id": "14341",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Apply solutions and chemicals to equipment, objects, or parts, using hand tools."
+},
+{
+"task_id": "14348",
+"soc": "51-9022.00",
+"occupation": "Grinding and Polishing Workers, Hand",
+"task_text": "Clean brass particles from files by drawing file cards through file grooves."
+},
+{
+"task_id": "12397",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Weigh or measure materials, ingredients, or products to ensure conformance to requirements."
+},
+{
+"task_id": "12410",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Read work orders to determine production specifications or information."
+},
+{
+"task_id": "12402",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Observe production or monitor equipment to ensure safe and efficient operation."
+},
+{
+"task_id": "20682",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Mix or blend ingredients by starting machines and mixing for specified times."
+},
+{
+"task_id": "12403",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures."
+},
+{
+"task_id": "12411",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Compound or process ingredients or dyes, according to formulas."
+},
+{
+"task_id": "12406",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards."
+},
+{
+"task_id": "12400",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients."
+},
+{
+"task_id": "12401",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Dump or pour specified amounts of materials into machinery or equipment."
+},
+{
+"task_id": "12407",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Record operational or production data on specified forms."
+},
+{
+"task_id": "12404",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Collect samples of materials or products for laboratory testing."
+},
+{
+"task_id": "12412",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Unload mixtures into containers or onto conveyors for further processing."
+},
+{
+"task_id": "23983",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Clean work areas."
+},
+{
+"task_id": "12405",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Add or mix chemicals or ingredients for processing, using hand tools or other devices."
+},
+{
+"task_id": "12409",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes."
+},
+{
+"task_id": "12408",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Transfer materials, supplies, or products between work areas, using moving equipment or hand tools."
+},
+{
+"task_id": "12413",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Clean and maintain equipment, using hand tools."
+},
+{
+"task_id": "12414",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools."
+},
+{
+"task_id": "12398",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Test samples of materials or products to ensure compliance with specifications, using test equipment."
+},
+{
+"task_id": "12415",
+"soc": "51-9023.00",
+"occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+"task_text": "Open valves to drain slurry from mixers into storage tanks."
+},
+{
+"task_id": "14349",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Mark or discard items with defects such as spots, stains, scars, snags, chips, scratches, or unacceptable shapes or finishes."
+},
+{
+"task_id": "14350",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Trim excess material or cut threads off finished products, such as cutting loose ends of plastic off a manufactured toy for a smoother finish."
+},
+{
+"task_id": "14351",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Cut, shape, and trim materials, such as textiles, food, glass, stone, and metal, using knives, scissors, and other hand tools, portable power tools, or bench-mounted tools."
+},
+{
+"task_id": "14361",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Position templates or measure materials to locate specified points of cuts or to obtain maximum yields, using rules, scales, or patterns."
+},
+{
+"task_id": "14354",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Read work orders to determine dimensions, cutting locations, and quantities to cut."
+},
+{
+"task_id": "14356",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Mark cutting lines around patterns or templates, or follow layout points, using squares, rules, and straightedges, and chalk, pencils, or scribes."
+},
+{
+"task_id": "14353",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Mark identification numbers, trademarks, grades, marketing data, sizes, or model numbers on products."
+},
+{
+"task_id": "14357",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Unroll, lay out, attach, or mount materials or items on cutting tables or machines."
+},
+{
+"task_id": "14352",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Separate materials or products according to size, weight, type, condition, color, or shade."
+},
+{
+"task_id": "14359",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Fold or shape materials before or after cutting them."
+},
+{
+"task_id": "14363",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Replace or sharpen dulled cutting tools such as saws."
+},
+{
+"task_id": "14364",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Lower table-mounted cutters such as knife blades, cutting wheels, or saws to cut items to specified sizes."
+},
+{
+"task_id": "14358",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Stack cut items and load them on racks or conveyors or onto trucks."
+},
+{
+"task_id": "14365",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Adjust guides and stops to control depths and widths of cuts."
+},
+{
+"task_id": "14355",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Count or weigh and bundle items."
+},
+{
+"task_id": "14360",
+"soc": "51-9031.00",
+"occupation": "Cutters and Trimmers, Hand",
+"task_text": "Clean, treat, buff, or polish finished items, using grinders, brushes, chisels, and cleaning solutions and polishing materials."
+}
+]

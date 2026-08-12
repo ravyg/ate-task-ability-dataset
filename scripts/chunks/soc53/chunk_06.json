@@ -1,0 +1,782 @@
+[
+{
+"task_id": "17871",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment."
+},
+{
+"task_id": "17874",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Deposit recoverable materials into chutes or place materials on conveyor belts."
+},
+{
+"task_id": "17877",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Operate balers to compress recyclable materials into bundles or bales."
+},
+{
+"task_id": "17883",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Clean materials, such as metals, according to recycling requirements."
+},
+{
+"task_id": "17881",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Record logs of recycled materials or waste chemicals removed from products."
+},
+{
+"task_id": "17879",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials."
+},
+{
+"task_id": "17873",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Collect recyclable materials from curbside for delivery to designated facilities."
+},
+{
+"task_id": "17876",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Operate automated refuse or manual recycling collection vehicles."
+},
+{
+"task_id": "14583",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Inspect materials and products for defects, and to ensure conformance to specifications."
+},
+{
+"task_id": "14591",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Record production and operational data, such as amount of materials processed."
+},
+{
+"task_id": "14585",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Push dual control buttons and move controls to start, stop, or adjust machinery and equipment."
+},
+{
+"task_id": "14589",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Weigh or measure materials or products to ensure conformance to specifications."
+},
+{
+"task_id": "14586",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Identify and mark materials, products, and samples, following instructions."
+},
+{
+"task_id": "14588",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions."
+},
+{
+"task_id": "14587",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices."
+},
+{
+"task_id": "14593",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks."
+},
+{
+"task_id": "14590",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Fasten, package, or stack materials and products, using hand tools and fastening equipment."
+},
+{
+"task_id": "14584",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices."
+},
+{
+"task_id": "14595",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport."
+},
+{
+"task_id": "14594",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines."
+},
+{
+"task_id": "14592",
+"soc": "53-7063.00",
+"occupation": "Machine Feeders and Offbearers",
+"task_text": "Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process."
+},
+{
+"task_id": "21216",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met."
+},
+{
+"task_id": "3212",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Measure, weigh, and count products and materials."
+},
+{
+"task_id": "3214",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Record product, packaging, and order information on specified forms and records."
+},
+{
+"task_id": "3216",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Seal containers or materials, using glues, fasteners, nails, and hand tools."
+},
+{
+"task_id": "3218",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Assemble, line, and pad cartons, crates, and containers, using hand tools."
+},
+{
+"task_id": "3222",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Obtain, move, and sort products, materials, containers, and orders, using hand tools."
+},
+{
+"task_id": "3211",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Mark and label containers, container tags, or products, using marking tools."
+},
+{
+"task_id": "3219",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools."
+},
+{
+"task_id": "3215",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks."
+},
+{
+"task_id": "3221",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes."
+},
+{
+"task_id": "3217",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Load materials and products into package processing equipment."
+},
+{
+"task_id": "3220",
+"soc": "53-7064.00",
+"occupation": "Packers and Packagers, Hand",
+"task_text": "Transport packages to customers' vehicles."
+},
+{
+"task_id": "23871",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Complete order receipts."
+},
+{
+"task_id": "23877",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Answer customers' questions about merchandise and advise customers on merchandise selection."
+},
+{
+"task_id": "23886",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions."
+},
+{
+"task_id": "23895",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Keep records of out-going orders."
+},
+{
+"task_id": "23880",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Stock shelves, racks, cases, bins, and tables with new or transferred merchandise."
+},
+{
+"task_id": "23899",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Operate equipment such as forklifts."
+},
+{
+"task_id": "23879",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Stamp, attach, or change price tags on merchandise, referring to price list."
+},
+{
+"task_id": "23872",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Obtain merchandise from bins or shelves."
+},
+{
+"task_id": "23878",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Receive and count stock items, and record data manually or on computer."
+},
+{
+"task_id": "23873",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise."
+},
+{
+"task_id": "23900",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Receive, unload, open, unpack, or issue sales floor merchandise."
+},
+{
+"task_id": "23890",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Pack customer purchases in bags or cartons."
+},
+{
+"task_id": "23875",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas."
+},
+{
+"task_id": "23884",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment."
+},
+{
+"task_id": "23874",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards."
+},
+{
+"task_id": "23885",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Take inventory or examine merchandise to identify items to be reordered or replenished."
+},
+{
+"task_id": "23888",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Clean display cases, shelves, and aisles."
+},
+{
+"task_id": "23894",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Keep records on the use or damage of stock or stock-handling equipment."
+},
+{
+"task_id": "23892",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations."
+},
+{
+"task_id": "23898",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities."
+},
+{
+"task_id": "23891",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Dispose of damaged or defective items, or return them to vendors."
+},
+{
+"task_id": "23893",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Recommend disposal of excess, defective, or obsolete stock."
+},
+{
+"task_id": "23889",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales."
+},
+{
+"task_id": "23887",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Provide assistance or direction to other stockroom, warehouse, or storage yard workers."
+},
+{
+"task_id": "23876",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Examine and inspect stock items for wear or defects, reporting any damage to supervisors."
+},
+{
+"task_id": "23896",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Compute prices of items or groups of items."
+},
+{
+"task_id": "23882",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases."
+},
+{
+"task_id": "23897",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials."
+},
+{
+"task_id": "23881",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Compare merchandise invoices to items actually received to ensure that shipments are correct."
+},
+{
+"task_id": "23883",
+"soc": "53-7065.00",
+"occupation": "Stockers and Order Fillers",
+"task_text": "Transport packages to customers' vehicles."
+},
+{
+"task_id": "14596",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures."
+},
+{
+"task_id": "14603",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas."
+},
+{
+"task_id": "14600",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Record instrument readings and operational changes in operating logs."
+},
+{
+"task_id": "14597",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Adjust valves and equipment to obtain specified performance."
+},
+{
+"task_id": "14601",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment."
+},
+{
+"task_id": "14599",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials."
+},
+{
+"task_id": "14606",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Submit daily reports on facility operations."
+},
+{
+"task_id": "14604",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis."
+},
+{
+"task_id": "14598",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Read gas meters, and maintain records of the amounts of gas received and dispensed from holders."
+},
+{
+"task_id": "14602",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Turn knobs or switches to regulate pressures."
+},
+{
+"task_id": "14605",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools."
+},
+{
+"task_id": "14608",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning."
+},
+{
+"task_id": "14607",
+"soc": "53-7071.00",
+"occupation": "Gas Compressor and Gas Pumping Station Operators",
+"task_text": "Connect pipelines between pumps and containers that are being filled or emptied."
+},
+{
+"task_id": "14609",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary."
+},
+{
+"task_id": "14610",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times."
+},
+{
+"task_id": "14614",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage."
+},
+{
+"task_id": "14613",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials."
+},
+{
+"task_id": "14611",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances."
+},
+{
+"task_id": "14618",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools."
+},
+{
+"task_id": "14612",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts."
+},
+{
+"task_id": "14616",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Clean, lubricate, and repair pumps and vessels, using hand tools and equipment."
+},
+{
+"task_id": "14615",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped."
+},
+{
+"task_id": "14622",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Test materials and solutions, using testing equipment."
+},
+{
+"task_id": "14619",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers."
+},
+{
+"task_id": "14620",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Add chemicals and solutions to tanks to ensure that specifications are met."
+},
+{
+"task_id": "14617",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Collect and deliver sample solutions for laboratory analysis."
+},
+{
+"task_id": "14621",
+"soc": "53-7072.00",
+"occupation": "Pump Operators, Except Wellhead Pumpers",
+"task_text": "Pump two or more materials into one tank to blend mixtures."
+},
+{
+"task_id": "21159",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Monitor pumps and flow lines for gas and fluid leaks."
+},
+{
+"task_id": "21160",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Gauge oil and gas production."
+},
+{
+"task_id": "5019",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil."
+},
+{
+"task_id": "5013",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration."
+},
+{
+"task_id": "5014",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks."
+},
+{
+"task_id": "5016",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Repair gas and oil meters and gauges."
+},
+{
+"task_id": "5015",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Perform routine maintenance on vehicles and equipment."
+},
+{
+"task_id": "5020",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface."
+},
+{
+"task_id": "21161",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Change water filters."
+},
+{
+"task_id": "5023",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Prepare trucks and equipment necessary for the type of pumping service required."
+},
+{
+"task_id": "5018",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Attach pumps and hoses to wellheads."
+},
+{
+"task_id": "5025",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Mix acids, chemicals, or dry cement as required for a specific job."
+},
+{
+"task_id": "5017",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Unload and assemble pipes and pumping equipment, using hand tools."
+},
+{
+"task_id": "5021",
+"soc": "53-7073.00",
+"occupation": "Wellhead Pumpers",
+"task_text": "Supervise oil pumpers and other workers engaged in producing oil from wells."
+},
+{
+"task_id": "7170",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Inspect trucks prior to beginning routes to ensure safe operating condition."
+},
+{
+"task_id": "7174",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas."
+},
+{
+"task_id": "7171",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Refuel trucks or add other fluids, such as oil or brake fluid."
+},
+{
+"task_id": "20313",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Dump refuse or recyclable materials at disposal sites."
+},
+{
+"task_id": "7172",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Fill out defective equipment reports."
+},
+{
+"task_id": "7176",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies."
+},
+{
+"task_id": "7177",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point."
+},
+{
+"task_id": "7175",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Operate equipment that compresses collected refuse."
+},
+{
+"task_id": "7178",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems."
+},
+{
+"task_id": "7179",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Check road or weather conditions to determine how routes will be affected."
+},
+{
+"task_id": "7181",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Clean trucks or compactor bodies after routes have been completed."
+},
+{
+"task_id": "7180",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted."
+},
+{
+"task_id": "19932",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items."
+},
+{
+"task_id": "7183",
+"soc": "53-7081.00",
+"occupation": "Refuse and Recyclable Material Collectors",
+"task_text": "Organize schedules for refuse collection."
+},
+{
+"task_id": "12800",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Seal outlet valves on tank cars, barges, and trucks."
+},
+{
+"task_id": "12792",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions."
+},
+{
+"task_id": "12809",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures."
+},
+{
+"task_id": "12797",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures."
+},
+{
+"task_id": "12793",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times."
+},
+{
+"task_id": "12795",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow."
+},
+{
+"task_id": "12794",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment."
+},
+{
+"task_id": "12796",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers."
+},
+{
+"task_id": "12798",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses."
+},
+{
+"task_id": "12799",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Connect ground cables to carry off static electricity when unloading tanker cars."
+},
+{
+"task_id": "12808",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Copy and attach load specifications to loaded tanks."
+},
+{
+"task_id": "12802",
+"soc": "53-7121.00",
+"occupation": "Tank Car, Truck, and Ship Loaders",
+"task_text": "Remove and replace tank car dome caps, or direct other workers in their removal and replacement."
+}
+]

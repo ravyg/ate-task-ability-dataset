@@ -1,0 +1,802 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6147,"Nursing Instructors and Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Expression,3,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Information Ordering,3,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Comprehension,2,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Deductive Reasoning,2,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Originality,2,0
+6148,"Education Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Fluency of Ideas,2,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Inductive Reasoning,3,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Expression,3,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Comprehension,3,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Deductive Reasoning,2,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Problem Sensitivity,2,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Information Ordering,2,0
+6160,"Education Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Originality,2,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0
+6159,"Education Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Written Comprehension,3,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Oral Comprehension,3,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Inductive Reasoning,2,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Speech Recognition,2,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Selective Attention,2,0
+6154,"Education Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Information Ordering,2,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Oral Comprehension,3,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Oral Expression,3,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Problem Sensitivity,2,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Deductive Reasoning,2,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Speech Recognition,2,0
+6153,"Education Teachers, Postsecondary","Supervise students' fieldwork, internship, and research work.",Written Comprehension,2,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Written Comprehension,3,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Deductive Reasoning,3,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Inductive Reasoning,2,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Problem Sensitivity,2,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Information Ordering,2,0
+6151,"Education Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Perceptual Speed,1,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Oral Expression,3,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Written Comprehension,3,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Oral Comprehension,2,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Speech Clarity,3,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Information Ordering,2,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Deductive Reasoning,2,0
+6149,"Education Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as children's literature, learning and development, and reading instruction.",Fluency of Ideas,2,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6150,"Education Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Comprehension,3,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Expression,3,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Speech Recognition,2,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Problem Sensitivity,2,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Deductive Reasoning,2,0
+6158,"Education Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Written Comprehension,1,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6152,"Education Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Comprehension,3,0
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Expression,3,0
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Speech Recognition,2,0
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Problem Sensitivity,2,0
+6156,"Education Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Deductive Reasoning,2,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Comprehension,3,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Expression,3,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Deductive Reasoning,2,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Problem Sensitivity,2,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Clarity,2,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Recognition,2,0
+6155,"Education Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Information Ordering,2,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Comprehension,3,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Expression,2,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Written Comprehension,2,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Information Ordering,2,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Deductive Reasoning,1,0
+6162,"Education Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Speech Recognition,2,0
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6157,"Education Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Comprehension,3,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Expression,3,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Deductive Reasoning,2,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Information Ordering,2,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Written Comprehension,2,0
+6168,"Education Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Problem Sensitivity,2,0
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Written Comprehension,3,0
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Deductive Reasoning,2,0
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Information Ordering,2,0
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Perceptual Speed,1,0
+6161,"Education Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Near Vision,1,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Comprehension,3,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Expression,3,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Deductive Reasoning,2,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Problem Sensitivity,2,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Written Comprehension,2,0
+6164,"Education Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Speech Recognition,2,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Expression,3,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Comprehension,3,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Deductive Reasoning,3,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Information Ordering,2,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Originality,2,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Fluency of Ideas,2,0
+6166,"Education Teachers, Postsecondary",Write grant proposals to procure external research funding.,Mathematical Reasoning,2,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Oral Comprehension,3,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Oral Expression,3,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Written Comprehension,2,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Written Expression,2,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Speech Clarity,2,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Speech Recognition,2,0
+20086,"Education Teachers, Postsecondary",Serve as a liaison between the university and other governmental and educational agencies.,Deductive Reasoning,2,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Oral Expression,3,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Oral Comprehension,3,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Deductive Reasoning,2,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Speech Clarity,2,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Information Ordering,2,0
+6163,"Education Teachers, Postsecondary","Advise and instruct teachers employed in school systems by providing activities, such as in-service seminars.",Fluency of Ideas,2,0
+6167,"Education Teachers, Postsecondary",Participate in campus and community events.,Oral Comprehension,2,0
+6167,"Education Teachers, Postsecondary",Participate in campus and community events.,Oral Expression,2,0
+6167,"Education Teachers, Postsecondary",Participate in campus and community events.,Speech Recognition,2,0
+6167,"Education Teachers, Postsecondary",Participate in campus and community events.,Speech Clarity,1,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Written Comprehension,3,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Information Ordering,3,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Perceptual Speed,2,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Deductive Reasoning,2,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Near Vision,2,0
+6165,"Education Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Selective Attention,2,0
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,Oral Comprehension,3,0
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,Oral Expression,3,0
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,Speech Recognition,2,0
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,Problem Sensitivity,2,0
+6169,"Education Teachers, Postsecondary",Act as advisers to student organizations.,Deductive Reasoning,2,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6170,"Education Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Inductive Reasoning,3,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Written Expression,3,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Written Comprehension,3,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Oral Expression,2,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Speech Clarity,2,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Deductive Reasoning,2,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Originality,2,0
+20087,"Library Science Teachers, Postsecondary","Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",Information Ordering,2,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Written Comprehension,3,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Deductive Reasoning,3,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Inductive Reasoning,2,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Problem Sensitivity,2,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Information Ordering,2,0
+6173,"Library Science Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Perceptual Speed,1,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Written Comprehension,3,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Oral Comprehension,3,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Oral Expression,2,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Speech Clarity,2,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Speech Recognition,2,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Inductive Reasoning,2,0
+20088,"Library Science Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.",Selective Attention,2,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Oral Expression,3,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Written Comprehension,3,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Speech Clarity,3,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Information Ordering,2,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Deductive Reasoning,2,0
+6172,"Library Science Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.",Fluency of Ideas,2,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Expression,3,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Information Ordering,3,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Comprehension,2,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Deductive Reasoning,2,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Originality,2,0
+6171,"Library Science Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Fluency of Ideas,2,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6176,"Library Science Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6175,"Library Science Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6181,"Library Science Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6178,"Library Science Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Comprehension,3,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Expression,3,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Deductive Reasoning,2,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Problem Sensitivity,2,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Clarity,2,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Recognition,2,0
+6180,"Library Science Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Information Ordering,2,0
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Written Comprehension,3,0
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Deductive Reasoning,2,0
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Information Ordering,2,0
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Perceptual Speed,1,0
+6185,"Library Science Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Near Vision,1,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Comprehension,3,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Expression,3,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Problem Sensitivity,2,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Deductive Reasoning,2,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Speech Recognition,2,0
+6182,"Library Science Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Written Comprehension,2,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Written Expression,3,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Oral Expression,3,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Information Ordering,3,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Originality,2,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Fluency of Ideas,2,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Written Comprehension,2,0
+20089,"Library Science Teachers, Postsecondary",Develop and teach online courses.,Deductive Reasoning,2,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Comprehension,3,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Expression,3,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Speech Recognition,2,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Problem Sensitivity,2,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Deductive Reasoning,2,0
+6179,"Library Science Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Written Comprehension,1,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Written Comprehension,3,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Information Ordering,3,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Perceptual Speed,2,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Deductive Reasoning,2,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Near Vision,2,0
+6188,"Library Science Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Selective Attention,2,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Written Comprehension,3,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Written Expression,3,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Deductive Reasoning,3,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Problem Sensitivity,2,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Perceptual Speed,2,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Selective Attention,2,0
+20090,"Library Science Teachers, Postsecondary",Edit manuscripts for professional journals.,Near Vision,2,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Comprehension,3,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Expression,3,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Deductive Reasoning,2,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Problem Sensitivity,2,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Written Comprehension,2,0
+6186,"Library Science Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Speech Recognition,2,0
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Comprehension,3,0
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Expression,3,0
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Speech Recognition,2,0
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Problem Sensitivity,2,0
+6183,"Library Science Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Deductive Reasoning,2,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Expression,3,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Comprehension,3,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Deductive Reasoning,3,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Information Ordering,2,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Originality,2,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Fluency of Ideas,2,0
+6184,"Library Science Teachers, Postsecondary",Write grant proposals to procure external research funding.,Mathematical Reasoning,2,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Comprehension,3,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Expression,3,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Deductive Reasoning,2,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Information Ordering,2,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Written Comprehension,2,0
+6189,"Library Science Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Problem Sensitivity,2,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Comprehension,3,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Expression,2,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Written Comprehension,2,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Information Ordering,2,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Deductive Reasoning,1,0
+6187,"Library Science Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Speech Recognition,2,0
+6190,"Library Science Teachers, Postsecondary",Participate in campus and community events.,Oral Comprehension,2,0
+6190,"Library Science Teachers, Postsecondary",Participate in campus and community events.,Oral Expression,2,0
+6190,"Library Science Teachers, Postsecondary",Participate in campus and community events.,Speech Recognition,2,0
+6190,"Library Science Teachers, Postsecondary",Participate in campus and community events.,Speech Clarity,1,0
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,Oral Comprehension,3,0
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,Oral Expression,3,0
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,Speech Recognition,2,0
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,Problem Sensitivity,2,0
+6191,"Library Science Teachers, Postsecondary",Act as advisers to student organizations.,Deductive Reasoning,2,0
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,Oral Comprehension,3,0
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,Oral Expression,2,0
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,Deductive Reasoning,2,0
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,Information Ordering,2,0
+21123,"Library Science Teachers, Postsecondary",Select and invite guest speakers to speak to classes.,Written Comprehension,1,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6192,"Library Science Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Oral Expression,3,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Written Comprehension,3,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Speech Clarity,3,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Information Ordering,2,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Deductive Reasoning,2,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Fluency of Ideas,2,0
+6197,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as criminal law, defensive policing, and investigation techniques.",Oral Comprehension,2,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6193,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Written Comprehension,3,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Deductive Reasoning,3,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Inductive Reasoning,2,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Problem Sensitivity,2,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Information Ordering,2,0
+6195,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Perceptual Speed,1,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6196,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Written Comprehension,3,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Oral Comprehension,3,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Inductive Reasoning,2,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Speech Recognition,2,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Selective Attention,2,0
+6194,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Information Ordering,2,0
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6202,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Expression,3,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Information Ordering,3,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Comprehension,2,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Deductive Reasoning,2,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Originality,2,0
+6198,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Fluency of Ideas,2,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6200,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Comprehension,3,0
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Expression,3,0
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Speech Recognition,2,0
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Problem Sensitivity,2,0
+6205,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Deductive Reasoning,2,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Comprehension,3,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Expression,3,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Deductive Reasoning,2,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Problem Sensitivity,2,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Clarity,2,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Recognition,2,0
+6204,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Information Ordering,2,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Comprehension,3,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Expression,3,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Speech Recognition,2,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Problem Sensitivity,2,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Deductive Reasoning,2,0
+6206,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Written Comprehension,1,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Comprehension,3,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Expression,2,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Written Comprehension,2,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Information Ordering,2,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Deductive Reasoning,1,0
+6210,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Speech Recognition,2,0
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Written Comprehension,3,0
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Deductive Reasoning,2,0
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Information Ordering,2,0
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Perceptual Speed,1,0
+6203,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Near Vision,1,0
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,Written Expression,3,0
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,Written Comprehension,2,0
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,Deductive Reasoning,2,0
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,Fluency of Ideas,2,0
+21124,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write letters of recommendation for students.,Originality,2,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Comprehension,3,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Expression,3,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Deductive Reasoning,2,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Problem Sensitivity,2,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Written Comprehension,2,0
+6208,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Speech Recognition,2,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Written Comprehension,3,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Information Ordering,3,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Perceptual Speed,2,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Deductive Reasoning,2,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Near Vision,2,0
+6209,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Selective Attention,2,0
+6213,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Participate in campus and community events.,Oral Comprehension,2,0
+6213,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Participate in campus and community events.,Oral Expression,2,0
+6213,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Participate in campus and community events.,Speech Recognition,2,0
+6213,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Participate in campus and community events.,Speech Clarity,1,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Inductive Reasoning,3,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Expression,3,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Comprehension,3,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Deductive Reasoning,2,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Problem Sensitivity,2,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Information Ordering,2,0
+6199,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Originality,2,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Comprehension,3,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Expression,3,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Problem Sensitivity,2,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Deductive Reasoning,2,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Speech Recognition,2,0
+6201,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Written Comprehension,2,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Comprehension,3,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Expression,3,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Deductive Reasoning,2,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Information Ordering,2,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Written Comprehension,2,0
+6212,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Problem Sensitivity,2,0
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,Oral Comprehension,3,0
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,Oral Expression,3,0
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,Speech Recognition,2,0
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,Problem Sensitivity,2,0
+6214,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Act as advisers to student organizations.,Deductive Reasoning,2,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Expression,3,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Comprehension,3,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Deductive Reasoning,3,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Information Ordering,2,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Originality,2,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Fluency of Ideas,2,0
+6207,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Write grant proposals to procure external research funding.,Mathematical Reasoning,2,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6211,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6218,"Law Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Written Comprehension,3,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Oral Comprehension,3,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Deductive Reasoning,3,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Inductive Reasoning,2,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Problem Sensitivity,2,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Information Ordering,2,0
+6215,"Law Teachers, Postsecondary","Evaluate and grade students' class work, assignments, papers, and oral presentations.",Speech Recognition,2,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Expression,3,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Information Ordering,3,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Comprehension,2,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Deductive Reasoning,2,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Originality,2,0
+6219,"Law Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Fluency of Ideas,2,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6216,"Law Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Written Comprehension,3,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Oral Comprehension,3,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Inductive Reasoning,2,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Speech Recognition,2,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Selective Attention,2,0
+6220,"Law Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Information Ordering,2,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Oral Expression,3,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Written Comprehension,3,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Speech Clarity,3,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Information Ordering,2,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Deductive Reasoning,2,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Fluency of Ideas,2,0
+6217,"Law Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as civil procedure, contracts, and torts.",Oral Comprehension,2,0
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6227,"Law Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Inductive Reasoning,3,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Expression,3,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Comprehension,3,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Deductive Reasoning,2,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Problem Sensitivity,2,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Information Ordering,2,0
+6223,"Law Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Originality,2,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6221,"Law Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Comprehension,3,0
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Expression,3,0
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Speech Recognition,2,0
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Problem Sensitivity,2,0
+6222,"Law Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Deductive Reasoning,2,0
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Written Comprehension,3,0
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Deductive Reasoning,2,0
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Information Ordering,2,0
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Perceptual Speed,1,0
+6226,"Law Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks.",Near Vision,1,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Comprehension,3,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Expression,3,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Deductive Reasoning,2,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Problem Sensitivity,2,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Clarity,2,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Recognition,2,0
+6224,"Law Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Information Ordering,2,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Deductive Reasoning,3,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Written Comprehension,3,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Inductive Reasoning,2,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Information Ordering,2,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Problem Sensitivity,2,0
+6235,"Law Teachers, Postsecondary",Assign cases for students to hear and try.,Oral Expression,1,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Comprehension,3,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Expression,3,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Problem Sensitivity,2,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Deductive Reasoning,2,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Speech Recognition,2,0
+6225,"Law Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Written Comprehension,2,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Comprehension,3,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Oral Expression,3,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Speech Recognition,2,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Problem Sensitivity,2,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Deductive Reasoning,2,0
+6230,"Law Teachers, Postsecondary",Collaborate with colleagues to address teaching and research issues.,Written Comprehension,1,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Comprehension,3,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Expression,3,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Deductive Reasoning,2,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Problem Sensitivity,2,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Written Comprehension,2,0
+6228,"Law Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Speech Recognition,2,0
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,Oral Comprehension,3,0
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,Oral Expression,3,0
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,Speech Recognition,2,0
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,Problem Sensitivity,2,0
+6234,"Law Teachers, Postsecondary",Act as advisers to student organizations.,Deductive Reasoning,2,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Comprehension,3,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Expression,2,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Written Comprehension,2,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Information Ordering,2,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Deductive Reasoning,1,0
+6231,"Law Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Speech Recognition,2,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Comprehension,3,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Expression,3,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Deductive Reasoning,2,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Information Ordering,2,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Written Comprehension,2,0
+6229,"Law Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Problem Sensitivity,2,0
+6233,"Law Teachers, Postsecondary",Participate in campus and community events.,Oral Comprehension,2,0
+6233,"Law Teachers, Postsecondary",Participate in campus and community events.,Oral Expression,2,0
+6233,"Law Teachers, Postsecondary",Participate in campus and community events.,Speech Recognition,2,0
+6233,"Law Teachers, Postsecondary",Participate in campus and community events.,Speech Clarity,1,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Written Comprehension,3,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Information Ordering,3,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Perceptual Speed,2,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Deductive Reasoning,2,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Near Vision,2,0
+6232,"Law Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Selective Attention,2,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Expression,3,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Comprehension,3,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Deductive Reasoning,3,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Information Ordering,2,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Originality,2,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Fluency of Ideas,2,0
+6237,"Law Teachers, Postsecondary",Write grant proposals to procure external research funding.,Mathematical Reasoning,2,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6236,"Law Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6238,"Social Work Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Written Expression,3,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Information Ordering,3,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Written Comprehension,2,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Deductive Reasoning,2,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Originality,2,0
+6244,"Social Work Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, or handouts.",Fluency of Ideas,2,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6249,"Social Work Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Oral Comprehension,3,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Oral Expression,3,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Problem Sensitivity,2,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Deductive Reasoning,2,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Speech Recognition,2,0
+6243,"Social Work Teachers, Postsecondary",Supervise students' laboratory and field work.,Written Comprehension,2,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Oral Expression,3,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Written Comprehension,3,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Speech Clarity,3,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Information Ordering,2,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Deductive Reasoning,2,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Fluency of Ideas,2,0
+6240,"Social Work Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as family behavior, child and adolescent mental health, or social intervention evaluation.",Oral Comprehension,2,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Comprehension,3,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Oral Expression,3,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Problem Sensitivity,2,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Deductive Reasoning,2,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Speech Recognition,2,0
+6245,"Social Work Teachers, Postsecondary","Supervise undergraduate or graduate teaching, internship, and research work.",Written Comprehension,2,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Written Comprehension,3,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Deductive Reasoning,3,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Inductive Reasoning,2,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Problem Sensitivity,2,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Information Ordering,2,0
+6239,"Social Work Teachers, Postsecondary","Evaluate and grade students' class work, assignments, and papers.",Perceptual Speed,1,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6247,"Social Work Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Written Comprehension,3,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Oral Comprehension,3,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Inductive Reasoning,2,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Speech Recognition,2,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Selective Attention,2,0
+6241,"Social Work Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Information Ordering,2,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Oral Comprehension,3,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Oral Expression,3,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Speech Recognition,2,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Problem Sensitivity,2,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Deductive Reasoning,2,0
+6248,"Social Work Teachers, Postsecondary",Collaborate with colleagues and community agencies to address teaching and research issues.,Written Comprehension,1,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Comprehension,3,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Oral Expression,3,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Deductive Reasoning,2,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Problem Sensitivity,2,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Clarity,2,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Speech Recognition,2,0
+6250,"Social Work Teachers, Postsecondary",Advise students on academic and vocational curricula and on career issues.,Information Ordering,2,0
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6251,"Social Work Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Comprehension,3,0
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Oral Expression,3,0
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Speech Recognition,2,0
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Problem Sensitivity,2,0
+6246,"Social Work Teachers, Postsecondary",Maintain regularly scheduled office hours to advise and assist students.,Deductive Reasoning,2,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Comprehension,3,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Oral Expression,2,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Written Comprehension,2,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Information Ordering,2,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Deductive Reasoning,1,0
+6257,"Social Work Teachers, Postsecondary","Participate in student recruitment, registration, and placement activities.",Speech Recognition,2,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Written Comprehension,3,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Information Ordering,3,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Perceptual Speed,2,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Deductive Reasoning,2,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Near Vision,2,0
+6255,"Social Work Teachers, Postsecondary",Compile bibliographies of specialized materials for outside reading assignments.,Selective Attention,2,0
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",Written Comprehension,3,0
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",Deductive Reasoning,2,0
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",Information Ordering,2,0
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",Perceptual Speed,1,0
+6256,"Social Work Teachers, Postsecondary","Select and obtain materials and supplies, such as textbooks or laboratory equipment.",Near Vision,1,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Comprehension,3,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Oral Expression,3,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Deductive Reasoning,2,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Problem Sensitivity,2,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Written Comprehension,2,0
+6253,"Social Work Teachers, Postsecondary","Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.",Speech Recognition,2,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Oral Comprehension,3,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Oral Expression,3,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Problem Sensitivity,2,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Deductive Reasoning,2,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Speech Recognition,2,0
+23911,"Social Work Teachers, Postsecondary",Mentor new faculty members.,Speech Clarity,2,0
+6258,"Social Work Teachers, Postsecondary",Participate in campus and community events.,Oral Comprehension,2,0
+6258,"Social Work Teachers, Postsecondary",Participate in campus and community events.,Oral Expression,2,0
+6258,"Social Work Teachers, Postsecondary",Participate in campus and community events.,Speech Recognition,2,0
+6258,"Social Work Teachers, Postsecondary",Participate in campus and community events.,Speech Clarity,1,0
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,Oral Comprehension,3,0
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,Oral Expression,3,0
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,Speech Recognition,2,0
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,Problem Sensitivity,2,0
+6260,"Social Work Teachers, Postsecondary",Act as advisers to student organizations.,Deductive Reasoning,2,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Inductive Reasoning,3,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Expression,3,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Written Comprehension,3,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Deductive Reasoning,2,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Problem Sensitivity,2,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Information Ordering,2,0
+6242,"Social Work Teachers, Postsecondary","Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",Originality,2,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Comprehension,3,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Oral Expression,3,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Deductive Reasoning,2,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Information Ordering,2,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Written Comprehension,2,0
+6254,"Social Work Teachers, Postsecondary","Perform administrative duties, such as serving as department head.",Problem Sensitivity,2,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Expression,3,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Written Comprehension,3,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Deductive Reasoning,3,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Information Ordering,2,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Originality,2,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Fluency of Ideas,2,0
+6252,"Social Work Teachers, Postsecondary",Write grant proposals to procure external research funding.,Mathematical Reasoning,2,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Comprehension,3,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Oral Expression,3,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Deductive Reasoning,3,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Problem Sensitivity,2,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Comprehension,2,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Written Expression,2,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Recognition,2,0
+6259,"Social Work Teachers, Postsecondary",Provide professional consulting services to government or industry.,Speech Clarity,2,0
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Oral Expression,3,0
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Speech Clarity,3,0
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Manual Dexterity,2,1
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Finger Dexterity,2,1
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Near Vision,2,0
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Visualization,2,0
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Arm-Hand Steadiness,2,1
+6262,"Art, Drama, and Music Teachers, Postsecondary",Explain and demonstrate artistic techniques.,Originality,2,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Written Comprehension,3,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Oral Comprehension,3,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Deductive Reasoning,3,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Inductive Reasoning,2,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Problem Sensitivity,2,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Information Ordering,2,0
+6261,"Art, Drama, and Music Teachers, Postsecondary","Evaluate and grade students' class work, performances, projects, assignments, and papers.",Speech Recognition,2,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Oral Expression,3,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Oral Comprehension,3,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Speech Clarity,2,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Problem Sensitivity,2,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Information Ordering,2,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Deductive Reasoning,2,0
+6263,"Art, Drama, and Music Teachers, Postsecondary","Prepare students for performances, exams, or assessments.",Time Sharing,1,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Expression,3,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Oral Comprehension,3,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Clarity,3,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Speech Recognition,3,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Problem Sensitivity,2,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Deductive Reasoning,2,0
+6267,"Art, Drama, and Music Teachers, Postsecondary","Initiate, facilitate, and moderate classroom discussions.",Time Sharing,2,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Oral Expression,3,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Written Comprehension,3,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Speech Clarity,3,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Information Ordering,2,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Deductive Reasoning,2,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Fluency of Ideas,2,0
+6264,"Art, Drama, and Music Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as acting techniques, fundamentals of music, and art history.",Oral Comprehension,2,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Expression,3,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Information Ordering,3,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Written Comprehension,2,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Deductive Reasoning,2,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Originality,2,0
+6266,"Art, Drama, and Music Teachers, Postsecondary","Prepare course materials, such as syllabi, homework assignments, and handouts.",Fluency of Ideas,2,0
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Information Ordering,3,0
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Written Expression,2,0
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Number Facility,2,0
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Perceptual Speed,2,0
+6270,"Art, Drama, and Music Teachers, Postsecondary","Maintain student attendance records, grades, and other required records.",Selective Attention,2,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Written Comprehension,3,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Oral Comprehension,3,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Inductive Reasoning,2,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Speech Recognition,2,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Selective Attention,2,0
+6268,"Art, Drama, and Music Teachers, Postsecondary","Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.",Information Ordering,2,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Deductive Reasoning,3,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Inductive Reasoning,3,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Information Ordering,3,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Written Expression,2,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Originality,2,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Problem Sensitivity,2,0
+6273,"Art, Drama, and Music Teachers, Postsecondary","Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",Fluency of Ideas,2,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Comprehension,3,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Information Ordering,3,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Deductive Reasoning,2,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Written Expression,2,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Perceptual Speed,2,0
+6275,"Art, Drama, and Music Teachers, Postsecondary","Compile, administer, and grade examinations, or assign this work to others.",Mathematical Reasoning,1,0

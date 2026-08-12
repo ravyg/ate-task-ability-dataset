@@ -1,0 +1,608 @@
+[
+{
+"task_id": "9920",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Maintain inventory levels, ordering new supplies as necessary."
+},
+{
+"task_id": "9922",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Repair and service blasting, shooting, and automotive equipment, and electrical wiring and instruments, using hand tools."
+},
+{
+"task_id": "9923",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Set up and operate short-wave radio or field telephone equipment to transmit and receive blast information."
+},
+{
+"task_id": "9924",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Insert waterproof sealers, bullets, and/or powder charges into guns, and screw gun ports back into place."
+},
+{
+"task_id": "9925",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Clean, gauge, and lubricate gun ports."
+},
+{
+"task_id": "9927",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Lower perforating guns into wells, using hoists; then use measuring devices and instrument panels to position guns in correct positions for taking samples."
+},
+{
+"task_id": "23490",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Create and lay out designs for drill and blast patterns."
+},
+{
+"task_id": "23491",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Document geological formations encountered during work."
+},
+{
+"task_id": "23492",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Operate machines to flush earth cuttings or to blow dust from holes."
+},
+{
+"task_id": "23493",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Set up and operate equipment such as hoists, jackhammers, and drills, in order to bore charge holes."
+},
+{
+"task_id": "23494",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Signal crane operators to move equipment."
+},
+{
+"task_id": "20912",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Hang ventilation tubing and ventilation curtains to ensure that the mining face area is kept properly ventilated."
+},
+{
+"task_id": "20913",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Conduct methane gas checks to ensure breathing quality of air."
+},
+{
+"task_id": "20914",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Check the stability of roof and rib support systems before mining face areas."
+},
+{
+"task_id": "14956",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Operate mining machines to gather coal and convey it to floors or shuttle cars."
+},
+{
+"task_id": "14959",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Drive machines into position at working faces."
+},
+{
+"task_id": "14960",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Move controls to start and regulate movement of conveyors and to start and position drill cutters or torches."
+},
+{
+"task_id": "14958",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Reposition machines to make additional holes or cuts."
+},
+{
+"task_id": "14957",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Determine locations, boundaries, and depths of holes or channels to be cut."
+},
+{
+"task_id": "14961",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Observe and listen to equipment operation to detect binding or stoppage of tools or other equipment malfunctions."
+},
+{
+"task_id": "14962",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Repair, oil, and adjust machines, and change cutting teeth, using wrenches."
+},
+{
+"task_id": "14964",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Install casings to prevent cave-ins."
+},
+{
+"task_id": "19876",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Scrape or wash conveyors, using belt scrapers or belt washers, to minimize dust production."
+},
+{
+"task_id": "14963",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Move levers to raise and lower hydraulic safety bars supporting roofs above machines until other workers complete framing."
+},
+{
+"task_id": "19875",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Apply new technologies developed to minimize the environmental impact of coal mining."
+},
+{
+"task_id": "14965",
+"soc": "47-5041.00",
+"occupation": "Continuous Mining Machine Operators",
+"task_text": "Guide and assist crews laying track and resetting supports and blocking."
+},
+{
+"task_id": "4889",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Drill bolt holes into roofs at specified distances from ribs or adjacent bolts."
+},
+{
+"task_id": "21017",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Pull down loose rock that cannot be supported."
+},
+{
+"task_id": "4894",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Position bolting machines, and insert drill bits into chucks."
+},
+{
+"task_id": "21018",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Perform safety checks on equipment before operating."
+},
+{
+"task_id": "21019",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Perform tests to determine if methane gas is present."
+},
+{
+"task_id": "4890",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Force bolts into holes, using hydraulic mechanisms of self-propelled bolting machines."
+},
+{
+"task_id": "21020",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Perform ventilation tasks, such as hanging ventilation curtains and tubes."
+},
+{
+"task_id": "21021",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Dust rocks after bolting."
+},
+{
+"task_id": "21022",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Install various types of bolts, including truss, glue, and resin bolts, traversing entire ceiling spans."
+},
+{
+"task_id": "21023",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Drill test holes and test bolts for specified tension, using torque wrenches."
+},
+{
+"task_id": "4893",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Position safety jacks to support underground mine roofs until bolts can be installed."
+},
+{
+"task_id": "4895",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Rotate chucks to turn bolts and open expansion heads against rock formations."
+},
+{
+"task_id": "4891",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Remove drill bits from chucks after drilling holes, and insert bolts into chucks."
+},
+{
+"task_id": "4897",
+"soc": "47-5043.00",
+"occupation": "Roof Bolters, Mining",
+"task_text": "Tighten ends of anchored truss bolts, using turnbuckles."
+},
+{
+"task_id": "23501",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Handle high voltage sources and hang electrical cables."
+},
+{
+"task_id": "23498",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Drive loaded shuttle cars to ramps and move controls to discharge loads into mine cars or onto conveyors."
+},
+{
+"task_id": "15183",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Pry off loose material from roofs and move it into the paths of machines, using crowbars."
+},
+{
+"task_id": "15184",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Move trailing electrical cables clear of obstructions, using rubber safety gloves."
+},
+{
+"task_id": "23496",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Control conveyors that run the entire length of shuttle cars to distribute loads as loading progresses."
+},
+{
+"task_id": "23506",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Observe hand signals, grade stakes, or other markings when operating machines."
+},
+{
+"task_id": "23499",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Examine roadway and clear obstructions from the path of travel."
+},
+{
+"task_id": "15185",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Drive machines into piles of material blasted from working faces."
+},
+{
+"task_id": "15186",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Operate levers to move conveyor booms or shovels so that mine contents such as coal, rock, and ore can be placed into cars or onto conveyors."
+},
+{
+"task_id": "23495",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Clean, fuel, service, and perform safety checks on all equipment, and repair and replace parts as necessary."
+},
+{
+"task_id": "15187",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Clean hoppers, and clean spillage from tracks, walks, driveways, and conveyor decking."
+},
+{
+"task_id": "15188",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Oil, lubricate, and adjust conveyors, crushers, and other equipment, using hand tools and lubricating equipment."
+},
+{
+"task_id": "23504",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Monitor loading processes to ensure that materials are loaded according to specifications."
+},
+{
+"task_id": "23503",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Measure, weigh, or verify levels of rock, gravel, or other excavated material to prevent equipment overloads."
+},
+{
+"task_id": "15189",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Replace hydraulic hoses, headlight bulbs, and gathering-arm teeth."
+},
+{
+"task_id": "15190",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Stop gathering arms when cars are full."
+},
+{
+"task_id": "23505",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Move mine cars into position for loading and unloading, using pinchbars inserted under car wheels to position cars under loading spouts."
+},
+{
+"task_id": "15191",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Advance machines to gather material and convey it into cars."
+},
+{
+"task_id": "15193",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Signal workers to move loaded cars."
+},
+{
+"task_id": "23500",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Guide and stop cars by switching, applying brakes, or placing scotches, or wooden wedges, between wheels and rails."
+},
+{
+"task_id": "15194",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Observe and record car numbers, carriers, customers, tonnages, and grades and conditions of material."
+},
+{
+"task_id": "23509",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Read written instructions or confer with supervisors about schedules and materials to be moved."
+},
+{
+"task_id": "23502",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Maintain records of materials moved."
+},
+{
+"task_id": "23497",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Direct other workers to move stakes, place blocks, position anchors or cables, or move materials."
+},
+{
+"task_id": "23508",
+"soc": "47-5044.00",
+"occupation": "Loading and Moving Machine Operators, Underground Mining",
+"task_text": "Push or ride cars down slopes, or hook cars to cables and control cable drum brakes, to ease cars down inclines."
+},
+{
+"task_id": "14966",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Locate grain line patterns to determine how rocks will split when cut."
+},
+{
+"task_id": "14967",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Remove pieces of stone from larger masses, using jackhammers, wedges, and other tools."
+},
+{
+"task_id": "14968",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Insert wedges and feathers into holes, and drive wedges with sledgehammers to split stone sections from masses."
+},
+{
+"task_id": "14969",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Mark dimensions or outlines on stone prior to cutting, using rules and chalk lines."
+},
+{
+"task_id": "14970",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Cut slabs of stone into sheets that will be used for floors or counters."
+},
+{
+"task_id": "14971",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Set charges of explosives to split rock."
+},
+{
+"task_id": "14972",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Drill holes along outlines, using jackhammers."
+},
+{
+"task_id": "14973",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Drill holes into sides of stones broken from masses, insert dogs or attach slings, and direct removal of stones."
+},
+{
+"task_id": "14974",
+"soc": "47-5051.00",
+"occupation": "Rock Splitters, Quarry",
+"task_text": "Cut grooves along outlines, using chisels."
+},
+{
+"task_id": "7112",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs."
+},
+{
+"task_id": "7116",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Dismantle and repair oil field machinery, boilers, and steam engine parts, using hand tools and power tools."
+},
+{
+"task_id": "7119",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Guide cranes to move loads about decks."
+},
+{
+"task_id": "20145",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Walk flow lines to locate leaks, using electronic detectors and by making visual inspections, and repair the leaks."
+},
+{
+"task_id": "23978",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Lay gas and oil pipelines."
+},
+{
+"task_id": "7113",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Bolt together pump and engine parts."
+},
+{
+"task_id": "7115",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Move pipes to and from trucks, using truck winches and motorized lifts, or by hand."
+},
+{
+"task_id": "23979",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Clean trucks used in the fields."
+},
+{
+"task_id": "7121",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Dig holes, set forms, and mix and pour concrete into forms to make foundations for wood or steel derricks."
+},
+{
+"task_id": "7120",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Supply equipment to rig floors as requested and provide assistance to roughnecks."
+},
+{
+"task_id": "7111",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Clean up spilled oil by bailing it into barrels."
+},
+{
+"task_id": "7117",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Dig drainage ditches around wells and storage tanks."
+},
+{
+"task_id": "7122",
+"soc": "47-5071.00",
+"occupation": "Roustabouts, Oil and Gas",
+"task_text": "Cut down and remove trees and brush to clear drill sites, to reduce fire hazards, and to make way for roads to sites."
+},
+{
+"task_id": "13699",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Observe and monitor equipment operation during the extraction process to detect any problems."
+},
+{
+"task_id": "13700",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Drive moving equipment to transport materials and parts to excavation sites."
+},
+{
+"task_id": "13705",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Unload materials, devices, and machine parts, using hand tools."
+},
+{
+"task_id": "13709",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Set up and adjust equipment used to excavate geological materials."
+},
+{
+"task_id": "13702",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Organize materials to prepare for use."
+},
+{
+"task_id": "13698",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Repair and maintain automotive and drilling equipment, using hand tools."
+},
+{
+"task_id": "13701",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Clean up work areas and remove debris after extraction activities are complete."
+},
+{
+"task_id": "13708",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Clean and prepare sites for excavation or boring."
+},
+{
+"task_id": "13706",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Load materials into well holes or into equipment, using hand tools."
+},
+{
+"task_id": "13703",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Provide assistance to extraction craft workers, such as earth drillers and derrick operators."
+},
+{
+"task_id": "13710",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Collect and examine geological matter, using hand tools and testing devices."
+},
+{
+"task_id": "13707",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Signal workers to start geological material extraction or boring."
+},
+{
+"task_id": "13704",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Dismantle extracting and boring equipment used for excavation, using hand tools."
+},
+{
+"task_id": "13711",
+"soc": "47-5081.00",
+"occupation": "Helpers--Extraction Workers",
+"task_text": "Dig trenches."
+}
+]

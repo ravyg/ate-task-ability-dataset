@@ -1,0 +1,850 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Inductive Reasoning,3,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Deductive Reasoning,2,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Problem Sensitivity,3,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Written Comprehension,2,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Visualization,2,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Spatial Orientation,2,0
+15633,Water Resource Specialists,Analyze storm water systems to identify opportunities for water resource improvements.,Information Ordering,2,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Inductive Reasoning,3,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Deductive Reasoning,3,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Problem Sensitivity,2,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Written Comprehension,2,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Information Ordering,2,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Selective Attention,2,0
+15631,Water Resource Specialists,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",Oral Comprehension,2,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Inductive Reasoning,3,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Deductive Reasoning,3,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Problem Sensitivity,2,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Information Ordering,2,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Written Expression,2,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Fluency of Ideas,2,0
+15634,Water Resource Specialists,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,Originality,1,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Inductive Reasoning,3,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Deductive Reasoning,2,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Problem Sensitivity,3,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Written Comprehension,2,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Mathematical Reasoning,2,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Information Ordering,2,0
+15630,Water Resource Specialists,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,Category Flexibility,1,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Deductive Reasoning,3,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Inductive Reasoning,2,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Visualization,3,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Written Comprehension,3,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Problem Sensitivity,2,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Spatial Orientation,2,0
+15616,Water Resource Specialists,"Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.",Near Vision,2,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Oral Expression,3,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Oral Comprehension,2,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Written Comprehension,2,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Speech Clarity,3,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Deductive Reasoning,2,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Information Ordering,2,0
+15624,Water Resource Specialists,"Present water resource proposals to government, public interest groups, or community groups.",Fluency of Ideas,1,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Deductive Reasoning,3,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Inductive Reasoning,2,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Information Ordering,3,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Written Expression,3,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Problem Sensitivity,2,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Fluency of Ideas,2,0
+15628,Water Resource Specialists,Develop plans to protect watershed health or rehabilitate watersheds.,Originality,1,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Written Expression,3,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Written Comprehension,3,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Oral Comprehension,2,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Information Ordering,2,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Fluency of Ideas,2,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Deductive Reasoning,2,0
+15621,Water Resource Specialists,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",Originality,1,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Mathematical Reasoning,3,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Number Facility,3,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Deductive Reasoning,3,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Inductive Reasoning,2,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Written Comprehension,2,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Problem Sensitivity,2,0
+15632,Water Resource Specialists,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,Information Ordering,1,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Oral Expression,3,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Oral Comprehension,2,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Deductive Reasoning,2,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Written Comprehension,2,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Problem Sensitivity,2,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Speech Clarity,2,0
+15623,Water Resource Specialists,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,Information Ordering,2,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Written Expression,3,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Information Ordering,3,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Selective Attention,2,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Written Comprehension,2,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Memorization,1,0
+15620,Water Resource Specialists,Compile and maintain documentation on the health of a body of water.,Near Vision,2,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Inductive Reasoning,3,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Problem Sensitivity,3,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Deductive Reasoning,2,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Category Flexibility,2,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Written Comprehension,2,0
+15627,Water Resource Specialists,Identify and characterize specific causes or sources of water pollution.,Flexibility of Closure,2,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Selective Attention,3,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Problem Sensitivity,3,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Deductive Reasoning,2,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Near Vision,2,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Inductive Reasoning,2,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Written Comprehension,2,0
+15635,Water Resource Specialists,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",Information Ordering,2,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Information Ordering,3,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Spatial Orientation,3,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Near Vision,2,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Perceptual Speed,2,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Selective Attention,2,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Written Comprehension,2,0
+15619,Water Resource Specialists,"Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.",Finger Dexterity,1,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Deductive Reasoning,3,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Inductive Reasoning,2,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Written Comprehension,3,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Written Expression,3,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Problem Sensitivity,2,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Fluency of Ideas,2,0
+15622,Water Resource Specialists,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",Originality,1,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Inductive Reasoning,3,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Deductive Reasoning,2,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Information Ordering,3,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Problem Sensitivity,2,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Written Expression,2,0
+15629,Water Resource Specialists,Develop or implement standardized water monitoring and assessment methods.,Category Flexibility,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Oral Expression,3,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Oral Comprehension,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Problem Sensitivity,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Deductive Reasoning,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Speech Clarity,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Speech Recognition,2,0
+15615,Water Resource Specialists,Supervise teams of workers who capture water from wells and rivers.,Information Ordering,1,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Oral Expression,3,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Oral Comprehension,3,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Deductive Reasoning,3,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Problem Sensitivity,2,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Speech Clarity,2,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Speech Recognition,2,0
+15617,Water Resource Specialists,Negotiate for water rights with communities or water facilities to meet water supply demands.,Fluency of Ideas,2,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Selective Attention,3,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Problem Sensitivity,3,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Inductive Reasoning,2,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Information Ordering,2,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Near Vision,2,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Spatial Orientation,2,0
+15626,Water Resource Specialists,"Monitor water use, demand, or quality in a particular geographic area.",Mathematical Reasoning,1,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Inductive Reasoning,3,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Deductive Reasoning,2,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Problem Sensitivity,2,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Visualization,2,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Spatial Orientation,2,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Fluency of Ideas,2,0
+15625,Water Resource Specialists,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",Category Flexibility,1,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Selective Attention,3,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Information Ordering,3,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Near Vision,2,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Written Comprehension,2,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Number Facility,2,0
+20842,Postmasters and Mail Superintendents,Monitor employees' work schedules and attendance for payroll purposes.,Memorization,1,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Information Ordering,3,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Oral Expression,3,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Problem Sensitivity,2,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Deductive Reasoning,2,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Speech Clarity,2,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Time Sharing,2,0
+5260,Postmasters and Mail Superintendents,"Organize and supervise activities, such as the processing of incoming and outgoing mail.",Selective Attention,2,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Oral Comprehension,3,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Oral Expression,3,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Problem Sensitivity,3,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Deductive Reasoning,2,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Speech Clarity,2,0
+5262,Postmasters and Mail Superintendents,Resolve customer complaints.,Speech Recognition,2,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Information Ordering,3,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Mathematical Reasoning,2,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Written Expression,2,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Deductive Reasoning,2,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Number Facility,2,0
+5264,Postmasters and Mail Superintendents,Prepare employee work schedules.,Selective Attention,2,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Oral Expression,3,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Deductive Reasoning,3,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Problem Sensitivity,2,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Information Ordering,3,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Time Sharing,2,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Oral Comprehension,2,0
+5261,Postmasters and Mail Superintendents,"Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.",Speech Clarity,2,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Oral Expression,3,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Oral Comprehension,3,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Deductive Reasoning,2,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Problem Sensitivity,2,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Written Comprehension,2,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Speech Clarity,2,0
+5263,Postmasters and Mail Superintendents,"Hire and train employees, and evaluate their performance.",Speech Recognition,2,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Written Expression,3,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Information Ordering,3,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Number Facility,2,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Mathematical Reasoning,2,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Written Comprehension,2,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Deductive Reasoning,2,0
+5265,Postmasters and Mail Superintendents,Prepare and submit detailed and summary reports of post office activities to designated supervisors.,Selective Attention,2,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Oral Expression,3,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Oral Comprehension,3,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Deductive Reasoning,3,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Problem Sensitivity,2,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Speech Clarity,2,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Speech Recognition,2,0
+5266,Postmasters and Mail Superintendents,Negotiate labor disputes.,Fluency of Ideas,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Oral Expression,3,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Oral Comprehension,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Deductive Reasoning,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Problem Sensitivity,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Written Comprehension,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Speech Clarity,2,0
+5270,Postmasters and Mail Superintendents,Select and train postmasters and managers of associate postal units.,Information Ordering,2,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Oral Expression,3,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Oral Comprehension,2,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Written Comprehension,2,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Speech Clarity,3,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Deductive Reasoning,2,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Information Ordering,2,0
+5269,Postmasters and Mail Superintendents,"Inform the public of available services, and of postal laws and regulations.",Speech Recognition,1,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Number Facility,3,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Mathematical Reasoning,2,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Finger Dexterity,2,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Near Vision,2,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Selective Attention,2,0
+5268,Postmasters and Mail Superintendents,Issue and cash money orders.,Wrist-Finger Speed,1,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Number Facility,3,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Mathematical Reasoning,2,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Oral Comprehension,2,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Oral Expression,2,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Near Vision,2,0
+5267,Postmasters and Mail Superintendents,Collect rents for post office boxes.,Finger Dexterity,1,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Oral Comprehension,3,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Oral Expression,3,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Deductive Reasoning,3,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Number Facility,2,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Mathematical Reasoning,2,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Written Comprehension,2,0
+5271,Postmasters and Mail Superintendents,"Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.",Speech Recognition,2,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Mathematical Reasoning,3,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Number Facility,3,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Written Expression,3,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Information Ordering,2,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Deductive Reasoning,2,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Near Vision,2,0
+7228,"Property, Real Estate, and Community Association Managers",Prepare detailed budgets and financial reports for properties.,Selective Attention,2,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Information Ordering,3,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Problem Sensitivity,3,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Deductive Reasoning,2,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Time Sharing,2,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Oral Expression,2,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Oral Comprehension,2,0
+7224,"Property, Real Estate, and Community Association Managers","Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",Selective Attention,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Information Ordering,3,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Deductive Reasoning,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Problem Sensitivity,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Time Sharing,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Oral Expression,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Visualization,2,0
+7223,"Property, Real Estate, and Community Association Managers","Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",Mathematical Reasoning,1,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Information Ordering,3,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Number Facility,3,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Mathematical Reasoning,2,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Deductive Reasoning,2,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Selective Attention,2,0
+7220,"Property, Real Estate, and Community Association Managers","Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",Oral Expression,2,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Oral Expression,3,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Oral Comprehension,3,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Deductive Reasoning,3,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Problem Sensitivity,2,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Speech Clarity,2,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Speech Recognition,2,0
+7241,"Property, Real Estate, and Community Association Managers","Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",Mathematical Reasoning,2,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Oral Expression,3,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Deductive Reasoning,2,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Problem Sensitivity,2,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Information Ordering,2,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Speech Clarity,2,0
+7229,"Property, Real Estate, and Community Association Managers",Direct and coordinate the activities of staff and contract personnel and evaluate their performance.,Oral Comprehension,2,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Written Expression,3,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Written Comprehension,3,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Deductive Reasoning,3,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Information Ordering,2,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Near Vision,2,0
+7234,"Property, Real Estate, and Community Association Managers","Prepare and administer contracts for provision of property services, such as cleaning, maintenance, and security services.",Oral Comprehension,2,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Oral Expression,3,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Oral Comprehension,2,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Written Expression,2,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Fluency of Ideas,2,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Speech Clarity,2,0
+7231,"Property, Real Estate, and Community Association Managers","Market vacant space to prospective tenants through leasing agents, advertising, or other methods.",Originality,2,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Oral Expression,3,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Oral Comprehension,3,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Speech Clarity,2,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Speech Recognition,2,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Deductive Reasoning,2,0
+7236,"Property, Real Estate, and Community Association Managers",Act as liaisons between on-site managers or tenants and owners.,Problem Sensitivity,2,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Inductive Reasoning,3,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Deductive Reasoning,3,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Problem Sensitivity,3,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Oral Comprehension,2,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Written Comprehension,2,0
+7222,"Property, Real Estate, and Community Association Managers","Investigate complaints, disturbances, and violations and resolve problems, following management rules and regulations.",Information Ordering,2,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Problem Sensitivity,3,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Near Vision,3,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Far Vision,2,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Selective Attention,2,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Inductive Reasoning,2,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Visualization,2,0
+7221,"Property, Real Estate, and Community Association Managers","Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",Perceptual Speed,2,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Information Ordering,3,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Written Expression,2,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Number Facility,2,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Near Vision,2,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Selective Attention,2,0
+7226,"Property, Real Estate, and Community Association Managers","Maintain records of sales, rental or usage activity, special permits issued, maintenance and operating costs, or property availability.",Memorization,1,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Oral Expression,3,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Oral Comprehension,3,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Deductive Reasoning,3,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Problem Sensitivity,2,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Written Comprehension,2,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Speech Clarity,2,0
+7238,"Property, Real Estate, and Community Association Managers",Meet with boards of directors and committees to discuss and resolve legal and environmental issues or disputes between neighbors.,Speech Recognition,2,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Inductive Reasoning,3,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Deductive Reasoning,3,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Mathematical Reasoning,2,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Number Facility,2,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Written Comprehension,2,0
+7232,"Property, Real Estate, and Community Association Managers","Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",Problem Sensitivity,2,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Oral Expression,3,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Oral Comprehension,3,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Written Comprehension,2,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Deductive Reasoning,2,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Speech Clarity,2,0
+7230,"Property, Real Estate, and Community Association Managers","Maintain contact with insurance carriers, fire and police departments, and other agencies to ensure protection and compliance with codes and regulations.",Information Ordering,2,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Oral Comprehension,3,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Oral Expression,2,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Deductive Reasoning,3,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Written Comprehension,3,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Speech Clarity,2,0
+7239,"Property, Real Estate, and Community Association Managers",Confer with legal authorities to ensure that renting and advertising practices are not discriminatory and that properties comply with state and federal regulations.,Speech Recognition,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Deductive Reasoning,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Mathematical Reasoning,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Number Facility,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Oral Comprehension,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Oral Expression,2,0
+7235,"Property, Real Estate, and Community Association Managers","Purchase building and maintenance supplies, equipment, or furniture.",Written Comprehension,1,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Inductive Reasoning,3,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Deductive Reasoning,2,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Mathematical Reasoning,2,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Number Facility,2,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Written Comprehension,2,0
+7233,"Property, Real Estate, and Community Association Managers",Review rents to ensure that they are in line with rental markets.,Near Vision,2,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Manual Dexterity,3,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Finger Dexterity,2,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Near Vision,2,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Arm-Hand Steadiness,2,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Gross Body Coordination,2,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Stamina,1,0
+7240,"Property, Real Estate, and Community Association Managers","Clean common areas, change light bulbs, and make minor property repairs.",Static Strength,1,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Deductive Reasoning,3,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Written Comprehension,3,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Information Ordering,2,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Near Vision,2,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Problem Sensitivity,2,0
+7227,"Property, Real Estate, and Community Association Managers","Determine and certify the eligibility of prospective tenants, following government regulations.",Inductive Reasoning,2,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Oral Expression,3,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Oral Comprehension,3,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Speech Clarity,2,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Speech Recognition,2,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Problem Sensitivity,2,0
+7237,"Property, Real Estate, and Community Association Managers",Confer regularly with community association members to ensure their needs are being met.,Deductive Reasoning,1,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Oral Expression,3,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Oral Comprehension,2,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Far Vision,2,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Gross Body Coordination,1,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Speech Clarity,3,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Speech Recognition,2,0
+7219,"Property, Real Estate, and Community Association Managers","Meet with prospective tenants to show properties, explain terms of occupancy, and provide information about local areas.",Written Comprehension,2,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Inductive Reasoning,3,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Deductive Reasoning,3,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Mathematical Reasoning,3,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Number Facility,2,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Written Comprehension,2,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Problem Sensitivity,2,0
+7245,"Property, Real Estate, and Community Association Managers","Analyze information on property values, taxes, zoning, population growth, and traffic volume and patterns to determine if properties should be acquired.",Information Ordering,2,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Oral Expression,3,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Oral Comprehension,3,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Deductive Reasoning,3,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Written Comprehension,3,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Speech Clarity,2,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Written Expression,2,0
+7225,"Property, Real Estate, and Community Association Managers","Negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",Problem Sensitivity,2,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Oral Comprehension,3,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Oral Expression,2,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Visualization,2,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Written Comprehension,2,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Deductive Reasoning,2,0
+7243,"Property, Real Estate, and Community Association Managers",Contract with architectural firms to draw up detailed plans for new structures.,Problem Sensitivity,2,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Oral Expression,3,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Oral Comprehension,3,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Mathematical Reasoning,3,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Number Facility,2,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Deductive Reasoning,3,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Speech Clarity,2,0
+7242,"Property, Real Estate, and Community Association Managers",Negotiate short- and long-term loans to finance construction and ownership of structures.,Written Comprehension,2,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Oral Expression,3,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Oral Comprehension,3,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Deductive Reasoning,3,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Problem Sensitivity,2,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Speech Clarity,3,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Speech Recognition,2,0
+7244,"Property, Real Estate, and Community Association Managers","Negotiate with government leaders, businesses, special interest representatives, and utility companies to gain support for new projects and to eliminate potential obstacles.",Fluency of Ideas,2,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Information Ordering,3,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Deductive Reasoning,3,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Problem Sensitivity,2,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Written Expression,2,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Oral Expression,2,0
+1131,Social and Community Service Managers,Establish and oversee administrative procedures to meet objectives set by boards of directors or senior management.,Oral Comprehension,2,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Oral Expression,3,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Oral Comprehension,2,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Problem Sensitivity,2,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Speech Clarity,2,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Information Ordering,2,0
+1129,Social and Community Service Managers,Direct activities of professional and technical staff members and volunteers.,Time Sharing,2,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Deductive Reasoning,3,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Inductive Reasoning,2,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Problem Sensitivity,3,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Oral Comprehension,2,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Oral Expression,2,0
+1130,Social and Community Service Managers,Evaluate the work of staff and volunteers to ensure that programs are of appropriate quality and that resources are used effectively.,Written Comprehension,2,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Deductive Reasoning,3,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Inductive Reasoning,2,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Oral Comprehension,3,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Oral Expression,2,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Written Comprehension,2,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Fluency of Ideas,2,0
+1132,Social and Community Service Managers,"Participate in the determination of organizational policies regarding such issues as participant eligibility, program requirements, and program benefits.",Problem Sensitivity,2,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Written Expression,3,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Information Ordering,3,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Mathematical Reasoning,2,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Number Facility,2,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Near Vision,2,0
+1128,Social and Community Service Managers,"Prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",Selective Attention,2,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Oral Expression,3,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Oral Comprehension,3,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Problem Sensitivity,3,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Deductive Reasoning,2,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Speech Clarity,2,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Speech Recognition,2,0
+18463,Social and Community Service Managers,"Provide direct service and support to individuals or clients, such as handling a referral for child advocacy issues, conducting a needs evaluation, or resolving complaints.",Inductive Reasoning,2,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Oral Expression,3,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Oral Comprehension,3,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Speech Clarity,2,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Written Comprehension,2,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Deductive Reasoning,2,0
+1127,Social and Community Service Managers,Establish and maintain relationships with other agencies and organizations in community to meet community needs and to ensure that services are not duplicated.,Problem Sensitivity,2,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Oral Expression,3,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Oral Comprehension,3,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Deductive Reasoning,2,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Problem Sensitivity,2,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Speech Clarity,2,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Speech Recognition,2,0
+1135,Social and Community Service Managers,"Recruit, interview, and hire or sign up volunteers and staff.",Written Comprehension,2,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Inductive Reasoning,3,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Deductive Reasoning,2,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Problem Sensitivity,3,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Written Comprehension,3,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Information Ordering,2,0
+1133,Social and Community Service Managers,Research and analyze member or community needs to determine program directions and goals.,Category Flexibility,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Oral Expression,3,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Oral Comprehension,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Deductive Reasoning,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Problem Sensitivity,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Information Ordering,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Speech Clarity,2,0
+18464,Social and Community Service Managers,"Implement and evaluate staff, volunteer, or community training programs.",Inductive Reasoning,2,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Oral Expression,3,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Oral Comprehension,3,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Deductive Reasoning,3,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Written Comprehension,3,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Speech Clarity,2,0
+1139,Social and Community Service Managers,"Act as consultants to agency staff and other community programs regarding the interpretation of program-related federal, state, and county regulations and policies.",Problem Sensitivity,2,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Oral Expression,3,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Speech Clarity,3,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Oral Comprehension,2,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Speech Recognition,2,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Fluency of Ideas,2,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Information Ordering,2,0
+1134,Social and Community Service Managers,"Speak to community groups to explain and interpret agency purposes, programs, and policies.",Written Comprehension,2,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Deductive Reasoning,3,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Inductive Reasoning,2,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Written Comprehension,3,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Problem Sensitivity,3,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Information Ordering,2,0
+1138,Social and Community Service Managers,"Analyze proposed legislation, regulations, or rule changes to determine how agency services could be impacted.",Category Flexibility,2,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Mathematical Reasoning,3,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Number Facility,3,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Deductive Reasoning,2,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Information Ordering,2,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Written Expression,2,0
+1137,Social and Community Service Managers,"Plan and administer budgets for programs, equipment, and support services.",Problem Sensitivity,2,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Oral Expression,3,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Oral Comprehension,2,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Speech Clarity,3,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Deductive Reasoning,2,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Written Expression,2,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Fluency of Ideas,2,0
+1136,Social and Community Service Managers,Represent organizations in relations with governmental and media institutions.,Problem Sensitivity,2,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Oral Expression,3,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Written Expression,3,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Fluency of Ideas,2,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Originality,2,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Oral Comprehension,2,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Information Ordering,2,0
+1141,Social and Community Service Managers,Direct fundraising activities and the preparation of public relations materials.,Deductive Reasoning,2,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Oral Comprehension,3,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Oral Expression,3,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Problem Sensitivity,3,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Deductive Reasoning,2,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Speech Clarity,2,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Speech Recognition,2,0
+7263,Emergency Management Directors,"Consult with officials of local and area governments, schools, hospitals, and other institutions to determine their needs and capabilities in the event of a natural disaster or other emergency.",Information Ordering,2,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Oral Expression,3,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Oral Comprehension,3,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Information Ordering,2,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Problem Sensitivity,2,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Speech Clarity,2,0
+7258,Emergency Management Directors,"Develop and maintain liaisons with municipalities, county departments, and similar entities to facilitate plan development, response effort coordination, and exchanges of personnel and equipment.",Deductive Reasoning,2,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Information Ordering,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Time Sharing,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Oral Expression,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Problem Sensitivity,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Deductive Reasoning,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Speech Clarity,3,0
+7257,Emergency Management Directors,"Coordinate disaster response or crisis management activities, such as ordering evacuations, opening public shelters, and implementing special needs plans and programs.",Reaction Time,2,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Written Expression,3,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Information Ordering,3,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Deductive Reasoning,2,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Problem Sensitivity,2,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Written Comprehension,2,0
+7260,Emergency Management Directors,"Prepare emergency situation status reports that describe response and recovery efforts, needs, and preliminary damage assessments.",Near Vision,2,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Information Ordering,3,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Written Comprehension,3,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Written Expression,2,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Near Vision,2,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Selective Attention,2,0
+7256,Emergency Management Directors,Maintain and update all resource materials associated with emergency preparedness plans.,Memorization,2,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Deductive Reasoning,3,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Inductive Reasoning,2,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Information Ordering,3,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Written Expression,3,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Problem Sensitivity,3,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Fluency of Ideas,2,0
+7254,Emergency Management Directors,"Prepare plans that outline operating procedures to be used in response to disasters or emergencies, such as hurricanes, nuclear accidents, and terrorist attacks, and in recovery from these events.",Visualization,2,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Deductive Reasoning,3,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Inductive Reasoning,2,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Problem Sensitivity,3,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Written Comprehension,2,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Information Ordering,2,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Oral Expression,2,0
+7264,Emergency Management Directors,Develop and perform tests and evaluations of emergency management plans in accordance with state and federal regulations.,Written Expression,2,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Inductive Reasoning,3,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Deductive Reasoning,2,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Problem Sensitivity,3,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Oral Comprehension,2,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Written Expression,2,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Mathematical Reasoning,2,0
+7266,Emergency Management Directors,Collaborate with other officials to prepare and analyze damage assessments following disasters or emergencies.,Information Ordering,2,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Oral Expression,3,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Oral Comprehension,2,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Information Ordering,3,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Written Expression,2,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Speech Clarity,2,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Deductive Reasoning,2,0
+7261,Emergency Management Directors,Design and administer emergency or disaster preparedness training courses that teach people how to effectively respond to major emergencies and disasters.,Fluency of Ideas,2,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Written Comprehension,3,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Inductive Reasoning,3,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Problem Sensitivity,3,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Selective Attention,2,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Deductive Reasoning,2,0
+7253,Emergency Management Directors,"Keep informed of activities or changes that could affect the likelihood of an emergency, response efforts, or plan implementation.",Information Ordering,2,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Problem Sensitivity,3,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Near Vision,3,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Deductive Reasoning,2,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Far Vision,2,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Inductive Reasoning,2,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Visualization,2,0
+7262,Emergency Management Directors,"Inspect facilities and equipment, such as emergency management centers and communications equipment, to determine their operational and functional capabilities in emergency situations.",Selective Attention,2,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Deductive Reasoning,3,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Written Comprehension,3,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Inductive Reasoning,2,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Problem Sensitivity,2,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Information Ordering,2,0
+7269,Emergency Management Directors,"Review emergency plans of individual organizations, such as medical facilities, to ensure their adequacy.",Near Vision,2,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Written Comprehension,3,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Deductive Reasoning,3,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Inductive Reasoning,2,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Problem Sensitivity,2,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Information Ordering,2,0
+7259,Emergency Management Directors,"Keep informed of federal, state, and local regulations affecting emergency plans, and ensure that plans adhere to those regulations.",Memorization,2,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Inductive Reasoning,3,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Problem Sensitivity,3,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Oral Comprehension,2,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Oral Expression,2,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Written Comprehension,2,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Information Ordering,2,0
+7270,Emergency Management Directors,"Conduct surveys to determine the types of emergency-related needs to be addressed in disaster planning, or provide technical support to others conducting such surveys.",Deductive Reasoning,2,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Oral Comprehension,3,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Written Comprehension,2,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Speech Recognition,2,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Memorization,2,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Selective Attention,2,0
+7265,Emergency Management Directors,"Attend meetings, conferences, and workshops related to emergency management to learn new information and to develop working relationships with other emergency management specialists.",Problem Sensitivity,2,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Inductive Reasoning,3,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Deductive Reasoning,2,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Problem Sensitivity,3,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Written Expression,3,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Fluency of Ideas,2,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Originality,2,0
+7255,Emergency Management Directors,"Propose alteration of emergency response procedures, based on regulatory changes, technological changes, or knowledge gained from outcomes of previous emergency situations.",Written Comprehension,2,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Oral Expression,3,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Written Expression,3,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Speech Clarity,3,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Fluency of Ideas,2,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Oral Comprehension,2,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Information Ordering,2,0
+7267,Emergency Management Directors,Develop instructional materials for the public and make presentations to citizens' groups to provide information on emergency plans and their implementation processes.,Originality,1,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Written Expression,3,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Written Comprehension,3,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Deductive Reasoning,2,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Information Ordering,2,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Mathematical Reasoning,2,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Number Facility,2,0
+7272,Emergency Management Directors,"Apply for federal funding for emergency-management-related needs, and administer and report on the progress of such grants.",Problem Sensitivity,2,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Oral Expression,3,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Speech Clarity,3,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Oral Comprehension,2,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Information Ordering,2,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Deductive Reasoning,2,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Written Comprehension,2,0
+7268,Emergency Management Directors,Train local groups in the preparation of long-term plans that are compatible with federal and state plans.,Fluency of Ideas,1,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Oral Expression,3,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Oral Comprehension,2,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Written Comprehension,2,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Deductive Reasoning,2,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Speech Clarity,2,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Information Ordering,2,0
+7275,Emergency Management Directors,"Provide communities with assistance in applying for federal funding for emergency management facilities, radiological instrumentation, and related items.",Problem Sensitivity,1,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Written Comprehension,3,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Inductive Reasoning,3,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Deductive Reasoning,2,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Problem Sensitivity,2,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Information Ordering,2,0
+7271,Emergency Management Directors,Study emergency plans used elsewhere to gather information for plan development.,Category Flexibility,2,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Oral Expression,3,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Information Ordering,3,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Deductive Reasoning,2,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Written Expression,2,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Speech Clarity,2,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Problem Sensitivity,2,0
+7273,Emergency Management Directors,"Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.",Fluency of Ideas,1,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Information Ordering,3,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Oral Expression,3,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Near Vision,2,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Manual Dexterity,2,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Deductive Reasoning,2,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Speech Clarity,2,0
+7274,Emergency Management Directors,"Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.",Memorization,2,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Oral Comprehension,3,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Oral Expression,3,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Problem Sensitivity,2,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Speech Clarity,3,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Speech Recognition,2,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Information Ordering,2,0
+18832,Funeral Home Managers,"Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services.",Written Comprehension,2,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Information Ordering,3,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Time Sharing,2,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Written Expression,2,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Oral Comprehension,2,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Selective Attention,2,0
+18842,Funeral Home Managers,"Schedule funerals, burials, or cremations.",Deductive Reasoning,1,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Oral Expression,2,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Near Vision,2,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Written Comprehension,2,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Gross Body Coordination,1,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Manual Dexterity,1,0
+23984,Funeral Home Managers,Deliver death certificates to medical facilities or offices to obtain signatures from legally authorized persons.,Information Ordering,2,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Oral Expression,3,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Oral Comprehension,3,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Speech Clarity,3,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Speech Recognition,2,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Problem Sensitivity,3,0
+18837,Funeral Home Managers,Offer counsel and comfort to families and friends of the deceased.,Fluency of Ideas,1,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Deductive Reasoning,3,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Selective Attention,3,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Problem Sensitivity,3,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Written Comprehension,2,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Information Ordering,2,0
+18835,Funeral Home Managers,"Monitor funeral service operations to ensure that they comply with applicable policies, regulations, and laws.",Near Vision,2,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Oral Expression,3,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Problem Sensitivity,2,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Deductive Reasoning,2,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Information Ordering,2,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Speech Clarity,2,0
+18833,Funeral Home Managers,"Direct and supervise work of embalmers, funeral attendants, death certificate clerks, cosmetologists, or other staff.",Time Sharing,2,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Information Ordering,3,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Written Expression,3,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Near Vision,2,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Selective Attention,2,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Number Facility,2,0
+18846,Funeral Home Managers,"Complete and maintain records, such as state-required documents, tracking documents, or product inventories.",Memorization,1,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Oral Expression,3,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Oral Comprehension,2,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Speech Clarity,3,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Speech Recognition,2,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Deductive Reasoning,2,0
+18843,Funeral Home Managers,"Sell funeral services, products, or merchandise to clients.",Fluency of Ideas,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Inductive Reasoning,3,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Deductive Reasoning,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Problem Sensitivity,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Fluency of Ideas,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Written Comprehension,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Originality,2,0
+18838,Funeral Home Managers,Plan and implement changes to service offerings to meet community needs or increase funeral home revenues.,Information Ordering,1,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Oral Expression,3,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Oral Comprehension,3,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Problem Sensitivity,3,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Deductive Reasoning,2,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Speech Clarity,2,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Written Comprehension,2,0
+18840,Funeral Home Managers,"Respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",Speech Recognition,2,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Oral Expression,3,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Oral Comprehension,3,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Deductive Reasoning,3,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Written Comprehension,2,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Speech Clarity,2,0
+18836,Funeral Home Managers,Negotiate contracts for prearranged funeral services.,Speech Recognition,2,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Oral Expression,3,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Oral Comprehension,2,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Speech Clarity,3,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Speech Recognition,2,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Written Comprehension,2,0
+18848,Funeral Home Managers,"Explain goals, policies, or procedures to staff members.",Information Ordering,2,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Information Ordering,3,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Deductive Reasoning,2,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Mathematical Reasoning,1,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Selective Attention,2,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Written Expression,2,0
+18851,Funeral Home Managers,Schedule work hours for funeral home or contract employees.,Time Sharing,2,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Mathematical Reasoning,3,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Number Facility,3,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Inductive Reasoning,2,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Deductive Reasoning,2,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Written Comprehension,2,0
+18845,Funeral Home Managers,Set prices or credit terms for funeral products or services.,Problem Sensitivity,1,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Inductive Reasoning,3,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Deductive Reasoning,2,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Mathematical Reasoning,3,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Number Facility,3,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Written Comprehension,3,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Problem Sensitivity,2,0
+18841,Funeral Home Managers,"Review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",Near Vision,2,0
+18850,Funeral Home Managers,Interview and hire new employees.,Oral Comprehension,3,0
+18850,Funeral Home Managers,Interview and hire new employees.,Oral Expression,3,0
+18850,Funeral Home Managers,Interview and hire new employees.,Deductive Reasoning,2,0
+18850,Funeral Home Managers,Interview and hire new employees.,Problem Sensitivity,2,0
+18850,Funeral Home Managers,Interview and hire new employees.,Speech Clarity,2,0
+18850,Funeral Home Managers,Interview and hire new employees.,Speech Recognition,2,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Inductive Reasoning,3,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Deductive Reasoning,2,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Problem Sensitivity,3,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Oral Comprehension,2,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Written Comprehension,2,0
+18849,Funeral Home Managers,Identify skill development needs for funeral home staff.,Category Flexibility,2,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Information Ordering,3,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Problem Sensitivity,2,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Deductive Reasoning,2,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Oral Expression,2,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Time Sharing,2,0
+18834,Funeral Home Managers,"Direct or monitor administrative, support, repair, or maintenance services for funeral homes.",Selective Attention,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Mathematical Reasoning,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Inductive Reasoning,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Deductive Reasoning,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Number Facility,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Written Expression,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Information Ordering,2,0
+18844,Funeral Home Managers,"Set marketing, sales, or other financial goals for funeral service establishments and monitor progress toward these goals.",Problem Sensitivity,2,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Oral Expression,3,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Speech Clarity,3,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Oral Comprehension,2,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Speech Recognition,2,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Fluency of Ideas,2,0
+18830,Funeral Home Managers,Attend or make presentations at community events to promote funeral home services or build community relationships.,Written Comprehension,1,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Deductive Reasoning,3,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Inductive Reasoning,2,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Problem Sensitivity,3,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Written Comprehension,2,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Oral Comprehension,2,0
+18847,Funeral Home Managers,"Evaluate the performance of vendors, contract employees, or other service providers to ensure quality and cost-efficiency.",Information Ordering,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Inductive Reasoning,3,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Deductive Reasoning,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Mathematical Reasoning,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Written Comprehension,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Number Facility,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Problem Sensitivity,2,0
+18831,Funeral Home Managers,Conduct market research and analyze industry trends.,Information Ordering,2,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Fluency of Ideas,3,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Originality,3,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Inductive Reasoning,2,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Written Expression,2,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Oral Expression,2,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Information Ordering,2,0
+18839,Funeral Home Managers,Plan and implement sales promotions or other marketing strategies and activities for funeral home operations.,Deductive Reasoning,2,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Information Ordering,3,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Written Expression,2,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Selective Attention,2,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Near Vision,2,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Number Facility,2,0
+15558,Fitness and Wellness Coordinators,"Maintain wellness- and fitness-related schedules, records, or reports.",Memorization,1,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Information Ordering,3,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Deductive Reasoning,2,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Inductive Reasoning,2,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Oral Expression,2,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Written Expression,2,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Fluency of Ideas,2,0
+15562,Fitness and Wellness Coordinators,Develop or coordinate fitness and wellness programs or services.,Problem Sensitivity,2,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Inductive Reasoning,3,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Deductive Reasoning,2,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Problem Sensitivity,2,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Fluency of Ideas,2,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Written Comprehension,2,0
+15552,Fitness and Wellness Coordinators,"Recommend or approve new program or service offerings to promote wellness and fitness, produce revenues, or minimize costs.",Originality,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Problem Sensitivity,3,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Deductive Reasoning,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Information Ordering,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Near Vision,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Far Vision,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Oral Expression,2,0
+15557,Fitness and Wellness Coordinators,"Manage or oversee fitness or recreation facilities, ensuring safe and clean facilities and equipment.",Selective Attention,2,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Oral Expression,3,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Oral Comprehension,2,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Problem Sensitivity,2,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Deductive Reasoning,2,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Speech Clarity,2,0
+15561,Fitness and Wellness Coordinators,"Supervise fitness or wellness specialists, such as fitness instructors, nutritionists, or health educators.",Information Ordering,2,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Selective Attention,3,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Information Ordering,3,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Number Facility,2,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Near Vision,2,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Written Expression,2,0
+15544,Fitness and Wellness Coordinators,"Track attendance, participation, or performance data related to wellness events.",Memorization,1,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Oral Expression,3,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Speech Clarity,3,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Oral Comprehension,2,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Information Ordering,2,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Speech Recognition,2,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Deductive Reasoning,2,0
+15559,Fitness and Wellness Coordinators,Conduct or facilitate training sessions or seminars for wellness and fitness staff.,Fluency of Ideas,1,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Problem Sensitivity,3,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Near Vision,2,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Deductive Reasoning,2,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Oral Expression,2,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Information Ordering,2,0
+15546,Fitness and Wellness Coordinators,Maintain or arrange for maintenance of fitness equipment or facilities.,Inductive Reasoning,2,0

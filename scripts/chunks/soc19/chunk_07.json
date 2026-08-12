@@ -1,0 +1,782 @@
+[
+{
+"task_id": "19800",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Advise farmers on upgrading Global Positioning System (GPS) equipment to take advantage of newly installed advanced satellite technology."
+},
+{
+"task_id": "18290",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Contact equipment manufacturers for technical assistance, as needed."
+},
+{
+"task_id": "18287",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Identify areas in need of pesticide treatment by analyzing geospatial data to determine insect movement and damage patterns."
+},
+{
+"task_id": "7582",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Taste or smell foods or beverages to ensure that flavors meet specifications or to select samples with specific characteristics."
+},
+{
+"task_id": "7585",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Measure, test, or weigh bottles, cans, or other containers to ensure that hardness, strength, or dimensions meet specifications."
+},
+{
+"task_id": "20394",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Maintain records of testing results or other documents as required by state or other governing agencies."
+},
+{
+"task_id": "20395",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Monitor and control temperature of products."
+},
+{
+"task_id": "7581",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Analyze test results to classify products or compare results with standard tables."
+},
+{
+"task_id": "7579",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Record or compile test results or prepare graphs, charts, or reports."
+},
+{
+"task_id": "20396",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Perform regular maintenance of laboratory equipment by inspecting, calibrating, cleaning, or sterilizing."
+},
+{
+"task_id": "7583",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Examine chemical or biological samples to identify cell structures or to locate bacteria or extraneous material, using a microscope."
+},
+{
+"task_id": "7576",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Conduct standardized tests on food, beverages, additives, or preservatives to ensure compliance with standards and regulations regarding factors such as color, texture, or nutrients."
+},
+{
+"task_id": "20397",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Train newly hired laboratory personnel."
+},
+{
+"task_id": "7577",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Provide assistance to food scientists or technologists in research and development, production technology, or quality control."
+},
+{
+"task_id": "22261",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Supervise other food science technicians."
+},
+{
+"task_id": "7578",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Compute moisture or salt content, percentages of ingredients, formulas, or other product factors, using mathematical and chemical procedures."
+},
+{
+"task_id": "7587",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Order supplies needed to maintain inventories in laboratories or in storage facilities of food or beverage processing plants."
+},
+{
+"task_id": "20398",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Prepare or incubate slides with cell cultures."
+},
+{
+"task_id": "7584",
+"soc": "19-4013.00",
+"occupation": "Food Science Technicians",
+"task_text": "Mix, blend, or cultivate ingredients to make reagents or to manufacture food or beverage products."
+},
+{
+"task_id": "3741",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Conduct research, or assist in the conduct of research, including the collection of information and samples, such as blood, water, soil, plants and animals."
+},
+{
+"task_id": "3740",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Use computers, computer-interfaced equipment, robotics or high-technology industrial applications to perform work duties."
+},
+{
+"task_id": "3749",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Monitor and observe experiments, recording production and test data for evaluation by research personnel."
+},
+{
+"task_id": "3747",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Analyze experimental data and interpret results to write reports and summaries of findings."
+},
+{
+"task_id": "3743",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Provide technical support and services for scientists and engineers working in fields such as agriculture, environmental science, resource management, biology, and health sciences."
+},
+{
+"task_id": "3737",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Keep detailed logs of all work-related activities."
+},
+{
+"task_id": "20981",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Input data into databases."
+},
+{
+"task_id": "3739",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Isolate, identify and prepare specimens for examination."
+},
+{
+"task_id": "3742",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Set up, adjust, calibrate, clean, maintain, and troubleshoot laboratory and field equipment."
+},
+{
+"task_id": "3744",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Clean, maintain and prepare supplies and work areas."
+},
+{
+"task_id": "3738",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Monitor laboratory work to ensure compliance with set standards."
+},
+{
+"task_id": "20982",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Place orders for laboratory equipment and supplies."
+},
+{
+"task_id": "3745",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Participate in the research, development, or manufacturing of medicinal and pharmaceutical preparations."
+},
+{
+"task_id": "3752",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Feed livestock or laboratory animals."
+},
+{
+"task_id": "3746",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Conduct standardized biological, microbiological or biochemical tests and laboratory analyses to evaluate the quantity or quality of physical or chemical substances in food or other products."
+},
+{
+"task_id": "3750",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Examine animals and specimens to detect the presence of disease or other problems."
+},
+{
+"task_id": "3748",
+"soc": "19-4021.00",
+"occupation": "Biological Technicians",
+"task_text": "Measure or weigh compounds and solutions for use in testing or animal feed."
+},
+{
+"task_id": "1537",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Conduct chemical or physical laboratory tests to assist scientists in making qualitative or quantitative analyses of solids, liquids, or gaseous materials."
+},
+{
+"task_id": "1541",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Maintain, clean, or sterilize laboratory instruments or equipment."
+},
+{
+"task_id": "1535",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Monitor product quality to ensure compliance with standards and specifications."
+},
+{
+"task_id": "1536",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Set up and conduct chemical experiments, tests, and analyses, using techniques such as chromatography, spectroscopy, physical or chemical separation techniques, or microscopy."
+},
+{
+"task_id": "1540",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Prepare chemical solutions for products or processes, following standardized formulas, or create experimental formulas."
+},
+{
+"task_id": "1538",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Compile and interpret results of tests and analyses."
+},
+{
+"task_id": "18477",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Provide and maintain a safe work environment by participating in safety programs, committees, or teams and by conducting laboratory or plant safety audits."
+},
+{
+"task_id": "1539",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Provide technical support or assistance to chemists or engineers."
+},
+{
+"task_id": "1544",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Develop or conduct programs of sampling and analysis to maintain quality standards of raw materials, chemical intermediates, or products."
+},
+{
+"task_id": "20538",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Train new employees on topics such as the proper operation of laboratory equipment."
+},
+{
+"task_id": "1542",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Write technical reports or prepare graphs or charts to document experimental results."
+},
+{
+"task_id": "1543",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Order and inventory materials to maintain supplies."
+},
+{
+"task_id": "1546",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Operate experimental pilot plants, assisting with experimental design."
+},
+{
+"task_id": "1545",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Direct or monitor other workers producing chemical products."
+},
+{
+"task_id": "1548",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Design or fabricate experimental apparatus to develop new products or processes."
+},
+{
+"task_id": "1547",
+"soc": "19-4031.00",
+"occupation": "Chemical Technicians",
+"task_text": "Develop new chemical engineering processes or production techniques."
+},
+{
+"task_id": "1550",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Collect samples of gases, soils, water, industrial wastewater, or asbestos products to conduct tests on pollutant levels or identify sources of pollution."
+},
+{
+"task_id": "20869",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Investigate hazardous conditions or spills or outbreaks of disease or food poisoning, collecting samples for analysis."
+},
+{
+"task_id": "1549",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Record test data and prepare reports, summaries, or charts that interpret test results."
+},
+{
+"task_id": "1556",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Prepare samples or photomicrographs for testing and analysis."
+},
+{
+"task_id": "1560",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Discuss test results and analyses with customers."
+},
+{
+"task_id": "1565",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Inspect workplaces to ensure the absence of health and safety hazards, such as high noise levels, radiation, or potential lighting hazards."
+},
+{
+"task_id": "1566",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Weigh, analyze, or measure collected sample particles, such as lead, coal dust, or rock, to determine concentration of pollutants."
+},
+{
+"task_id": "1553",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Calibrate microscopes or test instruments."
+},
+{
+"task_id": "1552",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Provide information or technical or program assistance to government representatives, employers, or the general public on the issues of public health, environmental protection, or workplace safety."
+},
+{
+"task_id": "1561",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Maintain files, such as hazardous waste databases, chemical usage data, personnel exposure information, or diagrams showing equipment locations."
+},
+{
+"task_id": "1563",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Set up equipment or stations to monitor and collect pollutants from sites, such as smoke stacks, manufacturing plants, or mechanical equipment."
+},
+{
+"task_id": "1570",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Develop or implement programs for monitoring of environmental pollution or radiation."
+},
+{
+"task_id": "19799",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Monitor emission control devices to ensure they are operating properly and comply with state and federal regulations."
+},
+{
+"task_id": "1554",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Make recommendations to control or eliminate unsafe conditions at workplaces or public facilities."
+},
+{
+"task_id": "1557",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Calculate amount of pollutant in samples or compute air pollution or gas flow in industrial processes, using chemical and mathematical formulas."
+},
+{
+"task_id": "20871",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Develop testing procedures."
+},
+{
+"task_id": "1562",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Perform statistical analysis of environmental data."
+},
+{
+"task_id": "19798",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Develop or implement site recycling or hazardous waste stream programs."
+},
+{
+"task_id": "20870",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Direct activities of workers in laboratory."
+},
+{
+"task_id": "19797",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Analyze potential environmental impacts of production process changes, and recommend steps to mitigate negative impacts."
+},
+{
+"task_id": "1558",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Initiate procedures to close down or fine establishments violating environmental or health regulations."
+},
+{
+"task_id": "1555",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Inspect sanitary conditions at public facilities."
+},
+{
+"task_id": "1559",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Determine amounts and kinds of chemicals to use in destroying harmful organisms or removing impurities from purification systems."
+},
+{
+"task_id": "1567",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Examine and analyze material for presence and concentration of contaminants, such as asbestos, using variety of microscopes."
+},
+{
+"task_id": "1564",
+"soc": "19-4042.00",
+"occupation": "Environmental Science and Protection Technicians, Including Health",
+"task_text": "Distribute permits, closure plans, or cleanup plans."
+},
+{
+"task_id": "22262",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Test and analyze samples to determine their content and characteristics, using laboratory apparatus or testing equipment."
+},
+{
+"task_id": "22263",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Collect or prepare solid or fluid samples for analysis."
+},
+{
+"task_id": "22264",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Compile, log, or record testing or operational data for review and further analysis."
+},
+{
+"task_id": "22265",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Prepare notes, sketches, geological maps, or cross-sections."
+},
+{
+"task_id": "22266",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Participate in geological, geophysical, geochemical, hydrographic, or oceanographic surveys, prospecting field trips, exploratory drilling, well logging, or underground mine survey programs."
+},
+{
+"task_id": "22267",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Prepare or review professional, technical, or other reports regarding sampling, testing, or recommendations of data analysis."
+},
+{
+"task_id": "22268",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Adjust or repair testing, electrical, or mechanical equipment or devices."
+},
+{
+"task_id": "22269",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Read and study reports in order to compile information and data for geological and geophysical prospecting."
+},
+{
+"task_id": "22270",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Interview individuals, and research public databases in order to obtain information."
+},
+{
+"task_id": "22271",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Plot information from aerial photographs, well logs, section descriptions, or other databases."
+},
+{
+"task_id": "22272",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Assemble, maintain, or distribute information for library or record systems."
+},
+{
+"task_id": "22273",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Operate or adjust equipment or apparatus used to obtain geological data."
+},
+{
+"task_id": "22274",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Plan and direct activities of workers who operate equipment to collect data."
+},
+{
+"task_id": "22275",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Set up or direct set-up of instruments used to collect geological data."
+},
+{
+"task_id": "22276",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Record readings in order to compile data used in prospecting for oil or gas."
+},
+{
+"task_id": "22277",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Create photographic recordings of information, using equipment."
+},
+{
+"task_id": "22278",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Measure geological characteristics used in prospecting for oil or gas, using measuring instruments."
+},
+{
+"task_id": "22279",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Participate in the evaluation of possible mining locations."
+},
+{
+"task_id": "22280",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Assess the environmental impacts of development projects on subsurface materials."
+},
+{
+"task_id": "22281",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Evaluate and interpret core samples and cuttings, and other geological data used in prospecting for oil or gas."
+},
+{
+"task_id": "22282",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Supervise well exploration, drilling activities, or well completions."
+},
+{
+"task_id": "22283",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Inspect engines for wear or defective parts, using equipment or measuring devices."
+},
+{
+"task_id": "22285",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Collaborate with hydrogeologists to evaluate groundwater or well circulation."
+},
+{
+"task_id": "22286",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Apply new technologies, such as improved seismic imaging techniques, to locate untapped oil or natural gas deposits."
+},
+{
+"task_id": "22287",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Collect data on underground areas, such as reservoirs, that could be used in carbon sequestration operations."
+},
+{
+"task_id": "22288",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Collect geological data from potential geothermal energy plant sites."
+},
+{
+"task_id": "22289",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Compile data used to address environmental issues, such as the suitability of potential landfill sites."
+},
+{
+"task_id": "22290",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Conduct geophysical surveys of potential sites for wind farms or solar installations to determine their suitability."
+},
+{
+"task_id": "22291",
+"soc": "19-4043.00",
+"occupation": "Geological Technicians, Except Hydrologic Technicians",
+"task_text": "Evaluate and interpret seismic data with the aid of computers."
+},
+{
+"task_id": "22292",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Analyze ecological data about the impact of pollution, erosion, floods, and other environmental problems on bodies of water."
+},
+{
+"task_id": "22293",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Answer technical questions from hydrologists, policymakers, or other customers developing water conservation plans."
+},
+{
+"task_id": "22294",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Apply research findings to minimize the environmental impacts of pollution, waterborne diseases, erosion, or sedimentation."
+},
+{
+"task_id": "22295",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Assist in designing programs to ensure the proper sealing of abandoned wells."
+},
+{
+"task_id": "22296",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Collect water and soil samples to test for physical, chemical, or biological properties, such as pH, oxygen level, temperature, and pollution."
+},
+{
+"task_id": "22297",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Develop computer models for hydrologic predictions."
+},
+{
+"task_id": "22298",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Estimate the costs and benefits of municipal projects, such as hydroelectric power plants, irrigation systems, and wastewater treatment facilities."
+},
+{
+"task_id": "22299",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Investigate complaints or conflicts related to the alteration of public waters by gathering information, recommending alternatives, or preparing legal documents."
+},
+{
+"task_id": "22300",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Investigate the properties, origins, or activities of glaciers, ice, snow, or permafrost."
+},
+{
+"task_id": "22301",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Locate and deliver information or data as requested by customers, such as contractors, government entities, and members of the public."
+},
+{
+"task_id": "22302",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Measure the properties of bodies of water, such as water levels, volume, and flow."
+},
+{
+"task_id": "22303",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Perform quality control checks on data to be used by hydrologists."
+},
+{
+"task_id": "22304",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Prepare, install, maintain, or repair equipment used for hydrologic study, such as water level recorders, stream flow gauges, and water analyzers."
+},
+{
+"task_id": "22305",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Provide real time data to emergency management and weather service personnel during flood events."
+},
+{
+"task_id": "22306",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Write groundwater contamination reports on known, suspected, or potential hazardous waste sites."
+},
+{
+"task_id": "22307",
+"soc": "19-4044.00",
+"occupation": "Hydrologic Technicians",
+"task_text": "Write materials for research publications, such as maps, tables, and reports, to disseminate findings."
+},
+{
+"task_id": "22308",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Follow nuclear equipment operational policies and procedures that ensure environmental safety."
+},
+{
+"task_id": "22309",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Conduct surveillance testing to determine safety of nuclear equipment."
+},
+{
+"task_id": "22310",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Monitor nuclear reactor equipment performance to identify operational inefficiencies, hazards, or needs for maintenance or repair."
+},
+{
+"task_id": "22311",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Test plant equipment to ensure it is operating properly."
+},
+{
+"task_id": "22312",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Apply safety tags to equipment needing maintenance."
+},
+{
+"task_id": "22313",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Follow policies and procedures for radiation workers to ensure personnel safety."
+},
+{
+"task_id": "22314",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Modify, devise, or maintain nuclear equipment used in operations."
+},
+{
+"task_id": "22315",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Monitor instruments, gauges, or recording devices under direction of nuclear experimenters."
+}
+]

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8975",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals."
+},
+{
+"task_id": "8979",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Adapt or design computer hardware or software for medical science uses."
+},
+{
+"task_id": "21853",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Maintain databases of experiment characteristics or results."
+},
+{
+"task_id": "21851",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Develop statistical models or simulations, using statistical or modeling software."
+},
+{
+"task_id": "21857",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Read current scientific or trade literature to stay abreast of scientific, industrial, or technological advances."
+},
+{
+"task_id": "21854",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Manage teams of engineers by creating schedules, tracking inventory, creating or using budgets, or overseeing contract obligations or deadlines."
+},
+{
+"task_id": "8973",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes."
+},
+{
+"task_id": "21846",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Design or conduct follow-up experimentation, based on generated data, to meet established process objectives."
+},
+{
+"task_id": "18604",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Write documents describing protocols, policies, standards for use, maintenance, and repair of medical equipment."
+},
+{
+"task_id": "21841",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Communicate with bioregulatory authorities regarding licensing or compliance responsibilities."
+},
+{
+"task_id": "21850",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Develop methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production."
+},
+{
+"task_id": "21840",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Collaborate with manufacturing or quality assurance staff to prepare product specification or safety sheets, standard operating procedures, user manuals, or qualification and validation reports."
+},
+{
+"task_id": "8972",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Research new materials to be used for products, such as implanted artificial organs."
+},
+{
+"task_id": "21855",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Prepare project plans for equipment or facility improvements, including time lines, budgetary estimates, or capital spending requests."
+},
+{
+"task_id": "21844",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Consult with chemists or biologists to develop or evaluate novel technologies."
+},
+{
+"task_id": "21843",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Confer with research and biomanufacturing personnel to ensure the compatibility of design and production."
+},
+{
+"task_id": "21858",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Recommend process formulas, instrumentation, or equipment specifications, based on results of bench or pilot experimentation."
+},
+{
+"task_id": "21842",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Communicate with suppliers regarding the design or specifications of bioproduction equipment, instrumentation, or materials."
+},
+{
+"task_id": "18603",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Conduct training or in-services to educate clinicians and other personnel on proper use of equipment."
+},
+{
+"task_id": "8970",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Advise hospital administrators on the planning, acquisition, and use of medical equipment."
+},
+{
+"task_id": "8980",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Analyze new medical procedures to forecast likely outcomes."
+},
+{
+"task_id": "21845",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Design and deliver technology, such as prosthetic devices, to assist people with disabilities."
+},
+{
+"task_id": "21839",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Advise manufacturing staff regarding problems with fermentation, filtration, or other bioproduction processes."
+},
+{
+"task_id": "21859",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Review existing manufacturing processes to identify opportunities for yield improvement or reduced process variation."
+},
+{
+"task_id": "21849",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Develop bioremediation processes to reduce pollution, protect the environment, or treat waste products."
+},
+{
+"task_id": "21852",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Lead studies to examine or recommend changes in process sequences or operation protocols."
+},
+{
+"task_id": "21848",
+"soc": "17-2031.00",
+"occupation": "Bioengineers and Biomedical Engineers",
+"task_text": "Design or direct bench or pilot production experiments to determine the scale of production methods that optimize product yield and minimize production costs."
+},
+{
+"task_id": "3552",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Develop safety procedures to be employed by workers operating equipment or working in close proximity to ongoing chemical reactions."
+},
+{
+"task_id": "18471",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Troubleshoot problems with chemical manufacturing processes."
+},
+{
+"task_id": "20955",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Monitor and analyze data from processes and experiments."
+},
+{
+"task_id": "18472",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Evaluate chemical equipment and processes to identify ways to optimize performance or to ensure compliance with safety and environmental regulations."
+},
+{
+"task_id": "3560",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Design and plan layout of equipment."
+},
+{
+"task_id": "3554",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Prepare estimate of production costs and production progress reports for management."
+},
+{
+"task_id": "18473",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Perform tests and monitor performance of processes throughout stages of production to determine degree of control over variables such as temperature, density, specific gravity, and pressure."
+},
+{
+"task_id": "3558",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Conduct research to develop new and improved chemical manufacturing processes."
+},
+{
+"task_id": "3553",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Determine most effective arrangement of operations such as mixing, crushing, heat transfer, distillation, and drying."
+},
+{
+"task_id": "3557",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Develop processes to separate components of liquids or gases or generate electrical currents, using controlled chemical processes."
+},
+{
+"task_id": "3559",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Design measurement and control systems for chemical plants based on data collected in laboratory experiments and in pilot plant operations."
+},
+{
+"task_id": "3556",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Perform laboratory studies of steps in manufacture of new products and test proposed processes in small-scale operation, such as a pilot plant."
+},
+{
+"task_id": "24003",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Develop computer models of chemical processes."
+},
+{
+"task_id": "3555",
+"soc": "17-2041.00",
+"occupation": "Chemical Engineers",
+"task_text": "Direct activities of workers who operate or are engaged in constructing and improving absorption, evaporation, or electromagnetic equipment."
+},
+{
+"task_id": "19610",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Direct engineering activities, ensuring compliance with environmental, safety, or other governmental regulations."
+},
+{
+"task_id": "20490",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Manage and direct the construction, operations, or maintenance activities at project site."
+},
+{
+"task_id": "148",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Inspect project sites to monitor progress and ensure conformance to design specifications and safety or sanitation standards."
+},
+{
+"task_id": "147",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Compute load and grade requirements, water flow rates, or material stress factors to determine design specifications."
+},
+{
+"task_id": "20491",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Plan and design transportation or hydraulic systems or structures, using computer-assisted design or drawing tools."
+},
+{
+"task_id": "20489",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Provide technical advice to industrial or managerial personnel regarding design, construction, program modifications, or structural repairs."
+},
+{
+"task_id": "20492",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Analyze survey reports, maps, drawings, blueprints, aerial photography, or other topographical or geologic data."
+},
+{
+"task_id": "150",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Direct or participate in surveying to lay out installations or establish reference points, grades, or elevations to guide construction."
+},
+{
+"task_id": "151",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Estimate quantities and cost of materials, equipment, or labor to determine project feasibility."
+},
+{
+"task_id": "152",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Prepare or present public reports on topics such as bid proposals, deeds, environmental impact statements, or property and right-of-way descriptions."
+},
+{
+"task_id": "19607",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Design energy-efficient or environmentally sound civil structures."
+},
+{
+"task_id": "153",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Test soils or materials to determine the adequacy and strength of foundations, concrete, asphalt, or steel."
+},
+{
+"task_id": "19611",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Identify environmental risks and develop risk management strategies for civil engineering projects."
+},
+{
+"task_id": "155",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Conduct studies of traffic patterns or environmental conditions to identify engineering problems and assess potential project impact."
+},
+{
+"task_id": "19609",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Develop or implement engineering solutions to clean up industrial accidents or other contaminated sites."
+},
+{
+"task_id": "19608",
+"soc": "17-2051.00",
+"occupation": "Civil Engineers",
+"task_text": "Design or engineer systems to efficiently dispose of chemical, biological, or other toxic wastes."
+},
+{
+"task_id": "16323",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Design or prepare plans for new transportation systems or parts of systems, such as airports, commuter trains, highways, streets, bridges, drainage structures, or roadway lighting."
+},
+{
+"task_id": "16320",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Check construction plans, design calculations, or cost estimations to ensure completeness, accuracy, or conformity to engineering standards or practices."
+},
+{
+"task_id": "16305",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Prepare administrative, technical, or statistical reports on traffic-operation matters, such as accidents, safety measures, or pedestrian volume or practices."
+},
+{
+"task_id": "16311",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Plan alteration or modification of existing transportation structures to improve safety or function."
+},
+{
+"task_id": "16319",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Confer with contractors, utility companies, or government agencies to discuss plans, specifications, or work schedules."
+},
+{
+"task_id": "16303",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Present data, maps, or other information at construction-related public hearings or meetings."
+},
+{
+"task_id": "16310",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Prepare final project layout drawings that include details such as stress calculations."
+},
+{
+"task_id": "16314",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Investigate traffic problems and recommend methods to improve traffic flow or safety."
+},
+{
+"task_id": "16318",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Estimate transportation project costs."
+},
+{
+"task_id": "19612",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Design or engineer drainage, erosion, or sedimentation control systems for transportation projects."
+},
+{
+"task_id": "16307",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Evaluate traffic control devices or lighting systems to determine need for modification or expansion."
+},
+{
+"task_id": "16309",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Prepare project budgets, schedules, or specifications for labor or materials."
+},
+{
+"task_id": "16316",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Inspect completed transportation projects to ensure safety or compliance with applicable standards or regulations."
+},
+{
+"task_id": "16304",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Review development plans to determine potential traffic impact."
+},
+{
+"task_id": "16306",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Evaluate transportation systems or traffic control devices or lighting systems to determine need for modification or expansion."
+},
+{
+"task_id": "16321",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Analyze environmental impact statements for transportation projects."
+},
+{
+"task_id": "16322",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Supervise the maintenance or repair of transportation systems or system components."
+},
+{
+"task_id": "16313",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Model transportation scenarios to evaluate the impacts of activities such as new development or to identify possible solutions to transportation problems."
+},
+{
+"task_id": "19616",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Inspect completed transportation projects to ensure compliance with environmental regulations."
+},
+{
+"task_id": "16312",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Participate in contract bidding, negotiation, or administration."
+},
+{
+"task_id": "19615",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Evaluate construction project materials for compliance with environmental standards."
+},
+{
+"task_id": "16317",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Direct the surveying, staking, or laying-out of construction projects."
+},
+{
+"task_id": "19613",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Design transportation systems or structures with sustainable materials or products, such as porous pavement or bioretention structures."
+},
+{
+"task_id": "16315",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Investigate or test specific construction project materials to determine compliance to specifications or standards."
+},
+{
+"task_id": "16308",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Develop or assist in the development of transportation-related computer software or computer processes."
+},
+{
+"task_id": "19614",
+"soc": "17-2051.01",
+"occupation": "Transportation Engineers",
+"task_text": "Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development."
+},
+{
+"task_id": "16327",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical personnel."
+},
+{
+"task_id": "16325",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Review and critique proposals, plans, or designs related to water or wastewater treatment systems."
+},
+{
+"task_id": "16350",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings."
+},
+{
+"task_id": "21166",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Evaluate the operation and maintenance of water or wastewater systems to identify ways to improve their efficiency."
+},
+{
+"task_id": "16330",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design or select equipment for use in wastewater processing to ensure compliance with government standards."
+},
+{
+"task_id": "16349",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design pumping systems, pumping stations, pipelines, force mains, or sewers for the collection of wastewater."
+},
+{
+"task_id": "16347",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design water distribution systems for potable or non-potable water."
+},
+{
+"task_id": "16331",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Conduct water quality studies to identify and characterize water pollutant sources."
+},
+{
+"task_id": "16343",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use."
+},
+{
+"task_id": "16328",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Identify design alternatives for the development of new water resources."
+},
+{
+"task_id": "16345",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design water runoff collection networks, water supply channels, or water supply system networks."
+},
+{
+"task_id": "16346",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design water or wastewater lift stations, including water wells."
+},
+{
+"task_id": "16339",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Conduct cost-benefit analyses for the construction of water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+},
+{
+"task_id": "16326",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Provide technical support on water resource or treatment issues to government agencies."
+},
+{
+"task_id": "16337",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Conduct feasibility studies for the construction of facilities, such as water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+},
+{
+"task_id": "16341",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges."
+},
+{
+"task_id": "16335",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities."
+},
+{
+"task_id": "16329",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Develop plans for new water resources or water efficiency programs."
+},
+{
+"task_id": "16333",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply."
+},
+{
+"task_id": "16334",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Perform hydraulic analyses of water supply systems or water distribution networks to model flow characteristics, test for pressure losses, or to identify opportunities to mitigate risks and improve operational efficiency."
+},
+{
+"task_id": "16324",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Write technical reports or publications related to water resources development or water use efficiency."
+},
+{
+"task_id": "16344",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design water storage tanks or other water storage facilities."
+},
+{
+"task_id": "16342",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Analyze and recommend sludge treatment or disposal methods."
+},
+{
+"task_id": "16348",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Design sludge treatment plants."
+},
+{
+"task_id": "16336",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Gather and analyze water use data to forecast water demand."
+},
+{
+"task_id": "16338",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution."
+},
+{
+"task_id": "16340",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams."
+},
+{
+"task_id": "16332",
+"soc": "17-2051.02",
+"occupation": "Water/Wastewater Engineers",
+"task_text": "Perform mathematical modeling of underground or surface water resources, such as floodplains, ocean coastlines, streams, rivers, or wetlands."
+},
+{
+"task_id": "7391",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Update knowledge and skills to keep up with rapid advancements in computer technology."
+},
+{
+"task_id": "7407",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Design and develop computer hardware and support peripherals, including central processing units (CPUs), support logic, microprocessors, custom integrated circuits, and printers and disk drives."
+},
+{
+"task_id": "7399",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Confer with engineering staff and consult specifications to evaluate interface between hardware and software and operational and performance requirements of overall system."
+},
+{
+"task_id": "7396",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Build, test, and modify product prototypes, using working models or theoretical models constructed with computer simulation."
+},
+{
+"task_id": "7402",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Write detailed functional specifications that document the hardware development process and support hardware introduction."
+},
+{
+"task_id": "7393",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Test and verify hardware and support peripherals to ensure that they meet specifications and requirements, by recording and analyzing test data."
+},
+{
+"task_id": "7398",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Direct technicians, engineering designers or other technical support personnel as needed."
+},
+{
+"task_id": "7392",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Provide technical support to designers, marketing and sales departments, suppliers, engineers and other team members throughout the product development and implementation process."
+},
+{
+"task_id": "7400",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Select hardware and material, assuring compliance with specifications and product requirements."
+},
+{
+"task_id": "7401",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Store, retrieve, and manipulate data for analysis of system capabilities and requirements."
+},
+{
+"task_id": "7397",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Analyze user needs and recommend appropriate hardware."
+},
+{
+"task_id": "7406",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Evaluate factors such as reporting formats required, cost constraints, and need for security restrictions to determine hardware configuration."
+},
+{
+"task_id": "7404",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Provide training and support to system designers and users."
+},
+{
+"task_id": "7394",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications."
+},
+{
+"task_id": "7403",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Specify power supply requirements and configuration, drawing on system performance expectations and design specifications."
+},
+{
+"task_id": "7405",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Assemble and modify existing pieces of equipment to meet special needs."
+},
+{
+"task_id": "7395",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications."
+},
+{
+"task_id": "7408",
+"soc": "17-2061.00",
+"occupation": "Computer Hardware Engineers",
+"task_text": "Recommend purchase of equipment to control dust, temperature, and humidity in area of system installation."
+},
+{
+"task_id": "1348",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes."
+}
+]

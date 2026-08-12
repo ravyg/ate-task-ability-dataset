@@ -1,0 +1,782 @@
+[
+{
+"task_id": "16210",
+"soc": "15-1255.01",
+"occupation": "Video Game Designers",
+"task_text": "Determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction."
+},
+{
+"task_id": "16205",
+"soc": "15-1255.01",
+"occupation": "Video Game Designers",
+"task_text": "Prepare and revise initial game sketches using two- and three-dimensional graphical design software."
+},
+{
+"task_id": "16197",
+"soc": "15-1255.01",
+"occupation": "Video Game Designers",
+"task_text": "Create gameplay test plans for internal and external test groups."
+},
+{
+"task_id": "16195",
+"soc": "15-1255.01",
+"occupation": "Video Game Designers",
+"task_text": "Provide test specifications to quality assurance staff."
+},
+{
+"task_id": "14734",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel."
+},
+{
+"task_id": "14741",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Identify or document backup or recovery plans."
+},
+{
+"task_id": "14731",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Back up or modify applications and related data to provide for disaster recovery."
+},
+{
+"task_id": "14758",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Correct testing-identified problems, or recommend actions for their resolution."
+},
+{
+"task_id": "14748",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Identify, standardize, and communicate levels of access and security."
+},
+{
+"task_id": "14732",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Determine sources of Web page or server problems, and take action to correct such problems."
+},
+{
+"task_id": "14740",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Implement updates, upgrades, and patches in a timely manner to limit loss of service."
+},
+{
+"task_id": "14735",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Implement Web site security measures, such as firewalls or message encryption."
+},
+{
+"task_id": "14737",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Collaborate with development teams to discuss, analyze, or resolve usability issues."
+},
+{
+"task_id": "14750",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications."
+},
+{
+"task_id": "14756",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Perform user testing or usage analyses to determine Web sites' effectiveness or usability."
+},
+{
+"task_id": "14753",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Document application and Web site changes or change procedures."
+},
+{
+"task_id": "14749",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Track, compile, and analyze Web site usage data."
+},
+{
+"task_id": "14738",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Test backup or recovery plans regularly and resolve any problems."
+},
+{
+"task_id": "14751",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Recommend Web site improvements, and develop budgets to support recommendations."
+},
+{
+"task_id": "14733",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Review or update Web page content or links in a timely manner, using appropriate tools."
+},
+{
+"task_id": "14743",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Install or configure Web server software or hardware to ensure that directory structure is well-defined, logical, and secure, and that files are named properly."
+},
+{
+"task_id": "14744",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Gather, analyze, or document user feedback to locate or resolve sources of problems."
+},
+{
+"task_id": "14762",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Set up or maintain monitoring tools on Web servers or Web sites."
+},
+{
+"task_id": "14739",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Monitor Web developments through continuing education, reading, or participation in professional conferences, workshops, or groups."
+},
+{
+"task_id": "14759",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Develop or document style guidelines for Web site content."
+},
+{
+"task_id": "14745",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Develop Web site performance metrics."
+},
+{
+"task_id": "14742",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Collaborate with Web developers to create and operate internal and external Web sites, or to manage projects, such as e-marketing campaigns."
+},
+{
+"task_id": "14746",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Identify or address interoperability requirements."
+},
+{
+"task_id": "14754",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Develop or implement procedures for ongoing Web site revision."
+},
+{
+"task_id": "14761",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Check and analyze operating system or application log files regularly to verify proper system performance."
+},
+{
+"task_id": "14755",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Provide training or technical assistance in Web site implementation or use."
+},
+{
+"task_id": "14764",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Evaluate testing routines or procedures for adequacy, sufficiency, and effectiveness."
+},
+{
+"task_id": "14752",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Inform Web site users of problems, problem resolutions, or application changes and updates."
+},
+{
+"task_id": "14747",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Document installation or configuration procedures to allow maintenance and repetition."
+},
+{
+"task_id": "14763",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Develop testing routines and procedures."
+},
+{
+"task_id": "14765",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Test new software packages for use in Web operations or other applications."
+},
+{
+"task_id": "14760",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Develop and implement marketing plans for home pages, including print advertising or advertisement rotation."
+},
+{
+"task_id": "14757",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Evaluate or recommend server hardware or software."
+},
+{
+"task_id": "14736",
+"soc": "15-1299.01",
+"occupation": "Web Administrators",
+"task_text": "Administer internet or intranet infrastructure, including Web, file, and mail servers."
+},
+{
+"task_id": "21715",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Produce data layers, maps, tables, or reports, using spatial analysis procedures or Geographic Information Systems (GIS) technology, equipment, or systems."
+},
+{
+"task_id": "21716",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Design or prepare graphic representations of Geographic Information Systems (GIS) data, using GIS hardware or software applications."
+},
+{
+"task_id": "21717",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Maintain or modify existing Geographic Information Systems (GIS) databases."
+},
+{
+"task_id": "21718",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Provide technical expertise in Geographic Information Systems (GIS) technology to clients or users."
+},
+{
+"task_id": "21719",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Perform computer programming, data analysis, or software development for Geographic Information Systems (GIS) applications, including the maintenance of existing systems or research and development for future enhancements."
+},
+{
+"task_id": "21720",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Enter data into Geographic Information Systems (GIS) databases, using techniques such as coordinate geometry, keyboard entry of tabular data, manual digitizing of maps, scanning or automatic conversion to vectors, or conversion of other sources of digital data."
+},
+{
+"task_id": "21721",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Review existing or incoming data for currency, accuracy, usefulness, quality, or completeness of documentation."
+},
+{
+"task_id": "21722",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Perform geospatial data building, modeling, or analysis, using advanced spatial analysis, data manipulation, or cartography software."
+},
+{
+"task_id": "21723",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Design or coordinate the development of integrated Geographic Information Systems (GIS) spatial or non-spatial databases."
+},
+{
+"task_id": "21724",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Perform integrated or computerized Geographic Information Systems (GIS) analyses to address scientific problems."
+},
+{
+"task_id": "21725",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Select cartographic elements needed for effective presentation of information."
+},
+{
+"task_id": "21726",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Provide technical support to users or clients regarding the maintenance, development, or operation of Geographic Information Systems (GIS) databases, equipment, or applications."
+},
+{
+"task_id": "21727",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Collect, compile, or integrate Geographic Information Systems (GIS) data, such as remote sensing or cartographic data for inclusion in map manuscripts."
+},
+{
+"task_id": "21728",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Interpret aerial or ortho photographs."
+},
+{
+"task_id": "21729",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Meet with clients to discuss topics such as technical specifications, customized solutions, or operational problems."
+},
+{
+"task_id": "21730",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Document, design, code, or test Geographic Information Systems (GIS) models, internet mapping solutions, or other applications."
+},
+{
+"task_id": "21731",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Create, analyze, report, convert, or transfer data, using specialized applications program software."
+},
+{
+"task_id": "21732",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Confer with users to analyze, configure, or troubleshoot applications."
+},
+{
+"task_id": "21733",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Design, program, or model Geographic Information Systems (GIS) applications or procedures."
+},
+{
+"task_id": "21734",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Develop specialized computer software routines, internet-based Geographic Information Systems (GIS) databases, or business applications to customize geographic information."
+},
+{
+"task_id": "21735",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Make recommendations regarding upgrades, considering implications of new or revised Geographic Information Systems (GIS) software, equipment, or applications."
+},
+{
+"task_id": "21736",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Assist users in formulating Geographic Information Systems (GIS) requirements or understanding the implications of alternatives."
+},
+{
+"task_id": "21737",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Create visual representations of geospatial data, using complex procedures such as analytical modeling, three-dimensional renderings, or plot creation."
+},
+{
+"task_id": "21738",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Transfer or rescale information from original photographs onto maps or other photographs."
+},
+{
+"task_id": "21739",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Prepare training materials for, or make presentations to, Geographic Information Systems (GIS) users."
+},
+{
+"task_id": "21740",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Apply three-dimensional (3D) or four-dimensional (4D) technologies to geospatial data to allow for new or different analyses or applications."
+},
+{
+"task_id": "21741",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Conduct research, data analysis, systems design, or support for software such as Geographic Information Systems (GIS) or Global Positioning Systems (GPS) mapping software."
+},
+{
+"task_id": "21742",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in Geographic Information Systems (GIS) technology, equipment, or systems."
+},
+{
+"task_id": "21743",
+"soc": "15-1299.02",
+"occupation": "Geographic Information Systems Technologists and Technicians",
+"task_text": "Recommend procedures, equipment, or software upgrades to increase data accessibility or ease of use."
+},
+{
+"task_id": "16234",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content."
+},
+{
+"task_id": "16232",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Assist in the development of document or content classification taxonomies to facilitate information capture, search, and retrieval."
+},
+{
+"task_id": "16238",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists."
+},
+{
+"task_id": "16239",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Identify and classify documents or other electronic content according to characteristics such as security level, function, and metadata."
+},
+{
+"task_id": "16229",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Develop, document, or maintain standards, best practices, or system usage procedures."
+},
+{
+"task_id": "16233",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Assist in the assessment, acquisition, or deployment of new electronic document management systems."
+},
+{
+"task_id": "16237",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Administer document and system access rights and revision control to ensure security of system and integrity of master documents."
+},
+{
+"task_id": "20368",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Prepare and record changes to official documents and confirm changes with legal and compliance management staff, including enterprise-wide records management staff."
+},
+{
+"task_id": "16220",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Write, review, or execute plans for testing new or established document management systems."
+},
+{
+"task_id": "16219",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Monitor regulatory activity to maintain compliance with records and document management laws."
+},
+{
+"task_id": "16222",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Retrieve electronic assets from repository for distribution to users, collecting and returning to repository, if necessary."
+},
+{
+"task_id": "20367",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Keep abreast of developments in document management technologies and techniques by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences."
+},
+{
+"task_id": "16231",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Conduct needs assessments to identify document management requirements of departments or end users."
+},
+{
+"task_id": "16240",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures."
+},
+{
+"task_id": "16228",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Document technical functions and specifications for new or proposed content management systems."
+},
+{
+"task_id": "16226",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Exercise security surveillance over document processing, reproduction, distribution, storage, or archiving."
+},
+{
+"task_id": "16230",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Consult with end users regarding problems in accessing electronic content."
+},
+{
+"task_id": "16223",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Propose recommendations for improving content management system capabilities."
+},
+{
+"task_id": "16236",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Operate data capture technology to import digitized documents into document management system."
+},
+{
+"task_id": "16224",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Prepare support documentation and training materials for end users of document management systems."
+},
+{
+"task_id": "16221",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Search electronic sources, such as databases or repositories, or manual sources for information."
+},
+{
+"task_id": "16227",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Implement scanning or other automated data entry procedures, using imaging devices and document imaging software."
+},
+{
+"task_id": "16235",
+"soc": "15-1299.03",
+"occupation": "Document Management Specialists",
+"task_text": "Analyze, interpret, or disseminate system performance data."
+},
+{
+"task_id": "21744",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Assess the physical security of servers, systems, or network devices to identify vulnerability to temperature, vandalism, or natural disasters."
+},
+{
+"task_id": "21745",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Collect stakeholder data to evaluate risk and to develop mitigation strategies."
+},
+{
+"task_id": "21746",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Conduct network and security system audits, using established criteria."
+},
+{
+"task_id": "21747",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Configure information systems to incorporate principles of least functionality and least access."
+},
+{
+"task_id": "21748",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Design security solutions to address known device vulnerabilities."
+},
+{
+"task_id": "21749",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Develop and execute tests that simulate the techniques of known cyber threat actors."
+},
+{
+"task_id": "21750",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Develop infiltration tests that exploit device vulnerabilities."
+},
+{
+"task_id": "21751",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Develop presentations on threat intelligence."
+},
+{
+"task_id": "21752",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Develop security penetration testing processes, such as wireless, data networks, and telecommunication security tests."
+},
+{
+"task_id": "21753",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Discuss security solutions with information technology teams or management."
+},
+{
+"task_id": "21754",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Document penetration test findings."
+},
+{
+"task_id": "21755",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Evaluate vulnerability assessments of local computing environments, networks, infrastructures, or enclave boundaries."
+},
+{
+"task_id": "21756",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Gather cyber intelligence to identify vulnerabilities."
+},
+{
+"task_id": "21757",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Identify new threat tactics, techniques, or procedures used by cyber threat actors."
+},
+{
+"task_id": "21758",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Identify security system weaknesses, using penetration tests."
+},
+{
+"task_id": "21759",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Investigate security incidents, using computer forensics, network forensics, root cause analysis, or malware analysis."
+},
+{
+"task_id": "21760",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Keep up with new penetration testing tools and methods."
+},
+{
+"task_id": "21761",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Maintain up-to-date knowledge of hacking trends."
+},
+{
+"task_id": "21762",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Prepare and submit reports describing the results of security fixes."
+},
+{
+"task_id": "21763",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Test the security of systems by attempting to gain access to networks, Web-based applications, or computers."
+},
+{
+"task_id": "21764",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Update corporate policies to improve cyber security."
+},
+{
+"task_id": "21765",
+"soc": "15-1299.04",
+"occupation": "Penetration Testers",
+"task_text": "Write audit reports to communicate technical and procedural findings and recommend solutions."
+},
+{
+"task_id": "21776",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Identify security system weaknesses, using penetration tests."
+},
+{
+"task_id": "21769",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Coordinate monitoring of networks or systems for security breaches or intrusions."
+},
+{
+"task_id": "21766",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Assess the quality of security controls, using performance indicators."
+},
+{
+"task_id": "21783",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Train staff on, and oversee the use of, information security standards, policies, and best practices."
+},
+{
+"task_id": "21782",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Scan networks, using vulnerability assessment tools to identify vulnerabilities."
+},
+{
+"task_id": "21774",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Develop response and recovery strategies for security breaches."
+},
+{
+"task_id": "21767",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Conduct investigations of information security breaches to identify vulnerabilities and evaluate the damage."
+},
+{
+"task_id": "21773",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Develop or install software, such as firewalls and data encryption programs, to protect sensitive information."
+},
+{
+"task_id": "21777",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Oversee development of plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure or to meet emergency data processing needs."
+},
+{
+"task_id": "21775",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Identify or implement solutions to information security problems."
+},
+{
+"task_id": "21771",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Develop information security standards and best practices."
+},
+{
+"task_id": "21780",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Recommend information security enhancements to management."
+},
+{
+"task_id": "21778",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Oversee performance of risk assessment or execution of system tests to ensure the functioning of data processing activities or security measures."
+},
+{
+"task_id": "21770",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Coordinate vulnerability assessments or analysis of information security systems."
+},
+{
+"task_id": "21781",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Review security assessments for computing environments or check for compliance with cybersecurity standards and regulations."
+},
+{
+"task_id": "21784",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Troubleshoot security and network problems."
+},
+{
+"task_id": "21768",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Coordinate documentation of computer security or emergency measure policies, procedures, or tests."
+}
+]

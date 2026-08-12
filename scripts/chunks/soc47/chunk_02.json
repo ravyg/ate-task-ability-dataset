@@ -1,0 +1,782 @@
+[
+{
+"task_id": "4802",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Operate tamping machines or manually roll surfaces to compact earth fills, foundation forms, and finished road materials, according to grade specifications."
+},
+{
+"task_id": "4799",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Operate oil distributors, loaders, chip spreaders, dump trucks, and snow plows."
+},
+{
+"task_id": "4814",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Place strips of material, such as cork, asphalt, or steel into joints, or place rolls of expansion-joint material on machines that automatically insert material."
+},
+{
+"task_id": "4810",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Drive and operate curbing machines to extrude concrete or asphalt curbing."
+},
+{
+"task_id": "4813",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Operate machines that clean or cut expansion joints in concrete or asphalt and that rout out cracks in pavement."
+},
+{
+"task_id": "4811",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Cut or break up pavement and drive guardrail posts, using machines equipped with interchangeable hammers."
+},
+{
+"task_id": "4812",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Install dies, cutters, and extensions to screeds onto machines, using hand tools."
+},
+{
+"task_id": "4808",
+"soc": "47-2071.00",
+"occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+"task_text": "Set up forms and lay out guidelines for curbs, according to written specifications, using string, spray paint, and concrete or water mixes."
+},
+{
+"task_id": "14901",
+"soc": "47-2072.00",
+"occupation": "Pile Driver Operators",
+"task_text": "Move hand and foot levers of hoisting equipment to position piling leads, hoist piling into leads, and position hammers over pilings."
+},
+{
+"task_id": "14904",
+"soc": "47-2072.00",
+"occupation": "Pile Driver Operators",
+"task_text": "Move levers and turn valves to activate power hammers, or to raise and lower drophammers that drive piles to required depths."
+},
+{
+"task_id": "14903",
+"soc": "47-2072.00",
+"occupation": "Pile Driver Operators",
+"task_text": "Drive pilings to provide support for buildings or other structures, using heavy equipment with a pile driver head."
+},
+{
+"task_id": "14902",
+"soc": "47-2072.00",
+"occupation": "Pile Driver Operators",
+"task_text": "Conduct pre-operational checks on equipment to ensure proper functioning."
+},
+{
+"task_id": "14905",
+"soc": "47-2072.00",
+"occupation": "Pile Driver Operators",
+"task_text": "Clean, lubricate, and refill equipment."
+},
+{
+"task_id": "9849",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Learn and follow safety regulations."
+},
+{
+"task_id": "9850",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects."
+},
+{
+"task_id": "9852",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes."
+},
+{
+"task_id": "9858",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members."
+},
+{
+"task_id": "9855",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers."
+},
+{
+"task_id": "9853",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Locate underground services, such as pipes or wires, prior to beginning work."
+},
+{
+"task_id": "9868",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Signal operators to guide movement of tractor-drawn machines."
+},
+{
+"task_id": "9860",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Repair and maintain equipment, making emergency adjustments or assisting with major repairs as necessary."
+},
+{
+"task_id": "9856",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Load and move dirt, rocks, equipment, or other materials, using trucks, crawler tractors, power cranes, shovels, graders, or related equipment."
+},
+{
+"task_id": "9857",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Drive and maneuver equipment equipped with blades in successive passes over working areas to remove topsoil, vegetation, or rocks or to distribute and level earth or terrain."
+},
+{
+"task_id": "9859",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Operate tractors or bulldozers to perform such tasks as clearing land, mixing sludge, trimming backfills, or building roadways or parking lots."
+},
+{
+"task_id": "9854",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Monitor operations to ensure that health and safety standards are met."
+},
+{
+"task_id": "9862",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Connect hydraulic hoses, belts, mechanical linkages, or power takeoff shafts to tractors."
+},
+{
+"task_id": "9864",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Select and fasten bulldozer blades or other attachments to tractors, using hitches."
+},
+{
+"task_id": "9863",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Operate loaders to pull out stumps, rip asphalt or concrete, rough-grade properties, bury refuse, or perform general cleanup."
+},
+{
+"task_id": "9875",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Operate equipment to demolish or remove debris or to remove snow from streets, roads, or parking lots."
+},
+{
+"task_id": "9872",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Keep records of material or equipment usage or problems encountered."
+},
+{
+"task_id": "9851",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Adjust handwheels and depress pedals to control attachments, such as blades, buckets, scrapers, or swing booms."
+},
+{
+"task_id": "9861",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Check fuel supplies at sites to ensure adequate availability."
+},
+{
+"task_id": "9867",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Talk to clients and study instructions, plans, or diagrams to establish work requirements."
+},
+{
+"task_id": "9873",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Drive tractor-trailer trucks to move equipment from site to site."
+},
+{
+"task_id": "9871",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Push other equipment when extra traction or assistance is required."
+},
+{
+"task_id": "9869",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Operate road watering, oiling, or rolling equipment, or street sealing equipment, such as chip spreaders."
+},
+{
+"task_id": "9866",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Operate compactors, scrapers, or rollers to level, compact, or cover refuse at disposal grounds."
+},
+{
+"task_id": "9865",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Test atmosphere for adequate oxygen or explosive conditions when working in confined spaces."
+},
+{
+"task_id": "9874",
+"soc": "47-2073.00",
+"occupation": "Operating Engineers and Other Construction Equipment Operators",
+"task_text": "Turn valves to control air or water output of compressors or pumps."
+},
+{
+"task_id": "13504",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Read blueprints or other specifications to determine methods of installation, work procedures, or material or tool requirements."
+},
+{
+"task_id": "13503",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Measure and mark surfaces to lay out work, according to blueprints or drawings, using tape measures, straightedges or squares, and marking devices."
+},
+{
+"task_id": "13505",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Fit and fasten wallboard or drywall into position on wood or metal frameworks, using glue, nails, or screws."
+},
+{
+"task_id": "13507",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Measure and cut openings in panels or tiles for electrical outlets, windows, vents, plumbing, or other fixtures, using keyhole saws or other cutting tools."
+},
+{
+"task_id": "13509",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Assemble or install metal framing or decorative trim for windows, doorways, or vents."
+},
+{
+"task_id": "13515",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Cut metal or wood framing and trim to size, using cutting tools."
+},
+{
+"task_id": "13513",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Inspect furrings, mechanical mountings, or masonry surfaces for plumbness and level, using spirit or water levels."
+},
+{
+"task_id": "13514",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Cut fixture or border tiles to size, using keyhole saws, and insert them into surrounding frameworks."
+},
+{
+"task_id": "13512",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Cut and screw together metal channels to make floor or ceiling frames, according to plans for the location of rooms or hallways."
+},
+{
+"task_id": "13508",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Hang drywall panels on metal frameworks of walls and ceilings in offices, schools, or other large buildings, using lifts or hoists to adjust panel heights, when necessary."
+},
+{
+"task_id": "13511",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Trim rough edges from wallboard to maintain even joints, using knives."
+},
+{
+"task_id": "13519",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Suspend angle iron grids or channel irons from ceilings, using wire."
+},
+{
+"task_id": "13510",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Coordinate work with drywall finishers who cover the seams between drywall panels."
+},
+{
+"task_id": "13516",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Install horizontal and vertical metal or wooden studs to frames so that wallboard can be attached to interior walls."
+},
+{
+"task_id": "13517",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Scribe and cut edges of tile to fit walls where wall molding is not specified."
+},
+{
+"task_id": "13506",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Hang dry lines to wall moldings to guide positioning of main runners."
+},
+{
+"task_id": "13518",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Fasten metal or rockboard lath to the structural framework of walls, ceilings, or partitions of buildings, using nails, screws, staples, or wire-ties."
+},
+{
+"task_id": "13522",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Install blanket insulation between studs and tack plastic moisture barriers over insulation."
+},
+{
+"task_id": "13520",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Seal joints between ceiling tiles and walls."
+},
+{
+"task_id": "13528",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Remove existing plaster, drywall, or paneling, using crowbars and hammers."
+},
+{
+"task_id": "13527",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Apply or mount acoustical tile or blocks, strips, or sheets of shock-absorbing materials to ceilings or walls of buildings to reduce reflection of sound or to decorate rooms."
+},
+{
+"task_id": "13521",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Mount tile, using adhesives, or by nailing, screwing, stapling, or wire-tying lath directly to structural frameworks."
+},
+{
+"task_id": "13525",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Nail channels or wood furring strips to surfaces to provide mounting for tile."
+},
+{
+"task_id": "13523",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Install metal lath where plaster applications will be exposed to weather or water, or for curved or irregular surfaces."
+},
+{
+"task_id": "13524",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Apply cement to backs of tiles and press tiles into place, aligning them with layout marks or joints of previously laid tile."
+},
+{
+"task_id": "13526",
+"soc": "47-2081.00",
+"occupation": "Drywall and Ceiling Tile Installers",
+"task_text": "Wash concrete surfaces before mounting tile to increase adhesive qualities of surfaces, using washing soda and zinc sulfate solution."
+},
+{
+"task_id": "13530",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Spread sealing compound between boards or panels or over cracks, holes, nail heads, or screw heads, using trowels, broadknives, or spatulas."
+},
+{
+"task_id": "13531",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Press paper tape over joints to embed tape into sealing compound and to seal joints."
+},
+{
+"task_id": "13537",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Apply additional coats to fill in holes and make surfaces smooth."
+},
+{
+"task_id": "13534",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Seal joints between plasterboard or other wallboard to prepare wall surfaces for painting or papering."
+},
+{
+"task_id": "13533",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Spread and smooth cementing material over tape, using trowels or floating machines to blend joints with wall surfaces."
+},
+{
+"task_id": "13535",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Sand or patch nicks or cracks in plasterboard or wallboard."
+},
+{
+"task_id": "13532",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Mix sealing compounds by hand or with portable electric mixers."
+},
+{
+"task_id": "20788",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Work on high ceilings, using scaffolding or other tools, such as stilts."
+},
+{
+"task_id": "13541",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Select the correct sealing compound or tape."
+},
+{
+"task_id": "13540",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Countersink nails or screws below surfaces of walls before applying sealing compounds, using hammers or screwdrivers."
+},
+{
+"task_id": "13529",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Remove extra compound after surfaces have been covered sufficiently."
+},
+{
+"task_id": "13538",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Install metal molding at wall corners to secure wallboard."
+},
+{
+"task_id": "13542",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Apply texturizing compounds or primers to walls or ceilings before final finishing, using trowels, brushes, rollers, or spray guns."
+},
+{
+"task_id": "13543",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Check adhesives to ensure that they will work and will remain durable."
+},
+{
+"task_id": "13539",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Sand rough spots of dried cement between applications of compounds."
+},
+{
+"task_id": "13536",
+"soc": "47-2082.00",
+"occupation": "Tapers",
+"task_text": "Use mechanical applicators that spread compounds and embed tape in one operation."
+},
+{
+"task_id": "2882",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Prepare sketches or follow blueprints to determine the location of wiring or equipment and to ensure conformance to building and safety codes."
+},
+{
+"task_id": "2888",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through the conduit to complete circuits between boxes."
+},
+{
+"task_id": "2887",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures."
+},
+{
+"task_id": "2883",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Use a variety of tools or equipment, such as power construction equipment, measuring devices, power tools, and testing equipment, such as oscilloscopes, ammeters, or test lamps."
+},
+{
+"task_id": "2873",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Assemble, install, test, or maintain electrical or electronic wiring, equipment, appliances, apparatus, or fixtures, using hand tools or power tools."
+},
+{
+"task_id": "2875",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Connect wires to circuit breakers, transformers, or other components."
+},
+{
+"task_id": "2879",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Maintain current electrician's license or identification card to meet governmental regulations."
+},
+{
+"task_id": "2880",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes."
+},
+{
+"task_id": "2881",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Direct or train workers to install, maintain, or repair electrical wiring, equipment, or fixtures."
+},
+{
+"task_id": "2878",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system."
+},
+{
+"task_id": "2874",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Diagnose malfunctioning systems, apparatus, or components, using test equipment and hand tools to locate the cause of a breakdown and correct the problem."
+},
+{
+"task_id": "2876",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Inspect electrical systems, equipment, or components to identify hazards, defects, or the need for adjustment or repair, and to ensure compliance with codes."
+},
+{
+"task_id": "2884",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Install ground leads and connect power cables to equipment, such as motors."
+},
+{
+"task_id": "2877",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Advise management on whether continued operation of equipment could be hazardous."
+},
+{
+"task_id": "2886",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Repair or replace wiring, equipment, or fixtures, using hand tools or power tools."
+},
+{
+"task_id": "20439",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Construct or fabricate parts, using hand tools, according to specifications."
+},
+{
+"task_id": "2892",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Provide preliminary sketches or cost estimates for materials or services."
+},
+{
+"task_id": "2885",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Perform business management duties, such as maintaining records or files, preparing reports, or ordering supplies or equipment."
+},
+{
+"task_id": "2890",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Fasten small metal or plastic boxes to walls to house electrical switches or outlets."
+},
+{
+"task_id": "2891",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Perform physically demanding tasks, such as digging trenches to lay conduit or moving or lifting heavy objects."
+},
+{
+"task_id": "2893",
+"soc": "47-2111.00",
+"occupation": "Electricians",
+"task_text": "Provide assistance during emergencies by operating floodlights or generators, placing flares, or driving needed vehicles."
+},
+{
+"task_id": "11484",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Read and interpret blueprints or specifications to determine size, shape, color, type, or thickness of glass, location of framing, installation procedures, or staging or scaffolding materials required."
+},
+{
+"task_id": "11485",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Determine plumb of walls or ceilings, using plumb lines and levels."
+},
+{
+"task_id": "11496",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Install pre-assembled metal or wood frameworks for windows or doors to be fitted with glass panels, using hand tools."
+},
+{
+"task_id": "11486",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Fabricate or install metal sashes or moldings for glass installation, using aluminum or steel framing."
+},
+{
+"task_id": "11504",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Operate cranes or hoists with suction cups to lift large, heavy pieces of glass."
+},
+{
+"task_id": "11492",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Set glass doors into frames and bolt metal hinges, handles, locks, or other hardware to attach doors to frames and walls."
+},
+{
+"task_id": "11490",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Cut, fit, install, repair, or replace glass or glass substitutes, such as plastic or aluminum, in building interiors or exteriors or in furniture or other products."
+},
+{
+"task_id": "11495",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Drive trucks to installation sites and unload mirrors, glass equipment, or tools."
+},
+{
+"task_id": "11499",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Load and arrange glass or mirrors onto delivery trucks, using suction cups or cranes to lift glass."
+},
+{
+"task_id": "11487",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Measure mirrors and dimensions of areas to be covered to determine work procedures."
+},
+{
+"task_id": "11497",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Cut and attach mounting strips, metal or wood moldings, rubber gaskets, or metal clips to surfaces in preparation for mirror installation."
+},
+{
+"task_id": "11503",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Pack spaces between moldings and glass with glazing compounds and trim excess material with glazing knives."
+},
+{
+"task_id": "11498",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Assemble, erect, or dismantle scaffolds, rigging, or hoisting equipment."
+},
+{
+"task_id": "11491",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Cut and remove broken glass prior to installing replacement glass."
+},
+{
+"task_id": "11489",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Secure mirrors in position, using mastic cement, putty, bolts, or screws."
+},
+{
+"task_id": "11500",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Measure and mark outlines or patterns on glass to indicate cutting lines."
+},
+{
+"task_id": "11501",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Grind or polish glass, smoothing edges when necessary."
+},
+{
+"task_id": "11488",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Fasten glass panes into wood sashes or frames with clips, points, or moldings, adding weather seals or putty around pane edges to seal joints."
+},
+{
+"task_id": "11493",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Score glass with cutters' wheels, breaking off excess glass by hand or with notched tools."
+},
+{
+"task_id": "11494",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Cut, assemble, fit, or attach metal-framed glass enclosures for showers, bathtubs, display cases, skylights, solariums, or other structures."
+},
+{
+"task_id": "11502",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Prepare glass for cutting by resting it on rack edges or against cutting tables and brushing thin layer of oil along cutting lines or dipping cutting tools in oil."
+},
+{
+"task_id": "11507",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Move furniture to clear work sites and cover floors or furnishings with drop cloths."
+},
+{
+"task_id": "11505",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Confer with customers to determine project requirements or to provide cost estimates."
+},
+{
+"task_id": "11506",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Select the type or color of glass or mirror according to specifications."
+},
+{
+"task_id": "11509",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Measure, cut, fit, and press anti-glare adhesive film to glass or spray glass with tinting solution to prevent light glare."
+},
+{
+"task_id": "11508",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Assemble and cement sections of stained glass together."
+},
+{
+"task_id": "11510",
+"soc": "47-2121.00",
+"occupation": "Glaziers",
+"task_text": "Create patterns on glass by etching, sandblasting, or painting designs."
+},
+{
+"task_id": "13545",
+"soc": "47-2131.00",
+"occupation": "Insulation Workers, Floor, Ceiling, and Wall",
+"task_text": "Measure and cut insulation for covering surfaces, using tape measures, handsaws, power saws, knives, or scissors."
+}
+]

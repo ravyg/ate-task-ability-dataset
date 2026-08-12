@@ -1,0 +1,782 @@
+[
+{
+"task_id": "19540",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Design or implement supply chains that support environmental policies."
+},
+{
+"task_id": "20948",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Forecast material costs or develop standard cost lists."
+},
+{
+"task_id": "19545",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Locate or select biodegradable, non-toxic, or other environmentally friendly raw materials for manufacturing processes."
+},
+{
+"task_id": "20949",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Appraise vendor manufacturing capabilities through on-site observations or other measurements."
+},
+{
+"task_id": "19539",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Conduct or oversee the conduct of life cycle analyses to determine the environmental impacts of products, processes, or systems."
+},
+{
+"task_id": "19544",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Investigate or review the carbon footprints and environmental performance records of current or potential storage and distribution service providers."
+},
+{
+"task_id": "3267",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Direct preparation and distribution of written and verbal information to inform employees of benefits, compensation, and personnel policies."
+},
+{
+"task_id": "3272",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Design, evaluate, and modify benefits policies to ensure that programs are current, competitive, and in compliance with legal requirements."
+},
+{
+"task_id": "3276",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Fulfill all reporting requirements of all relevant government rules and regulations, including the Employee Retirement Income Security Act (ERISA)."
+},
+{
+"task_id": "3273",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Analyze compensation policies, government regulations, and prevailing wage rates to develop competitive compensation plan."
+},
+{
+"task_id": "3271",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Identify and implement benefits to increase the quality of life for employees by working with brokers and researching benefits issues."
+},
+{
+"task_id": "3285",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Manage the design and development of tools to assist employees in benefits selection, and to guide managers through compensation decisions."
+},
+{
+"task_id": "3268",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Administer, direct, and review employee benefit programs, including the integration of benefit programs following mergers and acquisitions."
+},
+{
+"task_id": "3275",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Mediate between benefits providers and employees, such as by assisting in handling employees' benefits-related questions or taking suggestions."
+},
+{
+"task_id": "3270",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Plan, direct, supervise, and coordinate work activities of subordinates and staff relating to employment, compensation, labor relations, and employee relations."
+},
+{
+"task_id": "3283",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Prepare detailed job descriptions and classification systems and define job levels and families, in partnership with other managers."
+},
+{
+"task_id": "3279",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Develop methods to improve employment policies, processes, and practices, and recommend changes to management."
+},
+{
+"task_id": "3274",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Formulate policies, procedures and programs for recruitment, testing, placement, classification, orientation, benefits and compensation, and labor and industrial relations."
+},
+{
+"task_id": "3290",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Study legislation, arbitration decisions, and collective bargaining contracts to assess industry trends."
+},
+{
+"task_id": "3269",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Plan and conduct new-employee orientations to foster positive attitude toward organizational objectives."
+},
+{
+"task_id": "3287",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Prepare budgets for personnel operations."
+},
+{
+"task_id": "3280",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Negotiate bargaining agreements."
+},
+{
+"task_id": "3288",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Prepare personnel forecasts to project employment needs."
+},
+{
+"task_id": "3277",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Maintain records and compile statistical reports concerning personnel-related data, such as hires, transfers, performance appraisals, and absenteeism rates."
+},
+{
+"task_id": "3278",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Analyze statistical data and reports to identify and determine causes of personnel problems, and develop recommendations for improvement of organization's personnel policies and practices."
+},
+{
+"task_id": "3289",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Contract with vendors to provide employee services, such as food services, transportation, or relocation service."
+},
+{
+"task_id": "3266",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Advise management on such matters as equal employment opportunity, sexual harassment, and discrimination."
+},
+{
+"task_id": "3282",
+"soc": "11-3111.00",
+"occupation": "Compensation and Benefits Managers",
+"task_text": "Represent organization at personnel-related hearings and investigations."
+},
+{
+"task_id": "990",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems."
+},
+{
+"task_id": "991",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Plan, direct, supervise, and coordinate work activities of subordinates and staff relating to employment, compensation, labor relations, and employee relations."
+},
+{
+"task_id": "986",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures."
+},
+{
+"task_id": "998",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Represent organization at personnel-related hearings and investigations."
+},
+{
+"task_id": "999",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Negotiate bargaining agreements and help interpret labor contracts."
+},
+{
+"task_id": "987",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes."
+},
+{
+"task_id": "989",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Plan and conduct new employee orientation to foster positive attitude toward organizational objectives."
+},
+{
+"task_id": "988",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements."
+},
+{
+"task_id": "983",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Identify staff vacancies and recruit, interview, and select applicants."
+},
+{
+"task_id": "997",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Investigate and report on industrial accidents for insurance carriers."
+},
+{
+"task_id": "994",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices."
+},
+{
+"task_id": "982",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Administer compensation, benefits, and performance management systems, and safety and recreation programs."
+},
+{
+"task_id": "1001",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Prepare and follow budgets for personnel operations."
+},
+{
+"task_id": "993",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Maintain records and compile statistical reports concerning personnel-related data such as hires, transfers, performance appraisals, and absenteeism rates."
+},
+{
+"task_id": "985",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Provide current and prospective employees with information about policies, job duties, working conditions, wages, opportunities for promotion, and employee benefits."
+},
+{
+"task_id": "995",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Plan, organize, direct, control, or coordinate the personnel, training, or labor relations activities of an organization."
+},
+{
+"task_id": "996",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Conduct exit interviews to identify reasons for employee termination."
+},
+{
+"task_id": "1003",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Oversee the evaluation, classification, and rating of occupations and job positions."
+},
+{
+"task_id": "992",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Analyze training needs to design employee development, language training, and health and safety programs."
+},
+{
+"task_id": "984",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Allocate human resources, ensuring appropriate matches between personnel."
+},
+{
+"task_id": "1000",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Prepare personnel forecast to project employment needs."
+},
+{
+"task_id": "1004",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Study legislation, arbitration decisions, and collective bargaining contracts to assess industry trends."
+},
+{
+"task_id": "1005",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Develop or administer special projects in areas such as pay equity, savings bond programs, day care, and employee awards."
+},
+{
+"task_id": "1002",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Develop, administer, and evaluate applicant tests."
+},
+{
+"task_id": "1007",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Contract with vendors to provide employee services, such as food service, transportation, or relocation service."
+},
+{
+"task_id": "1006",
+"soc": "11-3121.00",
+"occupation": "Human Resources Managers",
+"task_text": "Provide terminated employees with outplacement or relocation assistance."
+},
+{
+"task_id": "1015",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Analyze training needs to develop new training programs or modify and improve existing programs."
+},
+{
+"task_id": "1009",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Evaluate instructor performance and the effectiveness of training programs, providing recommendations for improvement."
+},
+{
+"task_id": "1014",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Plan, develop, and provide training and staff development programs, using knowledge of the effectiveness of methods such as classroom training, demonstrations, on-the-job training, meetings, conferences, and workshops."
+},
+{
+"task_id": "1012",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Confer with management and conduct surveys to identify training needs based on projected production processes, changes, and other factors."
+},
+{
+"task_id": "1008",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Conduct orientation sessions and arrange on-the-job training for new hires."
+},
+{
+"task_id": "1017",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Train instructors and supervisors in techniques and skills for training and dealing with employees."
+},
+{
+"task_id": "1013",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Develop and organize training manuals, multimedia visual aids, and other educational materials."
+},
+{
+"task_id": "1019",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Prepare training budget for department or organization."
+},
+{
+"task_id": "1010",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Develop testing and evaluation procedures."
+},
+{
+"task_id": "1011",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Conduct or arrange for ongoing technical training and personal development classes for staff members."
+},
+{
+"task_id": "1016",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Review and evaluate training and apprenticeship programs for compliance with government standards."
+},
+{
+"task_id": "1018",
+"soc": "11-3131.00",
+"occupation": "Training and Development Managers",
+"task_text": "Coordinate established courses with technical and professional courses provided by community schools, and designate training procedures."
+},
+{
+"task_id": "21370",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Collect and record growth, production, and environmental data."
+},
+{
+"task_id": "21371",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Manage nurseries that grow horticultural plants for sale to trade or retail customers, for display or exhibition, or for research."
+},
+{
+"task_id": "21372",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Direct and monitor trapping and spawning of fish, egg incubation, and fry rearing, applying knowledge of management and fish culturing techniques."
+},
+{
+"task_id": "21373",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Direct and monitor the transfer of mature fish to lakes, ponds, streams, or commercial tanks."
+},
+{
+"task_id": "21374",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Determine how to allocate resources and to respond to unanticipated problems, such as insect infestation, drought, and fire."
+},
+{
+"task_id": "21375",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Determine plant growing conditions, such as greenhouses, hydroponics, or natural settings, and set planting and care schedules."
+},
+{
+"task_id": "21376",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Devise and participate in activities to improve fish hatching and growth rates, and to prevent disease in hatcheries."
+},
+{
+"task_id": "21377",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Position and regulate plant irrigation systems, and program environmental and irrigation control computers."
+},
+{
+"task_id": "21378",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Prepare reports required by state and federal laws."
+},
+{
+"task_id": "21379",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Inspect facilities and equipment for signs of disrepair, and perform necessary maintenance work."
+},
+{
+"task_id": "21380",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Maintain financial, operational, production, or employment records for farms or ranches."
+},
+{
+"task_id": "21381",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Coordinate clerical, record-keeping, inventory, requisitioning, and marketing activities."
+},
+{
+"task_id": "21382",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Direct the breeding or raising of stock, such as cattle, poultry, or honeybees, using recognized breeding practices to ensure stock improvement."
+},
+{
+"task_id": "21383",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Negotiate with buyers for the sale, storage, or shipment of crops or livestock."
+},
+{
+"task_id": "21384",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Coordinate the selection and maintenance of brood stock."
+},
+{
+"task_id": "21385",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Analyze soil to determine types or quantities of fertilizer required for maximum crop production."
+},
+{
+"task_id": "21386",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Provide information to customers on the care of trees, shrubs, flowers, plants, and lawns."
+},
+{
+"task_id": "21387",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Analyze market conditions to determine acreage allocations."
+},
+{
+"task_id": "21388",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Supervise the construction of farm or ranch structures, such as buildings, fences, drainage systems, wells, or roads."
+},
+{
+"task_id": "21389",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Replace chemical insecticides with environmentally friendly practices, such as adding pest-repelling plants to fields."
+},
+{
+"task_id": "21390",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Conduct inspections to determine crop maturity or condition or to detect disease or insect infestation."
+},
+{
+"task_id": "21391",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Conduct or supervise stock examinations to identify diseases or parasites."
+},
+{
+"task_id": "21392",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Determine types or quantities of crops, plants, or livestock to be grown and raised, based on budgets, federal incentives, market conditions, executive directives, projected sales volumes, or soil conditions."
+},
+{
+"task_id": "21393",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Determine, administer, and execute policies relating to operations administration and standards, facility maintenance, and safety."
+},
+{
+"task_id": "21394",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Direct crop production operations, such as planning, tilling, planting, fertilizing, cultivating, spraying, and harvesting."
+},
+{
+"task_id": "21395",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Evaluate marketing or sales alternatives for products."
+},
+{
+"task_id": "21396",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Hire, supervise, and train support workers."
+},
+{
+"task_id": "21397",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Monitor activities, such as irrigation, chemical application, harvesting, milking, breeding, and grading, to ensure adherence to safety regulations or standards."
+},
+{
+"task_id": "21398",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Monitor environments to ensure maintenance of optimum animal or plant life."
+},
+{
+"task_id": "21399",
+"soc": "11-9013.00",
+"occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+"task_text": "Obtain financing for and purchase necessary machinery, land, supplies, or livestock."
+},
+{
+"task_id": "3318",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Inspect or review projects to monitor compliance with building and safety codes or other regulations."
+},
+{
+"task_id": "3327",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Develop or implement quality control programs."
+},
+{
+"task_id": "20332",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Plan, schedule, or coordinate construction project activities to meet deadlines."
+},
+{
+"task_id": "3326",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Prepare and submit budget estimates, progress reports, or cost tracking reports."
+},
+{
+"task_id": "20340",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Direct and supervise construction or related workers."
+},
+{
+"task_id": "3317",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Determine labor requirements for dispatching workers to construction sites."
+},
+{
+"task_id": "3314",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems."
+},
+{
+"task_id": "20334",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors."
+},
+{
+"task_id": "3323",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Study job specifications to determine appropriate construction methods."
+},
+{
+"task_id": "3315",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems."
+},
+{
+"task_id": "20339",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Contract or oversee craft work, such as painting or plumbing."
+},
+{
+"task_id": "20333",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Investigate damage, accidents, or delays at construction sites to ensure that proper construction procedures are being followed."
+},
+{
+"task_id": "20336",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients."
+},
+{
+"task_id": "20335",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Implement new or modified plans in response to delays, bad weather, or construction site emergencies."
+},
+{
+"task_id": "3325",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Requisition supplies or materials to complete construction projects."
+},
+{
+"task_id": "20337",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Apply for and obtain all necessary permits or licenses."
+},
+{
+"task_id": "19523",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Perform, or contract others to perform, pre-building assessments, such as conceptual cost estimating, rough order of magnitude estimating, feasibility, or energy efficiency, environmental, and sustainability assessments."
+},
+{
+"task_id": "20338",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Evaluate construction methods and determine cost-effectiveness of plans, using computer models."
+},
+{
+"task_id": "19522",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Inspect or review projects to monitor compliance with environmental regulations."
+},
+{
+"task_id": "19520",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Develop or implement environmental protection programs."
+},
+{
+"task_id": "19524",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Secure third-party verification from sources, such as Leadership in Energy Efficient Design (LEED), to ensure responsible design and building activities or to achieve favorable LEED ratings for building projects."
+},
+{
+"task_id": "19521",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Implement training programs on environmentally responsible building topics to update employee skills and knowledge."
+},
+{
+"task_id": "19519",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Develop construction budgets to compare green and non-green construction alternatives, in terms of short-term costs, long-term costs, or environmental impacts."
+},
+{
+"task_id": "19518",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Apply green building strategies to reduce energy costs or minimize carbon output or other sources of harm to the environment."
+},
+{
+"task_id": "3331",
+"soc": "11-9021.00",
+"occupation": "Construction Managers",
+"task_text": "Direct acquisition of land for construction projects."
+},
+{
+"task_id": "5193",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Confer with parents and staff to discuss educational activities and policies and students' behavioral or learning problems."
+},
+{
+"task_id": "5196",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Monitor students' progress and provide students and teachers with assistance in resolving any problems."
+},
+{
+"task_id": "5198",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Recruit, hire, train, and evaluate primary and supplemental staff and recommend personnel actions for programs and services."
+},
+{
+"task_id": "5204",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Teach classes or courses or provide direct care to children."
+},
+{
+"task_id": "5195",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Set educational standards and goals and help establish policies, procedures, and programs to carry them out."
+},
+{
+"task_id": "5202",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Determine the scope of educational program offerings and prepare drafts of program schedules and descriptions to estimate staffing and facility requirements."
+},
+{
+"task_id": "5197",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Determine allocations of funds for staff, supplies, materials, and equipment and authorize purchases."
+},
+{
+"task_id": "5199",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Direct and coordinate activities of teachers or administrators at daycare centers, schools, public agencies, or institutions."
+},
+{
+"task_id": "5194",
+"soc": "11-9031.00",
+"occupation": "Education and Childcare Administrators, Preschool and Daycare",
+"task_text": "Prepare and maintain attendance, activity, planning, accounting, or personnel reports and records for officials and agencies, or direct preparation and maintenance activities."
+}
+]

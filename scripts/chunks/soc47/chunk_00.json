@@ -1,0 +1,782 @@
+[
+{
+"task_id": "20291",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met."
+},
+{
+"task_id": "11424",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Read specifications, such as blueprints, to determine construction requirements or to plan procedures."
+},
+{
+"task_id": "11426",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Supervise, coordinate, or schedule the activities of construction or extractive workers."
+},
+{
+"task_id": "11432",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Assign work to employees, based on material or worker requirements of specific jobs."
+},
+{
+"task_id": "11428",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Coordinate work activities with other construction project activities."
+},
+{
+"task_id": "11425",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Estimate material or worker requirements to complete jobs."
+},
+{
+"task_id": "11435",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans."
+},
+{
+"task_id": "11429",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Order or requisition materials or supplies."
+},
+{
+"task_id": "11434",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Train workers in construction methods, operation of equipment, safety procedures, or company policies."
+},
+{
+"task_id": "11430",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment."
+},
+{
+"task_id": "11427",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities."
+},
+{
+"task_id": "11436",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Arrange for repairs of equipment or machinery."
+},
+{
+"task_id": "11433",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment."
+},
+{
+"task_id": "11431",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Record information, such as personnel, production, or operational data on specified forms or reports."
+},
+{
+"task_id": "11437",
+"soc": "47-1011.00",
+"occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+"task_text": "Suggest or initiate personnel actions, such as promotions, transfers, or hires."
+},
+{
+"task_id": "17725",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes."
+},
+{
+"task_id": "17726",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards."
+},
+{
+"task_id": "17735",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects."
+},
+{
+"task_id": "17738",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Prepare solar installation project proposals, quotes, budgets, or schedules."
+},
+{
+"task_id": "17732",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems."
+},
+{
+"task_id": "17729",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Coordinate or schedule building inspections for solar installation projects."
+},
+{
+"task_id": "17731",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Perform start-up of systems for testing or customer implementation."
+},
+{
+"task_id": "17737",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects."
+},
+{
+"task_id": "17728",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Assess system performance or functionality at the system, subsystem, and component levels."
+},
+{
+"task_id": "17727",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Assess potential solar installation sites to determine feasibility and design requirements."
+},
+{
+"task_id": "17730",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets."
+},
+{
+"task_id": "17733",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Visit customer sites to determine solar system needs, requirements, or specifications."
+},
+{
+"task_id": "17739",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Purchase or rent equipment for solar energy system installation."
+},
+{
+"task_id": "17734",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams."
+},
+{
+"task_id": "17736",
+"soc": "47-1011.03",
+"occupation": "Solar Energy Installation Managers",
+"task_text": "Evaluate subcontractors or subcontractor bids for quality, cost, and reliability."
+},
+{
+"task_id": "24011",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Conduct pressure tests on vessels, such as boilers."
+},
+{
+"task_id": "11446",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Study blueprints to determine locations, relationships, or dimensions of parts."
+},
+{
+"task_id": "11438",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired."
+},
+{
+"task_id": "11440",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects."
+},
+{
+"task_id": "11444",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates."
+},
+{
+"task_id": "11443",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints."
+},
+{
+"task_id": "11450",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments."
+},
+{
+"task_id": "11451",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses."
+},
+{
+"task_id": "11449",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints."
+},
+{
+"task_id": "11452",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents."
+},
+{
+"task_id": "11441",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery."
+},
+{
+"task_id": "11442",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place."
+},
+{
+"task_id": "11447",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches."
+},
+{
+"task_id": "11448",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines."
+},
+{
+"task_id": "11439",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment."
+},
+{
+"task_id": "11445",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools."
+},
+{
+"task_id": "11454",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit."
+},
+{
+"task_id": "11453",
+"soc": "47-2011.00",
+"occupation": "Boilermakers",
+"task_text": "Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels."
+},
+{
+"task_id": "4769",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels."
+},
+{
+"task_id": "4768",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick."
+},
+{
+"task_id": "4775",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Apply and smooth mortar or other mixture over work surface."
+},
+{
+"task_id": "4770",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Calculate angles and courses and determine vertical and horizontal alignment of courses."
+},
+{
+"task_id": "4772",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw."
+},
+{
+"task_id": "4774",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Interpret blueprints and drawings to determine specifications and to calculate the materials required."
+},
+{
+"task_id": "4773",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance."
+},
+{
+"task_id": "4771",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement."
+},
+{
+"task_id": "4778",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper."
+},
+{
+"task_id": "4777",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Examine brickwork or structure to determine need for repair."
+},
+{
+"task_id": "4776",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures."
+},
+{
+"task_id": "4780",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel."
+},
+{
+"task_id": "4779",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces."
+},
+{
+"task_id": "4781",
+"soc": "47-2021.00",
+"occupation": "Brickmasons and Blockmasons",
+"task_text": "Spray or spread refractory material over brickwork to protect against deterioration."
+},
+{
+"task_id": "8768",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level."
+},
+{
+"task_id": "8766",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Lay out wall patterns or foundations, using straight edge, rule, or staked lines."
+},
+{
+"task_id": "8771",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Set stone or marble in place, according to layout or pattern."
+},
+{
+"task_id": "8770",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer."
+},
+{
+"task_id": "8772",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid."
+},
+{
+"task_id": "8767",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools."
+},
+{
+"task_id": "8769",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation."
+},
+{
+"task_id": "8779",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Construct and install prefabricated masonry units."
+},
+{
+"task_id": "8775",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Smooth, polish, and bevel surfaces, using hand tools and power tools."
+},
+{
+"task_id": "8773",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations."
+},
+{
+"task_id": "8774",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Replace broken or missing masonry units in walls or floors."
+},
+{
+"task_id": "8778",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane."
+},
+{
+"task_id": "8776",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Drill holes in marble or ornamental stone and anchor brackets in holes."
+},
+{
+"task_id": "8780",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Dig trench for foundation of monument, using pick and shovel."
+},
+{
+"task_id": "8777",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer."
+},
+{
+"task_id": "8781",
+"soc": "47-2022.00",
+"occupation": "Stonemasons",
+"task_text": "Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall."
+},
+{
+"task_id": "23430",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Follow established safety rules and regulations and maintain a safe and clean environment."
+},
+{
+"task_id": "23432",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge."
+},
+{
+"task_id": "23443",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue."
+},
+{
+"task_id": "23431",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required."
+},
+{
+"task_id": "23433",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Shape or cut materials to specified measurements, using hand tools, machines, or power saws."
+},
+{
+"task_id": "23435",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Verify trueness of structure, using plumb bob and level."
+},
+{
+"task_id": "23442",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures."
+},
+{
+"task_id": "23440",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Erect scaffolding or ladders for assembling structures above ground level."
+},
+{
+"task_id": "23434",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools."
+},
+{
+"task_id": "23438",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Maintain records, document actions, and present written progress reports."
+},
+{
+"task_id": "23446",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Remove damaged or defective parts or sections of structures and repair or replace, using hand tools."
+},
+{
+"task_id": "23445",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Maintain job records and schedule work crew."
+},
+{
+"task_id": "23441",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers."
+},
+{
+"task_id": "23444",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Bore boltholes in timber, masonry or concrete walls, using power drill."
+},
+{
+"task_id": "23447",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair."
+},
+{
+"task_id": "23458",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Dig or direct digging of post holes and set poles to support structures."
+},
+{
+"task_id": "23451",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base."
+},
+{
+"task_id": "23455",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Construct forms or chutes for pouring concrete."
+},
+{
+"task_id": "23437",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work."
+},
+{
+"task_id": "23439",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools."
+},
+{
+"task_id": "23448",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling."
+},
+{
+"task_id": "23436",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Select and order lumber or other required materials."
+},
+{
+"task_id": "23457",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Work with or remove hazardous material."
+},
+{
+"task_id": "23452",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool."
+},
+{
+"task_id": "23454",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Prepare cost estimates for clients or employers."
+},
+{
+"task_id": "23453",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Perform minor plumbing, welding, or concrete mixing work."
+},
+{
+"task_id": "23450",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls."
+},
+{
+"task_id": "23449",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts."
+},
+{
+"task_id": "23456",
+"soc": "47-2031.00",
+"occupation": "Carpenters",
+"task_text": "Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas."
+},
+{
+"task_id": "2835",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly."
+},
+{
+"task_id": "2836",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting."
+},
+{
+"task_id": "2833",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron."
+},
+{
+"task_id": "2834",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer."
+},
+{
+"task_id": "2837",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear."
+},
+{
+"task_id": "2838",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place."
+},
+{
+"task_id": "2839",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed."
+},
+{
+"task_id": "2841",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Install carpet on some floors using adhesive, following prescribed method."
+},
+{
+"task_id": "20142",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Clean up before and after installation, including vacuuming carpet and discarding remnant pieces."
+},
+{
+"task_id": "2844",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Measure, cut and install tackless strips along the baseboard or wall."
+},
+{
+"task_id": "2842",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet."
+},
+{
+"task_id": "2840",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Cut carpet padding to size and install padding, following prescribed method."
+},
+{
+"task_id": "2843",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place."
+},
+{
+"task_id": "2845",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Draw building diagrams and record dimensions."
+},
+{
+"task_id": "2846",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Move furniture from area to be carpeted and remove old carpet and padding."
+},
+{
+"task_id": "2847",
+"soc": "47-2041.00",
+"occupation": "Carpet Installers",
+"task_text": "Cut and bind material."
+},
+{
+"task_id": "8253",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering."
+},
+{
+"task_id": "8254",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Cut flooring material to fit around obstructions."
+},
+{
+"task_id": "8255",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Inspect surface to be covered to ensure that it is firm and dry."
+},
+{
+"task_id": "8256",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Trim excess covering materials, tack edges, and join sections of covering material to form tight joint."
+},
+{
+"task_id": "8257",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores."
+},
+{
+"task_id": "8258",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers."
+},
+{
+"task_id": "8259",
+"soc": "47-2042.00",
+"occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+"task_text": "Cut covering and foundation materials, according to blueprints and sketches."
+}
+]

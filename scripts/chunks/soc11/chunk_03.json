@@ -1,0 +1,782 @@
+[
+{
+"task_id": "15441",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Monitor geothermal operations, using programmable logic controllers."
+},
+{
+"task_id": "15432",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Conduct well field site assessments."
+},
+{
+"task_id": "15442",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Identify opportunities to improve plant electrical equipment, controls, or process control methodologies."
+},
+{
+"task_id": "15437",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Prepare environmental permit applications or compliance reports."
+},
+{
+"task_id": "15440",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Negotiate interconnection agreements with other utilities."
+},
+{
+"task_id": "15438",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Obtain permits for constructing, upgrading, or operating geothermal power plants."
+},
+{
+"task_id": "15435",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems."
+},
+{
+"task_id": "15454",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol."
+},
+{
+"task_id": "15462",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities."
+},
+{
+"task_id": "15450",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations."
+},
+{
+"task_id": "15453",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality."
+},
+{
+"task_id": "15456",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes."
+},
+{
+"task_id": "15458",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed."
+},
+{
+"task_id": "15461",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels."
+},
+{
+"task_id": "15449",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels."
+},
+{
+"task_id": "15455",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements."
+},
+{
+"task_id": "15451",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines."
+},
+{
+"task_id": "15452",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Draw samples of biofuels products or secondary by-products for quality control testing."
+},
+{
+"task_id": "15460",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes."
+},
+{
+"task_id": "15457",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Prepare and manage biofuels plant or unit budgets."
+},
+{
+"task_id": "15459",
+"soc": "11-3051.03",
+"occupation": "Biofuels Production Managers",
+"task_text": "Conduct cost, material, and efficiency studies for biofuels production plants or operations."
+},
+{
+"task_id": "21162",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Manage safety programs at power generation facilities."
+},
+{
+"task_id": "15471",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Review biomass operations performance specifications to ensure compliance with regulatory requirements."
+},
+{
+"task_id": "15470",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes."
+},
+{
+"task_id": "15468",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse."
+},
+{
+"task_id": "15478",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Supervise biomass plant or substation operations, maintenance, repair, or testing activities."
+},
+{
+"task_id": "15480",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions."
+},
+{
+"task_id": "15474",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance."
+},
+{
+"task_id": "15473",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Prepare and manage biomass plant budgets."
+},
+{
+"task_id": "15477",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Evaluate power production or demand trends to identify opportunities for improved operations."
+},
+{
+"task_id": "15476",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs."
+},
+{
+"task_id": "15472",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Prepare reports on biomass plant operations, status, maintenance, and other information."
+},
+{
+"task_id": "15464",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Manage parts and supply inventories for biomass plants."
+},
+{
+"task_id": "15465",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Monitor and operate communications systems, such as mobile radios."
+},
+{
+"task_id": "15469",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements."
+},
+{
+"task_id": "15466",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Compile and record operational data on forms or in log books."
+},
+{
+"task_id": "15479",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators."
+},
+{
+"task_id": "15467",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Adjust equipment controls to generate specified amounts of electrical power."
+},
+{
+"task_id": "15463",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices."
+},
+{
+"task_id": "15475",
+"soc": "11-3051.04",
+"occupation": "Biomass Power Plant Managers",
+"task_text": "Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems."
+},
+{
+"task_id": "15520",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Direct operations, maintenance, or repair of hydroelectric power facilities."
+},
+{
+"task_id": "15515",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Identify and communicate power system emergencies."
+},
+{
+"task_id": "15512",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Maintain records of hydroelectric facility operations, maintenance, or repairs."
+},
+{
+"task_id": "15509",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Perform or direct preventive or corrective containment or cleanup to protect the environment."
+},
+{
+"task_id": "15513",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems."
+},
+{
+"task_id": "15514",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards."
+},
+{
+"task_id": "15519",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards."
+},
+{
+"task_id": "15508",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Plan or coordinate hydroelectric production operations to meet customer requirements."
+},
+{
+"task_id": "15518",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment."
+},
+{
+"task_id": "15504",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations."
+},
+{
+"task_id": "15503",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems."
+},
+{
+"task_id": "15505",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Supervise hydropower plant equipment installations, upgrades, or maintenance."
+},
+{
+"task_id": "15507",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Plan or manage hydroelectric plant upgrades."
+},
+{
+"task_id": "15506",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests."
+},
+{
+"task_id": "15516",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies."
+},
+{
+"task_id": "15502",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Develop or implement policy evaluation procedures for hydroelectric generation activities."
+},
+{
+"task_id": "15510",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements."
+},
+{
+"task_id": "15517",
+"soc": "11-3051.06",
+"occupation": "Hydroelectric Production Managers",
+"task_text": "Create or enforce hydrostation voltage schedules."
+},
+{
+"task_id": "1027",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Develop and implement purchasing and contract management instructions, policies, and procedures."
+},
+{
+"task_id": "1021",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Locate vendors of materials, equipment or supplies, and interview them to determine product availability and terms of sales."
+},
+{
+"task_id": "1033",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Prepare bid awards requiring board approval."
+},
+{
+"task_id": "1032",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Direct and coordinate activities of personnel engaged in buying, selling, and distributing materials, equipment, machinery, and supplies."
+},
+{
+"task_id": "1025",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Review purchase order claims and contracts for conformance to company policy."
+},
+{
+"task_id": "1031",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Review, evaluate, and approve specifications for issuing and awarding bids."
+},
+{
+"task_id": "1035",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Administer online purchasing systems."
+},
+{
+"task_id": "1022",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Prepare and process requisitions and purchase orders for supplies and equipment."
+},
+{
+"task_id": "1024",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Interview and hire staff, and oversee staff training."
+},
+{
+"task_id": "21039",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Develop cost reduction strategies and savings plans."
+},
+{
+"task_id": "1023",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Control purchasing department budgets."
+},
+{
+"task_id": "1029",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Resolve vendor or contractor grievances and claims against suppliers."
+},
+{
+"task_id": "1026",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Analyze market and delivery systems to assess present and future material availability."
+},
+{
+"task_id": "1028",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Participate in the development of specifications for equipment, products, or substitute materials."
+},
+{
+"task_id": "1020",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Maintain records of goods ordered and received."
+},
+{
+"task_id": "1030",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Represent companies in negotiating contracts and formulating policies with suppliers."
+},
+{
+"task_id": "1034",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Prepare reports regarding market conditions and merchandise costs."
+},
+{
+"task_id": "1036",
+"soc": "11-3061.00",
+"occupation": "Purchasing Managers",
+"task_text": "Arrange for disposal of surplus materials."
+},
+{
+"task_id": "21340",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials."
+},
+{
+"task_id": "21341",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Plan, develop, or implement warehouse safety and security programs and activities."
+},
+{
+"task_id": "21342",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Inspect physical conditions of warehouses, vehicle fleets, or equipment and order testing, maintenance, repairs, or replacements."
+},
+{
+"task_id": "21343",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Plan, organize, or manage the work of subordinate staff to ensure that the work is accomplished in a manner consistent with organizational requirements."
+},
+{
+"task_id": "21344",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Collaborate with other departments to integrate logistics with business systems or processes, such as customer sales, order management, accounting, or shipping."
+},
+{
+"task_id": "21345",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies."
+},
+{
+"task_id": "21346",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Resolve problems concerning transportation, logistics systems, imports or exports, or customer issues."
+},
+{
+"task_id": "21347",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Develop and document standard and emergency operating procedures for receiving, handling, storing, shipping, or salvaging products or materials."
+},
+{
+"task_id": "21348",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Monitor operations to ensure that staff members comply with administrative policies and procedures, safety rules, union contracts, environmental policies, or government regulations."
+},
+{
+"task_id": "21349",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Analyze the financial impact of proposed logistics changes, such as routing, shipping modes, product volumes or mixes, or carriers."
+},
+{
+"task_id": "21350",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Monitor inventory levels of products or materials in warehouses."
+},
+{
+"task_id": "21351",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Establish or monitor specific supply chain-based performance measurement systems."
+},
+{
+"task_id": "21352",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Prepare and manage departmental budgets."
+},
+{
+"task_id": "21353",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Monitor product import or export processes to ensure compliance with regulatory or legal requirements."
+},
+{
+"task_id": "21354",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Prepare management recommendations, such as proposed fee and tariff increases or schedule changes."
+},
+{
+"task_id": "21355",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Interview, select, and train warehouse and supervisory personnel."
+},
+{
+"task_id": "21356",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Advise sales and billing departments of transportation charges for customers' accounts."
+},
+{
+"task_id": "21357",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services."
+},
+{
+"task_id": "21358",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Confer with department heads to coordinate warehouse activities, such as production, sales, records control, or purchasing."
+},
+{
+"task_id": "21359",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Implement specific customer requirements, such as internal reporting or customized transportation metrics."
+},
+{
+"task_id": "21360",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Maintain metrics, reports, process documentation, customer service logs, or training or safety records."
+},
+{
+"task_id": "21361",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Examine invoices and shipping manifests for conformity to tariff and customs regulations."
+},
+{
+"task_id": "21362",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling."
+},
+{
+"task_id": "21363",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Evaluate contractors or business partners for operational efficiency or safety or environmental performance records."
+},
+{
+"task_id": "21364",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Negotiate with carriers, warehouse operators, or insurance company representatives for services and preferential rates."
+},
+{
+"task_id": "21365",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Develop or implement plans for facility modification or expansion, such as equipment purchase or changes in space allocation or structural design."
+},
+{
+"task_id": "21366",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Direct inbound or outbound operations, such as transportation or warehouse activities, safety performance, and logistics quality management."
+},
+{
+"task_id": "21367",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Plan or implement improvements to internal or external systems or processes."
+},
+{
+"task_id": "21368",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Recommend or authorize capital expenditures for acquisition of new equipment or property to increase efficiency and services."
+},
+{
+"task_id": "21369",
+"soc": "11-3071.00",
+"occupation": "Transportation, Storage, and Distribution Managers",
+"task_text": "Review invoices, work orders, consumption reports, or demand forecasts to estimate peak performance periods and to issue work assignments."
+},
+{
+"task_id": "20942",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Determine appropriate equipment and staffing levels to load, unload, move, or store materials."
+},
+{
+"task_id": "20943",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving."
+},
+{
+"task_id": "15680",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution."
+},
+{
+"task_id": "15695",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality."
+},
+{
+"task_id": "20944",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Implement new or improved supply chain processes to improve efficiency or performance."
+},
+{
+"task_id": "15700",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance."
+},
+{
+"task_id": "15694",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products."
+},
+{
+"task_id": "15696",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service."
+},
+{
+"task_id": "15685",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Negotiate prices and terms with suppliers, vendors, or freight forwarders."
+},
+{
+"task_id": "15697",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Analyze information about supplier performance or procurement program success."
+},
+{
+"task_id": "20945",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Monitor suppliers' activities to assess performance in meeting quality or delivery requirements."
+},
+{
+"task_id": "15701",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies."
+},
+{
+"task_id": "15688",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes."
+},
+{
+"task_id": "20946",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Monitor forecasts and quotas to identify changes and predict effects on supply chain activities."
+},
+{
+"task_id": "15698",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow."
+},
+{
+"task_id": "20947",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance."
+},
+{
+"task_id": "15693",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Design or implement plant warehousing strategies for production materials or finished products."
+},
+{
+"task_id": "19541",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed."
+},
+{
+"task_id": "15692",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Develop or implement procedures or systems to evaluate or select suppliers."
+},
+{
+"task_id": "15691",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows."
+},
+{
+"task_id": "15681",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Diagram supply chain models to help facilitate discussions with customers."
+},
+{
+"task_id": "19542",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory."
+},
+{
+"task_id": "19543",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products."
+},
+{
+"task_id": "19546",
+"soc": "11-3071.04",
+"occupation": "Supply Chain Managers",
+"task_text": "Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws."
+}
+]

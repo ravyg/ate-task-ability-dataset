@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .env
 clasp-project/.clasp.json
+
+# regenerable merge output from scripts/merge_validate.py
+data/task_ability_mapping_new_groups.csv

@@ -1,0 +1,946 @@
+[
+ {
+  "soc": "11",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_00.json",
+  "output": "partial_output/soc11_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_01.json",
+  "output": "partial_output/soc11_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_02.json",
+  "output": "partial_output/soc11_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_03.json",
+  "output": "partial_output/soc11_out/chunk_03.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_04.json",
+  "output": "partial_output/soc11_out/chunk_04.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_05.json",
+  "output": "partial_output/soc11_out/chunk_05.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_06.json",
+  "output": "partial_output/soc11_out/chunk_06.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_07.json",
+  "output": "partial_output/soc11_out/chunk_07.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 8,
+  "n_tasks": 130,
+  "input": "chunks/soc11/chunk_08.json",
+  "output": "partial_output/soc11_out/chunk_08.csv",
+  "status": "done"
+ },
+ {
+  "soc": "11",
+  "chunk": 9,
+  "n_tasks": 44,
+  "input": "chunks/soc11/chunk_09.json",
+  "output": "partial_output/soc11_out/chunk_09.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc15/chunk_00.json",
+  "output": "partial_output/soc15_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc15/chunk_01.json",
+  "output": "partial_output/soc15_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc15/chunk_02.json",
+  "output": "partial_output/soc15_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc15/chunk_03.json",
+  "output": "partial_output/soc15_out/chunk_03.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc15/chunk_04.json",
+  "output": "partial_output/soc15_out/chunk_04.csv",
+  "status": "done"
+ },
+ {
+  "soc": "15",
+  "chunk": 5,
+  "n_tasks": 120,
+  "input": "chunks/soc15/chunk_05.json",
+  "output": "partial_output/soc15_out/chunk_05.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_00.json",
+  "output": "partial_output/soc17_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_01.json",
+  "output": "partial_output/soc17_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_02.json",
+  "output": "partial_output/soc17_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_03.json",
+  "output": "partial_output/soc17_out/chunk_03.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_04.json",
+  "output": "partial_output/soc17_out/chunk_04.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_05.json",
+  "output": "partial_output/soc17_out/chunk_05.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_06.json",
+  "output": "partial_output/soc17_out/chunk_06.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_07.json",
+  "output": "partial_output/soc17_out/chunk_07.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 8,
+  "n_tasks": 130,
+  "input": "chunks/soc17/chunk_08.json",
+  "output": "partial_output/soc17_out/chunk_08.csv",
+  "status": "done"
+ },
+ {
+  "soc": "17",
+  "chunk": 9,
+  "n_tasks": 75,
+  "input": "chunks/soc17/chunk_09.json",
+  "output": "partial_output/soc17_out/chunk_09.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_00.json",
+  "output": "partial_output/soc19_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_01.json",
+  "output": "partial_output/soc19_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_02.json",
+  "output": "partial_output/soc19_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_03.json",
+  "output": "partial_output/soc19_out/chunk_03.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_04.json",
+  "output": "partial_output/soc19_out/chunk_04.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_05.json",
+  "output": "partial_output/soc19_out/chunk_05.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_06.json",
+  "output": "partial_output/soc19_out/chunk_06.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_07.json",
+  "output": "partial_output/soc19_out/chunk_07.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 8,
+  "n_tasks": 130,
+  "input": "chunks/soc19/chunk_08.json",
+  "output": "partial_output/soc19_out/chunk_08.csv",
+  "status": "done"
+ },
+ {
+  "soc": "19",
+  "chunk": 9,
+  "n_tasks": 57,
+  "input": "chunks/soc19/chunk_09.json",
+  "output": "partial_output/soc19_out/chunk_09.csv",
+  "status": "done"
+ },
+ {
+  "soc": "21",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc21/chunk_00.json",
+  "output": "partial_output/soc21_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "21",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc21/chunk_01.json",
+  "output": "partial_output/soc21_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "21",
+  "chunk": 2,
+  "n_tasks": 32,
+  "input": "chunks/soc21/chunk_02.json",
+  "output": "partial_output/soc21_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_00.json",
+  "output": "partial_output/soc25_out/chunk_00.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_01.json",
+  "output": "partial_output/soc25_out/chunk_01.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_02.json",
+  "output": "partial_output/soc25_out/chunk_02.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_03.json",
+  "output": "partial_output/soc25_out/chunk_03.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_04.json",
+  "output": "partial_output/soc25_out/chunk_04.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_05.json",
+  "output": "partial_output/soc25_out/chunk_05.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_06.json",
+  "output": "partial_output/soc25_out/chunk_06.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_07.json",
+  "output": "partial_output/soc25_out/chunk_07.csv",
+  "status": "done"
+ },
+ {
+  "soc": "25",
+  "chunk": 8,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_08.json",
+  "output": "partial_output/soc25_out/chunk_08.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "25",
+  "chunk": 9,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_09.json",
+  "output": "partial_output/soc25_out/chunk_09.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "25",
+  "chunk": 10,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_10.json",
+  "output": "partial_output/soc25_out/chunk_10.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "25",
+  "chunk": 11,
+  "n_tasks": 130,
+  "input": "chunks/soc25/chunk_11.json",
+  "output": "partial_output/soc25_out/chunk_11.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "25",
+  "chunk": 12,
+  "n_tasks": 76,
+  "input": "chunks/soc25/chunk_12.json",
+  "output": "partial_output/soc25_out/chunk_12.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_00.json",
+  "output": "partial_output/soc27_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_01.json",
+  "output": "partial_output/soc27_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_02.json",
+  "output": "partial_output/soc27_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_03.json",
+  "output": "partial_output/soc27_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_04.json",
+  "output": "partial_output/soc27_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc27/chunk_05.json",
+  "output": "partial_output/soc27_out/chunk_05.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "27",
+  "chunk": 6,
+  "n_tasks": 26,
+  "input": "chunks/soc27/chunk_06.json",
+  "output": "partial_output/soc27_out/chunk_06.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "33",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc33/chunk_00.json",
+  "output": "partial_output/soc33_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "33",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc33/chunk_01.json",
+  "output": "partial_output/soc33_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "33",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc33/chunk_02.json",
+  "output": "partial_output/soc33_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "33",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc33/chunk_03.json",
+  "output": "partial_output/soc33_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "33",
+  "chunk": 4,
+  "n_tasks": 2,
+  "input": "chunks/soc33/chunk_04.json",
+  "output": "partial_output/soc33_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "35",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc35/chunk_00.json",
+  "output": "partial_output/soc35_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "35",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc35/chunk_01.json",
+  "output": "partial_output/soc35_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "35",
+  "chunk": 2,
+  "n_tasks": 59,
+  "input": "chunks/soc35/chunk_02.json",
+  "output": "partial_output/soc35_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "37",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc37/chunk_00.json",
+  "output": "partial_output/soc37_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "37",
+  "chunk": 1,
+  "n_tasks": 38,
+  "input": "chunks/soc37/chunk_01.json",
+  "output": "partial_output/soc37_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "39",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc39/chunk_00.json",
+  "output": "partial_output/soc39_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "39",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc39/chunk_01.json",
+  "output": "partial_output/soc39_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "39",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc39/chunk_02.json",
+  "output": "partial_output/soc39_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "39",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc39/chunk_03.json",
+  "output": "partial_output/soc39_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "39",
+  "chunk": 4,
+  "n_tasks": 97,
+  "input": "chunks/soc39/chunk_04.json",
+  "output": "partial_output/soc39_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "45",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc45/chunk_00.json",
+  "output": "partial_output/soc45_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "45",
+  "chunk": 1,
+  "n_tasks": 90,
+  "input": "chunks/soc45/chunk_01.json",
+  "output": "partial_output/soc45_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_00.json",
+  "output": "partial_output/soc47_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_01.json",
+  "output": "partial_output/soc47_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_02.json",
+  "output": "partial_output/soc47_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_03.json",
+  "output": "partial_output/soc47_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_04.json",
+  "output": "partial_output/soc47_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_05.json",
+  "output": "partial_output/soc47_out/chunk_05.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_06.json",
+  "output": "partial_output/soc47_out/chunk_06.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc47/chunk_07.json",
+  "output": "partial_output/soc47_out/chunk_07.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "47",
+  "chunk": 8,
+  "n_tasks": 101,
+  "input": "chunks/soc47/chunk_08.json",
+  "output": "partial_output/soc47_out/chunk_08.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_00.json",
+  "output": "partial_output/soc49_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_01.json",
+  "output": "partial_output/soc49_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_02.json",
+  "output": "partial_output/soc49_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_03.json",
+  "output": "partial_output/soc49_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_04.json",
+  "output": "partial_output/soc49_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_05.json",
+  "output": "partial_output/soc49_out/chunk_05.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc49/chunk_06.json",
+  "output": "partial_output/soc49_out/chunk_06.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "49",
+  "chunk": 7,
+  "n_tasks": 98,
+  "input": "chunks/soc49/chunk_07.json",
+  "output": "partial_output/soc49_out/chunk_07.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_00.json",
+  "output": "partial_output/soc51_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_01.json",
+  "output": "partial_output/soc51_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_02.json",
+  "output": "partial_output/soc51_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_03.json",
+  "output": "partial_output/soc51_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_04.json",
+  "output": "partial_output/soc51_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_05.json",
+  "output": "partial_output/soc51_out/chunk_05.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_06.json",
+  "output": "partial_output/soc51_out/chunk_06.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 7,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_07.json",
+  "output": "partial_output/soc51_out/chunk_07.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 8,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_08.json",
+  "output": "partial_output/soc51_out/chunk_08.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 9,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_09.json",
+  "output": "partial_output/soc51_out/chunk_09.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 10,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_10.json",
+  "output": "partial_output/soc51_out/chunk_10.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 11,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_11.json",
+  "output": "partial_output/soc51_out/chunk_11.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 12,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_12.json",
+  "output": "partial_output/soc51_out/chunk_12.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 13,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_13.json",
+  "output": "partial_output/soc51_out/chunk_13.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 14,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_14.json",
+  "output": "partial_output/soc51_out/chunk_14.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 15,
+  "n_tasks": 130,
+  "input": "chunks/soc51/chunk_15.json",
+  "output": "partial_output/soc51_out/chunk_15.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "51",
+  "chunk": 16,
+  "n_tasks": 37,
+  "input": "chunks/soc51/chunk_16.json",
+  "output": "partial_output/soc51_out/chunk_16.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 0,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_00.json",
+  "output": "partial_output/soc53_out/chunk_00.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 1,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_01.json",
+  "output": "partial_output/soc53_out/chunk_01.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 2,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_02.json",
+  "output": "partial_output/soc53_out/chunk_02.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 3,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_03.json",
+  "output": "partial_output/soc53_out/chunk_03.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 4,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_04.json",
+  "output": "partial_output/soc53_out/chunk_04.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 5,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_05.json",
+  "output": "partial_output/soc53_out/chunk_05.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 6,
+  "n_tasks": 130,
+  "input": "chunks/soc53/chunk_06.json",
+  "output": "partial_output/soc53_out/chunk_06.csv",
+  "status": "pending"
+ },
+ {
+  "soc": "53",
+  "chunk": 7,
+  "n_tasks": 7,
+  "input": "chunks/soc53/chunk_07.json",
+  "output": "partial_output/soc53_out/chunk_07.csv",
+  "status": "pending"
+ }
+]
