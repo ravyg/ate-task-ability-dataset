@@ -42,9 +42,10 @@ For each remaining chunk (its output CSV does NOT yet exist):
 4. Verify before moving on: every input task_id appears, all ability names are in the
    52-list, weights are 1–3.
 
-Use Sonnet. To go faster, spawn parallel subagents (one per chunk), each doing the above
-for its chunk — but keep them on Sonnet, not Opus or Haiku. Process the manual/physical
-groups (SOC 33, 35, 37, 39, 45, 47, 49, 51, 53) with the same care as the cognitive ones.
+Use Sonnet. Spawn parallel subagents (one per chunk) — run up to 10 chunks concurrently
+at a time, and as each finishes start the next, until all remaining chunks are done. Keep
+every subagent on Sonnet, not Opus or Haiku. Process the manual/physical groups (SOC 33,
+35, 37, 39, 45, 47, 49, 51, 53) with the same care as the cognitive ones.
 
 When all 118 chunks have output CSVs, run:  python3 merge_validate.py
 and show me its summary. I want to see "ALL TASKS LABELED", 0 invalid abilities, and the
