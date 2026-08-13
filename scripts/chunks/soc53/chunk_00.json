@@ -1,0 +1,782 @@
+[
+{
+"task_id": "14435",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Determine the quantity and orientation of cargo, and compute an aircraft's center of gravity."
+},
+{
+"task_id": "14434",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Direct ground crews in the loading, unloading, securing, or staging of aircraft cargo or baggage."
+},
+{
+"task_id": "20933",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Train new employees in areas such as safety procedures or equipment operation."
+},
+{
+"task_id": "14432",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Distribute cargo to maximize use of space."
+},
+{
+"task_id": "14433",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Calculate load weights for different aircraft compartments, using charts and computers."
+},
+{
+"task_id": "14436",
+"soc": "53-1041.00",
+"occupation": "Aircraft Cargo Handling Supervisors",
+"task_text": "Accompany aircraft as a member of the flight crew to monitor and handle cargo in flight."
+},
+{
+"task_id": "20830",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Maintain a safe working environment by monitoring safety procedures and equipment."
+},
+{
+"task_id": "8562",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Collaborate with workers and managers to solve work-related problems."
+},
+{
+"task_id": "8563",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Review work throughout the work process and at completion to ensure that it has been performed properly."
+},
+{
+"task_id": "8566",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Inform designated employees or departments of items loaded or problems encountered."
+},
+{
+"task_id": "8573",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Inspect equipment for wear and for conformance to specifications."
+},
+{
+"task_id": "8570",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Prepare and maintain work records and reports of information such as employee time and wages, daily receipts, or inspection results."
+},
+{
+"task_id": "8564",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Transmit and explain work orders to laborers."
+},
+{
+"task_id": "8561",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Plan work schedules and assign duties to maintain adequate staff for effective performance of activities and response to fluctuating workloads."
+},
+{
+"task_id": "8582",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Participate in the hiring process by reviewing credentials, conducting interviews, or making hiring decisions or recommendations."
+},
+{
+"task_id": "8579",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Estimate material, time, and staffing requirements for a given project, based on work orders, job specifications, and experience."
+},
+{
+"task_id": "8572",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Counsel employees in work-related activities, personal growth, or career development."
+},
+{
+"task_id": "8576",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Assess training needs of staff and arrange for or provide appropriate instruction."
+},
+{
+"task_id": "8571",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Conduct staff meetings to relay general information or to address specific topics, such as safety."
+},
+{
+"task_id": "8565",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Check specifications of materials loaded or unloaded against information contained in work orders."
+},
+{
+"task_id": "8569",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Perform the same work duties as those supervised, or perform more difficult or skilled tasks or assist in their performance."
+},
+{
+"task_id": "8574",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Resolve personnel problems, complaints, or formal grievances when possible, or refer them to higher-level supervisors for resolution."
+},
+{
+"task_id": "8575",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Recommend or initiate personnel actions, such as promotions, transfers, or disciplinary measures."
+},
+{
+"task_id": "8568",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Evaluate employee performance and prepare performance appraisals."
+},
+{
+"task_id": "8567",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Examine freight to determine loading sequences."
+},
+{
+"task_id": "8577",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Schedule times of shipment and modes of transportation for materials."
+},
+{
+"task_id": "8583",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Inventory supplies and requisition or purchase additional items, as necessary."
+},
+{
+"task_id": "8578",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Quote prices to customers."
+},
+{
+"task_id": "8580",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Provide assistance in balancing books, tracking, monitoring, or projecting a unit's budget needs, and in developing unit policies and procedures."
+},
+{
+"task_id": "8581",
+"soc": "53-1042.00",
+"occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+"task_text": "Inspect job sites to determine the extent of maintenance or repairs needed."
+},
+{
+"task_id": "17888",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Oversee recycling pick-up or drop-off programs to ensure compliance with community ordinances."
+},
+{
+"task_id": "17907",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Maintain logs of recycling materials received or shipped to processing companies."
+},
+{
+"task_id": "17889",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Supervise recycling technicians, community service workers, or other recycling operations employees or volunteers."
+},
+{
+"task_id": "17910",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Review customer requests for service to determine service needs and deploy appropriate resources to provide service."
+},
+{
+"task_id": "17909",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Provide training to recycling technicians or community service workers on topics such as safety, solid waste processing, or general recycling operations."
+},
+{
+"task_id": "17905",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Identify or investigate new opportunities for materials to be collected and recycled."
+},
+{
+"task_id": "17890",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Assign truck drivers or recycling technicians to routes."
+},
+{
+"task_id": "17893",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Create or manage recycling operations budgets."
+},
+{
+"task_id": "17908",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Prepare bills of lading, statements of shipping records, or customer receipts related to recycling or hazardous material services."
+},
+{
+"task_id": "17906",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Inspect physical condition of recycling or hazardous waste facility for compliance with safety, quality, and service standards."
+},
+{
+"task_id": "17899",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Negotiate contracts with waste management or other firms."
+},
+{
+"task_id": "17892",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Coordinate shipments of recycling materials with shipping brokers or processing companies."
+},
+{
+"task_id": "17901",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Operate recycling processing equipment, such as sorters, balers, crushers, and granulators to sort and process materials."
+},
+{
+"task_id": "17900",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Operate fork lifts, skid loaders, or trucks to move or store recyclable materials."
+},
+{
+"task_id": "17904",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Schedule movement of recycling materials into and out of storage areas."
+},
+{
+"task_id": "17902",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Oversee campaigns to promote recycling or waste reduction programs in communities or private companies."
+},
+{
+"task_id": "17891",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Coordinate recycling collection schedules to optimize service and efficiency."
+},
+{
+"task_id": "17895",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Develop community or corporate recycling plans and goals to minimize waste and conform to resource constraints."
+},
+{
+"task_id": "17903",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Prepare grant applications to fund recycling programs or program enhancements."
+},
+{
+"task_id": "17897",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Investigate violations of solid waste or recycling ordinances."
+},
+{
+"task_id": "17896",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Implement grant-funded projects, monitoring and reporting progress in accordance with sponsoring agency requirements."
+},
+{
+"task_id": "17898",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Make presentations to educate the public on how to recycle or on the environmental advantages of recycling."
+},
+{
+"task_id": "17894",
+"soc": "53-1042.01",
+"occupation": "Recycling Coordinators",
+"task_text": "Design community solid and hazardous waste management programs."
+},
+{
+"task_id": "8584",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Enforce safety rules and regulations."
+},
+{
+"task_id": "8593",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Interpret transportation or tariff regulations, shipping orders, safety regulations, or company policies and procedures for workers."
+},
+{
+"task_id": "8588",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Resolve worker problems or collaborate with employees to assist in problem resolution."
+},
+{
+"task_id": "8586",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems."
+},
+{
+"task_id": "8585",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Plan work assignments and equipment allocations to meet transportation, operations or production goals."
+},
+{
+"task_id": "8603",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Examine, measure, or weigh cargo or materials to determine specific handling requirements."
+},
+{
+"task_id": "8594",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers."
+},
+{
+"task_id": "8589",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Review orders, production schedules, blueprints, or shipping or receiving notices to determine work sequences and material shipping dates, types, volumes, or destinations."
+},
+{
+"task_id": "8605",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Drive vehicles or operate machines or equipment to complete work assignments or to assist workers."
+},
+{
+"task_id": "8599",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Inspect or test materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications."
+},
+{
+"task_id": "8592",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Maintain or verify records of time, materials, expenditures, or crew activities."
+},
+{
+"task_id": "8597",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Requisition needed personnel, supplies, equipment, parts, or repair services."
+},
+{
+"task_id": "8591",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Recommend and implement measures to improve worker motivation, equipment performance, work methods, or customer services."
+},
+{
+"task_id": "8595",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Prepare, compile, and submit reports on work activities, operations, production, or work-related accidents."
+},
+{
+"task_id": "8601",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Dispatch personnel and vehicles in response to telephone or radio reports of emergencies."
+},
+{
+"task_id": "20455",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Monitor field work to ensure proper performance and use of materials."
+},
+{
+"task_id": "8596",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Recommend or implement personnel actions, such as employee selection, evaluation, rewards, or disciplinary actions."
+},
+{
+"task_id": "8602",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Perform or schedule repairs or preventive maintenance of vehicles or other equipment."
+},
+{
+"task_id": "8600",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Compute or estimate cash, payroll, transportation, personnel, or storage requirements."
+},
+{
+"task_id": "23693",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Assist workers in tasks, such as loading vehicles."
+},
+{
+"task_id": "23694",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Direct workers in transportation or related services, such as pumping, moving, storing, or loading or unloading of materials."
+},
+{
+"task_id": "23695",
+"soc": "53-1043.00",
+"occupation": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+"task_text": "Plan and establish schedules."
+},
+{
+"task_id": "23696",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Analyze and record personnel or operational data and write related activity reports."
+},
+{
+"task_id": "23697",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Apply customer feedback to service improvement efforts."
+},
+{
+"task_id": "23698",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Compute or estimate cash, payroll, transportation, or personnel requirements."
+},
+{
+"task_id": "23699",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems."
+},
+{
+"task_id": "23700",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Direct or coordinate the activities of workers, such as flight or car attendants."
+},
+{
+"task_id": "23701",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Enforce safety rules and regulations."
+},
+{
+"task_id": "23702",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers."
+},
+{
+"task_id": "23703",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Inform workers about interests or special needs of specific groups."
+},
+{
+"task_id": "23704",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Inspect materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications."
+},
+{
+"task_id": "23705",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance."
+},
+{
+"task_id": "23706",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Meet with managers or other supervisors to stay informed of changes affecting operations."
+},
+{
+"task_id": "23707",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications."
+},
+{
+"task_id": "23708",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Participate in continuing education to stay abreast of industry trends and developments."
+},
+{
+"task_id": "23709",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Recommend and implement measures to improve worker motivation, work methods, or customer services."
+},
+{
+"task_id": "23710",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Recruit and hire staff members."
+},
+{
+"task_id": "23711",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Requisition necessary supplies, equipment, or services."
+},
+{
+"task_id": "23712",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Resolve customer complaints regarding worker performance or services rendered."
+},
+{
+"task_id": "23713",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Take disciplinary action to address performance problems."
+},
+{
+"task_id": "23714",
+"soc": "53-1044.00",
+"occupation": "First-Line Supervisors of Passenger Attendants",
+"task_text": "Train workers in proper operational procedures and functions and explain company policies."
+},
+{
+"task_id": "10562",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Use instrumentation to guide flights when visibility is poor."
+},
+{
+"task_id": "10568",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight, adhering to flight plans, regulations, and procedures."
+},
+{
+"task_id": "10564",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Work as part of a flight team with other crew members, especially during takeoffs and landings."
+},
+{
+"task_id": "10563",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Respond to and report in-flight emergencies and malfunctions."
+},
+{
+"task_id": "10569",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Inspect aircraft for defects and malfunctions, according to pre-flight checklists."
+},
+{
+"task_id": "10565",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment."
+},
+{
+"task_id": "10571",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights."
+},
+{
+"task_id": "10567",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Monitor gauges, warning devices, and control panels to verify aircraft performance and to regulate engine speed."
+},
+{
+"task_id": "10566",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Steer aircraft along planned routes, using autopilot and flight management computers."
+},
+{
+"task_id": "10570",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Check passenger and cargo distributions and fuel amounts to ensure that weight and balance specifications are met."
+},
+{
+"task_id": "10572",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Confer with flight dispatchers and weather forecasters to keep abreast of flight conditions."
+},
+{
+"task_id": "10574",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights."
+},
+{
+"task_id": "10577",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Brief crews about flight details, such as destinations, duties, and responsibilities."
+},
+{
+"task_id": "10575",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights."
+},
+{
+"task_id": "10576",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Direct activities of aircraft crews during flights."
+},
+{
+"task_id": "10578",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Record in log books information, such as flight times, distances flown, and fuel consumption."
+},
+{
+"task_id": "10582",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Instruct other pilots and student pilots in aircraft operations and the principles of flight."
+},
+{
+"task_id": "10579",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Make announcements regarding flights, using public address systems."
+},
+{
+"task_id": "10573",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Coordinate flight activities with ground crews and air traffic control and inform crew members of flight and test procedures."
+},
+{
+"task_id": "10583",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems."
+},
+{
+"task_id": "10580",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "File instrument flight plans with air traffic control to ensure that flights are coordinated with other air traffic."
+},
+{
+"task_id": "10581",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Perform minor maintenance work, or arrange for major maintenance."
+},
+{
+"task_id": "10584",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Evaluate other pilots or pilot-license applicants for proficiency."
+},
+{
+"task_id": "10586",
+"soc": "53-2011.00",
+"occupation": "Airline Pilots, Copilots, and Flight Engineers",
+"task_text": "Plan and formulate flight activities and test schedules and prepare flight evaluation reports."
+},
+{
+"task_id": "10587",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Check aircraft prior to flights to ensure that the engines, controls, instruments, and other systems are functioning properly."
+},
+{
+"task_id": "20831",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Co-pilot aircraft or perform captain's duties, as required."
+},
+{
+"task_id": "10591",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Consider airport altitudes, outside temperatures, plane weights, and wind speeds and directions to calculate the speed needed to become airborne."
+},
+{
+"task_id": "10595",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Use instrumentation to pilot aircraft when visibility is poor."
+},
+{
+"task_id": "10590",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights."
+},
+{
+"task_id": "10592",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights."
+},
+{
+"task_id": "10588",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment."
+},
+{
+"task_id": "10594",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Plan flights according to government and company regulations, using aeronautical charts and navigation instruments."
+},
+{
+"task_id": "10589",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight according to flight plans, regulations, and procedures."
+},
+{
+"task_id": "10596",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Check baggage or cargo to ensure that it has been loaded correctly."
+},
+{
+"task_id": "10593",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Obtain and review data such as load weights, fuel supplies, weather conditions, and flight schedules to determine flight plans and identify needed changes."
+},
+{
+"task_id": "10605",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems."
+}
+]

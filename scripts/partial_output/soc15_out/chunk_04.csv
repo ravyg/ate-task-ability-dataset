@@ -1,0 +1,764 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Deductive Reasoning,3,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Inductive Reasoning,3,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Problem Sensitivity,3,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Written Comprehension,2,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Information Ordering,2,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Originality,2,0
+21772,Information Security Engineers,"Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.",Fluency of Ideas,2,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Written Expression,3,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Written Comprehension,3,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Deductive Reasoning,2,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Inductive Reasoning,2,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Information Ordering,2,0
+21785,Information Security Engineers,Write reports regarding investigations of information security breaches or network evaluations.,Problem Sensitivity,2,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Oral Comprehension,3,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Oral Expression,3,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Written Comprehension,2,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Problem Sensitivity,2,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Deductive Reasoning,2,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Speech Clarity,2,0
+21779,Information Security Engineers,Provide technical support to computer users for installation and use of security products.,Speech Recognition,2,0
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,Written Comprehension,3,0
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,Deductive Reasoning,2,0
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,Information Ordering,2,0
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,Memorization,2,0
+21786,Digital Forensics Analysts,Adhere to legal policies and procedures related to handling digital media.,Selective Attention,2,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Inductive Reasoning,3,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Deductive Reasoning,3,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Problem Sensitivity,3,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Written Comprehension,2,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Selective Attention,2,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Perceptual Speed,2,0
+21787,Digital Forensics Analysts,Analyze log files or other digital information to identify the perpetrators of network intrusions.,Information Ordering,2,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Deductive Reasoning,3,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Inductive Reasoning,3,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Problem Sensitivity,3,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Mathematical Reasoning,2,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Written Comprehension,2,0
+21788,Digital Forensics Analysts,Conduct predictive or reactive analyses on security measures to support cyber security initiatives.,Information Ordering,2,0
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,Deductive Reasoning,2,0
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,Information Ordering,3,0
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,Problem Sensitivity,2,0
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,Written Comprehension,2,0
+21789,Digital Forensics Analysts,Create system images or capture network settings from information technology environments to preserve as evidence.,Selective Attention,2,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Deductive Reasoning,3,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Inductive Reasoning,3,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Problem Sensitivity,3,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Information Ordering,2,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Written Expression,2,0
+21790,Digital Forensics Analysts,"Develop plans for investigating alleged computer crimes, violations, or suspicious activity.",Fluency of Ideas,2,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Written Expression,3,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Deductive Reasoning,2,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Information Ordering,3,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Inductive Reasoning,2,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Written Comprehension,2,0
+21791,Digital Forensics Analysts,"Develop policies or requirements for data collection, processing, or reporting.",Fluency of Ideas,1,0
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,Deductive Reasoning,2,0
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,Information Ordering,2,0
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,Selective Attention,3,0
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,Written Comprehension,2,0
+21792,Digital Forensics Analysts,Duplicate digital evidence to use for data recovery and analysis procedures.,Problem Sensitivity,2,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Inductive Reasoning,3,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Deductive Reasoning,3,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Problem Sensitivity,3,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Originality,2,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Fluency of Ideas,2,0
+21793,Digital Forensics Analysts,Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.,Written Comprehension,2,0
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,Deductive Reasoning,2,0
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,Problem Sensitivity,2,0
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,Information Ordering,2,0
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,Written Comprehension,2,0
+21794,Digital Forensics Analysts,Maintain cyber defense software or hardware to support responses to cyber incidents.,Selective Attention,2,0
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",Written Comprehension,3,0
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",Memorization,2,0
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",Deductive Reasoning,2,0
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",Information Ordering,2,0
+21795,Digital Forensics Analysts,"Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.",Selective Attention,2,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Inductive Reasoning,3,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Deductive Reasoning,2,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Perceptual Speed,3,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Selective Attention,3,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Problem Sensitivity,2,0
+21796,Digital Forensics Analysts,Perform file signature analysis to verify files on storage media or discover potential hidden files.,Written Comprehension,2,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Inductive Reasoning,3,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Deductive Reasoning,3,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Problem Sensitivity,3,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Selective Attention,2,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Information Ordering,2,0
+21797,Digital Forensics Analysts,Perform forensic investigations of operating or file systems.,Written Comprehension,2,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Inductive Reasoning,3,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Deductive Reasoning,2,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Problem Sensitivity,3,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Perceptual Speed,2,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Selective Attention,2,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Mathematical Reasoning,2,0
+21798,Digital Forensics Analysts,"Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",Number Facility,2,0
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,Information Ordering,3,0
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,Selective Attention,2,0
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,Deductive Reasoning,2,0
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,Written Comprehension,2,0
+21799,Digital Forensics Analysts,Preserve and maintain digital forensic evidence for analysis.,Problem Sensitivity,2,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Deductive Reasoning,3,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Inductive Reasoning,2,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Problem Sensitivity,2,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Written Expression,2,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Written Comprehension,2,0
+21800,Digital Forensics Analysts,Recommend cyber defense software or hardware to support responses to cyber incidents.,Oral Expression,1,0
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,Deductive Reasoning,3,0
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,Problem Sensitivity,2,0
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,Inductive Reasoning,2,0
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,Information Ordering,2,0
+21801,Digital Forensics Analysts,Recover data or decrypt seized data.,Mathematical Reasoning,2,1
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Deductive Reasoning,3,0
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Written Expression,3,0
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Information Ordering,2,0
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Mathematical Reasoning,2,0
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Problem Sensitivity,2,0
+21802,Digital Forensics Analysts,"Write and execute scripts to automate tasks, such as parsing large data files.",Written Comprehension,2,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Written Expression,3,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Written Comprehension,3,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Deductive Reasoning,2,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Inductive Reasoning,2,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Fluency of Ideas,2,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Information Ordering,2,0
+21803,Digital Forensics Analysts,"Write cyber defense recommendations, reports, or white papers using research or experience.",Originality,1,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Written Expression,3,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Written Comprehension,2,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Oral Expression,2,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Speech Clarity,2,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Deductive Reasoning,2,0
+21804,Digital Forensics Analysts,"Write reports, sign affidavits, or give depositions for legal proceedings.",Information Ordering,2,0
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,Written Expression,3,0
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,Written Comprehension,2,0
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,Information Ordering,2,0
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,Deductive Reasoning,2,0
+21805,Digital Forensics Analysts,Write technical summaries to report findings.,Fluency of Ideas,1,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Inductive Reasoning,3,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Deductive Reasoning,3,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Problem Sensitivity,3,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Written Comprehension,2,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Category Flexibility,2,0
+21806,Blockchain Engineers,"Assess blockchain threats, such as untested code and unprotected keys.",Mathematical Reasoning,2,1
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,Deductive Reasoning,3,0
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,Information Ordering,3,0
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,Problem Sensitivity,2,0
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,Written Comprehension,2,0
+21807,Blockchain Engineers,Automate the deployment of software updates over geographically distributed network nodes.,Mathematical Reasoning,2,1
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Deductive Reasoning,3,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Inductive Reasoning,3,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Problem Sensitivity,3,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Originality,2,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Fluency of Ideas,2,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Information Ordering,2,0
+21808,Blockchain Engineers,"Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.",Mathematical Reasoning,2,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Deductive Reasoning,3,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Inductive Reasoning,2,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Originality,3,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Fluency of Ideas,2,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Problem Sensitivity,2,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Mathematical Reasoning,2,0
+21809,Blockchain Engineers,Design and develop blockchain technologies for industries such as finance and music.,Written Comprehension,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Deductive Reasoning,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Visualization,3,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Originality,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Written Comprehension,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Information Ordering,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Fluency of Ideas,2,0
+21810,Blockchain Engineers,Design and implement dashboard and data visualizations to meet customer reporting needs.,Near Vision,2,0
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,Deductive Reasoning,3,0
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,Information Ordering,3,0
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,Inductive Reasoning,2,0
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,Problem Sensitivity,2,0
+21811,Blockchain Engineers,Design and implement data repositories to integrate data.,Written Comprehension,2,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Deductive Reasoning,3,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Mathematical Reasoning,3,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Inductive Reasoning,3,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Problem Sensitivity,2,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Originality,2,0
+21812,Blockchain Engineers,Design and verify cryptographic protocols to protect private information.,Written Comprehension,2,0
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",Deductive Reasoning,2,0
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",Information Ordering,3,0
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",Written Expression,2,0
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",Problem Sensitivity,2,0
+21813,Blockchain Engineers,"Determine specifications for, or implement, logging.",Written Comprehension,2,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Deductive Reasoning,3,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Inductive Reasoning,2,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Information Ordering,3,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Written Comprehension,2,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Originality,2,0
+21814,Blockchain Engineers,"Develop a maintainable code base using object-oriented design principles, practices, or patterns.",Category Flexibility,2,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Oral Comprehension,3,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Oral Expression,3,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Deductive Reasoning,2,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Inductive Reasoning,2,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Speech Clarity,2,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Speech Recognition,2,0
+21815,Blockchain Engineers,"Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.",Written Comprehension,2,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Oral Comprehension,3,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Oral Expression,3,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Written Comprehension,2,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Deductive Reasoning,2,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Speech Clarity,2,0
+21816,Blockchain Engineers,"Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.",Speech Recognition,2,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Deductive Reasoning,3,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Inductive Reasoning,3,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Problem Sensitivity,3,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Written Comprehension,2,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Mathematical Reasoning,2,0
+21817,Blockchain Engineers,Evaluate blockchain processes or risks based on security assessments or control matrix reviews.,Category Flexibility,2,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Deductive Reasoning,3,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Inductive Reasoning,2,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Written Comprehension,2,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Category Flexibility,2,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Problem Sensitivity,2,0
+21818,Blockchain Engineers,Evaluate new blockchain technologies and vendor products.,Written Expression,1,0
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,Deductive Reasoning,3,0
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,Problem Sensitivity,3,0
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,Inductive Reasoning,3,0
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,Information Ordering,2,0
+21819,Blockchain Engineers,Implement catastrophic failure handlers to identify security breaches and prevent serious damage.,Written Comprehension,2,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Deductive Reasoning,3,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Inductive Reasoning,2,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Problem Sensitivity,2,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Mathematical Reasoning,2,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Written Comprehension,2,0
+21820,Blockchain Engineers,Run infrastructure tests to examine the behavior of large peer-to-peer networks.,Information Ordering,2,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Deductive Reasoning,3,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Problem Sensitivity,3,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Inductive Reasoning,2,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Mathematical Reasoning,2,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Written Comprehension,2,0
+21821,Blockchain Engineers,Test the security and performance of blockchain infrastructures.,Information Ordering,2,0
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,Deductive Reasoning,3,0
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,Written Comprehension,2,0
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,Information Ordering,2,0
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,Problem Sensitivity,2,0
+21822,Blockchain Engineers,Update client and server applications responsible for integration and business logic.,Category Flexibility,2,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Oral Comprehension,3,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Oral Expression,3,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Written Comprehension,2,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Deductive Reasoning,2,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Speech Recognition,2,0
+14666,Computer Systems Engineers/Architects,Communicate with staff or clients to understand specific system requirements.,Speech Clarity,2,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Deductive Reasoning,3,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Inductive Reasoning,3,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Written Comprehension,2,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Problem Sensitivity,2,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Category Flexibility,2,0
+14677,Computer Systems Engineers/Architects,"Investigate system component suitability for specified purposes, and make recommendations regarding component use.",Written Expression,2,0
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,Written Expression,3,0
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,Oral Expression,2,0
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,Written Comprehension,2,0
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,Deductive Reasoning,2,0
+14674,Computer Systems Engineers/Architects,Provide customers or installation teams guidelines for implementing secure systems.,Information Ordering,2,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Deductive Reasoning,3,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Inductive Reasoning,2,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Oral Expression,2,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Information Ordering,3,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Problem Sensitivity,2,0
+14676,Computer Systems Engineers/Architects,"Direct the analysis, development, and operation of complete computer systems.",Written Comprehension,2,0
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",Deductive Reasoning,2,0
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",Information Ordering,3,0
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",Oral Expression,2,0
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",Written Comprehension,2,0
+14689,Computer Systems Engineers/Architects,"Direct the installation of operating systems, network or application software, or computer or network hardware.",Problem Sensitivity,2,0
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,Problem Sensitivity,3,0
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,Inductive Reasoning,2,0
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,Selective Attention,3,0
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,Deductive Reasoning,2,0
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,Written Comprehension,2,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Deductive Reasoning,3,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Inductive Reasoning,2,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Written Comprehension,2,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Problem Sensitivity,2,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Category Flexibility,2,0
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",Information Ordering,2,0
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",Deductive Reasoning,2,0
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",Information Ordering,2,0
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",Written Comprehension,2,0
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",Problem Sensitivity,2,0
+14678,Computer Systems Engineers/Architects,"Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",Selective Attention,2,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Deductive Reasoning,3,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Inductive Reasoning,3,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Problem Sensitivity,3,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Written Comprehension,2,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Information Ordering,2,0
+14669,Computer Systems Engineers/Architects,"Verify stability, interoperability, portability, security, or scalability of system architecture.",Category Flexibility,2,0
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",Deductive Reasoning,3,0
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",Problem Sensitivity,2,0
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",Written Comprehension,2,0
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",Inductive Reasoning,2,0
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",Information Ordering,2,0
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,Deductive Reasoning,3,0
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,Written Comprehension,2,0
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,Information Ordering,2,0
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,Problem Sensitivity,2,0
+14679,Computer Systems Engineers/Architects,Configure servers to meet functional specifications.,Selective Attention,2,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Oral Comprehension,3,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Oral Expression,2,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Deductive Reasoning,3,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Inductive Reasoning,2,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Category Flexibility,2,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Written Comprehension,2,0
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,Speech Recognition,1,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Deductive Reasoning,3,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Inductive Reasoning,2,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Problem Sensitivity,2,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Information Ordering,2,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Written Comprehension,2,0
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,Written Expression,2,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Deductive Reasoning,3,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Inductive Reasoning,3,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Problem Sensitivity,2,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Written Comprehension,2,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Category Flexibility,2,0
+14685,Computer Systems Engineers/Architects,"Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements.",Written Expression,2,0
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",Written Expression,3,0
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",Written Comprehension,2,0
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",Information Ordering,3,0
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",Deductive Reasoning,2,0
+14668,Computer Systems Engineers/Architects,"Document design specifications, installation instructions, and other system-related information.",Fluency of Ideas,1,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Deductive Reasoning,3,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Inductive Reasoning,3,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Problem Sensitivity,3,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Written Comprehension,2,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Category Flexibility,2,0
+14691,Computer Systems Engineers/Architects,Perform security analyses of developed or packaged software components.,Information Ordering,2,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Oral Expression,3,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Oral Comprehension,2,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Deductive Reasoning,2,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Problem Sensitivity,2,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Written Comprehension,2,0
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,Speech Clarity,2,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Deductive Reasoning,3,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Inductive Reasoning,3,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Problem Sensitivity,2,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Written Expression,2,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Written Comprehension,2,0
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",Information Ordering,2,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Deductive Reasoning,3,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Written Expression,3,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Written Comprehension,2,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Information Ordering,2,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Inductive Reasoning,2,0
+14684,Computer Systems Engineers/Architects,"Establish functional or system standards to address operational requirements, quality requirements, and design constraints.",Problem Sensitivity,2,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Deductive Reasoning,3,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Inductive Reasoning,3,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Originality,3,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Fluency of Ideas,2,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Written Comprehension,2,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Information Ordering,2,0
+14682,Computer Systems Engineers/Architects,"Develop system engineering, software engineering, system integration, or distributed system architectures.",Visualization,2,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Deductive Reasoning,2,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Oral Expression,3,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Written Expression,2,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Mathematical Reasoning,2,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Number Facility,2,0
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",Written Comprehension,2,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Deductive Reasoning,3,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Inductive Reasoning,3,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Written Comprehension,2,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Category Flexibility,2,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Mathematical Reasoning,2,0
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",Problem Sensitivity,2,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Deductive Reasoning,2,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Mathematical Reasoning,2,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Number Facility,2,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Information Ordering,3,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Written Expression,2,0
+14680,Computer Systems Engineers/Architects,"Develop or approve project plans, schedules, or budgets.",Written Comprehension,2,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Written Expression,3,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Oral Expression,3,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Written Comprehension,2,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Fluency of Ideas,2,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Speech Clarity,2,0
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",Information Ordering,2,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Oral Expression,3,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Oral Comprehension,2,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Written Expression,2,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Speech Clarity,2,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Information Ordering,2,0
+14690,Computer Systems Engineers/Architects,Train system users in system operation or maintenance.,Deductive Reasoning,2,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Mathematical Reasoning,3,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Deductive Reasoning,3,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Inductive Reasoning,2,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Number Facility,2,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Visualization,2,0
+14688,Computer Systems Engineers/Architects,"Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",Written Comprehension,2,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Deductive Reasoning,3,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Inductive Reasoning,2,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Originality,2,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Problem Sensitivity,2,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Written Comprehension,2,0
+14693,Computer Systems Engineers/Architects,Develop efficient and effective system controllers.,Information Ordering,2,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Deductive Reasoning,3,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Inductive Reasoning,2,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Originality,2,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Written Comprehension,2,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Information Ordering,2,0
+14692,Computer Systems Engineers/Architects,Develop application-specific software.,Problem Sensitivity,2,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Deductive Reasoning,3,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Information Ordering,3,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Mathematical Reasoning,2,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Number Facility,2,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Written Comprehension,2,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Problem Sensitivity,2,0
+16169,Information Technology Project Managers,"Manage project execution to ensure adherence to budget, schedule, and scope.",Selective Attention,2,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Oral Comprehension,3,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Oral Expression,3,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Deductive Reasoning,2,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Problem Sensitivity,2,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Inductive Reasoning,2,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Speech Recognition,2,0
+16154,Information Technology Project Managers,Confer with project personnel to identify and resolve problems.,Speech Clarity,2,0
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,Selective Attention,3,0
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,Information Ordering,2,0
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,Written Comprehension,2,0
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,Deductive Reasoning,2,0
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,Problem Sensitivity,2,0
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",Deductive Reasoning,2,0
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",Written Comprehension,2,0
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",Information Ordering,2,0
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",Selective Attention,2,0
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",Problem Sensitivity,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Oral Comprehension,3,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Oral Expression,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Written Comprehension,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Inductive Reasoning,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Deductive Reasoning,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Speech Recognition,2,0
+16155,Information Technology Project Managers,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",Problem Sensitivity,2,0
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",Deductive Reasoning,3,0
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",Written Comprehension,2,0
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",Problem Sensitivity,2,0
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",Information Ordering,2,0
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",Inductive Reasoning,2,0
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,Oral Expression,2,0
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,Information Ordering,3,0
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,Oral Comprehension,2,0
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,Written Comprehension,2,0
+16156,Information Technology Project Managers,Schedule and facilitate meetings related to information technology projects.,Speech Clarity,2,0
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,Oral Expression,3,0
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,Information Ordering,2,0
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,Deductive Reasoning,2,0
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,Written Comprehension,2,0
+16163,Information Technology Project Managers,Direct or coordinate activities of project personnel.,Oral Comprehension,2,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Deductive Reasoning,3,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Mathematical Reasoning,3,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Number Facility,2,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Written Expression,2,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Information Ordering,2,0
+16164,Information Technology Project Managers,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,Inductive Reasoning,2,0
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,Deductive Reasoning,2,0
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,Problem Sensitivity,3,0
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,Inductive Reasoning,2,0
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,Written Comprehension,2,0
+16162,Information Technology Project Managers,Identify need for initial or supplemental project resources.,Mathematical Reasoning,2,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Written Expression,3,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Information Ordering,3,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Deductive Reasoning,2,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Mathematical Reasoning,2,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Written Comprehension,2,0
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",Fluency of Ideas,2,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Deductive Reasoning,3,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Inductive Reasoning,3,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Problem Sensitivity,3,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Mathematical Reasoning,2,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Written Expression,2,0
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,Written Comprehension,2,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Written Expression,3,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Inductive Reasoning,2,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Information Ordering,2,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Written Comprehension,2,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Number Facility,2,0
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",Mathematical Reasoning,2,0
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",Deductive Reasoning,3,0
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",Written Comprehension,2,0
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",Oral Comprehension,2,0
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",Category Flexibility,2,0
+16160,Information Technology Project Managers,"Identify, review, or select vendors or consultants to meet project needs.",Problem Sensitivity,2,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Mathematical Reasoning,3,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Number Facility,3,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Deductive Reasoning,2,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Written Expression,2,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Written Comprehension,2,0
+16166,Information Technology Project Managers,Develop and manage annual budgets for information technology projects.,Information Ordering,2,0
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,Written Expression,3,0
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,Information Ordering,3,0
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,Oral Expression,2,0
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,Written Comprehension,2,0
+16161,Information Technology Project Managers,Establish and execute a project communication plan.,Deductive Reasoning,2,0
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,Information Ordering,3,0
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,Deductive Reasoning,3,0
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,Written Expression,2,0
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,Written Comprehension,2,0
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,Mathematical Reasoning,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Oral Expression,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Written Expression,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Oral Comprehension,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Inductive Reasoning,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Problem Sensitivity,2,0
+16153,Information Technology Project Managers,"Monitor the performance of project team members, providing and documenting performance feedback.",Selective Attention,2,0
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,Deductive Reasoning,2,0
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,Oral Comprehension,2,0
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,Written Comprehension,2,0
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,Information Ordering,2,0
+16165,Information Technology Project Managers,Coordinate recruitment or selection of project personnel.,Category Flexibility,2,0
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",Deductive Reasoning,2,0
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",Information Ordering,3,0
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",Oral Expression,2,0
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",Written Expression,2,0
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",Written Comprehension,2,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Oral Expression,3,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Oral Comprehension,3,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Deductive Reasoning,2,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Speech Clarity,2,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Speech Recognition,2,0
+16158,Information Technology Project Managers,Negotiate with project stakeholders or suppliers to obtain resources or materials.,Written Comprehension,2,0
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,Mathematical Reasoning,3,0
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,Number Facility,3,0
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,Deductive Reasoning,3,0
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,Inductive Reasoning,2,0
+3500,Actuaries,Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.,Written Comprehension,2,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Oral Comprehension,3,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Oral Expression,3,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Deductive Reasoning,2,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Written Comprehension,2,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Speech Recognition,2,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Speech Clarity,2,0
+3503,Actuaries,"Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.",Fluency of Ideas,2,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Mathematical Reasoning,3,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Number Facility,3,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Inductive Reasoning,3,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Deductive Reasoning,2,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Written Comprehension,2,0
+3501,Actuaries,"Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.",Information Ordering,2,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Mathematical Reasoning,3,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Number Facility,3,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Deductive Reasoning,3,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Inductive Reasoning,2,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Written Comprehension,2,0
+3502,Actuaries,"Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.",Written Expression,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Oral Expression,3,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Written Expression,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Oral Comprehension,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Deductive Reasoning,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Written Comprehension,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Speech Clarity,2,0
+3504,Actuaries,"Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.",Fluency of Ideas,2,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Mathematical Reasoning,3,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Number Facility,3,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Inductive Reasoning,3,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Deductive Reasoning,2,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Information Ordering,2,0
+3508,Actuaries,"Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.",Written Comprehension,2,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Oral Expression,3,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Oral Comprehension,2,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Written Expression,2,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Written Comprehension,2,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Speech Clarity,2,0
+3506,Actuaries,"Provide advice to clients on a contract basis, working as a consultant.",Deductive Reasoning,2,0
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,Mathematical Reasoning,3,0
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,Number Facility,3,0
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,Deductive Reasoning,3,0
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,Written Comprehension,2,0
+3512,Actuaries,Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.,Inductive Reasoning,2,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Oral Expression,3,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Oral Comprehension,3,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Deductive Reasoning,2,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Written Comprehension,2,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Speech Clarity,2,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Speech Recognition,2,0
+20951,Actuaries,Negotiate terms and conditions of reinsurance with other companies.,Mathematical Reasoning,2,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Mathematical Reasoning,3,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Deductive Reasoning,3,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Inductive Reasoning,2,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Oral Expression,2,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Written Comprehension,2,0
+3511,Actuaries,Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.,Number Facility,2,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Oral Expression,3,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Speech Clarity,3,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Oral Comprehension,2,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Written Comprehension,2,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Deductive Reasoning,2,0
+3505,Actuaries,Testify before public agencies on proposed legislation affecting businesses.,Speech Recognition,1,0
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,Deductive Reasoning,3,0
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,Written Comprehension,3,0
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,Mathematical Reasoning,2,0
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,Inductive Reasoning,2,0
+3509,Actuaries,Determine policy contract provisions for each type of insurance.,Written Expression,2,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Oral Expression,3,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Speech Clarity,3,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Oral Comprehension,2,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Mathematical Reasoning,2,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Deductive Reasoning,2,0
+3507,Actuaries,Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.,Written Comprehension,2,0
+3513,Actuaries,Explain changes in contract provisions to customers.,Oral Expression,3,0
+3513,Actuaries,Explain changes in contract provisions to customers.,Oral Comprehension,2,0
+3513,Actuaries,Explain changes in contract provisions to customers.,Written Comprehension,2,0
+3513,Actuaries,Explain changes in contract provisions to customers.,Speech Clarity,2,0
+3513,Actuaries,Explain changes in contract provisions to customers.,Deductive Reasoning,2,0
+3510,Actuaries,Manage credit and help price corporate security offerings.,Mathematical Reasoning,3,0
+3510,Actuaries,Manage credit and help price corporate security offerings.,Number Facility,2,0
+3510,Actuaries,Manage credit and help price corporate security offerings.,Deductive Reasoning,3,0
+3510,Actuaries,Manage credit and help price corporate security offerings.,Inductive Reasoning,2,0
+3510,Actuaries,Manage credit and help price corporate security offerings.,Written Comprehension,2,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Oral Expression,3,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Oral Comprehension,2,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Written Expression,2,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Speech Clarity,2,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Deductive Reasoning,2,0
+24002,Mathematicians,Mentor others on mathematical techniques.,Mathematical Reasoning,2,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Written Comprehension,3,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Oral Comprehension,2,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Memorization,2,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Inductive Reasoning,2,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Mathematical Reasoning,2,0
+7369,Mathematicians,"Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences.",Speech Recognition,1,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Inductive Reasoning,3,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Deductive Reasoning,3,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Mathematical Reasoning,3,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Originality,3,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Fluency of Ideas,2,0
+7374,Mathematicians,Develop new principles and new relationships between existing mathematical principles to advance mathematical science.,Written Comprehension,2,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Written Expression,3,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Oral Expression,3,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Written Comprehension,2,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Fluency of Ideas,2,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Speech Clarity,2,0
+20191,Mathematicians,"Disseminate research by writing reports, publishing papers, or presenting at professional conferences.",Information Ordering,2,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Deductive Reasoning,3,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Inductive Reasoning,3,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Mathematical Reasoning,3,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Fluency of Ideas,2,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Category Flexibility,2,0
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",Written Comprehension,2,0
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,Mathematical Reasoning,3,0
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,Number Facility,3,0
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,Deductive Reasoning,2,0
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,Inductive Reasoning,2,0
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,Written Comprehension,2,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Mathematical Reasoning,3,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Number Facility,3,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Deductive Reasoning,3,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Inductive Reasoning,2,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Visualization,2,0
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",Written Comprehension,2,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Deductive Reasoning,3,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Inductive Reasoning,3,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Mathematical Reasoning,3,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Originality,2,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Fluency of Ideas,2,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Written Comprehension,2,0
+7376,Mathematicians,"Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic.",Visualization,2,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Mathematical Reasoning,3,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Deductive Reasoning,3,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Inductive Reasoning,3,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Originality,2,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Number Facility,2,0
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,Written Comprehension,2,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Mathematical Reasoning,3,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Deductive Reasoning,3,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Inductive Reasoning,3,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Number Facility,2,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Problem Sensitivity,2,0
+7367,Mathematicians,"Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields.",Written Comprehension,2,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Mathematical Reasoning,3,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Deductive Reasoning,3,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Inductive Reasoning,3,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Originality,2,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Number Facility,2,0
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,Problem Sensitivity,2,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Mathematical Reasoning,3,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Deductive Reasoning,3,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Inductive Reasoning,3,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Originality,2,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Written Comprehension,2,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Problem Sensitivity,2,0
+7375,Mathematicians,"Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.",Fluency of Ideas,2,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Oral Expression,3,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Written Expression,2,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Speech Clarity,2,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Written Comprehension,2,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Mathematical Reasoning,2,0
+20952,Operations Research Analysts,Present the results of mathematical modeling and data analysis to management or other end users.,Fluency of Ideas,2,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Mathematical Reasoning,3,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Inductive Reasoning,3,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Deductive Reasoning,2,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Written Comprehension,2,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Problem Sensitivity,2,0
+7382,Operations Research Analysts,"Define data requirements, and gather and validate information, applying judgment and statistical tests.",Information Ordering,2,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Deductive Reasoning,3,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Inductive Reasoning,3,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Mathematical Reasoning,3,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Problem Sensitivity,2,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Written Comprehension,2,0
+7380,Operations Research Analysts,"Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary.",Number Facility,2,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Written Expression,3,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Written Comprehension,2,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Deductive Reasoning,2,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Inductive Reasoning,2,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Fluency of Ideas,2,0
+7384,Operations Research Analysts,Prepare management reports defining and evaluating problems and recommending solutions.,Information Ordering,2,0
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,Oral Expression,3,0
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,Oral Comprehension,2,0
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,Written Comprehension,2,0
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,Deductive Reasoning,2,0
+7378,Operations Research Analysts,Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.,Speech Clarity,2,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Mathematical Reasoning,3,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Deductive Reasoning,3,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Inductive Reasoning,3,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Originality,2,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Number Facility,2,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Written Comprehension,2,0
+7377,Operations Research Analysts,"Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",Fluency of Ideas,2,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Inductive Reasoning,3,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Deductive Reasoning,2,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Written Comprehension,2,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Problem Sensitivity,2,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Selective Attention,2,0
+7387,Operations Research Analysts,"Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources.",Information Ordering,2,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Inductive Reasoning,3,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Deductive Reasoning,3,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Problem Sensitivity,3,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Written Comprehension,2,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Category Flexibility,2,0
+7379,Operations Research Analysts,Analyze information obtained from management to conceptualize and define operational problems.,Fluency of Ideas,2,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Deductive Reasoning,3,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Inductive Reasoning,3,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Written Comprehension,2,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Mathematical Reasoning,2,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Category Flexibility,2,0
+7383,Operations Research Analysts,Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,Problem Sensitivity,2,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Oral Comprehension,3,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Oral Expression,3,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Deductive Reasoning,2,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Problem Sensitivity,2,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Speech Clarity,2,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Speech Recognition,2,0
+7381,Operations Research Analysts,Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives.,Written Comprehension,2,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Mathematical Reasoning,3,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Deductive Reasoning,3,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Written Expression,2,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Written Comprehension,2,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Information Ordering,2,0
+7386,Operations Research Analysts,Specify manipulative or computational methods to be applied to models.,Number Facility,2,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Inductive Reasoning,3,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Deductive Reasoning,3,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Mathematical Reasoning,3,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Originality,2,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Written Comprehension,2,0
+7388,Operations Research Analysts,"Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data.",Problem Sensitivity,2,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Mathematical Reasoning,3,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Number Facility,2,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Deductive Reasoning,2,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Information Ordering,3,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Written Comprehension,2,0
+7389,Operations Research Analysts,"Develop and apply time and cost networks to plan, control, and review large projects.",Written Expression,2,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Mathematical Reasoning,3,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Number Facility,3,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Deductive Reasoning,3,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Inductive Reasoning,2,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Information Ordering,2,0
+7385,Operations Research Analysts,"Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them.",Written Comprehension,2,0

@@ -1,0 +1,642 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+2210,Food Preparation Workers,"Carry food supplies, equipment, and utensils to and from storage and work areas.",Static Strength,3,0
+2210,Food Preparation Workers,"Carry food supplies, equipment, and utensils to and from storage and work areas.",Trunk Strength,2,0
+2210,Food Preparation Workers,"Carry food supplies, equipment, and utensils to and from storage and work areas.",Stamina,2,0
+2210,Food Preparation Workers,"Carry food supplies, equipment, and utensils to and from storage and work areas.",Gross Body Coordination,1,0
+2210,Food Preparation Workers,"Carry food supplies, equipment, and utensils to and from storage and work areas.",Manual Dexterity,1,0
+2208,Food Preparation Workers,Remove trash and clean kitchen garbage containers.,Static Strength,2,0
+2208,Food Preparation Workers,Remove trash and clean kitchen garbage containers.,Manual Dexterity,2,0
+2208,Food Preparation Workers,Remove trash and clean kitchen garbage containers.,Stamina,2,0
+2208,Food Preparation Workers,Remove trash and clean kitchen garbage containers.,Gross Body Coordination,1,0
+2208,Food Preparation Workers,Remove trash and clean kitchen garbage containers.,Near Vision,1,0
+2197,Food Preparation Workers,Store food in designated containers and storage areas to prevent spoilage.,Manual Dexterity,2,0
+2197,Food Preparation Workers,Store food in designated containers and storage areas to prevent spoilage.,Near Vision,2,0
+2197,Food Preparation Workers,Store food in designated containers and storage areas to prevent spoilage.,Static Strength,1,0
+2197,Food Preparation Workers,Store food in designated containers and storage areas to prevent spoilage.,Information Ordering,2,0
+2197,Food Preparation Workers,Store food in designated containers and storage areas to prevent spoilage.,Problem Sensitivity,1,0
+2203,Food Preparation Workers,Weigh or measure ingredients.,Number Facility,3,0
+2203,Food Preparation Workers,Weigh or measure ingredients.,Near Vision,2,0
+2203,Food Preparation Workers,Weigh or measure ingredients.,Manual Dexterity,2,0
+2203,Food Preparation Workers,Weigh or measure ingredients.,Perceptual Speed,1,0
+2203,Food Preparation Workers,Weigh or measure ingredients.,Control Precision,1,0
+18734,Food Preparation Workers,Vacuum dining area and sweep and mop kitchen floor.,Gross Body Coordination,2,0
+18734,Food Preparation Workers,Vacuum dining area and sweep and mop kitchen floor.,Stamina,2,0
+18734,Food Preparation Workers,Vacuum dining area and sweep and mop kitchen floor.,Dynamic Strength,1,0
+18734,Food Preparation Workers,Vacuum dining area and sweep and mop kitchen floor.,Trunk Strength,1,0
+18734,Food Preparation Workers,Vacuum dining area and sweep and mop kitchen floor.,Manual Dexterity,1,0
+18732,Food Preparation Workers,"Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.",Oral Expression,3,0
+18732,Food Preparation Workers,"Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.",Oral Comprehension,2,0
+18732,Food Preparation Workers,"Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.",Problem Sensitivity,2,0
+18732,Food Preparation Workers,"Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.",Written Expression,1,0
+18732,Food Preparation Workers,"Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.",Speech Clarity,1,0
+18731,Food Preparation Workers,"Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.",Manual Dexterity,3,0
+18731,Food Preparation Workers,"Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.",Finger Dexterity,3,0
+18731,Food Preparation Workers,"Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.",Arm-Hand Steadiness,2,0
+18731,Food Preparation Workers,"Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.",Near Vision,2,0
+18731,Food Preparation Workers,"Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.",Control Precision,1,0
+18729,Food Preparation Workers,"Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.",Manual Dexterity,3,0
+18729,Food Preparation Workers,"Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.",Oral Comprehension,2,0
+18729,Food Preparation Workers,"Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.",Multilimb Coordination,1,0
+18729,Food Preparation Workers,"Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.",Near Vision,2,0
+18729,Food Preparation Workers,"Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.",Information Ordering,1,0
+21005,Food Preparation Workers,Assemble meal trays with foods in accordance with patients' diets.,Manual Dexterity,2,0
+21005,Food Preparation Workers,Assemble meal trays with foods in accordance with patients' diets.,Near Vision,2,0
+21005,Food Preparation Workers,Assemble meal trays with foods in accordance with patients' diets.,Selective Attention,2,0
+21005,Food Preparation Workers,Assemble meal trays with foods in accordance with patients' diets.,Information Ordering,2,0
+21005,Food Preparation Workers,Assemble meal trays with foods in accordance with patients' diets.,Perceptual Speed,1,0
+2207,Food Preparation Workers,"Stock cupboards and refrigerators, and tend salad bars and buffet meals.",Manual Dexterity,2,0
+2207,Food Preparation Workers,"Stock cupboards and refrigerators, and tend salad bars and buffet meals.",Static Strength,2,0
+2207,Food Preparation Workers,"Stock cupboards and refrigerators, and tend salad bars and buffet meals.",Near Vision,1,0
+2207,Food Preparation Workers,"Stock cupboards and refrigerators, and tend salad bars and buffet meals.",Gross Body Coordination,1,0
+2207,Food Preparation Workers,"Stock cupboards and refrigerators, and tend salad bars and buffet meals.",Stamina,1,0
+2213,Food Preparation Workers,"Use manual or electric appliances to clean, peel, slice, and trim foods.",Manual Dexterity,3,0
+2213,Food Preparation Workers,"Use manual or electric appliances to clean, peel, slice, and trim foods.",Finger Dexterity,3,0
+2213,Food Preparation Workers,"Use manual or electric appliances to clean, peel, slice, and trim foods.",Control Precision,2,0
+2213,Food Preparation Workers,"Use manual or electric appliances to clean, peel, slice, and trim foods.",Arm-Hand Steadiness,2,0
+2213,Food Preparation Workers,"Use manual or electric appliances to clean, peel, slice, and trim foods.",Near Vision,2,0
+2217,Food Preparation Workers,"Load dishes, glasses, and tableware into dishwashing machines.",Manual Dexterity,2,0
+2217,Food Preparation Workers,"Load dishes, glasses, and tableware into dishwashing machines.",Arm-Hand Steadiness,2,0
+2217,Food Preparation Workers,"Load dishes, glasses, and tableware into dishwashing machines.",Static Strength,1,0
+2217,Food Preparation Workers,"Load dishes, glasses, and tableware into dishwashing machines.",Near Vision,1,0
+2217,Food Preparation Workers,"Load dishes, glasses, and tableware into dishwashing machines.",Multilimb Coordination,1,0
+2200,Food Preparation Workers,"Portion and wrap food, or place it directly on plates for service to patrons.",Manual Dexterity,3,0
+2200,Food Preparation Workers,"Portion and wrap food, or place it directly on plates for service to patrons.",Finger Dexterity,2,0
+2200,Food Preparation Workers,"Portion and wrap food, or place it directly on plates for service to patrons.",Near Vision,2,0
+2200,Food Preparation Workers,"Portion and wrap food, or place it directly on plates for service to patrons.",Control Precision,1,0
+2200,Food Preparation Workers,"Portion and wrap food, or place it directly on plates for service to patrons.",Speed of Limb Movement,1,0
+2220,Food Preparation Workers,"Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.",Manual Dexterity,2,0
+2220,Food Preparation Workers,"Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.",Wrist-Finger Speed,2,0
+2220,Food Preparation Workers,"Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.",Perceptual Speed,2,0
+2220,Food Preparation Workers,"Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.",Near Vision,1,0
+2220,Food Preparation Workers,"Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.",Multilimb Coordination,1,0
+2201,Food Preparation Workers,"Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.",Manual Dexterity,2,0
+2201,Food Preparation Workers,"Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.",Static Strength,1,0
+2201,Food Preparation Workers,"Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.",Near Vision,1,0
+2201,Food Preparation Workers,"Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.",Gross Body Coordination,1,0
+2201,Food Preparation Workers,"Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.",Arm-Hand Steadiness,1,0
+2209,Food Preparation Workers,"Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks.",Manual Dexterity,2,0
+2209,Food Preparation Workers,"Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks.",Control Precision,2,0
+2209,Food Preparation Workers,"Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks.",Near Vision,1,0
+2209,Food Preparation Workers,"Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks.",Rate Control,1,0
+2221,Food Preparation Workers,"Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.",Manual Dexterity,3,0
+2221,Food Preparation Workers,"Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.",Finger Dexterity,1,0
+2221,Food Preparation Workers,"Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.",Near Vision,1,0
+2221,Food Preparation Workers,"Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.",Multilimb Coordination,1,0
+2221,Food Preparation Workers,"Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.",Control Precision,1,0
+2206,Food Preparation Workers,"Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.",Static Strength,2,0
+2206,Food Preparation Workers,"Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.",Manual Dexterity,2,0
+2206,Food Preparation Workers,"Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.",Near Vision,1,0
+2206,Food Preparation Workers,"Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.",Information Ordering,1,0
+2206,Food Preparation Workers,"Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.",Stamina,1,0
+2214,Food Preparation Workers,Stir and strain soups and sauces.,Manual Dexterity,2,0
+2214,Food Preparation Workers,Stir and strain soups and sauces.,Arm-Hand Steadiness,2,0
+2214,Food Preparation Workers,Stir and strain soups and sauces.,Control Precision,1,0
+2214,Food Preparation Workers,Stir and strain soups and sauces.,Static Strength,1,0
+2214,Food Preparation Workers,Stir and strain soups and sauces.,Near Vision,1,0
+2211,Food Preparation Workers,Make special dressings and sauces as condiments for sandwiches.,Manual Dexterity,2,0
+2211,Food Preparation Workers,Make special dressings and sauces as condiments for sandwiches.,Finger Dexterity,2,0
+2211,Food Preparation Workers,Make special dressings and sauces as condiments for sandwiches.,Near Vision,1,0
+2211,Food Preparation Workers,Make special dressings and sauces as condiments for sandwiches.,Control Precision,1,0
+2211,Food Preparation Workers,Make special dressings and sauces as condiments for sandwiches.,Number Facility,1,1
+2212,Food Preparation Workers,Scrape leftovers from dishes into garbage containers.,Manual Dexterity,2,0
+2212,Food Preparation Workers,Scrape leftovers from dishes into garbage containers.,Arm-Hand Steadiness,1,0
+2212,Food Preparation Workers,Scrape leftovers from dishes into garbage containers.,Static Strength,1,0
+2212,Food Preparation Workers,Scrape leftovers from dishes into garbage containers.,Near Vision,1,0
+2212,Food Preparation Workers,Scrape leftovers from dishes into garbage containers.,Wrist-Finger Speed,1,0
+2215,Food Preparation Workers,Distribute food to waiters and waitresses to serve to customers.,Manual Dexterity,2,0
+2215,Food Preparation Workers,Distribute food to waiters and waitresses to serve to customers.,Near Vision,1,0
+2215,Food Preparation Workers,Distribute food to waiters and waitresses to serve to customers.,Oral Comprehension,1,0
+2215,Food Preparation Workers,Distribute food to waiters and waitresses to serve to customers.,Perceptual Speed,1,0
+2215,Food Preparation Workers,Distribute food to waiters and waitresses to serve to customers.,Static Strength,1,0
+18733,Food Preparation Workers,"Operate cash register, handle money, and give correct change.",Number Facility,3,0
+18733,Food Preparation Workers,"Operate cash register, handle money, and give correct change.",Finger Dexterity,2,0
+18733,Food Preparation Workers,"Operate cash register, handle money, and give correct change.",Near Vision,2,0
+18733,Food Preparation Workers,"Operate cash register, handle money, and give correct change.",Perceptual Speed,1,0
+18733,Food Preparation Workers,"Operate cash register, handle money, and give correct change.",Manual Dexterity,1,0
+2222,Food Preparation Workers,"Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.",Static Strength,1,0
+2222,Food Preparation Workers,"Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.",Stamina,1,0
+2222,Food Preparation Workers,"Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.",Manual Dexterity,1,0
+2222,Food Preparation Workers,"Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.",Oral Comprehension,1,1
+2222,Food Preparation Workers,"Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.",Information Ordering,1,0
+2199,Food Preparation Workers,Package take-out foods or serve food to customers.,Manual Dexterity,2,0
+2199,Food Preparation Workers,Package take-out foods or serve food to customers.,Finger Dexterity,1,0
+2199,Food Preparation Workers,Package take-out foods or serve food to customers.,Near Vision,1,0
+2199,Food Preparation Workers,Package take-out foods or serve food to customers.,Oral Expression,1,0
+2199,Food Preparation Workers,Package take-out foods or serve food to customers.,Speed of Limb Movement,1,0
+2219,Food Preparation Workers,"Cut, slice or grind meat, poultry, and seafood to prepare for cooking.",Manual Dexterity,3,0
+2219,Food Preparation Workers,"Cut, slice or grind meat, poultry, and seafood to prepare for cooking.",Arm-Hand Steadiness,3,0
+2219,Food Preparation Workers,"Cut, slice or grind meat, poultry, and seafood to prepare for cooking.",Finger Dexterity,2,0
+2219,Food Preparation Workers,"Cut, slice or grind meat, poultry, and seafood to prepare for cooking.",Control Precision,2,0
+2219,Food Preparation Workers,"Cut, slice or grind meat, poultry, and seafood to prepare for cooking.",Near Vision,2,0
+2218,Food Preparation Workers,"Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.",Manual Dexterity,3,0
+2218,Food Preparation Workers,"Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.",Arm-Hand Steadiness,3,0
+2218,Food Preparation Workers,"Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.",Finger Dexterity,2,0
+2218,Food Preparation Workers,"Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.",Control Precision,2,0
+2218,Food Preparation Workers,"Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.",Near Vision,2,0
+2216,Food Preparation Workers,Keep records of the quantities of food used.,Number Facility,2,0
+2216,Food Preparation Workers,Keep records of the quantities of food used.,Written Expression,2,0
+2216,Food Preparation Workers,Keep records of the quantities of food used.,Information Ordering,2,0
+2216,Food Preparation Workers,Keep records of the quantities of food used.,Near Vision,1,0
+2216,Food Preparation Workers,Keep records of the quantities of food used.,Memorization,1,1
+2227,Bartenders,"Clean glasses, utensils, and bar equipment.",Manual Dexterity,2,0
+2227,Bartenders,"Clean glasses, utensils, and bar equipment.",Arm-Hand Steadiness,1,0
+2227,Bartenders,"Clean glasses, utensils, and bar equipment.",Near Vision,1,0
+2227,Bartenders,"Clean glasses, utensils, and bar equipment.",Static Strength,1,0
+2227,Bartenders,"Clean glasses, utensils, and bar equipment.",Finger Dexterity,1,0
+2223,Bartenders,Collect money for drinks served.,Number Facility,2,0
+2223,Bartenders,Collect money for drinks served.,Finger Dexterity,1,0
+2223,Bartenders,Collect money for drinks served.,Near Vision,1,0
+2223,Bartenders,Collect money for drinks served.,Oral Comprehension,1,0
+2223,Bartenders,Collect money for drinks served.,Perceptual Speed,1,0
+2225,Bartenders,Balance cash receipts.,Number Facility,3,0
+2225,Bartenders,Balance cash receipts.,Mathematical Reasoning,2,0
+2225,Bartenders,Balance cash receipts.,Written Comprehension,1,0
+2225,Bartenders,Balance cash receipts.,Perceptual Speed,1,0
+2225,Bartenders,Balance cash receipts.,Near Vision,1,0
+2224,Bartenders,Check identification of customers to verify age requirements for purchase of alcohol.,Near Vision,3,0
+2224,Bartenders,Check identification of customers to verify age requirements for purchase of alcohol.,Perceptual Speed,2,0
+2224,Bartenders,Check identification of customers to verify age requirements for purchase of alcohol.,Selective Attention,2,0
+2224,Bartenders,Check identification of customers to verify age requirements for purchase of alcohol.,Problem Sensitivity,1,0
+2230,Bartenders,"Clean bars, work areas, and tables.",Manual Dexterity,2,0
+2230,Bartenders,"Clean bars, work areas, and tables.",Static Strength,1,0
+2230,Bartenders,"Clean bars, work areas, and tables.",Gross Body Coordination,1,0
+2230,Bartenders,"Clean bars, work areas, and tables.",Stamina,1,0
+2230,Bartenders,"Clean bars, work areas, and tables.",Near Vision,1,0
+2226,Bartenders,"Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.",Oral Expression,3,0
+2226,Bartenders,"Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.",Problem Sensitivity,2,0
+2226,Bartenders,"Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.",Deductive Reasoning,2,0
+2226,Bartenders,"Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.",Oral Comprehension,2,0
+2226,Bartenders,"Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.",Speech Clarity,1,0
+2228,Bartenders,Take beverage orders from serving staff or directly from patrons.,Oral Comprehension,3,0
+2228,Bartenders,Take beverage orders from serving staff or directly from patrons.,Memorization,2,0
+2228,Bartenders,Take beverage orders from serving staff or directly from patrons.,Oral Expression,1,0
+2228,Bartenders,Take beverage orders from serving staff or directly from patrons.,Auditory Attention,1,0
+2228,Bartenders,Take beverage orders from serving staff or directly from patrons.,Selective Attention,1,0
+2229,Bartenders,"Serve wine, and bottled or draft beer.",Manual Dexterity,2,0
+2229,Bartenders,"Serve wine, and bottled or draft beer.",Control Precision,2,0
+2229,Bartenders,"Serve wine, and bottled or draft beer.",Arm-Hand Steadiness,2,0
+2229,Bartenders,"Serve wine, and bottled or draft beer.",Rate Control,1,0
+2229,Bartenders,"Serve wine, and bottled or draft beer.",Near Vision,1,0
+2237,Bartenders,"Plan, organize, and control the operations of a cocktail lounge or bar.",Information Ordering,2,0
+2237,Bartenders,"Plan, organize, and control the operations of a cocktail lounge or bar.",Deductive Reasoning,2,0
+2237,Bartenders,"Plan, organize, and control the operations of a cocktail lounge or bar.",Oral Expression,2,0
+2237,Bartenders,"Plan, organize, and control the operations of a cocktail lounge or bar.",Problem Sensitivity,1,0
+2237,Bartenders,"Plan, organize, and control the operations of a cocktail lounge or bar.",Written Comprehension,1,1
+18735,Bartenders,"Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.",Static Strength,2,0
+18735,Bartenders,"Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.",Manual Dexterity,2,0
+18735,Bartenders,"Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.",Stamina,1,0
+18735,Bartenders,"Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.",Near Vision,1,0
+18735,Bartenders,"Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.",Information Ordering,1,0
+2232,Bartenders,Serve snacks or food items to customers seated at the bar.,Manual Dexterity,2,0
+2232,Bartenders,Serve snacks or food items to customers seated at the bar.,Near Vision,1,0
+2232,Bartenders,Serve snacks or food items to customers seated at the bar.,Oral Expression,1,0
+2232,Bartenders,Serve snacks or food items to customers seated at the bar.,Speed of Limb Movement,1,0
+2232,Bartenders,Serve snacks or food items to customers seated at the bar.,Gross Body Coordination,1,0
+2231,Bartenders,"Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.",Manual Dexterity,3,0
+2231,Bartenders,"Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.",Control Precision,2,0
+2231,Bartenders,"Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.",Finger Dexterity,2,0
+2231,Bartenders,"Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.",Near Vision,1,0
+2231,Bartenders,"Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.",Rate Control,1,0
+2235,Bartenders,Slice and pit fruit for garnishing drinks.,Manual Dexterity,2,0
+2235,Bartenders,Slice and pit fruit for garnishing drinks.,Finger Dexterity,2,0
+2235,Bartenders,Slice and pit fruit for garnishing drinks.,Arm-Hand Steadiness,2,0
+2235,Bartenders,Slice and pit fruit for garnishing drinks.,Control Precision,2,0
+2235,Bartenders,Slice and pit fruit for garnishing drinks.,Near Vision,1,0
+2234,Bartenders,"Ask customers who become loud and obnoxious to leave, or physically remove them.",Oral Expression,3,0
+2234,Bartenders,"Ask customers who become loud and obnoxious to leave, or physically remove them.",Static Strength,2,0
+2234,Bartenders,"Ask customers who become loud and obnoxious to leave, or physically remove them.",Problem Sensitivity,2,0
+2234,Bartenders,"Ask customers who become loud and obnoxious to leave, or physically remove them.",Dynamic Strength,1,0
+2234,Bartenders,"Ask customers who become loud and obnoxious to leave, or physically remove them.",Gross Body Coordination,1,0
+2236,Bartenders,Arrange bottles and glasses to make attractive displays.,Manual Dexterity,2,0
+2236,Bartenders,Arrange bottles and glasses to make attractive displays.,Visualization,2,0
+2236,Bartenders,Arrange bottles and glasses to make attractive displays.,Near Vision,1,0
+2236,Bartenders,Arrange bottles and glasses to make attractive displays.,Originality,1,0
+2236,Bartenders,Arrange bottles and glasses to make attractive displays.,Arm-Hand Steadiness,1,0
+2241,Bartenders,Create drink recipes.,Originality,3,0
+2241,Bartenders,Create drink recipes.,Fluency of Ideas,2,0
+2241,Bartenders,Create drink recipes.,Number Facility,1,0
+2241,Bartenders,Create drink recipes.,Deductive Reasoning,1,0
+2241,Bartenders,Create drink recipes.,Visualization,1,0
+2238,Bartenders,Supervise the work of bar staff and other bartenders.,Oral Expression,2,0
+2238,Bartenders,Supervise the work of bar staff and other bartenders.,Oral Comprehension,2,0
+2238,Bartenders,Supervise the work of bar staff and other bartenders.,Problem Sensitivity,1,0
+2238,Bartenders,Supervise the work of bar staff and other bartenders.,Deductive Reasoning,1,0
+2238,Bartenders,Supervise the work of bar staff and other bartenders.,Information Ordering,1,0
+2233,Bartenders,Order or requisition liquors and supplies.,Number Facility,2,0
+2233,Bartenders,Order or requisition liquors and supplies.,Written Expression,1,0
+2233,Bartenders,Order or requisition liquors and supplies.,Information Ordering,2,0
+2233,Bartenders,Order or requisition liquors and supplies.,Mathematical Reasoning,1,0
+2233,Bartenders,Order or requisition liquors and supplies.,Memorization,1,0
+2239,Bartenders,Plan bar menus.,Originality,2,0
+2239,Bartenders,Plan bar menus.,Fluency of Ideas,2,0
+2239,Bartenders,Plan bar menus.,Information Ordering,1,0
+2239,Bartenders,Plan bar menus.,Written Expression,1,0
+2239,Bartenders,Plan bar menus.,Deductive Reasoning,1,0
+2240,Bartenders,"Prepare appetizers such as pickles, cheese, and cold meats.",Manual Dexterity,2,0
+2240,Bartenders,"Prepare appetizers such as pickles, cheese, and cold meats.",Finger Dexterity,2,0
+2240,Bartenders,"Prepare appetizers such as pickles, cheese, and cold meats.",Near Vision,1,0
+2240,Bartenders,"Prepare appetizers such as pickles, cheese, and cold meats.",Control Precision,1,0
+2240,Bartenders,"Prepare appetizers such as pickles, cheese, and cold meats.",Arm-Hand Steadiness,1,0
+23100,Fast Food and Counter Workers,"Accept payment from customers, and make change as necessary.",Number Facility,3,0
+23100,Fast Food and Counter Workers,"Accept payment from customers, and make change as necessary.",Finger Dexterity,1,0
+23100,Fast Food and Counter Workers,"Accept payment from customers, and make change as necessary.",Near Vision,1,0
+23100,Fast Food and Counter Workers,"Accept payment from customers, and make change as necessary.",Perceptual Speed,1,0
+23100,Fast Food and Counter Workers,"Accept payment from customers, and make change as necessary.",Manual Dexterity,1,0
+23110,Fast Food and Counter Workers,Serve customers in eating places that specialize in fast service and inexpensive carry-out food.,Oral Expression,2,0
+23110,Fast Food and Counter Workers,Serve customers in eating places that specialize in fast service and inexpensive carry-out food.,Manual Dexterity,1,0
+23110,Fast Food and Counter Workers,Serve customers in eating places that specialize in fast service and inexpensive carry-out food.,Time Sharing,1,0
+23110,Fast Food and Counter Workers,Serve customers in eating places that specialize in fast service and inexpensive carry-out food.,Speed of Limb Movement,1,0
+23110,Fast Food and Counter Workers,Serve customers in eating places that specialize in fast service and inexpensive carry-out food.,Near Vision,1,0
+23104,Fast Food and Counter Workers,"Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper.",Number Facility,3,0
+23104,Fast Food and Counter Workers,"Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper.",Oral Comprehension,2,0
+23104,Fast Food and Counter Workers,"Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper.",Memorization,1,0
+23104,Fast Food and Counter Workers,"Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper.",Finger Dexterity,1,0
+23104,Fast Food and Counter Workers,"Request and record customer orders, and compute bills, using cash registers, multi-counting machines, or pencil and paper.",Perceptual Speed,1,0
+23103,Fast Food and Counter Workers,Balance receipts and payments in cash registers.,Number Facility,3,0
+23103,Fast Food and Counter Workers,Balance receipts and payments in cash registers.,Mathematical Reasoning,2,0
+23103,Fast Food and Counter Workers,Balance receipts and payments in cash registers.,Perceptual Speed,1,0
+23103,Fast Food and Counter Workers,Balance receipts and payments in cash registers.,Near Vision,1,0
+23103,Fast Food and Counter Workers,Balance receipts and payments in cash registers.,Written Comprehension,1,0
+23099,Fast Food and Counter Workers,"Communicate with customers regarding orders, comments, and complaints.",Oral Expression,3,0
+23099,Fast Food and Counter Workers,"Communicate with customers regarding orders, comments, and complaints.",Oral Comprehension,3,0
+23099,Fast Food and Counter Workers,"Communicate with customers regarding orders, comments, and complaints.",Problem Sensitivity,2,0
+23099,Fast Food and Counter Workers,"Communicate with customers regarding orders, comments, and complaints.",Speech Clarity,1,0
+23099,Fast Food and Counter Workers,"Communicate with customers regarding orders, comments, and complaints.",Speech Recognition,1,0
+23105,Fast Food and Counter Workers,"Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars.",Manual Dexterity,2,0
+23105,Fast Food and Counter Workers,"Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars.",Static Strength,1,0
+23105,Fast Food and Counter Workers,"Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars.",Near Vision,1,0
+23105,Fast Food and Counter Workers,"Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars.",Gross Body Coordination,1,0
+23105,Fast Food and Counter Workers,"Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars.",Speed of Limb Movement,1,0
+23108,Fast Food and Counter Workers,"Monitor and order supplies or food items, and restock as necessary to maintain inventory.",Information Ordering,2,0
+23108,Fast Food and Counter Workers,"Monitor and order supplies or food items, and restock as necessary to maintain inventory.",Number Facility,1,0
+23108,Fast Food and Counter Workers,"Monitor and order supplies or food items, and restock as necessary to maintain inventory.",Static Strength,1,0
+23108,Fast Food and Counter Workers,"Monitor and order supplies or food items, and restock as necessary to maintain inventory.",Near Vision,1,0
+23108,Fast Food and Counter Workers,"Monitor and order supplies or food items, and restock as necessary to maintain inventory.",Memorization,1,1
+23102,Fast Food and Counter Workers,"Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",Gross Body Coordination,2,0
+23102,Fast Food and Counter Workers,"Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",Stamina,2,0
+23102,Fast Food and Counter Workers,"Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",Manual Dexterity,1,0
+23102,Fast Food and Counter Workers,"Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",Static Strength,1,0
+23102,Fast Food and Counter Workers,"Perform cleaning duties, such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",Dynamic Strength,1,0
+23109,Fast Food and Counter Workers,"Brew coffee and tea, and fill containers with requested beverages.",Manual Dexterity,2,0
+23109,Fast Food and Counter Workers,"Brew coffee and tea, and fill containers with requested beverages.",Control Precision,1,0
+23109,Fast Food and Counter Workers,"Brew coffee and tea, and fill containers with requested beverages.",Near Vision,1,0
+23109,Fast Food and Counter Workers,"Brew coffee and tea, and fill containers with requested beverages.",Rate Control,1,0
+23109,Fast Food and Counter Workers,"Brew coffee and tea, and fill containers with requested beverages.",Arm-Hand Steadiness,1,0
+23107,Fast Food and Counter Workers,"Clean and organize eating, service, and kitchen areas.",Manual Dexterity,1,0
+23107,Fast Food and Counter Workers,"Clean and organize eating, service, and kitchen areas.",Gross Body Coordination,1,0
+23107,Fast Food and Counter Workers,"Clean and organize eating, service, and kitchen areas.",Static Strength,1,0
+23107,Fast Food and Counter Workers,"Clean and organize eating, service, and kitchen areas.",Information Ordering,1,0
+23107,Fast Food and Counter Workers,"Clean and organize eating, service, and kitchen areas.",Stamina,1,0
+23106,Fast Food and Counter Workers,"Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",Manual Dexterity,3,0
+23106,Fast Food and Counter Workers,"Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",Finger Dexterity,2,0
+23106,Fast Food and Counter Workers,"Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",Near Vision,2,0
+23106,Fast Food and Counter Workers,"Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",Control Precision,1,0
+23106,Fast Food and Counter Workers,"Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",Problem Sensitivity,1,0
+23115,Fast Food and Counter Workers,"Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines.",Manual Dexterity,2,0
+23115,Fast Food and Counter Workers,"Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines.",Control Precision,2,0
+23115,Fast Food and Counter Workers,"Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines.",Arm-Hand Steadiness,1,0
+23115,Fast Food and Counter Workers,"Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines.",Near Vision,1,0
+23115,Fast Food and Counter Workers,"Prepare and serve cold drinks, frozen milk drinks, or desserts, using drink-dispensing, milkshake, or frozen-custard machines.",Rate Control,1,0
+23113,Fast Food and Counter Workers,"Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout.",Manual Dexterity,3,0
+23113,Fast Food and Counter Workers,"Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout.",Finger Dexterity,2,0
+23113,Fast Food and Counter Workers,"Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout.",Near Vision,1,0
+23113,Fast Food and Counter Workers,"Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout.",Speed of Limb Movement,1,0
+23113,Fast Food and Counter Workers,"Wrap menu items such as sandwiches, hot entrees, and desserts for serving or for takeout.",Control Precision,1,0
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",Manual Dexterity,1,0
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",Static Strength,1,0
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",Gross Body Coordination,1,0
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",Near Vision,1,0
+23121,Fast Food and Counter Workers,"Set up dining areas for meals, and clear them following meals.",Information Ordering,1,0
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,Static Strength,1,0
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,Manual Dexterity,1,0
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,Gross Body Coordination,1,0
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,Arm-Hand Steadiness,1,0
+23111,Fast Food and Counter Workers,Collect and return dirty dishes to the kitchen for washing.,Stamina,1,0
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",Manual Dexterity,2,0
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",Static Strength,1,0
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",Stamina,1,0
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",Arm-Hand Steadiness,1,0
+23101,Fast Food and Counter Workers,"Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",Near Vision,1,0
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",Gross Body Coordination,1,0
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",Manual Dexterity,1,0
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",Near Vision,1,0
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",Oral Comprehension,1,0
+23123,Fast Food and Counter Workers,"Deliver orders to kitchens, and pick up and serve food when it is ready.",Speed of Limb Movement,1,0
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",Oral Expression,2,0
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",Oral Comprehension,2,0
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",Deductive Reasoning,1,0
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",Information Ordering,1,0
+23118,Fast Food and Counter Workers,"Perform personnel activities, such as supervising and training employees.",Problem Sensitivity,1,0
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",Manual Dexterity,2,0
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",Finger Dexterity,2,0
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",Near Vision,1,0
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",Oral Comprehension,1,0
+23122,Fast Food and Counter Workers,"Add relishes and garnishes to food orders, according to instructions.",Control Precision,1,0
+23120,Fast Food and Counter Workers,Distribute food to servers.,Manual Dexterity,1,0
+23120,Fast Food and Counter Workers,Distribute food to servers.,Near Vision,1,0
+23120,Fast Food and Counter Workers,Distribute food to servers.,Gross Body Coordination,1,0
+23120,Fast Food and Counter Workers,Distribute food to servers.,Information Ordering,1,0
+23120,Fast Food and Counter Workers,Distribute food to servers.,Perceptual Speed,1,0
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",Manual Dexterity,2,0
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",Near Vision,2,0
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",Perceptual Speed,1,0
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",Finger Dexterity,1,0
+23116,Fast Food and Counter Workers,"Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",Speed of Limb Movement,1,0
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,Oral Expression,2,0
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,Oral Comprehension,2,0
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,Memorization,1,0
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,Speech Clarity,1,0
+23114,Fast Food and Counter Workers,Notify kitchen personnel of shortages or special orders.,Problem Sensitivity,1,0
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",Oral Comprehension,3,0
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",Written Expression,2,0
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",Memorization,1,0
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",Perceptual Speed,1,0
+23119,Fast Food and Counter Workers,"Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",Near Vision,1,0
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",Manual Dexterity,2,0
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",Problem Sensitivity,2,0
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",Information Ordering,2,0
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",Near Vision,1,0
+23125,Fast Food and Counter Workers,"Plan, prepare, and deliver meals to individuals with special dietary needs.",Oral Comprehension,1,0
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,Manual Dexterity,1,0
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,Static Strength,1,0
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,Near Vision,1,0
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,Gross Body Coordination,1,0
+23117,Fast Food and Counter Workers,Replenish foods at serving stations.,Stamina,1,0
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",Manual Dexterity,2,0
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",Arm-Hand Steadiness,1,0
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",Static Strength,1,0
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",Stamina,1,0
+23112,Fast Food and Counter Workers,"Wash dishes, glassware, and silverware after meals.",Near Vision,1,0
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,Manual Dexterity,1,0
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,Visualization,1,0
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,Oral Comprehension,1,0
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,Near Vision,1,0
+23124,Fast Food and Counter Workers,Arrange tables and decorations according to instructions.,Gross Body Coordination,1,0
+17588,Baristas,Receive and process customer payments.,Number Facility,3,0
+17588,Baristas,Receive and process customer payments.,Finger Dexterity,1,0
+17588,Baristas,Receive and process customer payments.,Near Vision,1,0
+17588,Baristas,Receive and process customer payments.,Perceptual Speed,1,0
+17588,Baristas,Receive and process customer payments.,Manual Dexterity,1,0
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",Manual Dexterity,3,0
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",Control Precision,2,0
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",Arm-Hand Steadiness,2,0
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",Near Vision,1,0
+17581,Baristas,"Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.",Rate Control,1,0
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,Oral Comprehension,3,0
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,Oral Expression,2,0
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,Memorization,1,0
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,Speech Clarity,1,0
+17591,Baristas,Take customer orders and convey them to other employees for preparation.,Perceptual Speed,1,0
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",Manual Dexterity,2,0
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",Static Strength,1,0
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",Near Vision,1,0
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",Arm-Hand Steadiness,1,0
+17582,Baristas,"Clean or sanitize work areas, utensils, or equipment.",Stamina,1,0
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",Oral Expression,3,0
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",Oral Comprehension,2,0
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",Fluency of Ideas,1,0
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",Memorization,1,0
+17585,Baristas,"Describe menu items to customers, or suggest products that might appeal to them.",Speech Clarity,1,0
+17583,Baristas,Clean service or seating areas.,Manual Dexterity,1,0
+17583,Baristas,Clean service or seating areas.,Static Strength,1,0
+17583,Baristas,Clean service or seating areas.,Gross Body Coordination,1,0
+17583,Baristas,Clean service or seating areas.,Stamina,1,0
+17583,Baristas,Clean service or seating areas.,Near Vision,1,0
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",Manual Dexterity,2,0
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",Finger Dexterity,1,0
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",Near Vision,1,0
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",Speed of Limb Movement,1,0
+17589,Baristas,"Serve prepared foods, such as muffins, biscotti, or bagels.",Control Precision,1,0
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",Manual Dexterity,2,0
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",Finger Dexterity,2,0
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",Near Vision,1,0
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",Control Precision,1,0
+17597,Baristas,"Prepare or serve menu items, such as sandwiches or salads.",Arm-Hand Steadiness,1,0
+17598,Baristas,Set up or restock product displays.,Manual Dexterity,2,0
+17598,Baristas,Set up or restock product displays.,Visualization,1,0
+17598,Baristas,Set up or restock product displays.,Near Vision,1,0
+17598,Baristas,Set up or restock product displays.,Static Strength,1,0
+17598,Baristas,Set up or restock product displays.,Arm-Hand Steadiness,1,0
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",Manual Dexterity,2,0
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",Number Facility,2,0
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",Near Vision,1,0
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",Control Precision,1,0
+17593,Baristas,"Weigh, grind, or pack coffee beans for customers.",Finger Dexterity,1,0
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,Manual Dexterity,1,0
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,Static Strength,1,0
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,Near Vision,1,0
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,Information Ordering,1,0
+17590,Baristas,Stock customer service stations with paper products or beverage preparation items.,Gross Body Coordination,1,0
+17594,Baristas,"Wrap, label, or date food items for sale.",Manual Dexterity,2,0
+17594,Baristas,"Wrap, label, or date food items for sale.",Finger Dexterity,2,0
+17594,Baristas,"Wrap, label, or date food items for sale.",Near Vision,2,0
+17594,Baristas,"Wrap, label, or date food items for sale.",Written Expression,1,0
+17594,Baristas,"Wrap, label, or date food items for sale.",Control Precision,1,0
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",Oral Expression,3,0
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",Memorization,2,0
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",Oral Comprehension,1,0
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",Speech Clarity,1,0
+17587,Baristas,"Provide customers with product details, such as coffee blend or preparation descriptions.",Fluency of Ideas,1,0
+17592,Baristas,Take out garbage.,Static Strength,2,0
+17592,Baristas,Take out garbage.,Stamina,1,0
+17592,Baristas,Take out garbage.,Gross Body Coordination,1,0
+17592,Baristas,Take out garbage.,Manual Dexterity,1,0
+17592,Baristas,Take out garbage.,Trunk Strength,1,0
+17586,Baristas,"Order, receive, or stock supplies or retail products.",Static Strength,1,0
+17586,Baristas,"Order, receive, or stock supplies or retail products.",Number Facility,1,0
+17586,Baristas,"Order, receive, or stock supplies or retail products.",Information Ordering,2,0
+17586,Baristas,"Order, receive, or stock supplies or retail products.",Manual Dexterity,1,0
+17586,Baristas,"Order, receive, or stock supplies or retail products.",Memorization,1,1
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",Manual Dexterity,3,0
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",Finger Dexterity,2,0
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",Arm-Hand Steadiness,2,0
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",Control Precision,2,0
+17599,Baristas,"Slice fruits, vegetables, desserts, or meats for use in food service.",Near Vision,2,0
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",Near Vision,2,0
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",Problem Sensitivity,2,0
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",Perceptual Speed,1,0
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",Selective Attention,1,0
+17584,Baristas,"Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.",Number Facility,1,1
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",Manual Dexterity,2,0
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",Oral Expression,2,0
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",Control Precision,1,0
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",Arm-Hand Steadiness,1,0
+17596,Baristas,"Demonstrate the use of retail equipment, such as espresso machines.",Oral Comprehension,1,0
+17595,Baristas,Create signs to advertise store products or events.,Originality,2,0
+17595,Baristas,Create signs to advertise store products or events.,Written Expression,2,0
+17595,Baristas,Create signs to advertise store products or events.,Visualization,2,0
+17595,Baristas,Create signs to advertise store products or events.,Fluency of Ideas,1,0
+17595,Baristas,Create signs to advertise store products or events.,Near Vision,1,0
+2276,Waiters and Waitresses,Collect payments from customers.,Number Facility,2,0
+2276,Waiters and Waitresses,Collect payments from customers.,Finger Dexterity,1,0
+2276,Waiters and Waitresses,Collect payments from customers.,Near Vision,1,0
+2276,Waiters and Waitresses,Collect payments from customers.,Perceptual Speed,1,0
+2276,Waiters and Waitresses,Collect payments from customers.,Manual Dexterity,1,0
+2275,Waiters and Waitresses,Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.,Near Vision,3,0
+2275,Waiters and Waitresses,Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.,Perceptual Speed,2,0
+2275,Waiters and Waitresses,Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.,Selective Attention,1,0
+2275,Waiters and Waitresses,Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.,Problem Sensitivity,1,0
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",Memorization,3,0
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",Written Expression,2,0
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",Oral Comprehension,2,0
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",Perceptual Speed,1,0
+2277,Waiters and Waitresses,"Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.",Information Ordering,1,0
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",Oral Expression,2,0
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",Oral Comprehension,2,0
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",Problem Sensitivity,2,0
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",Speech Recognition,1,0
+2279,Waiters and Waitresses,"Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.",Deductive Reasoning,1,0
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,Oral Comprehension,3,0
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,Memorization,2,0
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,Oral Expression,1,0
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,Speech Recognition,1,0
+2278,Waiters and Waitresses,Take orders from patrons for food or beverages.,Selective Attention,1,0
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,Number Facility,3,0
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,Mathematical Reasoning,2,0
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,Near Vision,1,0
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,Perceptual Speed,1,0
+2281,Waiters and Waitresses,Prepare checks that itemize and total meal costs and sales taxes.,Information Ordering,1,0
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",Manual Dexterity,2,0
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",Static Strength,1,0
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",Arm-Hand Steadiness,1,0
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",Gross Body Coordination,1,0
+18745,Waiters and Waitresses,"Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.",Stamina,1,0
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,Manual Dexterity,1,0
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,Gross Body Coordination,1,0
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,Static Strength,1,0
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,Near Vision,1,0
+2285,Waiters and Waitresses,Clean tables or counters after patrons have finished dining.,Stamina,1,0
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",Manual Dexterity,2,0
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",Control Precision,2,0
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",Arm-Hand Steadiness,2,0
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",Gross Body Coordination,1,0
+2280,Waiters and Waitresses,"Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.",Near Vision,1,0
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",Gross Body Coordination,2,0
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",Stamina,2,0
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",Static Strength,1,0
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",Dynamic Strength,1,0
+18747,Waiters and Waitresses,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",Manual Dexterity,1,0
+2283,Waiters and Waitresses,"Present menus to patrons and answer questions about menu items, making recommendations upon request.",Oral Expression,3,0
+2283,Waiters and Waitresses,"Present menus to patrons and answer questions about menu items, making recommendations upon request.",Oral Comprehension,2,0
+2283,Waiters and Waitresses,"Present menus to patrons and answer questions about menu items, making recommendations upon request.",Memorization,2,0
+2283,Waiters and Waitresses,"Present menus to patrons and answer questions about menu items, making recommendations upon request.",Speech Clarity,1,0
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",Manual Dexterity,2,0
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",Finger Dexterity,1,0
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",Near Vision,1,0
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",Arm-Hand Steadiness,1,0
+2288,Waiters and Waitresses,"Prepare tables for meals, including setting up items such as linens, silverware, and glassware.",Visualization,1,0
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",Manual Dexterity,1,0
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",Static Strength,1,0
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",Near Vision,1,0
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",Information Ordering,1,0
+2290,Waiters and Waitresses,"Stock service areas with supplies such as coffee, food, tableware, and linens.",Gross Body Coordination,1,0
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",Finger Dexterity,2,0
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",Manual Dexterity,2,0
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",Near Vision,1,0
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",Information Ordering,1,0
+18744,Waiters and Waitresses,"Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.",Speed of Limb Movement,1,0
+2284,Waiters and Waitresses,Inform customers of daily specials.,Oral Expression,3,0
+2284,Waiters and Waitresses,Inform customers of daily specials.,Memorization,1,0
+2284,Waiters and Waitresses,Inform customers of daily specials.,Speech Clarity,1,0
+2284,Waiters and Waitresses,Inform customers of daily specials.,Oral Comprehension,1,0
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",Oral Expression,3,0
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",Memorization,2,0
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",Oral Comprehension,1,0
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",Fluency of Ideas,1,0
+2287,Waiters and Waitresses,"Explain how various menu items are prepared, describing ingredients and cooking methods.",Speech Clarity,1,0
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",Oral Expression,2,0
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",Oral Comprehension,2,0
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",Speech Recognition,1,0
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",Memorization,1,0
+18746,Waiters and Waitresses,"Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.",Gross Body Coordination,1,0
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",Manual Dexterity,2,0
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",Finger Dexterity,1,0
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",Near Vision,1,0
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",Control Precision,1,0
+2292,Waiters and Waitresses,"Fill salt, pepper, sugar, cream, condiment, and napkin containers.",Arm-Hand Steadiness,1,0
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",Manual Dexterity,2,0
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",Finger Dexterity,2,0
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",Near Vision,1,0
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",Control Precision,1,0
+2289,Waiters and Waitresses,"Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.",Arm-Hand Steadiness,1,0
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",Manual Dexterity,2,0
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",Control Precision,2,0
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",Arm-Hand Steadiness,1,0
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",Near Vision,1,0
+2286,Waiters and Waitresses,"Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.",Rate Control,1,0
+2293,Waiters and Waitresses,Escort customers to their tables.,Gross Body Coordination,1,0
+2293,Waiters and Waitresses,Escort customers to their tables.,Oral Expression,1,0
+2293,Waiters and Waitresses,Escort customers to their tables.,Spatial Orientation,1,1
+2293,Waiters and Waitresses,Escort customers to their tables.,Oral Comprehension,1,0
+18748,Waiters and Waitresses,"Provide guests with information about local areas, including directions.",Oral Expression,2,0
+18748,Waiters and Waitresses,"Provide guests with information about local areas, including directions.",Oral Comprehension,2,0
+18748,Waiters and Waitresses,"Provide guests with information about local areas, including directions.",Spatial Orientation,2,0
+18748,Waiters and Waitresses,"Provide guests with information about local areas, including directions.",Memorization,1,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Manual Dexterity,2,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Finger Dexterity,2,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Visualization,1,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Near Vision,1,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Control Precision,1,0
+2291,Waiters and Waitresses,Garnish and decorate dishes in preparation for serving.,Originality,1,0
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",Manual Dexterity,2,0
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",Control Precision,2,0
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",Arm-Hand Steadiness,2,0
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",Rate Control,1,0
+2295,Waiters and Waitresses,"Bring wine selections to tables with appropriate glasses, and pour the wines for customers.",Gross Body Coordination,1,0
+2294,Waiters and Waitresses,Describe and recommend wines to customers.,Oral Expression,3,0
+2294,Waiters and Waitresses,Describe and recommend wines to customers.,Memorization,2,0
+2294,Waiters and Waitresses,Describe and recommend wines to customers.,Oral Comprehension,1,0
+2294,Waiters and Waitresses,Describe and recommend wines to customers.,Fluency of Ideas,1,0
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,Manual Dexterity,2,0
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,Near Vision,2,0
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,Oral Comprehension,1,0
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,Control Precision,1,0
+11152,"Food Servers, Nonrestaurant",Place food servings on plates or trays according to orders or instructions.,Perceptual Speed,1,0
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",Manual Dexterity,2,0
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",Static Strength,1,0
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",Near Vision,1,0
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",Stamina,1,0
+11150,"Food Servers, Nonrestaurant","Clean or sterilize dishes, kitchen utensils, equipment, or facilities.",Arm-Hand Steadiness,1,0
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",Selective Attention,2,0
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",Information Ordering,2,0
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",Problem Sensitivity,2,0
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",Near Vision,1,0
+11149,"Food Servers, Nonrestaurant","Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.",Memorization,1,0
+11151,"Food Servers, Nonrestaurant",Examine trays to ensure that they contain required items.,Near Vision,3,0
+11151,"Food Servers, Nonrestaurant",Examine trays to ensure that they contain required items.,Perceptual Speed,2,0
+11151,"Food Servers, Nonrestaurant",Examine trays to ensure that they contain required items.,Selective Attention,2,0
+11151,"Food Servers, Nonrestaurant",Examine trays to ensure that they contain required items.,Problem Sensitivity,1,0
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",Manual Dexterity,2,0
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",Finger Dexterity,1,0
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",Near Vision,1,0
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",Perceptual Speed,1,0
+11153,"Food Servers, Nonrestaurant","Load trays with accessories, such as eating utensils, napkins, or condiments.",Speed of Limb Movement,1,0
+11154,"Food Servers, Nonrestaurant",Take food orders and relay orders to kitchens or serving counters so they can be filled.,Oral Comprehension,3,0
+11154,"Food Servers, Nonrestaurant",Take food orders and relay orders to kitchens or serving counters so they can be filled.,Oral Expression,2,0
+11154,"Food Servers, Nonrestaurant",Take food orders and relay orders to kitchens or serving counters so they can be filled.,Memorization,1,0
+11154,"Food Servers, Nonrestaurant",Take food orders and relay orders to kitchens or serving counters so they can be filled.,Speech Clarity,1,0
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,Selective Attention,2,0
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,Problem Sensitivity,2,0
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,Near Vision,1,0
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,Information Ordering,1,0
+11158,"Food Servers, Nonrestaurant",Monitor food preparation or serving techniques to ensure that proper procedures are followed.,Oral Comprehension,1,0
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,Manual Dexterity,2,0
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,Static Strength,1,0
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,Arm-Hand Steadiness,1,0
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,Gross Body Coordination,1,0
+11156,"Food Servers, Nonrestaurant",Remove trays and stack dishes for return to kitchen after meals are finished.,Stamina,1,0
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",Static Strength,2,0
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",Trunk Strength,2,0
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",Gross Body Coordination,2,0
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",Stamina,2,0
+11159,"Food Servers, Nonrestaurant","Carry food, silverware, or linen on trays or use carts to carry trays.",Arm-Hand Steadiness,1,0
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,Written Expression,2,0
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,Number Facility,1,0
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,Information Ordering,2,0
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,Near Vision,1,0
+11161,"Food Servers, Nonrestaurant",Record amounts and types of special food items served to customers.,Memorization,1,1
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",Manual Dexterity,1,0
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",Static Strength,1,0
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",Near Vision,1,0
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",Information Ordering,1,0
+11155,"Food Servers, Nonrestaurant","Stock service stations with items, such as ice, napkins, or straws.",Gross Body Coordination,1,0

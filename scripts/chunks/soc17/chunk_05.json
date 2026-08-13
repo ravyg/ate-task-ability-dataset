@@ -1,0 +1,782 @@
+[
+{
+"task_id": "5381",
+"soc": "17-2161.00",
+"occupation": "Nuclear Engineers",
+"task_text": "Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research."
+},
+{
+"task_id": "3582",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Specify and supervise well modification and stimulation programs to maximize oil and gas recovery."
+},
+{
+"task_id": "3580",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Monitor production rates, and plan rework processes to improve production."
+},
+{
+"task_id": "3586",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Maintain records of drilling and production operations."
+},
+{
+"task_id": "3581",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Analyze data to recommend placement of wells and supplementary processes to enhance production."
+},
+{
+"task_id": "3584",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Assist engineering and other personnel to solve operating problems."
+},
+{
+"task_id": "3583",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Direct and monitor the completion and evaluation of wells, well testing, or well surveys."
+},
+{
+"task_id": "3585",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Develop plans for oil and gas field drilling, and for product recovery and treatment."
+},
+{
+"task_id": "3579",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites."
+},
+{
+"task_id": "3587",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems."
+},
+{
+"task_id": "3591",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Interpret drilling and testing information for personnel."
+},
+{
+"task_id": "3598",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Coordinate activities of workers engaged in research, planning, and development."
+},
+{
+"task_id": "3588",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Write technical reports for engineering and management personnel."
+},
+{
+"task_id": "3589",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Evaluate findings to develop, design, or test equipment or processes."
+},
+{
+"task_id": "3600",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Test machinery and equipment to ensure that it is safe and conforms to performance specifications."
+},
+{
+"task_id": "3590",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Assign work to staff to obtain maximum utilization of personnel."
+},
+{
+"task_id": "3596",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Simulate reservoir performance for different recovery techniques, using computer models."
+},
+{
+"task_id": "3592",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Design and implement environmental controls on oil and gas operations."
+},
+{
+"task_id": "3594",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted."
+},
+{
+"task_id": "3595",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Inspect oil and gas wells to determine that installations are completed."
+},
+{
+"task_id": "3593",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Coordinate the installation, maintenance, and operation of mining and oil field equipment."
+},
+{
+"task_id": "3597",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them."
+},
+{
+"task_id": "3599",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Design or modify mining and oil field machinery and tools, applying engineering principles."
+},
+{
+"task_id": "3601",
+"soc": "17-2171.00",
+"occupation": "Petroleum Engineers",
+"task_text": "Conduct engineering research experiments to improve or modify mining and oil machinery and operations."
+},
+{
+"task_id": "20854",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Identify and recommend energy savings strategies to achieve more energy-efficient operation."
+},
+{
+"task_id": "20855",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures."
+},
+{
+"task_id": "18156",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Monitor and analyze energy consumption."
+},
+{
+"task_id": "20856",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design."
+},
+{
+"task_id": "18150",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings."
+},
+{
+"task_id": "20857",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing."
+},
+{
+"task_id": "18159",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Analyze, interpret, or create graphical representations of energy data, using engineering software."
+},
+{
+"task_id": "20858",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Verify energy bills and meter readings."
+},
+{
+"task_id": "20859",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering."
+},
+{
+"task_id": "18151",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications."
+},
+{
+"task_id": "18148",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Perform energy modeling, measurement, verification, commissioning, or retro-commissioning."
+},
+{
+"task_id": "20860",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency."
+},
+{
+"task_id": "20861",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Prepare energy-related project reports or related documentation."
+},
+{
+"task_id": "18165",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Review or negotiate energy purchase agreements."
+},
+{
+"task_id": "18166",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Train personnel or clients on topics such as energy management."
+},
+{
+"task_id": "20862",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Direct the implementation of energy management projects."
+},
+{
+"task_id": "20863",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy."
+},
+{
+"task_id": "18157",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Promote awareness or use of alternative or renewable energy sources."
+},
+{
+"task_id": "19648",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Write or install energy management routines for building automation systems."
+},
+{
+"task_id": "20864",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Recommend best fuel for specific sites or circumstances."
+},
+{
+"task_id": "18149",
+"soc": "17-2199.03",
+"occupation": "Energy Engineers, Except Wind and Solar",
+"task_text": "Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings."
+},
+{
+"task_id": "16467",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Create mechanical design documents for parts, assemblies, or finished products."
+},
+{
+"task_id": "16482",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design advanced precision equipment for accurate or controlled applications."
+},
+{
+"task_id": "16474",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design engineering systems for the automation of industrial tasks."
+},
+{
+"task_id": "16470",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Implement or test design solutions."
+},
+{
+"task_id": "16468",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Maintain technical project files."
+},
+{
+"task_id": "23946",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Identify materials appropriate for mechatronic system designs."
+},
+{
+"task_id": "16471",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication."
+},
+{
+"task_id": "16483",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods."
+},
+{
+"task_id": "16465",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Provide consultation or training on topics such as mechatronics or automated control."
+},
+{
+"task_id": "16466",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Oversee the work of contractors in accordance with project requirements."
+},
+{
+"task_id": "16464",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Publish engineering reports documenting design details or qualification test results."
+},
+{
+"task_id": "16479",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Upgrade the design of existing devices by adding mechatronic elements."
+},
+{
+"task_id": "23947",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Create mechanical models to simulate mechatronic design concepts."
+},
+{
+"task_id": "16469",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Analyze existing development or manufacturing procedures and suggest improvements."
+},
+{
+"task_id": "23948",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Determine the feasibility, costs, or performance benefits of new mechatronic equipment."
+},
+{
+"task_id": "16480",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining."
+},
+{
+"task_id": "19655",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production."
+},
+{
+"task_id": "16476",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Create embedded software design programs."
+},
+{
+"task_id": "16475",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design advanced electronic control systems for mechanical systems."
+},
+{
+"task_id": "19654",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures."
+},
+{
+"task_id": "19653",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems."
+},
+{
+"task_id": "16473",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems."
+},
+{
+"task_id": "16481",
+"soc": "17-2199.05",
+"occupation": "Mechatronics Engineers",
+"task_text": "Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes."
+},
+{
+"task_id": "16503",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints."
+},
+{
+"task_id": "16497",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software."
+},
+{
+"task_id": "16492",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements."
+},
+{
+"task_id": "16505",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Conduct analyses addressing issues such as failure, reliability, or yield improvement."
+},
+{
+"task_id": "16485",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology."
+},
+{
+"task_id": "16495",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements."
+},
+{
+"task_id": "16502",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting."
+},
+{
+"task_id": "16490",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes."
+},
+{
+"task_id": "16498",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability."
+},
+{
+"task_id": "16494",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints."
+},
+{
+"task_id": "16508",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software."
+},
+{
+"task_id": "16489",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems."
+},
+{
+"task_id": "16504",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes."
+},
+{
+"task_id": "16506",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology."
+},
+{
+"task_id": "16499",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining."
+},
+{
+"task_id": "16500",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests."
+},
+{
+"task_id": "16507",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing."
+},
+{
+"task_id": "16491",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers."
+},
+{
+"task_id": "16484",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications."
+},
+{
+"task_id": "16493",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications."
+},
+{
+"task_id": "16486",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays."
+},
+{
+"task_id": "16488",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop customer documentation, such as performance specifications, training manuals, or operating instructions."
+},
+{
+"task_id": "16487",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications."
+},
+{
+"task_id": "16501",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement."
+},
+{
+"task_id": "16496",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing."
+},
+{
+"task_id": "19656",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology."
+},
+{
+"task_id": "19657",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining."
+},
+{
+"task_id": "19658",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices."
+},
+{
+"task_id": "19659",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines."
+},
+{
+"task_id": "19660",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications."
+},
+{
+"task_id": "19661",
+"soc": "17-2199.06",
+"occupation": "Microsystems Engineers",
+"task_text": "Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy."
+},
+{
+"task_id": "18195",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Analyze system performance or operational requirements."
+},
+{
+"task_id": "18200",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems."
+},
+{
+"task_id": "18199",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Develop or test photonic prototypes or models."
+},
+{
+"task_id": "18194",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design, integrate, or test photonics systems or components."
+},
+{
+"task_id": "18202",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Assist in the transition of photonic prototypes to production."
+},
+{
+"task_id": "18205",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field."
+},
+{
+"task_id": "21055",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Write reports or proposals related to photonics research or development projects."
+},
+{
+"task_id": "18196",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components."
+},
+{
+"task_id": "18198",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Determine applications of photonics appropriate to meet product objectives or features."
+},
+{
+"task_id": "18193",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Conduct research on new photonics technologies."
+},
+{
+"task_id": "18189",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design electro-optical sensing or imaging systems."
+},
+{
+"task_id": "21056",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Document photonics system or component design processes, including objectives, issues, or outcomes."
+},
+{
+"task_id": "19664",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency."
+},
+{
+"task_id": "18206",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Train operators, engineers, or other personnel."
+},
+{
+"task_id": "18188",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Analyze, fabricate, or test fiber-optic links."
+},
+{
+"task_id": "18197",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices."
+},
+{
+"task_id": "18203",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Create or maintain photonic design histories."
+},
+{
+"task_id": "18204",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Oversee or provide expertise on manufacturing, assembly, or fabrication processes."
+},
+{
+"task_id": "18192",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices."
+},
+{
+"task_id": "19665",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design solar energy photonics or other materials or devices to generate energy."
+},
+{
+"task_id": "19663",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design or redesign optical fibers to minimize energy loss."
+},
+{
+"task_id": "19666",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes."
+},
+{
+"task_id": "18191",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Develop laser-processed designs, such as laser-cut medical devices."
+},
+{
+"task_id": "19662",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design or develop new crystals for photonics applications."
+},
+{
+"task_id": "18190",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Design laser machining equipment for purposes such as high-speed ablation."
+},
+{
+"task_id": "18187",
+"soc": "17-2199.07",
+"occupation": "Photonics Engineers",
+"task_text": "Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment."
+},
+{
+"task_id": "16512",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Review or approve designs, calculations, or cost estimates."
+},
+{
+"task_id": "16517",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Process or interpret signals or sensor data."
+},
+{
+"task_id": "16521",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Debug robotics programs."
+},
+{
+"task_id": "21057",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Build, configure, or test robots or robotic applications."
+},
+{
+"task_id": "16516",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Create back-ups of robot programs or parameters."
+}
+]

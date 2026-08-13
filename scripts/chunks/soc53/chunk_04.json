@@ -1,0 +1,782 @@
+[
+{
+"task_id": "14550",
+"soc": "53-5022.00",
+"occupation": "Motorboat Operators",
+"task_text": "Perform general labor duties such as repairing booms."
+},
+{
+"task_id": "14553",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff."
+},
+{
+"task_id": "14552",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed."
+},
+{
+"task_id": "14559",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified."
+},
+{
+"task_id": "14558",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers."
+},
+{
+"task_id": "14556",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Perform or participate in emergency drills, as required."
+},
+{
+"task_id": "14561",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks."
+},
+{
+"task_id": "14560",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties."
+},
+{
+"task_id": "14557",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Maintain complete records of engineering department activities, including machine operations."
+},
+{
+"task_id": "14562",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Operate or maintain off-loading liquid pumps or valves."
+},
+{
+"task_id": "14554",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems."
+},
+{
+"task_id": "14567",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Install engine controls, propeller shafts, or propellers."
+},
+{
+"task_id": "14563",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Clean engine parts and keep engine rooms clean."
+},
+{
+"task_id": "14555",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks."
+},
+{
+"task_id": "14565",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies."
+},
+{
+"task_id": "14566",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently."
+},
+{
+"task_id": "14564",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly."
+},
+{
+"task_id": "14568",
+"soc": "53-5031.00",
+"occupation": "Ship Engineers",
+"task_text": "Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery."
+},
+{
+"task_id": "7152",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges."
+},
+{
+"task_id": "7153",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers."
+},
+{
+"task_id": "7156",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces."
+},
+{
+"task_id": "7151",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges."
+},
+{
+"task_id": "7155",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass."
+},
+{
+"task_id": "7150",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Move levers to activate traffic signals, navigation lights, and alarms."
+},
+{
+"task_id": "7161",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Write and submit maintenance work requisitions."
+},
+{
+"task_id": "7160",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Log data, such as water levels and weather conditions."
+},
+{
+"task_id": "7154",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Prepare accident reports."
+},
+{
+"task_id": "7162",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order."
+},
+{
+"task_id": "7164",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Turn valves to increase or decrease water levels in locks."
+},
+{
+"task_id": "7163",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Check that bridges are clear of vehicles and pedestrians prior to opening."
+},
+{
+"task_id": "7165",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges."
+},
+{
+"task_id": "7166",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates."
+},
+{
+"task_id": "7157",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Maintain and guard stations in bridges to check waterways for boat traffic."
+},
+{
+"task_id": "7159",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Clean and lubricate equipment, and make minor repairs and adjustments."
+},
+{
+"task_id": "7158",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary."
+},
+{
+"task_id": "7169",
+"soc": "53-6011.00",
+"occupation": "Bridge and Lock Tenders",
+"task_text": "Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels."
+},
+{
+"task_id": "3187",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles."
+},
+{
+"task_id": "3196",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Inspect vehicles to detect any damage."
+},
+{
+"task_id": "3192",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Greet customers and open their car doors."
+},
+{
+"task_id": "20835",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles."
+},
+{
+"task_id": "20836",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips."
+},
+{
+"task_id": "20837",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Explain and calculate parking charges, collect fees from customers, and respond to customer complaints."
+},
+{
+"task_id": "3191",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots."
+},
+{
+"task_id": "20838",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Provide customer assistance and information, such as giving directions or handling wheelchairs."
+},
+{
+"task_id": "3188",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Keep parking areas clean and orderly to ensure that space usage is maximized."
+},
+{
+"task_id": "20839",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle."
+},
+{
+"task_id": "3190",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Patrol parking areas to prevent vehicle damage and vehicle or property thefts."
+},
+{
+"task_id": "3189",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary."
+},
+{
+"task_id": "3198",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Escort customers to their vehicles to ensure their safety."
+},
+{
+"task_id": "3200",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration."
+},
+{
+"task_id": "3195",
+"soc": "53-6021.00",
+"occupation": "Parking Attendants",
+"task_text": "Lift, position, and remove barricades to open or close parking areas."
+},
+{
+"task_id": "10712",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts."
+},
+{
+"task_id": "20936",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required."
+},
+{
+"task_id": "10719",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters."
+},
+{
+"task_id": "10715",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Clean parking areas, offices, restrooms, or equipment, and remove trash."
+},
+{
+"task_id": "10720",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Order stock, and price and shelve incoming goods."
+},
+{
+"task_id": "10725",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps."
+},
+{
+"task_id": "10724",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants."
+},
+{
+"task_id": "10721",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Rotate, test, and repair or replace tires."
+},
+{
+"task_id": "10714",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Prepare daily reports of fuel, oil, and accessory sales."
+},
+{
+"task_id": "20937",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Clean windshields."
+},
+{
+"task_id": "10713",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels."
+},
+{
+"task_id": "10726",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Test and charge batteries."
+},
+{
+"task_id": "10723",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due."
+},
+{
+"task_id": "10718",
+"soc": "53-6031.00",
+"occupation": "Automotive and Watercraft Service Attendants",
+"task_text": "Provide customers with information about local roads or highways."
+},
+{
+"task_id": "23832",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes."
+},
+{
+"task_id": "23833",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Change aircraft oil, coolant, or other fluids."
+},
+{
+"task_id": "23834",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming."
+},
+{
+"task_id": "23835",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Climb ladders to reach aircraft surfaces to be cleaned."
+},
+{
+"task_id": "23836",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Complete forms describing tasks completed."
+},
+{
+"task_id": "23837",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "De-grease aircraft exteriors."
+},
+{
+"task_id": "23838",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Empty aircraft lavatory systems or refill them with sanitizer fluid."
+},
+{
+"task_id": "23839",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Guide aircraft to designated areas using hand signals, batons, or other methods."
+},
+{
+"task_id": "23840",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Inspect aircraft components to locate cracks, breaks, leaks, or other problems."
+},
+{
+"task_id": "23841",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Load baggage or cargo for crew or passengers."
+},
+{
+"task_id": "23842",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Mix cleaning compounds or solutions."
+},
+{
+"task_id": "23843",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Polish aircraft exteriors."
+},
+{
+"task_id": "23844",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft."
+},
+{
+"task_id": "23845",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Refill aircraft potable water tanks."
+},
+{
+"task_id": "23846",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Refuel aircraft using hoses connected to fuel trucks."
+},
+{
+"task_id": "23847",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Remove exhaust stains from aircraft using cleaning fluids."
+},
+{
+"task_id": "23848",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Tow aircraft to gates or hangars using tugs, tractors, or other vehicles."
+},
+{
+"task_id": "23849",
+"soc": "53-6032.00",
+"occupation": "Aircraft Service Attendants",
+"task_text": "Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment."
+},
+{
+"task_id": "8643",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area."
+},
+{
+"task_id": "8630",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures."
+},
+{
+"task_id": "8645",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions."
+},
+{
+"task_id": "8633",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow."
+},
+{
+"task_id": "8634",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Prepare work orders for repair, maintenance, or changes in traffic systems."
+},
+{
+"task_id": "8632",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency."
+},
+{
+"task_id": "8647",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Compute time settings for traffic signals or speed restrictions, using standard formulas."
+},
+{
+"task_id": "8631",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment."
+},
+{
+"task_id": "8635",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness."
+},
+{
+"task_id": "8640",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input."
+},
+{
+"task_id": "8642",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment."
+},
+{
+"task_id": "8637",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Lay out pavement markings for striping crews."
+},
+{
+"task_id": "8639",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Provide technical supervision regarding traffic control devices to other traffic technicians or laborers."
+},
+{
+"task_id": "8638",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times."
+},
+{
+"task_id": "8641",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Place and secure automatic counters, using power tools, and retrieve counters after counting periods end."
+},
+{
+"task_id": "8644",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary."
+},
+{
+"task_id": "8650",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Time stoplights or other delays, using stopwatches."
+},
+{
+"task_id": "8649",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices."
+},
+{
+"task_id": "8636",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures."
+},
+{
+"task_id": "8646",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Establish procedures for street closures or for repair or construction projects."
+},
+{
+"task_id": "20938",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Provide traffic information, such as road conditions, to the public."
+},
+{
+"task_id": "8648",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Monitor street or utility projects for compliance to traffic control permit conditions."
+},
+{
+"task_id": "8652",
+"soc": "53-6041.00",
+"occupation": "Traffic Technicians",
+"task_text": "Develop plans or long-range strategies for providing adequate parking space."
+},
+{
+"task_id": "23850",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Prepare and submit reports after completion of freight shipments."
+},
+{
+"task_id": "23851",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Inspect shipments to ensure that freight is securely braced and blocked."
+},
+{
+"task_id": "23852",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Record details about freight conditions, handling of freight, and any problems encountered."
+},
+{
+"task_id": "23853",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Advise crews in techniques of stowing dangerous and heavy cargo."
+},
+{
+"task_id": "23854",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Observe loading of freight to ensure that crews comply with procedures."
+},
+{
+"task_id": "23855",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Recommend remedial procedures to correct any violations found during inspections."
+},
+{
+"task_id": "23856",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance."
+},
+{
+"task_id": "23857",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Notify workers of any special treatment required for shipments."
+},
+{
+"task_id": "23858",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Direct crews to reload freight or to insert additional bracing or packing as necessary."
+},
+{
+"task_id": "23859",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo."
+},
+{
+"task_id": "23860",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors."
+},
+{
+"task_id": "23861",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Read draft markings to determine depths of vessels in water."
+},
+{
+"task_id": "23864",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Post warning signs on vehicles containing explosives or flammable or radioactive materials."
+},
+{
+"task_id": "23865",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes."
+},
+{
+"task_id": "23868",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas."
+},
+{
+"task_id": "23869",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures."
+},
+{
+"task_id": "23870",
+"soc": "53-6051.00",
+"occupation": "Transportation Inspectors",
+"task_text": "Visually inspect cargo for damage upon arrival or discharge."
+},
+{
+"task_id": "10728",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures."
+},
+{
+"task_id": "10734",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals."
+},
+{
+"task_id": "10733",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments."
+},
+{
+"task_id": "10741",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Approve or deny issuance of certificates of airworthiness."
+},
+{
+"task_id": "10732",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Prepare and maintain detailed repair, inspection, investigation, and certification records and reports."
+},
+{
+"task_id": "10731",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs."
+},
+{
+"task_id": "10735",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Recommend replacement, repair, or modification of aircraft equipment."
+}
+]

@@ -1,0 +1,356 @@
+[
+{
+"task_id": "11157",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Prepare food items, such as sandwiches, salads, soups, or beverages."
+},
+{
+"task_id": "11160",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Determine where patients or patrons would like to eat their meals and help them get situated."
+},
+{
+"task_id": "11162",
+"soc": "35-3041.00",
+"occupation": "Food Servers, Nonrestaurant",
+"task_text": "Total checks, present them to customers, and accept payment for services."
+},
+{
+"task_id": "11178",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Run cash registers."
+},
+{
+"task_id": "11169",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Serve ice water, coffee, rolls, or butter to patrons."
+},
+{
+"task_id": "11165",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Scrape and stack dirty dishes and carry dishes and other tableware to kitchens for cleaning."
+},
+{
+"task_id": "11163",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Wipe tables or seats with dampened cloths or replace dirty tablecloths."
+},
+{
+"task_id": "11164",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Set tables with clean linens, condiments, or other supplies."
+},
+{
+"task_id": "23929",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Greet and seat customers."
+},
+{
+"task_id": "11166",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Clean up spilled food or drink or broken dishes and remove empty bottles and trash."
+},
+{
+"task_id": "11168",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Maintain adequate supplies of items, such as clean linens, silverware, glassware, dishes, or trays."
+},
+{
+"task_id": "11172",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Locate items requested by customers."
+},
+{
+"task_id": "11170",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Fill beverage or ice dispensers."
+},
+{
+"task_id": "11173",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Carry food, dishes, trays, or silverware from kitchens or supply departments to serving counters."
+},
+{
+"task_id": "11167",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Perform serving, cleaning, or stocking duties in establishments, such as cafeterias or dining rooms, to facilitate customer service."
+},
+{
+"task_id": "11176",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Carry trays from food counters to tables for cafeteria patrons."
+},
+{
+"task_id": "11171",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Stock cabinets or serving areas with condiments and refill condiment containers."
+},
+{
+"task_id": "11174",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Serve food to customers when waiters or waitresses need assistance."
+},
+{
+"task_id": "11175",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Clean and polish counters, shelves, walls, furniture, or equipment in food service areas or other areas of restaurants and mop or vacuum floors."
+},
+{
+"task_id": "11177",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Replenish supplies of food or equipment at steam tables or service bars."
+},
+{
+"task_id": "11179",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Wash glasses or other serving equipment at bars."
+},
+{
+"task_id": "11181",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Carry linens to or from laundry areas."
+},
+{
+"task_id": "11180",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Garnish foods and position them on tables to make them visible and accessible."
+},
+{
+"task_id": "11183",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Mix and prepare flavors for mixed drinks."
+},
+{
+"task_id": "11184",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Slice and pit fruit used to garnish drinks."
+},
+{
+"task_id": "11182",
+"soc": "35-9011.00",
+"occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+"task_text": "Stock refrigerating units with wines or bottled beer or replace empty beer kegs."
+},
+{
+"task_id": "11186",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Wash dishes, glassware, flatware, pots, or pans, using dishwashers or by hand."
+},
+{
+"task_id": "11188",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Maintain kitchen work areas, equipment, or utensils in clean and orderly condition."
+},
+{
+"task_id": "11187",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Place clean dishes, utensils, or cooking equipment in storage areas."
+},
+{
+"task_id": "11190",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Sweep or scrub floors."
+},
+{
+"task_id": "11189",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Stock supplies, such as food or utensils, in serving stations, cupboards, refrigerators, or salad bars."
+},
+{
+"task_id": "11193",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Clean or prepare various foods for cooking or serving."
+},
+{
+"task_id": "11192",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Sort and remove trash, placing it in designated pickup areas."
+},
+{
+"task_id": "11195",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Transfer supplies or equipment between storage and work areas, by hand or using hand trucks."
+},
+{
+"task_id": "11196",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Receive and store supplies."
+},
+{
+"task_id": "11191",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Clean garbage cans with water or steam."
+},
+{
+"task_id": "11198",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Load or unload trucks that deliver or pick up food or supplies."
+},
+{
+"task_id": "11197",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Prepare and package individual place settings."
+},
+{
+"task_id": "11194",
+"soc": "35-9021.00",
+"occupation": "Dishwashers",
+"task_text": "Set up banquet tables."
+},
+{
+"task_id": "2296",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Provide guests with menus."
+},
+{
+"task_id": "2297",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Greet guests and seat them at tables or in waiting areas."
+},
+{
+"task_id": "2302",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Maintain contact with kitchen staff, management, serving staff, and customers to ensure that dining details are handled properly and customers' concerns are addressed."
+},
+{
+"task_id": "18749",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Assign patrons to tables suitable for their needs and according to rotation so that servers receive an appropriate number of seatings."
+},
+{
+"task_id": "18750",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Speak with patrons to ensure satisfaction with food and service, to respond to complaints, or to make conversation."
+},
+{
+"task_id": "18752",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Inspect dining and serving areas to ensure cleanliness and proper setup."
+},
+{
+"task_id": "2307",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Supervise and coordinate activities of dining room staff to ensure that patrons receive prompt and courteous service."
+},
+{
+"task_id": "18751",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Answer telephone calls and respond to inquiries or transfer calls."
+},
+{
+"task_id": "21070",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Assist other restaurant workers by serving food and beverages, or by bussing tables."
+},
+{
+"task_id": "18753",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Inspect restrooms for cleanliness and availability of supplies, and clean restrooms when necessary."
+},
+{
+"task_id": "18754",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Take and prepare to-go orders."
+},
+{
+"task_id": "2303",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Inform patrons of establishment specialties and features."
+},
+{
+"task_id": "2301",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Receive and record patrons' dining reservations."
+},
+{
+"task_id": "2305",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Operate cash registers to accept payments for food and beverages."
+},
+{
+"task_id": "2304",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Direct patrons to coatrooms and waiting areas, such as lounges."
+},
+{
+"task_id": "2306",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Prepare cash receipts after establishments close, and make bank deposits."
+},
+{
+"task_id": "2309",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Order or requisition supplies and equipment for tables and serving stations."
+},
+{
+"task_id": "2310",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Hire, train, and supervise food and beverage service staff."
+},
+{
+"task_id": "2312",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Confer with other staff to help plan establishments' menus."
+},
+{
+"task_id": "2313",
+"soc": "35-9031.00",
+"occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+"task_text": "Perform marketing and advertising services."
+}
+]

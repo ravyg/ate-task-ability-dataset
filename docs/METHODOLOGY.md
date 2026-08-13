@@ -14,7 +14,7 @@ How the O\*NET task→ability mapping was constructed and validated.
 
 ## 2. Labeling pass
 
-Each of the 4,577 task statements was labeled with:
+Each of the 18,796 task statements (the full O\*NET corpus, all 23 SOC major groups) was labeled with:
 - the subset of the 52 abilities the task **requires**, and
 - an importance **weight**: 1 (mild), 2 (moderate), 3 (critical).
 
@@ -23,8 +23,12 @@ task text, its occupation, the full 52-ability taxonomy with O\*NET definitions,
 the GWA baseline prior. Low-confidence judgments were explicitly flagged
 (`uncertain = 1`) rather than dropped, so reviewers can prioritize them.
 
-Tasks were processed in six chunks; all chunks were merged, de-duplicated, and sorted
-by numeric `task_id` into `data/task_ability_mapping.csv`.
+Tasks were processed in chunks; all chunks were merged, de-duplicated, and sorted
+by numeric `task_id` into `data/task_ability_mapping.csv`. The initial release covered
+six SOC major groups (4,577 tasks); the dataset was subsequently extended to the full
+O\*NET corpus (18,796 tasks, all 23 SOC major groups) using the identical Sonnet method
+— a pure append that left the original rows unchanged. The regeneration pipeline is in
+[`scripts/`](../scripts/).
 
 ## 3. Validation
 

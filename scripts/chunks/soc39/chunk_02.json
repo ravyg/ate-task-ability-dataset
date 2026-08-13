@@ -1,0 +1,782 @@
+[
+{
+"task_id": "4501",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Wash and dry bodies, using germicidal soap and towels or hot air dryers."
+},
+{
+"task_id": "4502",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Arrange for transporting the deceased to another state for interment."
+},
+{
+"task_id": "4498",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Perform special procedures necessary for remains that are to be transported to other states or overseas, or where death was caused by infectious disease."
+},
+{
+"task_id": "4503",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Supervise funeral attendants and other funeral home staff."
+},
+{
+"task_id": "4506",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Serve as pallbearers, attend visiting rooms, and provide other assistance to the bereaved."
+},
+{
+"task_id": "4507",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Direct casket and floral display placement and arrange guest seating."
+},
+{
+"task_id": "4508",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Arrange funeral home equipment and perform general maintenance."
+},
+{
+"task_id": "4509",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Assist coroners at death scenes or at autopsies, file police reports, and testify at inquests or in court, if employed by a coroner."
+},
+{
+"task_id": "4510",
+"soc": "39-4011.00",
+"occupation": "Embalmers",
+"task_text": "Press diaphragm to evacuate air from lungs."
+},
+{
+"task_id": "23180",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Clean the crematorium, including tables, floors, and equipment."
+},
+{
+"task_id": "23181",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Document divided remains to ensure parts are not misplaced."
+},
+{
+"task_id": "23182",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Embalm, dress, or otherwise prepare the deceased for viewing."
+},
+{
+"task_id": "23183",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Explain the cremation process to family or friends of the deceased."
+},
+{
+"task_id": "23184",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Offer counsel and comfort to bereaved families or friends."
+},
+{
+"task_id": "23185",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Pick up and handle human or pet remains in a respectful manner."
+},
+{
+"task_id": "23186",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Place corpses into crematory machines to reduce remains to bone fragments using flame, heat, or alkaline hydrolysis."
+},
+{
+"task_id": "23187",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Pulverize remaining bone fragments into smaller pieces, using specialized equipment, such as a cremulator or grinder."
+},
+{
+"task_id": "23188",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Read documentation to confirm the identity of the deceased."
+},
+{
+"task_id": "23189",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Remove jewelry, watches, or other personal items from the deceased prior to cremation."
+},
+{
+"task_id": "23190",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Sweep or vacuum the cremation chamber to retrieve remains for storage in an urn or other container."
+},
+{
+"task_id": "23191",
+"soc": "39-4012.00",
+"occupation": "Crematory Operators",
+"task_text": "Transport the deceased to a funeral home or crematory using a van, hearse, or other vehicle."
+},
+{
+"task_id": "4512",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Greet people at the funeral home."
+},
+{
+"task_id": "4511",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Perform a variety of tasks during funerals to assist funeral directors and to ensure that services run smoothly and as planned."
+},
+{
+"task_id": "4514",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Close caskets at appropriate point in services."
+},
+{
+"task_id": "4517",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Direct or escort mourners to parlors or chapels in which wakes or funerals are being held."
+},
+{
+"task_id": "4518",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Place caskets in parlors or chapels prior to wakes or funerals."
+},
+{
+"task_id": "4513",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Offer assistance to mourners as they enter or exit limousines."
+},
+{
+"task_id": "4521",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Clean funeral parlors or chapels."
+},
+{
+"task_id": "4522",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Arrange floral offerings or lights around caskets."
+},
+{
+"task_id": "4519",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Clean and drive funeral vehicles, such as cars or hearses, in funeral processions."
+},
+{
+"task_id": "4527",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Act as pallbearers."
+},
+{
+"task_id": "20600",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Supervise funeral processions and assist with cemetery parking."
+},
+{
+"task_id": "20601",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Deliver floral arrangements or other items to family members of the deceased."
+},
+{
+"task_id": "4520",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Carry flowers to hearses or limousines for transportation to places of interment."
+},
+{
+"task_id": "20602",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Perform general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds."
+},
+{
+"task_id": "4525",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Issue and store funeral equipment."
+},
+{
+"task_id": "4523",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Provide advice to mourners on how to make charitable donations in honor of the deceased."
+},
+{
+"task_id": "20603",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Embalm, dress, cosmeticize, and casket the deceased."
+},
+{
+"task_id": "20607",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Prepare obituaries for newspapers."
+},
+{
+"task_id": "4516",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Obtain burial permits and register deaths."
+},
+{
+"task_id": "20597",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Transport the deceased to the funeral home."
+},
+{
+"task_id": "20605",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Obtain doctors' signatures on death certificate and complete other paperwork, such as insurance claims forms."
+},
+{
+"task_id": "4526",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Assist with cremations and the processing and packaging of cremated remains."
+},
+{
+"task_id": "20598",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Attend to the needs of the bereaved, such as by offering comfort, counseling, or after-care programs."
+},
+{
+"task_id": "20599",
+"soc": "39-4021.00",
+"occupation": "Funeral Attendants",
+"task_text": "Perform various administrative tasks, such as typing documents or answering telephone calls."
+},
+{
+"task_id": "3335",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Oversee the preparation and care of the remains of people who have died."
+},
+{
+"task_id": "3334",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Obtain information needed to complete legal documents, such as death certificates or burial permits."
+},
+{
+"task_id": "3343",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Perform embalming duties, as necessary."
+},
+{
+"task_id": "3332",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for services."
+},
+{
+"task_id": "21009",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Remove deceased remains from place of death."
+},
+{
+"task_id": "3336",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Contact cemeteries to schedule the opening and closing of graves."
+},
+{
+"task_id": "15200",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Plan, schedule, or coordinate funerals, burials, or cremations, arranging details such as floral delivery or the time and place of services."
+},
+{
+"task_id": "3340",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Close caskets and lead funeral corteges to churches or burial sites."
+},
+{
+"task_id": "3337",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Provide information on funeral service options, products, or merchandise, and maintain a casket display area."
+},
+{
+"task_id": "3339",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Offer counsel and comfort to bereaved families or friends."
+},
+{
+"task_id": "3344",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Direct preparations and shipment of bodies for out-of-state burial."
+},
+{
+"task_id": "3345",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Discuss and negotiate prearranged funerals with clients."
+},
+{
+"task_id": "3347",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Maintain financial records, order merchandise, or prepare accounts."
+},
+{
+"task_id": "3342",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Provide or arrange transportation between sites for the remains, mourners, pallbearers, clergy, or flowers."
+},
+{
+"task_id": "3341",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Arrange for clergy members to perform needed services."
+},
+{
+"task_id": "3348",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Plan placement of caskets at funeral sites or place or adjust lights, fixtures, or floral displays."
+},
+{
+"task_id": "15202",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Clean funeral home facilities and grounds."
+},
+{
+"task_id": "15201",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Manage funeral home operations, including the hiring, training, or supervision of embalmers, funeral attendants, or other staff."
+},
+{
+"task_id": "3346",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Inform survivors of benefits for which they may be eligible."
+},
+{
+"task_id": "3349",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Arrange for pallbearers or inform pallbearers or honorary groups of their duties."
+},
+{
+"task_id": "3350",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Receive or usher people to their seats for services."
+},
+{
+"task_id": "15203",
+"soc": "39-4031.00",
+"occupation": "Morticians, Undertakers, and Funeral Arrangers",
+"task_text": "Participate in community activities for funeral home promotion or other purposes."
+},
+{
+"task_id": "8049",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Clean and sterilize scissors, combs, clippers, and other instruments."
+},
+{
+"task_id": "8051",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Drape and pin protective cloths around customers' shoulders."
+},
+{
+"task_id": "8050",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Cut and trim hair according to clients' instructions or current hairstyles, using clippers, combs, hand-held blow driers, and scissors."
+},
+{
+"task_id": "8052",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Question patrons regarding desired services and haircut styles."
+},
+{
+"task_id": "8053",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Clean work stations and sweep floors."
+},
+{
+"task_id": "8063",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Apply lather and shave beards or neck and temple hair contours, using razors."
+},
+{
+"task_id": "8054",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Record services provided on cashiers' tickets or receive payment from customers."
+},
+{
+"task_id": "8056",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Shape and trim beards and moustaches, using scissors."
+},
+{
+"task_id": "8061",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Perform clerical and administrative duties such as keeping records, paying bills, and hiring and supervising personnel."
+},
+{
+"task_id": "8057",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Stay informed of the latest styles and hair care techniques."
+},
+{
+"task_id": "8058",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Suggest treatments to alleviate hair problems."
+},
+{
+"task_id": "8055",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Order supplies."
+},
+{
+"task_id": "8059",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Shampoo hair."
+},
+{
+"task_id": "8065",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Recommend and sell lotions, tonics, or other cosmetic supplies."
+},
+{
+"task_id": "8067",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Provide skin care and nail treatments."
+},
+{
+"task_id": "8060",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Keep card files on clientele, recording notes of work done, products used and fees charged after each visit."
+},
+{
+"task_id": "8062",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Curl, color, or straighten hair, using special chemical solutions and equipment."
+},
+{
+"task_id": "8066",
+"soc": "39-5011.00",
+"occupation": "Barbers",
+"task_text": "Provide face, neck, and scalp massages."
+},
+{
+"task_id": "635",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Keep work stations clean and sanitize tools, such as scissors and combs."
+},
+{
+"task_id": "639",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Bleach, dye, or tint hair, using applicator or brush."
+},
+{
+"task_id": "636",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors."
+},
+{
+"task_id": "638",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Schedule client appointments."
+},
+{
+"task_id": "640",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Update and maintain customer information records, such as beauty services provided."
+},
+{
+"task_id": "643",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Demonstrate and sell hair care products and cosmetics."
+},
+{
+"task_id": "637",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles."
+},
+{
+"task_id": "641",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions."
+},
+{
+"task_id": "642",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Operate cash registers to receive payments from patrons."
+},
+{
+"task_id": "20899",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Order, display, and maintain supplies."
+},
+{
+"task_id": "646",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Comb, brush, and spray hair or wigs to set style."
+},
+{
+"task_id": "644",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Develop new styles and techniques."
+},
+{
+"task_id": "645",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair."
+},
+{
+"task_id": "647",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax."
+},
+{
+"task_id": "650",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Shave, trim, and shape beards and moustaches."
+},
+{
+"task_id": "651",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Train or supervise other hairstylists, hairdressers, and assistants."
+},
+{
+"task_id": "649",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment."
+},
+{
+"task_id": "648",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions."
+},
+{
+"task_id": "652",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance."
+},
+{
+"task_id": "654",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Clean, shape, and polish fingernails and toenails, using files and nail polish."
+},
+{
+"task_id": "653",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Give facials to patrons, using special compounds, such as lotions and creams."
+},
+{
+"task_id": "656",
+"soc": "39-5012.00",
+"occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+"task_text": "Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs."
+},
+{
+"task_id": "24008",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Clean supplies such as makeup brushes."
+},
+{
+"task_id": "14798",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Duplicate work precisely to replicate characters' appearances on a daily basis."
+},
+{
+"task_id": "14800",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Apply makeup to enhance or alter the appearance of people appearing in productions such as movies."
+},
+{
+"task_id": "14805",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene."
+},
+{
+"task_id": "14801",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Alter or maintain makeup during productions as necessary to compensate for lighting changes or to achieve continuity of effect."
+},
+{
+"task_id": "14797",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Confer with stage or motion picture officials and performers to determine desired effects."
+},
+{
+"task_id": "14806",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics."
+},
+{
+"task_id": "14814",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Study production information, such as character descriptions, period settings, and situations, to determine makeup requirements."
+},
+{
+"task_id": "14799",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Establish budgets, and work within budgetary limits."
+},
+{
+"task_id": "14802",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Select desired makeup shades from stock, or mix oil, grease, and coloring to achieve specific color effects."
+},
+{
+"task_id": "14807",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Write makeup sheets and take photos to document specific looks and the products used to achieve the looks."
+},
+{
+"task_id": "14804",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Assess performers' skin type to ensure that makeup will not cause break-outs or skin irritations."
+},
+{
+"task_id": "14809",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Attach prostheses to performers and apply makeup to create special features or effects, such as scars, aging, or illness."
+},
+{
+"task_id": "14808",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Examine sketches, photographs, and plaster models to obtain desired character image depiction."
+},
+{
+"task_id": "14803",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Cleanse and tone the skin to prepare it for makeup application."
+},
+{
+"task_id": "14810",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Evaluate environmental characteristics, such as venue size and lighting plans, to determine makeup requirements."
+},
+{
+"task_id": "14815",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Provide performers with makeup removal assistance after performances have been completed."
+},
+{
+"task_id": "14811",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Design rubber or plastic prostheses that can be used to change performers' appearances."
+},
+{
+"task_id": "14812",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Create character drawings or models, based upon independent research, to augment period production files."
+},
+{
+"task_id": "14817",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Demonstrate products to clients, and provide instruction in makeup application."
+},
+{
+"task_id": "14813",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Advise hairdressers on the hairstyles required for character parts."
+},
+{
+"task_id": "14816",
+"soc": "39-5091.00",
+"occupation": "Makeup Artists, Theatrical and Performance",
+"task_text": "Wash and reset wigs."
+},
+{
+"task_id": "8748",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Clean and sanitize tools and work environment."
+}
+]

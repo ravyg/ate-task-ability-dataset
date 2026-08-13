@@ -1,0 +1,464 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",Control Precision,2,0
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",Manual Dexterity,2,0
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",Near Vision,2,0
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",Arm-Hand Steadiness,1,0
+17871,Recycling and Reclamation Workers,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",Problem Sensitivity,1,1
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,Static Strength,2,0
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,Manual Dexterity,2,0
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,Multilimb Coordination,1,0
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,Near Vision,1,0
+17874,Recycling and Reclamation Workers,Deposit recoverable materials into chutes or place materials on conveyor belts.,Gross Body Coordination,1,0
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,Control Precision,2,0
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,Multilimb Coordination,2,0
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,Static Strength,1,0
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,Near Vision,1,0
+17877,Recycling and Reclamation Workers,Operate balers to compress recyclable materials into bundles or bales.,Reaction Time,1,0
+17883,Recycling and Reclamation Workers,"Clean materials, such as metals, according to recycling requirements.",Manual Dexterity,2,0
+17883,Recycling and Reclamation Workers,"Clean materials, such as metals, according to recycling requirements.",Static Strength,1,0
+17883,Recycling and Reclamation Workers,"Clean materials, such as metals, according to recycling requirements.",Near Vision,1,0
+17883,Recycling and Reclamation Workers,"Clean materials, such as metals, according to recycling requirements.",Stamina,1,0
+17881,Recycling and Reclamation Workers,Record logs of recycled materials or waste chemicals removed from products.,Written Expression,2,0
+17881,Recycling and Reclamation Workers,Record logs of recycled materials or waste chemicals removed from products.,Written Comprehension,1,0
+17881,Recycling and Reclamation Workers,Record logs of recycled materials or waste chemicals removed from products.,Near Vision,1,0
+17881,Recycling and Reclamation Workers,Record logs of recycled materials or waste chemicals removed from products.,Information Ordering,1,0
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",Control Precision,2,0
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",Multilimb Coordination,2,0
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",Near Vision,1,0
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",Reaction Time,1,0
+17879,Recycling and Reclamation Workers,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",Selective Attention,1,0
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,Static Strength,2,0
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,Dynamic Strength,2,0
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,Stamina,2,0
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,Gross Body Coordination,1,0
+17873,Recycling and Reclamation Workers,Collect recyclable materials from curbside for delivery to designated facilities.,Trunk Strength,1,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Control Precision,2,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Multilimb Coordination,2,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Far Vision,2,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Depth Perception,2,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Reaction Time,2,0
+17876,Recycling and Reclamation Workers,Operate automated refuse or manual recycling collection vehicles.,Response Orientation,1,0
+14583,Machine Feeders and Offbearers,"Inspect materials and products for defects, and to ensure conformance to specifications.",Near Vision,3,0
+14583,Machine Feeders and Offbearers,"Inspect materials and products for defects, and to ensure conformance to specifications.",Selective Attention,2,0
+14583,Machine Feeders and Offbearers,"Inspect materials and products for defects, and to ensure conformance to specifications.",Perceptual Speed,2,0
+14583,Machine Feeders and Offbearers,"Inspect materials and products for defects, and to ensure conformance to specifications.",Problem Sensitivity,1,0
+14591,Machine Feeders and Offbearers,"Record production and operational data, such as amount of materials processed.",Written Expression,2,0
+14591,Machine Feeders and Offbearers,"Record production and operational data, such as amount of materials processed.",Number Facility,1,0
+14591,Machine Feeders and Offbearers,"Record production and operational data, such as amount of materials processed.",Near Vision,1,0
+14585,Machine Feeders and Offbearers,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",Control Precision,2,0
+14585,Machine Feeders and Offbearers,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",Multilimb Coordination,2,0
+14585,Machine Feeders and Offbearers,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",Reaction Time,2,0
+14585,Machine Feeders and Offbearers,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",Rate Control,1,0
+14589,Machine Feeders and Offbearers,Weigh or measure materials or products to ensure conformance to specifications.,Near Vision,2,0
+14589,Machine Feeders and Offbearers,Weigh or measure materials or products to ensure conformance to specifications.,Number Facility,2,0
+14589,Machine Feeders and Offbearers,Weigh or measure materials or products to ensure conformance to specifications.,Control Precision,1,0
+14589,Machine Feeders and Offbearers,Weigh or measure materials or products to ensure conformance to specifications.,Perceptual Speed,1,0
+14586,Machine Feeders and Offbearers,"Identify and mark materials, products, and samples, following instructions.",Near Vision,2,0
+14586,Machine Feeders and Offbearers,"Identify and mark materials, products, and samples, following instructions.",Manual Dexterity,1,0
+14586,Machine Feeders and Offbearers,"Identify and mark materials, products, and samples, following instructions.",Written Comprehension,1,0
+14588,Machine Feeders and Offbearers,"Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.",Manual Dexterity,2,0
+14588,Machine Feeders and Offbearers,"Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.",Static Strength,1,0
+14588,Machine Feeders and Offbearers,"Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.",Stamina,1,0
+14588,Machine Feeders and Offbearers,"Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.",Near Vision,1,0
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",Static Strength,2,0
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",Dynamic Strength,2,0
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",Manual Dexterity,2,0
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",Multilimb Coordination,1,0
+14587,Machine Feeders and Offbearers,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",Trunk Strength,1,0
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",Static Strength,2,0
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",Control Precision,1,0
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",Multilimb Coordination,1,0
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",Gross Body Coordination,1,0
+14593,Machine Feeders and Offbearers,"Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.",Depth Perception,1,0
+14590,Machine Feeders and Offbearers,"Fasten, package, or stack materials and products, using hand tools and fastening equipment.",Manual Dexterity,2,0
+14590,Machine Feeders and Offbearers,"Fasten, package, or stack materials and products, using hand tools and fastening equipment.",Static Strength,1,0
+14590,Machine Feeders and Offbearers,"Fasten, package, or stack materials and products, using hand tools and fastening equipment.",Finger Dexterity,1,0
+14590,Machine Feeders and Offbearers,"Fasten, package, or stack materials and products, using hand tools and fastening equipment.",Arm-Hand Steadiness,1,0
+14584,Machine Feeders and Offbearers,"Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.",Static Strength,2,0
+14584,Machine Feeders and Offbearers,"Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.",Manual Dexterity,2,0
+14584,Machine Feeders and Offbearers,"Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.",Multilimb Coordination,1,0
+14584,Machine Feeders and Offbearers,"Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.",Trunk Strength,1,0
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",Static Strength,3,0
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",Trunk Strength,2,0
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",Stamina,2,0
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",Dynamic Strength,2,0
+14595,Machine Feeders and Offbearers,"Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.",Gross Body Coordination,1,0
+14594,Machine Feeders and Offbearers,Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.,Manual Dexterity,2,0
+14594,Machine Feeders and Offbearers,Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.,Control Precision,1,0
+14594,Machine Feeders and Offbearers,Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.,Multilimb Coordination,1,0
+14594,Machine Feeders and Offbearers,Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.,Near Vision,1,0
+14592,Machine Feeders and Offbearers,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",Manual Dexterity,2,0
+14592,Machine Feeders and Offbearers,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",Control Precision,1,0
+14592,Machine Feeders and Offbearers,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",Near Vision,1,0
+14592,Machine Feeders and Offbearers,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",Arm-Hand Steadiness,1,0
+21216,"Packers and Packagers, Hand","Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.",Near Vision,3,0
+21216,"Packers and Packagers, Hand","Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.",Selective Attention,2,0
+21216,"Packers and Packagers, Hand","Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.",Perceptual Speed,2,0
+21216,"Packers and Packagers, Hand","Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.",Problem Sensitivity,1,0
+3212,"Packers and Packagers, Hand","Measure, weigh, and count products and materials.",Number Facility,2,0
+3212,"Packers and Packagers, Hand","Measure, weigh, and count products and materials.",Near Vision,2,0
+3212,"Packers and Packagers, Hand","Measure, weigh, and count products and materials.",Perceptual Speed,1,0
+3214,"Packers and Packagers, Hand","Record product, packaging, and order information on specified forms and records.",Written Expression,2,0
+3214,"Packers and Packagers, Hand","Record product, packaging, and order information on specified forms and records.",Near Vision,1,0
+3214,"Packers and Packagers, Hand","Record product, packaging, and order information on specified forms and records.",Information Ordering,1,0
+3216,"Packers and Packagers, Hand","Seal containers or materials, using glues, fasteners, nails, and hand tools.",Manual Dexterity,3,0
+3216,"Packers and Packagers, Hand","Seal containers or materials, using glues, fasteners, nails, and hand tools.",Finger Dexterity,2,0
+3216,"Packers and Packagers, Hand","Seal containers or materials, using glues, fasteners, nails, and hand tools.",Arm-Hand Steadiness,1,0
+3216,"Packers and Packagers, Hand","Seal containers or materials, using glues, fasteners, nails, and hand tools.",Static Strength,1,0
+3218,"Packers and Packagers, Hand","Assemble, line, and pad cartons, crates, and containers, using hand tools.",Manual Dexterity,3,0
+3218,"Packers and Packagers, Hand","Assemble, line, and pad cartons, crates, and containers, using hand tools.",Finger Dexterity,2,0
+3218,"Packers and Packagers, Hand","Assemble, line, and pad cartons, crates, and containers, using hand tools.",Multilimb Coordination,1,0
+3218,"Packers and Packagers, Hand","Assemble, line, and pad cartons, crates, and containers, using hand tools.",Static Strength,1,0
+3222,"Packers and Packagers, Hand","Obtain, move, and sort products, materials, containers, and orders, using hand tools.",Static Strength,2,0
+3222,"Packers and Packagers, Hand","Obtain, move, and sort products, materials, containers, and orders, using hand tools.",Manual Dexterity,2,0
+3222,"Packers and Packagers, Hand","Obtain, move, and sort products, materials, containers, and orders, using hand tools.",Gross Body Coordination,1,0
+3222,"Packers and Packagers, Hand","Obtain, move, and sort products, materials, containers, and orders, using hand tools.",Near Vision,1,0
+3211,"Packers and Packagers, Hand","Mark and label containers, container tags, or products, using marking tools.",Manual Dexterity,2,0
+3211,"Packers and Packagers, Hand","Mark and label containers, container tags, or products, using marking tools.",Finger Dexterity,1,0
+3211,"Packers and Packagers, Hand","Mark and label containers, container tags, or products, using marking tools.",Near Vision,2,0
+3219,"Packers and Packagers, Hand","Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.",Manual Dexterity,2,0
+3219,"Packers and Packagers, Hand","Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.",Static Strength,1,0
+3219,"Packers and Packagers, Hand","Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.",Stamina,1,0
+3215,"Packers and Packagers, Hand","Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",Static Strength,2,0
+3215,"Packers and Packagers, Hand","Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",Manual Dexterity,1,0
+3215,"Packers and Packagers, Hand","Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",Multilimb Coordination,1,0
+3215,"Packers and Packagers, Hand","Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",Near Vision,1,0
+3221,"Packers and Packagers, Hand","Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.",Manual Dexterity,2,0
+3221,"Packers and Packagers, Hand","Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.",Control Precision,2,0
+3221,"Packers and Packagers, Hand","Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.",Arm-Hand Steadiness,1,0
+3221,"Packers and Packagers, Hand","Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.",Static Strength,1,0
+3217,"Packers and Packagers, Hand",Load materials and products into package processing equipment.,Static Strength,2,0
+3217,"Packers and Packagers, Hand",Load materials and products into package processing equipment.,Manual Dexterity,2,0
+3217,"Packers and Packagers, Hand",Load materials and products into package processing equipment.,Multilimb Coordination,1,0
+3220,"Packers and Packagers, Hand",Transport packages to customers' vehicles.,Static Strength,2,0
+3220,"Packers and Packagers, Hand",Transport packages to customers' vehicles.,Dynamic Strength,1,0
+3220,"Packers and Packagers, Hand",Transport packages to customers' vehicles.,Stamina,1,0
+3220,"Packers and Packagers, Hand",Transport packages to customers' vehicles.,Gross Body Coordination,1,0
+23871,Stockers and Order Fillers,Complete order receipts.,Written Expression,2,0
+23871,Stockers and Order Fillers,Complete order receipts.,Near Vision,1,0
+23871,Stockers and Order Fillers,Complete order receipts.,Information Ordering,1,0
+23877,Stockers and Order Fillers,Answer customers' questions about merchandise and advise customers on merchandise selection.,Oral Comprehension,3,0
+23877,Stockers and Order Fillers,Answer customers' questions about merchandise and advise customers on merchandise selection.,Oral Expression,3,0
+23877,Stockers and Order Fillers,Answer customers' questions about merchandise and advise customers on merchandise selection.,Speech Recognition,1,0
+23877,Stockers and Order Fillers,Answer customers' questions about merchandise and advise customers on merchandise selection.,Speech Clarity,1,0
+23886,Stockers and Order Fillers,"Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions.",Written Comprehension,2,0
+23886,Stockers and Order Fillers,"Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions.",Near Vision,1,0
+23886,Stockers and Order Fillers,"Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions.",Static Strength,1,0
+23886,Stockers and Order Fillers,"Issue or distribute materials, products, parts, and supplies to customers or coworkers, based on information from incoming requisitions.",Oral Comprehension,1,0
+23895,Stockers and Order Fillers,Keep records of out-going orders.,Written Expression,2,0
+23895,Stockers and Order Fillers,Keep records of out-going orders.,Information Ordering,1,0
+23895,Stockers and Order Fillers,Keep records of out-going orders.,Near Vision,1,0
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",Static Strength,2,0
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",Dynamic Strength,1,0
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",Manual Dexterity,1,0
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",Gross Body Coordination,1,0
+23880,Stockers and Order Fillers,"Stock shelves, racks, cases, bins, and tables with new or transferred merchandise.",Extent Flexibility,1,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Control Precision,3,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Multilimb Coordination,2,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Depth Perception,2,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Near Vision,1,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Reaction Time,1,0
+23899,Stockers and Order Fillers,Operate equipment such as forklifts.,Response Orientation,1,0
+23879,Stockers and Order Fillers,"Stamp, attach, or change price tags on merchandise, referring to price list.",Manual Dexterity,2,0
+23879,Stockers and Order Fillers,"Stamp, attach, or change price tags on merchandise, referring to price list.",Near Vision,2,0
+23879,Stockers and Order Fillers,"Stamp, attach, or change price tags on merchandise, referring to price list.",Finger Dexterity,1,0
+23872,Stockers and Order Fillers,Obtain merchandise from bins or shelves.,Static Strength,1,0
+23872,Stockers and Order Fillers,Obtain merchandise from bins or shelves.,Manual Dexterity,1,0
+23872,Stockers and Order Fillers,Obtain merchandise from bins or shelves.,Near Vision,1,0
+23872,Stockers and Order Fillers,Obtain merchandise from bins or shelves.,Extent Flexibility,1,0
+23878,Stockers and Order Fillers,"Receive and count stock items, and record data manually or on computer.",Number Facility,2,0
+23878,Stockers and Order Fillers,"Receive and count stock items, and record data manually or on computer.",Near Vision,1,0
+23878,Stockers and Order Fillers,"Receive and count stock items, and record data manually or on computer.",Written Expression,1,0
+23878,Stockers and Order Fillers,"Receive and count stock items, and record data manually or on computer.",Perceptual Speed,1,0
+23873,Stockers and Order Fillers,"Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise.",Near Vision,2,0
+23873,Stockers and Order Fillers,"Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise.",Written Comprehension,2,0
+23873,Stockers and Order Fillers,"Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise.",Visual Color Discrimination,1,0
+23873,Stockers and Order Fillers,"Read orders to ascertain catalog numbers, sizes, colors, and quantities of merchandise.",Perceptual Speed,1,0
+23900,Stockers and Order Fillers,"Receive, unload, open, unpack, or issue sales floor merchandise.",Static Strength,2,0
+23900,Stockers and Order Fillers,"Receive, unload, open, unpack, or issue sales floor merchandise.",Manual Dexterity,1,0
+23900,Stockers and Order Fillers,"Receive, unload, open, unpack, or issue sales floor merchandise.",Dynamic Strength,1,0
+23890,Stockers and Order Fillers,Pack customer purchases in bags or cartons.,Manual Dexterity,2,0
+23890,Stockers and Order Fillers,Pack customer purchases in bags or cartons.,Finger Dexterity,1,0
+23890,Stockers and Order Fillers,Pack customer purchases in bags or cartons.,Static Strength,1,0
+23875,Stockers and Order Fillers,"Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas.",Static Strength,2,0
+23875,Stockers and Order Fillers,"Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas.",Spatial Orientation,1,0
+23875,Stockers and Order Fillers,"Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas.",Manual Dexterity,1,0
+23875,Stockers and Order Fillers,"Store items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas.",Gross Body Coordination,1,0
+23884,Stockers and Order Fillers,"Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment.",Manual Dexterity,2,0
+23884,Stockers and Order Fillers,"Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment.",Near Vision,2,0
+23884,Stockers and Order Fillers,"Mark stock items, using identification tags, stamps, electric marking tools, or other labeling equipment.",Finger Dexterity,1,0
+23874,Stockers and Order Fillers,"Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards.",Static Strength,2,0
+23874,Stockers and Order Fillers,"Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards.",Manual Dexterity,1,0
+23874,Stockers and Order Fillers,"Pack and unpack items to be stocked on shelves in stockrooms, warehouses, or storage yards.",Dynamic Strength,1,0
+23885,Stockers and Order Fillers,Take inventory or examine merchandise to identify items to be reordered or replenished.,Near Vision,2,0
+23885,Stockers and Order Fillers,Take inventory or examine merchandise to identify items to be reordered or replenished.,Selective Attention,1,0
+23885,Stockers and Order Fillers,Take inventory or examine merchandise to identify items to be reordered or replenished.,Memorization,1,0
+23885,Stockers and Order Fillers,Take inventory or examine merchandise to identify items to be reordered or replenished.,Perceptual Speed,1,0
+23888,Stockers and Order Fillers,"Clean display cases, shelves, and aisles.",Manual Dexterity,1,0
+23888,Stockers and Order Fillers,"Clean display cases, shelves, and aisles.",Static Strength,1,0
+23888,Stockers and Order Fillers,"Clean display cases, shelves, and aisles.",Stamina,1,0
+23894,Stockers and Order Fillers,Keep records on the use or damage of stock or stock-handling equipment.,Written Expression,2,0
+23894,Stockers and Order Fillers,Keep records on the use or damage of stock or stock-handling equipment.,Near Vision,1,0
+23894,Stockers and Order Fillers,Keep records on the use or damage of stock or stock-handling equipment.,Information Ordering,1,0
+23892,Stockers and Order Fillers,"Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations.",Manual Dexterity,1,0
+23892,Stockers and Order Fillers,"Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations.",Static Strength,1,0
+23892,Stockers and Order Fillers,"Clean and maintain supplies, tools, equipment, and storage areas to ensure compliance with safety regulations.",Near Vision,1,0
+23898,Stockers and Order Fillers,"Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities.",Deductive Reasoning,2,0
+23898,Stockers and Order Fillers,"Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities.",Spatial Orientation,2,1
+23898,Stockers and Order Fillers,"Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities.",Problem Sensitivity,1,0
+23898,Stockers and Order Fillers,"Determine proper storage methods, identification, and stock location, based on turnover, environmental factors, and physical capabilities of facilities.",Written Comprehension,1,0
+23891,Stockers and Order Fillers,"Dispose of damaged or defective items, or return them to vendors.",Static Strength,1,0
+23891,Stockers and Order Fillers,"Dispose of damaged or defective items, or return them to vendors.",Manual Dexterity,1,0
+23891,Stockers and Order Fillers,"Dispose of damaged or defective items, or return them to vendors.",Near Vision,1,0
+23893,Stockers and Order Fillers,"Recommend disposal of excess, defective, or obsolete stock.",Deductive Reasoning,2,1
+23893,Stockers and Order Fillers,"Recommend disposal of excess, defective, or obsolete stock.",Written Expression,1,0
+23893,Stockers and Order Fillers,"Recommend disposal of excess, defective, or obsolete stock.",Oral Expression,1,0
+23889,Stockers and Order Fillers,"Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales.",Originality,2,1
+23889,Stockers and Order Fillers,"Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales.",Visualization,2,0
+23889,Stockers and Order Fillers,"Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales.",Manual Dexterity,1,0
+23889,Stockers and Order Fillers,"Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales.",Near Vision,1,0
+23887,Stockers and Order Fillers,"Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",Oral Expression,2,0
+23887,Stockers and Order Fillers,"Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",Oral Comprehension,1,0
+23887,Stockers and Order Fillers,"Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",Deductive Reasoning,1,1
+23876,Stockers and Order Fillers,"Examine and inspect stock items for wear or defects, reporting any damage to supervisors.",Near Vision,3,0
+23876,Stockers and Order Fillers,"Examine and inspect stock items for wear or defects, reporting any damage to supervisors.",Selective Attention,2,0
+23876,Stockers and Order Fillers,"Examine and inspect stock items for wear or defects, reporting any damage to supervisors.",Problem Sensitivity,1,0
+23876,Stockers and Order Fillers,"Examine and inspect stock items for wear or defects, reporting any damage to supervisors.",Oral Expression,1,0
+23896,Stockers and Order Fillers,Compute prices of items or groups of items.,Number Facility,3,0
+23896,Stockers and Order Fillers,Compute prices of items or groups of items.,Mathematical Reasoning,2,0
+23896,Stockers and Order Fillers,Compute prices of items or groups of items.,Perceptual Speed,1,0
+23882,Stockers and Order Fillers,"Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases.",Number Facility,2,0
+23882,Stockers and Order Fillers,"Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases.",Finger Dexterity,1,0
+23882,Stockers and Order Fillers,"Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases.",Near Vision,1,0
+23882,Stockers and Order Fillers,"Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases.",Perceptual Speed,1,0
+23897,Stockers and Order Fillers,"Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials.",Deductive Reasoning,2,0
+23897,Stockers and Order Fillers,"Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials.",Written Expression,1,0
+23897,Stockers and Order Fillers,"Requisition merchandise from supplier, based on available space, merchandise on hand, customer demand, or advertised specials.",Number Facility,1,0
+23881,Stockers and Order Fillers,Compare merchandise invoices to items actually received to ensure that shipments are correct.,Near Vision,2,0
+23881,Stockers and Order Fillers,Compare merchandise invoices to items actually received to ensure that shipments are correct.,Perceptual Speed,2,0
+23881,Stockers and Order Fillers,Compare merchandise invoices to items actually received to ensure that shipments are correct.,Selective Attention,1,0
+23881,Stockers and Order Fillers,Compare merchandise invoices to items actually received to ensure that shipments are correct.,Number Facility,1,0
+23883,Stockers and Order Fillers,Transport packages to customers' vehicles.,Static Strength,2,0
+23883,Stockers and Order Fillers,Transport packages to customers' vehicles.,Dynamic Strength,1,0
+23883,Stockers and Order Fillers,Transport packages to customers' vehicles.,Stamina,1,0
+23883,Stockers and Order Fillers,Transport packages to customers' vehicles.,Gross Body Coordination,1,0
+14596,Gas Compressor and Gas Pumping Station Operators,"Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures.",Near Vision,3,0
+14596,Gas Compressor and Gas Pumping Station Operators,"Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures.",Selective Attention,2,0
+14596,Gas Compressor and Gas Pumping Station Operators,"Monitor meters and pressure gauges to determine consumption rate variations, temperatures, and pressures.",Perceptual Speed,1,0
+14603,Gas Compressor and Gas Pumping Station Operators,Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas.,Problem Sensitivity,2,0
+14603,Gas Compressor and Gas Pumping Station Operators,Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas.,Deductive Reasoning,2,1
+14603,Gas Compressor and Gas Pumping Station Operators,Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas.,Oral Expression,1,0
+14603,Gas Compressor and Gas Pumping Station Operators,Respond to problems by adjusting control room equipment or instructing other personnel to adjust equipment at problem locations or in other control areas.,Control Precision,1,0
+14600,Gas Compressor and Gas Pumping Station Operators,Record instrument readings and operational changes in operating logs.,Written Expression,2,0
+14600,Gas Compressor and Gas Pumping Station Operators,Record instrument readings and operational changes in operating logs.,Near Vision,1,0
+14600,Gas Compressor and Gas Pumping Station Operators,Record instrument readings and operational changes in operating logs.,Information Ordering,1,0
+14597,Gas Compressor and Gas Pumping Station Operators,Adjust valves and equipment to obtain specified performance.,Control Precision,2,0
+14597,Gas Compressor and Gas Pumping Station Operators,Adjust valves and equipment to obtain specified performance.,Manual Dexterity,1,0
+14597,Gas Compressor and Gas Pumping Station Operators,Adjust valves and equipment to obtain specified performance.,Arm-Hand Steadiness,1,0
+14601,Gas Compressor and Gas Pumping Station Operators,"Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment.",Control Precision,2,0
+14601,Gas Compressor and Gas Pumping Station Operators,"Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment.",Manual Dexterity,1,0
+14601,Gas Compressor and Gas Pumping Station Operators,"Move controls and turn valves to start compressor engines, pumps, and auxiliary equipment.",Multilimb Coordination,1,0
+14599,Gas Compressor and Gas Pumping Station Operators,"Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",Control Precision,2,0
+14599,Gas Compressor and Gas Pumping Station Operators,"Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",Multilimb Coordination,1,0
+14599,Gas Compressor and Gas Pumping Station Operators,"Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",Near Vision,1,0
+14606,Gas Compressor and Gas Pumping Station Operators,Submit daily reports on facility operations.,Written Expression,2,0
+14606,Gas Compressor and Gas Pumping Station Operators,Submit daily reports on facility operations.,Information Ordering,1,0
+14606,Gas Compressor and Gas Pumping Station Operators,Submit daily reports on facility operations.,Written Comprehension,1,0
+14604,Gas Compressor and Gas Pumping Station Operators,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",Manual Dexterity,2,0
+14604,Gas Compressor and Gas Pumping Station Operators,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",Near Vision,1,0
+14604,Gas Compressor and Gas Pumping Station Operators,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",Deductive Reasoning,1,0
+14604,Gas Compressor and Gas Pumping Station Operators,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",Arm-Hand Steadiness,1,0
+14598,Gas Compressor and Gas Pumping Station Operators,"Read gas meters, and maintain records of the amounts of gas received and dispensed from holders.",Near Vision,2,0
+14598,Gas Compressor and Gas Pumping Station Operators,"Read gas meters, and maintain records of the amounts of gas received and dispensed from holders.",Written Expression,1,0
+14598,Gas Compressor and Gas Pumping Station Operators,"Read gas meters, and maintain records of the amounts of gas received and dispensed from holders.",Number Facility,1,0
+14602,Gas Compressor and Gas Pumping Station Operators,Turn knobs or switches to regulate pressures.,Control Precision,2,0
+14602,Gas Compressor and Gas Pumping Station Operators,Turn knobs or switches to regulate pressures.,Finger Dexterity,1,0
+14602,Gas Compressor and Gas Pumping Station Operators,Turn knobs or switches to regulate pressures.,Arm-Hand Steadiness,1,0
+14605,Gas Compressor and Gas Pumping Station Operators,"Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools.",Manual Dexterity,2,0
+14605,Gas Compressor and Gas Pumping Station Operators,"Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools.",Static Strength,1,0
+14605,Gas Compressor and Gas Pumping Station Operators,"Clean, lubricate, and adjust equipment, and replace filters and gaskets, using hand tools.",Arm-Hand Steadiness,1,0
+14608,Gas Compressor and Gas Pumping Station Operators,"Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",Manual Dexterity,1,0
+14608,Gas Compressor and Gas Pumping Station Operators,"Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",Static Strength,1,0
+14608,Gas Compressor and Gas Pumping Station Operators,"Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",Stamina,1,0
+14607,Gas Compressor and Gas Pumping Station Operators,Connect pipelines between pumps and containers that are being filled or emptied.,Manual Dexterity,2,0
+14607,Gas Compressor and Gas Pumping Station Operators,Connect pipelines between pumps and containers that are being filled or emptied.,Static Strength,1,0
+14607,Gas Compressor and Gas Pumping Station Operators,Connect pipelines between pumps and containers that are being filled or emptied.,Control Precision,1,0
+14607,Gas Compressor and Gas Pumping Station Operators,Connect pipelines between pumps and containers that are being filled or emptied.,Arm-Hand Steadiness,1,0
+14609,"Pump Operators, Except Wellhead Pumpers","Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary.",Near Vision,3,0
+14609,"Pump Operators, Except Wellhead Pumpers","Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary.",Selective Attention,2,0
+14609,"Pump Operators, Except Wellhead Pumpers","Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary.",Problem Sensitivity,1,0
+14610,"Pump Operators, Except Wellhead Pumpers","Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times.",Written Expression,2,0
+14610,"Pump Operators, Except Wellhead Pumpers","Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times.",Near Vision,1,0
+14610,"Pump Operators, Except Wellhead Pumpers","Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times.",Number Facility,1,0
+14614,"Pump Operators, Except Wellhead Pumpers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage.",Deductive Reasoning,3,0
+14614,"Pump Operators, Except Wellhead Pumpers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage.",Spatial Orientation,2,0
+14614,"Pump Operators, Except Wellhead Pumpers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage.",Visualization,2,1
+14613,"Pump Operators, Except Wellhead Pumpers","Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials.",Control Precision,2,0
+14613,"Pump Operators, Except Wellhead Pumpers","Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials.",Manual Dexterity,1,0
+14613,"Pump Operators, Except Wellhead Pumpers","Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials.",Arm-Hand Steadiness,1,0
+14611,"Pump Operators, Except Wellhead Pumpers","Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances.",Oral Expression,2,0
+14611,"Pump Operators, Except Wellhead Pumpers","Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances.",Oral Comprehension,2,0
+14611,"Pump Operators, Except Wellhead Pumpers","Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances.",Speech Clarity,1,0
+14618,"Pump Operators, Except Wellhead Pumpers","Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools.",Manual Dexterity,2,0
+14618,"Pump Operators, Except Wellhead Pumpers","Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools.",Static Strength,1,0
+14618,"Pump Operators, Except Wellhead Pumpers","Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools.",Arm-Hand Steadiness,1,0
+14612,"Pump Operators, Except Wellhead Pumpers","Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts.",Near Vision,2,0
+14612,"Pump Operators, Except Wellhead Pumpers","Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts.",Selective Attention,1,0
+14612,"Pump Operators, Except Wellhead Pumpers","Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts.",Depth Perception,1,0
+14616,"Pump Operators, Except Wellhead Pumpers","Clean, lubricate, and repair pumps and vessels, using hand tools and equipment.",Manual Dexterity,2,0
+14616,"Pump Operators, Except Wellhead Pumpers","Clean, lubricate, and repair pumps and vessels, using hand tools and equipment.",Static Strength,1,0
+14616,"Pump Operators, Except Wellhead Pumpers","Clean, lubricate, and repair pumps and vessels, using hand tools and equipment.",Arm-Hand Steadiness,1,0
+14615,"Pump Operators, Except Wellhead Pumpers",Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped.,Written Comprehension,2,0
+14615,"Pump Operators, Except Wellhead Pumpers",Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped.,Oral Comprehension,2,0
+14615,"Pump Operators, Except Wellhead Pumpers",Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped.,Number Facility,1,0
+14622,"Pump Operators, Except Wellhead Pumpers","Test materials and solutions, using testing equipment.",Manual Dexterity,1,0
+14622,"Pump Operators, Except Wellhead Pumpers","Test materials and solutions, using testing equipment.",Near Vision,1,0
+14622,"Pump Operators, Except Wellhead Pumpers","Test materials and solutions, using testing equipment.",Deductive Reasoning,1,0
+14619,"Pump Operators, Except Wellhead Pumpers","Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers.",Near Vision,1,0
+14619,"Pump Operators, Except Wellhead Pumpers","Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers.",Control Precision,1,0
+14619,"Pump Operators, Except Wellhead Pumpers","Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers.",Selective Attention,1,0
+14620,"Pump Operators, Except Wellhead Pumpers",Add chemicals and solutions to tanks to ensure that specifications are met.,Manual Dexterity,2,0
+14620,"Pump Operators, Except Wellhead Pumpers",Add chemicals and solutions to tanks to ensure that specifications are met.,Control Precision,1,0
+14620,"Pump Operators, Except Wellhead Pumpers",Add chemicals and solutions to tanks to ensure that specifications are met.,Near Vision,1,0
+14620,"Pump Operators, Except Wellhead Pumpers",Add chemicals and solutions to tanks to ensure that specifications are met.,Arm-Hand Steadiness,1,0
+14617,"Pump Operators, Except Wellhead Pumpers",Collect and deliver sample solutions for laboratory analysis.,Manual Dexterity,1,0
+14617,"Pump Operators, Except Wellhead Pumpers",Collect and deliver sample solutions for laboratory analysis.,Near Vision,1,0
+14617,"Pump Operators, Except Wellhead Pumpers",Collect and deliver sample solutions for laboratory analysis.,Static Strength,1,0
+14621,"Pump Operators, Except Wellhead Pumpers",Pump two or more materials into one tank to blend mixtures.,Control Precision,2,0
+14621,"Pump Operators, Except Wellhead Pumpers",Pump two or more materials into one tank to blend mixtures.,Rate Control,1,0
+14621,"Pump Operators, Except Wellhead Pumpers",Pump two or more materials into one tank to blend mixtures.,Near Vision,1,0
+21159,Wellhead Pumpers,Monitor pumps and flow lines for gas and fluid leaks.,Near Vision,2,0
+21159,Wellhead Pumpers,Monitor pumps and flow lines for gas and fluid leaks.,Selective Attention,2,0
+21159,Wellhead Pumpers,Monitor pumps and flow lines for gas and fluid leaks.,Problem Sensitivity,1,0
+21160,Wellhead Pumpers,Gauge oil and gas production.,Near Vision,2,0
+21160,Wellhead Pumpers,Gauge oil and gas production.,Number Facility,1,0
+21160,Wellhead Pumpers,Gauge oil and gas production.,Perceptual Speed,1,0
+5019,Wellhead Pumpers,Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil.,Control Precision,2,0
+5019,Wellhead Pumpers,Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil.,Manual Dexterity,1,0
+5019,Wellhead Pumpers,Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil.,Multilimb Coordination,1,0
+5013,Wellhead Pumpers,"Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration.",Near Vision,2,0
+5013,Wellhead Pumpers,"Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration.",Selective Attention,2,0
+5013,Wellhead Pumpers,"Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration.",Rate Control,1,0
+5014,Wellhead Pumpers,"Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks.",Control Precision,2,0
+5014,Wellhead Pumpers,"Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks.",Multilimb Coordination,1,0
+5014,Wellhead Pumpers,"Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks.",Near Vision,1,0
+5016,Wellhead Pumpers,Repair gas and oil meters and gauges.,Manual Dexterity,2,0
+5016,Wellhead Pumpers,Repair gas and oil meters and gauges.,Finger Dexterity,1,0
+5016,Wellhead Pumpers,Repair gas and oil meters and gauges.,Near Vision,1,0
+5016,Wellhead Pumpers,Repair gas and oil meters and gauges.,Arm-Hand Steadiness,1,0
+5015,Wellhead Pumpers,Perform routine maintenance on vehicles and equipment.,Manual Dexterity,2,0
+5015,Wellhead Pumpers,Perform routine maintenance on vehicles and equipment.,Static Strength,1,0
+5015,Wellhead Pumpers,Perform routine maintenance on vehicles and equipment.,Arm-Hand Steadiness,1,0
+5020,Wellhead Pumpers,Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface.,Control Precision,2,0
+5020,Wellhead Pumpers,Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface.,Manual Dexterity,1,0
+5020,Wellhead Pumpers,Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface.,Static Strength,1,0
+21161,Wellhead Pumpers,Change water filters.,Manual Dexterity,2,0
+21161,Wellhead Pumpers,Change water filters.,Static Strength,1,0
+21161,Wellhead Pumpers,Change water filters.,Finger Dexterity,1,0
+5023,Wellhead Pumpers,Prepare trucks and equipment necessary for the type of pumping service required.,Manual Dexterity,1,0
+5023,Wellhead Pumpers,Prepare trucks and equipment necessary for the type of pumping service required.,Static Strength,1,0
+5023,Wellhead Pumpers,Prepare trucks and equipment necessary for the type of pumping service required.,Near Vision,1,0
+5018,Wellhead Pumpers,Attach pumps and hoses to wellheads.,Manual Dexterity,2,0
+5018,Wellhead Pumpers,Attach pumps and hoses to wellheads.,Static Strength,2,0
+5018,Wellhead Pumpers,Attach pumps and hoses to wellheads.,Arm-Hand Steadiness,1,0
+5025,Wellhead Pumpers,"Mix acids, chemicals, or dry cement as required for a specific job.",Manual Dexterity,2,0
+5025,Wellhead Pumpers,"Mix acids, chemicals, or dry cement as required for a specific job.",Static Strength,1,0
+5025,Wellhead Pumpers,"Mix acids, chemicals, or dry cement as required for a specific job.",Near Vision,1,0
+5017,Wellhead Pumpers,"Unload and assemble pipes and pumping equipment, using hand tools.",Static Strength,2,0
+5017,Wellhead Pumpers,"Unload and assemble pipes and pumping equipment, using hand tools.",Manual Dexterity,2,0
+5017,Wellhead Pumpers,"Unload and assemble pipes and pumping equipment, using hand tools.",Dynamic Strength,1,0
+5017,Wellhead Pumpers,"Unload and assemble pipes and pumping equipment, using hand tools.",Multilimb Coordination,1,0
+5021,Wellhead Pumpers,Supervise oil pumpers and other workers engaged in producing oil from wells.,Oral Expression,2,0
+5021,Wellhead Pumpers,Supervise oil pumpers and other workers engaged in producing oil from wells.,Oral Comprehension,1,0
+5021,Wellhead Pumpers,Supervise oil pumpers and other workers engaged in producing oil from wells.,Deductive Reasoning,1,1
+7170,Refuse and Recyclable Material Collectors,Inspect trucks prior to beginning routes to ensure safe operating condition.,Near Vision,2,0
+7170,Refuse and Recyclable Material Collectors,Inspect trucks prior to beginning routes to ensure safe operating condition.,Problem Sensitivity,1,0
+7170,Refuse and Recyclable Material Collectors,Inspect trucks prior to beginning routes to ensure safe operating condition.,Selective Attention,1,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Far Vision,3,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Control Precision,2,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Multilimb Coordination,2,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Depth Perception,2,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Reaction Time,2,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Response Orientation,1,0
+7174,Refuse and Recyclable Material Collectors,"Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.",Peripheral Vision,1,0
+7171,Refuse and Recyclable Material Collectors,"Refuel trucks or add other fluids, such as oil or brake fluid.",Manual Dexterity,1,0
+7171,Refuse and Recyclable Material Collectors,"Refuel trucks or add other fluids, such as oil or brake fluid.",Static Strength,1,0
+7171,Refuse and Recyclable Material Collectors,"Refuel trucks or add other fluids, such as oil or brake fluid.",Near Vision,1,0
+20313,Refuse and Recyclable Material Collectors,Dump refuse or recyclable materials at disposal sites.,Control Precision,1,0
+20313,Refuse and Recyclable Material Collectors,Dump refuse or recyclable materials at disposal sites.,Static Strength,1,0
+20313,Refuse and Recyclable Material Collectors,Dump refuse or recyclable materials at disposal sites.,Multilimb Coordination,1,0
+7172,Refuse and Recyclable Material Collectors,Fill out defective equipment reports.,Written Expression,2,0
+7172,Refuse and Recyclable Material Collectors,Fill out defective equipment reports.,Near Vision,1,0
+7172,Refuse and Recyclable Material Collectors,Fill out defective equipment reports.,Information Ordering,1,0
+7176,Refuse and Recyclable Material Collectors,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,Control Precision,2,0
+7176,Refuse and Recyclable Material Collectors,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,Multilimb Coordination,2,0
+7176,Refuse and Recyclable Material Collectors,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,Near Vision,1,0
+7176,Refuse and Recyclable Material Collectors,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,Depth Perception,1,0
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,Static Strength,2,0
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,Dynamic Strength,2,0
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,Gross Body Coordination,2,0
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,Stamina,2,0
+7177,Refuse and Recyclable Material Collectors,Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.,Gross Body Equilibrium,1,0
+7175,Refuse and Recyclable Material Collectors,Operate equipment that compresses collected refuse.,Control Precision,2,0
+7175,Refuse and Recyclable Material Collectors,Operate equipment that compresses collected refuse.,Multilimb Coordination,1,0
+7175,Refuse and Recyclable Material Collectors,Operate equipment that compresses collected refuse.,Reaction Time,1,0
+7178,Refuse and Recyclable Material Collectors,"Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems.",Oral Expression,2,0
+7178,Refuse and Recyclable Material Collectors,"Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems.",Oral Comprehension,2,0
+7178,Refuse and Recyclable Material Collectors,"Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems.",Speech Clarity,1,0
+7179,Refuse and Recyclable Material Collectors,Check road or weather conditions to determine how routes will be affected.,Near Vision,1,0
+7179,Refuse and Recyclable Material Collectors,Check road or weather conditions to determine how routes will be affected.,Problem Sensitivity,1,0
+7179,Refuse and Recyclable Material Collectors,Check road or weather conditions to determine how routes will be affected.,Deductive Reasoning,1,0
+7181,Refuse and Recyclable Material Collectors,Clean trucks or compactor bodies after routes have been completed.,Manual Dexterity,1,0
+7181,Refuse and Recyclable Material Collectors,Clean trucks or compactor bodies after routes have been completed.,Static Strength,2,0
+7181,Refuse and Recyclable Material Collectors,Clean trucks or compactor bodies after routes have been completed.,Stamina,1,0
+7180,Refuse and Recyclable Material Collectors,"Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted.",Manual Dexterity,1,0
+7180,Refuse and Recyclable Material Collectors,"Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted.",Near Vision,1,0
+7180,Refuse and Recyclable Material Collectors,"Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted.",Written Expression,1,0
+19932,Refuse and Recyclable Material Collectors,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",Static Strength,2,0
+19932,Refuse and Recyclable Material Collectors,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",Dynamic Strength,1,0
+19932,Refuse and Recyclable Material Collectors,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",Manual Dexterity,1,0
+7183,Refuse and Recyclable Material Collectors,Organize schedules for refuse collection.,Information Ordering,2,0
+7183,Refuse and Recyclable Material Collectors,Organize schedules for refuse collection.,Deductive Reasoning,1,0
+7183,Refuse and Recyclable Material Collectors,Organize schedules for refuse collection.,Written Expression,1,0
+12800,"Tank Car, Truck, and Ship Loaders","Seal outlet valves on tank cars, barges, and trucks.",Manual Dexterity,2,0
+12800,"Tank Car, Truck, and Ship Loaders","Seal outlet valves on tank cars, barges, and trucks.",Control Precision,1,0
+12800,"Tank Car, Truck, and Ship Loaders","Seal outlet valves on tank cars, barges, and trucks.",Arm-Hand Steadiness,1,0
+12792,"Tank Car, Truck, and Ship Loaders","Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.",Near Vision,2,0
+12792,"Tank Car, Truck, and Ship Loaders","Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.",Written Comprehension,1,0
+12792,"Tank Car, Truck, and Ship Loaders","Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.",Perceptual Speed,1,0
+12809,"Tank Car, Truck, and Ship Loaders","Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.",Control Precision,2,0
+12809,"Tank Car, Truck, and Ship Loaders","Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.",Manual Dexterity,1,0
+12809,"Tank Car, Truck, and Ship Loaders","Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.",Rate Control,1,0
+12797,"Tank Car, Truck, and Ship Loaders",Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.,Near Vision,2,0
+12797,"Tank Car, Truck, and Ship Loaders",Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.,Selective Attention,1,0
+12797,"Tank Car, Truck, and Ship Loaders",Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.,Problem Sensitivity,1,0
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",Control Precision,3,0
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",Rate Control,2,0
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",Near Vision,2,0
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",Reaction Time,2,0
+12793,"Tank Car, Truck, and Ship Loaders","Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.",Multilimb Coordination,1,0
+12795,"Tank Car, Truck, and Ship Loaders","Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.",Near Vision,2,0
+12795,"Tank Car, Truck, and Ship Loaders","Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.",Selective Attention,2,0
+12795,"Tank Car, Truck, and Ship Loaders","Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.",Oral Expression,1,0
+12794,"Tank Car, Truck, and Ship Loaders","Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",Control Precision,2,0
+12794,"Tank Car, Truck, and Ship Loaders","Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",Multilimb Coordination,2,0
+12794,"Tank Car, Truck, and Ship Loaders","Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",Near Vision,1,0
+12794,"Tank Car, Truck, and Ship Loaders","Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",Reaction Time,1,0
+12796,"Tank Car, Truck, and Ship Loaders","Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.",Written Expression,2,0
+12796,"Tank Car, Truck, and Ship Loaders","Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.",Near Vision,1,0
+12796,"Tank Car, Truck, and Ship Loaders","Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.",Number Facility,1,0
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",Control Precision,2,0
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",Multilimb Coordination,2,0
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",Depth Perception,2,0
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",Near Vision,1,0
+12798,"Tank Car, Truck, and Ship Loaders","Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",Reaction Time,1,0
+12799,"Tank Car, Truck, and Ship Loaders",Connect ground cables to carry off static electricity when unloading tanker cars.,Manual Dexterity,2,0
+12799,"Tank Car, Truck, and Ship Loaders",Connect ground cables to carry off static electricity when unloading tanker cars.,Arm-Hand Steadiness,1,0
+12799,"Tank Car, Truck, and Ship Loaders",Connect ground cables to carry off static electricity when unloading tanker cars.,Near Vision,1,0
+12808,"Tank Car, Truck, and Ship Loaders",Copy and attach load specifications to loaded tanks.,Near Vision,1,0
+12808,"Tank Car, Truck, and Ship Loaders",Copy and attach load specifications to loaded tanks.,Manual Dexterity,1,0
+12808,"Tank Car, Truck, and Ship Loaders",Copy and attach load specifications to loaded tanks.,Written Expression,1,0
+12802,"Tank Car, Truck, and Ship Loaders","Remove and replace tank car dome caps, or direct other workers in their removal and replacement.",Manual Dexterity,2,0
+12802,"Tank Car, Truck, and Ship Loaders","Remove and replace tank car dome caps, or direct other workers in their removal and replacement.",Static Strength,1,0
+12802,"Tank Car, Truck, and Ship Loaders","Remove and replace tank car dome caps, or direct other workers in their removal and replacement.",Arm-Hand Steadiness,1,0
+12802,"Tank Car, Truck, and Ship Loaders","Remove and replace tank car dome caps, or direct other workers in their removal and replacement.",Oral Expression,1,0

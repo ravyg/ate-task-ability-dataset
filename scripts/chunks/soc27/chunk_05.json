@@ -1,0 +1,782 @@
+[
+{
+"task_id": "18650",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Diagnose and resolve media system problems."
+},
+{
+"task_id": "3993",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Direct and coordinate activities of assistants and other personnel during production."
+},
+{
+"task_id": "3990",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Compress, digitize, duplicate, and store audio and video data."
+},
+{
+"task_id": "18649",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Install, adjust, and operate electronic equipment to record, edit, and transmit radio and television programs, motion pictures, video conferencing, or multimedia presentations."
+},
+{
+"task_id": "4002",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Control the lights and sound of events, such as live concerts, before and after performances, and during intermissions."
+},
+{
+"task_id": "3987",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Switch sources of video input from one camera or studio to another, from film to live programming, or from network to local programming."
+},
+{
+"task_id": "3997",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Record and edit audio material, such as movie soundtracks, using audio recording and editing equipment."
+},
+{
+"task_id": "3985",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Perform minor repairs and routine cleaning of audio and video equipment."
+},
+{
+"task_id": "3984",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Design layouts of audio and video equipment and perform upgrades and maintenance."
+},
+{
+"task_id": "4003",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Conduct training sessions on selection, use, and design of audio-visual materials and on operation of presentation equipment."
+},
+{
+"task_id": "3981",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Monitor incoming and outgoing pictures and sound feeds to ensure quality and notify directors of any possible problems."
+},
+{
+"task_id": "3982",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Mix and regulate sound inputs and feeds or coordinate audio feeds with television pictures."
+},
+{
+"task_id": "3989",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Construct and position properties, sets, lighting equipment, and other equipment."
+},
+{
+"task_id": "18651",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Reserve audio-visual equipment and facilities, such as meeting rooms."
+},
+{
+"task_id": "3996",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Determine formats, approaches, content, levels, and mediums to effectively meet objectives within budgetary constraints, using research, knowledge, and training."
+},
+{
+"task_id": "3992",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Edit videotapes by erasing and removing portions of programs and adding video or sound as required."
+},
+{
+"task_id": "3991",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Obtain, set up, and load videotapes for scheduled productions or broadcasts."
+},
+{
+"task_id": "4000",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Produce rough and finished graphics and graphic designs."
+},
+{
+"task_id": "4001",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Locate and secure settings, properties, effects, and other production necessities."
+},
+{
+"task_id": "3988",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Meet with directors and senior members of camera crews to discuss assignments and determine filming sequences, camera movements, and picture composition."
+},
+{
+"task_id": "3995",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Maintain inventories of audio and videotapes and related supplies."
+},
+{
+"task_id": "3999",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Obtain and preview musical performance programs prior to events to become familiar with the order and approximate times of pieces."
+},
+{
+"task_id": "4006",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Perform narration of productions or present announcements."
+},
+{
+"task_id": "3994",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Plan and develop pre-production ideas into outlines, scripts, story boards, and graphics, using own ideas or specifications of assignments."
+},
+{
+"task_id": "4004",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Organize and maintain compliance, license, and warranty information related to audio and video facilities."
+},
+{
+"task_id": "3998",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Inform users of audio and videotaping service policies and procedures."
+},
+{
+"task_id": "18652",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Analyze and maintain data logs for audio-visual activities."
+},
+{
+"task_id": "4005",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Develop manuals, texts, workbooks, or related materials for use in conjunction with production materials or for training."
+},
+{
+"task_id": "4014",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment when necessary and possible."
+},
+{
+"task_id": "18653",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Monitor and log transmitter readings."
+},
+{
+"task_id": "4007",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Maintain programming logs as required by station management and the Federal Communications Commission."
+},
+{
+"task_id": "4009",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary to maintain quality broadcasts."
+},
+{
+"task_id": "4011",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Observe monitors and converse with station personnel to determine audio and video levels and to ascertain that programs are airing."
+},
+{
+"task_id": "4012",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission."
+},
+{
+"task_id": "18654",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Play and record broadcast programs, using automation systems."
+},
+{
+"task_id": "18655",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Set up, operate, and maintain broadcast station computers and networks."
+},
+{
+"task_id": "4013",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Select sources from which programming will be received or through which programming will be transmitted."
+},
+{
+"task_id": "18656",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Install broadcast equipment, troubleshoot equipment problems, and perform maintenance or minor repairs, using hand tools."
+},
+{
+"task_id": "4017",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Substitute programs in cases where signals fail."
+},
+{
+"task_id": "4008",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Control audio equipment to regulate volume and sound quality during radio and television broadcasts."
+},
+{
+"task_id": "4026",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Design and modify equipment to employer specifications."
+},
+{
+"task_id": "4015",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Record sound onto tape or film for radio or television, checking its quality and making adjustments where necessary."
+},
+{
+"task_id": "4021",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Schedule programming or read television programming logs to determine which programs are to be recorded or aired."
+},
+{
+"task_id": "4022",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Edit broadcast material electronically, using computers."
+},
+{
+"task_id": "18658",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Develop employee work schedules."
+},
+{
+"task_id": "4020",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Instruct trainees in use of television production equipment, filming of events, and copying and editing graphics or sound onto videotape."
+},
+{
+"task_id": "4016",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from field locations."
+},
+{
+"task_id": "4010",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels."
+},
+{
+"task_id": "18657",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Make commercial dubs."
+},
+{
+"task_id": "4025",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Determine the number, type, and approximate location of microphones needed for best sound recording or transmission quality, and position them appropriately."
+},
+{
+"task_id": "4018",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Organize recording sessions and prepare areas, such as radio booths and television stations, for recording."
+},
+{
+"task_id": "4024",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Set up and operate portable field transmission equipment outside the studio."
+},
+{
+"task_id": "4023",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Give technical directions to other personnel during filming."
+},
+{
+"task_id": "4027",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Prepare reports outlining past and future programs, including content."
+},
+{
+"task_id": "4028",
+"soc": "27-4012.00",
+"occupation": "Broadcast Technicians",
+"task_text": "Discuss production requirements with clients."
+},
+{
+"task_id": "7720",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Confer with producers, performers, and others to determine and achieve the desired sound for a production, such as a musical recording or a film."
+},
+{
+"task_id": "7722",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Regulate volume level and sound quality during recording sessions, using control consoles."
+},
+{
+"task_id": "7727",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Record speech, music, and other sounds on recording media, using recording equipment."
+},
+{
+"task_id": "7729",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Separate instruments, vocals, and other sounds, and combine sounds during the mixing or postproduction stage."
+},
+{
+"task_id": "18662",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Set up, test, and adjust recording equipment for recording sessions and live performances."
+},
+{
+"task_id": "7724",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Report equipment problems and ensure that required repairs are made."
+},
+{
+"task_id": "7723",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Prepare for recording sessions by performing such activities as selecting and setting up microphones."
+},
+{
+"task_id": "7725",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Mix and edit voices, music, and taped sound effects for live performances and for prerecorded events, using sound mixing boards."
+},
+{
+"task_id": "7730",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Keep logs of recordings."
+},
+{
+"task_id": "18660",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Tear down equipment after event completion."
+},
+{
+"task_id": "7726",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Synchronize and equalize prerecorded dialogue, music, and sound effects with visual action of motion pictures or television productions, using control consoles."
+},
+{
+"task_id": "7728",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Reproduce and duplicate sound recordings from original recording media, using sound editing and duplication equipment."
+},
+{
+"task_id": "18661",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Convert video and audio recordings into digital formats for editing or archiving."
+},
+{
+"task_id": "7731",
+"soc": "27-4014.00",
+"occupation": "Sound Engineering Technicians",
+"task_text": "Create musical instrument digital interface programs for music projects, commercials, or film postproduction."
+},
+{
+"task_id": "22673",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Assess safety of wiring or equipment set-up to determine the risk of fire or electrical shock."
+},
+{
+"task_id": "22674",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Consult with lighting director or production staff to determine lighting requirements."
+},
+{
+"task_id": "22675",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Disassemble and store equipment after performances."
+},
+{
+"task_id": "22676",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Install color effects or image patterns, such as color filters, onto lighting fixtures."
+},
+{
+"task_id": "22677",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Install electrical cables or wire fixtures."
+},
+{
+"task_id": "22678",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Load, unload, or position lighting equipment."
+},
+{
+"task_id": "22679",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Match light fixture settings, such as brightness and color, to lighting design plans."
+},
+{
+"task_id": "22680",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Notify supervisors when major lighting equipment repairs are needed."
+},
+{
+"task_id": "22681",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Operate manual or automated systems to control lighting throughout productions."
+},
+{
+"task_id": "22682",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Patch or wire lights to dimmers or other electronic consoles."
+},
+{
+"task_id": "22683",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Perform minor repairs or routine maintenance on lighting equipment, such as replacing lamps or damaged color filters."
+},
+{
+"task_id": "22684",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Program lighting consoles or load automated lighting control systems onto consoles."
+},
+{
+"task_id": "22685",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Set up and focus light fixtures to meet requirements of television, theater, concerts, or other productions."
+},
+{
+"task_id": "22686",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Set up scaffolding or cranes to assist with setting up of lighting equipment."
+},
+{
+"task_id": "22687",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Test lighting equipment function and desired lighting effects."
+},
+{
+"task_id": "22688",
+"soc": "27-4015.00",
+"occupation": "Lighting Technicians",
+"task_text": "Visit and assess structural and electrical layout of locations before setting up lighting equipment."
+},
+{
+"task_id": "9344",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, film type, and film speed."
+},
+{
+"task_id": "9346",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Create artificial light, using flashes and reflectors."
+},
+{
+"task_id": "9347",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Determine desired images and picture composition, selecting and adjusting subjects, equipment, and lighting to achieve desired effects."
+},
+{
+"task_id": "20558",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Transfer photographs to computers for editing, archiving, and electronic transmission."
+},
+{
+"task_id": "9345",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Use traditional or digital cameras, along with a variety of equipment, such as tripods, filters, and flash attachments."
+},
+{
+"task_id": "9352",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software."
+},
+{
+"task_id": "9343",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Take pictures of individuals, families, and small groups, either in studio or on location."
+},
+{
+"task_id": "9357",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques."
+},
+{
+"task_id": "9349",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Test equipment prior to use to ensure that it is in good working order."
+},
+{
+"task_id": "9351",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Estimate or measure light levels, distances, and numbers of exposures needed, using measuring devices and formulas."
+},
+{
+"task_id": "9354",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Perform general office duties, such as scheduling appointments, keeping books, and ordering supplies."
+},
+{
+"task_id": "9350",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Review sets of photographs to select the best work."
+},
+{
+"task_id": "9358",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Set up, mount, or install photographic equipment and cameras."
+},
+{
+"task_id": "9355",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Determine project goals, locations, and equipment needs by studying assignments and consulting with clients or advertising staff."
+},
+{
+"task_id": "9353",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Perform maintenance tasks necessary to keep equipment working properly."
+},
+{
+"task_id": "9356",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Select and assemble equipment and required background properties, according to subjects, materials, and conditions."
+},
+{
+"task_id": "9361",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Direct activities of workers setting up photographic equipment."
+},
+{
+"task_id": "9363",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Engage in research to develop new photographic procedures and materials."
+},
+{
+"task_id": "9368",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Mount, frame, laminate, or lacquer finished photographs."
+},
+{
+"task_id": "20561",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Send film to photofinishing laboratories for processing."
+},
+{
+"task_id": "9366",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Develop visual aids and charts for use in lectures or to present evidence in court."
+},
+{
+"task_id": "9365",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Load and unload film."
+},
+{
+"task_id": "20560",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Write photograph captions."
+},
+{
+"task_id": "9364",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Set up photographic exhibitions for the purpose of displaying and selling work."
+},
+{
+"task_id": "9360",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Produce computer-readable, digital images from film, using flatbed scanners and photofinishing laboratories."
+},
+{
+"task_id": "9362",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Employ a variety of specialized photographic materials and techniques, including infrared and ultraviolet films, macro photography, photogrammetry and sensitometry."
+},
+{
+"task_id": "9367",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "License the use of photographs through stock photo agencies."
+},
+{
+"task_id": "20559",
+"soc": "27-4021.00",
+"occupation": "Photographers",
+"task_text": "Develop and print exposed film, using chemicals, touch-up tools, and developing and printing equipment."
+},
+{
+"task_id": "4031",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Compose and frame each shot, applying the technical aspects of light, lenses, film, filters, and camera settings to achieve the effects sought by directors."
+},
+{
+"task_id": "4030",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Operate television or motion picture cameras to record scenes for television broadcasts, advertising, or motion pictures."
+},
+{
+"task_id": "4035",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Adjust positions and controls of cameras, printers, and related equipment to change focus, exposure, and lighting."
+},
+{
+"task_id": "4037",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Confer with directors, sound and lighting technicians, electricians, and other crew members to discuss assignments and determine filming sequences, desired effects, camera movements, and lighting requirements."
+},
+{
+"task_id": "4032",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Operate zoom lenses, changing images according to specifications and rehearsal instructions."
+},
+{
+"task_id": "4038",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Observe sets or locations for potential problems and to determine filming and lighting requirements."
+},
+{
+"task_id": "18664",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Set up and perform live shots for broadcast."
+},
+{
+"task_id": "4033",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Use cameras in any of several different camera mounts, such as stationary, track-mounted, or crane-mounted."
+},
+{
+"task_id": "18666",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Test, clean, maintain, and repair broadcast equipment, including testing microphones, to ensure proper working condition."
+},
+{
+"task_id": "18663",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Edit video for broadcast productions, including non-linear editing."
+},
+{
+"task_id": "4039",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Instruct camera operators regarding camera setups, angles, distances, movement, and variables and cues for starting and stopping filming."
+},
+{
+"task_id": "18665",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Assemble studio sets and select and arrange cameras, film stock, audio, or lighting equipment to be used during filming."
+},
+{
+"task_id": "4046",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Read and analyze work orders and specifications to determine locations of subject material, work procedures, sequences of operations, and machine setups."
+},
+{
+"task_id": "4044",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "View films to resolve problems of exposure control, subject and camera movement, changes in subject distance, and related variables."
+},
+{
+"task_id": "18669",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Direct studio productions."
+},
+{
+"task_id": "4043",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Set up cameras, optical printers, and related equipment to produce photographs and special effects."
+},
+{
+"task_id": "4042",
+"soc": "27-4031.00",
+"occupation": "Camera Operators, Television, Video, and Film",
+"task_text": "Read charts and compute ratios to determine variables such as lighting, shutter angles, filter factors, and camera distances."
+}
+]

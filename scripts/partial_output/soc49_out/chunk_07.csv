@@ -1,0 +1,452 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Dynamic Strength,3,0
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Stamina,3,0
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Gross Body Coordination,2,0
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Gross Body Equilibrium,2,0
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Depth Perception,2,0
+13870,Commercial Divers,"Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.",Problem Sensitivity,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Dynamic Strength,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Stamina,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Manual Dexterity,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Gross Body Coordination,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Depth Perception,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Problem Sensitivity,2,0
+13875,Commercial Divers,"Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.",Near Vision,1,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Control Precision,3,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Manual Dexterity,2,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Arm-Hand Steadiness,2,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Static Strength,2,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Depth Perception,2,0
+13873,Commercial Divers,Drill holes in rock and rig explosives for underwater demolitions.,Selective Attention,2,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Dynamic Strength,2,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Stamina,2,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Manual Dexterity,1,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Gross Body Coordination,2,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Near Vision,1,0
+13874,Commercial Divers,Remove rubbish or pollution from the sea.,Depth Perception,1,0
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",Manual Dexterity,3,0
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",Finger Dexterity,3,0
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",Near Vision,2,0
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",Control Precision,2,0
+18789,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using impressions or code key machines.",Arm-Hand Steadiness,1,0
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,Finger Dexterity,3,0
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,Manual Dexterity,2,0
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,Near Vision,2,0
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,Arm-Hand Steadiness,2,0
+7126,Locksmiths and Safe Repairers,Insert new or repaired tumblers into locks to change combinations.,Control Precision,1,0
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,Finger Dexterity,3,0
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,Arm-Hand Steadiness,3,0
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,Control Precision,2,0
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,Selective Attention,2,1
+7127,Locksmiths and Safe Repairers,Move picklocks in cylinders to open door locks without keys.,Near Vision,1,0
+7124,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using key cutting machines.",Manual Dexterity,3,0
+7124,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using key cutting machines.",Finger Dexterity,2,0
+7124,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using key cutting machines.",Near Vision,2,0
+7124,Locksmiths and Safe Repairers,"Cut new or duplicate keys, using key cutting machines.",Control Precision,2,0
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,Control Precision,3,0
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,Arm-Hand Steadiness,2,0
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,Manual Dexterity,2,0
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,Near Vision,2,0
+7131,Locksmiths and Safe Repairers,Open safe locks by drilling.,Problem Sensitivity,2,0
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,Deductive Reasoning,3,0
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,Information Ordering,2,0
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,Written Comprehension,1,0
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,Manual Dexterity,1,0
+18790,Locksmiths and Safe Repairers,Set up and maintain master key systems.,Near Vision,1,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Manual Dexterity,3,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Finger Dexterity,2,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Arm-Hand Steadiness,2,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Static Strength,1,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Near Vision,1,0
+18791,Locksmiths and Safe Repairers,"Install door hardware, such as locks and closers.",Control Precision,2,0
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,Information Ordering,3,0
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,Memorization,1,0
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,Written Comprehension,1,0
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,Near Vision,1,0
+7125,Locksmiths and Safe Repairers,Keep records of company locks and keys.,Perceptual Speed,1,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Finger Dexterity,3,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Manual Dexterity,3,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Arm-Hand Steadiness,2,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Near Vision,2,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Control Precision,2,0
+7128,Locksmiths and Safe Repairers,"Disassemble mechanical or electrical locking devices, and repair or replace worn tumblers, springs, and other parts, using hand tools.",Problem Sensitivity,1,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Manual Dexterity,3,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Static Strength,2,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Control Precision,2,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Arm-Hand Steadiness,2,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Near Vision,2,0
+7129,Locksmiths and Safe Repairers,"Repair and adjust safes, vault doors, and vault components, using hand tools, lathes, drill presses, and welding and acetylene cutting apparatus.",Multilimb Coordination,2,0
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,Manual Dexterity,2,0
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,Finger Dexterity,2,0
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,Near Vision,2,0
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,Deductive Reasoning,2,0
+18792,Locksmiths and Safe Repairers,Install alarm and electronic access systems.,Control Precision,1,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Static Strength,3,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Dynamic Strength,2,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Visualization,2,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Multilimb Coordination,2,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Control Precision,2,0
+7130,Locksmiths and Safe Repairers,"Install safes, vault doors, and deposit boxes according to blueprints, using equipment such as power drills, taps, dies, truck cranes, and dollies.",Trunk Strength,2,0
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,Finger Dexterity,3,0
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,Arm-Hand Steadiness,2,0
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,Control Precision,2,0
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,Near Vision,1,0
+18793,Locksmiths and Safe Repairers,Unlock cars and other vehicles.,Problem Sensitivity,1,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Manual Dexterity,2,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Arm-Hand Steadiness,2,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Control Precision,2,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Near Vision,1,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Static Strength,1,0
+7132,Locksmiths and Safe Repairers,"Remove interior and exterior finishes on safes and vaults, and spray on new finishes.",Stamina,1,0
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",Manual Dexterity,2,0
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",Arm-Hand Steadiness,2,0
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",Static Strength,2,0
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",Multilimb Coordination,1,0
+13878,Manufactured Building and Mobile Home Installers,"Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.",Near Vision,1,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Static Strength,3,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Dynamic Strength,2,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Multilimb Coordination,2,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Gross Body Coordination,2,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Control Precision,2,0
+13879,Manufactured Building and Mobile Home Installers,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,Depth Perception,1,0
+13880,Manufactured Building and Mobile Home Installers,"Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.",Problem Sensitivity,3,0
+13880,Manufactured Building and Mobile Home Installers,"Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.",Near Vision,2,0
+13880,Manufactured Building and Mobile Home Installers,"Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.",Deductive Reasoning,2,0
+13880,Manufactured Building and Mobile Home Installers,"Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.",Selective Attention,1,0
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",Manual Dexterity,2,0
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",Finger Dexterity,2,0
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",Near Vision,1,0
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",Control Precision,1,0
+13881,Manufactured Building and Mobile Home Installers,"Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.",Problem Sensitivity,1,0
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",Static Strength,3,0
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",Manual Dexterity,2,0
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",Arm-Hand Steadiness,2,0
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",Multilimb Coordination,2,0
+13882,Manufactured Building and Mobile Home Installers,"Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.",Near Vision,1,0
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",Written Comprehension,3,0
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",Number Facility,2,0
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",Information Ordering,2,0
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",Visualization,1,0
+13883,Manufactured Building and Mobile Home Installers,"List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.",Deductive Reasoning,1,0
+13884,Manufactured Building and Mobile Home Installers,Confer with customers or read work orders to determine the nature and extent of damage to units.,Oral Comprehension,3,0
+13884,Manufactured Building and Mobile Home Installers,Confer with customers or read work orders to determine the nature and extent of damage to units.,Written Comprehension,2,0
+13884,Manufactured Building and Mobile Home Installers,Confer with customers or read work orders to determine the nature and extent of damage to units.,Problem Sensitivity,2,0
+13884,Manufactured Building and Mobile Home Installers,Confer with customers or read work orders to determine the nature and extent of damage to units.,Oral Expression,1,0
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",Manual Dexterity,3,0
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",Finger Dexterity,2,0
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",Static Strength,2,0
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",Arm-Hand Steadiness,2,0
+13885,Manufactured Building and Mobile Home Installers,"Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.",Control Precision,2,0
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",Manual Dexterity,3,0
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",Arm-Hand Steadiness,2,0
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",Control Precision,2,0
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",Finger Dexterity,2,0
+13886,Manufactured Building and Mobile Home Installers,"Reset hardware, using chisels, mallets, and screwdrivers.",Near Vision,1,0
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",Manual Dexterity,3,0
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",Finger Dexterity,2,0
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",Near Vision,2,0
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",Problem Sensitivity,2,0
+13887,Manufactured Building and Mobile Home Installers,"Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.",Arm-Hand Steadiness,2,0
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",Problem Sensitivity,3,0
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",Finger Dexterity,2,0
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",Near Vision,2,0
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",Deductive Reasoning,2,0
+13888,Manufactured Building and Mobile Home Installers,"Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.",Arm-Hand Steadiness,2,0
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",Manual Dexterity,2,0
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",Control Precision,2,0
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",Arm-Hand Steadiness,2,0
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",Near Vision,2,0
+13889,Manufactured Building and Mobile Home Installers,"Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.",Multilimb Coordination,1,0
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,Manual Dexterity,2,0
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,Finger Dexterity,2,0
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,Near Vision,1,0
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,Problem Sensitivity,1,0
+13890,Manufactured Building and Mobile Home Installers,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,Control Precision,1,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Manual Dexterity,2,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Arm-Hand Steadiness,2,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Control Precision,2,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Near Vision,2,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Visual Color Discrimination,2,0
+13891,Manufactured Building and Mobile Home Installers,"Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.",Stamina,1,0
+13893,Riggers,Test rigging to ensure safety and reliability.,Problem Sensitivity,3,0
+13893,Riggers,Test rigging to ensure safety and reliability.,Near Vision,2,0
+13893,Riggers,Test rigging to ensure safety and reliability.,Deductive Reasoning,2,0
+13893,Riggers,Test rigging to ensure safety and reliability.,Selective Attention,2,0
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,Oral Expression,3,0
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,Selective Attention,2,0
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,Far Vision,2,0
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,Depth Perception,2,0
+13892,Riggers,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,Reaction Time,1,0
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",Control Precision,3,0
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",Multilimb Coordination,2,0
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",Depth Perception,2,0
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",Spatial Orientation,2,0
+13896,Riggers,"Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.",Reaction Time,2,0
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",Control Precision,3,0
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",Multilimb Coordination,2,0
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",Depth Perception,2,0
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",Spatial Orientation,2,0
+13897,Riggers,"Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.",Rate Control,2,0
+13895,Riggers,"Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.",Deductive Reasoning,2,0
+13895,Riggers,"Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.",Mathematical Reasoning,2,1
+13895,Riggers,"Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.",Information Ordering,1,0
+13895,Riggers,"Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.",Near Vision,1,0
+13902,Riggers,Dismantle and store rigging equipment after use.,Manual Dexterity,2,0
+13902,Riggers,Dismantle and store rigging equipment after use.,Static Strength,2,0
+13902,Riggers,Dismantle and store rigging equipment after use.,Multilimb Coordination,1,0
+13902,Riggers,Dismantle and store rigging equipment after use.,Information Ordering,1,0
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",Manual Dexterity,2,0
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",Static Strength,2,0
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",Arm-Hand Steadiness,2,0
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",Control Precision,2,0
+13894,Riggers,"Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.",Multilimb Coordination,2,0
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",Control Precision,3,0
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",Multilimb Coordination,2,0
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",Static Strength,2,0
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",Dynamic Strength,2,0
+13900,Riggers,"Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.",Depth Perception,1,0
+13898,Riggers,"Align, level, and anchor machinery.",Control Precision,3,0
+13898,Riggers,"Align, level, and anchor machinery.",Near Vision,2,0
+13898,Riggers,"Align, level, and anchor machinery.",Spatial Orientation,2,0
+13898,Riggers,"Align, level, and anchor machinery.",Arm-Hand Steadiness,2,0
+13898,Riggers,"Align, level, and anchor machinery.",Static Strength,1,0
+21206,Riggers,Load machines onto trucks to prepare for transportation.,Static Strength,2,0
+21206,Riggers,Load machines onto trucks to prepare for transportation.,Dynamic Strength,2,0
+21206,Riggers,Load machines onto trucks to prepare for transportation.,Multilimb Coordination,2,0
+21206,Riggers,Load machines onto trucks to prepare for transportation.,Control Precision,2,0
+21206,Riggers,Load machines onto trucks to prepare for transportation.,Depth Perception,1,0
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",Manual Dexterity,2,0
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",Static Strength,2,0
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",Arm-Hand Steadiness,2,0
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",Gross Body Equilibrium,2,0
+13901,Riggers,"Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.",Extent Flexibility,1,0
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",Manual Dexterity,3,0
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",Static Strength,2,0
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",Control Precision,2,0
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",Arm-Hand Steadiness,2,0
+13899,Riggers,"Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.",Multilimb Coordination,1,0
+13904,Riggers,Clean and dress machine surfaces and component parts.,Manual Dexterity,2,0
+13904,Riggers,Clean and dress machine surfaces and component parts.,Near Vision,1,0
+13904,Riggers,Clean and dress machine surfaces and component parts.,Static Strength,1,0
+13904,Riggers,Clean and dress machine surfaces and component parts.,Stamina,1,0
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",Static Strength,3,0
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",Manual Dexterity,2,0
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",Multilimb Coordination,2,0
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",Gross Body Coordination,2,0
+13903,Riggers,"Install ground rigging for yarding lines, attaching chokers to logs and to the lines.",Trunk Strength,2,0
+13906,Signal and Track Switch Repairers,"Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors.",Problem Sensitivity,3,0
+13906,Signal and Track Switch Repairers,"Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors.",Near Vision,2,0
+13906,Signal and Track Switch Repairers,"Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors.",Deductive Reasoning,2,0
+13906,Signal and Track Switch Repairers,"Inspect and test operation, mechanical parts, and circuitry of gate crossings, signals, and signal equipment such as interlocks and hotbox detectors.",Selective Attention,2,0
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,Problem Sensitivity,2,0
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,Manual Dexterity,2,0
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,Near Vision,2,0
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,Finger Dexterity,1,0
+13910,Signal and Track Switch Repairers,Inspect electrical units of railroad grade crossing gates and repair loose bolts and defective electrical connections and parts.,Arm-Hand Steadiness,1,0
+23936,Signal and Track Switch Repairers,Test and repair track circuits.,Problem Sensitivity,3,0
+23936,Signal and Track Switch Repairers,Test and repair track circuits.,Deductive Reasoning,2,0
+23936,Signal and Track Switch Repairers,Test and repair track circuits.,Near Vision,1,0
+23936,Signal and Track Switch Repairers,Test and repair track circuits.,Finger Dexterity,1,0
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,Far Vision,2,0
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,Depth Perception,1,0
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,Reaction Time,2,0
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,Multilimb Coordination,1,0
+13908,Signal and Track Switch Repairers,Drive motor vehicles to job sites.,Response Orientation,1,0
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",Manual Dexterity,2,0
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",Problem Sensitivity,2,0
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",Near Vision,2,0
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",Deductive Reasoning,2,0
+13905,Signal and Track Switch Repairers,"Install, inspect, maintain, and repair various railroad service equipment on the road or in the shop, including railroad signal systems.",Static Strength,1,0
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",Manual Dexterity,2,0
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",Static Strength,1,0
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",Arm-Hand Steadiness,2,0
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",Near Vision,1,0
+13909,Signal and Track Switch Repairers,"Tighten loose bolts, using wrenches, and test circuits and connections by opening and closing gates.",Control Precision,1,0
+13907,Signal and Track Switch Repairers,"Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment.",Problem Sensitivity,2,0
+13907,Signal and Track Switch Repairers,"Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment.",Near Vision,2,0
+13907,Signal and Track Switch Repairers,"Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment.",Manual Dexterity,1,0
+13907,Signal and Track Switch Repairers,"Inspect switch-controlling mechanisms on trolley wires and in track beds, using hand tools and test equipment.",Deductive Reasoning,1,0
+13911,Signal and Track Switch Repairers,"Replace defective wiring, broken lenses, or burned-out light bulbs.",Manual Dexterity,2,0
+13911,Signal and Track Switch Repairers,"Replace defective wiring, broken lenses, or burned-out light bulbs.",Finger Dexterity,2,0
+13911,Signal and Track Switch Repairers,"Replace defective wiring, broken lenses, or burned-out light bulbs.",Near Vision,2,0
+13911,Signal and Track Switch Repairers,"Replace defective wiring, broken lenses, or burned-out light bulbs.",Arm-Hand Steadiness,1,0
+13913,Signal and Track Switch Repairers,"Inspect, maintain, and replace batteries as needed.",Manual Dexterity,2,0
+13913,Signal and Track Switch Repairers,"Inspect, maintain, and replace batteries as needed.",Static Strength,1,0
+13913,Signal and Track Switch Repairers,"Inspect, maintain, and replace batteries as needed.",Near Vision,1,0
+13913,Signal and Track Switch Repairers,"Inspect, maintain, and replace batteries as needed.",Problem Sensitivity,1,0
+13912,Signal and Track Switch Repairers,"Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement.",Written Expression,2,0
+13912,Signal and Track Switch Repairers,"Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement.",Information Ordering,2,0
+13912,Signal and Track Switch Repairers,"Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement.",Memorization,1,0
+13912,Signal and Track Switch Repairers,"Record and report information about mileage or track inspected, repairs performed, and equipment requiring replacement.",Near Vision,1,0
+13914,Signal and Track Switch Repairers,Lubricate moving parts on gate-crossing mechanisms and swinging signals.,Manual Dexterity,2,0
+13914,Signal and Track Switch Repairers,Lubricate moving parts on gate-crossing mechanisms and swinging signals.,Arm-Hand Steadiness,1,0
+13914,Signal and Track Switch Repairers,Lubricate moving parts on gate-crossing mechanisms and swinging signals.,Near Vision,1,0
+13914,Signal and Track Switch Repairers,Lubricate moving parts on gate-crossing mechanisms and swinging signals.,Static Strength,1,0
+13915,Signal and Track Switch Repairers,Clean lenses of lamps with cloths and solvents.,Manual Dexterity,2,0
+13915,Signal and Track Switch Repairers,Clean lenses of lamps with cloths and solvents.,Near Vision,1,0
+13915,Signal and Track Switch Repairers,Clean lenses of lamps with cloths and solvents.,Arm-Hand Steadiness,1,0
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",Manual Dexterity,3,0
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",Static Strength,2,0
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",Arm-Hand Steadiness,2,0
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",Control Precision,2,0
+3083,"Helpers--Installation, Maintenance, and Repair Workers","Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.",Multilimb Coordination,1,0
+3081,"Helpers--Installation, Maintenance, and Repair Workers","Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.",Problem Sensitivity,3,0
+3081,"Helpers--Installation, Maintenance, and Repair Workers","Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.",Near Vision,2,0
+3081,"Helpers--Installation, Maintenance, and Repair Workers","Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.",Deductive Reasoning,1,0
+3081,"Helpers--Installation, Maintenance, and Repair Workers","Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.",Selective Attention,1,0
+3080,"Helpers--Installation, Maintenance, and Repair Workers",Tend and observe equipment and machinery to verify efficient and safe operation.,Selective Attention,3,0
+3080,"Helpers--Installation, Maintenance, and Repair Workers",Tend and observe equipment and machinery to verify efficient and safe operation.,Near Vision,2,0
+3080,"Helpers--Installation, Maintenance, and Repair Workers",Tend and observe equipment and machinery to verify efficient and safe operation.,Problem Sensitivity,2,0
+3080,"Helpers--Installation, Maintenance, and Repair Workers",Tend and observe equipment and machinery to verify efficient and safe operation.,Auditory Attention,1,0
+3082,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.",Manual Dexterity,3,0
+3082,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.",Finger Dexterity,2,0
+3082,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.",Arm-Hand Steadiness,2,0
+3082,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.",Control Precision,1,0
+3084,"Helpers--Installation, Maintenance, and Repair Workers","Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.",Manual Dexterity,2,0
+3084,"Helpers--Installation, Maintenance, and Repair Workers","Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.",Static Strength,1,0
+3084,"Helpers--Installation, Maintenance, and Repair Workers","Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.",Stamina,1,0
+3084,"Helpers--Installation, Maintenance, and Repair Workers","Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.",Near Vision,1,0
+3091,"Helpers--Installation, Maintenance, and Repair Workers","Hold or supply tools, parts, equipment, and supplies for other workers.",Manual Dexterity,1,0
+3091,"Helpers--Installation, Maintenance, and Repair Workers","Hold or supply tools, parts, equipment, and supplies for other workers.",Static Strength,1,0
+3091,"Helpers--Installation, Maintenance, and Repair Workers","Hold or supply tools, parts, equipment, and supplies for other workers.",Multilimb Coordination,1,0
+3091,"Helpers--Installation, Maintenance, and Repair Workers","Hold or supply tools, parts, equipment, and supplies for other workers.",Selective Attention,1,1
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,Problem Sensitivity,3,0
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,Deductive Reasoning,2,0
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,Manual Dexterity,2,0
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,Near Vision,2,0
+20152,"Helpers--Installation, Maintenance, and Repair Workers",Diagnose electrical problems and install and rewire electrical components.,Finger Dexterity,1,0
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,Manual Dexterity,3,0
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,Finger Dexterity,2,0
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,Arm-Hand Steadiness,2,0
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,Problem Sensitivity,1,0
+3087,"Helpers--Installation, Maintenance, and Repair Workers",Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.,Control Precision,1,0
+3090,"Helpers--Installation, Maintenance, and Repair Workers","Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.",Static Strength,2,0
+3090,"Helpers--Installation, Maintenance, and Repair Workers","Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.",Multilimb Coordination,2,0
+3090,"Helpers--Installation, Maintenance, and Repair Workers","Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.",Control Precision,2,0
+3090,"Helpers--Installation, Maintenance, and Repair Workers","Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.",Spatial Orientation,1,0
+3090,"Helpers--Installation, Maintenance, and Repair Workers","Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.",Depth Perception,1,0
+3086,"Helpers--Installation, Maintenance, and Repair Workers","Transfer tools, parts, equipment, and supplies to and from work stations and other areas.",Static Strength,2,0
+3086,"Helpers--Installation, Maintenance, and Repair Workers","Transfer tools, parts, equipment, and supplies to and from work stations and other areas.",Dynamic Strength,1,0
+3086,"Helpers--Installation, Maintenance, and Repair Workers","Transfer tools, parts, equipment, and supplies to and from work stations and other areas.",Stamina,1,0
+20150,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.",Manual Dexterity,2,0
+20150,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.",Problem Sensitivity,1,0
+20150,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.",Arm-Hand Steadiness,1,0
+20150,"Helpers--Installation, Maintenance, and Repair Workers","Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.",Static Strength,1,0
+20151,"Helpers--Installation, Maintenance, and Repair Workers",Order new parts to maintain inventory.,Information Ordering,2,0
+20151,"Helpers--Installation, Maintenance, and Repair Workers",Order new parts to maintain inventory.,Number Facility,1,0
+20151,"Helpers--Installation, Maintenance, and Repair Workers",Order new parts to maintain inventory.,Written Comprehension,1,0
+20151,"Helpers--Installation, Maintenance, and Repair Workers",Order new parts to maintain inventory.,Memorization,1,0
+3085,"Helpers--Installation, Maintenance, and Repair Workers","Apply protective materials to equipment, components, and parts to prevent defects and corrosion.",Manual Dexterity,2,0
+3085,"Helpers--Installation, Maintenance, and Repair Workers","Apply protective materials to equipment, components, and parts to prevent defects and corrosion.",Arm-Hand Steadiness,1,0
+3085,"Helpers--Installation, Maintenance, and Repair Workers","Apply protective materials to equipment, components, and parts to prevent defects and corrosion.",Near Vision,1,0
+3085,"Helpers--Installation, Maintenance, and Repair Workers","Apply protective materials to equipment, components, and parts to prevent defects and corrosion.",Control Precision,1,0
+20153,"Helpers--Installation, Maintenance, and Repair Workers","Design, weld, and fabricate parts, using blueprints or other mechanical plans.",Visualization,3,0
+20153,"Helpers--Installation, Maintenance, and Repair Workers","Design, weld, and fabricate parts, using blueprints or other mechanical plans.",Manual Dexterity,2,0
+20153,"Helpers--Installation, Maintenance, and Repair Workers","Design, weld, and fabricate parts, using blueprints or other mechanical plans.",Arm-Hand Steadiness,2,0
+20153,"Helpers--Installation, Maintenance, and Repair Workers","Design, weld, and fabricate parts, using blueprints or other mechanical plans.",Control Precision,2,0
+20153,"Helpers--Installation, Maintenance, and Repair Workers","Design, weld, and fabricate parts, using blueprints or other mechanical plans.",Near Vision,1,0
+3088,"Helpers--Installation, Maintenance, and Repair Workers","Assemble and maintain physical structures, using hand or power tools.",Manual Dexterity,2,0
+3088,"Helpers--Installation, Maintenance, and Repair Workers","Assemble and maintain physical structures, using hand or power tools.",Static Strength,2,0
+3088,"Helpers--Installation, Maintenance, and Repair Workers","Assemble and maintain physical structures, using hand or power tools.",Multilimb Coordination,2,0
+3088,"Helpers--Installation, Maintenance, and Repair Workers","Assemble and maintain physical structures, using hand or power tools.",Arm-Hand Steadiness,1,0
+3092,"Helpers--Installation, Maintenance, and Repair Workers",Prepare work stations for use by mechanics and repairers.,Static Strength,1,0
+3092,"Helpers--Installation, Maintenance, and Repair Workers",Prepare work stations for use by mechanics and repairers.,Manual Dexterity,1,0
+3092,"Helpers--Installation, Maintenance, and Repair Workers",Prepare work stations for use by mechanics and repairers.,Information Ordering,1,1
+17934,Geothermal Technicians,Monitor and adjust operations of geothermal power plant equipment or systems.,Selective Attention,3,0
+17934,Geothermal Technicians,Monitor and adjust operations of geothermal power plant equipment or systems.,Near Vision,2,0
+17934,Geothermal Technicians,Monitor and adjust operations of geothermal power plant equipment or systems.,Problem Sensitivity,2,0
+17934,Geothermal Technicians,Monitor and adjust operations of geothermal power plant equipment or systems.,Control Precision,1,0
+17955,Geothermal Technicians,"Prepare and maintain logs, reports, or other documentation of work performed.",Written Expression,3,0
+17955,Geothermal Technicians,"Prepare and maintain logs, reports, or other documentation of work performed.",Information Ordering,2,0
+17955,Geothermal Technicians,"Prepare and maintain logs, reports, or other documentation of work performed.",Memorization,1,0
+17932,Geothermal Technicians,"Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.",Problem Sensitivity,3,0
+17932,Geothermal Technicians,"Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.",Deductive Reasoning,3,0
+17932,Geothermal Technicians,"Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.",Near Vision,1,0
+17932,Geothermal Technicians,"Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.",Manual Dexterity,1,0
+17950,Geothermal Technicians,Collect and record data associated with operating geothermal power plants or well fields.,Perceptual Speed,2,0
+17950,Geothermal Technicians,Collect and record data associated with operating geothermal power plants or well fields.,Information Ordering,2,0
+17950,Geothermal Technicians,Collect and record data associated with operating geothermal power plants or well fields.,Near Vision,1,0
+17950,Geothermal Technicians,Collect and record data associated with operating geothermal power plants or well fields.,Written Expression,1,0
+17951,Geothermal Technicians,Determine whether emergency or auxiliary systems will be needed to keep properties heated or cooled in extreme weather conditions.,Deductive Reasoning,3,0
+17951,Geothermal Technicians,Determine whether emergency or auxiliary systems will be needed to keep properties heated or cooled in extreme weather conditions.,Mathematical Reasoning,1,0
+17951,Geothermal Technicians,Determine whether emergency or auxiliary systems will be needed to keep properties heated or cooled in extreme weather conditions.,Problem Sensitivity,2,0
+17946,Geothermal Technicians,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",Near Vision,2,0
+17946,Geothermal Technicians,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",Problem Sensitivity,2,0
+17946,Geothermal Technicians,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",Control Precision,1,0
+17946,Geothermal Technicians,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",Number Facility,1,0
+17946,Geothermal Technicians,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",Manual Dexterity,1,0
+17942,Geothermal Technicians,"Identify equipment options, such as compressors, and make appropriate selections.",Deductive Reasoning,2,0
+17942,Geothermal Technicians,"Identify equipment options, such as compressors, and make appropriate selections.",Written Comprehension,1,0
+17942,Geothermal Technicians,"Identify equipment options, such as compressors, and make appropriate selections.",Mathematical Reasoning,1,1
+17935,Geothermal Technicians,Adjust power production systems to meet load and distribution demands.,Control Precision,2,0
+17935,Geothermal Technicians,Adjust power production systems to meet load and distribution demands.,Deductive Reasoning,2,0
+17935,Geothermal Technicians,Adjust power production systems to meet load and distribution demands.,Selective Attention,2,0
+17935,Geothermal Technicians,Adjust power production systems to meet load and distribution demands.,Mathematical Reasoning,1,0
+17944,Geothermal Technicians,"Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.",Manual Dexterity,2,0
+17944,Geothermal Technicians,"Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.",Near Vision,2,0
+17944,Geothermal Technicians,"Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.",Problem Sensitivity,2,0
+17944,Geothermal Technicians,"Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.",Arm-Hand Steadiness,1,0
+17937,Geothermal Technicians,Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.,Mathematical Reasoning,3,0
+17937,Geothermal Technicians,Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.,Number Facility,2,0
+17937,Geothermal Technicians,Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.,Deductive Reasoning,1,0
+17945,Geothermal Technicians,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",Control Precision,2,0
+17945,Geothermal Technicians,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",Manual Dexterity,2,0
+17945,Geothermal Technicians,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",Near Vision,2,0
+17945,Geothermal Technicians,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",Finger Dexterity,1,0
+17945,Geothermal Technicians,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",Problem Sensitivity,1,0
+17952,Geothermal Technicians,Install and maintain geothermal plant electrical protection equipment.,Manual Dexterity,2,0
+17952,Geothermal Technicians,Install and maintain geothermal plant electrical protection equipment.,Near Vision,1,0
+17952,Geothermal Technicians,Install and maintain geothermal plant electrical protection equipment.,Problem Sensitivity,1,0
+17952,Geothermal Technicians,Install and maintain geothermal plant electrical protection equipment.,Deductive Reasoning,1,0
+17938,Geothermal Technicians,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",Visualization,3,0
+17938,Geothermal Technicians,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",Deductive Reasoning,2,0
+17938,Geothermal Technicians,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",Mathematical Reasoning,2,0
+17938,Geothermal Technicians,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",Written Comprehension,1,0
+17938,Geothermal Technicians,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",Spatial Orientation,1,0
+17943,Geothermal Technicians,Install and maintain geothermal system instrumentation or controls.,Manual Dexterity,2,0
+17943,Geothermal Technicians,Install and maintain geothermal system instrumentation or controls.,Near Vision,1,0
+17943,Geothermal Technicians,Install and maintain geothermal system instrumentation or controls.,Control Precision,1,0
+17943,Geothermal Technicians,Install and maintain geothermal system instrumentation or controls.,Problem Sensitivity,1,0
+17941,Geothermal Technicians,"Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.",Manual Dexterity,2,0
+17941,Geothermal Technicians,"Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.",Near Vision,1,0
+17941,Geothermal Technicians,"Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.",Control Precision,1,0
+17941,Geothermal Technicians,"Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.",Problem Sensitivity,1,0
+17957,Geothermal Technicians,"Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.",Arm-Hand Steadiness,3,0
+17957,Geothermal Technicians,"Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.",Control Precision,3,0
+17957,Geothermal Technicians,"Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.",Near Vision,2,0
+17957,Geothermal Technicians,"Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.",Manual Dexterity,2,0
+17957,Geothermal Technicians,"Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.",Multilimb Coordination,1,0
+17956,Geothermal Technicians,"Test water sources for factors, such as flow volume and contaminant presence.",Near Vision,1,0
+17956,Geothermal Technicians,"Test water sources for factors, such as flow volume and contaminant presence.",Problem Sensitivity,1,0
+17956,Geothermal Technicians,"Test water sources for factors, such as flow volume and contaminant presence.",Number Facility,1,1
+17956,Geothermal Technicians,"Test water sources for factors, such as flow volume and contaminant presence.",Manual Dexterity,1,0
+17933,Geothermal Technicians,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",Manual Dexterity,2,0
+17933,Geothermal Technicians,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",Static Strength,2,0
+17933,Geothermal Technicians,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",Problem Sensitivity,2,0
+17933,Geothermal Technicians,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",Arm-Hand Steadiness,1,0
+17933,Geothermal Technicians,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",Near Vision,1,0
+17953,Geothermal Technicians,Integrate hot water heater systems with geothermal heat exchange systems.,Manual Dexterity,2,0
+17953,Geothermal Technicians,Integrate hot water heater systems with geothermal heat exchange systems.,Deductive Reasoning,2,0
+17953,Geothermal Technicians,Integrate hot water heater systems with geothermal heat exchange systems.,Near Vision,1,0
+17953,Geothermal Technicians,Integrate hot water heater systems with geothermal heat exchange systems.,Problem Sensitivity,1,0
+17939,Geothermal Technicians,Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.,Deductive Reasoning,3,0
+17939,Geothermal Technicians,Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.,Mathematical Reasoning,1,0
+17939,Geothermal Technicians,Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.,Inductive Reasoning,1,0
+17940,Geothermal Technicians,Dig trenches for system piping to appropriate depths and lay piping in trenches.,Static Strength,3,0
+17940,Geothermal Technicians,Dig trenches for system piping to appropriate depths and lay piping in trenches.,Dynamic Strength,2,0
+17940,Geothermal Technicians,Dig trenches for system piping to appropriate depths and lay piping in trenches.,Stamina,2,0
+17940,Geothermal Technicians,Dig trenches for system piping to appropriate depths and lay piping in trenches.,Trunk Strength,2,0
+17940,Geothermal Technicians,Dig trenches for system piping to appropriate depths and lay piping in trenches.,Multilimb Coordination,1,0
+17949,Geothermal Technicians,Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.,Manual Dexterity,2,0
+17949,Geothermal Technicians,Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.,Arm-Hand Steadiness,1,0
+17949,Geothermal Technicians,Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.,Near Vision,1,0
+17949,Geothermal Technicians,Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.,Control Precision,1,0
+17936,Geothermal Technicians,Backfill piping trenches to protect pipes from damage.,Static Strength,3,0
+17936,Geothermal Technicians,Backfill piping trenches to protect pipes from damage.,Dynamic Strength,2,0
+17936,Geothermal Technicians,Backfill piping trenches to protect pipes from damage.,Stamina,2,0
+17936,Geothermal Technicians,Backfill piping trenches to protect pipes from damage.,Trunk Strength,1,0
+17954,Geothermal Technicians,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",Control Precision,3,0
+17954,Geothermal Technicians,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",Multilimb Coordination,2,0
+17954,Geothermal Technicians,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",Rate Control,2,0
+17954,Geothermal Technicians,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",Depth Perception,1,0
+17954,Geothermal Technicians,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",Near Vision,1,0

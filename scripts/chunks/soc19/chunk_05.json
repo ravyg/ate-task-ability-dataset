@@ -1,0 +1,782 @@
+[
+{
+"task_id": "22166",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Interact with clients to assist them in gaining insight, defining goals, and planning action to achieve effective personal, social, educational, or vocational development and adjustment."
+},
+{
+"task_id": "22163",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Collect information about individuals or clients, using interviews, case histories, observational techniques, and other assessment methods."
+},
+{
+"task_id": "22173",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Evaluate the effectiveness of counseling or treatments and the accuracy and completeness of diagnoses, modifying plans or diagnoses as necessary."
+},
+{
+"task_id": "22169",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Use a variety of treatment methods, such as psychotherapy, hypnosis, behavior modification, stress reduction therapy, psychodrama, or play therapy."
+},
+{
+"task_id": "22167",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Develop therapeutic and treatment plans based on clients' interests, abilities, or needs."
+},
+{
+"task_id": "22176",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Develop and implement individual treatment plans, specifying type, frequency, intensity, and duration of therapy."
+},
+{
+"task_id": "22179",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Maintain current knowledge of relevant research."
+},
+{
+"task_id": "22172",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Obtain and study medical, psychological, social, and family histories by interviewing individuals, couples, or families and by reviewing records."
+},
+{
+"task_id": "22174",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Select, administer, score, and interpret psychological tests to obtain information on individuals' intelligence, achievements, interests, or personalities."
+},
+{
+"task_id": "22180",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Consult reference material, such as textbooks, manuals, or journals, to identify symptoms, make diagnoses, or develop approaches to treatment."
+},
+{
+"task_id": "22171",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Consult with or provide consultation to other doctors, therapists, or clinicians regarding patient care."
+},
+{
+"task_id": "22175",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Advise clients on how they could be helped by counseling."
+},
+{
+"task_id": "22185",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Direct, coordinate, and evaluate activities of staff and interns engaged in patient assessment and treatment."
+},
+{
+"task_id": "22192",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Supervise and train interns, clinicians in training, and other counselors."
+},
+{
+"task_id": "22178",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Refer clients to other specialists, institutions, or support services as necessary."
+},
+{
+"task_id": "22177",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Consult with other professionals, agencies, or universities to discuss therapies, treatments, counseling resources or techniques, and to share occupational information."
+},
+{
+"task_id": "22186",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Develop, direct, and participate in training programs for staff and students."
+},
+{
+"task_id": "22184",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Plan and develop accredited psychological service programs in psychiatric centers or hospitals, in collaboration with psychiatrists and other professional staff."
+},
+{
+"task_id": "22182",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Provide consulting services, including educational programs, outreach programs, or prevention talks to schools, social service agencies, businesses, or the general public."
+},
+{
+"task_id": "22183",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Provide occupational, educational, or other information to individuals so that they can make educational or vocational plans."
+},
+{
+"task_id": "22188",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Conduct research to develop or improve diagnostic or therapeutic counseling techniques."
+},
+{
+"task_id": "22191",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Prepare written evaluations of individuals' psychological competence for court hearings."
+},
+{
+"task_id": "22181",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Observe individuals at play, in group interactions, or in other contexts to detect indications of cognitive, intellectual, or developmental disabilities."
+},
+{
+"task_id": "22189",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Plan, supervise, and conduct psychological research and write papers describing research results."
+},
+{
+"task_id": "22187",
+"soc": "19-3033.00",
+"occupation": "Clinical and Counseling Psychologists",
+"task_text": "Provide psychological or administrative services and advice to private firms or community agencies regarding mental health programs or individual cases."
+},
+{
+"task_id": "5446",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Compile and interpret students' test results, along with information from teachers and parents, to diagnose conditions and to help assess eligibility for special services."
+},
+{
+"task_id": "5455",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Maintain student records, including special education reports, confidential records, records of services provided, and behavioral data."
+},
+{
+"task_id": "5447",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Report any pertinent information to the proper authorities in cases of child endangerment, neglect, or abuse."
+},
+{
+"task_id": "5449",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Select, administer, and score psychological tests."
+},
+{
+"task_id": "18619",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Interpret test results and prepare psychological reports for teachers, administrators, and parents."
+},
+{
+"task_id": "5448",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Assess an individual child's needs, limitations, and potential, using observation, review of school records, and consultation with parents and school personnel."
+},
+{
+"task_id": "5454",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Develop individualized educational plans in collaboration with teachers and other staff members."
+},
+{
+"task_id": "5453",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Counsel children and families to help solve conflicts and problems in learning and adjustment."
+},
+{
+"task_id": "5461",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Collect and analyze data to evaluate the effectiveness of academic programs and other services, such as behavioral management systems."
+},
+{
+"task_id": "5450",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Provide consultation to parents, teachers, administrators, and others on topics such as learning styles and behavior modification techniques."
+},
+{
+"task_id": "5452",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Collaborate with other educational professionals to develop teaching strategies and school programs."
+},
+{
+"task_id": "5458",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Design classes and programs to meet the needs of special students."
+},
+{
+"task_id": "5451",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Promote an understanding of child development and its relationship to learning and behavior."
+},
+{
+"task_id": "5457",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Attend workshops, seminars, or professional meetings to remain informed of new developments in school psychology."
+},
+{
+"task_id": "5459",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Refer students and their families to appropriate community agencies for medical, vocational, or social services."
+},
+{
+"task_id": "5456",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Serve as a resource to help families and schools deal with crises, such as separation and loss."
+},
+{
+"task_id": "5460",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Initiate and direct efforts to foster tolerance, understanding, and appreciation of diversity in school communities."
+},
+{
+"task_id": "5462",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Provide educational programs on topics such as classroom management, teaching strategies, or parenting skills."
+},
+{
+"task_id": "5463",
+"soc": "19-3034.00",
+"occupation": "School Psychologists",
+"task_text": "Conduct research to generate new knowledge that can be used to address learning and behavior issues."
+},
+{
+"task_id": "22193",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Conduct neuropsychological evaluations such as assessments of intelligence, academic ability, attention, concentration, sensorimotor function, language, learning, and memory."
+},
+{
+"task_id": "22206",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Write or prepare detailed clinical neuropsychological reports, using data from psychological or neuropsychological tests, self-report measures, rating scales, direct observations, or interviews."
+},
+{
+"task_id": "22202",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Interview patients to obtain comprehensive medical histories."
+},
+{
+"task_id": "22197",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or inflammatory diseases, degenerative diseases, head traumas, demyelinating diseases, and various forms of dementing illnesses."
+},
+{
+"task_id": "22201",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Establish neurobehavioral baseline measures for monitoring progressive cerebral disease or recovery."
+},
+{
+"task_id": "22204",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Provide education or counseling to individuals and families."
+},
+{
+"task_id": "22199",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Diagnose and treat pediatric populations for conditions such as learning disabilities with developmental or organic bases."
+},
+{
+"task_id": "22205",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in neuropsychology."
+},
+{
+"task_id": "22203",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Participate in educational programs, in-service training, or workshops to remain current in methods and techniques."
+},
+{
+"task_id": "22195",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Consult with other professionals about patients' neurological conditions."
+},
+{
+"task_id": "22200",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Educate and supervise practicum students, psychology interns, or hospital staff."
+},
+{
+"task_id": "22196",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Design or implement rehabilitation plans for patients with cognitive dysfunction."
+},
+{
+"task_id": "22198",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Diagnose and treat conditions such as chemical dependency, alcohol dependency, Acquired Immune Deficiency Syndrome (AIDS) dementia, and environmental toxin exposure."
+},
+{
+"task_id": "22194",
+"soc": "19-3039.02",
+"occupation": "Neuropsychologists",
+"task_text": "Conduct research on neuropsychological disorders."
+},
+{
+"task_id": "22219",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Interview patients to obtain comprehensive medical histories."
+},
+{
+"task_id": "22224",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Write or prepare detailed clinical neuropsychological reports, using data from psychological or neuropsychological tests, self-report measures, rating scales, direct observations, or interviews."
+},
+{
+"task_id": "22208",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Conduct neuropsychological evaluations such as assessments of intelligence, academic ability, attention, concentration, sensorimotor function, language, learning, and memory."
+},
+{
+"task_id": "22211",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or inflammatory diseases, degenerative diseases, head traumas, demyelinating diseases, and various forms of dementing illnesses."
+},
+{
+"task_id": "22213",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Diagnose and treat pediatric populations for conditions such as learning disabilities with developmental or organic bases."
+},
+{
+"task_id": "22221",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Provide education or counseling to individuals and families."
+},
+{
+"task_id": "22215",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Distinguish between psychogenic and neurogenic syndromes, two or more suspected etiologies of cerebral dysfunction, or between disorders involving complex seizures."
+},
+{
+"task_id": "22212",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Diagnose and treat neural and psychological conditions in medical and surgical populations, such as patients with early dementing illness or chronic pain with a neurological basis."
+},
+{
+"task_id": "22209",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Consult with other professionals about patients' neurological conditions."
+},
+{
+"task_id": "22223",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in neuropsychology."
+},
+{
+"task_id": "22214",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Diagnose and treat psychiatric populations for conditions such as somatoform disorder, dementias, and psychoses."
+},
+{
+"task_id": "22217",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Establish neurobehavioral baseline measures for monitoring progressive cerebral disease or recovery."
+},
+{
+"task_id": "22207",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Compare patients' progress before and after pharmacologic, surgical, or behavioral interventions."
+},
+{
+"task_id": "22220",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Participate in educational programs, in-service training, or workshops to remain current in methods and techniques."
+},
+{
+"task_id": "22216",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Educate and supervise practicum students, psychology interns, or hospital staff."
+},
+{
+"task_id": "22210",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Design or implement rehabilitation plans for patients with cognitive dysfunction."
+},
+{
+"task_id": "22218",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Identify and communicate risks associated with specific neurological surgical procedures, such as epilepsy surgery."
+},
+{
+"task_id": "22222",
+"soc": "19-3039.03",
+"occupation": "Clinical Neuropsychologists",
+"task_text": "Provide psychotherapy, behavior therapy, or other counseling interventions to patients with neurological disorders."
+},
+{
+"task_id": "5465",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Analyze and interpret data to increase the understanding of human social behavior."
+},
+{
+"task_id": "5464",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Prepare publications and reports containing research findings."
+},
+{
+"task_id": "5468",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Develop, implement, and evaluate methods of data collection, such as questionnaires or interviews."
+},
+{
+"task_id": "5467",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Collect data about the attitudes, values, and behaviors of people in groups, using observation, interviews, and review of documents."
+},
+{
+"task_id": "5469",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Teach sociology."
+},
+{
+"task_id": "5466",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Plan and conduct research to develop and test theories about societal issues such as crime, group relations, poverty, and aging."
+},
+{
+"task_id": "20868",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Present research findings at professional meetings."
+},
+{
+"task_id": "23963",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Explain sociological research to the general public."
+},
+{
+"task_id": "5475",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Develop problem intervention procedures, using techniques such as interviews, consultations, role playing, and participant observation of group interactions."
+},
+{
+"task_id": "5471",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Consult with and advise individuals such as administrators, social workers, and legislators regarding social issues and policies, as well as the implications of research findings."
+},
+{
+"task_id": "5470",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Direct work of statistical clerks, statisticians, and others who compile and evaluate research data."
+},
+{
+"task_id": "5472",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Collaborate with research workers in other disciplines."
+},
+{
+"task_id": "23964",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Write grants to obtain funding for research projects."
+},
+{
+"task_id": "5473",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Develop approaches to the solution of groups' problems, based on research findings in sociology and related disciplines."
+},
+{
+"task_id": "5474",
+"soc": "19-3041.00",
+"occupation": "Sociologists",
+"task_text": "Observe group interactions and role affiliations to collect data, identify problems, evaluate progress, and determine the need for additional change."
+},
+{
+"task_id": "220",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Design, promote, or administer government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or transportation."
+},
+{
+"task_id": "226",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Advise planning officials on project feasibility, cost-effectiveness, regulatory conformance, or possible alternatives."
+},
+{
+"task_id": "225",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Create, prepare, or requisition graphic or narrative reports on land use data, including land area maps overlaid with geographic variables, such as population density."
+},
+{
+"task_id": "18476",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Hold public meetings with government officials, social scientists, lawyers, developers, the public, or special interest groups to formulate, develop, or address issues regarding land use or community plans."
+},
+{
+"task_id": "230",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Mediate community disputes or assist in developing alternative plans or recommendations for programs or projects."
+},
+{
+"task_id": "222",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Recommend approval, denial, or conditional approval of proposals."
+},
+{
+"task_id": "227",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Conduct field investigations, surveys, impact studies, or other research to compile and analyze data on economic, social, regulatory, or physical factors affecting land use."
+},
+{
+"task_id": "19777",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Evaluate proposals for infrastructure projects or other development for environmental impact or sustainability."
+},
+{
+"task_id": "228",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Discuss with planning officials the purpose of land use projects, such as transportation, conservation, residential, commercial, industrial, or community use."
+},
+{
+"task_id": "229",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Keep informed about economic or legal issues involved in zoning codes, building codes, or environmental regulations."
+},
+{
+"task_id": "20524",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Assess the feasibility of land use proposals and identify necessary changes."
+},
+{
+"task_id": "20523",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Determine the effects of regulatory limitations on land use projects."
+},
+{
+"task_id": "232",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Review and evaluate environmental impact reports pertaining to private or public planning projects or programs."
+},
+{
+"task_id": "233",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Supervise or coordinate the work of urban planning technicians or technologists."
+},
+{
+"task_id": "19776",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Develop plans for public or alternative transportation systems for urban or regional locations to reduce carbon output associated with transportation."
+},
+{
+"task_id": "19778",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Identify opportunities or develop plans for sustainability projects or programs to improve energy efficiency, minimize pollution or waste, or restore natural systems."
+},
+{
+"task_id": "231",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Coordinate work with economic consultants or architects during the formulation of plans or the design of large pieces of infrastructure."
+},
+{
+"task_id": "19775",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Advocate sustainability to community groups, government agencies, the general public, or special interest groups."
+},
+{
+"task_id": "20525",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Investigate property availability for purposes of development."
+},
+{
+"task_id": "22225",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Conduct interviews, surveys and site inspections concerning factors that affect land usage, such as zoning, traffic flow and housing."
+},
+{
+"task_id": "22226",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Prepare reports, using statistics, charts, and graphs, to illustrate planning studies in areas such as population, land use, or zoning."
+},
+{
+"task_id": "22227",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Prepare, develop and maintain maps and databases."
+},
+{
+"task_id": "22228",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Prepare, maintain and update files and records, including land use data and statistics."
+},
+{
+"task_id": "22229",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Research, compile, analyze and organize information from maps, reports, investigations, and books for use in reports and special projects."
+},
+{
+"task_id": "22230",
+"soc": "19-3051.00",
+"occupation": "Urban and Regional Planners",
+"task_text": "Respond to public inquiries and complaints."
+},
+{
+"task_id": "22232",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Collect information and make judgments through observation, interviews, and review of documents."
+},
+{
+"task_id": "22259",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Teach or mentor undergraduate and graduate students in anthropology or archeology."
+},
+{
+"task_id": "22234",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Write about and present research findings for a variety of specialized and general audiences."
+},
+{
+"task_id": "22236",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Plan and direct research to characterize and compare the economic, demographic, health care, social, political, linguistic, and religious institutions of distinct cultural groups, communities, and organizations."
+},
+{
+"task_id": "22246",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Create data records for use in describing and analyzing social patterns and processes, using photography, videography, and audio recordings."
+},
+{
+"task_id": "22244",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Train others in the application of ethnographic research methods to solve problems in organizational effectiveness, communications, technology development, policy making, and program planning."
+},
+{
+"task_id": "22242",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Identify culturally specific beliefs and practices affecting health status and access to services for distinct populations and communities, in collaboration with medical and public health officials."
+},
+{
+"task_id": "22256",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Apply traditional ecological knowledge and assessments of culturally distinctive land and resource management institutions to assist in the resolution of conflicts over habitat protection and resource enhancement."
+},
+{
+"task_id": "22249",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Lead field training sites and train field staff, students, and volunteers in excavation methods."
+},
+{
+"task_id": "22252",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Conduct participatory action research in communities and organizations to assess how work is done and to design work systems, technologies, and environments."
+},
+{
+"task_id": "22248",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Develop and test theories concerning the origin and development of past cultures."
+},
+{
+"task_id": "22233",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Research, survey, or assess sites of past societies and cultures in search of answers to specific research questions."
+},
+{
+"task_id": "22260",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Write grant proposals to obtain funding for research."
+},
+{
+"task_id": "22245",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Advise government agencies, private organizations, and communities regarding proposed programs, plans, and policies and their potential impacts on cultural institutions, organizations, and communities."
+}
+]

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "10288",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Devise or build fixtures or jigs used to hold parts in place during welding, brazing, or soldering."
+},
+{
+"task_id": "10291",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Add chemicals or materials to workpieces or machines to facilitate bonding or to cool workpieces."
+},
+{
+"task_id": "10287",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Tend auxiliary equipment used in welding processes."
+},
+{
+"task_id": "10283",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Compute and record settings for new work, applying knowledge of metal properties, principles of welding, and shop mathematics."
+},
+{
+"task_id": "10293",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Anneal finished workpieces to relieve internal stress."
+},
+{
+"task_id": "10268",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Load or feed workpieces into welding machines to join or bond components."
+},
+{
+"task_id": "10289",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Fill hoppers and position spouts to direct flow of flux or manually brush flux onto seams of workpieces."
+},
+{
+"task_id": "10273",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Start, monitor, and adjust robotic welding production lines."
+},
+{
+"task_id": "10278",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Dress electrodes, using tip dressers, files, emery cloths, or dressing wheels."
+},
+{
+"task_id": "10294",
+"soc": "51-4122.00",
+"occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+"task_text": "Immerse completed workpieces into water or acid baths to cool and clean components."
+},
+{
+"task_id": "12087",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Read production schedules and work orders to determine processing sequences, furnace temperatures, and heat cycle requirements for objects to be heat-treated."
+},
+{
+"task_id": "12088",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Record times that parts are removed from furnaces to document that objects have attained specified temperatures for specified times."
+},
+{
+"task_id": "12094",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Adjust controls to maintain temperatures and heating times, using thermal instruments and charts, dials and gauges of furnaces, and color of stock in furnaces to make setting determinations."
+},
+{
+"task_id": "12107",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Start conveyors and open furnace doors to load stock, or signal crane operators to uncover soaking pits and lower ingots into them."
+},
+{
+"task_id": "12089",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Set up and operate or tend machines, such as furnaces, baths, flame-hardening machines, and electronic induction machines, that harden, anneal, and heat-treat metal."
+},
+{
+"task_id": "12091",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Remove parts from furnaces after specified times, and air dry or cool parts in water, oil brine, or other baths."
+},
+{
+"task_id": "12099",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Move controls to light gas burners and to adjust gas and water flow and flame temperature."
+},
+{
+"task_id": "12093",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Instruct new workers in machine operation."
+},
+{
+"task_id": "12095",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Determine flame temperatures, current frequencies, heating cycles, and induction heating coils needed, based on degree of hardness required and properties of stock to be treated."
+},
+{
+"task_id": "12090",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Determine types and temperatures of baths and quenching media needed to attain specified part hardness, toughness, and ductility, using heat-treating charts and knowledge of methods, equipment, and metals."
+},
+{
+"task_id": "12104",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Examine parts to ensure metal shades and colors conform to specifications, using knowledge of metal heat-treating."
+},
+{
+"task_id": "12112",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Set and adjust speeds of reels and conveyors for prescribed time cycles to pass parts through continuous furnaces."
+},
+{
+"task_id": "12096",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Load parts into containers and place containers on conveyors to be inserted into furnaces, or insert parts into furnaces."
+},
+{
+"task_id": "12102",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Test parts for hardness, using hardness testing equipment, or by examining and feeling samples."
+},
+{
+"task_id": "12101",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Signal forklift operators to deposit or extract containers of parts into and from furnaces and quenching rinse tanks."
+},
+{
+"task_id": "12097",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Mount workpieces in fixtures, on arbors, or between centers of machines."
+},
+{
+"task_id": "12100",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Reduce heat when processing is complete to allow parts to cool in furnaces or machinery."
+},
+{
+"task_id": "12113",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Mount fixtures and industrial coils on machines, using hand tools."
+},
+{
+"task_id": "12108",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Heat billets, bars, plates, rods, and other stock to specified temperatures preparatory to forging, rolling, or processing, using oil, gas, or electrical furnaces."
+},
+{
+"task_id": "12092",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Position stock in furnaces, using tongs, chain hoists, or pry bars."
+},
+{
+"task_id": "12106",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Repair, replace, and maintain furnace equipment as needed, using hand tools."
+},
+{
+"task_id": "12109",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths."
+},
+{
+"task_id": "12111",
+"soc": "51-4191.00",
+"occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Stamp heat-treatment identification marks on parts, using hammers and punches."
+},
+{
+"task_id": "10298",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Mark curves, lines, holes, dimensions, and welding symbols onto workpieces, using scribes, soapstones, punches, and hand drills."
+},
+{
+"task_id": "10302",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Plan locations and sequences of cutting, drilling, bending, rolling, punching, and welding operations, using compasses, protractors, dividers, and rules."
+},
+{
+"task_id": "10295",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Fit and align fabricated parts to be welded or assembled."
+},
+{
+"task_id": "10300",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Locate center lines and verify template positions, using measuring instruments such as gauge blocks, height gauges, and dial indicators."
+},
+{
+"task_id": "10296",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Plan and develop layouts from blueprints and templates, applying knowledge of trigonometry, design, effects of heat, and properties of metals."
+},
+{
+"task_id": "10297",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Lay out and fabricate metal structural parts such as plates, bulkheads, and frames."
+},
+{
+"task_id": "10299",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Compute layout dimensions, and determine and mark reference points on metal stock or workpieces for further processing, such as welding and assembly."
+},
+{
+"task_id": "10301",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Lift and position workpieces in relation to surface plates, manually or with hoists, and using parallel blocks and angle plates."
+},
+{
+"task_id": "10304",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Design and prepare templates of wood, paper, or metal."
+},
+{
+"task_id": "10307",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Install doors, hatches, brackets, and clips."
+},
+{
+"task_id": "10305",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Brace parts in position within hulls or ships for riveting or welding."
+},
+{
+"task_id": "10303",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Inspect machined parts to verify conformance to specifications."
+},
+{
+"task_id": "10306",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Add dimensional details to blueprints or drawings made by other workers."
+},
+{
+"task_id": "10308",
+"soc": "51-4192.00",
+"occupation": "Layout Workers, Metal and Plastic",
+"task_text": "Apply pigment to layout surfaces, using paint brushes."
+},
+{
+"task_id": "10311",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Immerse workpieces in coating solutions or liquid metal or plastic for specified times."
+},
+{
+"task_id": "10326",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Adjust dials to regulate flow of current and voltage supplied to terminals to control plating processes."
+},
+{
+"task_id": "10309",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Inspect coated or plated areas for defects, such as air bubbles or uneven coverage."
+},
+{
+"task_id": "10312",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Set up, operate, or tend plating or coating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces."
+},
+{
+"task_id": "10319",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Observe gauges to ensure that machines are operating properly, making adjustments or stopping machines when problems occur."
+},
+{
+"task_id": "10318",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Remove objects from solutions at periodic intervals and observe objects to verify conformance to specifications."
+},
+{
+"task_id": "10316",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Maintain production records."
+},
+{
+"task_id": "10342",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Remove excess materials or impurities from objects, using air hoses or grinding machines."
+},
+{
+"task_id": "10328",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Examine completed objects to determine thicknesses of metal deposits, or measure thicknesses by using instruments such as micrometers."
+},
+{
+"task_id": "10327",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Rinse coated objects in cleansing liquids and dry them with cloths, centrifugal driers, or by tumbling in sawdust-filled barrels."
+},
+{
+"task_id": "10323",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Determine sizes and compositions of objects to be plated, and amounts of electrical current and time required."
+},
+{
+"task_id": "10314",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Test machinery to ensure that it is operating properly."
+},
+{
+"task_id": "10329",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Measure or weigh materials, using rulers, calculators, and scales."
+},
+{
+"task_id": "10331",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Measure, mark, and mask areas to be excluded from plating."
+},
+{
+"task_id": "10310",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Immerse objects to be coated or plated into cleaning solutions, or spray objects with conductive solutions to prepare them for plating."
+},
+{
+"task_id": "10335",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Read production schedules to determine setups of equipment and machines."
+},
+{
+"task_id": "10330",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Suspend objects, such as parts or molds from cathode rods, or negative terminals, and immerse objects in plating solutions."
+},
+{
+"task_id": "10324",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Suspend sticks or pieces of plating metal from anodes, or positive terminals, and immerse metal in plating solutions."
+},
+{
+"task_id": "10317",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Adjust controls to set temperatures of coating substances and speeds of machines and equipment."
+},
+{
+"task_id": "10325",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Monitor and measure thicknesses of electroplating on component parts to verify conformance to specifications, using micrometers."
+},
+{
+"task_id": "10315",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Operate hoists to place workpieces onto machine feed carriages or spindles."
+},
+{
+"task_id": "10313",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Position and feed materials into processing machines, by hand or by using automated equipment."
+},
+{
+"task_id": "10337",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Position objects to be plated in frames, or suspend them from positive or negative terminals of power supplies."
+},
+{
+"task_id": "10345",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Operate sandblasting equipment to roughen and clean surfaces of workpieces."
+},
+{
+"task_id": "10322",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Clean and maintain equipment, using water hoses and scrapers."
+},
+{
+"task_id": "10343",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Clean workpieces, using wire brushes."
+},
+{
+"task_id": "10332",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Mix and test solutions, and turn valves to fill tanks with solutions."
+},
+{
+"task_id": "10340",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Replace worn parts and adjust equipment components, using hand tools."
+},
+{
+"task_id": "10333",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Place plated or coated materials on racks and transfer them to ovens to dry for specified periods of time."
+},
+{
+"task_id": "10338",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Measure and set stops, rolls, brushes, and guides on automatic feeders and conveying equipment or coating machines, using micrometers, rules, and hand tools."
+},
+{
+"task_id": "10320",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Position containers to receive parts, and load or unload materials in containers, using dollies or handtrucks."
+},
+{
+"task_id": "10321",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors."
+},
+{
+"task_id": "10339",
+"soc": "51-4193.00",
+"occupation": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+"task_text": "Preheat workpieces in ovens."
+},
+{
+"task_id": "10349",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Monitor machine operations to determine whether adjustments are necessary, stopping machines when problems occur."
+},
+{
+"task_id": "10350",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Inspect, feel, and measure workpieces to ensure that surfaces and dimensions meet specifications."
+},
+{
+"task_id": "10358",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Study blueprints or layouts of metal workpieces to determine grinding procedures, and to plan machine setups and operational sequences."
+},
+{
+"task_id": "10354",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Select and mount grinding wheels on machines, according to specifications, using hand tools and applying knowledge of abrasives and grinding procedures."
+},
+{
+"task_id": "10357",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Compute numbers, widths, and angles of cutting tools, micrometers, scales, and gauges, and adjust tools to produce specified cuts."
+},
+{
+"task_id": "10359",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Turn valves to direct flow of coolant against cutting wheels and workpieces during grinding."
+},
+{
+"task_id": "10351",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Set up and operate grinding or polishing machines to grind metal workpieces, such as dies, parts, and tools."
+},
+{
+"task_id": "10348",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Dress grinding wheels, according to specifications."
+},
+{
+"task_id": "10353",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "File or finish surfaces of workpieces, using prescribed hand tools."
+},
+{
+"task_id": "10355",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Perform basic maintenance, such as cleaning and lubricating machine parts."
+},
+{
+"task_id": "10352",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Remove finished workpieces from machines and place them in boxes or on racks, setting aside pieces that are defective."
+},
+{
+"task_id": "10356",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Remove and replace worn or broken machine parts, using hand tools."
+},
+{
+"task_id": "20926",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Fit parts together in pre-assembly to ensure that dimensions are accurate."
+},
+{
+"task_id": "10364",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Attach workpieces to grinding machines and form specified sections and repair cracks, using welding or brazing equipment."
+},
+{
+"task_id": "10362",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Duplicate workpiece contours, using tracer attachments."
+},
+{
+"task_id": "10361",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Inspect dies to detect defects, assess wear, and verify specifications, using micrometers, steel gauge pins, and loupes."
+},
+{
+"task_id": "10365",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves."
+},
+{
+"task_id": "10363",
+"soc": "51-4194.00",
+"occupation": "Tool Grinders, Filers, and Sharpeners",
+"task_text": "Straighten workpieces and remove dents, using straightening presses and hammers."
+},
+{
+"task_id": "20927",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Generate prepress proofs in digital or other format to approximate the appearance of the final printed piece."
+},
+{
+"task_id": "20928",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Proofread and perform quality control of text and images."
+},
+{
+"task_id": "10403",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Enter, position, and alter text size, using computers, to make up and arrange pages so that printed materials can be produced."
+},
+{
+"task_id": "20929",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Perform \"preflight\" check of required font, graphic, text and image files to ensure completeness prior to delivery to printer."
+},
+{
+"task_id": "10405",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Operate and maintain laser plate-making equipment that converts electronic data to plates without the use of film."
+},
+{
+"task_id": "10402",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Enter, store, and retrieve information on computer-aided equipment."
+},
+{
+"task_id": "10404",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Maintain, adjust, and clean equipment, and perform minor repairs."
+},
+{
+"task_id": "10407",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Operate presses to print proofs of plates, monitoring printing quality to ensure that it is adequate."
+},
+{
+"task_id": "10425",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Select proper types of plates according to press run lengths."
+},
+{
+"task_id": "10412",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Examine finished plates to detect flaws, verify conformity with master plates, and measure dot sizes and centers, using light boxes and microscopes."
+},
+{
+"task_id": "10410",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Examine unexposed photographic plates to detect flaws or foreign particles prior to printing."
+},
+{
+"task_id": "10406",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Examine photographic images for obvious imperfections prior to plate making."
+},
+{
+"task_id": "10433",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Scale copy for reductions and enlargements, using proportion wheels."
+},
+{
+"task_id": "10427",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Analyze originals to evaluate color density, gradation highlights, middle tones, and shadows, using densitometers and knowledge of light and color."
+},
+{
+"task_id": "10428",
+"soc": "51-5111.00",
+"occupation": "Prepress Technicians and Workers",
+"task_text": "Set scanners to specific color densities, sizes, screen rulings, and exposure adjustments, using scanner keyboards or computers."
+},
+{
+"task_id": "19430",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Start presses and pull proofs to check for ink coverage and density, alignment, and registration."
+},
+{
+"task_id": "19423",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Examine job orders to determine quantities to be printed, stock specifications, colors, or special printing instructions."
+},
+{
+"task_id": "19417",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Adjust ink fountain flow rates."
+},
+{
+"task_id": "19431",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Verify that paper and ink meet the specifications for a given job."
+},
+{
+"task_id": "19421",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Collect and inspect random samples during print runs to identify any necessary adjustments."
+},
+{
+"task_id": "19424",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Feed paper through press cylinders and adjust feed and tension controls."
+},
+{
+"task_id": "19427",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Monitor automated press operation systems and respond to fault, error, or alert messages."
+},
+{
+"task_id": "19426",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Load presses with paper and make necessary adjustments, according to paper size."
+},
+{
+"task_id": "19429",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Secure printing plates to printing units and adjust tolerances."
+},
+{
+"task_id": "19419",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Clean ink fountains, plates, or printing unit cylinders when press runs are completed."
+},
+{
+"task_id": "19418",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Change press plates, blankets, or cylinders, as required."
+},
+{
+"task_id": "19428",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Obtain or mix inks and fill ink fountains."
+},
+{
+"task_id": "19425",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Input production job settings into workstation terminals that control automated printing systems."
+},
+{
+"task_id": "19420",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Clean or oil presses or make minor repairs, using hand tools."
+},
+{
+"task_id": "19435",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Maintain time or production records."
+},
+{
+"task_id": "19437",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Monitor inventory levels on a regular basis, ordering or requesting additional supplies, as necessary."
+},
+{
+"task_id": "19436",
+"soc": "51-5112.00",
+"occupation": "Printing Press Operators",
+"task_text": "Monitor environmental factors, such as humidity and temperature, that may impact equipment performance and make necessary adjustments."
+}
+]

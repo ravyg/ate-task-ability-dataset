@@ -1,0 +1,366 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+2347,Childcare Workers,Help children with homework and school work.,Oral Expression,2,0
+2347,Childcare Workers,Help children with homework and school work.,Oral Comprehension,2,0
+2347,Childcare Workers,Help children with homework and school work.,Written Comprehension,2,0
+2347,Childcare Workers,Help children with homework and school work.,Written Expression,1,0
+2347,Childcare Workers,Help children with homework and school work.,Deductive Reasoning,1,0
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Problem Sensitivity,2,0
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Oral Comprehension,2,0
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Static Strength,2,0
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Stamina,2,0
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Manual Dexterity,1,1
+18763,Childcare Workers,"Provide care for children with physical, developmental, or mental health disabilities.",Oral Expression,1,0
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",Oral Expression,2,0
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",Oral Comprehension,2,0
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",Information Ordering,2,0
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",Written Comprehension,1,0
+18764,Childcare Workers,"Perform general personnel functions, such as supervision, training, and scheduling.",Deductive Reasoning,1,0
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",Selective Attention,2,0
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",Stamina,1,0
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",Gross Body Coordination,1,0
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",Near Vision,1,0
+2349,Childcare Workers,"Accompany children to and from school, on outings, and to medical appointments.",Oral Comprehension,1,0
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",Oral Expression,2,0
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",Problem Sensitivity,2,0
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",Selective Attention,2,0
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",Oral Comprehension,1,0
+2355,Nannies,"Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects.",Deductive Reasoning,1,0
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,Problem Sensitivity,3,0
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,Deductive Reasoning,2,0
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,Selective Attention,2,0
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,Manual Dexterity,1,0
+2368,Nannies,Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.,Near Vision,1,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Manual Dexterity,2,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Arm-Hand Steadiness,2,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Reaction Time,3,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Problem Sensitivity,2,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Multilimb Coordination,2,0
+2351,Nannies,Perform first aid or cardiopulmonary resuscitation (CPR) when required.,Control Precision,1,0
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",Oral Expression,2,0
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",Oral Comprehension,2,0
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",Manual Dexterity,1,0
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",Problem Sensitivity,1,0
+2365,Nannies,"Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",Selective Attention,1,0
+2352,Nannies,Regulate children's rest periods and nap schedules.,Information Ordering,2,0
+2352,Nannies,Regulate children's rest periods and nap schedules.,Time Sharing,1,1
+2352,Nannies,Regulate children's rest periods and nap schedules.,Selective Attention,1,0
+2352,Nannies,Regulate children's rest periods and nap schedules.,Oral Expression,1,0
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",Oral Expression,2,0
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",Manual Dexterity,2,0
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",Fluency of Ideas,1,0
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",Originality,1,0
+2367,Nannies,"Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children.",Finger Dexterity,1,0
+2354,Nannies,Help prepare and serve nutritionally balanced meals and snacks for children.,Manual Dexterity,2,0
+2354,Nannies,Help prepare and serve nutritionally balanced meals and snacks for children.,Finger Dexterity,1,0
+2354,Nannies,Help prepare and serve nutritionally balanced meals and snacks for children.,Near Vision,1,0
+2354,Nannies,Help prepare and serve nutritionally balanced meals and snacks for children.,Information Ordering,1,1
+2358,Nannies,Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.,Oral Expression,2,0
+2358,Nannies,Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.,Oral Comprehension,1,0
+2358,Nannies,Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.,Originality,1,0
+2358,Nannies,Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.,Problem Sensitivity,1,0
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",Oral Expression,2,0
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",Gross Body Coordination,1,0
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",Manual Dexterity,1,0
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",Originality,1,0
+2356,Nannies,"Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",Fluency of Ideas,1,0
+2362,Nannies,"Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility.",Oral Expression,2,0
+2362,Nannies,"Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility.",Deductive Reasoning,1,0
+2362,Nannies,"Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility.",Problem Sensitivity,1,0
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",Problem Sensitivity,3,0
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",Near Vision,2,0
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",Manual Dexterity,2,0
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",Finger Dexterity,1,0
+2357,Nannies,"Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",Selective Attention,2,0
+2359,Nannies,Work with parents to develop and implement discipline programs to promote desirable child behavior.,Oral Expression,2,0
+2359,Nannies,Work with parents to develop and implement discipline programs to promote desirable child behavior.,Oral Comprehension,2,0
+2359,Nannies,Work with parents to develop and implement discipline programs to promote desirable child behavior.,Deductive Reasoning,1,0
+2359,Nannies,Work with parents to develop and implement discipline programs to promote desirable child behavior.,Written Comprehension,1,0
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,Static Strength,1,0
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,Stamina,2,0
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,Gross Body Coordination,1,0
+2364,Nannies,Perform housekeeping and cleaning duties related to children's care.,Manual Dexterity,1,0
+2353,Nannies,Meet regularly with parents to discuss children's activities and development.,Oral Expression,2,0
+2353,Nannies,Meet regularly with parents to discuss children's activities and development.,Oral Comprehension,2,0
+2353,Nannies,Meet regularly with parents to discuss children's activities and development.,Written Comprehension,1,0
+2361,Nannies,Supervise and assist with homework.,Oral Expression,1,0
+2361,Nannies,Supervise and assist with homework.,Oral Comprehension,1,0
+2361,Nannies,Supervise and assist with homework.,Written Comprehension,2,0
+2361,Nannies,Supervise and assist with homework.,Deductive Reasoning,1,0
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",Far Vision,2,0
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",Reaction Time,2,0
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",Control Precision,2,0
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",Depth Perception,1,0
+2363,Nannies,"Transport children to schools, social outings, and medical appointments.",Selective Attention,1,0
+2366,Nannies,"Keep records of play, meal schedules, and bill payment.",Written Expression,2,0
+2366,Nannies,"Keep records of play, meal schedules, and bill payment.",Information Ordering,2,0
+2366,Nannies,"Keep records of play, meal schedules, and bill payment.",Number Facility,1,0
+2360,Nannies,Help develop or monitor family schedule.,Information Ordering,2,0
+2360,Nannies,Help develop or monitor family schedule.,Time Sharing,1,0
+2360,Nannies,Help develop or monitor family schedule.,Deductive Reasoning,1,0
+21071,Nannies,"Shop for groceries, clothing, and other items needed for children's care.",Number Facility,1,0
+21071,Nannies,"Shop for groceries, clothing, and other items needed for children's care.",Near Vision,1,0
+21071,Nannies,"Shop for groceries, clothing, and other items needed for children's care.",Deductive Reasoning,1,0
+21071,Nannies,"Shop for groceries, clothing, and other items needed for children's care.",Static Strength,1,0
+4559,Exercise Trainers and Group Fitness Instructors,Observe participants and inform them of corrective measures necessary for skill improvement.,Near Vision,2,0
+4559,Exercise Trainers and Group Fitness Instructors,Observe participants and inform them of corrective measures necessary for skill improvement.,Problem Sensitivity,2,0
+4559,Exercise Trainers and Group Fitness Instructors,Observe participants and inform them of corrective measures necessary for skill improvement.,Oral Expression,2,0
+4559,Exercise Trainers and Group Fitness Instructors,Observe participants and inform them of corrective measures necessary for skill improvement.,Selective Attention,2,0
+4557,Exercise Trainers and Group Fitness Instructors,Offer alternatives during classes to accommodate different levels of fitness.,Oral Expression,2,0
+4557,Exercise Trainers and Group Fitness Instructors,Offer alternatives during classes to accommodate different levels of fitness.,Problem Sensitivity,1,0
+4557,Exercise Trainers and Group Fitness Instructors,Offer alternatives during classes to accommodate different levels of fitness.,Deductive Reasoning,1,0
+4557,Exercise Trainers and Group Fitness Instructors,Offer alternatives during classes to accommodate different levels of fitness.,Originality,1,0
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,Near Vision,1,0
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,Problem Sensitivity,2,0
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,Deductive Reasoning,1,0
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,Selective Attention,2,0
+4565,Exercise Trainers and Group Fitness Instructors,Monitor participants' progress and adapt programs as needed.,Information Ordering,1,0
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",Originality,2,0
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",Fluency of Ideas,2,0
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",Deductive Reasoning,1,0
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",Information Ordering,1,0
+4558,Exercise Trainers and Group Fitness Instructors,"Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",Visualization,1,1
+4566,Exercise Trainers and Group Fitness Instructors,"Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",Problem Sensitivity,2,0
+4566,Exercise Trainers and Group Fitness Instructors,"Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",Deductive Reasoning,2,0
+4566,Exercise Trainers and Group Fitness Instructors,"Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",Oral Comprehension,1,0
+4566,Exercise Trainers and Group Fitness Instructors,"Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",Information Ordering,1,0
+4561,Exercise Trainers and Group Fitness Instructors,Instruct participants in maintaining exertion levels to maximize benefits from exercise routines.,Oral Expression,2,0
+4561,Exercise Trainers and Group Fitness Instructors,Instruct participants in maintaining exertion levels to maximize benefits from exercise routines.,Problem Sensitivity,1,0
+4561,Exercise Trainers and Group Fitness Instructors,Instruct participants in maintaining exertion levels to maximize benefits from exercise routines.,Selective Attention,1,0
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",Gross Body Coordination,3,0
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",Multilimb Coordination,2,0
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",Oral Expression,2,0
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",Dynamic Strength,1,0
+4562,Exercise Trainers and Group Fitness Instructors,"Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",Extent Flexibility,1,0
+4556,Exercise Trainers and Group Fitness Instructors,"Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment.",Oral Expression,2,0
+4556,Exercise Trainers and Group Fitness Instructors,"Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment.",Oral Comprehension,1,0
+4556,Exercise Trainers and Group Fitness Instructors,"Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment.",Problem Sensitivity,1,0
+4560,Exercise Trainers and Group Fitness Instructors,Teach proper breathing techniques used during physical exertion.,Oral Expression,2,0
+4560,Exercise Trainers and Group Fitness Instructors,Teach proper breathing techniques used during physical exertion.,Gross Body Coordination,1,0
+4560,Exercise Trainers and Group Fitness Instructors,Teach proper breathing techniques used during physical exertion.,Problem Sensitivity,1,0
+4563,Exercise Trainers and Group Fitness Instructors,Maintain fitness equipment.,Manual Dexterity,2,0
+4563,Exercise Trainers and Group Fitness Instructors,Maintain fitness equipment.,Static Strength,1,0
+4563,Exercise Trainers and Group Fitness Instructors,Maintain fitness equipment.,Near Vision,1,0
+4563,Exercise Trainers and Group Fitness Instructors,Maintain fitness equipment.,Control Precision,1,0
+4568,Exercise Trainers and Group Fitness Instructors,"Provide students with information and resources regarding nutrition, weight control, and lifestyle issues.",Oral Expression,2,0
+4568,Exercise Trainers and Group Fitness Instructors,"Provide students with information and resources regarding nutrition, weight control, and lifestyle issues.",Oral Comprehension,1,0
+4568,Exercise Trainers and Group Fitness Instructors,"Provide students with information and resources regarding nutrition, weight control, and lifestyle issues.",Written Comprehension,1,0
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",Manual Dexterity,2,0
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",Arm-Hand Steadiness,2,0
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",Reaction Time,2,0
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",Problem Sensitivity,2,0
+4569,Exercise Trainers and Group Fitness Instructors,"Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians.",Finger Dexterity,1,0
+4575,Exercise Trainers and Group Fitness Instructors,"Maintain equipment inventories, and select, store, or issue equipment as needed.",Information Ordering,2,0
+4575,Exercise Trainers and Group Fitness Instructors,"Maintain equipment inventories, and select, store, or issue equipment as needed.",Number Facility,1,0
+4575,Exercise Trainers and Group Fitness Instructors,"Maintain equipment inventories, and select, store, or issue equipment as needed.",Static Strength,1,0
+4570,Exercise Trainers and Group Fitness Instructors,Advise clients about proper clothing and shoes.,Oral Expression,2,0
+4570,Exercise Trainers and Group Fitness Instructors,Advise clients about proper clothing and shoes.,Oral Comprehension,1,0
+4570,Exercise Trainers and Group Fitness Instructors,Advise clients about proper clothing and shoes.,Problem Sensitivity,1,0
+4564,Exercise Trainers and Group Fitness Instructors,"Conduct therapeutic, recreational, or athletic activities.",Gross Body Coordination,2,0
+4564,Exercise Trainers and Group Fitness Instructors,"Conduct therapeutic, recreational, or athletic activities.",Oral Expression,1,0
+4564,Exercise Trainers and Group Fitness Instructors,"Conduct therapeutic, recreational, or athletic activities.",Multilimb Coordination,1,0
+4564,Exercise Trainers and Group Fitness Instructors,"Conduct therapeutic, recreational, or athletic activities.",Stamina,1,0
+4567,Exercise Trainers and Group Fitness Instructors,Plan physical education programs to promote development of participants' physical attributes and social skills.,Deductive Reasoning,2,0
+4567,Exercise Trainers and Group Fitness Instructors,Plan physical education programs to promote development of participants' physical attributes and social skills.,Originality,1,0
+4567,Exercise Trainers and Group Fitness Instructors,Plan physical education programs to promote development of participants' physical attributes and social skills.,Information Ordering,1,0
+4567,Exercise Trainers and Group Fitness Instructors,Plan physical education programs to promote development of participants' physical attributes and social skills.,Oral Expression,1,0
+4572,Exercise Trainers and Group Fitness Instructors,"Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities.",Gross Body Coordination,3,0
+4572,Exercise Trainers and Group Fitness Instructors,"Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities.",Oral Expression,2,0
+4572,Exercise Trainers and Group Fitness Instructors,"Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities.",Multilimb Coordination,2,0
+4572,Exercise Trainers and Group Fitness Instructors,"Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities.",Dynamic Flexibility,1,0
+4573,Exercise Trainers and Group Fitness Instructors,"Promote health clubs through membership sales, and record member information.",Oral Expression,2,0
+4573,Exercise Trainers and Group Fitness Instructors,"Promote health clubs through membership sales, and record member information.",Oral Comprehension,1,0
+4573,Exercise Trainers and Group Fitness Instructors,"Promote health clubs through membership sales, and record member information.",Written Expression,1,0
+4573,Exercise Trainers and Group Fitness Instructors,"Promote health clubs through membership sales, and record member information.",Number Facility,1,1
+4576,Exercise Trainers and Group Fitness Instructors,Organize and conduct competitions and tournaments.,Information Ordering,2,0
+4576,Exercise Trainers and Group Fitness Instructors,Organize and conduct competitions and tournaments.,Oral Expression,1,0
+4576,Exercise Trainers and Group Fitness Instructors,Organize and conduct competitions and tournaments.,Deductive Reasoning,1,0
+4577,Exercise Trainers and Group Fitness Instructors,Advise participants in use of heat or ultraviolet treatments and hot baths.,Oral Expression,2,0
+4577,Exercise Trainers and Group Fitness Instructors,Advise participants in use of heat or ultraviolet treatments and hot baths.,Oral Comprehension,1,0
+4577,Exercise Trainers and Group Fitness Instructors,Advise participants in use of heat or ultraviolet treatments and hot baths.,Problem Sensitivity,1,0
+2380,Recreation Workers,Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety.,Oral Expression,2,0
+2380,Recreation Workers,Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety.,Problem Sensitivity,2,0
+2380,Recreation Workers,Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety.,Selective Attention,2,0
+2381,Recreation Workers,"Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies.",Oral Expression,2,0
+2381,Recreation Workers,"Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies.",Fluency of Ideas,1,0
+2381,Recreation Workers,"Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies.",Gross Body Coordination,1,0
+2381,Recreation Workers,"Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies.",Originality,1,0
+21010,Recreation Workers,"Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities.",Problem Sensitivity,2,0
+21010,Recreation Workers,"Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities.",Deductive Reasoning,2,0
+21010,Recreation Workers,"Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities.",Oral Comprehension,1,0
+21010,Recreation Workers,"Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities.",Information Ordering,1,0
+2382,Recreation Workers,Manage the daily operations of recreational facilities.,Information Ordering,2,0
+2382,Recreation Workers,Manage the daily operations of recreational facilities.,Deductive Reasoning,2,0
+2382,Recreation Workers,Manage the daily operations of recreational facilities.,Oral Expression,1,0
+2383,Recreation Workers,Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary.,Manual Dexterity,2,0
+2383,Recreation Workers,Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary.,Arm-Hand Steadiness,2,0
+2383,Recreation Workers,Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary.,Reaction Time,2,0
+2383,Recreation Workers,Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary.,Problem Sensitivity,2,0
+2388,Recreation Workers,Complete and maintain time and attendance forms and inventory lists.,Written Expression,2,0
+2388,Recreation Workers,Complete and maintain time and attendance forms and inventory lists.,Number Facility,2,0
+2388,Recreation Workers,Complete and maintain time and attendance forms and inventory lists.,Information Ordering,2,0
+2386,Recreation Workers,"Explain principles, techniques, and safety procedures to participants in recreational activities and demonstrate use of materials and equipment.",Oral Expression,2,0
+2386,Recreation Workers,"Explain principles, techniques, and safety procedures to participants in recreational activities and demonstrate use of materials and equipment.",Manual Dexterity,1,0
+2386,Recreation Workers,"Explain principles, techniques, and safety procedures to participants in recreational activities and demonstrate use of materials and equipment.",Oral Comprehension,1,0
+2393,Recreation Workers,"Direct special activities or events, such as aquatics, gymnastics, or performing arts.",Oral Expression,2,0
+2393,Recreation Workers,"Direct special activities or events, such as aquatics, gymnastics, or performing arts.",Information Ordering,2,0
+2393,Recreation Workers,"Direct special activities or events, such as aquatics, gymnastics, or performing arts.",Gross Body Coordination,1,0
+2390,Recreation Workers,"Supervise and coordinate the work activities of personnel, such as training staff members and assigning work duties.",Oral Expression,2,0
+2390,Recreation Workers,"Supervise and coordinate the work activities of personnel, such as training staff members and assigning work duties.",Oral Comprehension,2,0
+2390,Recreation Workers,"Supervise and coordinate the work activities of personnel, such as training staff members and assigning work duties.",Information Ordering,1,0
+2387,Recreation Workers,"Evaluate recreation areas, facilities, and services to determine if they are producing desired results.",Deductive Reasoning,2,0
+2387,Recreation Workers,"Evaluate recreation areas, facilities, and services to determine if they are producing desired results.",Problem Sensitivity,2,0
+2387,Recreation Workers,"Evaluate recreation areas, facilities, and services to determine if they are producing desired results.",Written Comprehension,1,0
+21011,Recreation Workers,Document individuals' progress toward meeting their treatment goals.,Written Expression,2,0
+21011,Recreation Workers,Document individuals' progress toward meeting their treatment goals.,Information Ordering,2,0
+21011,Recreation Workers,Document individuals' progress toward meeting their treatment goals.,Problem Sensitivity,1,0
+2385,Recreation Workers,"Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation.",Oral Expression,2,0
+2385,Recreation Workers,"Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation.",Oral Comprehension,1,0
+2385,Recreation Workers,"Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation.",Selective Attention,1,0
+2389,Recreation Workers,Confer with management to discuss and resolve participant complaints.,Oral Expression,2,0
+2389,Recreation Workers,Confer with management to discuss and resolve participant complaints.,Oral Comprehension,2,0
+2389,Recreation Workers,Confer with management to discuss and resolve participant complaints.,Deductive Reasoning,1,0
+2389,Recreation Workers,Confer with management to discuss and resolve participant complaints.,Problem Sensitivity,1,0
+2394,Recreation Workers,"Meet with staff to discuss rules, regulations, and work-related problems.",Oral Expression,2,0
+2394,Recreation Workers,"Meet with staff to discuss rules, regulations, and work-related problems.",Oral Comprehension,2,0
+2394,Recreation Workers,"Meet with staff to discuss rules, regulations, and work-related problems.",Problem Sensitivity,1,0
+2399,Recreation Workers,"Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas.",Deductive Reasoning,2,0
+2399,Recreation Workers,"Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas.",Information Ordering,2,0
+2399,Recreation Workers,"Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas.",Visualization,1,1
+2399,Recreation Workers,"Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas.",Number Facility,1,0
+2396,Recreation Workers,Encourage participants to develop their own activities and leadership skills through group discussions.,Oral Expression,2,0
+2396,Recreation Workers,Encourage participants to develop their own activities and leadership skills through group discussions.,Oral Comprehension,2,0
+2396,Recreation Workers,Encourage participants to develop their own activities and leadership skills through group discussions.,Originality,1,0
+2391,Recreation Workers,"Meet and collaborate with agency personnel, community organizations, and other professional personnel to plan balanced recreational programs for participants.",Oral Expression,2,0
+2391,Recreation Workers,"Meet and collaborate with agency personnel, community organizations, and other professional personnel to plan balanced recreational programs for participants.",Oral Comprehension,2,0
+2391,Recreation Workers,"Meet and collaborate with agency personnel, community organizations, and other professional personnel to plan balanced recreational programs for participants.",Deductive Reasoning,1,0
+2395,Recreation Workers,Provide for entertainment and set up related decorations and equipment.,Manual Dexterity,2,0
+2395,Recreation Workers,Provide for entertainment and set up related decorations and equipment.,Static Strength,1,0
+2395,Recreation Workers,Provide for entertainment and set up related decorations and equipment.,Originality,1,0
+2395,Recreation Workers,Provide for entertainment and set up related decorations and equipment.,Gross Body Coordination,1,0
+2397,Recreation Workers,Serve as liaison between park or recreation administrators and activity instructors.,Oral Expression,2,0
+2397,Recreation Workers,Serve as liaison between park or recreation administrators and activity instructors.,Oral Comprehension,2,0
+2397,Recreation Workers,Serve as liaison between park or recreation administrators and activity instructors.,Written Comprehension,1,0
+2392,Recreation Workers,Schedule maintenance and use of facilities.,Information Ordering,2,0
+2392,Recreation Workers,Schedule maintenance and use of facilities.,Number Facility,1,0
+2392,Recreation Workers,Schedule maintenance and use of facilities.,Deductive Reasoning,1,0
+18557,Recreation Workers,Conduct individual in-room visits with residents.,Oral Expression,2,0
+18557,Recreation Workers,Conduct individual in-room visits with residents.,Oral Comprehension,2,0
+18557,Recreation Workers,Conduct individual in-room visits with residents.,Problem Sensitivity,1,0
+21012,Recreation Workers,Develop treatment goals for individuals based on their assessments.,Deductive Reasoning,2,0
+21012,Recreation Workers,Develop treatment goals for individuals based on their assessments.,Problem Sensitivity,2,0
+21012,Recreation Workers,Develop treatment goals for individuals based on their assessments.,Written Expression,1,0
+21012,Recreation Workers,Develop treatment goals for individuals based on their assessments.,Oral Comprehension,1,0
+2398,Recreation Workers,"Evaluate staff performance, recording evaluations on appropriate forms.",Deductive Reasoning,2,0
+2398,Recreation Workers,"Evaluate staff performance, recording evaluations on appropriate forms.",Written Expression,2,0
+2398,Recreation Workers,"Evaluate staff performance, recording evaluations on appropriate forms.",Problem Sensitivity,1,0
+18558,Recreation Workers,Take residents on community outings.,Gross Body Coordination,1,0
+18558,Recreation Workers,Take residents on community outings.,Selective Attention,2,0
+18558,Recreation Workers,Take residents on community outings.,Stamina,1,0
+18558,Recreation Workers,Take residents on community outings.,Oral Expression,1,0
+6974,Residential Advisors,Communicate with other staff to resolve problems with individual students.,Oral Expression,2,0
+6974,Residential Advisors,Communicate with other staff to resolve problems with individual students.,Oral Comprehension,2,0
+6974,Residential Advisors,Communicate with other staff to resolve problems with individual students.,Deductive Reasoning,1,0
+6974,Residential Advisors,Communicate with other staff to resolve problems with individual students.,Problem Sensitivity,1,0
+6977,Residential Advisors,Observe students to detect and report unusual behavior.,Problem Sensitivity,3,0
+6977,Residential Advisors,Observe students to detect and report unusual behavior.,Near Vision,2,0
+6977,Residential Advisors,Observe students to detect and report unusual behavior.,Selective Attention,2,0
+6977,Residential Advisors,Observe students to detect and report unusual behavior.,Written Expression,1,0
+20138,Residential Advisors,"Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers.",Oral Expression,2,0
+20138,Residential Advisors,"Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers.",Oral Comprehension,2,0
+20138,Residential Advisors,"Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers.",Information Ordering,1,0
+20138,Residential Advisors,"Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers.",Deductive Reasoning,1,0
+6971,Residential Advisors,Provide emergency first aid and summon medical assistance when necessary.,Manual Dexterity,2,0
+6971,Residential Advisors,Provide emergency first aid and summon medical assistance when necessary.,Arm-Hand Steadiness,2,0
+6971,Residential Advisors,Provide emergency first aid and summon medical assistance when necessary.,Reaction Time,3,0
+6971,Residential Advisors,Provide emergency first aid and summon medical assistance when necessary.,Problem Sensitivity,2,0
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,Selective Attention,2,0
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,Near Vision,1,0
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,Gross Body Coordination,1,0
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,Problem Sensitivity,2,0
+6976,Residential Advisors,Make regular rounds to ensure that residents and areas are safe and secure.,Stamina,1,0
+6972,Residential Advisors,Mediate interpersonal problems between residents.,Oral Expression,2,0
+6972,Residential Advisors,Mediate interpersonal problems between residents.,Oral Comprehension,2,0
+6972,Residential Advisors,Mediate interpersonal problems between residents.,Deductive Reasoning,2,0
+6972,Residential Advisors,Mediate interpersonal problems between residents.,Problem Sensitivity,1,0
+6970,Residential Advisors,Enforce rules and regulations to ensure the smooth and orderly operation of dormitory programs.,Oral Expression,2,0
+6970,Residential Advisors,Enforce rules and regulations to ensure the smooth and orderly operation of dormitory programs.,Problem Sensitivity,1,0
+6970,Residential Advisors,Enforce rules and regulations to ensure the smooth and orderly operation of dormitory programs.,Deductive Reasoning,1,0
+6978,Residential Advisors,"Determine the need for facility maintenance and repair, and notify appropriate personnel.",Problem Sensitivity,2,0
+6978,Residential Advisors,"Determine the need for facility maintenance and repair, and notify appropriate personnel.",Near Vision,1,0
+6978,Residential Advisors,"Determine the need for facility maintenance and repair, and notify appropriate personnel.",Oral Expression,1,0
+6978,Residential Advisors,"Determine the need for facility maintenance and repair, and notify appropriate personnel.",Deductive Reasoning,1,0
+6979,Residential Advisors,Collaborate with counselors to develop counseling programs that address the needs of individual students.,Oral Expression,2,0
+6979,Residential Advisors,Collaborate with counselors to develop counseling programs that address the needs of individual students.,Oral Comprehension,2,0
+6979,Residential Advisors,Collaborate with counselors to develop counseling programs that address the needs of individual students.,Deductive Reasoning,1,0
+20137,Residential Advisors,Develop and coordinate educational programs for residents.,Deductive Reasoning,2,0
+20137,Residential Advisors,Develop and coordinate educational programs for residents.,Information Ordering,2,0
+20137,Residential Advisors,Develop and coordinate educational programs for residents.,Originality,1,0
+20137,Residential Advisors,Develop and coordinate educational programs for residents.,Oral Expression,1,0
+6980,Residential Advisors,Develop program plans for individuals or assist in plan development.,Deductive Reasoning,2,0
+6980,Residential Advisors,Develop program plans for individuals or assist in plan development.,Problem Sensitivity,1,0
+6980,Residential Advisors,Develop program plans for individuals or assist in plan development.,Written Expression,1,0
+6980,Residential Advisors,Develop program plans for individuals or assist in plan development.,Information Ordering,1,0
+6984,Residential Advisors,Provide requested information on students' progress and the development of case plans.,Oral Expression,2,0
+6984,Residential Advisors,Provide requested information on students' progress and the development of case plans.,Written Expression,2,0
+6984,Residential Advisors,Provide requested information on students' progress and the development of case plans.,Oral Comprehension,1,0
+6985,Residential Advisors,Confer with medical personnel to better understand the backgrounds and needs of individual residents.,Oral Comprehension,2,0
+6985,Residential Advisors,Confer with medical personnel to better understand the backgrounds and needs of individual residents.,Oral Expression,2,0
+6985,Residential Advisors,Confer with medical personnel to better understand the backgrounds and needs of individual residents.,Deductive Reasoning,1,0
+6973,Residential Advisors,"Administer, coordinate, or recommend disciplinary and corrective actions.",Deductive Reasoning,2,0
+6973,Residential Advisors,"Administer, coordinate, or recommend disciplinary and corrective actions.",Problem Sensitivity,2,0
+6973,Residential Advisors,"Administer, coordinate, or recommend disciplinary and corrective actions.",Oral Expression,1,0
+6986,Residential Advisors,"Answer telephones, and route calls or deliver messages.",Oral Expression,2,0
+6986,Residential Advisors,"Answer telephones, and route calls or deliver messages.",Oral Comprehension,2,0
+6986,Residential Advisors,"Answer telephones, and route calls or deliver messages.",Hearing Sensitivity,1,0
+6986,Residential Advisors,"Answer telephones, and route calls or deliver messages.",Speech Recognition,1,1
+6975,Residential Advisors,"Counsel students in the handling of issues such as family, financial, and educational problems.",Oral Expression,2,0
+6975,Residential Advisors,"Counsel students in the handling of issues such as family, financial, and educational problems.",Oral Comprehension,2,0
+6975,Residential Advisors,"Counsel students in the handling of issues such as family, financial, and educational problems.",Problem Sensitivity,2,0
+6975,Residential Advisors,"Counsel students in the handling of issues such as family, financial, and educational problems.",Deductive Reasoning,1,0
+6981,Residential Advisors,Hold regular meetings with each assigned unit.,Oral Expression,2,0
+6981,Residential Advisors,Hold regular meetings with each assigned unit.,Oral Comprehension,1,0
+6981,Residential Advisors,Hold regular meetings with each assigned unit.,Information Ordering,1,0
+6994,Residential Advisors,Compile information such as residents' daily activities and the quantities of supplies used to prepare required reports.,Written Expression,2,0
+6994,Residential Advisors,Compile information such as residents' daily activities and the quantities of supplies used to prepare required reports.,Information Ordering,2,0
+6994,Residential Advisors,Compile information such as residents' daily activities and the quantities of supplies used to prepare required reports.,Number Facility,1,0
+6993,Residential Advisors,Chaperone group-sponsored trips and social functions.,Selective Attention,2,0
+6993,Residential Advisors,Chaperone group-sponsored trips and social functions.,Stamina,1,0
+6993,Residential Advisors,Chaperone group-sponsored trips and social functions.,Gross Body Coordination,1,0
+6993,Residential Advisors,Chaperone group-sponsored trips and social functions.,Oral Comprehension,1,0
+6991,Residential Advisors,Order supplies for facilities.,Number Facility,2,0
+6991,Residential Advisors,Order supplies for facilities.,Information Ordering,1,0
+6991,Residential Advisors,Order supplies for facilities.,Written Expression,1,0
+20139,Residential Advisors,Oversee departmental budget.,Number Facility,3,0
+20139,Residential Advisors,Oversee departmental budget.,Mathematical Reasoning,2,0
+20139,Residential Advisors,Oversee departmental budget.,Information Ordering,1,0
+6992,Residential Advisors,Supervise students' housekeeping work to ensure that it is done properly.,Near Vision,1,0
+6992,Residential Advisors,Supervise students' housekeeping work to ensure that it is done properly.,Oral Expression,1,0
+6992,Residential Advisors,Supervise students' housekeeping work to ensure that it is done properly.,Selective Attention,1,0
+6992,Residential Advisors,Supervise students' housekeeping work to ensure that it is done properly.,Problem Sensitivity,1,0
+6988,Residential Advisors,Process contract cancellations for students who are unable to follow residence hall policies and procedures.,Written Comprehension,2,0
+6988,Residential Advisors,Process contract cancellations for students who are unable to follow residence hall policies and procedures.,Written Expression,2,0
+6988,Residential Advisors,Process contract cancellations for students who are unable to follow residence hall policies and procedures.,Information Ordering,1,0
+6988,Residential Advisors,Process contract cancellations for students who are unable to follow residence hall policies and procedures.,Deductive Reasoning,1,0
+6995,Residential Advisors,Accompany and supervise students during meals.,Selective Attention,2,0
+6995,Residential Advisors,Accompany and supervise students during meals.,Oral Comprehension,1,0
+6995,Residential Advisors,Accompany and supervise students during meals.,Stamina,1,0
+6990,Residential Advisors,Supervise the activities of housekeeping personnel.,Oral Expression,2,0
+6990,Residential Advisors,Supervise the activities of housekeeping personnel.,Selective Attention,1,0
+6990,Residential Advisors,Supervise the activities of housekeeping personnel.,Information Ordering,1,0
+6983,Residential Advisors,Assign rooms to students.,Information Ordering,2,0
+6983,Residential Advisors,Assign rooms to students.,Deductive Reasoning,1,0
+6983,Residential Advisors,Assign rooms to students.,Number Facility,1,0
+6996,Residential Advisors,"Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists.",Far Vision,2,0
+6996,Residential Advisors,"Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists.",Reaction Time,2,0
+6996,Residential Advisors,"Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists.",Control Precision,2,1
+6996,Residential Advisors,"Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists.",Selective Attention,1,0
+6982,Residential Advisors,"Direct and participate in on- and off-campus recreational activities for residents of institutions, boarding schools, fraternities or sororities, children's homes, or similar establishments.",Gross Body Coordination,2,0
+6982,Residential Advisors,"Direct and participate in on- and off-campus recreational activities for residents of institutions, boarding schools, fraternities or sororities, children's homes, or similar establishments.",Oral Expression,2,0
+6982,Residential Advisors,"Direct and participate in on- and off-campus recreational activities for residents of institutions, boarding schools, fraternities or sororities, children's homes, or similar establishments.",Stamina,1,0
+6989,Residential Advisors,Sort and distribute mail.,Near Vision,2,0
+6989,Residential Advisors,Sort and distribute mail.,Information Ordering,2,0
+6989,Residential Advisors,Sort and distribute mail.,Manual Dexterity,1,0
+6997,Residential Advisors,"Inventory, pack, and remove items left behind by former residents.",Manual Dexterity,2,0
+6997,Residential Advisors,"Inventory, pack, and remove items left behind by former residents.",Static Strength,1,0
+6997,Residential Advisors,"Inventory, pack, and remove items left behind by former residents.",Information Ordering,2,0
+6997,Residential Advisors,"Inventory, pack, and remove items left behind by former residents.",Near Vision,1,0

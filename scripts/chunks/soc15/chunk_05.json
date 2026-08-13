@@ -1,0 +1,722 @@
+[
+{
+"task_id": "20953",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Educate staff in the use of mathematical models."
+},
+{
+"task_id": "7390",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules."
+},
+{
+"task_id": "23986",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Review research literature."
+},
+{
+"task_id": "8956",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Analyze and interpret statistical data to identify significant differences in relationships among sources of information."
+},
+{
+"task_id": "8958",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy."
+},
+{
+"task_id": "8953",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Report results of statistical analyses, including information in the form of graphs, charts, and tables."
+},
+{
+"task_id": "21100",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Determine whether statistical methods are appropriate, based on user needs or research questions of interest."
+},
+{
+"task_id": "8957",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data."
+},
+{
+"task_id": "8966",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Develop and test experimental designs, sampling techniques, and analytical methods."
+},
+{
+"task_id": "8955",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Identify relationships and trends in data, as well as any factors that could affect the results of research."
+},
+{
+"task_id": "20194",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students."
+},
+{
+"task_id": "8961",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses."
+},
+{
+"task_id": "8965",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering."
+},
+{
+"task_id": "8959",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Evaluate sources of information to determine any limitations, in terms of reliability or usability."
+},
+{
+"task_id": "8954",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Process large amounts of data for statistical modeling and graphic analysis, using computers."
+},
+{
+"task_id": "20193",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Develop software applications or programming for statistical modeling and graphic analysis."
+},
+{
+"task_id": "20192",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Report results of statistical analyses in peer-reviewed papers and technical manuals."
+},
+{
+"task_id": "8960",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used."
+},
+{
+"task_id": "8964",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed."
+},
+{
+"task_id": "8967",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data."
+},
+{
+"task_id": "8963",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Supervise and provide instructions for workers collecting and tabulating data."
+},
+{
+"task_id": "21101",
+"soc": "15-2041.00",
+"occupation": "Statisticians",
+"task_text": "Prepare and structure data warehouses for storing data."
+},
+{
+"task_id": "16254",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Draw conclusions or make predictions, based on data summaries or statistical analyses."
+},
+{
+"task_id": "16265",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques."
+},
+{
+"task_id": "16250",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports."
+},
+{
+"task_id": "16246",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Calculate sample size requirements for clinical studies."
+},
+{
+"task_id": "16243",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences."
+},
+{
+"task_id": "16258",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Design research studies in collaboration with physicians, life scientists, or other professionals."
+},
+{
+"task_id": "16252",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Prepare tables and graphs to present clinical data or results."
+},
+{
+"task_id": "16249",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Write program code to analyze data with statistical analysis software."
+},
+{
+"task_id": "16263",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Provide biostatistical consultation to clients or colleagues."
+},
+{
+"task_id": "16262",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Review clinical or other medical research protocols and recommend appropriate statistical analyses."
+},
+{
+"task_id": "16257",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Develop or implement data analysis algorithms."
+},
+{
+"task_id": "16247",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies."
+},
+{
+"task_id": "16244",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients."
+},
+{
+"task_id": "16251",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Plan or direct research studies related to life sciences."
+},
+{
+"task_id": "16245",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Prepare articles for publication or presentation at professional conferences."
+},
+{
+"task_id": "16253",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected."
+},
+{
+"task_id": "16241",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Write research proposals or grant applications for submission to external bodies."
+},
+{
+"task_id": "16259",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Design or maintain databases of biological data."
+},
+{
+"task_id": "16260",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Collect data through surveys or experimentation."
+},
+{
+"task_id": "16264",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Apply research or simulation results to extend biological theory or recommend new research projects."
+},
+{
+"task_id": "16255",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases."
+},
+{
+"task_id": "16248",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Assign work to biostatistical assistants or programmers."
+},
+{
+"task_id": "16261",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Analyze archival data, such as birth, death, and disease records."
+},
+{
+"task_id": "16256",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Design surveys to assess health issues."
+},
+{
+"task_id": "16242",
+"soc": "15-2041.01",
+"occupation": "Biostatisticians",
+"task_text": "Teach graduate or continuing education courses or seminars in biostatistics."
+},
+{
+"task_id": "21823",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Analyze, manipulate, or process large sets of data using statistical software."
+},
+{
+"task_id": "21824",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use."
+},
+{
+"task_id": "21825",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods."
+},
+{
+"task_id": "21826",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Clean and manipulate raw data using statistical software."
+},
+{
+"task_id": "21827",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Compare models using statistical performance metrics, such as loss functions or proportion of explained variance."
+},
+{
+"task_id": "21828",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software."
+},
+{
+"task_id": "21829",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users."
+},
+{
+"task_id": "21830",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Design surveys, opinion polls, or other instruments to collect data."
+},
+{
+"task_id": "21831",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Identify business problems or management objectives that can be addressed through data analysis."
+},
+{
+"task_id": "21832",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Identify relationships and trends or any factors that could affect the results of research."
+},
+{
+"task_id": "21833",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis."
+},
+{
+"task_id": "21834",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques."
+},
+{
+"task_id": "21835",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies."
+},
+{
+"task_id": "21836",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Recommend data-driven solutions to key stakeholders."
+},
+{
+"task_id": "21837",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest."
+},
+{
+"task_id": "21838",
+"soc": "15-2051.00",
+"occupation": "Data Scientists",
+"task_text": "Write new functions or applications in programming languages to conduct analyses."
+},
+{
+"task_id": "16150",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders."
+},
+{
+"task_id": "16139",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Maintain or update business intelligence tools, databases, dashboards, systems, or methods."
+},
+{
+"task_id": "16140",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Manage timely flow of business intelligence information to users."
+},
+{
+"task_id": "16134",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Provide technical support for existing reports, dashboards, or other tools."
+},
+{
+"task_id": "16141",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Identify and analyze industry or geographic trends with business strategy implications."
+},
+{
+"task_id": "16142",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Document specifications for business intelligence or information technology reports, dashboards, or other outputs."
+},
+{
+"task_id": "16144",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs."
+},
+{
+"task_id": "16146",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Collect business intelligence data from available industry reports, public information, field reports, or purchased sources."
+},
+{
+"task_id": "16143",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Disseminate information regarding tools, reports, or metadata enhancements."
+},
+{
+"task_id": "16145",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Conduct or coordinate tests to ensure that intelligence is consistent with defined needs."
+},
+{
+"task_id": "16149",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Synthesize current business intelligence or trend data to support recommendations for action."
+},
+{
+"task_id": "16148",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Analyze competitive market strategies through analysis of related product, market, or share trends."
+},
+{
+"task_id": "16136",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Identify or monitor current and potential customers, using business intelligence tools."
+},
+{
+"task_id": "16138",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends."
+},
+{
+"task_id": "16135",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Maintain library of model documents, templates, or other reusable knowledge assets."
+},
+{
+"task_id": "16137",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Create or review technical design documentation to ensure the accurate development of reporting solutions."
+},
+{
+"task_id": "16147",
+"soc": "15-2051.01",
+"occupation": "Business Intelligence Analysts",
+"task_text": "Analyze technology trends to identify markets for future product development or to improve sales of existing products."
+},
+{
+"task_id": "16281",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Design and validate clinical databases, including designing or testing logic checks."
+},
+{
+"task_id": "16284",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Process clinical data, including receipt, entry, verification, or filing of information."
+},
+{
+"task_id": "16280",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems."
+},
+{
+"task_id": "16285",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes."
+},
+{
+"task_id": "16279",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Monitor work productivity or quality to ensure compliance with standard operating procedures."
+},
+{
+"task_id": "16268",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Prepare appropriate formatting to data sets as requested."
+},
+{
+"task_id": "16286",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Design forms for receiving, processing, or tracking data."
+},
+{
+"task_id": "16277",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Prepare data analysis listings and activity, performance, or progress reports."
+},
+{
+"task_id": "16282",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols."
+},
+{
+"task_id": "16278",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data."
+},
+{
+"task_id": "16283",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Analyze clinical data using appropriate statistical tools."
+},
+{
+"task_id": "16269",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency."
+},
+{
+"task_id": "16270",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Develop technical specifications for data management programming and communicate needs to information technology staff."
+},
+{
+"task_id": "16273",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Write work instruction manuals, data capture guidelines, or standard operating procedures."
+},
+{
+"task_id": "16274",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Track the flow of work forms, including in-house data flow or electronic forms transfer."
+},
+{
+"task_id": "16276",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Supervise the work of data management project staff."
+},
+{
+"task_id": "16272",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation."
+},
+{
+"task_id": "16266",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices."
+},
+{
+"task_id": "16275",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Train staff on technical procedures or software program usage."
+},
+{
+"task_id": "16271",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Develop or select specific software programs for various research scenarios."
+},
+{
+"task_id": "16267",
+"soc": "15-2051.02",
+"occupation": "Clinical Data Managers",
+"task_text": "Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs."
+},
+{
+"task_id": "17709",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques."
+},
+{
+"task_id": "17715",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve."
+},
+{
+"task_id": "17716",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Maintain awareness of new and emerging computational methods and technologies."
+},
+{
+"task_id": "17721",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Conduct quality analyses of data inputs and resulting analyses or predictions."
+},
+{
+"task_id": "17707",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases."
+},
+{
+"task_id": "17706",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation."
+},
+{
+"task_id": "17710",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities."
+},
+{
+"task_id": "17717",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Participate in the preparation of reports or scientific publications."
+},
+{
+"task_id": "17720",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Write computer programs or scripts to be used in querying databases."
+},
+{
+"task_id": "17714",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Document all database changes, modifications, or problems."
+},
+{
+"task_id": "17711",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Create data management or error-checking procedures and user manuals."
+},
+{
+"task_id": "17713",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Develop or apply data mining and machine learning algorithms."
+},
+{
+"task_id": "17712",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Design or implement web-based tools for querying large-scale biological databases."
+},
+{
+"task_id": "17708",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Monitor database performance and perform any necessary maintenance, upgrades, or repairs."
+},
+{
+"task_id": "17722",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Confer with database users about project timelines and changes."
+},
+{
+"task_id": "17724",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades."
+},
+{
+"task_id": "17723",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Package bioinformatics data for submission to public repositories."
+},
+{
+"task_id": "17719",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Train bioinformatics staff or researchers in the use of databases."
+},
+{
+"task_id": "17718",
+"soc": "15-2099.01",
+"occupation": "Bioinformatics Technicians",
+"task_text": "Test new or updated software or tools and provide feedback to developers."
+}
+]

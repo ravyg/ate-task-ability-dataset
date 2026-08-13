@@ -1,0 +1,452 @@
+[
+{
+"task_id": "22098",
+"soc": "17-3028.00",
+"occupation": "Calibration Technologists and Technicians",
+"task_text": "Plan sequences of calibration tests according to equipment specifications and scientific principles."
+},
+{
+"task_id": "22099",
+"soc": "17-3028.00",
+"occupation": "Calibration Technologists and Technicians",
+"task_text": "Read blueprints, schematics, diagrams, or technical orders."
+},
+{
+"task_id": "22100",
+"soc": "17-3028.00",
+"occupation": "Calibration Technologists and Technicians",
+"task_text": "Verify part dimensions or clearances using precision measuring instruments to ensure conformance to specifications."
+},
+{
+"task_id": "22101",
+"soc": "17-3028.00",
+"occupation": "Calibration Technologists and Technicians",
+"task_text": "Visually inspect equipment to detect surface defects."
+},
+{
+"task_id": "22102",
+"soc": "17-3028.00",
+"occupation": "Calibration Technologists and Technicians",
+"task_text": "Write and submit reports about the results of calibration tests."
+},
+{
+"task_id": "16626",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Interpret the results of all methods of non-destructive testing (NDT), such as acoustic emission, electromagnetic, leak, liquid penetrant, magnetic particle, neutron radiographic, radiographic, thermal or infrared, ultrasonic, vibration analysis, and visual testing."
+},
+{
+"task_id": "16620",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Interpret or evaluate test results in accordance with applicable codes, standards, specifications, or procedures."
+},
+{
+"task_id": "16622",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Identify defects in solid materials, using ultrasonic testing techniques."
+},
+{
+"task_id": "16618",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Make radiographic images to detect flaws in objects while leaving objects intact."
+},
+{
+"task_id": "16625",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Prepare reports on non-destructive testing results."
+},
+{
+"task_id": "16623",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Select, calibrate, or operate equipment used in the non-destructive testing of products or materials."
+},
+{
+"task_id": "16619",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Visually examine materials, structures, or components for signs of corrosion, metal fatigue, cracks, or other flaws, using tools and equipment such as endoscopes, closed-circuit television systems, and fiber optics."
+},
+{
+"task_id": "16627",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Examine structures or vehicles such as aircraft, trains, nuclear reactors, bridges, dams, and pipelines, using non-destructive testing techniques."
+},
+{
+"task_id": "16616",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Document non-destructive testing methods, processes, or results."
+},
+{
+"task_id": "16613",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Produce images of objects on film, using radiographic techniques."
+},
+{
+"task_id": "16612",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Supervise or direct the work of non-destructive testing trainees or staff."
+},
+{
+"task_id": "16624",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Conduct liquid penetrant tests to locate surface cracks by coating objects with fluorescent dyes, cleaning excess penetrant, and applying developer."
+},
+{
+"task_id": "16617",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Map the presence of imperfections within objects, using sonic measurements."
+},
+{
+"task_id": "16615",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Develop or use new non-destructive testing methods, such as acoustic emission testing, leak testing, and thermal or infrared testing."
+},
+{
+"task_id": "16621",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Identify defects in concrete or other building materials, using thermal or infrared testing."
+},
+{
+"task_id": "16614",
+"soc": "17-3029.01",
+"occupation": "Non-Destructive Testing Specialists",
+"task_text": "Evaluate material properties, using radio astronomy, voltage and amperage measurement, or rheometric flow measurement."
+},
+{
+"task_id": "20384",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Compute or record photonic test data."
+},
+{
+"task_id": "16710",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Maintain clean working environments, according to clean room standards."
+},
+{
+"task_id": "16732",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Adjust or maintain equipment, such as lasers, laser systems, microscopes, oscilloscopes, pulse generators, power meters, beam analyzers, or energy measurement devices."
+},
+{
+"task_id": "20385",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Document procedures, such as calibration of optical or fiber optic equipment."
+},
+{
+"task_id": "16726",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Set up or operate assembly or processing equipment, such as lasers, cameras, die bonders, wire bonders, dispensers, reflow ovens, soldering irons, die shears, wire pull testers, temperature or humidity chambers, or optical spectrum analyzers."
+},
+{
+"task_id": "16715",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Assist scientists or engineers in the conduct of photonic experiments."
+},
+{
+"task_id": "16714",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Test or perform failure analysis for optomechanical or optoelectrical products, according to test plans."
+},
+{
+"task_id": "16721",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Assist engineers in the development of new products, fixtures, tools, or processes."
+},
+{
+"task_id": "20386",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Recommend optical or optic equipment design or material changes to reduce costs or processing times."
+},
+{
+"task_id": "16725",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Set up or operate prototype or test apparatus, such as control consoles, collimators, recording equipment, or cables."
+},
+{
+"task_id": "16709",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Monitor inventory levels and order supplies as necessary."
+},
+{
+"task_id": "16731",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Assemble fiber optical, optoelectronic, or free-space optics components, subcomponents, assemblies, or subassemblies."
+},
+{
+"task_id": "20387",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Optimize photonic process parameters by making prototype or production devices."
+},
+{
+"task_id": "16723",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Splice fibers, using fusion splicing or other techniques."
+},
+{
+"task_id": "16730",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Build prototype optomechanical devices for use in equipment such as aerial cameras, gun sights, or telescopes."
+},
+{
+"task_id": "16724",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Terminate, cure, polish, or test fiber cables with mechanical connectors."
+},
+{
+"task_id": "16716",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Perform diagnostic analyses of processing steps, using analytical or metrological tools, such as microscopy, profilometry, or ellipsometry devices."
+},
+{
+"task_id": "16722",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Assemble or adjust parts or related electrical units of prototypes to prepare for testing."
+},
+{
+"task_id": "16727",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Repair or calibrate products, such as surgical lasers."
+},
+{
+"task_id": "16719",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Design, build, or modify fixtures used to assemble parts."
+},
+{
+"task_id": "19731",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Assemble components of energy-efficient optical communications systems involving photonic switches, optical backplanes, or optoelectronic interfaces."
+},
+{
+"task_id": "16720",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Lay out cutting lines for machining, using drafting tools."
+},
+{
+"task_id": "16718",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Mix, pour, or use processing chemicals or gases according to safety standards or established operating procedures."
+},
+{
+"task_id": "16729",
+"soc": "17-3029.08",
+"occupation": "Photonics Technicians",
+"task_text": "Fabricate devices, such as optoelectronic or semiconductor devices."
+},
+{
+"task_id": "22103",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Position and hold the vertical rods, or targets, that theodolite operators use for sighting to measure angles, distances, and elevations."
+},
+{
+"task_id": "22104",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Check all layers of maps to ensure accuracy, identifying and marking errors and making corrections."
+},
+{
+"task_id": "22105",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Design or develop information databases that include geographic or topographic data."
+},
+{
+"task_id": "22106",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Monitor mapping work or the updating of maps to ensure accuracy, inclusion of new or changed information, or compliance with rules and regulations."
+},
+{
+"task_id": "22107",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Produce or update overlay maps to show information boundaries, water locations, or topographic features on various base maps or at different scales."
+},
+{
+"task_id": "22108",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Determine scales, line sizes, or colors to be used for hard copies of computerized maps, using plotters."
+},
+{
+"task_id": "22109",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Compile information necessary to stake projects for construction, using engineering plans."
+},
+{
+"task_id": "22110",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Identify and compile database information to create requested maps."
+},
+{
+"task_id": "22111",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Operate and manage land-information computer systems, performing tasks such as storing data, making inquiries, and producing plots and reports."
+},
+{
+"task_id": "22112",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Compare survey computations with applicable standards to determine adequacy of data."
+},
+{
+"task_id": "22113",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Analyze aerial photographs to detect and interpret significant military, industrial, resource, or topographical data."
+},
+{
+"task_id": "22114",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Research and combine existing property information to describe property boundaries in relation to adjacent properties, taking into account parcel splits, combinations, or land boundary adjustments."
+},
+{
+"task_id": "22115",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Calculate latitudes, longitudes, angles, areas, or other information for mapmaking, using survey field notes or reference tables."
+},
+{
+"task_id": "22116",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Compare topographical features or contour lines with images from aerial photographs, old maps, or other reference materials to verify the accuracy of their identification."
+},
+{
+"task_id": "22117",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Trace contours or topographic details to generate maps that denote specific land or property locations or geographic attributes."
+},
+{
+"task_id": "22118",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Provide assistance in the development of methods and procedures for conducting field surveys."
+},
+{
+"task_id": "22119",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Trim, align, and join prints to form photographic mosaics, maintaining scaled distances between reference points."
+},
+{
+"task_id": "22120",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Answer questions and provide information to the public or to staff members regarding assessment maps, surveys, boundaries, easements, property ownership, roads, zoning, or similar matters."
+},
+{
+"task_id": "22121",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Complete detailed source and method notes describing the location of routine or complex land parcels."
+},
+{
+"task_id": "22122",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Adjust and operate surveying instruments such as prisms, theodolites, electronic distance measuring equipment, or electronic data collectors."
+},
+{
+"task_id": "22123",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Collect information needed to carry out new surveys, using source maps, previous survey data, photographs, computer records, or other relevant information."
+},
+{
+"task_id": "22124",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Conduct surveys to ascertain the locations of natural features and man-made structures on the Earth's surface, underground, and underwater, using electronic distance-measuring equipment, such as GPS, and other surveying instruments."
+},
+{
+"task_id": "22125",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Enter Global Positioning System (GPS) data, legal deeds, field notes, or land survey reports into geographic information system (GIS) workstations so that information can be transformed into graphic land descriptions, such as maps and drawings."
+},
+{
+"task_id": "22126",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Perform calculations to determine earth curvature corrections, atmospheric impacts on measurements, traverse closures or adjustments, azimuths, level runs, or placement of markers."
+},
+{
+"task_id": "22127",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Prepare cost estimates for mapping projects."
+},
+{
+"task_id": "22128",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Prepare topographic or contour maps of land surveyed, including site features and other relevant information, such as charts, drawings, and survey notes."
+},
+{
+"task_id": "22129",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Record survey measurements or descriptive data, using notes, drawings, sketches, or inked tracings."
+},
+{
+"task_id": "22130",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Search for section corners, property irons, or survey points."
+},
+{
+"task_id": "22131",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Set out and recover stakes, marks, or other monumentation."
+},
+{
+"task_id": "22132",
+"soc": "17-3031.00",
+"occupation": "Surveying and Mapping Technicians",
+"task_text": "Supervise or coordinate activities of workers engaged in surveying, plotting data, drafting maps, or producing blueprints, photostats, or photographs."
+}
+]

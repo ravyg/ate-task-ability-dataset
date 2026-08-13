@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8280",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Glue and clamp edges or joints of assembled parts."
+},
+{
+"task_id": "8275",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking."
+},
+{
+"task_id": "8277",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete."
+},
+{
+"task_id": "8281",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Cut and install insulating or sound-absorbing material."
+},
+{
+"task_id": "8282",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Cut tile or linoleum to fit and spread adhesives on flooring for installation."
+},
+{
+"task_id": "8283",
+"soc": "47-3012.00",
+"occupation": "Helpers--Carpenters",
+"task_text": "Cover surfaces with laminated plastic covering material."
+},
+{
+"task_id": "4840",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering."
+},
+{
+"task_id": "4832",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Trace out short circuits in wiring, using test meter."
+},
+{
+"task_id": "4833",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Measure, cut, and bend wire and conduit, using measuring instruments and hand tools."
+},
+{
+"task_id": "4839",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools."
+},
+{
+"task_id": "4834",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Maintain tools, vehicles, and equipment and keep parts and supplies in order."
+},
+{
+"task_id": "4835",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Drill holes and pull or push wiring through openings, using hand and power tools."
+},
+{
+"task_id": "4844",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Clean work area and wash parts."
+},
+{
+"task_id": "4836",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment."
+},
+{
+"task_id": "4841",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools."
+},
+{
+"task_id": "4837",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools."
+},
+{
+"task_id": "4842",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Construct controllers and panels, using power drills, drill presses, taps, saws, and punches."
+},
+{
+"task_id": "4838",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck."
+},
+{
+"task_id": "4843",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers."
+},
+{
+"task_id": "4846",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Install copper-clad ground rods, using a manual post driver."
+},
+{
+"task_id": "4848",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Dig trenches or holes for installation of conduit or supports."
+},
+{
+"task_id": "4847",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle."
+},
+{
+"task_id": "4850",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Bolt component parts together to form tower assemblies, using hand tools."
+},
+{
+"task_id": "4845",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring."
+},
+{
+"task_id": "4855",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Trim trees and clear undergrowth along right-of-way."
+},
+{
+"task_id": "4849",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Requisition materials, using warehouse requisition or release forms."
+},
+{
+"task_id": "4854",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Solder electrical connections, using soldering iron."
+},
+{
+"task_id": "4851",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Paint a variety of objects related to electrical functions."
+},
+{
+"task_id": "4853",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment."
+},
+{
+"task_id": "23977",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Operate heavy equipment, such as backhoes."
+},
+{
+"task_id": "4852",
+"soc": "47-3013.00",
+"occupation": "Helpers--Electricians",
+"task_text": "Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions."
+},
+{
+"task_id": "13612",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Clean work areas and equipment."
+},
+{
+"task_id": "13613",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Perform support duties to assist painters, paperhangers, plasterers, or masons."
+},
+{
+"task_id": "13614",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes."
+},
+{
+"task_id": "13615",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Erect scaffolding."
+},
+{
+"task_id": "13616",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds."
+},
+{
+"task_id": "13617",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Supply or hold tools and materials."
+},
+{
+"task_id": "13618",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment."
+},
+{
+"task_id": "13619",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Mix plaster, and carry plaster to plasterers."
+},
+{
+"task_id": "13620",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Place articles to be stripped into stripping tanks."
+},
+{
+"task_id": "13621",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time."
+},
+{
+"task_id": "13622",
+"soc": "47-3014.00",
+"occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+"task_text": "Pour specified amounts of chemical solutions into stripping tanks."
+},
+{
+"task_id": "4858",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports."
+},
+{
+"task_id": "4857",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Cut or drill holes in walls or floors to accommodate the passage of pipes."
+},
+{
+"task_id": "20144",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes."
+},
+{
+"task_id": "4862",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems."
+},
+{
+"task_id": "4864",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Cut pipe and lift up to fitters."
+},
+{
+"task_id": "4861",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools."
+},
+{
+"task_id": "4860",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site."
+},
+{
+"task_id": "4859",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes."
+},
+{
+"task_id": "4863",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Excavate and grade ditches, and lay and join pipe for water and sewer service."
+},
+{
+"task_id": "4865",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Disassemble and remove damaged or worn pipe."
+},
+{
+"task_id": "4866",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Clean shop, work area, and machines, using solvent and rags."
+},
+{
+"task_id": "4867",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Install gas burners to convert furnaces from wood, coal, or oil."
+},
+{
+"task_id": "4870",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation."
+},
+{
+"task_id": "4868",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Immerse pipe in chemical solution to remove dirt, oil, and scale."
+},
+{
+"task_id": "4869",
+"soc": "47-3015.00",
+"occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+"task_text": "Clean and renew steam traps."
+},
+{
+"task_id": "14926",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Check to ensure that completed roofs are watertight."
+},
+{
+"task_id": "14927",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Sweep and clean roofs to prepare them for the application of new roofing materials."
+},
+{
+"task_id": "14928",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Locate worn or torn areas in roofs."
+},
+{
+"task_id": "14929",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Clean work areas and equipment."
+},
+{
+"task_id": "14930",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Maintain tools and equipment."
+},
+{
+"task_id": "14931",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials."
+},
+{
+"task_id": "14932",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Remove old roofing materials."
+},
+{
+"task_id": "14933",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Unload materials and tools from work trucks, and unroll roofing as directed."
+},
+{
+"task_id": "14934",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Set ladders, scaffolds, and hoists in place for taking supplies to roofs."
+},
+{
+"task_id": "14935",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Place tiles, nail them to roof boards, and cover nailheads with roofing cement."
+},
+{
+"task_id": "14936",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces."
+},
+{
+"task_id": "14937",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Attach roofing paper and composition shingles, using nails."
+},
+{
+"task_id": "14938",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Perform emergency leak repairs and general maintenance for a variety of roof types."
+},
+{
+"task_id": "14939",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Attach sheets of metal to roof boards or building frameworks when installing metal roofs."
+},
+{
+"task_id": "14940",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders."
+},
+{
+"task_id": "14941",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material."
+},
+{
+"task_id": "14942",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Chop tar into small pieces, and heat chopped tar in kettles."
+},
+{
+"task_id": "14943",
+"soc": "47-3016.00",
+"occupation": "Helpers--Roofers",
+"task_text": "Clear drains and downspouts and clean gutters."
+},
+{
+"task_id": "20447",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Approve building plans that meet required specifications."
+},
+{
+"task_id": "871",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations."
+},
+{
+"task_id": "875",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Issue permits for construction, relocation, demolition, or occupancy."
+},
+{
+"task_id": "869",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes."
+},
+{
+"task_id": "878",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations."
+},
+{
+"task_id": "872",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications."
+},
+{
+"task_id": "20446",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Confer with owners, violators, or authorities to explain regulations or recommend remedial actions."
+},
+{
+"task_id": "873",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes."
+},
+{
+"task_id": "870",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Maintain daily logs and supplement inspection records with photographs."
+},
+{
+"task_id": "20445",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment."
+},
+{
+"task_id": "880",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Train, direct, or supervise other construction inspectors."
+},
+{
+"task_id": "19866",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Monitor construction activities to ensure that environmental regulations are not violated."
+},
+{
+"task_id": "19864",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Evaluate project details to ensure adherence to environmental regulations."
+},
+{
+"task_id": "19865",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Inspect facilities or installations to determine their environmental impact."
+},
+{
+"task_id": "20448",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning."
+},
+{
+"task_id": "19863",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards."
+},
+{
+"task_id": "20449",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Estimate cost of completed work or of needed renovations or upgrades."
+},
+{
+"task_id": "20450",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation."
+},
+{
+"task_id": "19867",
+"soc": "47-4011.00",
+"occupation": "Construction and Building Inspectors",
+"task_text": "Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens."
+},
+{
+"task_id": "18082",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Identify and prioritize energy-saving measures."
+},
+{
+"task_id": "18074",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Prepare audit reports containing energy analysis results or recommendations for energy cost savings."
+},
+{
+"task_id": "19561",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Identify any health or safety issues related to planned weatherization projects."
+},
+{
+"task_id": "18083",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems."
+},
+{
+"task_id": "18077",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Calculate potential for energy savings."
+},
+{
+"task_id": "18073",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system."
+},
+{
+"task_id": "18076",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems."
+},
+{
+"task_id": "19560",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods."
+},
+{
+"task_id": "18087",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Recommend energy-efficient technologies or alternate energy sources."
+},
+{
+"task_id": "18078",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Collect and analyze field data related to energy usage."
+},
+{
+"task_id": "18071",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters."
+},
+{
+"task_id": "18081",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances."
+},
+{
+"task_id": "18072",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Perform tests such as blower-door tests to locate air leaks."
+},
+{
+"task_id": "18086",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades."
+},
+{
+"task_id": "19562",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications."
+},
+{
+"task_id": "18075",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data."
+},
+{
+"task_id": "18084",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Quantify energy consumption to establish baselines for energy use or need."
+},
+{
+"task_id": "18080",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs."
+},
+{
+"task_id": "18079",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Compare existing energy consumption levels to normative data."
+},
+{
+"task_id": "18085",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency."
+},
+{
+"task_id": "19563",
+"soc": "47-4011.01",
+"occupation": "Energy Auditors",
+"task_text": "Verify income eligibility of participants in publicly financed weatherization programs."
+},
+{
+"task_id": "11571",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly."
+},
+{
+"task_id": "11564",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters."
+},
+{
+"task_id": "11572",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring."
+},
+{
+"task_id": "11567",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Check that safety regulations and building codes are met, and complete service reports verifying conformance to standards."
+},
+{
+"task_id": "11566",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment."
+},
+{
+"task_id": "11569",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings."
+},
+{
+"task_id": "11570",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment."
+},
+{
+"task_id": "11576",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Connect car frames to counterweights, using steel cables."
+},
+{
+"task_id": "11573",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Maintain log books that detail all repairs and checks performed."
+},
+{
+"task_id": "11568",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Connect electrical wiring to control panels and electric motors."
+},
+{
+"task_id": "11565",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time."
+},
+{
+"task_id": "11574",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Participate in additional training to keep skills up to date."
+},
+{
+"task_id": "11582",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Operate elevators to determine power demands, and test power consumption to detect overload factors."
+},
+{
+"task_id": "11580",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit."
+},
+{
+"task_id": "11575",
+"soc": "47-4021.00",
+"occupation": "Elevator and Escalator Installers and Repairers",
+"task_text": "Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts."
+}
+]

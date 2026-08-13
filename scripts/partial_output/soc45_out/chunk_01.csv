@@ -1,0 +1,384 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Manual Dexterity,3,0
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Arm-Hand Steadiness,2,0
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Near Vision,2,0
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Static Strength,2,0
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Multilimb Coordination,1,0
+13422,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.",Problem Sensitivity,1,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Gross Body Equilibrium,3,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Gross Body Coordination,2,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Far Vision,3,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Multilimb Coordination,2,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Trunk Strength,1,0
+13425,"Farmworkers, Farm, Ranch, and Aquacultural Animals",Patrol grazing lands on horseback or using all-terrain vehicles.,Stamina,1,0
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",Information Ordering,2,0
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",Number Facility,2,0
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",Written Expression,1,0
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",Memorization,1,0
+13426,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Maintain growth, feeding, production, and cost records.",Written Comprehension,1,0
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",Manual Dexterity,3,0
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",Arm-Hand Steadiness,3,0
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",Control Precision,2,0
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",Near Vision,2,0
+13427,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.",Static Strength,1,0
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",Manual Dexterity,2,0
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",Static Strength,2,0
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",Multilimb Coordination,1,0
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",Near Vision,1,0
+13428,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Spray livestock with disinfectants and insecticides, or dip or bathe animals.",Stamina,1,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Control Precision,3,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Near Vision,2,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Far Vision,2,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Multilimb Coordination,2,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Spatial Orientation,2,0
+23403,Fishing and Hunting Workers,Steer vessels and operate navigational instruments.,Depth Perception,1,0
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,Manual Dexterity,2,0
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,Near Vision,2,0
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,Finger Dexterity,1,0
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,Number Facility,1,0
+23410,Fishing and Hunting Workers,Remove catches from fishing equipment and measure them to ensure compliance with legal size.,Arm-Hand Steadiness,1,0
+23428,Fishing and Hunting Workers,"Direct fishing or hunting operations, and supervise crew members.",Oral Expression,3,0
+23428,Fishing and Hunting Workers,"Direct fishing or hunting operations, and supervise crew members.",Oral Comprehension,2,0
+23428,Fishing and Hunting Workers,"Direct fishing or hunting operations, and supervise crew members.",Deductive Reasoning,2,0
+23428,Fishing and Hunting Workers,"Direct fishing or hunting operations, and supervise crew members.",Problem Sensitivity,1,0
+23419,Fishing and Hunting Workers,Interpret weather and vessel conditions to determine appropriate responses.,Problem Sensitivity,3,0
+23419,Fishing and Hunting Workers,Interpret weather and vessel conditions to determine appropriate responses.,Inductive Reasoning,2,0
+23419,Fishing and Hunting Workers,Interpret weather and vessel conditions to determine appropriate responses.,Deductive Reasoning,2,0
+23419,Fishing and Hunting Workers,Interpret weather and vessel conditions to determine appropriate responses.,Selective Attention,1,0
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",Stamina,3,0
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",Gross Body Coordination,2,0
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",Gross Body Equilibrium,2,0
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",Extent Flexibility,1,0
+23402,Fishing and Hunting Workers,"Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas.",Dynamic Strength,1,0
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",Manual Dexterity,2,0
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",Finger Dexterity,2,0
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",Problem Sensitivity,2,0
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",Near Vision,1,0
+23415,Fishing and Hunting Workers,"Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them.",Inductive Reasoning,1,0
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",Manual Dexterity,3,0
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",Finger Dexterity,2,0
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",Near Vision,2,0
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",Arm-Hand Steadiness,1,0
+23408,Fishing and Hunting Workers,"Maintain engines, fishing gear, and other on-board equipment and perform minor repairs.",Static Strength,1,0
+23424,Fishing and Hunting Workers,"Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps.",Manual Dexterity,3,0
+23424,Fishing and Hunting Workers,"Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps.",Finger Dexterity,2,0
+23424,Fishing and Hunting Workers,"Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps.",Arm-Hand Steadiness,2,0
+23424,Fishing and Hunting Workers,"Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps.",Near Vision,1,0
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",Static Strength,1,0
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",Dynamic Strength,1,0
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",Gross Body Coordination,1,0
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",Stamina,1,0
+23423,Fishing and Hunting Workers,"Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water.",Trunk Strength,1,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Dynamic Strength,2,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Static Strength,2,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Stamina,2,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Multilimb Coordination,2,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Gross Body Coordination,1,0
+23427,Fishing and Hunting Workers,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",Extent Flexibility,1,1
+23429,Fishing and Hunting Workers,"Oversee the purchase of supplies, gear, and equipment.",Deductive Reasoning,2,0
+23429,Fishing and Hunting Workers,"Oversee the purchase of supplies, gear, and equipment.",Number Facility,1,0
+23429,Fishing and Hunting Workers,"Oversee the purchase of supplies, gear, and equipment.",Oral Expression,1,0
+23429,Fishing and Hunting Workers,"Oversee the purchase of supplies, gear, and equipment.",Written Comprehension,1,0
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",Static Strength,3,0
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",Dynamic Strength,2,0
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",Trunk Strength,2,0
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",Multilimb Coordination,1,0
+23426,Fishing and Hunting Workers,"Load and unload vessel equipment and supplies, by hand or using hoisting equipment.",Gross Body Coordination,1,0
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",Arm-Hand Steadiness,3,0
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",Manual Dexterity,2,0
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",Control Precision,2,0
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",Static Strength,1,0
+23406,Fishing and Hunting Workers,"Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers.",Near Vision,1,0
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",Stamina,2,0
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",Near Vision,2,0
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",Manual Dexterity,2,0
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",Gross Body Coordination,1,0
+23400,Fishing and Hunting Workers,"Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps.",Extent Flexibility,1,0
+23411,Fishing and Hunting Workers,"Locate fish, using fish-finding equipment.",Near Vision,2,0
+23411,Fishing and Hunting Workers,"Locate fish, using fish-finding equipment.",Selective Attention,2,0
+23411,Fishing and Hunting Workers,"Locate fish, using fish-finding equipment.",Perceptual Speed,1,0
+23411,Fishing and Hunting Workers,"Locate fish, using fish-finding equipment.",Depth Perception,1,1
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",Control Precision,2,0
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",Static Strength,2,0
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",Reaction Time,1,0
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",Arm-Hand Steadiness,1,0
+23421,Fishing and Hunting Workers,"Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods.",Multilimb Coordination,1,0
+23405,Fishing and Hunting Workers,Maintain and repair trapping equipment.,Manual Dexterity,2,0
+23405,Fishing and Hunting Workers,Maintain and repair trapping equipment.,Finger Dexterity,2,0
+23405,Fishing and Hunting Workers,Maintain and repair trapping equipment.,Near Vision,1,0
+23405,Fishing and Hunting Workers,Maintain and repair trapping equipment.,Arm-Hand Steadiness,1,0
+23401,Fishing and Hunting Workers,Obtain permission from landowners to hunt or trap on their land.,Oral Expression,3,0
+23401,Fishing and Hunting Workers,Obtain permission from landowners to hunt or trap on their land.,Oral Comprehension,2,0
+23401,Fishing and Hunting Workers,Obtain permission from landowners to hunt or trap on their land.,Written Expression,1,0
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",Static Strength,2,0
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",Dynamic Strength,2,0
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",Multilimb Coordination,2,0
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",Gross Body Coordination,1,0
+23407,Fishing and Hunting Workers,"Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used.",Trunk Strength,1,0
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",Mathematical Reasoning,2,0
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",Number Facility,2,0
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",Spatial Orientation,3,0
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",Near Vision,1,0
+23414,Fishing and Hunting Workers,"Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts.",Visualization,2,0
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",Manual Dexterity,2,0
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",Static Strength,2,0
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",Stamina,2,0
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",Near Vision,1,0
+23409,Fishing and Hunting Workers,"Sort, pack, and store catch in holds with salt and ice.",Trunk Strength,1,0
+23412,Fishing and Hunting Workers,"Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set.",Oral Expression,2,0
+23412,Fishing and Hunting Workers,"Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set.",Written Expression,1,0
+23412,Fishing and Hunting Workers,"Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set.",Oral Comprehension,1,0
+23413,Fishing and Hunting Workers,Track animals by checking for signs such as droppings or destruction of vegetation.,Problem Sensitivity,3,0
+23413,Fishing and Hunting Workers,Track animals by checking for signs such as droppings or destruction of vegetation.,Near Vision,2,0
+23413,Fishing and Hunting Workers,Track animals by checking for signs such as droppings or destruction of vegetation.,Selective Attention,2,0
+23413,Fishing and Hunting Workers,Track animals by checking for signs such as droppings or destruction of vegetation.,Visualization,1,0
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",Arm-Hand Steadiness,3,0
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",Manual Dexterity,2,0
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",Control Precision,2,0
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",Static Strength,1,0
+23404,Fishing and Hunting Workers,"Skin quarry, using knives, and stretch pelts on frames to be cured.",Near Vision,1,0
+23418,Fishing and Hunting Workers,Transport fish to processing plants or to buyers.,Multilimb Coordination,2,0
+23418,Fishing and Hunting Workers,Transport fish to processing plants or to buyers.,Control Precision,2,0
+23418,Fishing and Hunting Workers,Transport fish to processing plants or to buyers.,Far Vision,1,0
+23418,Fishing and Hunting Workers,Transport fish to processing plants or to buyers.,Static Strength,1,0
+23416,Fishing and Hunting Workers,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",Manual Dexterity,2,0
+23416,Fishing and Hunting Workers,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",Finger Dexterity,2,0
+23416,Fishing and Hunting Workers,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",Arm-Hand Steadiness,2,0
+23416,Fishing and Hunting Workers,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",Static Strength,2,0
+23425,Fishing and Hunting Workers,Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey.,Oral Expression,3,0
+23425,Fishing and Hunting Workers,Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey.,Oral Comprehension,2,0
+23425,Fishing and Hunting Workers,Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey.,Information Ordering,1,0
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,Manual Dexterity,2,0
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,Static Strength,1,0
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,Arm-Hand Steadiness,1,0
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,Multilimb Coordination,1,0
+23420,Fishing and Hunting Workers,Release quarry from traps or nets and transfer to cages.,Gross Body Coordination,1,0
+23417,Fishing and Hunting Workers,"Participate in animal damage control, wildlife management, disease control, and research activities.",Problem Sensitivity,2,0
+23417,Fishing and Hunting Workers,"Participate in animal damage control, wildlife management, disease control, and research activities.",Deductive Reasoning,1,0
+23417,Fishing and Hunting Workers,"Participate in animal damage control, wildlife management, disease control, and research activities.",Oral Comprehension,1,0
+23417,Fishing and Hunting Workers,"Participate in animal damage control, wildlife management, disease control, and research activities.",Written Comprehension,1,0
+7026,Forest and Conservation Workers,Check equipment to ensure that it is operating properly.,Near Vision,2,0
+7026,Forest and Conservation Workers,Check equipment to ensure that it is operating properly.,Auditory Attention,1,0
+7026,Forest and Conservation Workers,Check equipment to ensure that it is operating properly.,Problem Sensitivity,1,0
+7026,Forest and Conservation Workers,Check equipment to ensure that it is operating properly.,Manual Dexterity,1,0
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,Stamina,3,0
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,Dynamic Strength,2,0
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,Gross Body Coordination,2,0
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,Extent Flexibility,1,0
+7028,Forest and Conservation Workers,Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.,Reaction Time,1,0
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",Static Strength,2,0
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",Dynamic Strength,2,0
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",Stamina,3,0
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",Trunk Strength,2,0
+7029,Forest and Conservation Workers,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",Gross Body Coordination,1,0
+7027,Forest and Conservation Workers,"Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",Oral Expression,2,0
+7027,Forest and Conservation Workers,"Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",Oral Comprehension,2,0
+7027,Forest and Conservation Workers,"Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",Problem Sensitivity,1,0
+7035,Forest and Conservation Workers,Maintain tallies of trees examined and counted during tree marking or measuring efforts.,Number Facility,2,0
+7035,Forest and Conservation Workers,Maintain tallies of trees examined and counted during tree marking or measuring efforts.,Memorization,1,0
+7035,Forest and Conservation Workers,Maintain tallies of trees examined and counted during tree marking or measuring efforts.,Near Vision,1,0
+7035,Forest and Conservation Workers,Maintain tallies of trees examined and counted during tree marking or measuring efforts.,Selective Attention,1,0
+7041,Forest and Conservation Workers,"Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.",Oral Expression,3,0
+7041,Forest and Conservation Workers,"Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.",Oral Comprehension,2,0
+7041,Forest and Conservation Workers,"Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.",Written Comprehension,1,0
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",Control Precision,3,0
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",Multilimb Coordination,3,0
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",Depth Perception,2,0
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",Near Vision,1,0
+7042,Forest and Conservation Workers,"Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.",Reaction Time,1,1
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,Manual Dexterity,2,0
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,Arm-Hand Steadiness,1,0
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,Near Vision,1,0
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,Static Strength,1,0
+7032,Forest and Conservation Workers,Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.,Stamina,1,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Static Strength,2,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Dynamic Strength,2,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Manual Dexterity,2,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Arm-Hand Steadiness,2,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Stamina,2,0
+7034,Forest and Conservation Workers,"Thin or space trees, using power thinning saws.",Control Precision,1,0
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",Problem Sensitivity,2,0
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",Near Vision,2,0
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",Dynamic Strength,2,0
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",Manual Dexterity,2,0
+7031,Forest and Conservation Workers,"Identify diseased or undesirable trees and remove them, using power saws or hand saws.",Static Strength,1,0
+7030,Forest and Conservation Workers,"Select or cut trees according to markings or sizes, types, or grades.",Near Vision,2,0
+7030,Forest and Conservation Workers,"Select or cut trees according to markings or sizes, types, or grades.",Dynamic Strength,2,0
+7030,Forest and Conservation Workers,"Select or cut trees according to markings or sizes, types, or grades.",Manual Dexterity,2,0
+7030,Forest and Conservation Workers,"Select or cut trees according to markings or sizes, types, or grades.",Control Precision,1,0
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",Manual Dexterity,2,0
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",Arm-Hand Steadiness,2,0
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",Extent Flexibility,2,0
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",Static Strength,1,0
+7038,Forest and Conservation Workers,"Prune or shear tree tops or limbs to control growth, increase density, or improve shape.",Gross Body Equilibrium,1,1
+7045,Forest and Conservation Workers,"Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.",Static Strength,2,0
+7045,Forest and Conservation Workers,"Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.",Stamina,2,0
+7045,Forest and Conservation Workers,"Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.",Gross Body Coordination,1,0
+7045,Forest and Conservation Workers,"Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.",Manual Dexterity,1,0
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",Static Strength,3,0
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",Dynamic Strength,2,0
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",Trunk Strength,2,0
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",Stamina,2,0
+7037,Forest and Conservation Workers,"Erect signs or fences, using posthole diggers, shovels, or other hand tools.",Manual Dexterity,1,0
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",Trunk Strength,2,0
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",Static Strength,2,0
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",Manual Dexterity,2,0
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",Stamina,2,0
+7039,Forest and Conservation Workers,"Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.",Gross Body Coordination,1,0
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",Static Strength,1,0
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",Manual Dexterity,1,0
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",Near Vision,1,0
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",Gross Body Coordination,1,0
+7040,Forest and Conservation Workers,"Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.",Stamina,1,0
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",Near Vision,2,0
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",Manual Dexterity,1,0
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",Selective Attention,1,0
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",Perceptual Speed,1,0
+20632,Forest and Conservation Workers,"Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.",Oral Comprehension,1,0
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",Reaction Time,3,0
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",Gross Body Coordination,2,0
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",Speed of Limb Movement,2,0
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",Dynamic Strength,1,0
+13484,Fallers,"Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.",Static Strength,1,0
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",Problem Sensitivity,3,0
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",Near Vision,2,0
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",Spatial Orientation,2,0
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",Depth Perception,1,0
+13485,Fallers,"Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.",Visualization,1,0
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",Control Precision,3,0
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",Static Strength,2,0
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",Dynamic Strength,2,0
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",Arm-Hand Steadiness,2,0
+13486,Fallers,"Saw back-cuts, leaving sufficient sound wood to control direction of fall.",Manual Dexterity,1,0
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",Dynamic Strength,2,0
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",Static Strength,2,0
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",Stamina,2,0
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",Manual Dexterity,1,0
+13487,Fallers,"Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.",Gross Body Coordination,1,0
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",Dynamic Strength,2,0
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",Static Strength,2,0
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",Manual Dexterity,1,0
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",Near Vision,1,0
+13488,Fallers,"Measure felled trees and cut them into specified log lengths, using chain saws and axes.",Number Facility,1,0
+13489,Fallers,Assess logs after cutting to ensure that the quality and length are correct.,Near Vision,2,0
+13489,Fallers,Assess logs after cutting to ensure that the quality and length are correct.,Problem Sensitivity,1,0
+13489,Fallers,Assess logs after cutting to ensure that the quality and length are correct.,Number Facility,1,0
+13490,Fallers,"Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.",Spatial Orientation,3,0
+13490,Fallers,"Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.",Problem Sensitivity,2,0
+13490,Fallers,"Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.",Visualization,2,0
+13490,Fallers,"Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.",Depth Perception,1,0
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",Control Precision,3,0
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",Static Strength,2,0
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",Dynamic Strength,2,0
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",Arm-Hand Steadiness,2,0
+13491,Fallers,"Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.",Multilimb Coordination,1,0
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",Dynamic Strength,2,0
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",Static Strength,2,0
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",Manual Dexterity,1,0
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",Multilimb Coordination,1,0
+13492,Fallers,"Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.",Stamina,1,0
+13493,Fallers,"Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work.",Problem Sensitivity,2,0
+13493,Fallers,"Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work.",Near Vision,1,0
+13493,Fallers,"Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work.",Deductive Reasoning,1,0
+13494,Fallers,"Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.",Manual Dexterity,2,0
+13494,Fallers,"Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.",Finger Dexterity,2,0
+13494,Fallers,"Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.",Near Vision,1,0
+13494,Fallers,"Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.",Arm-Hand Steadiness,1,0
+13495,Fallers,Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.,Static Strength,2,0
+13495,Fallers,Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.,Dynamic Strength,2,0
+13495,Fallers,Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.,Manual Dexterity,2,0
+13495,Fallers,Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.,Arm-Hand Steadiness,1,0
+13496,Fallers,Tag unsafe trees with high-visibility ribbons.,Near Vision,1,0
+13496,Fallers,Tag unsafe trees with high-visibility ribbons.,Manual Dexterity,1,0
+13496,Fallers,Tag unsafe trees with high-visibility ribbons.,Selective Attention,1,0
+13497,Fallers,Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.,Static Strength,2,0
+13497,Fallers,Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.,Manual Dexterity,2,0
+13497,Fallers,Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.,Arm-Hand Steadiness,1,0
+13497,Fallers,Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.,Trunk Strength,1,0
+13498,Fallers,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",Static Strength,3,0
+13498,Fallers,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",Dynamic Strength,2,0
+13498,Fallers,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",Trunk Strength,2,0
+13498,Fallers,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",Multilimb Coordination,1,0
+13499,Fallers,Mark logs for identification.,Manual Dexterity,1,0
+13499,Fallers,Mark logs for identification.,Near Vision,1,0
+13499,Fallers,Mark logs for identification.,Finger Dexterity,1,0
+13500,Fallers,"Work as a member of a team, rotating between chain saw operation and skidder operation.",Control Precision,2,0
+13500,Fallers,"Work as a member of a team, rotating between chain saw operation and skidder operation.",Dynamic Strength,2,0
+13500,Fallers,"Work as a member of a team, rotating between chain saw operation and skidder operation.",Multilimb Coordination,2,0
+13500,Fallers,"Work as a member of a team, rotating between chain saw operation and skidder operation.",Manual Dexterity,1,0
+13501,Fallers,"Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.",Static Strength,3,0
+13501,Fallers,"Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.",Dynamic Strength,2,0
+13501,Fallers,"Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.",Trunk Strength,2,0
+13501,Fallers,"Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.",Manual Dexterity,1,0
+9802,Logging Equipment Operators,"Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks.",Near Vision,2,0
+9802,Logging Equipment Operators,"Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks.",Manual Dexterity,1,0
+9802,Logging Equipment Operators,"Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks.",Problem Sensitivity,1,0
+9807,Logging Equipment Operators,"Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees.",Control Precision,3,0
+9807,Logging Equipment Operators,"Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees.",Multilimb Coordination,3,0
+9807,Logging Equipment Operators,"Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees.",Depth Perception,2,0
+9807,Logging Equipment Operators,"Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees.",Rate Control,1,0
+9806,Logging Equipment Operators,"Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards.",Near Vision,2,0
+9806,Logging Equipment Operators,"Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards.",Problem Sensitivity,1,0
+9806,Logging Equipment Operators,"Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards.",Selective Attention,1,0
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",Control Precision,3,0
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",Multilimb Coordination,3,0
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",Depth Perception,2,0
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",Rate Control,1,0
+9803,Logging Equipment Operators,"Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush.",Reaction Time,1,0
+9804,Logging Equipment Operators,Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading.,Control Precision,2,0
+9804,Logging Equipment Operators,Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading.,Multilimb Coordination,2,0
+9804,Logging Equipment Operators,Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading.,Near Vision,1,0
+9804,Logging Equipment Operators,Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading.,Depth Perception,1,0
+9809,Logging Equipment Operators,Fill out required job or shift report forms.,Written Expression,2,0
+9809,Logging Equipment Operators,Fill out required job or shift report forms.,Information Ordering,1,0
+9809,Logging Equipment Operators,Fill out required job or shift report forms.,Near Vision,1,0
+9805,Logging Equipment Operators,Drive tractors for building or repairing logging and skid roads.,Control Precision,2,0
+9805,Logging Equipment Operators,Drive tractors for building or repairing logging and skid roads.,Multilimb Coordination,2,0
+9805,Logging Equipment Operators,Drive tractors for building or repairing logging and skid roads.,Depth Perception,1,0
+9808,Logging Equipment Operators,"Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.",Control Precision,3,0
+9808,Logging Equipment Operators,"Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.",Multilimb Coordination,3,0
+9808,Logging Equipment Operators,"Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.",Depth Perception,2,0
+9808,Logging Equipment Operators,"Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.",Rate Control,1,0
+9810,Logging Equipment Operators,"Calculate total board feet, cordage, or other wood measurement units, using conversion tables.",Number Facility,3,0
+9810,Logging Equipment Operators,"Calculate total board feet, cordage, or other wood measurement units, using conversion tables.",Mathematical Reasoning,2,0
+9810,Logging Equipment Operators,"Calculate total board feet, cordage, or other wood measurement units, using conversion tables.",Information Ordering,1,0
+9811,Log Graders and Scalers,"Evaluate log characteristics and determine grades, using established criteria.",Near Vision,2,0
+9811,Log Graders and Scalers,"Evaluate log characteristics and determine grades, using established criteria.",Problem Sensitivity,2,0
+9811,Log Graders and Scalers,"Evaluate log characteristics and determine grades, using established criteria.",Selective Attention,1,0
+9812,Log Graders and Scalers,Record data about individual trees or load volumes into tally books or hand-held collection terminals.,Number Facility,2,0
+9812,Log Graders and Scalers,Record data about individual trees or load volumes into tally books or hand-held collection terminals.,Memorization,1,0
+9812,Log Graders and Scalers,Record data about individual trees or load volumes into tally books or hand-held collection terminals.,Near Vision,1,0
+9814,Log Graders and Scalers,"Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables.",Number Facility,3,0
+9814,Log Graders and Scalers,"Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables.",Mathematical Reasoning,2,0
+9814,Log Graders and Scalers,"Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables.",Near Vision,1,0
+9813,Log Graders and Scalers,"Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.",Manual Dexterity,2,0
+9813,Log Graders and Scalers,"Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.",Visual Color Discrimination,2,0
+9813,Log Graders and Scalers,"Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.",Near Vision,1,0
+9813,Log Graders and Scalers,"Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.",Oral Expression,1,0
+9817,Log Graders and Scalers,"Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.",Near Vision,3,0
+9817,Log Graders and Scalers,"Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.",Manual Dexterity,1,0
+9817,Log Graders and Scalers,"Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.",Problem Sensitivity,2,0
+9817,Log Graders and Scalers,"Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.",Arm-Hand Steadiness,1,0
+9816,Log Graders and Scalers,"Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing.",Near Vision,2,0
+9816,Log Graders and Scalers,"Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing.",Problem Sensitivity,2,0
+9816,Log Graders and Scalers,"Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing.",Deductive Reasoning,1,0
+21015,Log Graders and Scalers,Arrange for hauling of logs to appropriate mill sites.,Oral Expression,1,0
+21015,Log Graders and Scalers,Arrange for hauling of logs to appropriate mill sites.,Deductive Reasoning,1,0
+21015,Log Graders and Scalers,Arrange for hauling of logs to appropriate mill sites.,Information Ordering,1,0
+9820,Log Graders and Scalers,"Weigh log trucks before and after unloading, and record load weights and supplier identities.",Number Facility,2,0
+9820,Log Graders and Scalers,"Weigh log trucks before and after unloading, and record load weights and supplier identities.",Near Vision,1,0
+9820,Log Graders and Scalers,"Weigh log trucks before and after unloading, and record load weights and supplier identities.",Memorization,1,0
+9815,Log Graders and Scalers,"Measure log lengths and mark boles for bucking into logs, according to specifications.",Near Vision,2,0
+9815,Log Graders and Scalers,"Measure log lengths and mark boles for bucking into logs, according to specifications.",Number Facility,1,0
+9815,Log Graders and Scalers,"Measure log lengths and mark boles for bucking into logs, according to specifications.",Manual Dexterity,1,0
+9819,Log Graders and Scalers,Communicate with coworkers by signals to direct log movement.,Response Orientation,2,1
+9819,Log Graders and Scalers,Communicate with coworkers by signals to direct log movement.,Near Vision,2,0
+9819,Log Graders and Scalers,Communicate with coworkers by signals to direct log movement.,Selective Attention,1,0
+9818,Log Graders and Scalers,"Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.",Control Precision,1,0
+9818,Log Graders and Scalers,"Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.",Near Vision,2,0
+9818,Log Graders and Scalers,"Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.",Multilimb Coordination,1,0
+9821,Log Graders and Scalers,Saw felled trees into lengths.,Dynamic Strength,2,0
+9821,Log Graders and Scalers,Saw felled trees into lengths.,Static Strength,2,0
+9821,Log Graders and Scalers,Saw felled trees into lengths.,Manual Dexterity,1,0
+9821,Log Graders and Scalers,Saw felled trees into lengths.,Control Precision,1,0
+9821,Log Graders and Scalers,Saw felled trees into lengths.,Stamina,1,0

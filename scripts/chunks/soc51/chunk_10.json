@@ -1,0 +1,782 @@
+[
+{
+"task_id": "17856",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants."
+},
+{
+"task_id": "17854",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials."
+},
+{
+"task_id": "17859",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Calibrate liquid flow devices or meters, including fuel, chemical, and water meters."
+},
+{
+"task_id": "17857",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Assess quality of biomass feedstock."
+},
+{
+"task_id": "17869",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes."
+},
+{
+"task_id": "21209",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate heavy equipment, such as bulldozers and front-end loaders."
+},
+{
+"task_id": "17865",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Preprocess feedstock to prepare for biochemical or thermochemical production processes."
+},
+{
+"task_id": "17868",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Manage parts and supply inventories for biomass plants."
+},
+{
+"task_id": "17912",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary."
+},
+{
+"task_id": "17911",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines."
+},
+{
+"task_id": "17913",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants."
+},
+{
+"task_id": "17929",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination."
+},
+{
+"task_id": "17916",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs."
+},
+{
+"task_id": "17914",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Communicate status of hydroelectric operating equipment to dispatchers or supervisors."
+},
+{
+"task_id": "17920",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Operate high voltage switches or related devices in hydropower stations."
+},
+{
+"task_id": "17921",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks."
+},
+{
+"task_id": "17919",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves."
+},
+{
+"task_id": "17915",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions."
+},
+{
+"task_id": "17917",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels."
+},
+{
+"task_id": "17924",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment."
+},
+{
+"task_id": "17918",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants."
+},
+{
+"task_id": "17925",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing."
+},
+{
+"task_id": "17928",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure."
+},
+{
+"task_id": "17930",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Perform tunnel or field inspections of hydroelectric plant facilities or resources."
+},
+{
+"task_id": "17931",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Splice or terminate cables or electrical wiring in hydroelectric plants."
+},
+{
+"task_id": "17923",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices."
+},
+{
+"task_id": "17922",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Take readings and record data, such as water levels, temperatures, or flow rates."
+},
+{
+"task_id": "17927",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement."
+},
+{
+"task_id": "17926",
+"soc": "51-8013.04",
+"occupation": "Hydroelectric Plant Technicians",
+"task_text": "Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders."
+},
+{
+"task_id": "10468",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools."
+},
+{
+"task_id": "10471",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners."
+},
+{
+"task_id": "10472",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels."
+},
+{
+"task_id": "10475",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems."
+},
+{
+"task_id": "10469",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly."
+},
+{
+"task_id": "10476",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work."
+},
+{
+"task_id": "10470",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits."
+},
+{
+"task_id": "10474",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely."
+},
+{
+"task_id": "10478",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work."
+},
+{
+"task_id": "10481",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts."
+},
+{
+"task_id": "10477",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Adjust controls and/or valves on equipment to provide power, and to regulate and set operations of system or industrial processes."
+},
+{
+"task_id": "10479",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools."
+},
+{
+"task_id": "10483",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Develop operation, safety, and maintenance procedures or assist in their development."
+},
+{
+"task_id": "10486",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Test electrical systems to determine voltages, using voltage meters."
+},
+{
+"task_id": "10485",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Contact equipment manufacturers or appropriate specialists when necessary to resolve equipment problems."
+},
+{
+"task_id": "10482",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Weigh, measure, and record fuel used."
+},
+{
+"task_id": "10489",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Receive instructions from steam engineers regarding steam plant and air compressor operations."
+},
+{
+"task_id": "10484",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Install burners and auxiliary equipment, using hand tools."
+},
+{
+"task_id": "10480",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes."
+},
+{
+"task_id": "10487",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities."
+},
+{
+"task_id": "10473",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps."
+},
+{
+"task_id": "10488",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics."
+},
+{
+"task_id": "10491",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Investigate and report on accidents."
+},
+{
+"task_id": "10492",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Operate mechanical hoppers and provide assistance in their adjustment and repair."
+},
+{
+"task_id": "10490",
+"soc": "51-8021.00",
+"occupation": "Stationary Engineers and Boiler Operators",
+"task_text": "Ignite fuel in burners, using torches or flames."
+},
+{
+"task_id": "928",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Collect and test water and sewage samples, using test equipment and color analysis standards."
+},
+{
+"task_id": "926",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power."
+},
+{
+"task_id": "929",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Record operational data, personnel attendance, or meter and gauge readings on specified forms."
+},
+{
+"task_id": "925",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids."
+},
+{
+"task_id": "927",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions."
+},
+{
+"task_id": "932",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Direct and coordinate plant workers engaged in routine operations and maintenance activities."
+},
+{
+"task_id": "18585",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools."
+},
+{
+"task_id": "930",
+"soc": "51-8031.00",
+"occupation": "Water and Wastewater Treatment Plant and System Operators",
+"task_text": "Maintain, repair, and lubricate equipment, using hand tools and power tools."
+},
+{
+"task_id": "10494",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions."
+},
+{
+"task_id": "10499",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Regulate or shut down equipment during emergency situations, as directed by supervisory personnel."
+},
+{
+"task_id": "10495",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment."
+},
+{
+"task_id": "10493",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields."
+},
+{
+"task_id": "10504",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency."
+},
+{
+"task_id": "10498",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met."
+},
+{
+"task_id": "10496",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Record operating data, such as process conditions, test results, or instrument readings."
+},
+{
+"task_id": "10502",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing."
+},
+{
+"task_id": "10506",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks."
+},
+{
+"task_id": "10501",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments."
+},
+{
+"task_id": "10497",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality."
+},
+{
+"task_id": "10500",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels."
+},
+{
+"task_id": "10503",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies."
+},
+{
+"task_id": "10509",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Repair or replace damaged equipment."
+},
+{
+"task_id": "10508",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Gauge tank levels, using calibrated rods."
+},
+{
+"task_id": "10507",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Calculate material requirements or yields according to formulas."
+},
+{
+"task_id": "10505",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Direct workers engaged in operating machinery that regulates the flow of materials and products."
+},
+{
+"task_id": "10511",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Supervise the cleaning of towers, strainers, or spray tips."
+},
+{
+"task_id": "10510",
+"soc": "51-8091.00",
+"occupation": "Chemical Plant and System Operators",
+"task_text": "Defrost frozen valves, using steam hoses."
+},
+{
+"task_id": "14287",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Monitor equipment functioning, observe temperature, level, and flow gauges, and perform regular unit checks to ensure that all equipment is operating as it should."
+},
+{
+"task_id": "14299",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment."
+},
+{
+"task_id": "14288",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas."
+},
+{
+"task_id": "14300",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment."
+},
+{
+"task_id": "14290",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows."
+},
+{
+"task_id": "14294",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Determine causes of abnormal pressure variances, and make corrective recommendations, such as installation of pipes to relieve overloading."
+},
+{
+"task_id": "14291",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems."
+},
+{
+"task_id": "14293",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Collaborate with other operators to solve unit problems."
+},
+{
+"task_id": "14286",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed."
+},
+{
+"task_id": "14289",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Start and shut down plant equipment."
+},
+{
+"task_id": "14295",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Read logsheets to determine product demand and disposition, or to detect malfunctions."
+},
+{
+"task_id": "14297",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Contact maintenance crews when necessary."
+},
+{
+"task_id": "14296",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks."
+},
+{
+"task_id": "14292",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed."
+},
+{
+"task_id": "14303",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Signal or direct workers who tend auxiliary equipment."
+},
+{
+"task_id": "14301",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Control fractioning columns, compressors, purifying towers, heat exchangers, and related equipment to extract nitrogen and oxygen from air."
+},
+{
+"task_id": "14302",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Calculate gas ratios to detect deviations from specifications, using testing apparatus."
+},
+{
+"task_id": "14304",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Operate construction equipment to install and maintain gas distribution systems."
+},
+{
+"task_id": "14298",
+"soc": "51-8092.00",
+"occupation": "Gas Plant Operators",
+"task_text": "Change charts in recording meters."
+},
+{
+"task_id": "14309",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Signal other workers by telephone or radio to operate pumps, open and close valves, and check temperatures."
+},
+{
+"task_id": "14318",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled."
+},
+{
+"task_id": "14305",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Monitor process indicators, instruments, gauges, and meters to detect and report any possible problems."
+},
+{
+"task_id": "14306",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Start pumps and open valves or use automated equipment to regulate the flow of oil in pipelines and into and out of tanks."
+},
+{
+"task_id": "14308",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules."
+},
+{
+"task_id": "14310",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Verify that incoming and outgoing products are moving through the correct meters, and that meters are working properly."
+},
+{
+"task_id": "14317",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations."
+},
+{
+"task_id": "14313",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Plan movement of products through lines to processing, storage, and shipping units, using knowledge of system interconnections and capacities."
+},
+{
+"task_id": "14307",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Control or operate manifold and pumping systems to circulate liquids through a petroleum refinery."
+},
+{
+"task_id": "14312",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment."
+},
+{
+"task_id": "14319",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples."
+},
+{
+"task_id": "14311",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Read automatic gauges at specified intervals to determine the flow rate of oil into or from tanks, and the amount of oil in tanks."
+},
+{
+"task_id": "14316",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products."
+},
+{
+"task_id": "14315",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Record and compile operating data, instrument readings, documentation, and results of laboratory analyses."
+},
+{
+"task_id": "14321",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties."
+},
+{
+"task_id": "14320",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Inspect pipelines, tightening connections and lubricating valves as necessary."
+},
+{
+"task_id": "14314",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Read and analyze specifications, schedules, logs, test results, and laboratory recommendations to determine how to set equipment controls to produce the required qualities and quantities of products."
+},
+{
+"task_id": "14323",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers."
+},
+{
+"task_id": "14328",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Calculate test result values, using standard formulas."
+},
+{
+"task_id": "14326",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Clean interiors of processing units by circulating chemicals and solvents within units."
+},
+{
+"task_id": "14327",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Clamp seals around valves to secure tanks."
+},
+{
+"task_id": "14322",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Coordinate shutdowns and major projects."
+},
+{
+"task_id": "14324",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Prepare calculations for receipts and deliveries of oil and oil products."
+},
+{
+"task_id": "14325",
+"soc": "51-8093.00",
+"occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+"task_text": "Lower thermometers into tanks to obtain temperature readings."
+},
+{
+"task_id": "17830",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Monitor batch, continuous flow, or hybrid biofuels production processes."
+},
+{
+"task_id": "17821",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Operate valves, pumps, engines, or generators to control and adjust biofuels production."
+},
+{
+"task_id": "17828",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Monitor and record biofuels processing data."
+},
+{
+"task_id": "17825",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality."
+},
+{
+"task_id": "17820",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions."
+},
+{
+"task_id": "17822",
+"soc": "51-8099.01",
+"occupation": "Biofuels Processing Technicians",
+"task_text": "Process refined feedstock with additives in fermentation or reaction process vessels."
+}
+]

@@ -1,0 +1,472 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+11690,"Electric Motor, Power Tool, and Related Repairers","Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.",Manual Dexterity,3,0
+11690,"Electric Motor, Power Tool, and Related Repairers","Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.",Finger Dexterity,2,0
+11690,"Electric Motor, Power Tool, and Related Repairers","Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.",Control Precision,2,0
+11690,"Electric Motor, Power Tool, and Related Repairers","Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.",Arm-Hand Steadiness,2,0
+11690,"Electric Motor, Power Tool, and Related Repairers","Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.",Near Vision,2,0
+11688,"Electric Motor, Power Tool, and Related Repairers","Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.",Near Vision,3,0
+11688,"Electric Motor, Power Tool, and Related Repairers","Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.",Deductive Reasoning,3,0
+11688,"Electric Motor, Power Tool, and Related Repairers","Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.",Number Facility,2,0
+11688,"Electric Motor, Power Tool, and Related Repairers","Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.",Problem Sensitivity,2,0
+11688,"Electric Motor, Power Tool, and Related Repairers","Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.",Perceptual Speed,1,0
+11692,"Electric Motor, Power Tool, and Related Repairers","Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.",Manual Dexterity,3,0
+11692,"Electric Motor, Power Tool, and Related Repairers","Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.",Static Strength,2,0
+11692,"Electric Motor, Power Tool, and Related Repairers","Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+11692,"Electric Motor, Power Tool, and Related Repairers","Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.",Control Precision,2,0
+11692,"Electric Motor, Power Tool, and Related Repairers","Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.",Finger Dexterity,2,0
+11702,"Electric Motor, Power Tool, and Related Repairers","Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",Static Strength,2,0
+11702,"Electric Motor, Power Tool, and Related Repairers","Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",Dynamic Strength,1,0
+11702,"Electric Motor, Power Tool, and Related Repairers","Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",Multilimb Coordination,2,0
+11702,"Electric Motor, Power Tool, and Related Repairers","Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",Control Precision,2,0
+11702,"Electric Motor, Power Tool, and Related Repairers","Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",Depth Perception,2,0
+11689,"Electric Motor, Power Tool, and Related Repairers","Record repairs required, parts used, and labor time.",Written Expression,2,0
+11689,"Electric Motor, Power Tool, and Related Repairers","Record repairs required, parts used, and labor time.",Information Ordering,2,0
+11689,"Electric Motor, Power Tool, and Related Repairers","Record repairs required, parts used, and labor time.",Memorization,1,0
+11701,"Electric Motor, Power Tool, and Related Repairers","Disassemble defective equipment so that repairs can be made, using hand tools.",Manual Dexterity,3,0
+11701,"Electric Motor, Power Tool, and Related Repairers","Disassemble defective equipment so that repairs can be made, using hand tools.",Finger Dexterity,2,0
+11701,"Electric Motor, Power Tool, and Related Repairers","Disassemble defective equipment so that repairs can be made, using hand tools.",Static Strength,1,0
+11701,"Electric Motor, Power Tool, and Related Repairers","Disassemble defective equipment so that repairs can be made, using hand tools.",Arm-Hand Steadiness,1,0
+11705,"Electric Motor, Power Tool, and Related Repairers","Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges.",Control Precision,3,0
+11705,"Electric Motor, Power Tool, and Related Repairers","Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges.",Arm-Hand Steadiness,2,0
+11705,"Electric Motor, Power Tool, and Related Repairers","Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges.",Finger Dexterity,2,0
+11705,"Electric Motor, Power Tool, and Related Repairers","Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges.",Near Vision,2,0
+11699,"Electric Motor, Power Tool, and Related Repairers",Lubricate moving parts.,Manual Dexterity,2,0
+11699,"Electric Motor, Power Tool, and Related Repairers",Lubricate moving parts.,Finger Dexterity,1,0
+11699,"Electric Motor, Power Tool, and Related Repairers",Lubricate moving parts.,Near Vision,1,0
+11695,"Electric Motor, Power Tool, and Related Repairers",Read service guides to find information needed to perform repairs.,Written Comprehension,3,0
+11695,"Electric Motor, Power Tool, and Related Repairers",Read service guides to find information needed to perform repairs.,Information Ordering,1,0
+11695,"Electric Motor, Power Tool, and Related Repairers",Read service guides to find information needed to perform repairs.,Memorization,1,0
+11694,"Electric Motor, Power Tool, and Related Repairers","Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams.",Near Vision,3,0
+11694,"Electric Motor, Power Tool, and Related Repairers","Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams.",Problem Sensitivity,2,0
+11694,"Electric Motor, Power Tool, and Related Repairers","Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams.",Visual Color Discrimination,2,0
+11694,"Electric Motor, Power Tool, and Related Repairers","Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams.",Written Comprehension,1,0
+11707,"Electric Motor, Power Tool, and Related Repairers","Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels.",Manual Dexterity,2,0
+11707,"Electric Motor, Power Tool, and Related Repairers","Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels.",Static Strength,1,0
+11707,"Electric Motor, Power Tool, and Related Repairers","Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels.",Arm-Hand Steadiness,1,0
+11707,"Electric Motor, Power Tool, and Related Repairers","Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels.",Stamina,1,0
+11703,"Electric Motor, Power Tool, and Related Repairers","Weld, braze, or solder electrical connections.",Arm-Hand Steadiness,3,0
+11703,"Electric Motor, Power Tool, and Related Repairers","Weld, braze, or solder electrical connections.",Control Precision,2,0
+11703,"Electric Motor, Power Tool, and Related Repairers","Weld, braze, or solder electrical connections.",Near Vision,2,0
+11703,"Electric Motor, Power Tool, and Related Repairers","Weld, braze, or solder electrical connections.",Manual Dexterity,2,0
+11713,"Electric Motor, Power Tool, and Related Repairers","Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes.",Control Precision,3,0
+11713,"Electric Motor, Power Tool, and Related Repairers","Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes.",Near Vision,2,0
+11713,"Electric Motor, Power Tool, and Related Repairers","Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes.",Arm-Hand Steadiness,2,0
+11713,"Electric Motor, Power Tool, and Related Repairers","Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes.",Visualization,1,0
+11720,"Electric Motor, Power Tool, and Related Repairers","Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary.",Manual Dexterity,2,0
+11720,"Electric Motor, Power Tool, and Related Repairers","Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary.",Static Strength,1,0
+11720,"Electric Motor, Power Tool, and Related Repairers","Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary.",Near Vision,1,0
+11720,"Electric Motor, Power Tool, and Related Repairers","Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary.",Stamina,1,0
+11710,"Electric Motor, Power Tool, and Related Repairers","Set machinery for proper performance, using computers.",Information Ordering,2,0
+11710,"Electric Motor, Power Tool, and Related Repairers","Set machinery for proper performance, using computers.",Deductive Reasoning,1,0
+11710,"Electric Motor, Power Tool, and Related Repairers","Set machinery for proper performance, using computers.",Near Vision,1,0
+11710,"Electric Motor, Power Tool, and Related Repairers","Set machinery for proper performance, using computers.",Control Precision,1,1
+11714,"Electric Motor, Power Tool, and Related Repairers","Test equipment for overheating, using speed gauges and thermometers.",Near Vision,2,0
+11714,"Electric Motor, Power Tool, and Related Repairers","Test equipment for overheating, using speed gauges and thermometers.",Problem Sensitivity,2,0
+11714,"Electric Motor, Power Tool, and Related Repairers","Test equipment for overheating, using speed gauges and thermometers.",Selective Attention,1,0
+11704,"Electric Motor, Power Tool, and Related Repairers","Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools.",Control Precision,3,0
+11704,"Electric Motor, Power Tool, and Related Repairers","Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools.",Near Vision,2,0
+11704,"Electric Motor, Power Tool, and Related Repairers","Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools.",Manual Dexterity,2,0
+11704,"Electric Motor, Power Tool, and Related Repairers","Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools.",Arm-Hand Steadiness,2,0
+11691,"Electric Motor, Power Tool, and Related Repairers",Maintain stocks of parts.,Information Ordering,2,0
+11691,"Electric Motor, Power Tool, and Related Repairers",Maintain stocks of parts.,Memorization,1,0
+11691,"Electric Motor, Power Tool, and Related Repairers",Maintain stocks of parts.,Written Comprehension,1,0
+11709,"Electric Motor, Power Tool, and Related Repairers","Cut and form insulation, and insert insulation into armature, rotor, or stator slots.",Manual Dexterity,3,0
+11709,"Electric Motor, Power Tool, and Related Repairers","Cut and form insulation, and insert insulation into armature, rotor, or stator slots.",Finger Dexterity,3,0
+11709,"Electric Motor, Power Tool, and Related Repairers","Cut and form insulation, and insert insulation into armature, rotor, or stator slots.",Near Vision,2,0
+11709,"Electric Motor, Power Tool, and Related Repairers","Cut and form insulation, and insert insulation into armature, rotor, or stator slots.",Arm-Hand Steadiness,1,0
+11698,"Electric Motor, Power Tool, and Related Repairers","Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.",Manual Dexterity,3,0
+11698,"Electric Motor, Power Tool, and Related Repairers","Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.",Finger Dexterity,2,0
+11698,"Electric Motor, Power Tool, and Related Repairers","Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.",Visualization,2,0
+11698,"Electric Motor, Power Tool, and Related Repairers","Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.",Near Vision,2,0
+11698,"Electric Motor, Power Tool, and Related Repairers","Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.",Written Comprehension,1,0
+11697,"Electric Motor, Power Tool, and Related Repairers","Solder, wrap, and coat wires to ensure proper insulation.",Finger Dexterity,3,0
+11697,"Electric Motor, Power Tool, and Related Repairers","Solder, wrap, and coat wires to ensure proper insulation.",Arm-Hand Steadiness,2,0
+11697,"Electric Motor, Power Tool, and Related Repairers","Solder, wrap, and coat wires to ensure proper insulation.",Near Vision,2,0
+11693,"Electric Motor, Power Tool, and Related Repairers","Rewire electrical systems, and repair or replace electrical accessories.",Manual Dexterity,2,0
+11693,"Electric Motor, Power Tool, and Related Repairers","Rewire electrical systems, and repair or replace electrical accessories.",Finger Dexterity,2,0
+11693,"Electric Motor, Power Tool, and Related Repairers","Rewire electrical systems, and repair or replace electrical accessories.",Problem Sensitivity,2,0
+11693,"Electric Motor, Power Tool, and Related Repairers","Rewire electrical systems, and repair or replace electrical accessories.",Near Vision,1,0
+11706,"Electric Motor, Power Tool, and Related Repairers","Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid.",Manual Dexterity,2,0
+11706,"Electric Motor, Power Tool, and Related Repairers","Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid.",Static Strength,1,0
+11706,"Electric Motor, Power Tool, and Related Repairers","Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid.",Stamina,1,0
+11706,"Electric Motor, Power Tool, and Related Repairers","Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid.",Near Vision,1,0
+11708,"Electric Motor, Power Tool, and Related Repairers","Rewind coils on cores in slots, or make replacement coils, using coil-winding machines.",Finger Dexterity,3,0
+11708,"Electric Motor, Power Tool, and Related Repairers","Rewind coils on cores in slots, or make replacement coils, using coil-winding machines.",Manual Dexterity,2,0
+11708,"Electric Motor, Power Tool, and Related Repairers","Rewind coils on cores in slots, or make replacement coils, using coil-winding machines.",Control Precision,2,0
+11708,"Electric Motor, Power Tool, and Related Repairers","Rewind coils on cores in slots, or make replacement coils, using coil-winding machines.",Near Vision,2,0
+11700,"Electric Motor, Power Tool, and Related Repairers","Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment.",Finger Dexterity,2,0
+11700,"Electric Motor, Power Tool, and Related Repairers","Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment.",Manual Dexterity,2,0
+11700,"Electric Motor, Power Tool, and Related Repairers","Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment.",Arm-Hand Steadiness,2,0
+11700,"Electric Motor, Power Tool, and Related Repairers","Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment.",Near Vision,1,0
+11726,"Electric Motor, Power Tool, and Related Repairers",Hammer out dents and twists in tools and equipment.,Static Strength,2,0
+11726,"Electric Motor, Power Tool, and Related Repairers",Hammer out dents and twists in tools and equipment.,Dynamic Strength,2,0
+11726,"Electric Motor, Power Tool, and Related Repairers",Hammer out dents and twists in tools and equipment.,Control Precision,2,0
+11726,"Electric Motor, Power Tool, and Related Repairers",Hammer out dents and twists in tools and equipment.,Arm-Hand Steadiness,1,0
+11725,"Electric Motor, Power Tool, and Related Repairers","Seal joints with putty, mortar, and asbestos, using putty extruders and knives.",Manual Dexterity,2,0
+11725,"Electric Motor, Power Tool, and Related Repairers","Seal joints with putty, mortar, and asbestos, using putty extruders and knives.",Finger Dexterity,2,0
+11725,"Electric Motor, Power Tool, and Related Repairers","Seal joints with putty, mortar, and asbestos, using putty extruders and knives.",Arm-Hand Steadiness,1,0
+11722,"Electric Motor, Power Tool, and Related Repairers",Repair and operate battery-charging equipment.,Manual Dexterity,2,0
+11722,"Electric Motor, Power Tool, and Related Repairers",Repair and operate battery-charging equipment.,Near Vision,1,0
+11722,"Electric Motor, Power Tool, and Related Repairers",Repair and operate battery-charging equipment.,Problem Sensitivity,1,0
+11722,"Electric Motor, Power Tool, and Related Repairers",Repair and operate battery-charging equipment.,Control Precision,1,0
+11724,"Electric Motor, Power Tool, and Related Repairers","Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels.",Manual Dexterity,2,0
+11724,"Electric Motor, Power Tool, and Related Repairers","Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels.",Control Precision,2,0
+11724,"Electric Motor, Power Tool, and Related Repairers","Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels.",Near Vision,1,0
+11724,"Electric Motor, Power Tool, and Related Repairers","Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels.",Arm-Hand Steadiness,1,0
+11721,"Electric Motor, Power Tool, and Related Repairers","Test battery charges, and replace or recharge batteries as necessary.",Near Vision,1,0
+11721,"Electric Motor, Power Tool, and Related Repairers","Test battery charges, and replace or recharge batteries as necessary.",Problem Sensitivity,1,0
+11721,"Electric Motor, Power Tool, and Related Repairers","Test battery charges, and replace or recharge batteries as necessary.",Manual Dexterity,1,0
+11727,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software.",Near Vision,3,0
+11727,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software.",Deductive Reasoning,3,0
+11727,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software.",Problem Sensitivity,2,0
+11727,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software.",Perceptual Speed,1,0
+11728,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Reassemble and test equipment after repairs.,Manual Dexterity,2,0
+11728,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Reassemble and test equipment after repairs.,Control Precision,2,0
+11728,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Reassemble and test equipment after repairs.,Near Vision,1,0
+11728,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Reassemble and test equipment after repairs.,Problem Sensitivity,1,0
+11732,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.",Manual Dexterity,2,0
+11732,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.",Finger Dexterity,2,0
+11732,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.",Arm-Hand Steadiness,2,0
+11732,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.",Near Vision,1,0
+11732,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.",Problem Sensitivity,1,0
+11729,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment.",Finger Dexterity,3,0
+11729,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment.",Manual Dexterity,2,0
+11729,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment.",Arm-Hand Steadiness,2,0
+11729,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment.",Near Vision,1,0
+11731,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.,Problem Sensitivity,3,0
+11731,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.,Deductive Reasoning,2,0
+11731,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.,Near Vision,2,0
+11731,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.,Finger Dexterity,1,0
+11734,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Maintain equipment service records.,Written Expression,2,0
+11734,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Maintain equipment service records.,Information Ordering,2,0
+11734,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Maintain equipment service records.,Memorization,1,0
+11733,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Refer to schematics and manufacturers' specifications that show connections and provide instructions on how to locate problems.,Written Comprehension,3,0
+11733,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Refer to schematics and manufacturers' specifications that show connections and provide instructions on how to locate problems.,Visualization,2,0
+11733,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Refer to schematics and manufacturers' specifications that show connections and provide instructions on how to locate problems.,Deductive Reasoning,1,0
+11738,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools.",Manual Dexterity,2,0
+11738,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools.",Finger Dexterity,2,0
+11738,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools.",Static Strength,1,0
+11738,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools.",Arm-Hand Steadiness,1,0
+11730,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install new fuses, electrical cables, or power sources as required.",Manual Dexterity,2,0
+11730,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install new fuses, electrical cables, or power sources as required.",Finger Dexterity,1,0
+11730,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install new fuses, electrical cables, or power sources as required.",Static Strength,1,0
+11735,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.",Manual Dexterity,2,0
+11735,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.",Control Precision,2,0
+11735,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.",Static Strength,1,0
+11735,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.",Arm-Hand Steadiness,1,0
+11735,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.",Near Vision,1,0
+11740,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Confer with customers to determine the nature of malfunctions.,Oral Comprehension,3,0
+11740,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Confer with customers to determine the nature of malfunctions.,Oral Expression,2,0
+11740,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Confer with customers to determine the nature of malfunctions.,Problem Sensitivity,1,0
+11737,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",Manual Dexterity,2,0
+11737,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",Static Strength,2,0
+11737,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",Finger Dexterity,1,0
+11737,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",Arm-Hand Steadiness,1,0
+11739,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools.",Manual Dexterity,3,0
+11739,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools.",Finger Dexterity,2,0
+11739,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools.",Control Precision,2,0
+11739,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools.",Arm-Hand Steadiness,2,0
+11741,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Estimate costs of repairs based on parts and labor requirements.,Number Facility,3,0
+11741,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Estimate costs of repairs based on parts and labor requirements.,Mathematical Reasoning,2,0
+11741,"Electrical and Electronics Installers and Repairers, Transportation Equipment",Estimate costs of repairs based on parts and labor requirements.,Written Expression,1,0
+11736,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.",Manual Dexterity,2,0
+11736,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.",Static Strength,2,0
+11736,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.",Control Precision,1,0
+11736,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.",Near Vision,1,0
+11736,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.",Number Facility,1,0
+886,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems.",Deductive Reasoning,3,0
+886,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems.",Problem Sensitivity,3,0
+886,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems.",Near Vision,2,0
+886,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems.",Perceptual Speed,1,0
+892,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Maintain equipment logs that record performance problems, repairs, calibrations, or tests.",Written Expression,2,0
+892,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Maintain equipment logs that record performance problems, repairs, calibrations, or tests.",Information Ordering,2,0
+892,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Maintain equipment logs that record performance problems, repairs, calibrations, or tests.",Memorization,1,0
+884,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Set up and test industrial equipment to ensure that it functions properly.,Manual Dexterity,2,0
+884,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Set up and test industrial equipment to ensure that it functions properly.,Control Precision,2,0
+884,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Set up and test industrial equipment to ensure that it functions properly.,Problem Sensitivity,2,0
+884,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Set up and test industrial equipment to ensure that it functions properly.,Near Vision,1,0
+890,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Inspect components of industrial equipment for accurate assembly and installation or for defects, such as loose connections or frayed wires.",Near Vision,3,0
+890,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Inspect components of industrial equipment for accurate assembly and installation or for defects, such as loose connections or frayed wires.",Problem Sensitivity,2,0
+890,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Inspect components of industrial equipment for accurate assembly and installation or for defects, such as loose connections or frayed wires.",Visual Color Discrimination,1,0
+897,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Install repaired equipment in various settings, such as industrial or military establishments.",Manual Dexterity,2,0
+897,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Install repaired equipment in various settings, such as industrial or military establishments.",Static Strength,2,0
+897,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Install repaired equipment in various settings, such as industrial or military establishments.",Multilimb Coordination,1,0
+885,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Operate equipment to demonstrate proper use or to analyze malfunctions.,Control Precision,2,0
+885,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Operate equipment to demonstrate proper use or to analyze malfunctions.,Problem Sensitivity,2,0
+885,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Operate equipment to demonstrate proper use or to analyze malfunctions.,Oral Expression,1,1
+885,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Operate equipment to demonstrate proper use or to analyze malfunctions.,Near Vision,1,0
+899,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used.",Wrist-Finger Speed,2,0
+899,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used.",Near Vision,1,0
+899,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used.",Information Ordering,2,0
+899,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used.",Visualization,1,0
+882,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",Manual Dexterity,2,0
+882,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",Problem Sensitivity,2,0
+882,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",Near Vision,1,0
+882,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",Information Ordering,1,0
+888,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Calibrate testing instruments and installed or repaired equipment to prescribed specifications.,Control Precision,3,0
+888,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Calibrate testing instruments and installed or repaired equipment to prescribed specifications.,Near Vision,2,0
+888,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Calibrate testing instruments and installed or repaired equipment to prescribed specifications.,Number Facility,1,0
+887,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment.",Manual Dexterity,2,0
+887,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment.",Finger Dexterity,2,0
+887,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment.",Control Precision,2,0
+887,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment.",Arm-Hand Steadiness,1,0
+895,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance.",Oral Comprehension,2,0
+895,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance.",Oral Expression,2,0
+895,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance.",Deductive Reasoning,2,0
+895,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance.",Visualization,1,0
+894,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Maintain inventory of spare parts.,Information Ordering,2,0
+894,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Maintain inventory of spare parts.,Memorization,1,0
+894,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Maintain inventory of spare parts.,Written Expression,1,0
+891,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Study blueprints, schematics, manuals, or other specifications to determine installation procedures.",Written Comprehension,3,0
+891,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Study blueprints, schematics, manuals, or other specifications to determine installation procedures.",Visualization,2,0
+891,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Study blueprints, schematics, manuals, or other specifications to determine installation procedures.",Information Ordering,1,0
+883,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems.,Oral Comprehension,2,0
+883,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems.,Deductive Reasoning,2,0
+883,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems.,Problem Sensitivity,2,0
+883,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems.,Written Comprehension,1,0
+893,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Coordinate efforts with other workers involved in installing or maintaining equipment or components.,Oral Expression,2,0
+893,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Coordinate efforts with other workers involved in installing or maintaining equipment or components.,Oral Comprehension,2,0
+893,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Coordinate efforts with other workers involved in installing or maintaining equipment or components.,Time Sharing,1,1
+901,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications.",Deductive Reasoning,3,0
+901,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications.",Inductive Reasoning,2,0
+901,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications.",Visualization,2,0
+901,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications.",Written Comprehension,1,0
+898,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Determine feasibility of using standardized equipment or develop specifications for equipment required to perform additional functions.,Deductive Reasoning,3,0
+898,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Determine feasibility of using standardized equipment or develop specifications for equipment required to perform additional functions.,Inductive Reasoning,2,0
+898,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Determine feasibility of using standardized equipment or develop specifications for equipment required to perform additional functions.,Written Expression,1,0
+889,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",Oral Expression,2,0
+889,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",Written Expression,1,0
+889,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Advise management regarding customer satisfaction, product performance, or suggestions for product improvements.",Oral Comprehension,1,0
+896,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Send defective units to the manufacturer or to a specialized repair shop for repair.,Information Ordering,2,0
+896,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Send defective units to the manufacturer or to a specialized repair shop for repair.,Written Expression,1,0
+896,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Send defective units to the manufacturer or to a specialized repair shop for repair.,Oral Expression,1,0
+900,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Sign overhaul documents for equipment replaced or repaired.,Written Comprehension,2,0
+900,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Sign overhaul documents for equipment replaced or repaired.,Information Ordering,1,0
+900,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",Sign overhaul documents for equipment replaced or repaired.,Near Vision,1,0
+11743,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters.",Near Vision,3,0
+11743,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters.",Deductive Reasoning,3,0
+11743,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters.",Problem Sensitivity,2,0
+11743,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters.",Written Comprehension,1,0
+11747,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Prepare and maintain records detailing tests, repairs, and maintenance.",Written Expression,2,0
+11747,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Prepare and maintain records detailing tests, repairs, and maintenance.",Information Ordering,2,0
+11747,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Prepare and maintain records detailing tests, repairs, and maintenance.",Memorization,1,0
+11744,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning.",Written Comprehension,3,0
+11744,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning.",Deductive Reasoning,3,0
+11744,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning.",Oral Comprehension,1,0
+11744,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning.",Visualization,1,0
+11748,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications.",Deductive Reasoning,3,0
+11748,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications.",Inductive Reasoning,2,0
+11748,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications.",Mathematical Reasoning,1,0
+11748,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications.",Number Facility,1,0
+11746,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Open and close switches to isolate defective relays, performing adjustments or repairs.",Control Precision,2,0
+11746,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Open and close switches to isolate defective relays, performing adjustments or repairs.",Manual Dexterity,2,0
+11746,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Open and close switches to isolate defective relays, performing adjustments or repairs.",Problem Sensitivity,1,0
+11746,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Open and close switches to isolate defective relays, performing adjustments or repairs.",Arm-Hand Steadiness,1,0
+11745,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Notify facility personnel of equipment shutdowns.,Oral Expression,2,1
+11745,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Notify facility personnel of equipment shutdowns.,Oral Comprehension,1,0
+11745,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Notify facility personnel of equipment shutdowns.,Written Expression,1,0
+11750,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators.",Manual Dexterity,2,0
+11750,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators.",Finger Dexterity,2,0
+11750,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators.",Static Strength,1,0
+11750,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators.",Arm-Hand Steadiness,1,0
+11753,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Run signal quality and connectivity tests for individual cables, and record results.",Near Vision,2,0
+11753,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Run signal quality and connectivity tests for individual cables, and record results.",Problem Sensitivity,1,0
+11753,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Run signal quality and connectivity tests for individual cables, and record results.",Written Expression,1,0
+11753,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Run signal quality and connectivity tests for individual cables, and record results.",Perceptual Speed,1,0
+11756,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Maintain inventories of spare parts for all equipment, requisitioning parts as necessary.",Information Ordering,2,0
+11756,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Maintain inventories of spare parts for all equipment, requisitioning parts as necessary.",Memorization,1,0
+11756,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Maintain inventories of spare parts for all equipment, requisitioning parts as necessary.",Written Expression,1,0
+11742,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Construct, test, maintain, and repair substation relay and control systems.",Manual Dexterity,2,0
+11742,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Construct, test, maintain, and repair substation relay and control systems.",Deductive Reasoning,2,0
+11742,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Construct, test, maintain, and repair substation relay and control systems.",Control Precision,2,0
+11742,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Construct, test, maintain, and repair substation relay and control systems.",Problem Sensitivity,2,0
+11749,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss.",Mathematical Reasoning,2,0
+11749,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss.",Near Vision,2,0
+11749,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss.",Number Facility,2,0
+11749,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss.",Problem Sensitivity,1,0
+11752,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems.,Information Ordering,2,0
+11752,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems.,Oral Expression,2,0
+11752,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems.,Deductive Reasoning,1,0
+11754,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise splicing or termination of cables in color-code order.,Information Ordering,2,0
+11754,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise splicing or termination of cables in color-code order.,Visual Color Discrimination,2,0
+11754,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Schedule and supervise splicing or termination of cables in color-code order.,Oral Expression,1,0
+11755,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test oil in circuit breakers and transformers for dielectric strength, refilling oil periodically.",Near Vision,2,0
+11755,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test oil in circuit breakers and transformers for dielectric strength, refilling oil periodically.",Manual Dexterity,1,0
+11755,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Test oil in circuit breakers and transformers for dielectric strength, refilling oil periodically.",Problem Sensitivity,1,0
+11751,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines.",Manual Dexterity,2,0
+11751,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines.",Static Strength,2,0
+11751,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines.",Arm-Hand Steadiness,2,0
+11751,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines.",Control Precision,1,0
+13728,"Electronic Equipment Installers and Repairers, Motor Vehicles","Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.",Manual Dexterity,2,0
+13728,"Electronic Equipment Installers and Repairers, Motor Vehicles","Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.",Finger Dexterity,2,0
+13728,"Electronic Equipment Installers and Repairers, Motor Vehicles","Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.",Static Strength,1,0
+13728,"Electronic Equipment Installers and Repairers, Motor Vehicles","Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.",Arm-Hand Steadiness,1,0
+13727,"Electronic Equipment Installers and Repairers, Motor Vehicles","Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters.",Near Vision,3,0
+13727,"Electronic Equipment Installers and Repairers, Motor Vehicles","Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters.",Deductive Reasoning,3,0
+13727,"Electronic Equipment Installers and Repairers, Motor Vehicles","Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters.",Problem Sensitivity,2,0
+13732,"Electronic Equipment Installers and Repairers, Motor Vehicles","Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",Manual Dexterity,2,0
+13732,"Electronic Equipment Installers and Repairers, Motor Vehicles","Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",Control Precision,2,0
+13732,"Electronic Equipment Installers and Repairers, Motor Vehicles","Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",Static Strength,1,0
+13732,"Electronic Equipment Installers and Repairers, Motor Vehicles","Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",Arm-Hand Steadiness,1,0
+13725,"Electronic Equipment Installers and Repairers, Motor Vehicles","Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment.",Finger Dexterity,3,0
+13725,"Electronic Equipment Installers and Repairers, Motor Vehicles","Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment.",Manual Dexterity,2,0
+13725,"Electronic Equipment Installers and Repairers, Motor Vehicles","Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment.",Arm-Hand Steadiness,2,0
+13726,"Electronic Equipment Installers and Repairers, Motor Vehicles","Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles.",Deductive Reasoning,3,0
+13726,"Electronic Equipment Installers and Repairers, Motor Vehicles","Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles.",Problem Sensitivity,3,0
+13726,"Electronic Equipment Installers and Repairers, Motor Vehicles","Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles.",Manual Dexterity,1,0
+13731,"Electronic Equipment Installers and Repairers, Motor Vehicles",Run new speaker and electrical cables.,Manual Dexterity,2,0
+13731,"Electronic Equipment Installers and Repairers, Motor Vehicles",Run new speaker and electrical cables.,Finger Dexterity,1,0
+13731,"Electronic Equipment Installers and Repairers, Motor Vehicles",Run new speaker and electrical cables.,Static Strength,1,0
+13730,"Electronic Equipment Installers and Repairers, Motor Vehicles",Confer with customers to determine the nature of malfunctions.,Oral Comprehension,3,0
+13730,"Electronic Equipment Installers and Repairers, Motor Vehicles",Confer with customers to determine the nature of malfunctions.,Oral Expression,2,0
+13730,"Electronic Equipment Installers and Repairers, Motor Vehicles",Confer with customers to determine the nature of malfunctions.,Problem Sensitivity,1,0
+13734,"Electronic Equipment Installers and Repairers, Motor Vehicles","Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.",Manual Dexterity,2,0
+13734,"Electronic Equipment Installers and Repairers, Motor Vehicles","Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.",Static Strength,2,0
+13734,"Electronic Equipment Installers and Repairers, Motor Vehicles","Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.",Finger Dexterity,1,0
+13734,"Electronic Equipment Installers and Repairers, Motor Vehicles","Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.",Gross Body Coordination,1,0
+13735,"Electronic Equipment Installers and Repairers, Motor Vehicles",Record results of diagnostic tests.,Written Expression,2,0
+13735,"Electronic Equipment Installers and Repairers, Motor Vehicles",Record results of diagnostic tests.,Information Ordering,1,0
+13735,"Electronic Equipment Installers and Repairers, Motor Vehicles",Record results of diagnostic tests.,Near Vision,1,0
+13729,"Electronic Equipment Installers and Repairers, Motor Vehicles","Estimate costs of repairs, based on parts and labor charges.",Number Facility,3,0
+13729,"Electronic Equipment Installers and Repairers, Motor Vehicles","Estimate costs of repairs, based on parts and labor charges.",Mathematical Reasoning,2,0
+13729,"Electronic Equipment Installers and Repairers, Motor Vehicles","Estimate costs of repairs, based on parts and labor charges.",Written Expression,1,0
+13733,"Electronic Equipment Installers and Repairers, Motor Vehicles",Replace and clean electrical or electronic components.,Manual Dexterity,2,0
+13733,"Electronic Equipment Installers and Repairers, Motor Vehicles",Replace and clean electrical or electronic components.,Finger Dexterity,2,0
+13733,"Electronic Equipment Installers and Repairers, Motor Vehicles",Replace and clean electrical or electronic components.,Near Vision,1,0
+13736,"Electronic Equipment Installers and Repairers, Motor Vehicles","Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.",Manual Dexterity,2,0
+13736,"Electronic Equipment Installers and Repairers, Motor Vehicles","Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.",Visualization,2,0
+13736,"Electronic Equipment Installers and Repairers, Motor Vehicles","Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.",Static Strength,1,0
+13736,"Electronic Equipment Installers and Repairers, Motor Vehicles","Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.",Near Vision,1,0
+13736,"Electronic Equipment Installers and Repairers, Motor Vehicles","Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.",Number Facility,1,1
+13738,Audiovisual Equipment Installers and Repairers,"Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders.",Manual Dexterity,2,0
+13738,Audiovisual Equipment Installers and Repairers,"Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders.",Finger Dexterity,2,0
+13738,Audiovisual Equipment Installers and Repairers,"Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders.",Problem Sensitivity,1,0
+13738,Audiovisual Equipment Installers and Repairers,"Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders.",Near Vision,1,0
+13739,Audiovisual Equipment Installers and Repairers,"Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes.",Control Precision,2,0
+13739,Audiovisual Equipment Installers and Repairers,"Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes.",Problem Sensitivity,3,0
+13739,Audiovisual Equipment Installers and Repairers,"Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes.",Near Vision,2,0
+13739,Audiovisual Equipment Installers and Repairers,"Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes.",Deductive Reasoning,2,0
+13740,Audiovisual Equipment Installers and Repairers,Confer with customers to determine the nature of problems or to explain repairs.,Oral Comprehension,2,0
+13740,Audiovisual Equipment Installers and Repairers,Confer with customers to determine the nature of problems or to explain repairs.,Oral Expression,3,0
+13740,Audiovisual Equipment Installers and Repairers,Confer with customers to determine the nature of problems or to explain repairs.,Problem Sensitivity,1,0
+13747,Audiovisual Equipment Installers and Repairers,"Position or mount speakers, and wire speakers to consoles.",Manual Dexterity,2,0
+13747,Audiovisual Equipment Installers and Repairers,"Position or mount speakers, and wire speakers to consoles.",Static Strength,1,0
+13747,Audiovisual Equipment Installers and Repairers,"Position or mount speakers, and wire speakers to consoles.",Finger Dexterity,1,0
+13747,Audiovisual Equipment Installers and Repairers,"Position or mount speakers, and wire speakers to consoles.",Arm-Hand Steadiness,1,0
+13742,Audiovisual Equipment Installers and Repairers,Instruct customers on the safe and proper use of equipment.,Oral Expression,3,0
+13742,Audiovisual Equipment Installers and Repairers,Instruct customers on the safe and proper use of equipment.,Oral Comprehension,1,0
+13742,Audiovisual Equipment Installers and Repairers,Instruct customers on the safe and proper use of equipment.,Information Ordering,1,0
+13746,Audiovisual Equipment Installers and Repairers,"Make service calls to repair units in customers' homes, or return units to shops for major repairs.",Manual Dexterity,1,0
+13746,Audiovisual Equipment Installers and Repairers,"Make service calls to repair units in customers' homes, or return units to shops for major repairs.",Problem Sensitivity,1,0
+13746,Audiovisual Equipment Installers and Repairers,"Make service calls to repair units in customers' homes, or return units to shops for major repairs.",Oral Comprehension,1,0
+13744,Audiovisual Equipment Installers and Repairers,"Read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals.",Written Comprehension,3,0
+13744,Audiovisual Equipment Installers and Repairers,"Read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals.",Visualization,3,0
+13744,Audiovisual Equipment Installers and Repairers,"Read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals.",Information Ordering,1,0
+13741,Audiovisual Equipment Installers and Repairers,"Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings.",Control Precision,3,0
+13741,Audiovisual Equipment Installers and Repairers,"Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings.",Near Vision,2,0
+13741,Audiovisual Equipment Installers and Repairers,"Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings.",Hearing Sensitivity,2,0
+13741,Audiovisual Equipment Installers and Repairers,"Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings.",Auditory Attention,1,0
+13745,Audiovisual Equipment Installers and Repairers,Keep records of work orders and test and maintenance reports.,Written Expression,2,0
+13745,Audiovisual Equipment Installers and Repairers,Keep records of work orders and test and maintenance reports.,Information Ordering,2,0
+13745,Audiovisual Equipment Installers and Repairers,Keep records of work orders and test and maintenance reports.,Memorization,1,0
+13737,Audiovisual Equipment Installers and Repairers,"Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.",Manual Dexterity,3,0
+13737,Audiovisual Equipment Installers and Repairers,"Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.",Finger Dexterity,2,0
+13737,Audiovisual Equipment Installers and Repairers,"Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.",Arm-Hand Steadiness,2,0
+13737,Audiovisual Equipment Installers and Repairers,"Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.",Near Vision,1,0
+13743,Audiovisual Equipment Installers and Repairers,Compute cost estimates for labor and materials.,Number Facility,3,0
+13743,Audiovisual Equipment Installers and Repairers,Compute cost estimates for labor and materials.,Mathematical Reasoning,2,0
+13743,Audiovisual Equipment Installers and Repairers,Compute cost estimates for labor and materials.,Written Expression,1,0
+11761,Security and Fire Alarm Systems Installers,"Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans.",Manual Dexterity,2,0
+11761,Security and Fire Alarm Systems Installers,"Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans.",Written Comprehension,2,0
+11761,Security and Fire Alarm Systems Installers,"Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans.",Visualization,1,0
+11761,Security and Fire Alarm Systems Installers,"Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans.",Finger Dexterity,1,0
+11760,Security and Fire Alarm Systems Installers,"Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components.",Manual Dexterity,2,0
+11760,Security and Fire Alarm Systems Installers,"Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components.",Finger Dexterity,2,0
+11760,Security and Fire Alarm Systems Installers,"Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components.",Static Strength,1,0
+11760,Security and Fire Alarm Systems Installers,"Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components.",Arm-Hand Steadiness,1,0
+11767,Security and Fire Alarm Systems Installers,"Demonstrate systems for customers and explain details, such as the causes and consequences of false alarms.",Oral Expression,3,0
+11767,Security and Fire Alarm Systems Installers,"Demonstrate systems for customers and explain details, such as the causes and consequences of false alarms.",Oral Comprehension,1,0
+11767,Security and Fire Alarm Systems Installers,"Demonstrate systems for customers and explain details, such as the causes and consequences of false alarms.",Deductive Reasoning,1,0
+11765,Security and Fire Alarm Systems Installers,"Test and repair circuits and sensors, following wiring and system specifications.",Problem Sensitivity,2,0
+11765,Security and Fire Alarm Systems Installers,"Test and repair circuits and sensors, following wiring and system specifications.",Manual Dexterity,2,0
+11765,Security and Fire Alarm Systems Installers,"Test and repair circuits and sensors, following wiring and system specifications.",Near Vision,1,0
+11765,Security and Fire Alarm Systems Installers,"Test and repair circuits and sensors, following wiring and system specifications.",Written Comprehension,1,0
+20799,Security and Fire Alarm Systems Installers,"Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.",Manual Dexterity,2,0
+20799,Security and Fire Alarm Systems Installers,"Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.",Extent Flexibility,2,0
+20799,Security and Fire Alarm Systems Installers,"Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.",Gross Body Coordination,2,0
+20799,Security and Fire Alarm Systems Installers,"Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.",Finger Dexterity,1,0
+20799,Security and Fire Alarm Systems Installers,"Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.",Trunk Strength,1,1
+11758,Security and Fire Alarm Systems Installers,"Examine systems to locate problems, such as loose connections or broken insulation.",Near Vision,3,0
+11758,Security and Fire Alarm Systems Installers,"Examine systems to locate problems, such as loose connections or broken insulation.",Problem Sensitivity,2,0
+11758,Security and Fire Alarm Systems Installers,"Examine systems to locate problems, such as loose connections or broken insulation.",Visual Color Discrimination,1,0
+20800,Security and Fire Alarm Systems Installers,"Test backup batteries, keypad programming, sirens, or other security features to ensure proper functioning or to diagnose malfunctions.",Near Vision,1,0
+20800,Security and Fire Alarm Systems Installers,"Test backup batteries, keypad programming, sirens, or other security features to ensure proper functioning or to diagnose malfunctions.",Problem Sensitivity,2,0
+20800,Security and Fire Alarm Systems Installers,"Test backup batteries, keypad programming, sirens, or other security features to ensure proper functioning or to diagnose malfunctions.",Finger Dexterity,1,0
+11766,Security and Fire Alarm Systems Installers,"Drill holes for wiring in wall studs, joists, ceilings, or floors.",Manual Dexterity,2,0
+11766,Security and Fire Alarm Systems Installers,"Drill holes for wiring in wall studs, joists, ceilings, or floors.",Static Strength,2,0
+11766,Security and Fire Alarm Systems Installers,"Drill holes for wiring in wall studs, joists, ceilings, or floors.",Control Precision,1,0
+11766,Security and Fire Alarm Systems Installers,"Drill holes for wiring in wall studs, joists, ceilings, or floors.",Gross Body Coordination,1,1
+11763,Security and Fire Alarm Systems Installers,"Inspect installation sites and study work orders, building plans, and installation manuals to determine materials requirements and installation procedures.",Written Comprehension,3,0
+11763,Security and Fire Alarm Systems Installers,"Inspect installation sites and study work orders, building plans, and installation manuals to determine materials requirements and installation procedures.",Visualization,2,0
+11763,Security and Fire Alarm Systems Installers,"Inspect installation sites and study work orders, building plans, and installation manuals to determine materials requirements and installation procedures.",Near Vision,1,0
+11768,Security and Fire Alarm Systems Installers,Consult with clients to assess risks and to determine security requirements.,Oral Comprehension,2,0
+11768,Security and Fire Alarm Systems Installers,Consult with clients to assess risks and to determine security requirements.,Oral Expression,2,0
+11768,Security and Fire Alarm Systems Installers,Consult with clients to assess risks and to determine security requirements.,Deductive Reasoning,2,0
+11770,Security and Fire Alarm Systems Installers,"Mount raceways and conduits and fasten wires to wood framing, using staplers.",Manual Dexterity,2,0
+11770,Security and Fire Alarm Systems Installers,"Mount raceways and conduits and fasten wires to wood framing, using staplers.",Static Strength,1,0
+11770,Security and Fire Alarm Systems Installers,"Mount raceways and conduits and fasten wires to wood framing, using staplers.",Arm-Hand Steadiness,1,0
+11770,Security and Fire Alarm Systems Installers,"Mount raceways and conduits and fasten wires to wood framing, using staplers.",Finger Dexterity,1,0
+11764,Security and Fire Alarm Systems Installers,"Adjust sensitivity of units, based on room structures and manufacturers' recommendations, using programming keypads.",Finger Dexterity,2,0
+11764,Security and Fire Alarm Systems Installers,"Adjust sensitivity of units, based on room structures and manufacturers' recommendations, using programming keypads.",Near Vision,1,0
+11764,Security and Fire Alarm Systems Installers,"Adjust sensitivity of units, based on room structures and manufacturers' recommendations, using programming keypads.",Deductive Reasoning,1,0
+11769,Security and Fire Alarm Systems Installers,Keep informed of new products and developments.,Written Comprehension,2,1
+11769,Security and Fire Alarm Systems Installers,Keep informed of new products and developments.,Oral Comprehension,1,0
+11769,Security and Fire Alarm Systems Installers,Keep informed of new products and developments.,Information Ordering,1,0
+11773,Security and Fire Alarm Systems Installers,Order replacement parts.,Written Expression,1,0
+11773,Security and Fire Alarm Systems Installers,Order replacement parts.,Information Ordering,1,0
+11773,Security and Fire Alarm Systems Installers,Order replacement parts.,Number Facility,1,0
+11772,Security and Fire Alarm Systems Installers,"Prepare documents, such as invoices or warranties.",Written Expression,2,0
+11772,Security and Fire Alarm Systems Installers,"Prepare documents, such as invoices or warranties.",Information Ordering,2,0
+11772,Security and Fire Alarm Systems Installers,"Prepare documents, such as invoices or warranties.",Number Facility,1,0
+11771,Security and Fire Alarm Systems Installers,Provide customers with cost estimates for equipment installation.,Number Facility,2,0
+11771,Security and Fire Alarm Systems Installers,Provide customers with cost estimates for equipment installation.,Oral Expression,2,0
+11771,Security and Fire Alarm Systems Installers,Provide customers with cost estimates for equipment installation.,Mathematical Reasoning,1,0
+9947,Aircraft Mechanics and Service Technicians,Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.,Near Vision,3,0
+9947,Aircraft Mechanics and Service Technicians,Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.,Problem Sensitivity,2,0
+9947,Aircraft Mechanics and Service Technicians,Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.,Deductive Reasoning,1,0
+9946,Aircraft Mechanics and Service Technicians,"Read and interpret maintenance manuals, service bulletins, and other specifications to determine the feasibility and method of repairing or replacing malfunctioning or damaged components.",Written Comprehension,3,0
+9946,Aircraft Mechanics and Service Technicians,"Read and interpret maintenance manuals, service bulletins, and other specifications to determine the feasibility and method of repairing or replacing malfunctioning or damaged components.",Deductive Reasoning,2,0
+9946,Aircraft Mechanics and Service Technicians,"Read and interpret maintenance manuals, service bulletins, and other specifications to determine the feasibility and method of repairing or replacing malfunctioning or damaged components.",Information Ordering,1,0
+9948,Aircraft Mechanics and Service Technicians,"Maintain repair logs, documenting all preventive and corrective aircraft maintenance.",Written Expression,2,0
+9948,Aircraft Mechanics and Service Technicians,"Maintain repair logs, documenting all preventive and corrective aircraft maintenance.",Information Ordering,2,0
+9948,Aircraft Mechanics and Service Technicians,"Maintain repair logs, documenting all preventive and corrective aircraft maintenance.",Memorization,1,0
+9950,Aircraft Mechanics and Service Technicians,"Examine and inspect aircraft components, including landing gear, hydraulic systems, and deicers to locate cracks, breaks, leaks, or other problems.",Near Vision,3,0
+9950,Aircraft Mechanics and Service Technicians,"Examine and inspect aircraft components, including landing gear, hydraulic systems, and deicers to locate cracks, breaks, leaks, or other problems.",Problem Sensitivity,3,0
+9950,Aircraft Mechanics and Service Technicians,"Examine and inspect aircraft components, including landing gear, hydraulic systems, and deicers to locate cracks, breaks, leaks, or other problems.",Depth Perception,1,0
+9949,Aircraft Mechanics and Service Technicians,Conduct routine and special inspections as required by regulations.,Near Vision,2,0
+9949,Aircraft Mechanics and Service Technicians,Conduct routine and special inspections as required by regulations.,Problem Sensitivity,2,0
+9949,Aircraft Mechanics and Service Technicians,Conduct routine and special inspections as required by regulations.,Information Ordering,1,0
+9954,Aircraft Mechanics and Service Technicians,"Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment.",Manual Dexterity,3,0
+9954,Aircraft Mechanics and Service Technicians,"Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment.",Finger Dexterity,2,0
+9954,Aircraft Mechanics and Service Technicians,"Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment.",Control Precision,2,0
+9954,Aircraft Mechanics and Service Technicians,"Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment.",Arm-Hand Steadiness,2,0
+9954,Aircraft Mechanics and Service Technicians,"Replace or repair worn, defective, or damaged components, using hand tools, gauges, and testing equipment.",Static Strength,1,0
+9951,Aircraft Mechanics and Service Technicians,Inspect airframes for wear or other defects.,Near Vision,3,0
+9951,Aircraft Mechanics and Service Technicians,Inspect airframes for wear or other defects.,Problem Sensitivity,2,0
+9951,Aircraft Mechanics and Service Technicians,Inspect airframes for wear or other defects.,Depth Perception,1,0
+9977,Aircraft Mechanics and Service Technicians,"Check for corrosion, distortion, and invisible cracks in the fuselage, wings, and tail, using x-ray and magnetic inspection equipment.",Near Vision,3,0
+9977,Aircraft Mechanics and Service Technicians,"Check for corrosion, distortion, and invisible cracks in the fuselage, wings, and tail, using x-ray and magnetic inspection equipment.",Problem Sensitivity,2,0
+9977,Aircraft Mechanics and Service Technicians,"Check for corrosion, distortion, and invisible cracks in the fuselage, wings, and tail, using x-ray and magnetic inspection equipment.",Flexibility of Closure,2,0
+9977,Aircraft Mechanics and Service Technicians,"Check for corrosion, distortion, and invisible cracks in the fuselage, wings, and tail, using x-ray and magnetic inspection equipment.",Perceptual Speed,1,0
+9955,Aircraft Mechanics and Service Technicians,"Measure parts for wear, using precision instruments.",Near Vision,2,0
+9955,Aircraft Mechanics and Service Technicians,"Measure parts for wear, using precision instruments.",Control Precision,2,0
+9955,Aircraft Mechanics and Service Technicians,"Measure parts for wear, using precision instruments.",Number Facility,2,0
+9955,Aircraft Mechanics and Service Technicians,"Measure parts for wear, using precision instruments.",Finger Dexterity,1,0
+9967,Aircraft Mechanics and Service Technicians,"Remove or install aircraft engines, using hoists or forklift trucks.",Static Strength,2,0
+9967,Aircraft Mechanics and Service Technicians,"Remove or install aircraft engines, using hoists or forklift trucks.",Multilimb Coordination,2,0
+9967,Aircraft Mechanics and Service Technicians,"Remove or install aircraft engines, using hoists or forklift trucks.",Control Precision,2,0
+9967,Aircraft Mechanics and Service Technicians,"Remove or install aircraft engines, using hoists or forklift trucks.",Depth Perception,2,0
+9965,Aircraft Mechanics and Service Technicians,"Service and maintain aircraft and related apparatus by performing activities such as flushing crankcases, cleaning screens, and or moving parts.",Manual Dexterity,2,0
+9965,Aircraft Mechanics and Service Technicians,"Service and maintain aircraft and related apparatus by performing activities such as flushing crankcases, cleaning screens, and or moving parts.",Static Strength,1,0
+9965,Aircraft Mechanics and Service Technicians,"Service and maintain aircraft and related apparatus by performing activities such as flushing crankcases, cleaning screens, and or moving parts.",Stamina,1,0
+9965,Aircraft Mechanics and Service Technicians,"Service and maintain aircraft and related apparatus by performing activities such as flushing crankcases, cleaning screens, and or moving parts.",Near Vision,1,0

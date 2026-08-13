@@ -1,0 +1,782 @@
+[
+{
+"task_id": "13803",
+"soc": "49-9031.00",
+"occupation": "Home Appliance Repairers",
+"task_text": "Assemble new or reconditioned appliances."
+},
+{
+"task_id": "11815",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Repair or maintain the operating condition of industrial production or processing machinery or equipment."
+},
+{
+"task_id": "11814",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Repair or replace broken or malfunctioning components of machinery or equipment."
+},
+{
+"task_id": "11820",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Clean, lubricate, or adjust parts, equipment, or machinery."
+},
+{
+"task_id": "11813",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Disassemble machinery or equipment to remove parts and make repairs."
+},
+{
+"task_id": "11817",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Reassemble equipment after completion of inspections, testing, or repairs."
+},
+{
+"task_id": "11816",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Examine parts for defects, such as breakage or excessive wear."
+},
+{
+"task_id": "11822",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Record repairs and maintenance performed."
+},
+{
+"task_id": "11819",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Operate newly repaired machinery or equipment to verify the adequacy of repairs."
+},
+{
+"task_id": "11824",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Record parts or materials used and order or requisition new parts or materials, as necessary."
+},
+{
+"task_id": "11818",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices."
+},
+{
+"task_id": "11821",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Analyze test results, machine error messages, or information obtained from operators to diagnose equipment problems."
+},
+{
+"task_id": "11823",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Study blueprints or manufacturers' manuals to determine correct installation or operation of machinery."
+},
+{
+"task_id": "11825",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Cut and weld metal to repair broken metal parts, fabricate new parts, or assemble new equipment."
+},
+{
+"task_id": "11827",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Enter codes and instructions to program computer-controlled machinery."
+},
+{
+"task_id": "11826",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Demonstrate equipment functions and features to machine operators."
+},
+{
+"task_id": "23935",
+"soc": "49-9041.00",
+"occupation": "Industrial Machinery Mechanics",
+"task_text": "Assign schedules to work crews."
+},
+{
+"task_id": "11833",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists."
+},
+{
+"task_id": "11828",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Reassemble machines after the completion of repair or maintenance work."
+},
+{
+"task_id": "11834",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Record production, repair, and machine maintenance information."
+},
+{
+"task_id": "11831",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures."
+},
+{
+"task_id": "11832",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Install, replace, or change machine parts and attachments, according to production specifications."
+},
+{
+"task_id": "11836",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Set up and operate machines, and adjust controls to regulate operations."
+},
+{
+"task_id": "11837",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Collaborate with other workers to repair or move machines, machine parts, or equipment."
+},
+{
+"task_id": "11835",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Read work orders and specifications to determine machines and equipment requiring repair or maintenance."
+},
+{
+"task_id": "11830",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs."
+},
+{
+"task_id": "11829",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Start machines and observe mechanical operation to determine efficiency and to detect problems."
+},
+{
+"task_id": "11839",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies."
+},
+{
+"task_id": "11840",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Collect and discard worn machine parts and other refuse to maintain machinery and work areas."
+},
+{
+"task_id": "11838",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished."
+},
+{
+"task_id": "11843",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment."
+},
+{
+"task_id": "11845",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes."
+},
+{
+"task_id": "11841",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment."
+},
+{
+"task_id": "11842",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers."
+},
+{
+"task_id": "11844",
+"soc": "49-9043.00",
+"occupation": "Maintenance Workers, Machinery",
+"task_text": "Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment."
+},
+{
+"task_id": "3041",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Replace defective parts of machine, or adjust clearances and alignment of moving parts."
+},
+{
+"task_id": "21083",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Align machines or equipment, using hoists, jacks, hand tools, squares, rules, micrometers, lasers, or plumb bobs."
+},
+{
+"task_id": "3048",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Insert shims, adjust tension on nuts and bolts, or position parts, using hand tools and measuring instruments, to set specified clearances between moving and stationary parts."
+},
+{
+"task_id": "3047",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Signal crane operator to lower basic assembly units to bedplate, and align unit to centerline."
+},
+{
+"task_id": "18785",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Conduct preventative maintenance and repair, and lubricate machines and equipment."
+},
+{
+"task_id": "3045",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Assemble and install equipment, using hand tools and power tools."
+},
+{
+"task_id": "3051",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Assemble machines, and bolt, weld, rivet, or otherwise fasten them to foundation or other structures, using hand tools and power tools."
+},
+{
+"task_id": "3049",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Move machinery and equipment, using hoists, dollies, rollers, and trucks."
+},
+{
+"task_id": "3054",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Level bedplate and establish centerline, using straightedge, levels, and transit."
+},
+{
+"task_id": "3055",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Dismantle machines, using hammers, wrenches, crowbars, and other hand tools."
+},
+{
+"task_id": "3053",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Bolt parts, such as side and deck plates, jaw plates, and journals, to basic assembly unit."
+},
+{
+"task_id": "3052",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Lay out mounting holes, using measuring instruments, and drill holes with power drill."
+},
+{
+"task_id": "3050",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Attach moving parts and subassemblies to basic assembly unit, using hand tools and power tools."
+},
+{
+"task_id": "18786",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Weld, repair, and fabricate equipment or machinery."
+},
+{
+"task_id": "3056",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Shrink-fit bushings, sleeves, rings, liners, gears, and wheels to specified items, using portable gas heating equipment."
+},
+{
+"task_id": "18788",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems."
+},
+{
+"task_id": "3057",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Dismantle machinery and equipment for shipment to installation site, performing installation and maintenance work as part of team."
+},
+{
+"task_id": "3043",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Connect power unit to machines or steam piping to equipment, and test unit to evaluate its mechanical operation."
+},
+{
+"task_id": "3046",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Position steel beams to support bedplates of machines and equipment, using blueprints and schematic drawings to determine work procedures."
+},
+{
+"task_id": "18787",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Fabricate and dismantle parts, equipment, and machines, using a cutting torch or other cutting equipment."
+},
+{
+"task_id": "3058",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Construct foundation for machines, using hand tools and building materials such as wood, cement, and steel."
+},
+{
+"task_id": "3060",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Operate engine lathe to grind, file, and turn machine parts to dimensional specifications."
+},
+{
+"task_id": "3059",
+"soc": "49-9044.00",
+"occupation": "Millwrights",
+"task_text": "Install robot and modify its program, using teach pendant."
+},
+{
+"task_id": "13819",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Reline or repair ladles and pouring spouts with refractory clay, using trowels."
+},
+{
+"task_id": "13820",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels."
+},
+{
+"task_id": "13821",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines."
+},
+{
+"task_id": "13822",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws."
+},
+{
+"task_id": "13824",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches."
+},
+{
+"task_id": "13825",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Remove worn or damaged plastic block refractory linings of furnaces, using hand tools."
+},
+{
+"task_id": "13827",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment."
+},
+{
+"task_id": "13829",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets."
+},
+{
+"task_id": "13830",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Dump and tamp clay in molds, using tamping tools."
+},
+{
+"task_id": "13832",
+"soc": "49-9045.00",
+"occupation": "Refractory Materials Repairers, Except Brickmasons",
+"task_text": "Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts."
+},
+{
+"task_id": "8412",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Adhere to safety practices and procedures, such as checking equipment regularly and erecting barriers around work areas."
+},
+{
+"task_id": "8418",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Drive vehicles equipped with tools and materials to job sites."
+},
+{
+"task_id": "8413",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs."
+},
+{
+"task_id": "8414",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Climb poles or use truck-mounted buckets to access equipment."
+},
+{
+"task_id": "8416",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Install, maintain, and repair electrical distribution and transmission systems, including conduits, cables, wires, and related equipment, such as transformers, circuit breakers, and switches."
+},
+{
+"task_id": "8420",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Inspect and test power lines and auxiliary equipment to locate and identify problems, using reading and testing instruments."
+},
+{
+"task_id": "8419",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Coordinate work assignment preparation and completion with other workers."
+},
+{
+"task_id": "8423",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Replace or straighten damaged poles."
+},
+{
+"task_id": "8421",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "String wire conductors and cables between poles, towers, trenches, pylons, and buildings, setting lines in place and using winches to adjust tension."
+},
+{
+"task_id": "8425",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Attach cross-arms, insulators, and auxiliary equipment to poles prior to installing them."
+},
+{
+"task_id": "8427",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Dig holes, using augers, and set poles, using cranes and power equipment."
+},
+{
+"task_id": "8426",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Travel in trucks, helicopters, and airplanes to inspect lines for freedom from obstruction and adequacy of insulation."
+},
+{
+"task_id": "8417",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Identify defective sectionalizing devices, circuit breakers, fuses, voltage regulators, transformers, switches, relays, or wiring, using wiring diagrams and electrical-testing instruments."
+},
+{
+"task_id": "8424",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Install watt-hour meters and connect service drops between power lines and consumers' facilities."
+},
+{
+"task_id": "8422",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Test conductors, according to electrical diagrams and specifications, to identify corresponding conductors and to prevent incorrect connections."
+},
+{
+"task_id": "8415",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Place insulating or fireproofing materials over conductors and joints."
+},
+{
+"task_id": "8429",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Splice or solder cables together or to overhead transmission lines, customer service lines, or street light lines, using hand tools, epoxies, or specialized equipment."
+},
+{
+"task_id": "8428",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Trim trees that could be hazardous to the functioning of cables or wires."
+},
+{
+"task_id": "8432",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Pull up cable by hand from large reels mounted on trucks."
+},
+{
+"task_id": "8433",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Lay underground cable directly in trenches, or string it through conduit running through the trenches."
+},
+{
+"task_id": "8434",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Cut trenches for laying underground cables, using trenchers and cable plows."
+},
+{
+"task_id": "8430",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Cut and peel lead sheathing and insulation from defective or newly installed cables and conduits prior to splicing."
+},
+{
+"task_id": "8431",
+"soc": "49-9051.00",
+"occupation": "Electrical Power-Line Installers and Repairers",
+"task_text": "Clean, tin, and splice corresponding conductors by twisting ends together or by joining ends with metal clamps and soldering connections."
+},
+{
+"task_id": "11850",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Set up service for customers, installing, connecting, testing, or adjusting equipment."
+},
+{
+"task_id": "11846",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories."
+},
+{
+"task_id": "11849",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Measure signal strength at utility poles, using electronic test equipment."
+},
+{
+"task_id": "11847",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions."
+},
+{
+"task_id": "11848",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Splice cables, using hand tools, epoxy, or mechanical equipment."
+},
+{
+"task_id": "11852",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces."
+},
+{
+"task_id": "11857",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Clean or maintain tools or test equipment."
+},
+{
+"task_id": "11853",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension."
+},
+{
+"task_id": "20806",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Pull up cable by hand from large reels mounted on trucks."
+},
+{
+"task_id": "11855",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Lay underground cable directly in trenches, or string it through conduits running through trenches."
+},
+{
+"task_id": "20807",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Pull cable through ducts by hand or with winches."
+},
+{
+"task_id": "11861",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Dig trenches for underground wires or cables."
+},
+{
+"task_id": "11858",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Explain cable service to subscribers after installation, and collect any installation fees due."
+},
+{
+"task_id": "11851",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Place insulation over conductors, or seal splices with moisture-proof covering."
+},
+{
+"task_id": "11859",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels."
+},
+{
+"task_id": "11854",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions."
+},
+{
+"task_id": "11860",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows."
+},
+{
+"task_id": "11863",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Fill and tamp holes, using cement, earth, and tamping devices."
+},
+{
+"task_id": "11862",
+"soc": "49-9052.00",
+"occupation": "Telecommunications Line Installers and Repairers",
+"task_text": "Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches."
+},
+{
+"task_id": "8437",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools."
+},
+{
+"task_id": "8436",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Disassemble equipment to gain access to defect, using hand tools."
+},
+{
+"task_id": "8440",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Test equipment performance, focus of lens system, diaphragm alignment, lens mounts, or film transport, using precision gauges."
+},
+{
+"task_id": "8438",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Clean and lubricate cameras and polish camera lenses, using cleaning materials and work aids."
+},
+{
+"task_id": "8442",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Requisition parts or materials."
+},
+{
+"task_id": "8435",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Calibrate and verify accuracy of light meters, shutter diaphragm operation, or lens carriers, using timing instruments."
+},
+{
+"task_id": "8441",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Examine cameras, equipment, processed film, or laboratory reports to diagnose malfunction, using work aids and specifications."
+},
+{
+"task_id": "8443",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Read and interpret engineering drawings, diagrams, instructions, or specifications to determine needed repairs, fabrication method, and operation sequence."
+},
+{
+"task_id": "8439",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Measure parts to verify specified dimensions or settings, such as camera shutter speed or light meter reading accuracy, using measuring instruments."
+},
+{
+"task_id": "8444",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Fabricate or modify defective electronic, electrical, or mechanical components, using bench lathe, milling machine, shaper, grinder, or precision hand tools, according to specifications."
+},
+{
+"task_id": "20808",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Install electrical assemblies and wiring in aircraft camera housings and memory cards or film in cameras, following blueprints and using hand tools and soldering equipment."
+},
+{
+"task_id": "8445",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Assemble aircraft cameras, still or motion picture cameras, photographic equipment, or frames, using diagrams, blueprints, bench machines, hand tools, or power tools."
+},
+{
+"task_id": "8447",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Record test data and document fabrication techniques on reports."
+},
+{
+"task_id": "8448",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Lay out reference points and dimensions on parts or metal stock to be machined, using precision measuring instruments."
+},
+{
+"task_id": "8449",
+"soc": "49-9061.00",
+"occupation": "Camera and Photographic Equipment Repairers",
+"task_text": "Recommend design changes or upgrades of microfilming, film-developing, or photographic equipment."
+},
+{
+"task_id": "3066",
+"soc": "49-9062.00",
+"occupation": "Medical Equipment Repairers",
+"task_text": "Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices."
+},
+{
+"task_id": "3065",
+"soc": "49-9062.00",
+"occupation": "Medical Equipment Repairers",
+"task_text": "Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment."
+},
+{
+"task_id": "23980",
+"soc": "49-9062.00",
+"occupation": "Medical Equipment Repairers",
+"task_text": "Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments."
+},
+{
+"task_id": "3064",
+"soc": "49-9062.00",
+"occupation": "Medical Equipment Repairers",
+"task_text": "Keep records of maintenance, repair, and required updates of equipment."
+},
+{
+"task_id": "3063",
+"soc": "49-9062.00",
+"occupation": "Medical Equipment Repairers",
+"task_text": "Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers."
+}
+]

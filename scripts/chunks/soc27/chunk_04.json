@@ -1,0 +1,782 @@
+[
+{
+"task_id": "22645",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Present live or recorded commentary via broadcast media."
+},
+{
+"task_id": "22646",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Take pictures or video, and process them for inclusion in a story."
+},
+{
+"task_id": "22647",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Conduct taped or filmed interviews or narratives."
+},
+{
+"task_id": "22648",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Develop ideas or material for columns or commentaries by analyzing and interpreting news, current issues, or personal experiences."
+},
+{
+"task_id": "22649",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Communicate with readers, viewers, advertisers, or the general public via mail, email, or telephone."
+},
+{
+"task_id": "22650",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Write online blog entries that address news developments or offer additional information, opinions, or commentary on news events."
+},
+{
+"task_id": "22651",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Assign stories to other reporters or duties to production staff."
+},
+{
+"task_id": "22652",
+"soc": "27-3023.00",
+"occupation": "News Analysts, Reporters, and Journalists",
+"task_text": "Write columns, editorials, commentaries, or reviews that interpret events or offer opinions."
+},
+{
+"task_id": "1764",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Respond to requests for information from the media or designate an appropriate spokesperson or information source."
+},
+{
+"task_id": "20555",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility."
+},
+{
+"task_id": "23951",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Post and update content on the company's Web site and social media outlets."
+},
+{
+"task_id": "20554",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Write press releases or other media communications to promote clients."
+},
+{
+"task_id": "1765",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Establish or maintain cooperative relationships with representatives of community, consumer, employee, or public interest groups."
+},
+{
+"task_id": "1770",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Confer with other managers to identify trends or key group interests or concerns or to provide advice on business decisions."
+},
+{
+"task_id": "1772",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Coach client representatives in effective communication with the public or with employees."
+},
+{
+"task_id": "1769",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services."
+},
+{
+"task_id": "20557",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences."
+},
+{
+"task_id": "1768",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Arrange public appearances, lectures, contests, or exhibits for clients to increase product or service awareness or to promote goodwill."
+},
+{
+"task_id": "1775",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Plan or conduct market or public opinion research to test products or determine potential for product success, communicating results to client or management."
+},
+{
+"task_id": "19811",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Develop plans or materials to communicate organizational activities that are beneficial to the environment, public safety, or other important social issues."
+},
+{
+"task_id": "1767",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Confer with production or support personnel to produce or coordinate production of advertisements or promotions."
+},
+{
+"task_id": "1771",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Consult with advertising agencies or staff to arrange promotional campaigns in all types of media for products, organizations, or individuals."
+},
+{
+"task_id": "1773",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Prepare or deliver speeches to further public relations objectives."
+},
+{
+"task_id": "19809",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Coordinate public responses to environmental management incidents or conflicts."
+},
+{
+"task_id": "19810",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Develop marketing campaigns for environmental technologies or services."
+},
+{
+"task_id": "1774",
+"soc": "27-3031.00",
+"occupation": "Public Relations Specialists",
+"task_text": "Purchase advertising space or time as required to promote client's product or agenda."
+},
+{
+"task_id": "1777",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Read copy or proof to detect and correct errors in spelling, punctuation, and syntax."
+},
+{
+"task_id": "1780",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Verify facts, dates, and statistics, using standard reference sources."
+},
+{
+"task_id": "1786",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Read, evaluate and edit manuscripts or other materials submitted for publication, and confer with authors regarding changes in content, style or organization, or publication."
+},
+{
+"task_id": "1782",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Develop story or content ideas, considering reader or audience appeal."
+},
+{
+"task_id": "1776",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Prepare, rewrite and edit copy to improve readability, or supervise others who do this work."
+},
+{
+"task_id": "1783",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Oversee publication production, including artwork, layout, computer typesetting, and printing, ensuring adherence to deadlines and budget requirements."
+},
+{
+"task_id": "21000",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Write text, such as stories, articles, editorials, or newsletters."
+},
+{
+"task_id": "1789",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Supervise and coordinate work of reporters and other editors."
+},
+{
+"task_id": "1784",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Confer with management and editorial staff members regarding placement and emphasis of developing news stories."
+},
+{
+"task_id": "1779",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Plan the contents of publications according to the publication's style, editorial policy, and publishing requirements."
+},
+{
+"task_id": "1781",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Review and approve proofs submitted by composing room prior to publication production."
+},
+{
+"task_id": "1785",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Assign topics, events and stories to individual writers or reporters for coverage."
+},
+{
+"task_id": "1788",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Meet frequently with artists, typesetters, layout personnel, marketing directors, and production managers to discuss projects and resolve problems."
+},
+{
+"task_id": "1787",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Monitor news-gathering operations to ensure utilization of all news sources, such as press releases, telephone contacts, radio, television, wire services, and other reporters."
+},
+{
+"task_id": "1791",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Select local, state, national, and international news items received from wire services, based on assessment of items' significance and interest value."
+},
+{
+"task_id": "1778",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Allocate print space for story text, photos, and illustrations according to space parameters and copy significance, using knowledge of layout principles."
+},
+{
+"task_id": "1790",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Make manuscript acceptance or revision recommendations to the publisher."
+},
+{
+"task_id": "1793",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Direct the policies and departments of newspapers, magazines and other publishing establishments."
+},
+{
+"task_id": "1794",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Arrange for copyright permissions."
+},
+{
+"task_id": "1792",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Interview and hire writers and reporters or negotiate contracts, royalties, and payments for authors or freelancers."
+},
+{
+"task_id": "1795",
+"soc": "27-3041.00",
+"occupation": "Editors",
+"task_text": "Read material to determine index items and arrange them alphabetically or topically, indicating page or chapter location."
+},
+{
+"task_id": "3966",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology."
+},
+{
+"task_id": "3967",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Maintain records and files of work and revisions."
+},
+{
+"task_id": "3968",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Edit, standardize, or make changes to material prepared by other writers or establishment personnel."
+},
+{
+"task_id": "3971",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Select photographs, drawings, sketches, diagrams, and charts to illustrate material."
+},
+{
+"task_id": "3973",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Interview production and engineering personnel and read journals and other material to become familiar with product technologies and production methods."
+},
+{
+"task_id": "20243",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Develop or maintain online help documentation."
+},
+{
+"task_id": "3976",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Assist in laying out material for publication."
+},
+{
+"task_id": "3972",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Study drawings, specifications, mockups, and product samples to integrate and delineate technology, operating procedure, and production sequence and detail."
+},
+{
+"task_id": "3975",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Arrange for typing, duplication, and distribution of material."
+},
+{
+"task_id": "3974",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Observe production, developmental, and experimental activities to determine operating procedure and detail."
+},
+{
+"task_id": "3978",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Review manufacturer's and trade catalogs, drawings and other data relative to operation, maintenance, and service of equipment."
+},
+{
+"task_id": "3977",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Analyze developments in specific field to determine need for revisions in previously published materials and development of new material."
+},
+{
+"task_id": "3979",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Draw sketches to illustrate specified materials or assembly sequence."
+},
+{
+"task_id": "3970",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding."
+},
+{
+"task_id": "3969",
+"soc": "27-3042.00",
+"occupation": "Technical Writers",
+"task_text": "Confer with customer representatives, vendors, plant executives, or publisher to establish technical specifications and to determine subject material to be developed for publication."
+},
+{
+"task_id": "22656",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information."
+},
+{
+"task_id": "22655",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Vary language and tone of messages based on product and medium."
+},
+{
+"task_id": "22654",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Present drafts and ideas to clients."
+},
+{
+"task_id": "22653",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy."
+},
+{
+"task_id": "22660",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products."
+},
+{
+"task_id": "22657",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material."
+},
+{
+"task_id": "22658",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Conduct research and interviews to determine which of a product's selling features should be promoted."
+},
+{
+"task_id": "22659",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material."
+},
+{
+"task_id": "22661",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Collaborate with other writers on specific projects."
+},
+{
+"task_id": "22662",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews."
+},
+{
+"task_id": "22663",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Consult with sales, media and marketing representatives to obtain information on product or service and discuss style and length of advertising written material."
+},
+{
+"task_id": "22664",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher."
+},
+{
+"task_id": "22665",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Follow appropriate procedures to get copyrights for completed work."
+},
+{
+"task_id": "22666",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Plan project arrangements or outlines, and organize material accordingly."
+},
+{
+"task_id": "22667",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Prepare works in appropriate format for publication, and send them to publishers or producers."
+},
+{
+"task_id": "22668",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers."
+},
+{
+"task_id": "22669",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Work with staff to develop script, story, or advertising concepts."
+},
+{
+"task_id": "22670",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services."
+},
+{
+"task_id": "22671",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays."
+},
+{
+"task_id": "22672",
+"soc": "27-3043.00",
+"occupation": "Writers and Authors",
+"task_text": "Write to customers in their terms and on their level so that the script, story, or advertisement message is more readily received."
+},
+{
+"task_id": "11051",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays."
+},
+{
+"task_id": "11052",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue to create material."
+},
+{
+"task_id": "11046",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers."
+},
+{
+"task_id": "11047",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Choose subject matter and suitable form to express personal feelings and experiences or ideas, or to narrate stories or events."
+},
+{
+"task_id": "11049",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Prepare works in appropriate format for publication, and send them to publishers or producers."
+},
+{
+"task_id": "11054",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews."
+},
+{
+"task_id": "11053",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Confer with clients, editors, publishers, or producers to discuss changes or revisions to written material."
+},
+{
+"task_id": "11048",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Plan project arrangements or outlines, and organize material accordingly."
+},
+{
+"task_id": "11050",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Follow appropriate procedures to get copyrights for completed work."
+},
+{
+"task_id": "11056",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Attend book launches and publicity events, or conduct public readings."
+},
+{
+"task_id": "11055",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Write narrative, dramatic, lyric, or other types of poetry for publication."
+},
+{
+"task_id": "11057",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Write words to fit musical compositions, including lyrics for operas, musical plays, and choral works."
+},
+{
+"task_id": "11058",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Adapt text to accommodate musical requirements of composers and singers."
+},
+{
+"task_id": "11060",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Write humorous material for publication, or for performances such as comedy routines, gags, and comedy shows."
+},
+{
+"task_id": "11059",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Teach writing classes."
+},
+{
+"task_id": "11061",
+"soc": "27-3043.05",
+"occupation": "Poets, Lyricists and Creative Writers",
+"task_text": "Collaborate with other writers on specific projects."
+},
+{
+"task_id": "9326",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Follow ethical codes that protect the confidentiality of information."
+},
+{
+"task_id": "9328",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible."
+},
+{
+"task_id": "9335",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Listen to speakers' statements to determine meanings and to prepare translations, using electronic listening systems as necessary."
+},
+{
+"task_id": "9333",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Compile terminology and information to be used in translations, including technical terms such as those for legal or medical material."
+},
+{
+"task_id": "9332",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Refer to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy."
+},
+{
+"task_id": "9330",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Check translations of technical terms and terminology to ensure that they are accurate and remain consistent throughout translation revisions."
+},
+{
+"task_id": "9327",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors."
+},
+{
+"task_id": "9337",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Compile information on content and context of information to be translated and on intended audience."
+},
+{
+"task_id": "9334",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary."
+},
+{
+"task_id": "9336",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Check original texts or confer with authors to ensure that translations retain the content, meaning, and feeling of the original material."
+},
+{
+"task_id": "9339",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Adapt software and accompanying technical documents to another language and culture."
+},
+{
+"task_id": "9340",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Educate students, parents, staff, and teachers about the roles and functions of educational interpreters."
+},
+{
+"task_id": "9329",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Proofread, edit, and revise translated materials."
+},
+{
+"task_id": "9341",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Train and supervise other translators or interpreters."
+},
+{
+"task_id": "9331",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages."
+},
+{
+"task_id": "9342",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Travel with or guide tourists who speak another language."
+},
+{
+"task_id": "9338",
+"soc": "27-3091.00",
+"occupation": "Interpreters and Translators",
+"task_text": "Discuss translation requirements with clients and determine any fees to be charged for services provided."
+},
+{
+"task_id": "8655",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equipment, electronic stenograph machines, or stenomasks."
+},
+{
+"task_id": "21183",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Proofread transcripts for correct spelling of words."
+},
+{
+"task_id": "8657",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Ask speakers to clarify inaudible statements."
+},
+{
+"task_id": "8654",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Provide transcripts of proceedings upon request of judges, lawyers, or the public."
+},
+{
+"task_id": "8656",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Transcribe recorded proceedings in accordance with established formats."
+},
+{
+"task_id": "21184",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Log and store exhibits from court proceedings."
+},
+{
+"task_id": "8659",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "File and store shorthand notes of court session."
+},
+{
+"task_id": "8658",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "File a legible transcript of records of a court case with the court clerk's office."
+},
+{
+"task_id": "8662",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Verify accuracy of transcripts by checking copies against original records of proceedings and accuracy of rulings by checking with judges."
+},
+{
+"task_id": "8660",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Respond to requests during court sessions to read portions of the proceedings already recorded."
+},
+{
+"task_id": "8663",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Record symbols on computer storage media and use computer aided transcription to translate and display them as text."
+},
+{
+"task_id": "8653",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Take notes in shorthand or use a stenotype or shorthand machine that prints letters on a paper tape."
+},
+{
+"task_id": "21185",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Type court orders for judges."
+},
+{
+"task_id": "8661",
+"soc": "27-3092.00",
+"occupation": "Court Reporters and Simultaneous Captioners",
+"task_text": "Record depositions and other proceedings for attorneys."
+},
+{
+"task_id": "3980",
+"soc": "27-4011.00",
+"occupation": "Audio and Video Technicians",
+"task_text": "Notify supervisors when major equipment repairs are needed."
+}
+]

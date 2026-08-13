@@ -1,0 +1,516 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Manual Dexterity,3,0
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Finger Dexterity,2,0
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Near Vision,2,0
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Problem Sensitivity,2,0
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Control Precision,2,0
+17856,Biomass Plant Technicians,"Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.",Arm-Hand Steadiness,1,0
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",Near Vision,2,0
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",Selective Attention,2,0
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",Perceptual Speed,2,0
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",Number Facility,2,0
+17854,Biomass Plant Technicians,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",Visual Color Discrimination,1,0
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",Control Precision,3,0
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",Near Vision,2,0
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",Number Facility,2,0
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",Finger Dexterity,2,0
+17859,Biomass Plant Technicians,"Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.",Arm-Hand Steadiness,2,0
+17857,Biomass Plant Technicians,Assess quality of biomass feedstock.,Near Vision,2,0
+17857,Biomass Plant Technicians,Assess quality of biomass feedstock.,Visual Color Discrimination,2,0
+17857,Biomass Plant Technicians,Assess quality of biomass feedstock.,Problem Sensitivity,2,0
+17857,Biomass Plant Technicians,Assess quality of biomass feedstock.,Selective Attention,1,0
+17869,Biomass Plant Technicians,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,Written Comprehension,3,0
+17869,Biomass Plant Technicians,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,Visualization,2,0
+17869,Biomass Plant Technicians,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,Near Vision,2,0
+17869,Biomass Plant Technicians,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,Information Ordering,1,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Multilimb Coordination,3,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Control Precision,3,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Depth Perception,2,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Rate Control,2,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Reaction Time,2,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Near Vision,1,0
+21209,Biomass Plant Technicians,"Operate heavy equipment, such as bulldozers and front-end loaders.",Far Vision,1,0
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,Multilimb Coordination,2,1
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,Control Precision,2,1
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,Manual Dexterity,2,0
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,Static Strength,1,0
+17865,Biomass Plant Technicians,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,Near Vision,1,0
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,Number Facility,2,0
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,Information Ordering,2,0
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,Memorization,1,0
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,Near Vision,1,0
+17868,Biomass Plant Technicians,Manage parts and supply inventories for biomass plants.,Written Comprehension,1,0
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",Selective Attention,3,0
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",Near Vision,2,0
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",Perceptual Speed,2,0
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",Control Precision,2,0
+17912,Hydroelectric Plant Technicians,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",Problem Sensitivity,1,0
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",Problem Sensitivity,3,0
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",Deductive Reasoning,2,0
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",Near Vision,1,0
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",Manual Dexterity,1,0
+17911,Hydroelectric Plant Technicians,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",Selective Attention,2,0
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",Control Precision,3,0
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",Multilimb Coordination,2,0
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",Reaction Time,2,0
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",Near Vision,1,0
+17913,Hydroelectric Plant Technicians,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",Arm-Hand Steadiness,1,0
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,Manual Dexterity,2,0
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,Static Strength,2,0
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,Stamina,2,0
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,Near Vision,1,0
+17929,Hydroelectric Plant Technicians,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,Problem Sensitivity,1,0
+17916,Hydroelectric Plant Technicians,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,Near Vision,3,0
+17916,Hydroelectric Plant Technicians,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,Problem Sensitivity,2,0
+17916,Hydroelectric Plant Technicians,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,Selective Attention,2,0
+17916,Hydroelectric Plant Technicians,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,Auditory Attention,1,0
+17914,Hydroelectric Plant Technicians,Communicate status of hydroelectric operating equipment to dispatchers or supervisors.,Oral Expression,3,0
+17914,Hydroelectric Plant Technicians,Communicate status of hydroelectric operating equipment to dispatchers or supervisors.,Oral Comprehension,2,0
+17914,Hydroelectric Plant Technicians,Communicate status of hydroelectric operating equipment to dispatchers or supervisors.,Speech Clarity,2,0
+17920,Hydroelectric Plant Technicians,Operate high voltage switches or related devices in hydropower stations.,Control Precision,3,0
+17920,Hydroelectric Plant Technicians,Operate high voltage switches or related devices in hydropower stations.,Arm-Hand Steadiness,2,0
+17920,Hydroelectric Plant Technicians,Operate high voltage switches or related devices in hydropower stations.,Near Vision,2,0
+17920,Hydroelectric Plant Technicians,Operate high voltage switches or related devices in hydropower stations.,Reaction Time,1,0
+17921,Hydroelectric Plant Technicians,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",Control Precision,3,0
+17921,Hydroelectric Plant Technicians,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",Multilimb Coordination,2,0
+17921,Hydroelectric Plant Technicians,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",Near Vision,2,0
+17921,Hydroelectric Plant Technicians,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",Manual Dexterity,1,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Manual Dexterity,3,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Finger Dexterity,2,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Problem Sensitivity,2,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Near Vision,2,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Static Strength,1,0
+17919,Hydroelectric Plant Technicians,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",Arm-Hand Steadiness,2,0
+17915,Hydroelectric Plant Technicians,"Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions.",Written Comprehension,2,0
+17915,Hydroelectric Plant Technicians,"Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions.",Control Precision,2,0
+17915,Hydroelectric Plant Technicians,"Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions.",Selective Attention,2,0
+17915,Hydroelectric Plant Technicians,"Implement load or switching orders in hydroelectric plants, in accordance with specifications or instructions.",Near Vision,1,0
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",Finger Dexterity,2,0
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",Manual Dexterity,2,0
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",Control Precision,3,0
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",Near Vision,2,0
+17917,Hydroelectric Plant Technicians,"Install or calibrate electrical or mechanical equipment, such as motors, engines, switchboards, relays, switch gears, meters, pumps, hydraulics, or flood channels.",Static Strength,1,0
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",Manual Dexterity,2,0
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",Static Strength,1,0
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",Arm-Hand Steadiness,1,0
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",Near Vision,1,0
+17924,Hydroelectric Plant Technicians,"Change oil, hydraulic fluid, or other lubricants to maintain condition of hydroelectric plant equipment.",Trunk Strength,1,0
+17918,Hydroelectric Plant Technicians,"Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants.",Written Expression,3,0
+17918,Hydroelectric Plant Technicians,"Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants.",Written Comprehension,2,0
+17918,Hydroelectric Plant Technicians,"Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants.",Information Ordering,2,0
+17918,Hydroelectric Plant Technicians,"Maintain logs, reports, work requests, or other records of work performed in hydroelectric plants.",Near Vision,1,0
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",Arm-Hand Steadiness,3,0
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",Manual Dexterity,3,0
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",Finger Dexterity,2,0
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",Near Vision,2,0
+17925,Hydroelectric Plant Technicians,"Connect metal parts or components in hydroelectric plants by welding, soldering, riveting, tapping, bolting, bonding, or screwing.",Control Precision,2,0
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",Control Precision,3,0
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",Multilimb Coordination,2,0
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",Depth Perception,2,0
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",Static Strength,2,0
+17928,Hydroelectric Plant Technicians,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",Near Vision,1,0
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,Near Vision,2,0
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,Far Vision,2,0
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,Problem Sensitivity,2,0
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,Gross Body Coordination,1,0
+17930,Hydroelectric Plant Technicians,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,Stamina,1,0
+17931,Hydroelectric Plant Technicians,Splice or terminate cables or electrical wiring in hydroelectric plants.,Finger Dexterity,3,0
+17931,Hydroelectric Plant Technicians,Splice or terminate cables or electrical wiring in hydroelectric plants.,Arm-Hand Steadiness,2,0
+17931,Hydroelectric Plant Technicians,Splice or terminate cables or electrical wiring in hydroelectric plants.,Manual Dexterity,2,0
+17931,Hydroelectric Plant Technicians,Splice or terminate cables or electrical wiring in hydroelectric plants.,Near Vision,2,0
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",Manual Dexterity,2,0
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",Finger Dexterity,2,0
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",Near Vision,2,0
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",Problem Sensitivity,2,0
+17923,Hydroelectric Plant Technicians,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",Arm-Hand Steadiness,1,0
+17922,Hydroelectric Plant Technicians,"Take readings and record data, such as water levels, temperatures, or flow rates.",Near Vision,3,0
+17922,Hydroelectric Plant Technicians,"Take readings and record data, such as water levels, temperatures, or flow rates.",Perceptual Speed,2,0
+17922,Hydroelectric Plant Technicians,"Take readings and record data, such as water levels, temperatures, or flow rates.",Number Facility,1,0
+17922,Hydroelectric Plant Technicians,"Take readings and record data, such as water levels, temperatures, or flow rates.",Written Expression,1,0
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",Static Strength,3,0
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",Trunk Strength,2,0
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",Gross Body Coordination,2,0
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",Gross Body Equilibrium,2,0
+17927,Hydroelectric Plant Technicians,"Erect scaffolds, platforms, or hoisting frames to access hydroelectric plant machinery or infrastructure for repair or replacement.",Multilimb Coordination,2,0
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",Manual Dexterity,2,0
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",Static Strength,2,0
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",Control Precision,2,0
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",Arm-Hand Steadiness,2,0
+17926,Hydroelectric Plant Technicians,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",Near Vision,1,0
+10468,Stationary Engineers and Boiler Operators,"Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools.",Control Precision,2,0
+10468,Stationary Engineers and Boiler Operators,"Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools.",Near Vision,2,0
+10468,Stationary Engineers and Boiler Operators,"Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools.",Selective Attention,2,0
+10468,Stationary Engineers and Boiler Operators,"Operate or tend stationary engines, boilers, and auxiliary equipment, such as pumps, compressors, or air-conditioning equipment, to supply and maintain steam or heat for buildings, marine vessels, or pneumatic tools.",Multilimb Coordination,1,0
+10471,Stationary Engineers and Boiler Operators,"Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners.",Control Precision,3,0
+10471,Stationary Engineers and Boiler Operators,"Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners.",Arm-Hand Steadiness,2,0
+10471,Stationary Engineers and Boiler Operators,"Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners.",Near Vision,1,0
+10471,Stationary Engineers and Boiler Operators,"Activate valves to maintain required amounts of water in boilers, to adjust supplies of combustion air, and to control the flow of fuel into burners.",Rate Control,1,0
+10472,Stationary Engineers and Boiler Operators,"Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels.",Selective Attention,2,0
+10472,Stationary Engineers and Boiler Operators,"Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels.",Near Vision,2,0
+10472,Stationary Engineers and Boiler Operators,"Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels.",Control Precision,2,0
+10472,Stationary Engineers and Boiler Operators,"Monitor boiler water, chemical, and fuel levels, and make adjustments to maintain required levels.",Number Facility,1,0
+10475,Stationary Engineers and Boiler Operators,Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems.,Problem Sensitivity,3,0
+10475,Stationary Engineers and Boiler Operators,Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems.,Deductive Reasoning,3,0
+10475,Stationary Engineers and Boiler Operators,Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems.,Inductive Reasoning,2,0
+10475,Stationary Engineers and Boiler Operators,Analyze problems and take appropriate action to ensure continuous and reliable operation of equipment and systems.,Selective Attention,1,0
+10469,Stationary Engineers and Boiler Operators,"Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly.",Near Vision,3,0
+10469,Stationary Engineers and Boiler Operators,"Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly.",Perceptual Speed,2,0
+10469,Stationary Engineers and Boiler Operators,"Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly.",Selective Attention,2,0
+10469,Stationary Engineers and Boiler Operators,"Observe and interpret readings on gauges, meters, and charts registering various aspects of boiler operation to ensure that boilers are operating properly.",Number Facility,1,0
+10476,Stationary Engineers and Boiler Operators,"Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work.",Written Expression,3,0
+10476,Stationary Engineers and Boiler Operators,"Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work.",Information Ordering,2,0
+10476,Stationary Engineers and Boiler Operators,"Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work.",Near Vision,1,0
+10476,Stationary Engineers and Boiler Operators,"Maintain daily logs of operation, maintenance, and safety activities, including test results, instrument readings, and details of equipment malfunctions and maintenance work.",Written Comprehension,1,0
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",Near Vision,2,0
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",Visual Color Discrimination,2,0
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",Problem Sensitivity,2,0
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",Number Facility,1,0
+10470,Stationary Engineers and Boiler Operators,"Test boiler water quality or arrange for testing and take necessary corrective action, such as adding chemicals to prevent corrosion and harmful deposits.",Deductive Reasoning,1,0
+10474,Stationary Engineers and Boiler Operators,"Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely.",Selective Attention,3,0
+10474,Stationary Engineers and Boiler Operators,"Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely.",Near Vision,3,0
+10474,Stationary Engineers and Boiler Operators,"Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely.",Problem Sensitivity,2,0
+10474,Stationary Engineers and Boiler Operators,"Monitor and inspect equipment, computer terminals, switches, valves, gauges, alarms, safety devices, and meters to detect leaks or malfunctions and to ensure that equipment is operating efficiently and safely.",Perceptual Speed,2,0
+10478,Stationary Engineers and Boiler Operators,Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work.,Control Precision,3,0
+10478,Stationary Engineers and Boiler Operators,Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work.,Reaction Time,2,0
+10478,Stationary Engineers and Boiler Operators,Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work.,Manual Dexterity,1,0
+10478,Stationary Engineers and Boiler Operators,Switch from automatic to manual controls and isolate equipment mechanically and electrically to allow for safe inspection and repair work.,Near Vision,1,0
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",Manual Dexterity,3,0
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",Finger Dexterity,2,0
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",Static Strength,2,0
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",Near Vision,2,0
+10481,Stationary Engineers and Boiler Operators,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",Problem Sensitivity,1,0
+10477,Stationary Engineers and Boiler Operators,"Adjust controls and/or valves on equipment to provide power, and to regulate and set operations of system or industrial processes.",Control Precision,3,0
+10477,Stationary Engineers and Boiler Operators,"Adjust controls and/or valves on equipment to provide power, and to regulate and set operations of system or industrial processes.",Arm-Hand Steadiness,2,0
+10477,Stationary Engineers and Boiler Operators,"Adjust controls and/or valves on equipment to provide power, and to regulate and set operations of system or industrial processes.",Near Vision,1,0
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",Manual Dexterity,2,0
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",Static Strength,2,0
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",Arm-Hand Steadiness,1,0
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",Trunk Strength,1,0
+10479,Stationary Engineers and Boiler Operators,"Clean and lubricate boilers and auxiliary equipment and make minor adjustments as needed, using hand tools.",Near Vision,1,0
+10483,Stationary Engineers and Boiler Operators,"Develop operation, safety, and maintenance procedures or assist in their development.",Written Expression,3,0
+10483,Stationary Engineers and Boiler Operators,"Develop operation, safety, and maintenance procedures or assist in their development.",Deductive Reasoning,2,0
+10483,Stationary Engineers and Boiler Operators,"Develop operation, safety, and maintenance procedures or assist in their development.",Information Ordering,2,0
+10483,Stationary Engineers and Boiler Operators,"Develop operation, safety, and maintenance procedures or assist in their development.",Problem Sensitivity,1,0
+10486,Stationary Engineers and Boiler Operators,"Test electrical systems to determine voltages, using voltage meters.",Near Vision,3,0
+10486,Stationary Engineers and Boiler Operators,"Test electrical systems to determine voltages, using voltage meters.",Finger Dexterity,1,0
+10486,Stationary Engineers and Boiler Operators,"Test electrical systems to determine voltages, using voltage meters.",Number Facility,2,0
+10486,Stationary Engineers and Boiler Operators,"Test electrical systems to determine voltages, using voltage meters.",Arm-Hand Steadiness,1,0
+10485,Stationary Engineers and Boiler Operators,Contact equipment manufacturers or appropriate specialists when necessary to resolve equipment problems.,Oral Expression,3,0
+10485,Stationary Engineers and Boiler Operators,Contact equipment manufacturers or appropriate specialists when necessary to resolve equipment problems.,Oral Comprehension,2,0
+10485,Stationary Engineers and Boiler Operators,Contact equipment manufacturers or appropriate specialists when necessary to resolve equipment problems.,Problem Sensitivity,1,0
+10482,Stationary Engineers and Boiler Operators,"Weigh, measure, and record fuel used.",Number Facility,3,0
+10482,Stationary Engineers and Boiler Operators,"Weigh, measure, and record fuel used.",Near Vision,2,0
+10482,Stationary Engineers and Boiler Operators,"Weigh, measure, and record fuel used.",Perceptual Speed,1,0
+10489,Stationary Engineers and Boiler Operators,Receive instructions from steam engineers regarding steam plant and air compressor operations.,Oral Comprehension,3,0
+10489,Stationary Engineers and Boiler Operators,Receive instructions from steam engineers regarding steam plant and air compressor operations.,Memorization,1,0
+10489,Stationary Engineers and Boiler Operators,Receive instructions from steam engineers regarding steam plant and air compressor operations.,Written Comprehension,1,0
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",Manual Dexterity,3,0
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",Finger Dexterity,2,0
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",Static Strength,2,0
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",Arm-Hand Steadiness,1,0
+10484,Stationary Engineers and Boiler Operators,"Install burners and auxiliary equipment, using hand tools.",Near Vision,1,0
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,Near Vision,1,0
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,Problem Sensitivity,2,0
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,Deductive Reasoning,2,0
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,Selective Attention,1,0
+10480,Stationary Engineers and Boiler Operators,Check the air quality of ventilation systems and make adjustments to ensure compliance with mandated safety codes.,Written Comprehension,1,0
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",Manual Dexterity,2,0
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",Static Strength,2,0
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",Trunk Strength,2,0
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",Multilimb Coordination,1,0
+10487,Stationary Engineers and Boiler Operators,"Provide assistance to plumbers in repairing or replacing water, sewer, or waste lines, and in daily maintenance activities.",Near Vision,1,0
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",Static Strength,3,0
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",Dynamic Strength,2,0
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",Stamina,2,0
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",Control Precision,1,0
+10473,Stationary Engineers and Boiler Operators,"Fire coal furnaces by hand or with stokers and gas- or oil-fed boilers, using automatic gas feeds or oil pumps.",Trunk Strength,2,0
+10488,Stationary Engineers and Boiler Operators,"Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics.",Oral Expression,3,0
+10488,Stationary Engineers and Boiler Operators,"Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics.",Oral Comprehension,2,0
+10488,Stationary Engineers and Boiler Operators,"Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics.",Deductive Reasoning,1,0
+10488,Stationary Engineers and Boiler Operators,"Supervise the work of assistant stationary engineers, turbine operators, boiler tenders, or air conditioning and refrigeration operators and mechanics.",Selective Attention,1,0
+10491,Stationary Engineers and Boiler Operators,Investigate and report on accidents.,Problem Sensitivity,3,0
+10491,Stationary Engineers and Boiler Operators,Investigate and report on accidents.,Written Expression,2,0
+10491,Stationary Engineers and Boiler Operators,Investigate and report on accidents.,Deductive Reasoning,2,0
+10491,Stationary Engineers and Boiler Operators,Investigate and report on accidents.,Oral Expression,1,0
+10492,Stationary Engineers and Boiler Operators,Operate mechanical hoppers and provide assistance in their adjustment and repair.,Control Precision,2,0
+10492,Stationary Engineers and Boiler Operators,Operate mechanical hoppers and provide assistance in their adjustment and repair.,Manual Dexterity,2,0
+10492,Stationary Engineers and Boiler Operators,Operate mechanical hoppers and provide assistance in their adjustment and repair.,Static Strength,1,0
+10492,Stationary Engineers and Boiler Operators,Operate mechanical hoppers and provide assistance in their adjustment and repair.,Near Vision,1,0
+10490,Stationary Engineers and Boiler Operators,"Ignite fuel in burners, using torches or flames.",Arm-Hand Steadiness,3,0
+10490,Stationary Engineers and Boiler Operators,"Ignite fuel in burners, using torches or flames.",Control Precision,2,0
+10490,Stationary Engineers and Boiler Operators,"Ignite fuel in burners, using torches or flames.",Near Vision,2,0
+10490,Stationary Engineers and Boiler Operators,"Ignite fuel in burners, using torches or flames.",Reaction Time,1,0
+928,Water and Wastewater Treatment Plant and System Operators,"Collect and test water and sewage samples, using test equipment and color analysis standards.",Visual Color Discrimination,3,0
+928,Water and Wastewater Treatment Plant and System Operators,"Collect and test water and sewage samples, using test equipment and color analysis standards.",Near Vision,2,0
+928,Water and Wastewater Treatment Plant and System Operators,"Collect and test water and sewage samples, using test equipment and color analysis standards.",Finger Dexterity,1,0
+928,Water and Wastewater Treatment Plant and System Operators,"Collect and test water and sewage samples, using test equipment and color analysis standards.",Manual Dexterity,1,0
+926,Water and Wastewater Treatment Plant and System Operators,"Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power.",Control Precision,3,0
+926,Water and Wastewater Treatment Plant and System Operators,"Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power.",Near Vision,1,0
+926,Water and Wastewater Treatment Plant and System Operators,"Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power.",Multilimb Coordination,1,0
+926,Water and Wastewater Treatment Plant and System Operators,"Operate and adjust controls on equipment to purify and clarify water, process or dispose of sewage, and generate power.",Arm-Hand Steadiness,1,0
+929,Water and Wastewater Treatment Plant and System Operators,"Record operational data, personnel attendance, or meter and gauge readings on specified forms.",Near Vision,2,0
+929,Water and Wastewater Treatment Plant and System Operators,"Record operational data, personnel attendance, or meter and gauge readings on specified forms.",Number Facility,1,0
+929,Water and Wastewater Treatment Plant and System Operators,"Record operational data, personnel attendance, or meter and gauge readings on specified forms.",Written Expression,2,0
+929,Water and Wastewater Treatment Plant and System Operators,"Record operational data, personnel attendance, or meter and gauge readings on specified forms.",Perceptual Speed,1,0
+925,Water and Wastewater Treatment Plant and System Operators,"Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids.",Manual Dexterity,2,0
+925,Water and Wastewater Treatment Plant and System Operators,"Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids.",Number Facility,2,0
+925,Water and Wastewater Treatment Plant and System Operators,"Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids.",Near Vision,1,0
+925,Water and Wastewater Treatment Plant and System Operators,"Add chemicals, such as ammonia, chlorine, or lime, to disinfect and deodorize water and other liquids.",Control Precision,1,0
+927,Water and Wastewater Treatment Plant and System Operators,"Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions.",Near Vision,3,0
+927,Water and Wastewater Treatment Plant and System Operators,"Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions.",Selective Attention,2,0
+927,Water and Wastewater Treatment Plant and System Operators,"Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions.",Problem Sensitivity,2,0
+927,Water and Wastewater Treatment Plant and System Operators,"Inspect equipment or monitor operating conditions, meters, and gauges to determine load requirements and detect malfunctions.",Perceptual Speed,1,0
+932,Water and Wastewater Treatment Plant and System Operators,Direct and coordinate plant workers engaged in routine operations and maintenance activities.,Oral Expression,3,0
+932,Water and Wastewater Treatment Plant and System Operators,Direct and coordinate plant workers engaged in routine operations and maintenance activities.,Oral Comprehension,2,0
+932,Water and Wastewater Treatment Plant and System Operators,Direct and coordinate plant workers engaged in routine operations and maintenance activities.,Information Ordering,1,0
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",Manual Dexterity,2,0
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",Static Strength,2,0
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",Stamina,2,0
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",Trunk Strength,1,0
+18585,Water and Wastewater Treatment Plant and System Operators,"Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.",Gross Body Coordination,1,0
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",Manual Dexterity,2,0
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",Finger Dexterity,2,0
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",Static Strength,2,0
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",Arm-Hand Steadiness,1,0
+930,Water and Wastewater Treatment Plant and System Operators,"Maintain, repair, and lubricate equipment, using hand tools and power tools.",Near Vision,1,0
+10494,Chemical Plant and System Operators,"Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.",Selective Attention,3,0
+10494,Chemical Plant and System Operators,"Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.",Near Vision,2,0
+10494,Chemical Plant and System Operators,"Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.",Auditory Attention,2,0
+10494,Chemical Plant and System Operators,"Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.",Perceptual Speed,1,0
+10499,Chemical Plant and System Operators,"Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.",Reaction Time,3,0
+10499,Chemical Plant and System Operators,"Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.",Control Precision,2,0
+10499,Chemical Plant and System Operators,"Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.",Oral Comprehension,2,0
+10499,Chemical Plant and System Operators,"Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.",Problem Sensitivity,1,0
+10495,Chemical Plant and System Operators,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",Control Precision,3,0
+10495,Chemical Plant and System Operators,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",Multilimb Coordination,2,0
+10495,Chemical Plant and System Operators,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",Near Vision,1,0
+10495,Chemical Plant and System Operators,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",Rate Control,1,0
+10493,Chemical Plant and System Operators,"Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.",Control Precision,3,0
+10493,Chemical Plant and System Operators,"Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.",Rate Control,2,0
+10493,Chemical Plant and System Operators,"Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.",Arm-Hand Steadiness,1,0
+10493,Chemical Plant and System Operators,"Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.",Near Vision,1,0
+10504,Chemical Plant and System Operators,"Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.",Near Vision,2,0
+10504,Chemical Plant and System Operators,"Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.",Problem Sensitivity,2,0
+10504,Chemical Plant and System Operators,"Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.",Selective Attention,2,0
+10504,Chemical Plant and System Operators,"Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.",Far Vision,1,0
+10498,Chemical Plant and System Operators,Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.,Manual Dexterity,2,0
+10498,Chemical Plant and System Operators,Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.,Near Vision,2,0
+10498,Chemical Plant and System Operators,Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.,Visual Color Discrimination,1,0
+10498,Chemical Plant and System Operators,Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.,Problem Sensitivity,1,0
+10496,Chemical Plant and System Operators,"Record operating data, such as process conditions, test results, or instrument readings.",Near Vision,2,0
+10496,Chemical Plant and System Operators,"Record operating data, such as process conditions, test results, or instrument readings.",Written Expression,2,0
+10496,Chemical Plant and System Operators,"Record operating data, such as process conditions, test results, or instrument readings.",Number Facility,1,0
+10502,Chemical Plant and System Operators,Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.,Near Vision,2,0
+10502,Chemical Plant and System Operators,Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.,Selective Attention,2,0
+10502,Chemical Plant and System Operators,Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.,Stamina,1,0
+10502,Chemical Plant and System Operators,Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.,Far Vision,1,0
+10506,Chemical Plant and System Operators,"Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",Control Precision,2,0
+10506,Chemical Plant and System Operators,"Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",Arm-Hand Steadiness,2,0
+10506,Chemical Plant and System Operators,"Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",Manual Dexterity,1,0
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,Near Vision,2,0
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,Problem Sensitivity,2,0
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,Visual Color Discrimination,2,0
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,Written Comprehension,2,0
+10501,Chemical Plant and System Operators,Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.,Deductive Reasoning,1,0
+10497,Chemical Plant and System Operators,"Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.",Oral Expression,3,0
+10497,Chemical Plant and System Operators,"Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.",Oral Comprehension,2,0
+10497,Chemical Plant and System Operators,"Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.",Problem Sensitivity,1,0
+10500,Chemical Plant and System Operators,"Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.",Control Precision,2,0
+10500,Chemical Plant and System Operators,"Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.",Manual Dexterity,1,0
+10500,Chemical Plant and System Operators,"Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.",Multilimb Coordination,1,0
+10500,Chemical Plant and System Operators,"Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.",Near Vision,1,0
+10503,Chemical Plant and System Operators,"Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.",Oral Expression,3,0
+10503,Chemical Plant and System Operators,"Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.",Oral Comprehension,1,0
+10503,Chemical Plant and System Operators,"Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.",Problem Sensitivity,1,0
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,Manual Dexterity,3,0
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,Finger Dexterity,2,0
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,Static Strength,1,0
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,Near Vision,1,0
+10509,Chemical Plant and System Operators,Repair or replace damaged equipment.,Problem Sensitivity,1,0
+10508,Chemical Plant and System Operators,"Gauge tank levels, using calibrated rods.",Near Vision,2,0
+10508,Chemical Plant and System Operators,"Gauge tank levels, using calibrated rods.",Arm-Hand Steadiness,1,0
+10508,Chemical Plant and System Operators,"Gauge tank levels, using calibrated rods.",Number Facility,1,0
+10507,Chemical Plant and System Operators,Calculate material requirements or yields according to formulas.,Mathematical Reasoning,3,0
+10507,Chemical Plant and System Operators,Calculate material requirements or yields according to formulas.,Number Facility,3,0
+10507,Chemical Plant and System Operators,Calculate material requirements or yields according to formulas.,Deductive Reasoning,1,0
+10505,Chemical Plant and System Operators,Direct workers engaged in operating machinery that regulates the flow of materials and products.,Oral Expression,3,0
+10505,Chemical Plant and System Operators,Direct workers engaged in operating machinery that regulates the flow of materials and products.,Oral Comprehension,1,0
+10505,Chemical Plant and System Operators,Direct workers engaged in operating machinery that regulates the flow of materials and products.,Selective Attention,1,0
+10511,Chemical Plant and System Operators,"Supervise the cleaning of towers, strainers, or spray tips.",Oral Expression,2,0
+10511,Chemical Plant and System Operators,"Supervise the cleaning of towers, strainers, or spray tips.",Selective Attention,1,0
+10511,Chemical Plant and System Operators,"Supervise the cleaning of towers, strainers, or spray tips.",Near Vision,1,0
+10510,Chemical Plant and System Operators,"Defrost frozen valves, using steam hoses.",Manual Dexterity,2,0
+10510,Chemical Plant and System Operators,"Defrost frozen valves, using steam hoses.",Static Strength,1,0
+10510,Chemical Plant and System Operators,"Defrost frozen valves, using steam hoses.",Arm-Hand Steadiness,1,0
+10510,Chemical Plant and System Operators,"Defrost frozen valves, using steam hoses.",Near Vision,1,0
+14287,Gas Plant Operators,"Monitor equipment functioning, observe temperature, level, and flow gauges, and perform regular unit checks to ensure that all equipment is operating as it should.",Near Vision,3,0
+14287,Gas Plant Operators,"Monitor equipment functioning, observe temperature, level, and flow gauges, and perform regular unit checks to ensure that all equipment is operating as it should.",Selective Attention,2,0
+14287,Gas Plant Operators,"Monitor equipment functioning, observe temperature, level, and flow gauges, and perform regular unit checks to ensure that all equipment is operating as it should.",Perceptual Speed,2,0
+14299,Gas Plant Operators,"Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment.",Control Precision,3,0
+14299,Gas Plant Operators,"Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment.",Near Vision,1,0
+14299,Gas Plant Operators,"Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment.",Multilimb Coordination,1,0
+14299,Gas Plant Operators,"Distribute or process gas for utility companies or industrial plants, using panel boards, control boards, and semi-automatic equipment.",Selective Attention,1,0
+14288,Gas Plant Operators,"Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas.",Control Precision,3,0
+14288,Gas Plant Operators,"Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas.",Near Vision,1,0
+14288,Gas Plant Operators,"Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas.",Selective Attention,1,0
+14288,Gas Plant Operators,"Control operation of compressors, scrubbers, evaporators, and refrigeration equipment to liquefy, compress, or regasify natural gas.",Multilimb Coordination,1,0
+14300,Gas Plant Operators,"Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment.",Control Precision,3,0
+14300,Gas Plant Operators,"Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment.",Rate Control,2,0
+14300,Gas Plant Operators,"Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment.",Near Vision,1,0
+14300,Gas Plant Operators,"Control equipment to regulate flow and pressure of gas to feedlines of boilers, furnaces, and related steam-generating or heating equipment.",Selective Attention,1,0
+14290,Gas Plant Operators,"Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows.",Near Vision,2,0
+14290,Gas Plant Operators,"Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows.",Written Expression,2,0
+14290,Gas Plant Operators,"Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows.",Number Facility,1,0
+14290,Gas Plant Operators,"Record, review, and compile operations records, test results, and gauge readings such as temperatures, pressures, concentrations, and flows.",Information Ordering,1,0
+14294,Gas Plant Operators,"Determine causes of abnormal pressure variances, and make corrective recommendations, such as installation of pipes to relieve overloading.",Problem Sensitivity,3,0
+14294,Gas Plant Operators,"Determine causes of abnormal pressure variances, and make corrective recommendations, such as installation of pipes to relieve overloading.",Deductive Reasoning,3,0
+14294,Gas Plant Operators,"Determine causes of abnormal pressure variances, and make corrective recommendations, such as installation of pipes to relieve overloading.",Inductive Reasoning,2,0
+14291,Gas Plant Operators,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems.",Control Precision,3,0
+14291,Gas Plant Operators,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems.",Rate Control,2,0
+14291,Gas Plant Operators,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems.",Near Vision,1,0
+14291,Gas Plant Operators,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of gas to maintain processes at required levels or to correct problems.",Problem Sensitivity,1,0
+14293,Gas Plant Operators,Collaborate with other operators to solve unit problems.,Oral Expression,2,0
+14293,Gas Plant Operators,Collaborate with other operators to solve unit problems.,Oral Comprehension,2,0
+14293,Gas Plant Operators,Collaborate with other operators to solve unit problems.,Problem Sensitivity,2,0
+14293,Gas Plant Operators,Collaborate with other operators to solve unit problems.,Deductive Reasoning,1,0
+14286,Gas Plant Operators,Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed.,Selective Attention,3,0
+14286,Gas Plant Operators,Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed.,Near Vision,2,0
+14286,Gas Plant Operators,Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed.,Problem Sensitivity,1,0
+14289,Gas Plant Operators,Start and shut down plant equipment.,Control Precision,2,0
+14289,Gas Plant Operators,Start and shut down plant equipment.,Arm-Hand Steadiness,1,0
+14289,Gas Plant Operators,Start and shut down plant equipment.,Near Vision,1,0
+14295,Gas Plant Operators,"Read logsheets to determine product demand and disposition, or to detect malfunctions.",Near Vision,2,0
+14295,Gas Plant Operators,"Read logsheets to determine product demand and disposition, or to detect malfunctions.",Written Comprehension,2,0
+14295,Gas Plant Operators,"Read logsheets to determine product demand and disposition, or to detect malfunctions.",Problem Sensitivity,1,0
+14297,Gas Plant Operators,Contact maintenance crews when necessary.,Oral Expression,3,0
+14297,Gas Plant Operators,Contact maintenance crews when necessary.,Oral Comprehension,1,0
+14297,Gas Plant Operators,Contact maintenance crews when necessary.,Problem Sensitivity,1,0
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",Near Vision,2,0
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",Visual Color Discrimination,1,0
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",Problem Sensitivity,2,0
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",Auditory Attention,1,0
+14296,Gas Plant Operators,"Test gas, chemicals, and air during processing to assess factors such as purity and moisture content, and to detect quality problems or gas or chemical leaks.",Manual Dexterity,1,0
+14292,Gas Plant Operators,"Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed.",Manual Dexterity,2,0
+14292,Gas Plant Operators,"Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed.",Static Strength,2,0
+14292,Gas Plant Operators,"Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed.",Finger Dexterity,1,0
+14292,Gas Plant Operators,"Clean, maintain, and repair equipment, using hand tools, or request that repair and maintenance work be performed.",Near Vision,1,0
+14303,Gas Plant Operators,Signal or direct workers who tend auxiliary equipment.,Oral Expression,2,0
+14303,Gas Plant Operators,Signal or direct workers who tend auxiliary equipment.,Response Orientation,2,1
+14303,Gas Plant Operators,Signal or direct workers who tend auxiliary equipment.,Near Vision,1,0
+14301,Gas Plant Operators,"Control fractioning columns, compressors, purifying towers, heat exchangers, and related equipment to extract nitrogen and oxygen from air.",Control Precision,3,0
+14301,Gas Plant Operators,"Control fractioning columns, compressors, purifying towers, heat exchangers, and related equipment to extract nitrogen and oxygen from air.",Multilimb Coordination,2,0
+14301,Gas Plant Operators,"Control fractioning columns, compressors, purifying towers, heat exchangers, and related equipment to extract nitrogen and oxygen from air.",Near Vision,1,0
+14302,Gas Plant Operators,"Calculate gas ratios to detect deviations from specifications, using testing apparatus.",Mathematical Reasoning,3,0
+14302,Gas Plant Operators,"Calculate gas ratios to detect deviations from specifications, using testing apparatus.",Number Facility,3,0
+14302,Gas Plant Operators,"Calculate gas ratios to detect deviations from specifications, using testing apparatus.",Near Vision,1,0
+14304,Gas Plant Operators,Operate construction equipment to install and maintain gas distribution systems.,Multilimb Coordination,3,0
+14304,Gas Plant Operators,Operate construction equipment to install and maintain gas distribution systems.,Control Precision,3,0
+14304,Gas Plant Operators,Operate construction equipment to install and maintain gas distribution systems.,Depth Perception,2,0
+14304,Gas Plant Operators,Operate construction equipment to install and maintain gas distribution systems.,Reaction Time,2,0
+14304,Gas Plant Operators,Operate construction equipment to install and maintain gas distribution systems.,Near Vision,1,0
+14298,Gas Plant Operators,Change charts in recording meters.,Finger Dexterity,2,0
+14298,Gas Plant Operators,Change charts in recording meters.,Manual Dexterity,1,0
+14298,Gas Plant Operators,Change charts in recording meters.,Near Vision,2,0
+14309,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Signal other workers by telephone or radio to operate pumps, open and close valves, and check temperatures.",Oral Expression,3,0
+14309,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Signal other workers by telephone or radio to operate pumps, open and close valves, and check temperatures.",Oral Comprehension,2,0
+14309,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Signal other workers by telephone or radio to operate pumps, open and close valves, and check temperatures.",Speech Clarity,1,0
+14318,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled.",Manual Dexterity,2,0
+14318,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled.",Problem Sensitivity,2,0
+14318,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled.",Written Expression,1,0
+14318,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Maintain and repair equipment, or report malfunctioning equipment to supervisors so that repairs can be scheduled.",Oral Expression,1,0
+14305,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Monitor process indicators, instruments, gauges, and meters to detect and report any possible problems.",Near Vision,3,0
+14305,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Monitor process indicators, instruments, gauges, and meters to detect and report any possible problems.",Selective Attention,2,0
+14305,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Monitor process indicators, instruments, gauges, and meters to detect and report any possible problems.",Problem Sensitivity,2,0
+14306,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Start pumps and open valves or use automated equipment to regulate the flow of oil in pipelines and into and out of tanks.,Control Precision,3,0
+14306,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Start pumps and open valves or use automated equipment to regulate the flow of oil in pipelines and into and out of tanks.,Arm-Hand Steadiness,2,0
+14306,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Start pumps and open valves or use automated equipment to regulate the flow of oil in pipelines and into and out of tanks.,Near Vision,1,0
+14308,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules.",Control Precision,3,0
+14308,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules.",Multilimb Coordination,2,0
+14308,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules.",Near Vision,1,0
+14308,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate control panels to coordinate and regulate process variables such as temperature and pressure, and to direct product flow rate, according to process schedules.",Time Sharing,1,0
+14310,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Verify that incoming and outgoing products are moving through the correct meters, and that meters are working properly.",Near Vision,3,0
+14310,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Verify that incoming and outgoing products are moving through the correct meters, and that meters are working properly.",Selective Attention,2,0
+14310,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Verify that incoming and outgoing products are moving through the correct meters, and that meters are working properly.",Perceptual Speed,1,0
+14317,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations.",Near Vision,2,0
+14317,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations.",Far Vision,1,0
+14317,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations.",Selective Attention,2,0
+14317,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Patrol units to monitor the amount of oil in storage tanks, and to verify that activities and operations are safe, efficient, and in compliance with regulations.",Stamina,1,0
+14313,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of system interconnections and capacities.",Visualization,3,0
+14313,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of system interconnections and capacities.",Deductive Reasoning,2,0
+14313,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Plan movement of products through lines to processing, storage, and shipping units, using knowledge of system interconnections and capacities.",Information Ordering,2,0
+14307,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Control or operate manifold and pumping systems to circulate liquids through a petroleum refinery.,Control Precision,3,0
+14307,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Control or operate manifold and pumping systems to circulate liquids through a petroleum refinery.,Multilimb Coordination,2,0
+14307,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Control or operate manifold and pumping systems to circulate liquids through a petroleum refinery.,Near Vision,1,0
+14312,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment.",Control Precision,3,0
+14312,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment.",Multilimb Coordination,2,0
+14312,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment.",Time Sharing,2,0
+14312,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Operate auxiliary equipment and control multiple processing units during distilling or treating operations, moving controls that regulate valves, pumps, compressors, and auxiliary equipment.",Near Vision,1,0
+14319,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples.",Manual Dexterity,2,0
+14319,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples.",Arm-Hand Steadiness,2,0
+14319,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples.",Static Strength,1,0
+14319,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Collect product samples by turning bleeder valves, or by lowering containers into tanks to obtain oil samples.",Near Vision,1,0
+14311,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read automatic gauges at specified intervals to determine the flow rate of oil into or from tanks, and the amount of oil in tanks.",Near Vision,3,0
+14311,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read automatic gauges at specified intervals to determine the flow rate of oil into or from tanks, and the amount of oil in tanks.",Number Facility,1,0
+14311,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read automatic gauges at specified intervals to determine the flow rate of oil into or from tanks, and the amount of oil in tanks.",Perceptual Speed,1,0
+14316,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products.,Time Sharing,2,0
+14316,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products.,Oral Expression,2,0
+14316,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products.,Information Ordering,2,0
+14316,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Synchronize activities with other pumphouses to ensure a continuous flow of products and a minimum of contamination between products.,Selective Attention,1,0
+14315,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Record and compile operating data, instrument readings, documentation, and results of laboratory analyses.",Near Vision,2,0
+14315,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Record and compile operating data, instrument readings, documentation, and results of laboratory analyses.",Written Expression,2,0
+14315,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Record and compile operating data, instrument readings, documentation, and results of laboratory analyses.",Information Ordering,1,0
+14321,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",Manual Dexterity,1,0
+14321,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",Static Strength,1,0
+14321,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",Trunk Strength,1,0
+14321,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",Stamina,1,0
+14320,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Inspect pipelines, tightening connections and lubricating valves as necessary.",Near Vision,2,0
+14320,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Inspect pipelines, tightening connections and lubricating valves as necessary.",Manual Dexterity,2,0
+14320,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Inspect pipelines, tightening connections and lubricating valves as necessary.",Finger Dexterity,1,0
+14320,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Inspect pipelines, tightening connections and lubricating valves as necessary.",Arm-Hand Steadiness,1,0
+14314,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read and analyze specifications, schedules, logs, test results, and laboratory recommendations to determine how to set equipment controls to produce the required qualities and quantities of products.",Written Comprehension,3,0
+14314,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read and analyze specifications, schedules, logs, test results, and laboratory recommendations to determine how to set equipment controls to produce the required qualities and quantities of products.",Deductive Reasoning,2,0
+14314,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Read and analyze specifications, schedules, logs, test results, and laboratory recommendations to determine how to set equipment controls to produce the required qualities and quantities of products.",Information Ordering,2,0
+14323,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers.",Near Vision,2,0
+14323,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers.",Manual Dexterity,2,0
+14323,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers.",Visual Color Discrimination,1,0
+14323,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Perform tests to check the qualities and grades of products, such as assessing levels of bottom sediment, water, and foreign materials in oil samples, using centrifugal testers.",Problem Sensitivity,1,0
+14328,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Calculate test result values, using standard formulas.",Mathematical Reasoning,3,0
+14328,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Calculate test result values, using standard formulas.",Number Facility,3,0
+14328,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Calculate test result values, using standard formulas.",Perceptual Speed,1,0
+14326,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clean interiors of processing units by circulating chemicals and solvents within units.,Manual Dexterity,1,0
+14326,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clean interiors of processing units by circulating chemicals and solvents within units.,Control Precision,2,0
+14326,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clean interiors of processing units by circulating chemicals and solvents within units.,Near Vision,1,0
+14327,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clamp seals around valves to secure tanks.,Arm-Hand Steadiness,2,0
+14327,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clamp seals around valves to secure tanks.,Manual Dexterity,2,0
+14327,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clamp seals around valves to secure tanks.,Static Strength,2,0
+14327,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Clamp seals around valves to secure tanks.,Finger Dexterity,1,0
+14322,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Coordinate shutdowns and major projects.,Information Ordering,3,0
+14322,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Coordinate shutdowns and major projects.,Oral Expression,2,0
+14322,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Coordinate shutdowns and major projects.,Deductive Reasoning,1,0
+14324,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Prepare calculations for receipts and deliveries of oil and oil products.,Mathematical Reasoning,3,0
+14324,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Prepare calculations for receipts and deliveries of oil and oil products.,Number Facility,3,0
+14324,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Prepare calculations for receipts and deliveries of oil and oil products.,Written Expression,1,0
+14325,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Lower thermometers into tanks to obtain temperature readings.,Arm-Hand Steadiness,2,0
+14325,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Lower thermometers into tanks to obtain temperature readings.,Manual Dexterity,1,0
+14325,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",Lower thermometers into tanks to obtain temperature readings.,Near Vision,1,0
+17830,Biofuels Processing Technicians,"Monitor batch, continuous flow, or hybrid biofuels production processes.",Selective Attention,3,0
+17830,Biofuels Processing Technicians,"Monitor batch, continuous flow, or hybrid biofuels production processes.",Near Vision,2,0
+17830,Biofuels Processing Technicians,"Monitor batch, continuous flow, or hybrid biofuels production processes.",Perceptual Speed,1,0
+17821,Biofuels Processing Technicians,"Operate valves, pumps, engines, or generators to control and adjust biofuels production.",Control Precision,3,0
+17821,Biofuels Processing Technicians,"Operate valves, pumps, engines, or generators to control and adjust biofuels production.",Multilimb Coordination,2,0
+17821,Biofuels Processing Technicians,"Operate valves, pumps, engines, or generators to control and adjust biofuels production.",Near Vision,1,0
+17828,Biofuels Processing Technicians,Monitor and record biofuels processing data.,Near Vision,2,0
+17828,Biofuels Processing Technicians,Monitor and record biofuels processing data.,Written Expression,2,0
+17828,Biofuels Processing Technicians,Monitor and record biofuels processing data.,Number Facility,1,0
+17828,Biofuels Processing Technicians,Monitor and record biofuels processing data.,Selective Attention,1,0
+17825,Biofuels Processing Technicians,Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.,Manual Dexterity,2,0
+17825,Biofuels Processing Technicians,Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.,Near Vision,2,0
+17825,Biofuels Processing Technicians,Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.,Visual Color Discrimination,1,0
+17825,Biofuels Processing Technicians,Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.,Problem Sensitivity,1,0
+17820,Biofuels Processing Technicians,"Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.",Control Precision,2,0
+17820,Biofuels Processing Technicians,"Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.",Manual Dexterity,1,0
+17820,Biofuels Processing Technicians,"Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.",Near Vision,1,0
+17822,Biofuels Processing Technicians,Process refined feedstock with additives in fermentation or reaction process vessels.,Manual Dexterity,2,0
+17822,Biofuels Processing Technicians,Process refined feedstock with additives in fermentation or reaction process vessels.,Control Precision,2,0
+17822,Biofuels Processing Technicians,Process refined feedstock with additives in fermentation or reaction process vessels.,Number Facility,1,0
+17822,Biofuels Processing Technicians,Process refined feedstock with additives in fermentation or reaction process vessels.,Near Vision,1,0

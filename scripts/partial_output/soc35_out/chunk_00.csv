@@ -1,0 +1,534 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,Selective Attention,3,0
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,Problem Sensitivity,2,0
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,Oral Comprehension,2,0
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,Oral Expression,2,0
+11129,Chefs and Head Cooks,Monitor sanitation practices to ensure that employees follow standards and regulations.,Near Vision,1,0
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",Oral Expression,3,0
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",Oral Comprehension,2,0
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",Information Ordering,2,0
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",Speech Clarity,2,0
+11135,Chefs and Head Cooks,"Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.",Manual Dexterity,1,0
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,Oral Expression,3,0
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,Oral Comprehension,2,0
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,Time Sharing,2,0
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,Selective Attention,2,0
+11132,Chefs and Head Cooks,Supervise or coordinate activities of cooks or workers engaged in food preparation.,Information Ordering,2,0
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,Number Facility,2,0
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,Written Expression,2,0
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,Mathematical Reasoning,1,0
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,Oral Expression,1,0
+11131,Chefs and Head Cooks,Order or requisition food or other supplies needed to ensure efficient operation.,Written Comprehension,1,0
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",Near Vision,2,0
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",Selective Attention,2,0
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",Problem Sensitivity,2,0
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",Flexibility of Closure,1,0
+11133,Chefs and Head Cooks,"Inspect supplies, equipment, or work areas to ensure conformance to established standards.",Visual Color Discrimination,1,0
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,Near Vision,2,0
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,Number Facility,2,0
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,Selective Attention,2,0
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,Visual Color Discrimination,1,0
+11130,Chefs and Head Cooks,Check the quantity and quality of received products.,Problem Sensitivity,1,0
+11128,Chefs and Head Cooks,Check the quality of raw or cooked food products to ensure that standards are met.,Near Vision,2,0
+11128,Chefs and Head Cooks,Check the quality of raw or cooked food products to ensure that standards are met.,Visual Color Discrimination,2,0
+11128,Chefs and Head Cooks,Check the quality of raw or cooked food products to ensure that standards are met.,Selective Attention,2,0
+11128,Chefs and Head Cooks,Check the quality of raw or cooked food products to ensure that standards are met.,Problem Sensitivity,2,0
+11136,Chefs and Head Cooks,"Estimate amounts and costs of required supplies, such as food and ingredients.",Mathematical Reasoning,3,0
+11136,Chefs and Head Cooks,"Estimate amounts and costs of required supplies, such as food and ingredients.",Number Facility,3,0
+11136,Chefs and Head Cooks,"Estimate amounts and costs of required supplies, such as food and ingredients.",Written Expression,1,0
+11136,Chefs and Head Cooks,"Estimate amounts and costs of required supplies, such as food and ingredients.",Deductive Reasoning,1,0
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",Mathematical Reasoning,2,0
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",Deductive Reasoning,2,0
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",Written Comprehension,2,0
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",Oral Expression,2,0
+11148,Chefs and Head Cooks,"Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.",Information Ordering,2,0
+11138,Chefs and Head Cooks,"Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.",Mathematical Reasoning,3,0
+11138,Chefs and Head Cooks,"Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.",Number Facility,3,0
+11138,Chefs and Head Cooks,"Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.",Deductive Reasoning,2,0
+11138,Chefs and Head Cooks,"Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.",Written Comprehension,1,0
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",Oral Expression,3,0
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",Deductive Reasoning,2,0
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",Information Ordering,2,0
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",Time Sharing,2,0
+11147,Chefs and Head Cooks,"Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.",Oral Comprehension,2,0
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,Originality,3,0
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,Visualization,2,0
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,Fluency of Ideas,2,0
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,Manual Dexterity,1,0
+11134,Chefs and Head Cooks,Determine how food should be presented and create decorative food displays.,Near Vision,1,0
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",Manual Dexterity,3,0
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",Finger Dexterity,2,0
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",Multilimb Coordination,2,0
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",Near Vision,1,0
+11139,Chefs and Head Cooks,"Prepare and cook foods of all types, either on a regular basis or for special guests or functions.",Stamina,1,0
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,Deductive Reasoning,2,0
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,Information Ordering,2,0
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,Mathematical Reasoning,1,0
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,Time Sharing,1,0
+11140,Chefs and Head Cooks,Determine production schedules and staff requirements necessary to ensure timely delivery of services.,Written Expression,1,0
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",Oral Expression,3,0
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",Oral Comprehension,3,0
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",Speech Clarity,1,0
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",Speech Recognition,1,0
+11142,Chefs and Head Cooks,"Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.",Fluency of Ideas,1,0
+11141,Chefs and Head Cooks,"Recruit and hire staff, such as cooks and other kitchen workers.",Oral Expression,2,0
+11141,Chefs and Head Cooks,"Recruit and hire staff, such as cooks and other kitchen workers.",Oral Comprehension,2,0
+11141,Chefs and Head Cooks,"Recruit and hire staff, such as cooks and other kitchen workers.",Deductive Reasoning,1,0
+11141,Chefs and Head Cooks,"Recruit and hire staff, such as cooks and other kitchen workers.",Written Comprehension,1,0
+11146,Chefs and Head Cooks,Record production or operational data on specified forms.,Written Expression,2,0
+11146,Chefs and Head Cooks,Record production or operational data on specified forms.,Number Facility,2,0
+11146,Chefs and Head Cooks,Record production or operational data on specified forms.,Near Vision,1,0
+11146,Chefs and Head Cooks,Record production or operational data on specified forms.,Information Ordering,1,0
+11144,Chefs and Head Cooks,Meet with sales representatives to negotiate prices or order supplies.,Oral Expression,3,0
+11144,Chefs and Head Cooks,Meet with sales representatives to negotiate prices or order supplies.,Oral Comprehension,2,0
+11144,Chefs and Head Cooks,Meet with sales representatives to negotiate prices or order supplies.,Deductive Reasoning,2,0
+11144,Chefs and Head Cooks,Meet with sales representatives to negotiate prices or order supplies.,Number Facility,1,0
+11145,Chefs and Head Cooks,Arrange for equipment purchases or repairs.,Oral Expression,2,0
+11145,Chefs and Head Cooks,Arrange for equipment purchases or repairs.,Written Expression,1,0
+11145,Chefs and Head Cooks,Arrange for equipment purchases or repairs.,Deductive Reasoning,1,0
+11145,Chefs and Head Cooks,Arrange for equipment purchases or repairs.,Number Facility,1,0
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,Oral Expression,2,0
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,Manual Dexterity,2,0
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,Finger Dexterity,1,0
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,Information Ordering,1,0
+11143,Chefs and Head Cooks,Demonstrate new cooking techniques or equipment to staff.,Near Vision,1,0
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",Oral Expression,2,0
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",Oral Comprehension,2,0
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",Originality,2,0
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",Fluency of Ideas,2,0
+11137,Chefs and Head Cooks,"Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.",Deductive Reasoning,1,0
+2145,First-Line Supervisors of Food Preparation and Serving Workers,Resolve customer complaints regarding food service.,Oral Comprehension,3,0
+2145,First-Line Supervisors of Food Preparation and Serving Workers,Resolve customer complaints regarding food service.,Oral Expression,3,0
+2145,First-Line Supervisors of Food Preparation and Serving Workers,Resolve customer complaints regarding food service.,Problem Sensitivity,2,0
+2145,First-Line Supervisors of Food Preparation and Serving Workers,Resolve customer complaints regarding food service.,Speech Recognition,1,0
+2146,First-Line Supervisors of Food Preparation and Serving Workers,"Train workers in food preparation, and in service, sanitation, and safety procedures.",Oral Expression,3,0
+2146,First-Line Supervisors of Food Preparation and Serving Workers,"Train workers in food preparation, and in service, sanitation, and safety procedures.",Oral Comprehension,2,0
+2146,First-Line Supervisors of Food Preparation and Serving Workers,"Train workers in food preparation, and in service, sanitation, and safety procedures.",Information Ordering,2,0
+2146,First-Line Supervisors of Food Preparation and Serving Workers,"Train workers in food preparation, and in service, sanitation, and safety procedures.",Speech Clarity,1,0
+2150,First-Line Supervisors of Food Preparation and Serving Workers,"Assign duties, responsibilities, and work stations to employees in accordance with work requirements.",Deductive Reasoning,2,0
+2150,First-Line Supervisors of Food Preparation and Serving Workers,"Assign duties, responsibilities, and work stations to employees in accordance with work requirements.",Oral Expression,2,0
+2150,First-Line Supervisors of Food Preparation and Serving Workers,"Assign duties, responsibilities, and work stations to employees in accordance with work requirements.",Information Ordering,2,0
+2150,First-Line Supervisors of Food Preparation and Serving Workers,"Assign duties, responsibilities, and work stations to employees in accordance with work requirements.",Oral Comprehension,1,0
+2157,First-Line Supervisors of Food Preparation and Serving Workers,Present bills and accept payments.,Number Facility,2,0
+2157,First-Line Supervisors of Food Preparation and Serving Workers,Present bills and accept payments.,Near Vision,1,0
+2157,First-Line Supervisors of Food Preparation and Serving Workers,Present bills and accept payments.,Oral Expression,1,0
+2157,First-Line Supervisors of Food Preparation and Serving Workers,Present bills and accept payments.,Finger Dexterity,1,0
+18714,First-Line Supervisors of Food Preparation and Serving Workers,"Perform various financial activities, such as cash handling, deposit preparation, and payroll.",Number Facility,3,0
+18714,First-Line Supervisors of Food Preparation and Serving Workers,"Perform various financial activities, such as cash handling, deposit preparation, and payroll.",Near Vision,1,0
+18714,First-Line Supervisors of Food Preparation and Serving Workers,"Perform various financial activities, such as cash handling, deposit preparation, and payroll.",Finger Dexterity,1,0
+18714,First-Line Supervisors of Food Preparation and Serving Workers,"Perform various financial activities, such as cash handling, deposit preparation, and payroll.",Information Ordering,1,0
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,Oral Expression,2,0
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,Gross Body Coordination,1,0
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,Stamina,1,0
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,Selective Attention,1,0
+18715,First-Line Supervisors of Food Preparation and Serving Workers,Supervise and participate in kitchen and dining area cleaning activities.,Manual Dexterity,1,0
+2155,First-Line Supervisors of Food Preparation and Serving Workers,Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.,Deductive Reasoning,2,0
+2155,First-Line Supervisors of Food Preparation and Serving Workers,Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.,Oral Expression,2,0
+2155,First-Line Supervisors of Food Preparation and Serving Workers,Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.,Problem Sensitivity,2,0
+2155,First-Line Supervisors of Food Preparation and Serving Workers,Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.,Written Expression,1,0
+2154,First-Line Supervisors of Food Preparation and Serving Workers,"Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.",Information Ordering,3,0
+2154,First-Line Supervisors of Food Preparation and Serving Workers,"Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.",Deductive Reasoning,2,0
+2154,First-Line Supervisors of Food Preparation and Serving Workers,"Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.",Visualization,1,0
+2154,First-Line Supervisors of Food Preparation and Serving Workers,"Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.",Oral Expression,1,0
+2148,First-Line Supervisors of Food Preparation and Serving Workers,"Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.",Number Facility,2,0
+2148,First-Line Supervisors of Food Preparation and Serving Workers,"Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.",Information Ordering,2,0
+2148,First-Line Supervisors of Food Preparation and Serving Workers,"Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.",Near Vision,1,0
+2148,First-Line Supervisors of Food Preparation and Serving Workers,"Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.",Oral Expression,1,0
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",Selective Attention,2,0
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",Problem Sensitivity,2,0
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",Written Expression,2,0
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",Near Vision,1,0
+18716,First-Line Supervisors of Food Preparation and Serving Workers,"Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.",Deductive Reasoning,1,0
+2153,First-Line Supervisors of Food Preparation and Serving Workers,"Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.",Deductive Reasoning,3,0
+2153,First-Line Supervisors of Food Preparation and Serving Workers,"Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.",Problem Sensitivity,3,0
+2153,First-Line Supervisors of Food Preparation and Serving Workers,"Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.",Inductive Reasoning,2,0
+2153,First-Line Supervisors of Food Preparation and Serving Workers,"Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.",Written Expression,1,0
+2147,First-Line Supervisors of Food Preparation and Serving Workers,"Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.",Near Vision,2,0
+2147,First-Line Supervisors of Food Preparation and Serving Workers,"Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.",Selective Attention,2,0
+2147,First-Line Supervisors of Food Preparation and Serving Workers,"Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.",Problem Sensitivity,2,0
+2147,First-Line Supervisors of Food Preparation and Serving Workers,"Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.",Flexibility of Closure,1,0
+2156,First-Line Supervisors of Food Preparation and Serving Workers,"Greet and seat guests, and present menus and wine lists.",Oral Expression,3,0
+2156,First-Line Supervisors of Food Preparation and Serving Workers,"Greet and seat guests, and present menus and wine lists.",Oral Comprehension,2,0
+2156,First-Line Supervisors of Food Preparation and Serving Workers,"Greet and seat guests, and present menus and wine lists.",Speech Clarity,1,0
+2156,First-Line Supervisors of Food Preparation and Serving Workers,"Greet and seat guests, and present menus and wine lists.",Near Vision,1,0
+2167,First-Line Supervisors of Food Preparation and Serving Workers,Evaluate new products for usefulness and suitability.,Deductive Reasoning,2,0
+2167,First-Line Supervisors of Food Preparation and Serving Workers,Evaluate new products for usefulness and suitability.,Problem Sensitivity,2,0
+2167,First-Line Supervisors of Food Preparation and Serving Workers,Evaluate new products for usefulness and suitability.,Near Vision,1,0
+2167,First-Line Supervisors of Food Preparation and Serving Workers,Evaluate new products for usefulness and suitability.,Visual Color Discrimination,1,0
+2144,First-Line Supervisors of Food Preparation and Serving Workers,Compile and balance cash receipts at the end of the day or shift.,Number Facility,3,0
+2144,First-Line Supervisors of Food Preparation and Serving Workers,Compile and balance cash receipts at the end of the day or shift.,Near Vision,1,0
+2144,First-Line Supervisors of Food Preparation and Serving Workers,Compile and balance cash receipts at the end of the day or shift.,Information Ordering,1,0
+2158,First-Line Supervisors of Food Preparation and Serving Workers,"Forecast staff, equipment, and supply requirements, based on a master menu.",Inductive Reasoning,2,0
+2158,First-Line Supervisors of Food Preparation and Serving Workers,"Forecast staff, equipment, and supply requirements, based on a master menu.",Mathematical Reasoning,2,0
+2158,First-Line Supervisors of Food Preparation and Serving Workers,"Forecast staff, equipment, and supply requirements, based on a master menu.",Deductive Reasoning,1,0
+2158,First-Line Supervisors of Food Preparation and Serving Workers,"Forecast staff, equipment, and supply requirements, based on a master menu.",Number Facility,1,0
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",Deductive Reasoning,2,0
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",Oral Comprehension,1,0
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",Written Comprehension,1,0
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",Information Ordering,2,0
+18721,First-Line Supervisors of Food Preparation and Serving Workers,"Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.",Selective Attention,1,0
+18719,First-Line Supervisors of Food Preparation and Serving Workers,"Record production, operational, and personnel data on specified forms.",Written Expression,2,0
+18719,First-Line Supervisors of Food Preparation and Serving Workers,"Record production, operational, and personnel data on specified forms.",Number Facility,1,0
+18719,First-Line Supervisors of Food Preparation and Serving Workers,"Record production, operational, and personnel data on specified forms.",Near Vision,1,0
+18719,First-Line Supervisors of Food Preparation and Serving Workers,"Record production, operational, and personnel data on specified forms.",Information Ordering,1,0
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",Oral Expression,2,0
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",Deductive Reasoning,2,0
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",Information Ordering,2,0
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",Written Expression,1,0
+18717,First-Line Supervisors of Food Preparation and Serving Workers,"Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.",Oral Comprehension,1,0
+2151,First-Line Supervisors of Food Preparation and Serving Workers,Estimate ingredients and supplies required to prepare a recipe.,Mathematical Reasoning,2,0
+2151,First-Line Supervisors of Food Preparation and Serving Workers,Estimate ingredients and supplies required to prepare a recipe.,Number Facility,2,0
+2151,First-Line Supervisors of Food Preparation and Serving Workers,Estimate ingredients and supplies required to prepare a recipe.,Deductive Reasoning,1,0
+2161,First-Line Supervisors of Food Preparation and Serving Workers,Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.,Number Facility,2,0
+2161,First-Line Supervisors of Food Preparation and Serving Workers,Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.,Deductive Reasoning,1,0
+2161,First-Line Supervisors of Food Preparation and Serving Workers,Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.,Written Expression,1,0
+2161,First-Line Supervisors of Food Preparation and Serving Workers,Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.,Oral Expression,1,0
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",Manual Dexterity,3,0
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",Arm-Hand Steadiness,2,0
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",Finger Dexterity,2,0
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",Near Vision,1,0
+18718,First-Line Supervisors of Food Preparation and Serving Workers,"Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.",Control Precision,1,0
+2164,First-Line Supervisors of Food Preparation and Serving Workers,Schedule parties and take reservations.,Information Ordering,2,0
+2164,First-Line Supervisors of Food Preparation and Serving Workers,Schedule parties and take reservations.,Oral Comprehension,2,0
+2164,First-Line Supervisors of Food Preparation and Serving Workers,Schedule parties and take reservations.,Oral Expression,1,0
+2164,First-Line Supervisors of Food Preparation and Serving Workers,Schedule parties and take reservations.,Number Facility,1,0
+2165,First-Line Supervisors of Food Preparation and Serving Workers,"Develop departmental objectives, budgets, policies, procedures, and strategies.",Deductive Reasoning,2,0
+2165,First-Line Supervisors of Food Preparation and Serving Workers,"Develop departmental objectives, budgets, policies, procedures, and strategies.",Written Expression,2,0
+2165,First-Line Supervisors of Food Preparation and Serving Workers,"Develop departmental objectives, budgets, policies, procedures, and strategies.",Mathematical Reasoning,1,0
+2165,First-Line Supervisors of Food Preparation and Serving Workers,"Develop departmental objectives, budgets, policies, procedures, and strategies.",Information Ordering,2,0
+18720,First-Line Supervisors of Food Preparation and Serving Workers,"Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.",Oral Expression,3,0
+18720,First-Line Supervisors of Food Preparation and Serving Workers,"Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.",Oral Comprehension,2,0
+18720,First-Line Supervisors of Food Preparation and Serving Workers,"Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.",Information Ordering,1,0
+18720,First-Line Supervisors of Food Preparation and Serving Workers,"Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.",Fluency of Ideas,1,0
+2166,First-Line Supervisors of Food Preparation and Serving Workers,Develop equipment maintenance schedules and arrange for repairs.,Information Ordering,2,0
+2166,First-Line Supervisors of Food Preparation and Serving Workers,Develop equipment maintenance schedules and arrange for repairs.,Deductive Reasoning,1,0
+2166,First-Line Supervisors of Food Preparation and Serving Workers,Develop equipment maintenance schedules and arrange for repairs.,Written Expression,1,0
+2166,First-Line Supervisors of Food Preparation and Serving Workers,Develop equipment maintenance schedules and arrange for repairs.,Oral Expression,1,0
+5070,"Cooks, Fast Food",Order and take delivery of supplies.,Number Facility,1,0
+5070,"Cooks, Fast Food",Order and take delivery of supplies.,Static Strength,1,1
+5070,"Cooks, Fast Food",Order and take delivery of supplies.,Written Expression,1,0
+5070,"Cooks, Fast Food",Order and take delivery of supplies.,Oral Expression,1,0
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",Time Sharing,3,0
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",Manual Dexterity,2,0
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",Selective Attention,2,0
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",Reaction Time,1,0
+5062,"Cooks, Fast Food","Cook the exact number of items ordered by each customer, working on several different orders simultaneously.",Multilimb Coordination,1,0
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",Manual Dexterity,3,0
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",Finger Dexterity,2,0
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",Rate Control,2,0
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",Near Vision,1,0
+5065,"Cooks, Fast Food","Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.",Reaction Time,1,0
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",Control Precision,2,0
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",Multilimb Coordination,2,0
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",Reaction Time,2,0
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",Near Vision,1,0
+5055,"Cooks, Fast Food","Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",Stamina,1,0
+5059,"Cooks, Fast Food","Wash, cut, and prepare foods designated for cooking.",Manual Dexterity,3,0
+5059,"Cooks, Fast Food","Wash, cut, and prepare foods designated for cooking.",Finger Dexterity,2,0
+5059,"Cooks, Fast Food","Wash, cut, and prepare foods designated for cooking.",Arm-Hand Steadiness,2,0
+5059,"Cooks, Fast Food","Wash, cut, and prepare foods designated for cooking.",Near Vision,1,0
+5068,"Cooks, Fast Food","Prepare and serve beverages, such as coffee or fountain drinks.",Manual Dexterity,2,0
+5068,"Cooks, Fast Food","Prepare and serve beverages, such as coffee or fountain drinks.",Finger Dexterity,1,0
+5068,"Cooks, Fast Food","Prepare and serve beverages, such as coffee or fountain drinks.",Control Precision,1,0
+5068,"Cooks, Fast Food","Prepare and serve beverages, such as coffee or fountain drinks.",Near Vision,1,0
+5054,"Cooks, Fast Food","Clean food preparation areas, cooking surfaces, and utensils.",Manual Dexterity,2,0
+5054,"Cooks, Fast Food","Clean food preparation areas, cooking surfaces, and utensils.",Gross Body Coordination,1,0
+5054,"Cooks, Fast Food","Clean food preparation areas, cooking surfaces, and utensils.",Stamina,1,0
+5054,"Cooks, Fast Food","Clean food preparation areas, cooking surfaces, and utensils.",Arm-Hand Steadiness,1,0
+5058,"Cooks, Fast Food","Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.",Oral Comprehension,2,0
+5058,"Cooks, Fast Food","Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.",Near Vision,2,0
+5058,"Cooks, Fast Food","Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.",Manual Dexterity,2,0
+5058,"Cooks, Fast Food","Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.",Selective Attention,1,0
+5063,"Cooks, Fast Food","Serve orders to customers at windows, counters, or tables.",Oral Expression,2,0
+5063,"Cooks, Fast Food","Serve orders to customers at windows, counters, or tables.",Manual Dexterity,1,0
+5063,"Cooks, Fast Food","Serve orders to customers at windows, counters, or tables.",Gross Body Coordination,1,0
+5063,"Cooks, Fast Food","Serve orders to customers at windows, counters, or tables.",Multilimb Coordination,1,0
+5064,"Cooks, Fast Food","Clean, stock, and restock workstations and display cases.",Static Strength,2,0
+5064,"Cooks, Fast Food","Clean, stock, and restock workstations and display cases.",Manual Dexterity,1,0
+5064,"Cooks, Fast Food","Clean, stock, and restock workstations and display cases.",Gross Body Coordination,1,0
+5064,"Cooks, Fast Food","Clean, stock, and restock workstations and display cases.",Stamina,1,0
+5053,"Cooks, Fast Food","Maintain sanitation, health, and safety standards in work areas.",Selective Attention,2,0
+5053,"Cooks, Fast Food","Maintain sanitation, health, and safety standards in work areas.",Manual Dexterity,1,0
+5053,"Cooks, Fast Food","Maintain sanitation, health, and safety standards in work areas.",Near Vision,1,0
+5053,"Cooks, Fast Food","Maintain sanitation, health, and safety standards in work areas.",Problem Sensitivity,1,0
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",Manual Dexterity,2,0
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",Finger Dexterity,2,0
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",Rate Control,1,0
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",Near Vision,1,0
+5061,"Cooks, Fast Food","Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.",Multilimb Coordination,1,0
+5066,"Cooks, Fast Food","Prepare dough, following recipe.",Manual Dexterity,2,0
+5066,"Cooks, Fast Food","Prepare dough, following recipe.",Arm-Hand Steadiness,1,0
+5066,"Cooks, Fast Food","Prepare dough, following recipe.",Static Strength,1,0
+5066,"Cooks, Fast Food","Prepare dough, following recipe.",Finger Dexterity,1,0
+5057,"Cooks, Fast Food",Take food and drink orders and receive payment from customers.,Oral Comprehension,2,0
+5057,"Cooks, Fast Food",Take food and drink orders and receive payment from customers.,Oral Expression,2,0
+5057,"Cooks, Fast Food",Take food and drink orders and receive payment from customers.,Number Facility,2,0
+5057,"Cooks, Fast Food",Take food and drink orders and receive payment from customers.,Memorization,1,0
+5056,"Cooks, Fast Food",Verify that prepared food meets requirements for quality and quantity.,Near Vision,2,0
+5056,"Cooks, Fast Food",Verify that prepared food meets requirements for quality and quantity.,Visual Color Discrimination,1,0
+5056,"Cooks, Fast Food",Verify that prepared food meets requirements for quality and quantity.,Selective Attention,1,0
+5056,"Cooks, Fast Food",Verify that prepared food meets requirements for quality and quantity.,Problem Sensitivity,1,0
+5071,"Cooks, Fast Food","Pre-cook items, such as bacon, to prepare them for later use.",Manual Dexterity,2,0
+5071,"Cooks, Fast Food","Pre-cook items, such as bacon, to prepare them for later use.",Near Vision,1,0
+5071,"Cooks, Fast Food","Pre-cook items, such as bacon, to prepare them for later use.",Reaction Time,1,0
+5071,"Cooks, Fast Food","Pre-cook items, such as bacon, to prepare them for later use.",Control Precision,1,0
+5060,"Cooks, Fast Food",Measure ingredients required for specific food items.,Number Facility,2,0
+5060,"Cooks, Fast Food",Measure ingredients required for specific food items.,Near Vision,1,0
+5060,"Cooks, Fast Food",Measure ingredients required for specific food items.,Finger Dexterity,1,0
+5060,"Cooks, Fast Food",Measure ingredients required for specific food items.,Arm-Hand Steadiness,1,0
+5069,"Cooks, Fast Food","Mix ingredients, such as pancake or waffle batters.",Manual Dexterity,2,0
+5069,"Cooks, Fast Food","Mix ingredients, such as pancake or waffle batters.",Arm-Hand Steadiness,1,0
+5069,"Cooks, Fast Food","Mix ingredients, such as pancake or waffle batters.",Multilimb Coordination,1,0
+5069,"Cooks, Fast Food","Mix ingredients, such as pancake or waffle batters.",Static Strength,1,0
+5067,"Cooks, Fast Food","Schedule activities and equipment use with managers, using information about daily menus to help coordinate cooking times.",Information Ordering,2,0
+5067,"Cooks, Fast Food","Schedule activities and equipment use with managers, using information about daily menus to help coordinate cooking times.",Oral Expression,1,0
+5067,"Cooks, Fast Food","Schedule activities and equipment use with managers, using information about daily menus to help coordinate cooking times.",Oral Comprehension,1,0
+5067,"Cooks, Fast Food","Schedule activities and equipment use with managers, using information about daily menus to help coordinate cooking times.",Time Sharing,1,0
+21148,"Cooks, Institution and Cafeteria",Monitor and record food temperatures to ensure food safety.,Near Vision,2,0
+21148,"Cooks, Institution and Cafeteria",Monitor and record food temperatures to ensure food safety.,Selective Attention,1,0
+21148,"Cooks, Institution and Cafeteria",Monitor and record food temperatures to ensure food safety.,Written Expression,1,0
+21148,"Cooks, Institution and Cafeteria",Monitor and record food temperatures to ensure food safety.,Number Facility,1,0
+9488,"Cooks, Institution and Cafeteria","Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.",Manual Dexterity,2,0
+9488,"Cooks, Institution and Cafeteria","Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.",Oral Comprehension,1,0
+9488,"Cooks, Institution and Cafeteria","Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.",Information Ordering,1,0
+9488,"Cooks, Institution and Cafeteria","Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.",Near Vision,1,0
+9488,"Cooks, Institution and Cafeteria","Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.",Multilimb Coordination,1,0
+21149,"Cooks, Institution and Cafeteria",Rotate and store food supplies.,Static Strength,2,0
+21149,"Cooks, Institution and Cafeteria",Rotate and store food supplies.,Gross Body Coordination,1,0
+21149,"Cooks, Institution and Cafeteria",Rotate and store food supplies.,Information Ordering,1,0
+21149,"Cooks, Institution and Cafeteria",Rotate and store food supplies.,Stamina,1,0
+9491,"Cooks, Institution and Cafeteria","Wash pots, pans, dishes, utensils, or other cooking equipment.",Static Strength,2,0
+9491,"Cooks, Institution and Cafeteria","Wash pots, pans, dishes, utensils, or other cooking equipment.",Manual Dexterity,2,0
+9491,"Cooks, Institution and Cafeteria","Wash pots, pans, dishes, utensils, or other cooking equipment.",Stamina,2,0
+9491,"Cooks, Institution and Cafeteria","Wash pots, pans, dishes, utensils, or other cooking equipment.",Gross Body Coordination,1,0
+9487,"Cooks, Institution and Cafeteria","Apportion and serve food to facility residents, employees, or patrons.",Manual Dexterity,2,0
+9487,"Cooks, Institution and Cafeteria","Apportion and serve food to facility residents, employees, or patrons.",Control Precision,1,0
+9487,"Cooks, Institution and Cafeteria","Apportion and serve food to facility residents, employees, or patrons.",Near Vision,1,0
+9487,"Cooks, Institution and Cafeteria","Apportion and serve food to facility residents, employees, or patrons.",Gross Body Coordination,1,0
+9486,"Cooks, Institution and Cafeteria","Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.",Near Vision,2,0
+9486,"Cooks, Institution and Cafeteria","Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.",Manual Dexterity,1,0
+9486,"Cooks, Institution and Cafeteria","Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.",Selective Attention,1,0
+9486,"Cooks, Institution and Cafeteria","Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.",Static Strength,1,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",Manual Dexterity,3,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",Finger Dexterity,2,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",Arm-Hand Steadiness,2,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",Control Precision,1,0
+9489,"Cooks, Institution and Cafeteria","Clean, cut, and cook meat, fish, or poultry.",Near Vision,1,0
+9493,"Cooks, Institution and Cafeteria",Direct activities of one or more workers who assist in preparing and serving meals.,Oral Expression,3,0
+9493,"Cooks, Institution and Cafeteria",Direct activities of one or more workers who assist in preparing and serving meals.,Oral Comprehension,2,0
+9493,"Cooks, Institution and Cafeteria",Direct activities of one or more workers who assist in preparing and serving meals.,Information Ordering,1,0
+9495,"Cooks, Institution and Cafeteria",Train new employees.,Oral Expression,3,0
+9495,"Cooks, Institution and Cafeteria",Train new employees.,Oral Comprehension,2,0
+9495,"Cooks, Institution and Cafeteria",Train new employees.,Information Ordering,1,0
+9496,"Cooks, Institution and Cafeteria",Take inventory of supplies and equipment.,Number Facility,2,0
+9496,"Cooks, Institution and Cafeteria",Take inventory of supplies and equipment.,Near Vision,1,0
+9496,"Cooks, Institution and Cafeteria",Take inventory of supplies and equipment.,Written Expression,1,0
+9496,"Cooks, Institution and Cafeteria",Take inventory of supplies and equipment.,Memorization,1,0
+9499,"Cooks, Institution and Cafeteria","Requisition food supplies, kitchen equipment, and appliances, based on estimates of future needs.",Number Facility,2,0
+9499,"Cooks, Institution and Cafeteria","Requisition food supplies, kitchen equipment, and appliances, based on estimates of future needs.",Inductive Reasoning,1,0
+9499,"Cooks, Institution and Cafeteria","Requisition food supplies, kitchen equipment, and appliances, based on estimates of future needs.",Written Expression,1,0
+9494,"Cooks, Institution and Cafeteria","Bake breads, rolls, or other pastries.",Manual Dexterity,2,0
+9494,"Cooks, Institution and Cafeteria","Bake breads, rolls, or other pastries.",Finger Dexterity,2,0
+9494,"Cooks, Institution and Cafeteria","Bake breads, rolls, or other pastries.",Arm-Hand Steadiness,1,0
+9494,"Cooks, Institution and Cafeteria","Bake breads, rolls, or other pastries.",Near Vision,1,0
+9490,"Cooks, Institution and Cafeteria",Monitor use of government food commodities to ensure that proper procedures are followed.,Selective Attention,2,0
+9490,"Cooks, Institution and Cafeteria",Monitor use of government food commodities to ensure that proper procedures are followed.,Written Comprehension,1,0
+9490,"Cooks, Institution and Cafeteria",Monitor use of government food commodities to ensure that proper procedures are followed.,Number Facility,1,0
+9490,"Cooks, Institution and Cafeteria",Monitor use of government food commodities to ensure that proper procedures are followed.,Problem Sensitivity,1,0
+9498,"Cooks, Institution and Cafeteria","Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.",Originality,2,0
+9498,"Cooks, Institution and Cafeteria","Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.",Deductive Reasoning,2,0
+9498,"Cooks, Institution and Cafeteria","Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.",Fluency of Ideas,1,0
+9498,"Cooks, Institution and Cafeteria","Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.",Written Expression,1,0
+9497,"Cooks, Institution and Cafeteria",Monitor menus and spending to ensure that meals are prepared economically.,Number Facility,2,0
+9497,"Cooks, Institution and Cafeteria",Monitor menus and spending to ensure that meals are prepared economically.,Deductive Reasoning,1,0
+9497,"Cooks, Institution and Cafeteria",Monitor menus and spending to ensure that meals are prepared economically.,Written Comprehension,1,0
+9497,"Cooks, Institution and Cafeteria",Monitor menus and spending to ensure that meals are prepared economically.,Selective Attention,1,0
+9492,"Cooks, Institution and Cafeteria",Compile and maintain records of food use and expenditures.,Written Expression,2,0
+9492,"Cooks, Institution and Cafeteria",Compile and maintain records of food use and expenditures.,Number Facility,2,0
+9492,"Cooks, Institution and Cafeteria",Compile and maintain records of food use and expenditures.,Information Ordering,1,0
+9500,"Cooks, Institution and Cafeteria","Determine meal prices, based on calculations of ingredient prices.",Mathematical Reasoning,3,0
+9500,"Cooks, Institution and Cafeteria","Determine meal prices, based on calculations of ingredient prices.",Number Facility,3,0
+9500,"Cooks, Institution and Cafeteria","Determine meal prices, based on calculations of ingredient prices.",Deductive Reasoning,1,0
+9503,"Cooks, Private Household","Peel, wash, trim, and cook vegetables and meats, and bake breads and pastries.",Manual Dexterity,3,0
+9503,"Cooks, Private Household","Peel, wash, trim, and cook vegetables and meats, and bake breads and pastries.",Finger Dexterity,2,0
+9503,"Cooks, Private Household","Peel, wash, trim, and cook vegetables and meats, and bake breads and pastries.",Arm-Hand Steadiness,2,0
+9503,"Cooks, Private Household","Peel, wash, trim, and cook vegetables and meats, and bake breads and pastries.",Near Vision,1,0
+20896,"Cooks, Private Household","Cool, package, label, and freeze foods for later consumption and provide instructions for reheating.",Manual Dexterity,2,0
+20896,"Cooks, Private Household","Cool, package, label, and freeze foods for later consumption and provide instructions for reheating.",Near Vision,1,0
+20896,"Cooks, Private Household","Cool, package, label, and freeze foods for later consumption and provide instructions for reheating.",Written Expression,1,0
+20896,"Cooks, Private Household","Cool, package, label, and freeze foods for later consumption and provide instructions for reheating.",Information Ordering,1,0
+9501,"Cooks, Private Household",Plan menus according to employers' needs and diet restrictions.,Deductive Reasoning,2,0
+9501,"Cooks, Private Household",Plan menus according to employers' needs and diet restrictions.,Oral Comprehension,1,0
+9501,"Cooks, Private Household",Plan menus according to employers' needs and diet restrictions.,Originality,1,0
+9501,"Cooks, Private Household",Plan menus according to employers' needs and diet restrictions.,Written Comprehension,1,0
+9502,"Cooks, Private Household",Shop for or order food and kitchen supplies and equipment.,Number Facility,1,0
+9502,"Cooks, Private Household",Shop for or order food and kitchen supplies and equipment.,Near Vision,1,0
+9502,"Cooks, Private Household",Shop for or order food and kitchen supplies and equipment.,Deductive Reasoning,1,0
+9502,"Cooks, Private Household",Shop for or order food and kitchen supplies and equipment.,Static Strength,1,1
+9504,"Cooks, Private Household","Prepare meals in private homes according to employers' recipes or tastes, handling all meals for the family and possibly for other household staff.",Manual Dexterity,2,0
+9504,"Cooks, Private Household","Prepare meals in private homes according to employers' recipes or tastes, handling all meals for the family and possibly for other household staff.",Oral Comprehension,1,0
+9504,"Cooks, Private Household","Prepare meals in private homes according to employers' recipes or tastes, handling all meals for the family and possibly for other household staff.",Information Ordering,1,0
+9504,"Cooks, Private Household","Prepare meals in private homes according to employers' recipes or tastes, handling all meals for the family and possibly for other household staff.",Near Vision,1,0
+20897,"Cooks, Private Household","Keep records pertaining to menus, finances, and other business-related issues.",Written Expression,2,0
+20897,"Cooks, Private Household","Keep records pertaining to menus, finances, and other business-related issues.",Number Facility,1,0
+20897,"Cooks, Private Household","Keep records pertaining to menus, finances, and other business-related issues.",Information Ordering,1,0
+9505,"Cooks, Private Household","Stock, organize, and clean kitchens and cooking utensils.",Static Strength,1,0
+9505,"Cooks, Private Household","Stock, organize, and clean kitchens and cooking utensils.",Manual Dexterity,1,0
+9505,"Cooks, Private Household","Stock, organize, and clean kitchens and cooking utensils.",Gross Body Coordination,1,0
+9505,"Cooks, Private Household","Stock, organize, and clean kitchens and cooking utensils.",Information Ordering,1,0
+9508,"Cooks, Private Household","Direct the operation and organization of kitchens and all food-related activities, including the presentation and serving of food.",Oral Expression,2,0
+9508,"Cooks, Private Household","Direct the operation and organization of kitchens and all food-related activities, including the presentation and serving of food.",Information Ordering,2,0
+9508,"Cooks, Private Household","Direct the operation and organization of kitchens and all food-related activities, including the presentation and serving of food.",Deductive Reasoning,1,0
+9508,"Cooks, Private Household","Direct the operation and organization of kitchens and all food-related activities, including the presentation and serving of food.",Visualization,1,0
+9506,"Cooks, Private Household",Specialize in preparing fancy dishes or food for special diets.,Manual Dexterity,2,0
+9506,"Cooks, Private Household",Specialize in preparing fancy dishes or food for special diets.,Originality,2,0
+9506,"Cooks, Private Household",Specialize in preparing fancy dishes or food for special diets.,Finger Dexterity,1,0
+9506,"Cooks, Private Household",Specialize in preparing fancy dishes or food for special diets.,Near Vision,1,0
+9509,"Cooks, Private Household","Plan and prepare food for parties, holiday meals, luncheons, special functions, and other social events.",Manual Dexterity,2,0
+9509,"Cooks, Private Household","Plan and prepare food for parties, holiday meals, luncheons, special functions, and other social events.",Deductive Reasoning,1,0
+9509,"Cooks, Private Household","Plan and prepare food for parties, holiday meals, luncheons, special functions, and other social events.",Information Ordering,2,0
+9509,"Cooks, Private Household","Plan and prepare food for parties, holiday meals, luncheons, special functions, and other social events.",Originality,1,0
+9507,"Cooks, Private Household",Create and explore new cuisines.,Originality,3,0
+9507,"Cooks, Private Household",Create and explore new cuisines.,Fluency of Ideas,2,0
+9507,"Cooks, Private Household",Create and explore new cuisines.,Visualization,1,0
+9510,"Cooks, Private Household",Serve meals and snacks to employing families and their guests.,Manual Dexterity,1,0
+9510,"Cooks, Private Household",Serve meals and snacks to employing families and their guests.,Gross Body Coordination,1,0
+9510,"Cooks, Private Household",Serve meals and snacks to employing families and their guests.,Oral Expression,1,0
+9510,"Cooks, Private Household",Serve meals and snacks to employing families and their guests.,Near Vision,1,0
+9511,"Cooks, Private Household",Travel with employers to vacation homes to provide meal preparation at those locations.,Manual Dexterity,1,0
+9511,"Cooks, Private Household",Travel with employers to vacation homes to provide meal preparation at those locations.,Stamina,1,1
+9511,"Cooks, Private Household",Travel with employers to vacation homes to provide meal preparation at those locations.,Information Ordering,1,0
+18723,"Cooks, Restaurant","Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.",Control Precision,2,0
+18723,"Cooks, Restaurant","Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.",Near Vision,1,0
+18723,"Cooks, Restaurant","Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.",Selective Attention,2,0
+18723,"Cooks, Restaurant","Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.",Rate Control,1,0
+18722,"Cooks, Restaurant","Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.",Near Vision,2,0
+18722,"Cooks, Restaurant","Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.",Manual Dexterity,1,0
+18722,"Cooks, Restaurant","Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.",Selective Attention,1,0
+18722,"Cooks, Restaurant","Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.",Static Strength,1,0
+2173,"Cooks, Restaurant","Portion, arrange, and garnish food, and serve food to waiters or patrons.",Manual Dexterity,2,0
+2173,"Cooks, Restaurant","Portion, arrange, and garnish food, and serve food to waiters or patrons.",Finger Dexterity,2,0
+2173,"Cooks, Restaurant","Portion, arrange, and garnish food, and serve food to waiters or patrons.",Near Vision,2,0
+2173,"Cooks, Restaurant","Portion, arrange, and garnish food, and serve food to waiters or patrons.",Control Precision,1,0
+18724,"Cooks, Restaurant","Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.",Near Vision,2,0
+18724,"Cooks, Restaurant","Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.",Visual Color Discrimination,1,0
+18724,"Cooks, Restaurant","Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.",Selective Attention,1,0
+18724,"Cooks, Restaurant","Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.",Static Strength,1,0
+2170,"Cooks, Restaurant",Season and cook food according to recipes or personal judgment and experience.,Manual Dexterity,2,0
+2170,"Cooks, Restaurant",Season and cook food according to recipes or personal judgment and experience.,Near Vision,1,0
+2170,"Cooks, Restaurant",Season and cook food according to recipes or personal judgment and experience.,Deductive Reasoning,1,0
+2170,"Cooks, Restaurant",Season and cook food according to recipes or personal judgment and experience.,Control Precision,1,0
+2180,"Cooks, Restaurant",Coordinate and supervise work of kitchen staff.,Oral Expression,3,0
+2180,"Cooks, Restaurant",Coordinate and supervise work of kitchen staff.,Oral Comprehension,2,0
+2180,"Cooks, Restaurant",Coordinate and supervise work of kitchen staff.,Time Sharing,1,0
+2180,"Cooks, Restaurant",Coordinate and supervise work of kitchen staff.,Information Ordering,1,0
+2176,"Cooks, Restaurant","Bake, roast, broil, and steam meats, fish, vegetables, and other foods.",Manual Dexterity,2,0
+2176,"Cooks, Restaurant","Bake, roast, broil, and steam meats, fish, vegetables, and other foods.",Near Vision,1,0
+2176,"Cooks, Restaurant","Bake, roast, broil, and steam meats, fish, vegetables, and other foods.",Control Precision,1,0
+2176,"Cooks, Restaurant","Bake, roast, broil, and steam meats, fish, vegetables, and other foods.",Multilimb Coordination,1,0
+2172,"Cooks, Restaurant","Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.",Number Facility,2,0
+2172,"Cooks, Restaurant","Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.",Manual Dexterity,2,0
+2172,"Cooks, Restaurant","Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.",Arm-Hand Steadiness,1,0
+2172,"Cooks, Restaurant","Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.",Near Vision,1,0
+2169,"Cooks, Restaurant",Turn or stir foods to ensure even cooking.,Manual Dexterity,2,0
+2169,"Cooks, Restaurant",Turn or stir foods to ensure even cooking.,Arm-Hand Steadiness,1,0
+2169,"Cooks, Restaurant",Turn or stir foods to ensure even cooking.,Multilimb Coordination,1,0
+2171,"Cooks, Restaurant","Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.",Near Vision,2,0
+2171,"Cooks, Restaurant","Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.",Problem Sensitivity,2,0
+2171,"Cooks, Restaurant","Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.",Manual Dexterity,1,0
+2171,"Cooks, Restaurant","Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.",Control Precision,1,0
+2175,"Cooks, Restaurant",Substitute for or assist other cooks during emergencies or rush periods.,Time Sharing,2,0
+2175,"Cooks, Restaurant",Substitute for or assist other cooks during emergencies or rush periods.,Manual Dexterity,2,0
+2175,"Cooks, Restaurant",Substitute for or assist other cooks during emergencies or rush periods.,Reaction Time,1,0
+2175,"Cooks, Restaurant",Substitute for or assist other cooks during emergencies or rush periods.,Stamina,1,0
+2177,"Cooks, Restaurant","Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.",Manual Dexterity,3,0
+2177,"Cooks, Restaurant","Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.",Finger Dexterity,2,0
+2177,"Cooks, Restaurant","Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.",Arm-Hand Steadiness,2,0
+2177,"Cooks, Restaurant","Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.",Near Vision,1,0
+2183,"Cooks, Restaurant","Bake breads, rolls, cakes, and pastries.",Manual Dexterity,2,0
+2183,"Cooks, Restaurant","Bake breads, rolls, cakes, and pastries.",Finger Dexterity,2,0
+2183,"Cooks, Restaurant","Bake breads, rolls, cakes, and pastries.",Near Vision,1,0
+2183,"Cooks, Restaurant","Bake breads, rolls, cakes, and pastries.",Static Strength,1,0
+2179,"Cooks, Restaurant","Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.",Control Precision,3,0
+2179,"Cooks, Restaurant","Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.",Arm-Hand Steadiness,3,0
+2179,"Cooks, Restaurant","Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.",Manual Dexterity,2,0
+2179,"Cooks, Restaurant","Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.",Near Vision,1,0
+2185,"Cooks, Restaurant",Keep records and accounts.,Written Expression,2,0
+2185,"Cooks, Restaurant",Keep records and accounts.,Number Facility,2,0
+2185,"Cooks, Restaurant",Keep records and accounts.,Information Ordering,1,0
+2184,"Cooks, Restaurant",Prepare relishes and hors d'oeuvres.,Manual Dexterity,2,0
+2184,"Cooks, Restaurant",Prepare relishes and hors d'oeuvres.,Finger Dexterity,2,0
+2184,"Cooks, Restaurant",Prepare relishes and hors d'oeuvres.,Near Vision,1,0
+2184,"Cooks, Restaurant",Prepare relishes and hors d'oeuvres.,Originality,1,0
+2178,"Cooks, Restaurant","Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.",Number Facility,2,0
+2178,"Cooks, Restaurant","Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.",Inductive Reasoning,1,0
+2178,"Cooks, Restaurant","Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.",Deductive Reasoning,1,0
+2178,"Cooks, Restaurant","Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.",Static Strength,1,1
+2181,"Cooks, Restaurant","Consult with supervisory staff to plan menus, taking into consideration factors such as costs and special event needs.",Oral Expression,2,0
+2181,"Cooks, Restaurant","Consult with supervisory staff to plan menus, taking into consideration factors such as costs and special event needs.",Oral Comprehension,2,0
+2181,"Cooks, Restaurant","Consult with supervisory staff to plan menus, taking into consideration factors such as costs and special event needs.",Deductive Reasoning,1,0
+2182,"Cooks, Restaurant","Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.",Control Precision,3,0
+2182,"Cooks, Restaurant","Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.",Arm-Hand Steadiness,3,0
+2182,"Cooks, Restaurant","Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.",Static Strength,2,0
+2182,"Cooks, Restaurant","Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.",Manual Dexterity,2,0
+2182,"Cooks, Restaurant","Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.",Near Vision,1,0
+2186,"Cooks, Restaurant",Plan and price menu items.,Mathematical Reasoning,2,0
+2186,"Cooks, Restaurant",Plan and price menu items.,Deductive Reasoning,2,0
+2186,"Cooks, Restaurant",Plan and price menu items.,Number Facility,2,0
+2186,"Cooks, Restaurant",Plan and price menu items.,Originality,1,0
+2187,"Cooks, Short Order","Clean food preparation equipment, work areas, and counters or tables.",Manual Dexterity,1,0
+2187,"Cooks, Short Order","Clean food preparation equipment, work areas, and counters or tables.",Static Strength,1,0
+2187,"Cooks, Short Order","Clean food preparation equipment, work areas, and counters or tables.",Gross Body Coordination,1,0
+2187,"Cooks, Short Order","Clean food preparation equipment, work areas, and counters or tables.",Stamina,1,0
+18725,"Cooks, Short Order","Restock kitchen supplies, rotate food, and stamp the time and date on food in coolers.",Static Strength,2,0
+18725,"Cooks, Short Order","Restock kitchen supplies, rotate food, and stamp the time and date on food in coolers.",Manual Dexterity,1,0
+18725,"Cooks, Short Order","Restock kitchen supplies, rotate food, and stamp the time and date on food in coolers.",Near Vision,1,0
+18725,"Cooks, Short Order","Restock kitchen supplies, rotate food, and stamp the time and date on food in coolers.",Information Ordering,1,0
+2192,"Cooks, Short Order","Complete orders from steam tables, placing food on plates and serving customers at tables or counters.",Manual Dexterity,2,0
+2192,"Cooks, Short Order","Complete orders from steam tables, placing food on plates and serving customers at tables or counters.",Gross Body Coordination,1,0
+2192,"Cooks, Short Order","Complete orders from steam tables, placing food on plates and serving customers at tables or counters.",Near Vision,1,0
+2192,"Cooks, Short Order","Complete orders from steam tables, placing food on plates and serving customers at tables or counters.",Multilimb Coordination,1,0
+2188,"Cooks, Short Order",Plan work on orders so that items served together are finished at the same time.,Time Sharing,3,0
+2188,"Cooks, Short Order",Plan work on orders so that items served together are finished at the same time.,Information Ordering,2,0
+2188,"Cooks, Short Order",Plan work on orders so that items served together are finished at the same time.,Rate Control,1,0
+2189,"Cooks, Short Order","Grill, cook, and fry foods such as french fries, eggs, and pancakes.",Manual Dexterity,2,0
+2189,"Cooks, Short Order","Grill, cook, and fry foods such as french fries, eggs, and pancakes.",Control Precision,2,0
+2189,"Cooks, Short Order","Grill, cook, and fry foods such as french fries, eggs, and pancakes.",Near Vision,1,0
+2189,"Cooks, Short Order","Grill, cook, and fry foods such as french fries, eggs, and pancakes.",Reaction Time,1,0
+2189,"Cooks, Short Order","Grill, cook, and fry foods such as french fries, eggs, and pancakes.",Rate Control,1,0
+18726,"Cooks, Short Order","Perform food preparation tasks, such as making sandwiches, carving meats, making soups or salads, baking breads or desserts, and brewing coffee or tea.",Manual Dexterity,3,0
+18726,"Cooks, Short Order","Perform food preparation tasks, such as making sandwiches, carving meats, making soups or salads, baking breads or desserts, and brewing coffee or tea.",Finger Dexterity,2,0
+18726,"Cooks, Short Order","Perform food preparation tasks, such as making sandwiches, carving meats, making soups or salads, baking breads or desserts, and brewing coffee or tea.",Near Vision,1,0
+18726,"Cooks, Short Order","Perform food preparation tasks, such as making sandwiches, carving meats, making soups or salads, baking breads or desserts, and brewing coffee or tea.",Multilimb Coordination,1,0
+18727,"Cooks, Short Order",Perform general cleaning activities in kitchen and dining areas.,Static Strength,2,0
+18727,"Cooks, Short Order",Perform general cleaning activities in kitchen and dining areas.,Gross Body Coordination,1,0
+18727,"Cooks, Short Order",Perform general cleaning activities in kitchen and dining areas.,Stamina,1,0
+18727,"Cooks, Short Order",Perform general cleaning activities in kitchen and dining areas.,Manual Dexterity,1,0
+2190,"Cooks, Short Order","Take orders from customers and cook foods requiring short preparation times, according to customer requirements.",Oral Comprehension,2,0
+2190,"Cooks, Short Order","Take orders from customers and cook foods requiring short preparation times, according to customer requirements.",Manual Dexterity,2,0
+2190,"Cooks, Short Order","Take orders from customers and cook foods requiring short preparation times, according to customer requirements.",Time Sharing,2,0
+2190,"Cooks, Short Order","Take orders from customers and cook foods requiring short preparation times, according to customer requirements.",Memorization,1,0
+2191,"Cooks, Short Order","Grill and garnish hamburgers or other meats, such as steaks and chops.",Manual Dexterity,2,0
+2191,"Cooks, Short Order","Grill and garnish hamburgers or other meats, such as steaks and chops.",Control Precision,2,0
+2191,"Cooks, Short Order","Grill and garnish hamburgers or other meats, such as steaks and chops.",Near Vision,1,0
+2191,"Cooks, Short Order","Grill and garnish hamburgers or other meats, such as steaks and chops.",Finger Dexterity,1,0
+2194,"Cooks, Short Order",Order supplies and stock them on shelves.,Static Strength,2,0
+2194,"Cooks, Short Order",Order supplies and stock them on shelves.,Number Facility,1,0
+2194,"Cooks, Short Order",Order supplies and stock them on shelves.,Gross Body Coordination,1,0
+2194,"Cooks, Short Order",Order supplies and stock them on shelves.,Manual Dexterity,1,0
+2195,"Cooks, Short Order","Accept payments, and make change or write charge slips as necessary.",Number Facility,3,0
+2195,"Cooks, Short Order","Accept payments, and make change or write charge slips as necessary.",Finger Dexterity,1,0
+2195,"Cooks, Short Order","Accept payments, and make change or write charge slips as necessary.",Near Vision,1,0
+2195,"Cooks, Short Order","Accept payments, and make change or write charge slips as necessary.",Written Expression,1,0
+18728,Food Preparation Workers,"Clean and sanitize work areas, equipment, utensils, dishes, or silverware.",Manual Dexterity,2,0
+18728,Food Preparation Workers,"Clean and sanitize work areas, equipment, utensils, dishes, or silverware.",Static Strength,1,0
+18728,Food Preparation Workers,"Clean and sanitize work areas, equipment, utensils, dishes, or silverware.",Gross Body Coordination,1,0
+18728,Food Preparation Workers,"Clean and sanitize work areas, equipment, utensils, dishes, or silverware.",Stamina,1,0
+2204,Food Preparation Workers,"Assist cooks and kitchen staff with various tasks as needed, and provide cooks with needed items.",Manual Dexterity,1,0
+2204,Food Preparation Workers,"Assist cooks and kitchen staff with various tasks as needed, and provide cooks with needed items.",Oral Comprehension,2,0
+2204,Food Preparation Workers,"Assist cooks and kitchen staff with various tasks as needed, and provide cooks with needed items.",Gross Body Coordination,1,0
+2204,Food Preparation Workers,"Assist cooks and kitchen staff with various tasks as needed, and provide cooks with needed items.",Reaction Time,1,0
+18730,Food Preparation Workers,"Take and record temperature of food and food storage areas, such as refrigerators and freezers.",Near Vision,2,0
+18730,Food Preparation Workers,"Take and record temperature of food and food storage areas, such as refrigerators and freezers.",Written Expression,1,0
+18730,Food Preparation Workers,"Take and record temperature of food and food storage areas, such as refrigerators and freezers.",Number Facility,1,0
+18730,Food Preparation Workers,"Take and record temperature of food and food storage areas, such as refrigerators and freezers.",Selective Attention,1,0

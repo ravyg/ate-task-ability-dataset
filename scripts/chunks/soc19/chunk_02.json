@@ -1,0 +1,782 @@
+[
+{
+"task_id": "202",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Determine methods of cutting and removing timber with minimum waste and environmental damage."
+},
+{
+"task_id": "207",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Perform inspections of forests or forest nurseries."
+},
+{
+"task_id": "208",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Map forest area soils and vegetation to estimate the amount of standing timber and future value and growth."
+},
+{
+"task_id": "204",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Monitor forest-cleared lands to ensure that they are reclaimed to their most suitable end use."
+},
+{
+"task_id": "219",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Develop techniques for measuring and identifying trees."
+},
+{
+"task_id": "197",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Supervise activities of other forestry workers."
+},
+{
+"task_id": "206",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Plan and direct forest surveys and related studies and prepare reports and recommendations."
+},
+{
+"task_id": "216",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Provide advice and recommendations, as a consultant on forestry issues, to private woodlot owners, firefighters, government agencies or to companies."
+},
+{
+"task_id": "199",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Plan and supervise forestry projects, such as determining the type, number and placement of trees to be planted, managing tree nurseries, thinning forest and monitoring growth of new seedlings."
+},
+{
+"task_id": "198",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Choose and prepare sites for new trees, using controlled burning, bulldozers, or herbicides to clear weeds, brush, and logging debris."
+},
+{
+"task_id": "210",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Procure timber from private landowners."
+},
+{
+"task_id": "211",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Subcontract with loggers or pulpwood cutters for tree removal and to aid in road layout."
+},
+{
+"task_id": "201",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Direct, and participate in, forest fire suppression."
+},
+{
+"task_id": "217",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Study different tree species' classification, life history, light and soil requirements, adaptation to new environmental conditions and resistance to disease and insects."
+},
+{
+"task_id": "203",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Analyze effect of forest conditions on tree growth rates and tree species prevalence and the yield, duration, seed production, growth viability, and germination of different species."
+},
+{
+"task_id": "214",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Plan and direct construction and maintenance of recreation facilities, fire towers, trails, roads and bridges, ensuring that they comply with guidelines and regulations set for forested public lands."
+},
+{
+"task_id": "209",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Conduct public educational programs on forest care and conservation."
+},
+{
+"task_id": "213",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Monitor wildlife populations and assess the impacts of forest operations on population and habitats."
+},
+{
+"task_id": "215",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Contact local forest owners and gain permission to take inventory of the type, amount, and location of all standing timber on the property."
+},
+{
+"task_id": "218",
+"soc": "19-1032.00",
+"occupation": "Foresters",
+"task_text": "Develop new techniques for wood or residue use."
+},
+{
+"task_id": "15216",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Communicate research findings on various types of diseases to health practitioners, policy makers, and the public."
+},
+{
+"task_id": "5421",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Oversee public health programs, including statistical analysis, health care planning, surveillance systems, and public health improvement."
+},
+{
+"task_id": "5422",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Investigate diseases or parasites to determine cause and risk factors, progress, life cycle, or mode of transmission."
+},
+{
+"task_id": "15217",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Educate healthcare workers, patients, and the public about infectious and communicable diseases, including disease transmission and prevention."
+},
+{
+"task_id": "15215",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Monitor and report incidents of infectious diseases to local and state health agencies."
+},
+{
+"task_id": "5423",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease."
+},
+{
+"task_id": "5425",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Provide expertise in the design, management and evaluation of study protocols and health status questionnaires, sample selection, and analysis."
+},
+{
+"task_id": "23961",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Write articles for publication in professional journals."
+},
+{
+"task_id": "5429",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Identify and analyze public health issues related to foodborne parasitic diseases and their impact on public policies, scientific studies, or surveys."
+},
+{
+"task_id": "23962",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Write grant applications to fund epidemiologic research."
+},
+{
+"task_id": "5424",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Plan, administer and evaluate health safety standards and programs to improve public health, conferring with health department, industry personnel, physicians, and others."
+},
+{
+"task_id": "5426",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings."
+},
+{
+"task_id": "5427",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Consult with and advise physicians, educators, researchers, government health officials and others regarding medical applications of sciences, such as physics, biology, and chemistry."
+},
+{
+"task_id": "5428",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Supervise professional, technical, and clerical personnel."
+},
+{
+"task_id": "5430",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians."
+},
+{
+"task_id": "5432",
+"soc": "19-1041.00",
+"occupation": "Epidemiologists",
+"task_text": "Prepare and analyze samples to study effects of drugs, gases, pesticides, or microorganisms on cell structure and tissue."
+},
+{
+"task_id": "7514",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Follow strict safety procedures when handling toxic materials to avoid contamination."
+},
+{
+"task_id": "7515",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Evaluate effects of drugs, gases, pesticides, parasites, and microorganisms at various levels."
+},
+{
+"task_id": "7513",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease."
+},
+{
+"task_id": "7517",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Prepare and analyze organ, tissue, and cell samples to identify toxicity, bacteria, or microorganisms or to study cell structure."
+},
+{
+"task_id": "20200",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings to the scientific audience and general public."
+},
+{
+"task_id": "7516",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians."
+},
+{
+"task_id": "20201",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Write and publish articles in scientific journals."
+},
+{
+"task_id": "23906",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Write applications for research grants."
+},
+{
+"task_id": "7518",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Standardize drug dosages, methods of immunization, and procedures for manufacture of drugs and medicinal compounds."
+},
+{
+"task_id": "7521",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Study animal and human health and physiological processes."
+},
+{
+"task_id": "7519",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Investigate cause, progress, life cycle, or mode of transmission of diseases or parasites."
+},
+{
+"task_id": "7523",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Use equipment such as atomic absorption spectrometers, electron microscopes, flow cytometers, or chromatography systems."
+},
+{
+"task_id": "7520",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Confer with health departments, industry personnel, physicians, and others to develop health safety standards and public health improvement programs."
+},
+{
+"task_id": "7522",
+"soc": "19-1042.00",
+"occupation": "Medical Scientists, Except Epidemiologists",
+"task_text": "Consult with and advise physicians, educators, researchers, and others regarding medical applications of physics, biology, and chemistry."
+},
+{
+"task_id": "7525",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Analyze research data to determine its significance, using computers."
+},
+{
+"task_id": "7526",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Present research findings at scientific conferences and in papers written for scientific journals."
+},
+{
+"task_id": "7524",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Study celestial phenomena, using a variety of ground-based and space-borne telescopes and scientific instruments."
+},
+{
+"task_id": "7530",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Collaborate with other astronomers to carry out research projects."
+},
+{
+"task_id": "21171",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Mentor graduate students and junior colleagues."
+},
+{
+"task_id": "21172",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Supervise students' research on celestial and astronomical phenomena."
+},
+{
+"task_id": "7532",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Teach astronomy or astrophysics."
+},
+{
+"task_id": "7528",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Develop theories based on personal observations or on observations and theories of other astronomers."
+},
+{
+"task_id": "7527",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Measure radio, infrared, gamma, and x-ray emissions from extraterrestrial sources."
+},
+{
+"task_id": "7531",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Develop instrumentation and software for astronomical observation and analysis."
+},
+{
+"task_id": "20049",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Review scientific proposals and research papers."
+},
+{
+"task_id": "7529",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Raise funds for scientific research."
+},
+{
+"task_id": "7533",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Develop and modify astronomy-related programs for public presentation."
+},
+{
+"task_id": "20050",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Serve on professional panels and committees."
+},
+{
+"task_id": "7534",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Calculate orbits and determine sizes, shapes, brightness, and motions of different celestial bodies."
+},
+{
+"task_id": "21173",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Conduct question-and-answer presentations on astronomy topics with public audiences."
+},
+{
+"task_id": "7535",
+"soc": "19-2011.00",
+"occupation": "Astronomers",
+"task_text": "Direct the operations of a planetarium."
+},
+{
+"task_id": "10903",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Perform complex calculations as part of the analysis and evaluation of data, using computers."
+},
+{
+"task_id": "10905",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Analyze data from research conducted to detect and measure physical phenomena."
+},
+{
+"task_id": "10904",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Describe and express observations and conclusions in mathematical terms."
+},
+{
+"task_id": "10907",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Design computer simulations to model physical data so that it can be better understood."
+},
+{
+"task_id": "21174",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Write research proposals to receive funding."
+},
+{
+"task_id": "10912",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Teach physics to students."
+},
+{
+"task_id": "10906",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Report experimental results by writing papers for scientific journals or by presenting information at scientific conferences."
+},
+{
+"task_id": "10910",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Observe the structure and properties of matter, and the transformation and propagation of energy, using equipment such as masers, lasers, and telescopes, to explore and identify the basic principles governing these phenomena."
+},
+{
+"task_id": "10911",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Develop theories and laws on the basis of observation and experiments, and apply these theories and laws to problems in areas such as nuclear energy, optics, and aerospace technology."
+},
+{
+"task_id": "10908",
+"soc": "19-2012.00",
+"occupation": "Physicists",
+"task_text": "Collaborate with other scientists in the design, development, and testing of experimental, industrial, or medical equipment, instrumentation, and procedures."
+},
+{
+"task_id": "20208",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Develop or use mathematical or computer models for weather forecasting."
+},
+{
+"task_id": "20209",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Interpret data, reports, maps, photographs, or charts to predict long- or short-range weather conditions, using computer models and knowledge of climate theory, physics, and mathematics."
+},
+{
+"task_id": "20210",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Conduct meteorological research into the processes or determinants of atmospheric phenomena, weather, or climate."
+},
+{
+"task_id": "19759",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Formulate predictions by interpreting environmental data, such as meteorological, atmospheric, oceanic, paleoclimate, climate, or related information."
+},
+{
+"task_id": "9068",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Broadcast weather conditions, forecasts, or severe weather warnings to the public via television, radio, or the Internet or provide this information to the news media."
+},
+{
+"task_id": "9070",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Prepare forecasts or briefings to meet the needs of industry, business, government, or other groups."
+},
+{
+"task_id": "9069",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Gather data from sources such as surface or upper air stations, satellites, weather bureaus, or radar for use in meteorological reports or forecasts."
+},
+{
+"task_id": "21104",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Develop computer programs to collect meteorological data or to present meteorological information."
+},
+{
+"task_id": "20206",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Prepare weather reports or maps for analysis, distribution, or use in weather broadcasts, using computer graphics."
+},
+{
+"task_id": "21105",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Develop and deliver training on weather topics."
+},
+{
+"task_id": "20211",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Prepare scientific atmospheric or climate reports, articles, or texts."
+},
+{
+"task_id": "19755",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Analyze climate data sets, using techniques such as geophysical fluid dynamics, data assimilation, or numerical modeling."
+},
+{
+"task_id": "20205",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Analyze historical climate information, such as precipitation or temperature records, to help predict future weather or climate trends."
+},
+{
+"task_id": "20203",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Consult with other offices, agencies, professionals, or researchers regarding the use and interpretation of climatological information for weather predictions and warnings."
+},
+{
+"task_id": "21103",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Speak to the public to discuss weather topics or answer questions."
+},
+{
+"task_id": "20207",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Apply meteorological knowledge to issues such as global warming, pollution control, or ozone depletion."
+},
+{
+"task_id": "20202",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Perform managerial duties, such as creating work schedules, creating or implementing staff training, matching staff expertise to situations, or analyzing performance of offices."
+},
+{
+"task_id": "9074",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Measure wind, temperature, and humidity in the upper atmosphere, using weather balloons."
+},
+{
+"task_id": "9076",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Direct forecasting services at weather stations or at radio or television broadcasting facilities."
+},
+{
+"task_id": "9078",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Collect air samples from planes or ships over land or sea to study atmospheric composition."
+},
+{
+"task_id": "20204",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Teach college-level courses on topics such as atmospheric and space science, meteorology, or global climate change."
+},
+{
+"task_id": "9083",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Design or develop new equipment or methods for meteorological data collection, remote sensing, or related applications."
+},
+{
+"task_id": "20212",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Research the impact of industrial projects or pollution on climate, air quality, or weather phenomena."
+},
+{
+"task_id": "19756",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Conduct wind assessment, integration, or validation studies."
+},
+{
+"task_id": "9079",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Conduct numerical simulations of climate conditions to understand and predict global or regional weather patterns."
+},
+{
+"task_id": "19758",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Estimate or predict the effects of global warming over time for specific geographic regions."
+},
+{
+"task_id": "19757",
+"soc": "19-2021.00",
+"occupation": "Atmospheric and Space Scientists",
+"task_text": "Create visualizations to illustrate historical or future changes in the Earth's climate, using paleoclimate or climate geographic information systems (GIS) databases."
+},
+{
+"task_id": "1506",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Develop, improve, or customize products, equipment, formulas, processes, or analytical methods."
+},
+{
+"task_id": "1505",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques."
+},
+{
+"task_id": "1510",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Induce changes in composition of substances by introducing heat, light, energy, or chemical catalysts for quantitative or qualitative analysis."
+},
+{
+"task_id": "18475",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Conduct quality control tests."
+},
+{
+"task_id": "1511",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Write technical papers or reports or prepare standards and specifications for processes, facilities, products, or tests."
+},
+{
+"task_id": "18474",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Maintain laboratory instruments to ensure proper working order and troubleshoot malfunctions when needed."
+},
+{
+"task_id": "1513",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Prepare test solutions, compounds, or reagents for laboratory personnel to conduct tests."
+},
+{
+"task_id": "1507",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Compile and analyze test information to determine process or equipment operating efficiency or to diagnose malfunctions."
+},
+{
+"task_id": "1508",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Confer with scientists or engineers to conduct analyses of research projects, interpret test results, or develop nonstandard tests."
+},
+{
+"task_id": "20388",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Evaluate laboratory safety procedures to ensure compliance with standards or to make improvements as needed."
+},
+{
+"task_id": "1509",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Direct, coordinate, or advise personnel in test procedures for analyzing components or physical properties of materials."
+},
+{
+"task_id": "20389",
+"soc": "19-2031.00",
+"occupation": "Chemists",
+"task_text": "Purchase laboratory supplies, such as chemicals, when supplies are low or near their expiration date."
+},
+{
+"task_id": "9087",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Conduct research on the structures and properties of materials, such as metals, alloys, polymers, and ceramics, to obtain information that could be used to develop new products or enhance existing ones."
+},
+{
+"task_id": "9098",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Test metals to determine conformance to specifications of mechanical strength, strength-weight ratio, ductility, magnetic and electrical properties, and resistance to abrasion, corrosion, heat, and cold."
+},
+{
+"task_id": "9097",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Test material samples for tolerance under tension, compression, and shear to determine the cause of metal failures."
+},
+{
+"task_id": "9090",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Determine ways to strengthen or combine materials or develop new materials with new or specific properties for use in a variety of products and applications."
+},
+{
+"task_id": "20214",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Prepare reports, manuscripts, proposals, and technical manuals for use by other scientists and requestors, such as sponsors and customers."
+},
+{
+"task_id": "9085",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Plan laboratory experiments to confirm feasibility of processes and techniques used in the production of materials with special characteristics."
+},
+{
+"task_id": "9091",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Recommend materials for reliable performance in various environments."
+},
+{
+"task_id": "20215",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Supervise and monitor production processes to ensure efficient use of equipment, timely changes to specifications, and project completion within time frame and budget."
+},
+{
+"task_id": "9094",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Research methods of processing, forming, and firing materials to develop such products as ceramic dental fillings, unbreakable dinner plates, and telescope lenses."
+},
+{
+"task_id": "20213",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Perform experiments and computer modeling to study the nature, structure, and physical and chemical properties of metals and their alloys, and their responses to applied forces."
+},
+{
+"task_id": "9089",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Devise testing methods to evaluate the effects of various conditions on particular materials."
+},
+{
+"task_id": "9092",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Test individual parts and products to ensure that manufacturer and governmental quality and safety standards are met."
+},
+{
+"task_id": "9086",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Confer with customers to determine how to tailor materials to their needs."
+},
+{
+"task_id": "9093",
+"soc": "19-2032.00",
+"occupation": "Materials Scientists",
+"task_text": "Visit suppliers of materials or users of products to gather specific information."
+}
+]

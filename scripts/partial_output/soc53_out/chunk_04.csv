@@ -1,0 +1,539 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Manual Dexterity,2,0
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Static Strength,2,0
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Dynamic Strength,2,0
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Trunk Strength,1,0
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Stamina,1,0
+14550,Motorboat Operators,Perform general labor duties such as repairing booms.,Multilimb Coordination,1,1
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",Selective Attention,3,0
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",Near Vision,2,0
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",Auditory Attention,2,0
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",Problem Sensitivity,2,0
+14553,Ship Engineers,"Monitor engine, machinery, or equipment indicators when vessels are underway, and report abnormalities to appropriate shipboard staff.",Oral Expression,1,0
+14552,Ship Engineers,"Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed.",Selective Attention,2,0
+14552,Ship Engineers,"Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed.",Near Vision,2,0
+14552,Ship Engineers,"Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed.",Problem Sensitivity,2,0
+14552,Ship Engineers,"Monitor the availability, use, or condition of lifesaving equipment or pollution preventatives to ensure that international regulations are followed.",Information Ordering,1,0
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,Problem Sensitivity,3,0
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,Selective Attention,2,0
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,Near Vision,2,0
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,Auditory Attention,2,0
+14559,Ship Engineers,Monitor and test operations of engines or other equipment so that malfunctions and their causes can be identified.,Deductive Reasoning,2,0
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",Control Precision,3,0
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",Rate Control,2,0
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",Multilimb Coordination,2,0
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",Reaction Time,2,0
+14558,Ship Engineers,"Start engines to propel ships, and regulate engines and power transmissions to control speeds of ships, according to directions from captains or bridge computers.",Near Vision,1,0
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",Reaction Time,2,0
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",Multilimb Coordination,2,0
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",Gross Body Coordination,2,0
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",Stamina,1,0
+14556,Ship Engineers,"Perform or participate in emergency drills, as required.",Oral Comprehension,1,1
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",Manual Dexterity,3,0
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",Static Strength,2,0
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",Dynamic Strength,2,0
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",Arm-Hand Steadiness,1,0
+14561,Ship Engineers,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",Trunk Strength,1,0
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",Manual Dexterity,3,0
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",Finger Dexterity,2,0
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",Arm-Hand Steadiness,2,0
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",Static Strength,2,0
+14560,Ship Engineers,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",Problem Sensitivity,2,0
+14557,Ship Engineers,"Maintain complete records of engineering department activities, including machine operations.",Written Expression,2,0
+14557,Ship Engineers,"Maintain complete records of engineering department activities, including machine operations.",Information Ordering,2,0
+14557,Ship Engineers,"Maintain complete records of engineering department activities, including machine operations.",Near Vision,1,0
+14557,Ship Engineers,"Maintain complete records of engineering department activities, including machine operations.",Memorization,1,0
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,Control Precision,2,0
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,Manual Dexterity,2,0
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,Multilimb Coordination,1,0
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,Near Vision,1,0
+14562,Ship Engineers,Operate or maintain off-loading liquid pumps or valves.,Arm-Hand Steadiness,1,0
+14554,Ship Engineers,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",Manual Dexterity,3,0
+14554,Ship Engineers,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",Finger Dexterity,2,0
+14554,Ship Engineers,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",Problem Sensitivity,2,0
+14554,Ship Engineers,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",Static Strength,1,0
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",Manual Dexterity,3,0
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",Static Strength,2,0
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",Arm-Hand Steadiness,2,0
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",Multilimb Coordination,2,0
+14567,Ship Engineers,"Install engine controls, propeller shafts, or propellers.",Finger Dexterity,1,0
+14563,Ship Engineers,Clean engine parts and keep engine rooms clean.,Manual Dexterity,2,0
+14563,Ship Engineers,Clean engine parts and keep engine rooms clean.,Static Strength,1,0
+14563,Ship Engineers,Clean engine parts and keep engine rooms clean.,Stamina,1,0
+14563,Ship Engineers,Clean engine parts and keep engine rooms clean.,Near Vision,1,0
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",Near Vision,2,0
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",Perceptual Speed,2,0
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",Written Expression,1,0
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",Number Facility,1,0
+14555,Ship Engineers,"Record orders for changes in ship speed or direction, and note gauge readings or test data, such as revolutions per minute or voltage output, in engineering logs or bellbooks.",Information Ordering,1,0
+14565,Ship Engineers,"Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies.",Information Ordering,2,0
+14565,Ship Engineers,"Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies.",Number Facility,1,0
+14565,Ship Engineers,"Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies.",Written Expression,1,0
+14565,Ship Engineers,"Order and receive engine room stores, such as oil or spare parts, maintain inventories, and record usage of supplies.",Memorization,1,0
+14566,Ship Engineers,Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,Oral Expression,3,0
+14566,Ship Engineers,Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,Oral Comprehension,2,0
+14566,Ship Engineers,Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,Information Ordering,1,0
+14566,Ship Engineers,Act as a liaison between a ship's captain and shore personnel to ensure that schedules and budgets are maintained and that the ship is operated safely and efficiently.,Deductive Reasoning,1,0
+14564,Ship Engineers,"Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly.",Oral Expression,2,0
+14564,Ship Engineers,"Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly.",Problem Sensitivity,2,0
+14564,Ship Engineers,"Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly.",Near Vision,1,0
+14564,Ship Engineers,"Supervise marine engine technicians engaged in the maintenance or repair of mechanical or electrical marine vessels, and inspect their work to ensure that it is performed properly.",Deductive Reasoning,1,0
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",Manual Dexterity,3,0
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",Finger Dexterity,2,0
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",Control Precision,2,0
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",Near Vision,2,0
+14568,Ship Engineers,"Fabricate engine replacement parts, such as valves, stay rods, or bolts, using metalworking machinery.",Static Strength,1,0
+7152,Bridge and Lock Tenders,"Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.",Control Precision,3,0
+7152,Bridge and Lock Tenders,"Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.",Multilimb Coordination,2,0
+7152,Bridge and Lock Tenders,"Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.",Near Vision,1,0
+7152,Bridge and Lock Tenders,"Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.",Reaction Time,1,0
+7153,Bridge and Lock Tenders,"Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.",Oral Expression,2,0
+7153,Bridge and Lock Tenders,"Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.",Far Vision,2,0
+7153,Bridge and Lock Tenders,"Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.",Selective Attention,2,0
+7153,Bridge and Lock Tenders,"Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.",Depth Perception,1,0
+7156,Bridge and Lock Tenders,Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.,Far Vision,2,0
+7156,Bridge and Lock Tenders,Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.,Depth Perception,2,0
+7156,Bridge and Lock Tenders,Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.,Selective Attention,2,0
+7156,Bridge and Lock Tenders,Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.,Spatial Orientation,1,0
+7151,Bridge and Lock Tenders,"Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.",Near Vision,2,0
+7151,Bridge and Lock Tenders,"Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.",Written Expression,1,0
+7151,Bridge and Lock Tenders,"Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.",Memorization,1,0
+7151,Bridge and Lock Tenders,"Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.",Perceptual Speed,1,0
+7155,Bridge and Lock Tenders,"Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.",Far Vision,2,0
+7155,Bridge and Lock Tenders,"Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.",Auditory Attention,2,0
+7155,Bridge and Lock Tenders,"Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.",Depth Perception,1,0
+7155,Bridge and Lock Tenders,"Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.",Sound Localization,1,0
+7150,Bridge and Lock Tenders,"Move levers to activate traffic signals, navigation lights, and alarms.",Control Precision,2,0
+7150,Bridge and Lock Tenders,"Move levers to activate traffic signals, navigation lights, and alarms.",Reaction Time,1,0
+7150,Bridge and Lock Tenders,"Move levers to activate traffic signals, navigation lights, and alarms.",Manual Dexterity,1,1
+7150,Bridge and Lock Tenders,"Move levers to activate traffic signals, navigation lights, and alarms.",Multilimb Coordination,1,0
+7161,Bridge and Lock Tenders,Write and submit maintenance work requisitions.,Written Expression,2,0
+7161,Bridge and Lock Tenders,Write and submit maintenance work requisitions.,Information Ordering,1,0
+7161,Bridge and Lock Tenders,Write and submit maintenance work requisitions.,Near Vision,1,0
+7161,Bridge and Lock Tenders,Write and submit maintenance work requisitions.,Memorization,1,0
+7160,Bridge and Lock Tenders,"Log data, such as water levels and weather conditions.",Near Vision,1,0
+7160,Bridge and Lock Tenders,"Log data, such as water levels and weather conditions.",Written Expression,1,0
+7160,Bridge and Lock Tenders,"Log data, such as water levels and weather conditions.",Perceptual Speed,1,0
+7160,Bridge and Lock Tenders,"Log data, such as water levels and weather conditions.",Information Ordering,1,0
+7154,Bridge and Lock Tenders,Prepare accident reports.,Written Expression,2,0
+7154,Bridge and Lock Tenders,Prepare accident reports.,Information Ordering,1,0
+7154,Bridge and Lock Tenders,Prepare accident reports.,Memorization,1,0
+7154,Bridge and Lock Tenders,Prepare accident reports.,Near Vision,1,0
+7162,Bridge and Lock Tenders,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",Static Strength,2,0
+7162,Bridge and Lock Tenders,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",Stamina,2,0
+7162,Bridge and Lock Tenders,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",Gross Body Coordination,1,0
+7162,Bridge and Lock Tenders,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",Trunk Strength,1,0
+7164,Bridge and Lock Tenders,Turn valves to increase or decrease water levels in locks.,Manual Dexterity,2,0
+7164,Bridge and Lock Tenders,Turn valves to increase or decrease water levels in locks.,Control Precision,1,0
+7164,Bridge and Lock Tenders,Turn valves to increase or decrease water levels in locks.,Static Strength,1,0
+7164,Bridge and Lock Tenders,Turn valves to increase or decrease water levels in locks.,Arm-Hand Steadiness,1,0
+7163,Bridge and Lock Tenders,Check that bridges are clear of vehicles and pedestrians prior to opening.,Far Vision,2,0
+7163,Bridge and Lock Tenders,Check that bridges are clear of vehicles and pedestrians prior to opening.,Near Vision,1,0
+7163,Bridge and Lock Tenders,Check that bridges are clear of vehicles and pedestrians prior to opening.,Selective Attention,2,0
+7163,Bridge and Lock Tenders,Check that bridges are clear of vehicles and pedestrians prior to opening.,Peripheral Vision,1,0
+7165,Bridge and Lock Tenders,"Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.",Control Precision,2,0
+7165,Bridge and Lock Tenders,"Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.",Reaction Time,2,0
+7165,Bridge and Lock Tenders,"Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.",Far Vision,1,0
+7165,Bridge and Lock Tenders,"Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.",Selective Attention,1,0
+7166,Bridge and Lock Tenders,Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.,Control Precision,2,0
+7166,Bridge and Lock Tenders,Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.,Far Vision,2,0
+7166,Bridge and Lock Tenders,Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.,Multilimb Coordination,1,0
+7166,Bridge and Lock Tenders,Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.,Selective Attention,1,0
+7157,Bridge and Lock Tenders,Maintain and guard stations in bridges to check waterways for boat traffic.,Far Vision,2,0
+7157,Bridge and Lock Tenders,Maintain and guard stations in bridges to check waterways for boat traffic.,Selective Attention,2,0
+7157,Bridge and Lock Tenders,Maintain and guard stations in bridges to check waterways for boat traffic.,Depth Perception,1,0
+7157,Bridge and Lock Tenders,Maintain and guard stations in bridges to check waterways for boat traffic.,Near Vision,1,0
+7159,Bridge and Lock Tenders,"Clean and lubricate equipment, and make minor repairs and adjustments.",Manual Dexterity,2,0
+7159,Bridge and Lock Tenders,"Clean and lubricate equipment, and make minor repairs and adjustments.",Finger Dexterity,1,0
+7159,Bridge and Lock Tenders,"Clean and lubricate equipment, and make minor repairs and adjustments.",Static Strength,1,0
+7159,Bridge and Lock Tenders,"Clean and lubricate equipment, and make minor repairs and adjustments.",Arm-Hand Steadiness,1,0
+7158,Bridge and Lock Tenders,"Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.",Near Vision,2,0
+7158,Bridge and Lock Tenders,"Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.",Problem Sensitivity,2,0
+7158,Bridge and Lock Tenders,"Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.",Far Vision,1,0
+7158,Bridge and Lock Tenders,"Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.",Oral Expression,1,0
+7169,Bridge and Lock Tenders,Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.,Manual Dexterity,2,0
+7169,Bridge and Lock Tenders,Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.,Static Strength,2,0
+7169,Bridge and Lock Tenders,Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.,Arm-Hand Steadiness,1,0
+7169,Bridge and Lock Tenders,Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.,Gross Body Equilibrium,1,0
+3187,Parking Attendants,"Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles.",Memorization,2,0
+3187,Parking Attendants,"Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles.",Oral Expression,1,0
+3187,Parking Attendants,"Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles.",Near Vision,1,0
+3187,Parking Attendants,"Take numbered tags from customers, locate vehicles, and deliver vehicles, or provide customers with instructions for locating vehicles.",Spatial Orientation,1,0
+3196,Parking Attendants,Inspect vehicles to detect any damage.,Near Vision,2,0
+3196,Parking Attendants,Inspect vehicles to detect any damage.,Problem Sensitivity,1,0
+3196,Parking Attendants,Inspect vehicles to detect any damage.,Selective Attention,1,0
+3196,Parking Attendants,Inspect vehicles to detect any damage.,Flexibility of Closure,1,0
+3192,Parking Attendants,Greet customers and open their car doors.,Oral Expression,1,0
+3192,Parking Attendants,Greet customers and open their car doors.,Manual Dexterity,1,0
+3192,Parking Attendants,Greet customers and open their car doors.,Gross Body Coordination,1,1
+3192,Parking Attendants,Greet customers and open their car doors.,Speech Clarity,1,0
+20835,Parking Attendants,"Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles.",Finger Dexterity,1,0
+20835,Parking Attendants,"Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles.",Near Vision,1,0
+20835,Parking Attendants,"Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles.",Information Ordering,1,0
+20835,Parking Attendants,"Issue ticket stubs or place numbered tags on windshields, log tags or attach tag to customers' keys, and give customers matching tags for locating parked vehicles.",Memorization,1,0
+20836,Parking Attendants,"Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips.",Number Facility,2,0
+20836,Parking Attendants,"Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips.",Finger Dexterity,1,0
+20836,Parking Attendants,"Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips.",Near Vision,1,0
+20836,Parking Attendants,"Perform cash handling tasks, such as making change, balancing and recording cash drawer, or distributing tips.",Perceptual Speed,1,0
+20837,Parking Attendants,"Explain and calculate parking charges, collect fees from customers, and respond to customer complaints.",Number Facility,2,0
+20837,Parking Attendants,"Explain and calculate parking charges, collect fees from customers, and respond to customer complaints.",Oral Expression,2,0
+20837,Parking Attendants,"Explain and calculate parking charges, collect fees from customers, and respond to customer complaints.",Oral Comprehension,1,0
+20837,Parking Attendants,"Explain and calculate parking charges, collect fees from customers, and respond to customer complaints.",Mathematical Reasoning,1,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Control Precision,3,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Depth Perception,2,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Spatial Orientation,2,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Multilimb Coordination,2,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Reaction Time,1,0
+3191,Parking Attendants,"Park and retrieve automobiles for customers in parking lots, storage garages, or new car lots.",Near Vision,1,0
+20838,Parking Attendants,"Provide customer assistance and information, such as giving directions or handling wheelchairs.",Oral Expression,2,0
+20838,Parking Attendants,"Provide customer assistance and information, such as giving directions or handling wheelchairs.",Static Strength,1,0
+20838,Parking Attendants,"Provide customer assistance and information, such as giving directions or handling wheelchairs.",Manual Dexterity,1,0
+20838,Parking Attendants,"Provide customer assistance and information, such as giving directions or handling wheelchairs.",Oral Comprehension,1,0
+3188,Parking Attendants,Keep parking areas clean and orderly to ensure that space usage is maximized.,Stamina,1,0
+3188,Parking Attendants,Keep parking areas clean and orderly to ensure that space usage is maximized.,Static Strength,1,0
+3188,Parking Attendants,Keep parking areas clean and orderly to ensure that space usage is maximized.,Gross Body Coordination,1,0
+3188,Parking Attendants,Keep parking areas clean and orderly to ensure that space usage is maximized.,Trunk Strength,1,0
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",Oral Expression,2,0
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",Manual Dexterity,1,0
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",Static Strength,1,0
+20839,Parking Attendants,"Call emergency responders or the proper authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle.",Problem Sensitivity,1,0
+3190,Parking Attendants,Patrol parking areas to prevent vehicle damage and vehicle or property thefts.,Selective Attention,2,0
+3190,Parking Attendants,Patrol parking areas to prevent vehicle damage and vehicle or property thefts.,Far Vision,1,0
+3190,Parking Attendants,Patrol parking areas to prevent vehicle damage and vehicle or property thefts.,Stamina,1,0
+3190,Parking Attendants,Patrol parking areas to prevent vehicle damage and vehicle or property thefts.,Near Vision,1,0
+3189,Parking Attendants,"Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary.",Response Orientation,2,0
+3189,Parking Attendants,"Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary.",Arm-Hand Steadiness,1,0
+3189,Parking Attendants,"Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary.",Far Vision,1,0
+3189,Parking Attendants,"Direct motorists to parking areas or parking spaces, using hand signals or flashlights as necessary.",Reaction Time,1,0
+3198,Parking Attendants,Escort customers to their vehicles to ensure their safety.,Selective Attention,1,0
+3198,Parking Attendants,Escort customers to their vehicles to ensure their safety.,Gross Body Coordination,1,0
+3198,Parking Attendants,Escort customers to their vehicles to ensure their safety.,Near Vision,1,0
+3198,Parking Attendants,Escort customers to their vehicles to ensure their safety.,Gross Body Equilibrium,1,0
+3200,Parking Attendants,"Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration.",Manual Dexterity,2,0
+3200,Parking Attendants,"Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration.",Static Strength,1,0
+3200,Parking Attendants,"Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration.",Near Vision,1,0
+3200,Parking Attendants,"Perform maintenance on cars in storage to protect tires, batteries, or exteriors from deterioration.",Arm-Hand Steadiness,1,0
+3195,Parking Attendants,"Lift, position, and remove barricades to open or close parking areas.",Static Strength,3,0
+3195,Parking Attendants,"Lift, position, and remove barricades to open or close parking areas.",Trunk Strength,2,0
+3195,Parking Attendants,"Lift, position, and remove barricades to open or close parking areas.",Dynamic Strength,1,0
+3195,Parking Attendants,"Lift, position, and remove barricades to open or close parking areas.",Gross Body Coordination,1,0
+10712,Automotive and Watercraft Service Attendants,"Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts.",Number Facility,2,0
+10712,Automotive and Watercraft Service Attendants,"Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts.",Finger Dexterity,1,0
+10712,Automotive and Watercraft Service Attendants,"Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts.",Near Vision,1,0
+10712,Automotive and Watercraft Service Attendants,"Collect cash payments from customers, and make change or charge purchases to customers' credit cards, providing customers with receipts.",Perceptual Speed,1,0
+20936,Automotive and Watercraft Service Attendants,"Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required.",Near Vision,2,0
+20936,Automotive and Watercraft Service Attendants,"Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required.",Manual Dexterity,2,0
+20936,Automotive and Watercraft Service Attendants,"Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required.",Arm-Hand Steadiness,1,0
+20936,Automotive and Watercraft Service Attendants,"Check tire pressure and levels of fuel, motor oil, transmission, radiator, battery, or other fluids, adding air or fluids as required.",Control Precision,1,0
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",Manual Dexterity,3,0
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",Finger Dexterity,2,0
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",Arm-Hand Steadiness,2,0
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",Static Strength,1,0
+10719,Automotive and Watercraft Service Attendants,"Perform minor repairs, such as adjusting brakes, replacing spark plugs, or changing engine oil or filters.",Near Vision,1,0
+10715,Automotive and Watercraft Service Attendants,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",Static Strength,1,0
+10715,Automotive and Watercraft Service Attendants,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",Stamina,1,0
+10715,Automotive and Watercraft Service Attendants,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",Gross Body Coordination,1,0
+10715,Automotive and Watercraft Service Attendants,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",Trunk Strength,1,0
+10720,Automotive and Watercraft Service Attendants,"Order stock, and price and shelve incoming goods.",Static Strength,1,0
+10720,Automotive and Watercraft Service Attendants,"Order stock, and price and shelve incoming goods.",Number Facility,1,0
+10720,Automotive and Watercraft Service Attendants,"Order stock, and price and shelve incoming goods.",Near Vision,1,0
+10720,Automotive and Watercraft Service Attendants,"Order stock, and price and shelve incoming goods.",Information Ordering,1,0
+10725,Automotive and Watercraft Service Attendants,"Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps.",Manual Dexterity,2,0
+10725,Automotive and Watercraft Service Attendants,"Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps.",Finger Dexterity,2,0
+10725,Automotive and Watercraft Service Attendants,"Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps.",Oral Expression,1,0
+10725,Automotive and Watercraft Service Attendants,"Sell and install accessories, such as batteries, windshield wiper blades, fan belts, bulbs, or headlamps.",Static Strength,1,0
+10724,Automotive and Watercraft Service Attendants,"Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants.",Manual Dexterity,2,0
+10724,Automotive and Watercraft Service Attendants,"Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants.",Arm-Hand Steadiness,2,0
+10724,Automotive and Watercraft Service Attendants,"Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants.",Static Strength,1,0
+10724,Automotive and Watercraft Service Attendants,"Grease and lubricate vehicles or specified units, such as springs, universal joints, or steering knuckles, using grease guns or spray lubricants.",Near Vision,1,0
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",Static Strength,2,0
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",Dynamic Strength,2,0
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",Manual Dexterity,2,0
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",Multilimb Coordination,1,0
+10721,Automotive and Watercraft Service Attendants,"Rotate, test, and repair or replace tires.",Trunk Strength,1,0
+10714,Automotive and Watercraft Service Attendants,"Prepare daily reports of fuel, oil, and accessory sales.",Number Facility,2,0
+10714,Automotive and Watercraft Service Attendants,"Prepare daily reports of fuel, oil, and accessory sales.",Written Expression,1,0
+10714,Automotive and Watercraft Service Attendants,"Prepare daily reports of fuel, oil, and accessory sales.",Information Ordering,1,0
+10714,Automotive and Watercraft Service Attendants,"Prepare daily reports of fuel, oil, and accessory sales.",Near Vision,1,0
+20937,Automotive and Watercraft Service Attendants,Clean windshields.,Manual Dexterity,1,0
+20937,Automotive and Watercraft Service Attendants,Clean windshields.,Arm-Hand Steadiness,1,0
+20937,Automotive and Watercraft Service Attendants,Clean windshields.,Near Vision,1,0
+20937,Automotive and Watercraft Service Attendants,Clean windshields.,Extent Flexibility,1,0
+10713,Automotive and Watercraft Service Attendants,Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels.,Manual Dexterity,2,0
+10713,Automotive and Watercraft Service Attendants,Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels.,Near Vision,1,0
+10713,Automotive and Watercraft Service Attendants,Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels.,Control Precision,1,0
+10713,Automotive and Watercraft Service Attendants,Activate fuel pumps and fill fuel tanks of vehicles with gasoline or diesel fuel to specified levels.,Arm-Hand Steadiness,1,0
+10726,Automotive and Watercraft Service Attendants,Test and charge batteries.,Manual Dexterity,2,0
+10726,Automotive and Watercraft Service Attendants,Test and charge batteries.,Near Vision,1,0
+10726,Automotive and Watercraft Service Attendants,Test and charge batteries.,Static Strength,1,0
+10726,Automotive and Watercraft Service Attendants,Test and charge batteries.,Arm-Hand Steadiness,1,0
+10723,Automotive and Watercraft Service Attendants,"Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due.",Written Expression,1,0
+10723,Automotive and Watercraft Service Attendants,"Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due.",Oral Expression,1,0
+10723,Automotive and Watercraft Service Attendants,"Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due.",Memorization,1,0
+10723,Automotive and Watercraft Service Attendants,"Maintain customer records and follow up periodically with telephone, mail, or personal reminders of services due.",Information Ordering,1,0
+10718,Automotive and Watercraft Service Attendants,Provide customers with information about local roads or highways.,Oral Expression,2,0
+10718,Automotive and Watercraft Service Attendants,Provide customers with information about local roads or highways.,Memorization,1,0
+10718,Automotive and Watercraft Service Attendants,Provide customers with information about local roads or highways.,Spatial Orientation,1,1
+10718,Automotive and Watercraft Service Attendants,Provide customers with information about local roads or highways.,Oral Comprehension,1,0
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,Control Precision,2,0
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,Arm-Hand Steadiness,2,0
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,Gross Body Equilibrium,2,0
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,Near Vision,1,0
+23832,Aircraft Service Attendants,Apply de-icing fluid to aircraft from baskets lifted by truck-mounted cranes.,Manual Dexterity,1,0
+23833,Aircraft Service Attendants,"Change aircraft oil, coolant, or other fluids.",Manual Dexterity,2,0
+23833,Aircraft Service Attendants,"Change aircraft oil, coolant, or other fluids.",Arm-Hand Steadiness,1,0
+23833,Aircraft Service Attendants,"Change aircraft oil, coolant, or other fluids.",Static Strength,1,0
+23833,Aircraft Service Attendants,"Change aircraft oil, coolant, or other fluids.",Near Vision,1,0
+23834,Aircraft Service Attendants,"Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming.",Manual Dexterity,1,0
+23834,Aircraft Service Attendants,"Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming.",Stamina,1,0
+23834,Aircraft Service Attendants,"Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming.",Gross Body Coordination,1,0
+23834,Aircraft Service Attendants,"Clean aircraft interiors by picking up waste, wiping down windows, or vacuuming.",Extent Flexibility,1,0
+23835,Aircraft Service Attendants,Climb ladders to reach aircraft surfaces to be cleaned.,Gross Body Equilibrium,2,0
+23835,Aircraft Service Attendants,Climb ladders to reach aircraft surfaces to be cleaned.,Gross Body Coordination,2,0
+23835,Aircraft Service Attendants,Climb ladders to reach aircraft surfaces to be cleaned.,Dynamic Strength,1,0
+23835,Aircraft Service Attendants,Climb ladders to reach aircraft surfaces to be cleaned.,Extent Flexibility,1,0
+23836,Aircraft Service Attendants,Complete forms describing tasks completed.,Written Expression,1,0
+23836,Aircraft Service Attendants,Complete forms describing tasks completed.,Near Vision,1,0
+23836,Aircraft Service Attendants,Complete forms describing tasks completed.,Information Ordering,1,0
+23836,Aircraft Service Attendants,Complete forms describing tasks completed.,Memorization,1,0
+23837,Aircraft Service Attendants,De-grease aircraft exteriors.,Manual Dexterity,2,0
+23837,Aircraft Service Attendants,De-grease aircraft exteriors.,Static Strength,1,0
+23837,Aircraft Service Attendants,De-grease aircraft exteriors.,Stamina,1,0
+23837,Aircraft Service Attendants,De-grease aircraft exteriors.,Arm-Hand Steadiness,1,0
+23838,Aircraft Service Attendants,Empty aircraft lavatory systems or refill them with sanitizer fluid.,Manual Dexterity,2,0
+23838,Aircraft Service Attendants,Empty aircraft lavatory systems or refill them with sanitizer fluid.,Static Strength,1,0
+23838,Aircraft Service Attendants,Empty aircraft lavatory systems or refill them with sanitizer fluid.,Arm-Hand Steadiness,1,0
+23838,Aircraft Service Attendants,Empty aircraft lavatory systems or refill them with sanitizer fluid.,Near Vision,1,0
+23839,Aircraft Service Attendants,"Guide aircraft to designated areas using hand signals, batons, or other methods.",Response Orientation,3,0
+23839,Aircraft Service Attendants,"Guide aircraft to designated areas using hand signals, batons, or other methods.",Arm-Hand Steadiness,1,0
+23839,Aircraft Service Attendants,"Guide aircraft to designated areas using hand signals, batons, or other methods.",Far Vision,2,0
+23839,Aircraft Service Attendants,"Guide aircraft to designated areas using hand signals, batons, or other methods.",Reaction Time,2,0
+23840,Aircraft Service Attendants,"Inspect aircraft components to locate cracks, breaks, leaks, or other problems.",Near Vision,3,0
+23840,Aircraft Service Attendants,"Inspect aircraft components to locate cracks, breaks, leaks, or other problems.",Problem Sensitivity,2,0
+23840,Aircraft Service Attendants,"Inspect aircraft components to locate cracks, breaks, leaks, or other problems.",Flexibility of Closure,2,0
+23840,Aircraft Service Attendants,"Inspect aircraft components to locate cracks, breaks, leaks, or other problems.",Visual Color Discrimination,1,0
+23841,Aircraft Service Attendants,Load baggage or cargo for crew or passengers.,Static Strength,3,0
+23841,Aircraft Service Attendants,Load baggage or cargo for crew or passengers.,Dynamic Strength,2,0
+23841,Aircraft Service Attendants,Load baggage or cargo for crew or passengers.,Trunk Strength,2,0
+23841,Aircraft Service Attendants,Load baggage or cargo for crew or passengers.,Stamina,1,0
+23842,Aircraft Service Attendants,Mix cleaning compounds or solutions.,Manual Dexterity,1,0
+23842,Aircraft Service Attendants,Mix cleaning compounds or solutions.,Near Vision,1,0
+23842,Aircraft Service Attendants,Mix cleaning compounds or solutions.,Number Facility,1,1
+23842,Aircraft Service Attendants,Mix cleaning compounds or solutions.,Finger Dexterity,1,0
+23843,Aircraft Service Attendants,Polish aircraft exteriors.,Manual Dexterity,2,0
+23843,Aircraft Service Attendants,Polish aircraft exteriors.,Stamina,2,0
+23843,Aircraft Service Attendants,Polish aircraft exteriors.,Static Strength,1,0
+23843,Aircraft Service Attendants,Polish aircraft exteriors.,Arm-Hand Steadiness,1,0
+23844,Aircraft Service Attendants,Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft.,Oral Expression,2,0
+23844,Aircraft Service Attendants,Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft.,Oral Comprehension,2,0
+23844,Aircraft Service Attendants,Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft.,Speech Clarity,1,0
+23844,Aircraft Service Attendants,Radio to flight dispatchers or other personnel to discuss incoming or outgoing aircraft.,Speech Recognition,1,0
+23845,Aircraft Service Attendants,Refill aircraft potable water tanks.,Manual Dexterity,1,0
+23845,Aircraft Service Attendants,Refill aircraft potable water tanks.,Static Strength,1,0
+23845,Aircraft Service Attendants,Refill aircraft potable water tanks.,Arm-Hand Steadiness,1,0
+23845,Aircraft Service Attendants,Refill aircraft potable water tanks.,Near Vision,1,0
+23846,Aircraft Service Attendants,Refuel aircraft using hoses connected to fuel trucks.,Manual Dexterity,2,0
+23846,Aircraft Service Attendants,Refuel aircraft using hoses connected to fuel trucks.,Static Strength,2,0
+23846,Aircraft Service Attendants,Refuel aircraft using hoses connected to fuel trucks.,Control Precision,1,0
+23846,Aircraft Service Attendants,Refuel aircraft using hoses connected to fuel trucks.,Near Vision,1,0
+23847,Aircraft Service Attendants,Remove exhaust stains from aircraft using cleaning fluids.,Manual Dexterity,2,0
+23847,Aircraft Service Attendants,Remove exhaust stains from aircraft using cleaning fluids.,Stamina,1,0
+23847,Aircraft Service Attendants,Remove exhaust stains from aircraft using cleaning fluids.,Static Strength,1,0
+23847,Aircraft Service Attendants,Remove exhaust stains from aircraft using cleaning fluids.,Near Vision,1,0
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",Control Precision,3,0
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",Spatial Orientation,2,0
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",Multilimb Coordination,2,0
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",Depth Perception,1,0
+23848,Aircraft Service Attendants,"Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.",Reaction Time,1,0
+23849,Aircraft Service Attendants,"Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.",Manual Dexterity,2,0
+23849,Aircraft Service Attendants,"Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.",Control Precision,1,0
+23849,Aircraft Service Attendants,"Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.",Stamina,2,0
+23849,Aircraft Service Attendants,"Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.",Gross Body Equilibrium,1,0
+8643,Traffic Technicians,"Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.",Selective Attention,2,0
+8643,Traffic Technicians,"Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.",Perceptual Speed,2,0
+8643,Traffic Technicians,"Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.",Number Facility,1,0
+8643,Traffic Technicians,"Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.",Near Vision,1,0
+8630,Traffic Technicians,"Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.",Oral Expression,2,0
+8630,Traffic Technicians,"Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.",Oral Comprehension,2,0
+8630,Traffic Technicians,"Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.",Speech Clarity,1,0
+8630,Traffic Technicians,"Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.",Speech Recognition,1,0
+8645,Traffic Technicians,"Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.",Visualization,2,0
+8645,Traffic Technicians,"Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.",Information Ordering,2,0
+8645,Traffic Technicians,"Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.",Written Expression,1,0
+8645,Traffic Technicians,"Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.",Near Vision,1,0
+8633,Traffic Technicians,"Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.",Inductive Reasoning,3,0
+8633,Traffic Technicians,"Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.",Mathematical Reasoning,2,0
+8633,Traffic Technicians,"Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.",Deductive Reasoning,2,0
+8633,Traffic Technicians,"Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.",Information Ordering,1,0
+8634,Traffic Technicians,"Prepare work orders for repair, maintenance, or changes in traffic systems.",Written Expression,2,0
+8634,Traffic Technicians,"Prepare work orders for repair, maintenance, or changes in traffic systems.",Information Ordering,1,0
+8634,Traffic Technicians,"Prepare work orders for repair, maintenance, or changes in traffic systems.",Near Vision,1,0
+8634,Traffic Technicians,"Prepare work orders for repair, maintenance, or changes in traffic systems.",Written Comprehension,1,0
+8632,Traffic Technicians,"Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.",Deductive Reasoning,2,0
+8632,Traffic Technicians,"Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.",Visualization,2,0
+8632,Traffic Technicians,"Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.",Inductive Reasoning,2,0
+8632,Traffic Technicians,"Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.",Originality,1,0
+8647,Traffic Technicians,"Compute time settings for traffic signals or speed restrictions, using standard formulas.",Mathematical Reasoning,3,0
+8647,Traffic Technicians,"Compute time settings for traffic signals or speed restrictions, using standard formulas.",Number Facility,2,0
+8647,Traffic Technicians,"Compute time settings for traffic signals or speed restrictions, using standard formulas.",Deductive Reasoning,1,0
+8647,Traffic Technicians,"Compute time settings for traffic signals or speed restrictions, using standard formulas.",Information Ordering,1,0
+8631,Traffic Technicians,"Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.",Visualization,3,0
+8631,Traffic Technicians,"Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.",Near Vision,2,0
+8631,Traffic Technicians,"Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.",Manual Dexterity,1,0
+8631,Traffic Technicians,"Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.",Information Ordering,1,0
+8635,Traffic Technicians,"Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.",Problem Sensitivity,2,0
+8635,Traffic Technicians,"Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.",Far Vision,1,0
+8635,Traffic Technicians,"Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.",Inductive Reasoning,2,0
+8635,Traffic Technicians,"Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.",Selective Attention,1,0
+8640,Traffic Technicians,"Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.",Perceptual Speed,2,0
+8640,Traffic Technicians,"Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.",Number Facility,2,0
+8640,Traffic Technicians,"Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.",Information Ordering,2,0
+8640,Traffic Technicians,"Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.",Near Vision,1,0
+8642,Traffic Technicians,"Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.",Near Vision,2,0
+8642,Traffic Technicians,"Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.",Selective Attention,2,0
+8642,Traffic Technicians,"Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.",Number Facility,1,0
+8642,Traffic Technicians,"Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.",Perceptual Speed,1,0
+8637,Traffic Technicians,Lay out pavement markings for striping crews.,Visualization,2,0
+8637,Traffic Technicians,Lay out pavement markings for striping crews.,Spatial Orientation,2,0
+8637,Traffic Technicians,Lay out pavement markings for striping crews.,Manual Dexterity,1,0
+8637,Traffic Technicians,Lay out pavement markings for striping crews.,Near Vision,1,0
+8639,Traffic Technicians,Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.,Oral Expression,2,0
+8639,Traffic Technicians,Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.,Deductive Reasoning,1,0
+8639,Traffic Technicians,Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.,Oral Comprehension,1,0
+8639,Traffic Technicians,Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.,Information Ordering,1,0
+8638,Traffic Technicians,"Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.",Near Vision,2,0
+8638,Traffic Technicians,"Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.",Selective Attention,2,0
+8638,Traffic Technicians,"Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.",Manual Dexterity,1,0
+8638,Traffic Technicians,"Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.",Perceptual Speed,1,0
+8641,Traffic Technicians,"Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.",Manual Dexterity,2,0
+8641,Traffic Technicians,"Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.",Static Strength,1,0
+8641,Traffic Technicians,"Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.",Finger Dexterity,1,0
+8641,Traffic Technicians,"Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.",Trunk Strength,1,0
+8644,Traffic Technicians,"Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.",Written Comprehension,2,0
+8644,Traffic Technicians,"Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.",Deductive Reasoning,2,0
+8644,Traffic Technicians,"Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.",Information Ordering,1,0
+8644,Traffic Technicians,"Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.",Near Vision,1,0
+8650,Traffic Technicians,"Time stoplights or other delays, using stopwatches.",Selective Attention,2,0
+8650,Traffic Technicians,"Time stoplights or other delays, using stopwatches.",Near Vision,1,0
+8650,Traffic Technicians,"Time stoplights or other delays, using stopwatches.",Perceptual Speed,1,0
+8650,Traffic Technicians,"Time stoplights or other delays, using stopwatches.",Reaction Time,1,0
+8649,Traffic Technicians,"Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.",Manual Dexterity,2,0
+8649,Traffic Technicians,"Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.",Finger Dexterity,1,0
+8649,Traffic Technicians,"Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.",Problem Sensitivity,1,0
+8649,Traffic Technicians,"Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.",Near Vision,1,0
+8636,Traffic Technicians,Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.,Problem Sensitivity,2,0
+8636,Traffic Technicians,Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.,Deductive Reasoning,2,0
+8636,Traffic Technicians,Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.,Spatial Orientation,1,0
+8636,Traffic Technicians,Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.,Oral Expression,1,0
+8646,Traffic Technicians,Establish procedures for street closures or for repair or construction projects.,Deductive Reasoning,2,0
+8646,Traffic Technicians,Establish procedures for street closures or for repair or construction projects.,Information Ordering,2,0
+8646,Traffic Technicians,Establish procedures for street closures or for repair or construction projects.,Written Expression,1,1
+8646,Traffic Technicians,Establish procedures for street closures or for repair or construction projects.,Problem Sensitivity,1,0
+20938,Traffic Technicians,"Provide traffic information, such as road conditions, to the public.",Oral Expression,2,0
+20938,Traffic Technicians,"Provide traffic information, such as road conditions, to the public.",Memorization,1,0
+20938,Traffic Technicians,"Provide traffic information, such as road conditions, to the public.",Oral Comprehension,1,0
+20938,Traffic Technicians,"Provide traffic information, such as road conditions, to the public.",Speech Clarity,1,0
+8648,Traffic Technicians,Monitor street or utility projects for compliance to traffic control permit conditions.,Selective Attention,2,0
+8648,Traffic Technicians,Monitor street or utility projects for compliance to traffic control permit conditions.,Problem Sensitivity,2,0
+8648,Traffic Technicians,Monitor street or utility projects for compliance to traffic control permit conditions.,Near Vision,1,0
+8648,Traffic Technicians,Monitor street or utility projects for compliance to traffic control permit conditions.,Written Expression,1,0
+8652,Traffic Technicians,Develop plans or long-range strategies for providing adequate parking space.,Deductive Reasoning,2,0
+8652,Traffic Technicians,Develop plans or long-range strategies for providing adequate parking space.,Visualization,2,0
+8652,Traffic Technicians,Develop plans or long-range strategies for providing adequate parking space.,Originality,1,0
+8652,Traffic Technicians,Develop plans or long-range strategies for providing adequate parking space.,Fluency of Ideas,1,0
+23850,Transportation Inspectors,Prepare and submit reports after completion of freight shipments.,Written Expression,2,0
+23850,Transportation Inspectors,Prepare and submit reports after completion of freight shipments.,Information Ordering,1,0
+23850,Transportation Inspectors,Prepare and submit reports after completion of freight shipments.,Memorization,1,0
+23850,Transportation Inspectors,Prepare and submit reports after completion of freight shipments.,Near Vision,1,0
+23851,Transportation Inspectors,Inspect shipments to ensure that freight is securely braced and blocked.,Near Vision,2,0
+23851,Transportation Inspectors,Inspect shipments to ensure that freight is securely braced and blocked.,Problem Sensitivity,2,0
+23851,Transportation Inspectors,Inspect shipments to ensure that freight is securely braced and blocked.,Selective Attention,1,0
+23851,Transportation Inspectors,Inspect shipments to ensure that freight is securely braced and blocked.,Depth Perception,1,0
+23852,Transportation Inspectors,"Record details about freight conditions, handling of freight, and any problems encountered.",Written Expression,2,0
+23852,Transportation Inspectors,"Record details about freight conditions, handling of freight, and any problems encountered.",Near Vision,1,0
+23852,Transportation Inspectors,"Record details about freight conditions, handling of freight, and any problems encountered.",Memorization,1,0
+23852,Transportation Inspectors,"Record details about freight conditions, handling of freight, and any problems encountered.",Information Ordering,1,0
+23853,Transportation Inspectors,Advise crews in techniques of stowing dangerous and heavy cargo.,Oral Expression,2,0
+23853,Transportation Inspectors,Advise crews in techniques of stowing dangerous and heavy cargo.,Deductive Reasoning,1,0
+23853,Transportation Inspectors,Advise crews in techniques of stowing dangerous and heavy cargo.,Oral Comprehension,1,0
+23853,Transportation Inspectors,Advise crews in techniques of stowing dangerous and heavy cargo.,Spatial Orientation,1,0
+23854,Transportation Inspectors,Observe loading of freight to ensure that crews comply with procedures.,Selective Attention,2,0
+23854,Transportation Inspectors,Observe loading of freight to ensure that crews comply with procedures.,Near Vision,2,0
+23854,Transportation Inspectors,Observe loading of freight to ensure that crews comply with procedures.,Problem Sensitivity,1,0
+23854,Transportation Inspectors,Observe loading of freight to ensure that crews comply with procedures.,Depth Perception,1,0
+23855,Transportation Inspectors,Recommend remedial procedures to correct any violations found during inspections.,Deductive Reasoning,2,0
+23855,Transportation Inspectors,Recommend remedial procedures to correct any violations found during inspections.,Written Expression,1,0
+23855,Transportation Inspectors,Recommend remedial procedures to correct any violations found during inspections.,Oral Expression,1,0
+23855,Transportation Inspectors,Recommend remedial procedures to correct any violations found during inspections.,Problem Sensitivity,1,0
+23856,Transportation Inspectors,"Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.",Near Vision,2,0
+23856,Transportation Inspectors,"Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.",Problem Sensitivity,2,0
+23856,Transportation Inspectors,"Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.",Selective Attention,1,0
+23856,Transportation Inspectors,"Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.",Depth Perception,1,0
+23857,Transportation Inspectors,Notify workers of any special treatment required for shipments.,Oral Expression,2,0
+23857,Transportation Inspectors,Notify workers of any special treatment required for shipments.,Oral Comprehension,1,0
+23857,Transportation Inspectors,Notify workers of any special treatment required for shipments.,Memorization,1,0
+23857,Transportation Inspectors,Notify workers of any special treatment required for shipments.,Written Comprehension,1,0
+23858,Transportation Inspectors,Direct crews to reload freight or to insert additional bracing or packing as necessary.,Oral Expression,2,0
+23858,Transportation Inspectors,Direct crews to reload freight or to insert additional bracing or packing as necessary.,Deductive Reasoning,1,0
+23858,Transportation Inspectors,Direct crews to reload freight or to insert additional bracing or packing as necessary.,Spatial Orientation,1,0
+23858,Transportation Inspectors,Direct crews to reload freight or to insert additional bracing or packing as necessary.,Oral Comprehension,1,0
+23859,Transportation Inspectors,Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.,Near Vision,1,0
+23859,Transportation Inspectors,Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.,Number Facility,1,1
+23859,Transportation Inspectors,Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.,Selective Attention,1,0
+23859,Transportation Inspectors,Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.,Information Ordering,1,0
+23860,Transportation Inspectors,"Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.",Written Comprehension,2,0
+23860,Transportation Inspectors,"Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.",Mathematical Reasoning,2,0
+23860,Transportation Inspectors,"Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.",Near Vision,1,0
+23860,Transportation Inspectors,"Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.",Number Facility,1,0
+23861,Transportation Inspectors,Read draft markings to determine depths of vessels in water.,Near Vision,2,0
+23861,Transportation Inspectors,Read draft markings to determine depths of vessels in water.,Number Facility,1,0
+23861,Transportation Inspectors,Read draft markings to determine depths of vessels in water.,Perceptual Speed,1,0
+23861,Transportation Inspectors,Read draft markings to determine depths of vessels in water.,Depth Perception,1,0
+23864,Transportation Inspectors,Post warning signs on vehicles containing explosives or flammable or radioactive materials.,Manual Dexterity,1,0
+23864,Transportation Inspectors,Post warning signs on vehicles containing explosives or flammable or radioactive materials.,Near Vision,1,0
+23864,Transportation Inspectors,Post warning signs on vehicles containing explosives or flammable or radioactive materials.,Static Strength,1,0
+23864,Transportation Inspectors,Post warning signs on vehicles containing explosives or flammable or radioactive materials.,Arm-Hand Steadiness,1,0
+23865,Transportation Inspectors,Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.,Near Vision,2,0
+23865,Transportation Inspectors,Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.,Number Facility,2,0
+23865,Transportation Inspectors,Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.,Spatial Orientation,2,0
+23865,Transportation Inspectors,Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.,Depth Perception,1,0
+23868,Transportation Inspectors,"Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.",Mathematical Reasoning,3,0
+23868,Transportation Inspectors,"Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.",Number Facility,3,0
+23868,Transportation Inspectors,"Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.",Information Ordering,1,0
+23868,Transportation Inspectors,"Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.",Near Vision,1,0
+23869,Transportation Inspectors,"Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.",Near Vision,2,0
+23869,Transportation Inspectors,"Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.",Manual Dexterity,1,0
+23869,Transportation Inspectors,"Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.",Number Facility,1,0
+23869,Transportation Inspectors,"Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.",Spatial Orientation,1,0
+23870,Transportation Inspectors,Visually inspect cargo for damage upon arrival or discharge.,Near Vision,3,0
+23870,Transportation Inspectors,Visually inspect cargo for damage upon arrival or discharge.,Problem Sensitivity,2,0
+23870,Transportation Inspectors,Visually inspect cargo for damage upon arrival or discharge.,Selective Attention,1,0
+23870,Transportation Inspectors,Visually inspect cargo for damage upon arrival or discharge.,Flexibility of Closure,1,0
+10728,Aviation Inspectors,"Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",Near Vision,2,0
+10728,Aviation Inspectors,"Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",Problem Sensitivity,2,0
+10728,Aviation Inspectors,"Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",Deductive Reasoning,2,0
+10728,Aviation Inspectors,"Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",Information Ordering,1,0
+10734,Aviation Inspectors,Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals.,Written Comprehension,2,0
+10734,Aviation Inspectors,Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals.,Near Vision,2,0
+10734,Aviation Inspectors,Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals.,Information Ordering,1,0
+10734,Aviation Inspectors,Examine maintenance records and flight logs to determine if service and maintenance checks and overhauls were performed at prescribed intervals.,Perceptual Speed,1,0
+10733,Aviation Inspectors,"Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments.",Near Vision,3,0
+10733,Aviation Inspectors,"Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments.",Problem Sensitivity,3,0
+10733,Aviation Inspectors,"Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments.",Flexibility of Closure,2,0
+10733,Aviation Inspectors,"Inspect new, repaired, or modified aircraft to identify damage or defects and to assess airworthiness and conformance to standards, using checklists, hand tools, and test instruments.",Manual Dexterity,1,0
+10741,Aviation Inspectors,Approve or deny issuance of certificates of airworthiness.,Deductive Reasoning,3,0
+10741,Aviation Inspectors,Approve or deny issuance of certificates of airworthiness.,Problem Sensitivity,2,0
+10741,Aviation Inspectors,Approve or deny issuance of certificates of airworthiness.,Information Ordering,1,0
+10741,Aviation Inspectors,Approve or deny issuance of certificates of airworthiness.,Written Comprehension,1,0
+10732,Aviation Inspectors,"Prepare and maintain detailed repair, inspection, investigation, and certification records and reports.",Written Expression,2,0
+10732,Aviation Inspectors,"Prepare and maintain detailed repair, inspection, investigation, and certification records and reports.",Information Ordering,2,0
+10732,Aviation Inspectors,"Prepare and maintain detailed repair, inspection, investigation, and certification records and reports.",Memorization,1,0
+10732,Aviation Inspectors,"Prepare and maintain detailed repair, inspection, investigation, and certification records and reports.",Near Vision,1,0
+10731,Aviation Inspectors,"Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs.",Near Vision,3,0
+10731,Aviation Inspectors,"Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs.",Problem Sensitivity,2,0
+10731,Aviation Inspectors,"Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs.",Flexibility of Closure,1,0
+10731,Aviation Inspectors,"Examine landing gear, tires, and exteriors of fuselage, wings, and engines for evidence of damage or corrosion and the need for repairs.",Selective Attention,1,0
+10735,Aviation Inspectors,"Recommend replacement, repair, or modification of aircraft equipment.",Deductive Reasoning,2,0
+10735,Aviation Inspectors,"Recommend replacement, repair, or modification of aircraft equipment.",Problem Sensitivity,2,0
+10735,Aviation Inspectors,"Recommend replacement, repair, or modification of aircraft equipment.",Written Expression,1,0
+10735,Aviation Inspectors,"Recommend replacement, repair, or modification of aircraft equipment.",Information Ordering,1,0

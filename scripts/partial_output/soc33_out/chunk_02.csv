@@ -1,0 +1,509 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+17546,Intelligence Analysts,"Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.",Inductive Reasoning,3,0
+17546,Intelligence Analysts,"Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.",Deductive Reasoning,2,0
+17546,Intelligence Analysts,"Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.",Problem Sensitivity,2,0
+17546,Intelligence Analysts,"Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.",Information Ordering,2,0
+17546,Intelligence Analysts,"Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.",Written Comprehension,2,0
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",Selective Attention,2,0
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",Problem Sensitivity,2,0
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",Near Vision,1,1
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",Oral Comprehension,1,0
+17548,Intelligence Analysts,"Gather intelligence information by field observation, confidential information sources, or public records.",Information Ordering,1,0
+21199,Intelligence Analysts,Analyze intelligence data to identify patterns and trends in criminal activity.,Inductive Reasoning,3,0
+21199,Intelligence Analysts,Analyze intelligence data to identify patterns and trends in criminal activity.,Deductive Reasoning,2,0
+21199,Intelligence Analysts,Analyze intelligence data to identify patterns and trends in criminal activity.,Problem Sensitivity,2,0
+21199,Intelligence Analysts,Analyze intelligence data to identify patterns and trends in criminal activity.,Information Ordering,2,0
+21199,Intelligence Analysts,Analyze intelligence data to identify patterns and trends in criminal activity.,Category Flexibility,1,0
+17552,Intelligence Analysts,"Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.",Written Expression,3,0
+17552,Intelligence Analysts,"Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.",Information Ordering,2,0
+17552,Intelligence Analysts,"Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.",Visualization,2,0
+17552,Intelligence Analysts,"Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.",Written Comprehension,1,0
+17552,Intelligence Analysts,"Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.",Deductive Reasoning,1,0
+17556,Intelligence Analysts,Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.,Oral Expression,3,0
+17556,Intelligence Analysts,Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.,Oral Comprehension,2,0
+17556,Intelligence Analysts,Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.,Speech Clarity,1,0
+17556,Intelligence Analysts,Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.,Speech Recognition,1,0
+17556,Intelligence Analysts,Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.,Written Expression,1,0
+17550,Intelligence Analysts,Link or chart suspects to criminal organizations or events to determine activities and interrelationships.,Inductive Reasoning,3,0
+17550,Intelligence Analysts,Link or chart suspects to criminal organizations or events to determine activities and interrelationships.,Deductive Reasoning,2,0
+17550,Intelligence Analysts,Link or chart suspects to criminal organizations or events to determine activities and interrelationships.,Visualization,2,0
+17550,Intelligence Analysts,Link or chart suspects to criminal organizations or events to determine activities and interrelationships.,Information Ordering,2,0
+17550,Intelligence Analysts,Link or chart suspects to criminal organizations or events to determine activities and interrelationships.,Problem Sensitivity,1,0
+17545,Intelligence Analysts,Establish criminal profiles to aid in connecting criminal organizations with their members.,Inductive Reasoning,3,0
+17545,Intelligence Analysts,Establish criminal profiles to aid in connecting criminal organizations with their members.,Deductive Reasoning,2,0
+17545,Intelligence Analysts,Establish criminal profiles to aid in connecting criminal organizations with their members.,Category Flexibility,1,0
+17545,Intelligence Analysts,Establish criminal profiles to aid in connecting criminal organizations with their members.,Problem Sensitivity,2,0
+17545,Intelligence Analysts,Establish criminal profiles to aid in connecting criminal organizations with their members.,Written Expression,1,0
+23997,Intelligence Analysts,Identify gaps in information.,Problem Sensitivity,3,0
+23997,Intelligence Analysts,Identify gaps in information.,Inductive Reasoning,2,0
+23997,Intelligence Analysts,Identify gaps in information.,Deductive Reasoning,1,0
+23997,Intelligence Analysts,Identify gaps in information.,Information Ordering,1,0
+17544,Intelligence Analysts,"Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.",Information Ordering,2,0
+17544,Intelligence Analysts,"Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.",Deductive Reasoning,2,0
+17544,Intelligence Analysts,"Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.",Visualization,2,0
+17544,Intelligence Analysts,"Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.",Near Vision,1,1
+17544,Intelligence Analysts,"Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.",Category Flexibility,1,0
+17542,Intelligence Analysts,"Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.",Inductive Reasoning,3,0
+17542,Intelligence Analysts,"Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.",Deductive Reasoning,2,0
+17542,Intelligence Analysts,"Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.",Problem Sensitivity,2,0
+17542,Intelligence Analysts,"Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.",Originality,1,0
+17542,Intelligence Analysts,"Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.",Information Ordering,1,0
+17543,Intelligence Analysts,"Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.",Written Comprehension,2,0
+17543,Intelligence Analysts,"Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.",Inductive Reasoning,2,0
+17543,Intelligence Analysts,"Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.",Problem Sensitivity,2,0
+17543,Intelligence Analysts,"Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.",Deductive Reasoning,1,0
+17543,Intelligence Analysts,"Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.",Information Ordering,1,0
+17554,Intelligence Analysts,Study the assets of criminal suspects to determine the flow of money from or to targeted groups.,Mathematical Reasoning,2,0
+17554,Intelligence Analysts,Study the assets of criminal suspects to determine the flow of money from or to targeted groups.,Number Facility,2,0
+17554,Intelligence Analysts,Study the assets of criminal suspects to determine the flow of money from or to targeted groups.,Deductive Reasoning,2,0
+17554,Intelligence Analysts,Study the assets of criminal suspects to determine the flow of money from or to targeted groups.,Inductive Reasoning,2,0
+17554,Intelligence Analysts,Study the assets of criminal suspects to determine the flow of money from or to targeted groups.,Problem Sensitivity,1,0
+21200,Intelligence Analysts,Conduct presentations of analytic findings.,Oral Expression,3,0
+21200,Intelligence Analysts,Conduct presentations of analytic findings.,Speech Clarity,2,0
+21200,Intelligence Analysts,Conduct presentations of analytic findings.,Information Ordering,1,0
+21200,Intelligence Analysts,Conduct presentations of analytic findings.,Oral Comprehension,1,0
+17557,Intelligence Analysts,"Develop defense plans or tactics, using intelligence and other information.",Deductive Reasoning,3,0
+17557,Intelligence Analysts,"Develop defense plans or tactics, using intelligence and other information.",Inductive Reasoning,2,0
+17557,Intelligence Analysts,"Develop defense plans or tactics, using intelligence and other information.",Problem Sensitivity,2,0
+17557,Intelligence Analysts,"Develop defense plans or tactics, using intelligence and other information.",Originality,1,0
+17557,Intelligence Analysts,"Develop defense plans or tactics, using intelligence and other information.",Written Expression,1,0
+17558,Intelligence Analysts,"Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.",Oral Expression,3,0
+17558,Intelligence Analysts,"Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.",Oral Comprehension,3,0
+17558,Intelligence Analysts,"Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.",Problem Sensitivity,2,0
+17558,Intelligence Analysts,"Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.",Speech Recognition,2,0
+17558,Intelligence Analysts,"Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.",Deductive Reasoning,1,0
+17553,Intelligence Analysts,Prepare plans to intercept foreign communications transmissions.,Deductive Reasoning,2,0
+17553,Intelligence Analysts,Prepare plans to intercept foreign communications transmissions.,Information Ordering,2,0
+17553,Intelligence Analysts,Prepare plans to intercept foreign communications transmissions.,Problem Sensitivity,2,0
+17553,Intelligence Analysts,Prepare plans to intercept foreign communications transmissions.,Written Expression,1,0
+17553,Intelligence Analysts,Prepare plans to intercept foreign communications transmissions.,Category Flexibility,1,1
+17559,Intelligence Analysts,Study communication code languages or foreign languages to translate intelligence.,Written Comprehension,3,0
+17559,Intelligence Analysts,Study communication code languages or foreign languages to translate intelligence.,Oral Comprehension,2,0
+17559,Intelligence Analysts,Study communication code languages or foreign languages to translate intelligence.,Memorization,2,0
+17559,Intelligence Analysts,Study communication code languages or foreign languages to translate intelligence.,Written Expression,1,0
+17559,Intelligence Analysts,Study communication code languages or foreign languages to translate intelligence.,Category Flexibility,1,1
+17547,Intelligence Analysts,"Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.",Near Vision,2,0
+17547,Intelligence Analysts,"Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.",Problem Sensitivity,2,0
+17547,Intelligence Analysts,"Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.",Selective Attention,2,0
+17547,Intelligence Analysts,"Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.",Visualization,1,0
+17547,Intelligence Analysts,"Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.",Auditory Attention,1,0
+17551,Intelligence Analysts,"Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.",Near Vision,2,0
+17551,Intelligence Analysts,"Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.",Selective Attention,2,0
+17551,Intelligence Analysts,"Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.",Auditory Attention,2,0
+17551,Intelligence Analysts,"Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.",Manual Dexterity,1,0
+17551,Intelligence Analysts,"Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.",Control Precision,1,0
+7915,Fish and Game Wardens,"Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",Far Vision,2,0
+7915,Fish and Game Wardens,"Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",Stamina,2,0
+7915,Fish and Game Wardens,"Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",Gross Body Coordination,2,0
+7915,Fish and Game Wardens,"Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",Selective Attention,2,0
+7915,Fish and Game Wardens,"Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.",Depth Perception,1,0
+20582,Fish and Game Wardens,Compile and present evidence for court actions.,Written Expression,2,0
+20582,Fish and Game Wardens,Compile and present evidence for court actions.,Oral Expression,2,0
+20582,Fish and Game Wardens,Compile and present evidence for court actions.,Information Ordering,2,0
+20582,Fish and Game Wardens,Compile and present evidence for court actions.,Deductive Reasoning,1,0
+20583,Fish and Game Wardens,Investigate hunting accidents or reports of fish or game law violations.,Problem Sensitivity,3,0
+20583,Fish and Game Wardens,Investigate hunting accidents or reports of fish or game law violations.,Deductive Reasoning,2,0
+20583,Fish and Game Wardens,Investigate hunting accidents or reports of fish or game law violations.,Inductive Reasoning,2,0
+20583,Fish and Game Wardens,Investigate hunting accidents or reports of fish or game law violations.,Oral Comprehension,1,0
+20583,Fish and Game Wardens,Investigate hunting accidents or reports of fish or game law violations.,Near Vision,1,0
+7918,Fish and Game Wardens,"Protect and preserve native wildlife, plants, or ecosystems.",Problem Sensitivity,2,0
+7918,Fish and Game Wardens,"Protect and preserve native wildlife, plants, or ecosystems.",Inductive Reasoning,1,0
+7918,Fish and Game Wardens,"Protect and preserve native wildlife, plants, or ecosystems.",Far Vision,1,1
+7918,Fish and Game Wardens,"Protect and preserve native wildlife, plants, or ecosystems.",Oral Expression,1,1
+20584,Fish and Game Wardens,Issue warnings or citations and file reports as necessary.,Written Expression,2,0
+20584,Fish and Game Wardens,Issue warnings or citations and file reports as necessary.,Information Ordering,1,0
+20584,Fish and Game Wardens,Issue warnings or citations and file reports as necessary.,Oral Expression,1,0
+20584,Fish and Game Wardens,Issue warnings or citations and file reports as necessary.,Deductive Reasoning,1,0
+20585,Fish and Game Wardens,Serve warrants and make arrests.,Static Strength,2,0
+20585,Fish and Game Wardens,Serve warrants and make arrests.,Gross Body Coordination,2,0
+20585,Fish and Game Wardens,Serve warrants and make arrests.,Reaction Time,2,0
+20585,Fish and Game Wardens,Serve warrants and make arrests.,Dynamic Strength,1,0
+20585,Fish and Game Wardens,Serve warrants and make arrests.,Multilimb Coordination,1,0
+7921,Fish and Game Wardens,Provide assistance to other local law enforcement agencies as required.,Oral Comprehension,2,0
+7921,Fish and Game Wardens,Provide assistance to other local law enforcement agencies as required.,Oral Expression,1,0
+7921,Fish and Game Wardens,Provide assistance to other local law enforcement agencies as required.,Gross Body Coordination,1,1
+7919,Fish and Game Wardens,Promote or provide hunter or trapper safety training.,Oral Expression,3,0
+7919,Fish and Game Wardens,Promote or provide hunter or trapper safety training.,Speech Clarity,1,0
+7919,Fish and Game Wardens,Promote or provide hunter or trapper safety training.,Written Expression,1,0
+7919,Fish and Game Wardens,Promote or provide hunter or trapper safety training.,Oral Comprehension,1,0
+20586,Fish and Game Wardens,Participate in search-and-rescue operations.,Stamina,3,0
+20586,Fish and Game Wardens,Participate in search-and-rescue operations.,Gross Body Coordination,2,0
+20586,Fish and Game Wardens,Participate in search-and-rescue operations.,Far Vision,2,0
+20586,Fish and Game Wardens,Participate in search-and-rescue operations.,Problem Sensitivity,1,0
+20586,Fish and Game Wardens,Participate in search-and-rescue operations.,Dynamic Strength,1,0
+20587,Fish and Game Wardens,Arrange for disposition of fish or game illegally taken or possessed.,Information Ordering,2,0
+20587,Fish and Game Wardens,Arrange for disposition of fish or game illegally taken or possessed.,Deductive Reasoning,1,0
+20587,Fish and Game Wardens,Arrange for disposition of fish or game illegally taken or possessed.,Written Expression,1,1
+20588,Fish and Game Wardens,Seize equipment used in fish and game law violations.,Static Strength,2,0
+20588,Fish and Game Wardens,Seize equipment used in fish and game law violations.,Manual Dexterity,1,0
+20588,Fish and Game Wardens,Seize equipment used in fish and game law violations.,Deductive Reasoning,1,0
+20588,Fish and Game Wardens,Seize equipment used in fish and game law violations.,Gross Body Coordination,1,0
+7922,Fish and Game Wardens,"Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations.",Oral Expression,3,0
+7922,Fish and Game Wardens,"Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations.",Speech Clarity,2,0
+7922,Fish and Game Wardens,"Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations.",Fluency of Ideas,1,0
+7922,Fish and Game Wardens,"Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations.",Oral Comprehension,1,0
+7923,Fish and Game Wardens,Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained.,Deductive Reasoning,2,0
+7923,Fish and Game Wardens,Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained.,Inductive Reasoning,2,0
+7923,Fish and Game Wardens,Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained.,Written Expression,2,0
+7923,Fish and Game Wardens,Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained.,Problem Sensitivity,1,0
+7924,Fish and Game Wardens,"Inspect commercial operations relating to fish or wildlife, recreation, or protected areas.",Near Vision,2,0
+7924,Fish and Game Wardens,"Inspect commercial operations relating to fish or wildlife, recreation, or protected areas.",Problem Sensitivity,2,0
+7924,Fish and Game Wardens,"Inspect commercial operations relating to fish or wildlife, recreation, or protected areas.",Selective Attention,2,0
+7924,Fish and Game Wardens,"Inspect commercial operations relating to fish or wildlife, recreation, or protected areas.",Deductive Reasoning,1,0
+7926,Fish and Game Wardens,Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.,Number Facility,2,0
+7926,Fish and Game Wardens,Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.,Mathematical Reasoning,2,0
+7926,Fish and Game Wardens,Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.,Near Vision,1,0
+7926,Fish and Game Wardens,Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.,Information Ordering,2,0
+7926,Fish and Game Wardens,Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.,Selective Attention,1,0
+7925,Fish and Game Wardens,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",Near Vision,2,0
+7925,Fish and Game Wardens,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",Selective Attention,2,0
+7925,Fish and Game Wardens,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",Written Expression,1,0
+7925,Fish and Game Wardens,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",Problem Sensitivity,1,0
+7925,Fish and Game Wardens,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",Far Vision,1,0
+7929,Fish and Game Wardens,Design or implement control measures to prevent or counteract damage caused by wildlife or people.,Deductive Reasoning,2,0
+7929,Fish and Game Wardens,Design or implement control measures to prevent or counteract damage caused by wildlife or people.,Problem Sensitivity,2,0
+7929,Fish and Game Wardens,Design or implement control measures to prevent or counteract damage caused by wildlife or people.,Inductive Reasoning,1,0
+7929,Fish and Game Wardens,Design or implement control measures to prevent or counteract damage caused by wildlife or people.,Originality,1,0
+7933,Fish and Game Wardens,Provide advice or information to park or reserve visitors.,Oral Expression,2,0
+7933,Fish and Game Wardens,Provide advice or information to park or reserve visitors.,Oral Comprehension,2,0
+7933,Fish and Game Wardens,Provide advice or information to park or reserve visitors.,Speech Clarity,1,0
+7928,Fish and Game Wardens,"Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.",Problem Sensitivity,3,0
+7928,Fish and Game Wardens,"Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.",Deductive Reasoning,2,0
+7928,Fish and Game Wardens,"Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.",Near Vision,1,0
+7928,Fish and Game Wardens,"Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.",Oral Expression,1,0
+7928,Fish and Game Wardens,"Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.",Written Expression,1,0
+7932,Fish and Game Wardens,"Issue licenses, permits, or other documentation.",Information Ordering,2,0
+7932,Fish and Game Wardens,"Issue licenses, permits, or other documentation.",Near Vision,1,1
+7932,Fish and Game Wardens,"Issue licenses, permits, or other documentation.",Oral Comprehension,1,1
+7930,Fish and Game Wardens,"Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.",Mathematical Reasoning,2,0
+7930,Fish and Game Wardens,"Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.",Number Facility,2,0
+7930,Fish and Game Wardens,"Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.",Written Expression,2,0
+7930,Fish and Game Wardens,"Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.",Near Vision,1,0
+7930,Fish and Game Wardens,"Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.",Deductive Reasoning,1,0
+7931,Fish and Game Wardens,Supervise the activities of seasonal workers.,Oral Expression,2,0
+7931,Fish and Game Wardens,Supervise the activities of seasonal workers.,Oral Comprehension,1,0
+7931,Fish and Game Wardens,Supervise the activities of seasonal workers.,Deductive Reasoning,1,0
+7931,Fish and Game Wardens,Supervise the activities of seasonal workers.,Selective Attention,1,0
+7934,Fish and Game Wardens,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",Static Strength,2,0
+7934,Fish and Game Wardens,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",Manual Dexterity,2,0
+7934,Fish and Game Wardens,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",Gross Body Coordination,2,0
+7934,Fish and Game Wardens,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",Multilimb Coordination,1,0
+7934,Fish and Game Wardens,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",Stamina,1,0
+20589,Fish and Game Wardens,Participate in firefighting efforts.,Stamina,3,0
+20589,Fish and Game Wardens,Participate in firefighting efforts.,Dynamic Strength,2,0
+20589,Fish and Game Wardens,Participate in firefighting efforts.,Gross Body Coordination,2,0
+20589,Fish and Game Wardens,Participate in firefighting efforts.,Reaction Time,1,0
+20589,Fish and Game Wardens,Participate in firefighting efforts.,Static Strength,1,0
+7951,Parking Enforcement Workers,"Enter and retrieve information pertaining to vehicle registration, identification, and status, using hand-held computers.",Near Vision,2,0
+7951,Parking Enforcement Workers,"Enter and retrieve information pertaining to vehicle registration, identification, and status, using hand-held computers.",Finger Dexterity,1,0
+7951,Parking Enforcement Workers,"Enter and retrieve information pertaining to vehicle registration, identification, and status, using hand-held computers.",Information Ordering,1,0
+7951,Parking Enforcement Workers,"Enter and retrieve information pertaining to vehicle registration, identification, and status, using hand-held computers.",Perceptual Speed,1,0
+7935,Parking Enforcement Workers,Patrol an assigned area by vehicle or on foot to ensure public compliance with existing parking ordinance.,Near Vision,2,0
+7935,Parking Enforcement Workers,Patrol an assigned area by vehicle or on foot to ensure public compliance with existing parking ordinance.,Far Vision,1,0
+7935,Parking Enforcement Workers,Patrol an assigned area by vehicle or on foot to ensure public compliance with existing parking ordinance.,Selective Attention,2,0
+7935,Parking Enforcement Workers,Patrol an assigned area by vehicle or on foot to ensure public compliance with existing parking ordinance.,Stamina,1,0
+7937,Parking Enforcement Workers,Write warnings and citations for illegally parked vehicles.,Written Expression,2,0
+7937,Parking Enforcement Workers,Write warnings and citations for illegally parked vehicles.,Near Vision,1,0
+7937,Parking Enforcement Workers,Write warnings and citations for illegally parked vehicles.,Information Ordering,1,0
+7947,Parking Enforcement Workers,Appear in court at hearings regarding contested traffic citations.,Oral Expression,2,0
+7947,Parking Enforcement Workers,Appear in court at hearings regarding contested traffic citations.,Memorization,1,0
+7947,Parking Enforcement Workers,Appear in court at hearings regarding contested traffic citations.,Oral Comprehension,1,0
+7945,Parking Enforcement Workers,"Maintain assigned equipment and supplies, such as hand-held citation computers, citation books, rain gear, tire-marking chalk, and street cones.",Near Vision,1,0
+7945,Parking Enforcement Workers,"Maintain assigned equipment and supplies, such as hand-held citation computers, citation books, rain gear, tire-marking chalk, and street cones.",Manual Dexterity,1,0
+7945,Parking Enforcement Workers,"Maintain assigned equipment and supplies, such as hand-held citation computers, citation books, rain gear, tire-marking chalk, and street cones.",Information Ordering,1,1
+7939,Parking Enforcement Workers,Respond to and make radio dispatch calls regarding parking violations and complaints.,Oral Comprehension,2,0
+7939,Parking Enforcement Workers,Respond to and make radio dispatch calls regarding parking violations and complaints.,Oral Expression,2,0
+7939,Parking Enforcement Workers,Respond to and make radio dispatch calls regarding parking violations and complaints.,Speech Recognition,1,0
+7939,Parking Enforcement Workers,Respond to and make radio dispatch calls regarding parking violations and complaints.,Auditory Attention,1,0
+7936,Parking Enforcement Workers,"Maintain close communications with dispatching personnel, using two-way radios or cell phones.",Oral Comprehension,2,0
+7936,Parking Enforcement Workers,"Maintain close communications with dispatching personnel, using two-way radios or cell phones.",Oral Expression,2,0
+7936,Parking Enforcement Workers,"Maintain close communications with dispatching personnel, using two-way radios or cell phones.",Speech Recognition,1,0
+7936,Parking Enforcement Workers,"Maintain close communications with dispatching personnel, using two-way radios or cell phones.",Auditory Attention,1,0
+7942,Parking Enforcement Workers,"Perform simple vehicle maintenance procedures, such as checking oil and gas, and report mechanical problems to supervisors.",Near Vision,1,0
+7942,Parking Enforcement Workers,"Perform simple vehicle maintenance procedures, such as checking oil and gas, and report mechanical problems to supervisors.",Manual Dexterity,1,0
+7942,Parking Enforcement Workers,"Perform simple vehicle maintenance procedures, such as checking oil and gas, and report mechanical problems to supervisors.",Oral Expression,1,1
+7943,Parking Enforcement Workers,"Observe and report hazardous conditions, such as missing traffic signals or signs, and street markings that need to be repainted.",Near Vision,2,0
+7943,Parking Enforcement Workers,"Observe and report hazardous conditions, such as missing traffic signals or signs, and street markings that need to be repainted.",Selective Attention,2,0
+7943,Parking Enforcement Workers,"Observe and report hazardous conditions, such as missing traffic signals or signs, and street markings that need to be repainted.",Far Vision,1,0
+7943,Parking Enforcement Workers,"Observe and report hazardous conditions, such as missing traffic signals or signs, and street markings that need to be repainted.",Written Expression,1,0
+7941,Parking Enforcement Workers,"Identify vehicles in violation of parking codes, checking with dispatchers when necessary to confirm identities or to determine whether vehicles need to be booted or towed.",Near Vision,2,0
+7941,Parking Enforcement Workers,"Identify vehicles in violation of parking codes, checking with dispatchers when necessary to confirm identities or to determine whether vehicles need to be booted or towed.",Selective Attention,2,0
+7941,Parking Enforcement Workers,"Identify vehicles in violation of parking codes, checking with dispatchers when necessary to confirm identities or to determine whether vehicles need to be booted or towed.",Oral Comprehension,1,0
+7941,Parking Enforcement Workers,"Identify vehicles in violation of parking codes, checking with dispatchers when necessary to confirm identities or to determine whether vehicles need to be booted or towed.",Deductive Reasoning,1,0
+7940,Parking Enforcement Workers,Train new or temporary staff.,Oral Expression,2,0
+7940,Parking Enforcement Workers,Train new or temporary staff.,Oral Comprehension,1,0
+7940,Parking Enforcement Workers,Train new or temporary staff.,Information Ordering,1,0
+7948,Parking Enforcement Workers,"Make arrangements for illegally parked or abandoned vehicles to be towed, and direct tow-truck drivers to the correct vehicles.",Oral Expression,2,0
+7948,Parking Enforcement Workers,"Make arrangements for illegally parked or abandoned vehicles to be towed, and direct tow-truck drivers to the correct vehicles.",Near Vision,1,0
+7948,Parking Enforcement Workers,"Make arrangements for illegally parked or abandoned vehicles to be towed, and direct tow-truck drivers to the correct vehicles.",Spatial Orientation,1,0
+7944,Parking Enforcement Workers,"Investigate and answer complaints regarding contested parking citations, determining their validity and routing them appropriately.",Deductive Reasoning,2,0
+7944,Parking Enforcement Workers,"Investigate and answer complaints regarding contested parking citations, determining their validity and routing them appropriately.",Problem Sensitivity,2,0
+7944,Parking Enforcement Workers,"Investigate and answer complaints regarding contested parking citations, determining their validity and routing them appropriately.",Oral Expression,1,0
+7944,Parking Enforcement Workers,"Investigate and answer complaints regarding contested parking citations, determining their validity and routing them appropriately.",Written Comprehension,1,0
+7946,Parking Enforcement Workers,"Provide information to the public regarding parking regulations and facilities, and the location of streets, buildings and points of interest.",Oral Expression,3,0
+7946,Parking Enforcement Workers,"Provide information to the public regarding parking regulations and facilities, and the location of streets, buildings and points of interest.",Oral Comprehension,1,0
+7946,Parking Enforcement Workers,"Provide information to the public regarding parking regulations and facilities, and the location of streets, buildings and points of interest.",Spatial Orientation,1,0
+7953,Parking Enforcement Workers,"Prepare and maintain required records, including logs of parking enforcement activities, and records of contested citations.",Written Expression,2,0
+7953,Parking Enforcement Workers,"Prepare and maintain required records, including logs of parking enforcement activities, and records of contested citations.",Information Ordering,2,0
+7953,Parking Enforcement Workers,"Prepare and maintain required records, including logs of parking enforcement activities, and records of contested citations.",Near Vision,1,0
+7949,Parking Enforcement Workers,"Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic.",Gross Body Coordination,2,0
+7949,Parking Enforcement Workers,"Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic.",Multilimb Coordination,1,0
+7949,Parking Enforcement Workers,"Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic.",Static Strength,1,0
+7949,Parking Enforcement Workers,"Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic.",Reaction Time,1,0
+7949,Parking Enforcement Workers,"Perform traffic control duties such as setting up barricades and temporary signs, placing bags on parking meters to limit their use, or directing traffic.",Selective Attention,1,0
+7938,Parking Enforcement Workers,"Mark tires of parked vehicles with chalk and record time of marking, and return at regular intervals to ensure that parking time limits are not exceeded.",Manual Dexterity,1,0
+7938,Parking Enforcement Workers,"Mark tires of parked vehicles with chalk and record time of marking, and return at regular intervals to ensure that parking time limits are not exceeded.",Near Vision,1,0
+7938,Parking Enforcement Workers,"Mark tires of parked vehicles with chalk and record time of marking, and return at regular intervals to ensure that parking time limits are not exceeded.",Information Ordering,1,0
+7938,Parking Enforcement Workers,"Mark tires of parked vehicles with chalk and record time of marking, and return at regular intervals to ensure that parking time limits are not exceeded.",Selective Attention,1,0
+7954,Parking Enforcement Workers,"Locate lost, stolen, and counterfeit parking permits, and take necessary enforcement action.",Near Vision,2,0
+7954,Parking Enforcement Workers,"Locate lost, stolen, and counterfeit parking permits, and take necessary enforcement action.",Problem Sensitivity,1,0
+7954,Parking Enforcement Workers,"Locate lost, stolen, and counterfeit parking permits, and take necessary enforcement action.",Deductive Reasoning,1,0
+7952,Parking Enforcement Workers,Collect coins deposited in meters.,Manual Dexterity,2,0
+7952,Parking Enforcement Workers,Collect coins deposited in meters.,Finger Dexterity,1,0
+7952,Parking Enforcement Workers,Collect coins deposited in meters.,Near Vision,1,0
+7955,Parking Enforcement Workers,Wind parking meter clocks.,Manual Dexterity,2,0
+7955,Parking Enforcement Workers,Wind parking meter clocks.,Finger Dexterity,1,0
+7955,Parking Enforcement Workers,Wind parking meter clocks.,Arm-Hand Steadiness,1,0
+7950,Parking Enforcement Workers,"Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.",Manual Dexterity,2,0
+7950,Parking Enforcement Workers,"Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.",Static Strength,1,0
+7950,Parking Enforcement Workers,"Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.",Oral Expression,1,0
+7950,Parking Enforcement Workers,"Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.",Problem Sensitivity,1,0
+7956,Parking Enforcement Workers,Assign and review the work of subordinates.,Deductive Reasoning,1,1
+7956,Parking Enforcement Workers,Assign and review the work of subordinates.,Oral Expression,1,0
+7956,Parking Enforcement Workers,Assign and review the work of subordinates.,Information Ordering,1,0
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",Reaction Time,3,0
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",Dynamic Strength,2,0
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",Gross Body Coordination,2,0
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",Static Strength,2,0
+23051,Police and Sheriff's Patrol Officers,"Identify, pursue, and arrest suspects and perpetrators of criminal acts.",Stamina,2,0
+23052,Police and Sheriff's Patrol Officers,"Provide for public safety by maintaining order, responding to emergencies, protecting people and property, enforcing motor vehicle and criminal laws, and promoting good community relations.",Problem Sensitivity,2,0
+23052,Police and Sheriff's Patrol Officers,"Provide for public safety by maintaining order, responding to emergencies, protecting people and property, enforcing motor vehicle and criminal laws, and promoting good community relations.",Oral Expression,1,0
+23052,Police and Sheriff's Patrol Officers,"Provide for public safety by maintaining order, responding to emergencies, protecting people and property, enforcing motor vehicle and criminal laws, and promoting good community relations.",Reaction Time,1,1
+23052,Police and Sheriff's Patrol Officers,"Provide for public safety by maintaining order, responding to emergencies, protecting people and property, enforcing motor vehicle and criminal laws, and promoting good community relations.",Deductive Reasoning,1,0
+23053,Police and Sheriff's Patrol Officers,Record facts to prepare reports that document incidents and activities.,Written Expression,3,0
+23053,Police and Sheriff's Patrol Officers,Record facts to prepare reports that document incidents and activities.,Information Ordering,2,0
+23053,Police and Sheriff's Patrol Officers,Record facts to prepare reports that document incidents and activities.,Memorization,1,0
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,Manual Dexterity,2,0
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,Near Vision,1,0
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,Problem Sensitivity,2,0
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,Reaction Time,1,0
+23054,Police and Sheriff's Patrol Officers,Render aid to accident survivors and other persons requiring first aid for physical injuries.,Arm-Hand Steadiness,1,0
+23056,Police and Sheriff's Patrol Officers,Review facts of incidents to determine if criminal act or statute violations were involved.,Deductive Reasoning,3,0
+23056,Police and Sheriff's Patrol Officers,Review facts of incidents to determine if criminal act or statute violations were involved.,Inductive Reasoning,1,0
+23056,Police and Sheriff's Patrol Officers,Review facts of incidents to determine if criminal act or statute violations were involved.,Written Comprehension,1,0
+23055,Police and Sheriff's Patrol Officers,Investigate illegal or suspicious activities.,Problem Sensitivity,2,0
+23055,Police and Sheriff's Patrol Officers,Investigate illegal or suspicious activities.,Deductive Reasoning,2,0
+23055,Police and Sheriff's Patrol Officers,Investigate illegal or suspicious activities.,Selective Attention,2,0
+23055,Police and Sheriff's Patrol Officers,Investigate illegal or suspicious activities.,Inductive Reasoning,1,0
+23057,Police and Sheriff's Patrol Officers,"Monitor, note, report, and investigate suspicious persons and situations, safety hazards, and unusual or illegal activity in patrol area.",Selective Attention,3,0
+23057,Police and Sheriff's Patrol Officers,"Monitor, note, report, and investigate suspicious persons and situations, safety hazards, and unusual or illegal activity in patrol area.",Problem Sensitivity,2,0
+23057,Police and Sheriff's Patrol Officers,"Monitor, note, report, and investigate suspicious persons and situations, safety hazards, and unusual or illegal activity in patrol area.",Near Vision,1,0
+23057,Police and Sheriff's Patrol Officers,"Monitor, note, report, and investigate suspicious persons and situations, safety hazards, and unusual or illegal activity in patrol area.",Far Vision,1,0
+23058,Police and Sheriff's Patrol Officers,Testify in court to present evidence or act as witness in traffic and criminal cases.,Oral Expression,3,0
+23058,Police and Sheriff's Patrol Officers,Testify in court to present evidence or act as witness in traffic and criminal cases.,Memorization,2,0
+23058,Police and Sheriff's Patrol Officers,Testify in court to present evidence or act as witness in traffic and criminal cases.,Oral Comprehension,1,0
+23061,Police and Sheriff's Patrol Officers,Relay complaint and emergency-request information to appropriate agency dispatchers.,Oral Expression,2,0
+23061,Police and Sheriff's Patrol Officers,Relay complaint and emergency-request information to appropriate agency dispatchers.,Oral Comprehension,2,0
+23061,Police and Sheriff's Patrol Officers,Relay complaint and emergency-request information to appropriate agency dispatchers.,Speech Recognition,1,0
+23060,Police and Sheriff's Patrol Officers,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,Selective Attention,2,0
+23060,Police and Sheriff's Patrol Officers,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,Far Vision,2,0
+23060,Police and Sheriff's Patrol Officers,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,Near Vision,1,0
+23060,Police and Sheriff's Patrol Officers,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,Reaction Time,1,0
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",Far Vision,2,0
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",Selective Attention,2,0
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",Reaction Time,2,0
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",Multilimb Coordination,1,0
+23059,Police and Sheriff's Patrol Officers,"Drive vehicles or patrol specific areas to detect law violators, issue citations, and make arrests.",Control Precision,1,0
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",Dynamic Strength,2,0
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",Static Strength,2,0
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",Reaction Time,2,0
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",Gross Body Coordination,2,0
+23065,Police and Sheriff's Patrol Officers,"Execute arrest warrants, locating and taking persons into custody.",Problem Sensitivity,1,0
+23072,Police and Sheriff's Patrol Officers,"Patrol and guard courthouses, grand jury rooms, or assigned areas to provide security, enforce laws, maintain order, and arrest violators.",Selective Attention,2,0
+23072,Police and Sheriff's Patrol Officers,"Patrol and guard courthouses, grand jury rooms, or assigned areas to provide security, enforce laws, maintain order, and arrest violators.",Near Vision,1,0
+23072,Police and Sheriff's Patrol Officers,"Patrol and guard courthouses, grand jury rooms, or assigned areas to provide security, enforce laws, maintain order, and arrest violators.",Reaction Time,1,0
+23072,Police and Sheriff's Patrol Officers,"Patrol and guard courthouses, grand jury rooms, or assigned areas to provide security, enforce laws, maintain order, and arrest violators.",Static Strength,1,0
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,Visualization,2,0
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,Near Vision,2,0
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,Oral Expression,2,0
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,Oral Comprehension,2,0
+23063,Police and Sheriff's Patrol Officers,Photograph or draw diagrams of crime or accident scenes and interview principals and eyewitnesses.,Memorization,1,0
+23064,Police and Sheriff's Patrol Officers,Evaluate complaint and emergency-request information to determine response requirements.,Problem Sensitivity,2,0
+23064,Police and Sheriff's Patrol Officers,Evaluate complaint and emergency-request information to determine response requirements.,Deductive Reasoning,2,0
+23064,Police and Sheriff's Patrol Officers,Evaluate complaint and emergency-request information to determine response requirements.,Oral Comprehension,2,0
+23064,Police and Sheriff's Patrol Officers,Evaluate complaint and emergency-request information to determine response requirements.,Time Sharing,1,0
+23066,Police and Sheriff's Patrol Officers,"Patrol specific area on foot, horseback, or motorized conveyance, responding promptly to calls for assistance.",Stamina,2,0
+23066,Police and Sheriff's Patrol Officers,"Patrol specific area on foot, horseback, or motorized conveyance, responding promptly to calls for assistance.",Gross Body Coordination,2,0
+23066,Police and Sheriff's Patrol Officers,"Patrol specific area on foot, horseback, or motorized conveyance, responding promptly to calls for assistance.",Reaction Time,2,0
+23066,Police and Sheriff's Patrol Officers,"Patrol specific area on foot, horseback, or motorized conveyance, responding promptly to calls for assistance.",Far Vision,1,0
+23067,Police and Sheriff's Patrol Officers,Investigate traffic accidents and other accidents to determine causes and to determine if a crime has been committed.,Problem Sensitivity,3,0
+23067,Police and Sheriff's Patrol Officers,Investigate traffic accidents and other accidents to determine causes and to determine if a crime has been committed.,Deductive Reasoning,2,0
+23067,Police and Sheriff's Patrol Officers,Investigate traffic accidents and other accidents to determine causes and to determine if a crime has been committed.,Near Vision,1,0
+23067,Police and Sheriff's Patrol Officers,Investigate traffic accidents and other accidents to determine causes and to determine if a crime has been committed.,Visualization,1,0
+23062,Police and Sheriff's Patrol Officers,Verify that the proper legal charges have been made against law offenders.,Deductive Reasoning,2,0
+23062,Police and Sheriff's Patrol Officers,Verify that the proper legal charges have been made against law offenders.,Written Comprehension,2,0
+23062,Police and Sheriff's Patrol Officers,Verify that the proper legal charges have been made against law offenders.,Information Ordering,1,0
+23073,Police and Sheriff's Patrol Officers,"Transport or escort prisoners and defendants en route to courtrooms, prisons or jails, attorneys' offices, or medical facilities.",Selective Attention,2,0
+23073,Police and Sheriff's Patrol Officers,"Transport or escort prisoners and defendants en route to courtrooms, prisons or jails, attorneys' offices, or medical facilities.",Static Strength,1,0
+23073,Police and Sheriff's Patrol Officers,"Transport or escort prisoners and defendants en route to courtrooms, prisons or jails, attorneys' offices, or medical facilities.",Reaction Time,1,0
+23073,Police and Sheriff's Patrol Officers,"Transport or escort prisoners and defendants en route to courtrooms, prisons or jails, attorneys' offices, or medical facilities.",Gross Body Coordination,1,0
+23068,Police and Sheriff's Patrol Officers,Direct traffic flow and reroute traffic in case of emergencies.,Gross Body Coordination,2,0
+23068,Police and Sheriff's Patrol Officers,Direct traffic flow and reroute traffic in case of emergencies.,Response Orientation,2,0
+23068,Police and Sheriff's Patrol Officers,Direct traffic flow and reroute traffic in case of emergencies.,Reaction Time,1,0
+23068,Police and Sheriff's Patrol Officers,Direct traffic flow and reroute traffic in case of emergencies.,Far Vision,1,0
+23071,Police and Sheriff's Patrol Officers,"Question individuals entering secured areas to determine their business, directing and rerouting individuals as necessary.",Oral Expression,2,0
+23071,Police and Sheriff's Patrol Officers,"Question individuals entering secured areas to determine their business, directing and rerouting individuals as necessary.",Oral Comprehension,2,0
+23071,Police and Sheriff's Patrol Officers,"Question individuals entering secured areas to determine their business, directing and rerouting individuals as necessary.",Problem Sensitivity,1,0
+23069,Police and Sheriff's Patrol Officers,Notify patrol units to take violators into custody or to provide needed assistance or medical aid.,Oral Expression,2,0
+23069,Police and Sheriff's Patrol Officers,Notify patrol units to take violators into custody or to provide needed assistance or medical aid.,Oral Comprehension,1,0
+23069,Police and Sheriff's Patrol Officers,Notify patrol units to take violators into custody or to provide needed assistance or medical aid.,Speech Clarity,1,0
+23079,Police and Sheriff's Patrol Officers,Place people in protective custody.,Static Strength,1,0
+23079,Police and Sheriff's Patrol Officers,Place people in protective custody.,Gross Body Coordination,1,0
+23079,Police and Sheriff's Patrol Officers,Place people in protective custody.,Oral Expression,1,1
+23070,Police and Sheriff's Patrol Officers,"Serve statements of claims, subpoenas, summonses, jury summonses, orders to pay alimony, and other court orders.",Written Comprehension,1,0
+23070,Police and Sheriff's Patrol Officers,"Serve statements of claims, subpoenas, summonses, jury summonses, orders to pay alimony, and other court orders.",Oral Expression,1,0
+23070,Police and Sheriff's Patrol Officers,"Serve statements of claims, subpoenas, summonses, jury summonses, orders to pay alimony, and other court orders.",Information Ordering,1,1
+23074,Police and Sheriff's Patrol Officers,Inform citizens of community services and recommend options to facilitate longer-term problem resolution.,Oral Expression,2,0
+23074,Police and Sheriff's Patrol Officers,Inform citizens of community services and recommend options to facilitate longer-term problem resolution.,Oral Comprehension,1,0
+23074,Police and Sheriff's Patrol Officers,Inform citizens of community services and recommend options to facilitate longer-term problem resolution.,Problem Sensitivity,1,0
+23075,Police and Sheriff's Patrol Officers,"Locate and confiscate real or personal property, as directed by court order.",Static Strength,1,0
+23075,Police and Sheriff's Patrol Officers,"Locate and confiscate real or personal property, as directed by court order.",Deductive Reasoning,1,0
+23075,Police and Sheriff's Patrol Officers,"Locate and confiscate real or personal property, as directed by court order.",Near Vision,1,1
+23076,Police and Sheriff's Patrol Officers,Provide road information to assist motorists.,Oral Expression,2,0
+23076,Police and Sheriff's Patrol Officers,Provide road information to assist motorists.,Spatial Orientation,1,0
+23076,Police and Sheriff's Patrol Officers,Provide road information to assist motorists.,Oral Comprehension,1,0
+23080,Police and Sheriff's Patrol Officers,Conduct community programs for all ages concerning topics such as drugs and violence.,Oral Expression,3,0
+23080,Police and Sheriff's Patrol Officers,Conduct community programs for all ages concerning topics such as drugs and violence.,Speech Clarity,1,0
+23080,Police and Sheriff's Patrol Officers,Conduct community programs for all ages concerning topics such as drugs and violence.,Fluency of Ideas,1,0
+23077,Police and Sheriff's Patrol Officers,"Process prisoners, and prepare and maintain records of prisoner bookings and prisoner status during booking and pre-trial process.",Information Ordering,2,0
+23077,Police and Sheriff's Patrol Officers,"Process prisoners, and prepare and maintain records of prisoner bookings and prisoner status during booking and pre-trial process.",Written Expression,1,0
+23077,Police and Sheriff's Patrol Officers,"Process prisoners, and prepare and maintain records of prisoner bookings and prisoner status during booking and pre-trial process.",Near Vision,1,0
+23078,Police and Sheriff's Patrol Officers,"Supervise law enforcement staff, such as jail staff, officers, and deputy sheriffs.",Oral Expression,2,0
+23078,Police and Sheriff's Patrol Officers,"Supervise law enforcement staff, such as jail staff, officers, and deputy sheriffs.",Deductive Reasoning,1,0
+23078,Police and Sheriff's Patrol Officers,"Supervise law enforcement staff, such as jail staff, officers, and deputy sheriffs.",Oral Comprehension,1,0
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",Near Vision,2,0
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",Deductive Reasoning,2,0
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",Oral Comprehension,2,0
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",Oral Expression,2,0
+9450,Customs and Border Protection Officers,"Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.",Problem Sensitivity,1,0
+9451,Customs and Border Protection Officers,"Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.",Deductive Reasoning,2,0
+9451,Customs and Border Protection Officers,"Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.",Static Strength,1,0
+9451,Customs and Border Protection Officers,"Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.",Oral Expression,1,0
+9451,Customs and Border Protection Officers,"Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.",Written Expression,1,0
+9454,Customs and Border Protection Officers,"Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.",Near Vision,3,0
+9454,Customs and Border Protection Officers,"Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.",Selective Attention,2,0
+9454,Customs and Border Protection Officers,"Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.",Problem Sensitivity,2,0
+9454,Customs and Border Protection Officers,"Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.",Manual Dexterity,1,0
+9452,Customs and Border Protection Officers,"Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.",Near Vision,2,0
+9452,Customs and Border Protection Officers,"Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.",Problem Sensitivity,2,0
+9452,Customs and Border Protection Officers,"Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.",Static Strength,1,0
+9452,Customs and Border Protection Officers,"Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.",Selective Attention,2,0
+9453,Customs and Border Protection Officers,"Interpret and explain laws and regulations to travelers, prospective immigrants, shippers, and manufacturers.",Oral Expression,3,0
+9453,Customs and Border Protection Officers,"Interpret and explain laws and regulations to travelers, prospective immigrants, shippers, and manufacturers.",Written Comprehension,2,0
+9453,Customs and Border Protection Officers,"Interpret and explain laws and regulations to travelers, prospective immigrants, shippers, and manufacturers.",Oral Comprehension,1,0
+9456,Customs and Border Protection Officers,Institute civil and criminal prosecutions and cooperate with other law enforcement agencies in the investigation and prosecution of those in violation of immigration or customs laws.,Deductive Reasoning,2,0
+9456,Customs and Border Protection Officers,Institute civil and criminal prosecutions and cooperate with other law enforcement agencies in the investigation and prosecution of those in violation of immigration or customs laws.,Written Expression,1,0
+9456,Customs and Border Protection Officers,Institute civil and criminal prosecutions and cooperate with other law enforcement agencies in the investigation and prosecution of those in violation of immigration or customs laws.,Oral Expression,1,0
+9457,Customs and Border Protection Officers,Testify regarding decisions at immigration appeals or in federal court.,Oral Expression,3,0
+9457,Customs and Border Protection Officers,Testify regarding decisions at immigration appeals or in federal court.,Memorization,1,0
+9457,Customs and Border Protection Officers,Testify regarding decisions at immigration appeals or in federal court.,Oral Comprehension,1,0
+9455,Customs and Border Protection Officers,"Record and report job-related activities, findings, transactions, violations, discrepancies, and decisions.",Written Expression,2,0
+9455,Customs and Border Protection Officers,"Record and report job-related activities, findings, transactions, violations, discrepancies, and decisions.",Information Ordering,2,0
+9455,Customs and Border Protection Officers,"Record and report job-related activities, findings, transactions, violations, discrepancies, and decisions.",Near Vision,1,0
+9458,Customs and Border Protection Officers,Determine duty and taxes to be paid on goods.,Mathematical Reasoning,3,0
+9458,Customs and Border Protection Officers,Determine duty and taxes to be paid on goods.,Number Facility,2,0
+9458,Customs and Border Protection Officers,Determine duty and taxes to be paid on goods.,Deductive Reasoning,1,0
+9459,Customs and Border Protection Officers,"Collect samples of merchandise for examination, appraisal, or testing.",Manual Dexterity,1,0
+9459,Customs and Border Protection Officers,"Collect samples of merchandise for examination, appraisal, or testing.",Near Vision,1,0
+9459,Customs and Border Protection Officers,"Collect samples of merchandise for examination, appraisal, or testing.",Problem Sensitivity,1,1
+9460,Customs and Border Protection Officers,Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.,Deductive Reasoning,2,0
+9460,Customs and Border Protection Officers,Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.,Written Comprehension,2,0
+9460,Customs and Border Protection Officers,Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.,Mathematical Reasoning,1,0
+9460,Customs and Border Protection Officers,Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.,Written Expression,1,0
+9478,Transit and Railroad Police,Prepare reports documenting investigation activities and results.,Written Expression,3,0
+9478,Transit and Railroad Police,Prepare reports documenting investigation activities and results.,Information Ordering,2,0
+9478,Transit and Railroad Police,Prepare reports documenting investigation activities and results.,Memorization,1,0
+21002,Transit and Railroad Police,"Monitor transit areas and conduct security checks to protect railroad properties, patrons, and employees.",Selective Attention,3,0
+21002,Transit and Railroad Police,"Monitor transit areas and conduct security checks to protect railroad properties, patrons, and employees.",Near Vision,2,0
+21002,Transit and Railroad Police,"Monitor transit areas and conduct security checks to protect railroad properties, patrons, and employees.",Far Vision,1,0
+21002,Transit and Railroad Police,"Monitor transit areas and conduct security checks to protect railroad properties, patrons, and employees.",Auditory Attention,1,0
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,Dynamic Strength,2,0
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,Static Strength,2,0
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,Reaction Time,2,0
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,Gross Body Coordination,2,0
+9477,Transit and Railroad Police,Apprehend or remove trespassers or thieves from railroad property or coordinate with law enforcement agencies in apprehensions and removals.,Oral Expression,1,0
+9480,Transit and Railroad Police,"Direct security activities at derailments, fires, floods, or strikes involving railroad property.",Problem Sensitivity,2,0
+9480,Transit and Railroad Police,"Direct security activities at derailments, fires, floods, or strikes involving railroad property.",Oral Expression,2,0
+9480,Transit and Railroad Police,"Direct security activities at derailments, fires, floods, or strikes involving railroad property.",Deductive Reasoning,1,0
+9480,Transit and Railroad Police,"Direct security activities at derailments, fires, floods, or strikes involving railroad property.",Time Sharing,1,0
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",Selective Attention,2,0
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",Near Vision,1,0
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",Far Vision,1,0
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",Stamina,1,0
+9475,Transit and Railroad Police,"Patrol railroad yards, cars, stations, or other facilities to protect company property or shipments and to maintain order.",Gross Body Coordination,1,0
+9479,Transit and Railroad Police,"Investigate or direct investigations of freight theft, suspicious damage or loss of passengers' valuables, or other crimes on railroad property.",Problem Sensitivity,3,0
+9479,Transit and Railroad Police,"Investigate or direct investigations of freight theft, suspicious damage or loss of passengers' valuables, or other crimes on railroad property.",Deductive Reasoning,2,0
+9479,Transit and Railroad Police,"Investigate or direct investigations of freight theft, suspicious damage or loss of passengers' valuables, or other crimes on railroad property.",Inductive Reasoning,1,0
+9476,Transit and Railroad Police,Examine credentials of unauthorized persons attempting to enter secured areas.,Near Vision,2,0
+9476,Transit and Railroad Police,Examine credentials of unauthorized persons attempting to enter secured areas.,Selective Attention,2,0
+9476,Transit and Railroad Police,Examine credentials of unauthorized persons attempting to enter secured areas.,Deductive Reasoning,1,0
+21003,Transit and Railroad Police,Enforce traffic laws regarding the transit system and reprimand individuals who violate them.,Oral Expression,2,0
+21003,Transit and Railroad Police,Enforce traffic laws regarding the transit system and reprimand individuals who violate them.,Selective Attention,1,0
+21003,Transit and Railroad Police,Enforce traffic laws regarding the transit system and reprimand individuals who violate them.,Deductive Reasoning,1,0
+21004,Transit and Railroad Police,Provide training to the public or law enforcement personnel in railroad safety or security.,Oral Expression,3,0
+21004,Transit and Railroad Police,Provide training to the public or law enforcement personnel in railroad safety or security.,Oral Comprehension,1,0
+21004,Transit and Railroad Police,Provide training to the public or law enforcement personnel in railroad safety or security.,Information Ordering,1,0
+9484,Transit and Railroad Police,"Plan or implement special safety or preventive programs, such as fire or accident prevention.",Deductive Reasoning,2,0
+9484,Transit and Railroad Police,"Plan or implement special safety or preventive programs, such as fire or accident prevention.",Problem Sensitivity,2,0
+9484,Transit and Railroad Police,"Plan or implement special safety or preventive programs, such as fire or accident prevention.",Originality,1,0
+9484,Transit and Railroad Police,"Plan or implement special safety or preventive programs, such as fire or accident prevention.",Written Expression,1,0
+9481,Transit and Railroad Police,Direct or coordinate the daily activities or training of security staff.,Oral Expression,2,0
+9481,Transit and Railroad Police,Direct or coordinate the daily activities or training of security staff.,Deductive Reasoning,1,0
+9481,Transit and Railroad Police,Direct or coordinate the daily activities or training of security staff.,Information Ordering,1,0
+9482,Transit and Railroad Police,"Interview neighbors, associates, or former employers of job applicants to verify personal references or to obtain work history data.",Oral Expression,2,0
+9482,Transit and Railroad Police,"Interview neighbors, associates, or former employers of job applicants to verify personal references or to obtain work history data.",Oral Comprehension,2,0
+9482,Transit and Railroad Police,"Interview neighbors, associates, or former employers of job applicants to verify personal references or to obtain work history data.",Memorization,1,0
+9482,Transit and Railroad Police,"Interview neighbors, associates, or former employers of job applicants to verify personal references or to obtain work history data.",Written Expression,1,0
+7968,Animal Control Workers,"Write reports of activities, and maintain files of impoundments and dispositions of animals.",Written Expression,2,0
+7968,Animal Control Workers,"Write reports of activities, and maintain files of impoundments and dispositions of animals.",Information Ordering,2,0
+7968,Animal Control Workers,"Write reports of activities, and maintain files of impoundments and dispositions of animals.",Near Vision,1,0
+7958,Animal Control Workers,"Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.",Problem Sensitivity,2,0
+7958,Animal Control Workers,"Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.",Oral Comprehension,2,0
+7958,Animal Control Workers,"Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.",Deductive Reasoning,1,0
+7958,Animal Control Workers,"Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.",Written Expression,1,0
+7960,Animal Control Workers,"Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.",Near Vision,2,0
+7960,Animal Control Workers,"Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.",Problem Sensitivity,2,0
+7960,Animal Control Workers,"Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.",Deductive Reasoning,1,0
+7960,Animal Control Workers,"Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.",Manual Dexterity,1,0
+7967,Animal Control Workers,Contact animal owners to inform them that their pets are at animal holding facilities.,Oral Expression,2,0
+7967,Animal Control Workers,Contact animal owners to inform them that their pets are at animal holding facilities.,Oral Comprehension,1,0
+7967,Animal Control Workers,Contact animal owners to inform them that their pets are at animal holding facilities.,Speech Clarity,1,0
+7966,Animal Control Workers,"Educate the public about animal welfare, and animal control laws and regulations.",Oral Expression,3,0
+7966,Animal Control Workers,"Educate the public about animal welfare, and animal control laws and regulations.",Speech Clarity,1,0
+7966,Animal Control Workers,"Educate the public about animal welfare, and animal control laws and regulations.",Oral Comprehension,1,0
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,Static Strength,2,0
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,Manual Dexterity,2,0
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,Gross Body Coordination,2,0
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,Arm-Hand Steadiness,1,0
+7961,Animal Control Workers,Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.,Dynamic Strength,1,0
+7970,Animal Control Workers,Answer inquiries from the public concerning animal control operations.,Oral Expression,2,0
+7970,Animal Control Workers,Answer inquiries from the public concerning animal control operations.,Oral Comprehension,2,0
+7970,Animal Control Workers,Answer inquiries from the public concerning animal control operations.,Speech Clarity,1,0
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",Manual Dexterity,2,0
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",Reaction Time,2,0
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",Gross Body Coordination,2,0
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",Control Precision,2,0
+7959,Animal Control Workers,"Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.",Static Strength,1,0
+7965,Animal Control Workers,"Prepare for prosecutions related to animal treatment, and give evidence in court.",Oral Expression,2,0
+7965,Animal Control Workers,"Prepare for prosecutions related to animal treatment, and give evidence in court.",Written Expression,1,0
+7965,Animal Control Workers,"Prepare for prosecutions related to animal treatment, and give evidence in court.",Memorization,1,0
+7963,Animal Control Workers,"Supply animals with food, water, and personal care.",Manual Dexterity,1,0
+7963,Animal Control Workers,"Supply animals with food, water, and personal care.",Static Strength,1,0
+7963,Animal Control Workers,"Supply animals with food, water, and personal care.",Near Vision,1,1
+7969,Animal Control Workers,"Issue warnings or citations in connection with animal-related offenses, or contact police to report violations and request arrests.",Written Expression,1,0
+7969,Animal Control Workers,"Issue warnings or citations in connection with animal-related offenses, or contact police to report violations and request arrests.",Oral Expression,1,0
+7969,Animal Control Workers,"Issue warnings or citations in connection with animal-related offenses, or contact police to report violations and request arrests.",Deductive Reasoning,1,1
+7962,Animal Control Workers,"Euthanize rabid, unclaimed, or severely injured animals.",Arm-Hand Steadiness,2,0
+7962,Animal Control Workers,"Euthanize rabid, unclaimed, or severely injured animals.",Manual Dexterity,2,0
+7962,Animal Control Workers,"Euthanize rabid, unclaimed, or severely injured animals.",Control Precision,2,0
+7962,Animal Control Workers,"Euthanize rabid, unclaimed, or severely injured animals.",Near Vision,1,0

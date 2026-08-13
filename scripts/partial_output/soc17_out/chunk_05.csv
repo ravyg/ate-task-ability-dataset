@@ -1,0 +1,777 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,Written Comprehension,3,0
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,Inductive Reasoning,2,0
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,Deductive Reasoning,2,0
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,Memorization,2,0
+5381,Nuclear Engineers,Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.,Information Ordering,1,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Deductive Reasoning,3,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Problem Sensitivity,3,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Inductive Reasoning,2,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Oral Expression,2,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Information Ordering,2,0
+3582,Petroleum Engineers,Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.,Written Expression,1,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Problem Sensitivity,3,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Inductive Reasoning,3,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Deductive Reasoning,2,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Mathematical Reasoning,2,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Number Facility,2,0
+3580,Petroleum Engineers,"Monitor production rates, and plan rework processes to improve production.",Information Ordering,1,0
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,Written Expression,3,0
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,Information Ordering,3,0
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,Selective Attention,2,0
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,Written Comprehension,2,0
+3586,Petroleum Engineers,Maintain records of drilling and production operations.,Number Facility,1,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Inductive Reasoning,3,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Deductive Reasoning,3,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Mathematical Reasoning,3,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Number Facility,2,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Problem Sensitivity,2,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Spatial Orientation,2,0
+3581,Petroleum Engineers,Analyze data to recommend placement of wells and supplementary processes to enhance production.,Written Comprehension,1,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Problem Sensitivity,3,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Deductive Reasoning,3,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Oral Comprehension,2,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Oral Expression,2,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Inductive Reasoning,2,0
+3584,Petroleum Engineers,Assist engineering and other personnel to solve operating problems.,Speech Recognition,1,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Problem Sensitivity,3,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Deductive Reasoning,2,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Selective Attention,2,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Oral Expression,2,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Information Ordering,2,0
+3583,Petroleum Engineers,"Direct and monitor the completion and evaluation of wells, well testing, or well surveys.",Inductive Reasoning,2,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Deductive Reasoning,3,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Inductive Reasoning,3,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Information Ordering,3,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Mathematical Reasoning,2,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Spatial Orientation,2,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Written Expression,2,0
+3585,Petroleum Engineers,"Develop plans for oil and gas field drilling, and for product recovery and treatment.",Problem Sensitivity,2,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Mathematical Reasoning,3,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Number Facility,3,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Deductive Reasoning,3,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Inductive Reasoning,2,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Problem Sensitivity,2,0
+3579,Petroleum Engineers,"Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.",Written Comprehension,1,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Oral Comprehension,3,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Oral Expression,3,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Problem Sensitivity,2,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Deductive Reasoning,2,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Speech Recognition,2,0
+3587,Petroleum Engineers,"Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.",Speech Clarity,2,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Written Comprehension,3,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Deductive Reasoning,3,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Oral Expression,2,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Inductive Reasoning,2,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Speech Clarity,2,0
+3591,Petroleum Engineers,Interpret drilling and testing information for personnel.,Mathematical Reasoning,1,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Oral Expression,3,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Information Ordering,3,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Deductive Reasoning,2,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Problem Sensitivity,2,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Oral Comprehension,2,0
+3598,Petroleum Engineers,"Coordinate activities of workers engaged in research, planning, and development.",Time Sharing,1,0
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,Written Expression,3,0
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,Written Comprehension,2,0
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,Information Ordering,3,0
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,Deductive Reasoning,2,0
+3588,Petroleum Engineers,Write technical reports for engineering and management personnel.,Mathematical Reasoning,1,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Inductive Reasoning,3,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Deductive Reasoning,3,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Problem Sensitivity,2,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Mathematical Reasoning,2,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Visualization,2,0
+3589,Petroleum Engineers,"Evaluate findings to develop, design, or test equipment or processes.",Category Flexibility,1,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Problem Sensitivity,3,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Deductive Reasoning,2,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Near Vision,2,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Selective Attention,2,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Written Comprehension,2,0
+3600,Petroleum Engineers,Test machinery and equipment to ensure that it is safe and conforms to performance specifications.,Inductive Reasoning,2,0
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,Deductive Reasoning,3,0
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,Information Ordering,3,0
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,Oral Expression,2,0
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,Problem Sensitivity,2,0
+3590,Petroleum Engineers,Assign work to staff to obtain maximum utilization of personnel.,Category Flexibility,1,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Mathematical Reasoning,3,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Deductive Reasoning,3,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Visualization,3,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Inductive Reasoning,2,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Number Facility,2,0
+3596,Petroleum Engineers,"Simulate reservoir performance for different recovery techniques, using computer models.",Problem Sensitivity,2,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Deductive Reasoning,3,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Problem Sensitivity,3,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Inductive Reasoning,2,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Visualization,2,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Written Expression,2,0
+3592,Petroleum Engineers,Design and implement environmental controls on oil and gas operations.,Mathematical Reasoning,1,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Problem Sensitivity,3,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Deductive Reasoning,2,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Information Ordering,3,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Oral Expression,2,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Far Vision,1,0
+3594,Petroleum Engineers,"Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.",Selective Attention,2,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Problem Sensitivity,3,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Near Vision,2,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Deductive Reasoning,2,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Selective Attention,2,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Far Vision,2,0
+3595,Petroleum Engineers,Inspect oil and gas wells to determine that installations are completed.,Inductive Reasoning,1,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Information Ordering,3,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Deductive Reasoning,2,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Oral Expression,2,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Problem Sensitivity,2,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Time Sharing,2,0
+3593,Petroleum Engineers,"Coordinate the installation, maintenance, and operation of mining and oil field equipment.",Selective Attention,1,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Problem Sensitivity,3,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Inductive Reasoning,2,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Deductive Reasoning,2,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Near Vision,2,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Manual Dexterity,2,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Number Facility,1,0
+3597,Petroleum Engineers,"Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.",Selective Attention,1,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Deductive Reasoning,3,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Inductive Reasoning,3,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Visualization,3,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Mathematical Reasoning,2,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Problem Sensitivity,2,0
+3599,Petroleum Engineers,"Design or modify mining and oil field machinery and tools, applying engineering principles.",Written Expression,1,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Inductive Reasoning,3,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Problem Sensitivity,3,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Deductive Reasoning,2,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Mathematical Reasoning,2,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Selective Attention,2,0
+3601,Petroleum Engineers,Conduct engineering research experiments to improve or modify mining and oil machinery and operations.,Written Expression,1,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Inductive Reasoning,3,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Problem Sensitivity,3,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Deductive Reasoning,2,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Oral Expression,2,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Written Expression,2,0
+20854,"Energy Engineers, Except Wind and Solar",Identify and recommend energy savings strategies to achieve more energy-efficient operation.,Category Flexibility,1,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Inductive Reasoning,3,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Problem Sensitivity,3,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Mathematical Reasoning,2,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Number Facility,2,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Selective Attention,2,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Written Expression,2,0
+20855,"Energy Engineers, Except Wind and Solar",Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,Near Vision,1,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Inductive Reasoning,3,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Mathematical Reasoning,2,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Number Facility,2,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Selective Attention,2,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Problem Sensitivity,2,0
+18156,"Energy Engineers, Except Wind and Solar",Monitor and analyze energy consumption.,Deductive Reasoning,1,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Problem Sensitivity,3,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Selective Attention,2,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Deductive Reasoning,2,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Inductive Reasoning,2,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Written Comprehension,2,0
+20856,"Energy Engineers, Except Wind and Solar","Monitor energy related design or construction issues, such as energy engineering, energy management, or sustainable design.",Near Vision,1,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Problem Sensitivity,3,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Selective Attention,2,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Near Vision,2,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Deductive Reasoning,2,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Inductive Reasoning,2,0
+18150,"Energy Engineers, Except Wind and Solar","Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",Mathematical Reasoning,1,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Oral Comprehension,3,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Oral Expression,3,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Deductive Reasoning,2,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Written Comprehension,2,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Speech Clarity,2,0
+20857,"Energy Engineers, Except Wind and Solar","Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing.",Problem Sensitivity,1,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Inductive Reasoning,3,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Mathematical Reasoning,3,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Number Facility,2,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Visualization,2,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Near Vision,2,0
+18159,"Energy Engineers, Except Wind and Solar","Analyze, interpret, or create graphical representations of energy data, using engineering software.",Written Expression,2,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Number Facility,3,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Selective Attention,3,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Mathematical Reasoning,2,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Problem Sensitivity,2,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Near Vision,2,0
+20858,"Energy Engineers, Except Wind and Solar",Verify energy bills and meter readings.,Perceptual Speed,2,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Selective Attention,3,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Problem Sensitivity,2,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Near Vision,2,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Inductive Reasoning,2,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Information Ordering,2,0
+20859,"Energy Engineers, Except Wind and Solar","Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering.",Written Expression,1,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Deductive Reasoning,3,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Information Ordering,3,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Problem Sensitivity,2,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Mathematical Reasoning,2,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Oral Expression,2,0
+18151,"Energy Engineers, Except Wind and Solar","Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",Written Comprehension,1,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Mathematical Reasoning,3,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Deductive Reasoning,3,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Number Facility,2,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Inductive Reasoning,2,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Visualization,2,0
+18148,"Energy Engineers, Except Wind and Solar","Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",Selective Attention,1,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Written Comprehension,3,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Deductive Reasoning,3,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Visualization,2,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Near Vision,2,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Inductive Reasoning,2,0
+20860,"Energy Engineers, Except Wind and Solar","Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",Problem Sensitivity,2,0
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,Written Expression,3,0
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,Information Ordering,3,0
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,Written Comprehension,2,0
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,Deductive Reasoning,2,0
+20861,"Energy Engineers, Except Wind and Solar",Prepare energy-related project reports or related documentation.,Mathematical Reasoning,1,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Written Comprehension,3,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Deductive Reasoning,3,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Oral Comprehension,2,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Oral Expression,2,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Problem Sensitivity,2,0
+18165,"Energy Engineers, Except Wind and Solar",Review or negotiate energy purchase agreements.,Mathematical Reasoning,1,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Oral Expression,3,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Oral Comprehension,2,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Written Comprehension,2,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Speech Clarity,2,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Deductive Reasoning,2,0
+18166,"Energy Engineers, Except Wind and Solar",Train personnel or clients on topics such as energy management.,Information Ordering,1,0
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,Deductive Reasoning,3,0
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,Information Ordering,3,0
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,Oral Expression,2,0
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,Problem Sensitivity,2,0
+20862,"Energy Engineers, Except Wind and Solar",Direct the implementation of energy management projects.,Time Sharing,2,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Inductive Reasoning,3,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Written Comprehension,3,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Deductive Reasoning,2,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Mathematical Reasoning,2,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Problem Sensitivity,2,0
+20863,"Energy Engineers, Except Wind and Solar","Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy.",Originality,1,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Oral Expression,3,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Written Expression,3,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Oral Comprehension,2,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Speech Clarity,2,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Deductive Reasoning,1,0
+18157,"Energy Engineers, Except Wind and Solar",Promote awareness or use of alternative or renewable energy sources.,Fluency of Ideas,1,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Written Expression,3,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Deductive Reasoning,3,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Mathematical Reasoning,2,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Problem Sensitivity,2,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Visualization,2,0
+19648,"Energy Engineers, Except Wind and Solar",Write or install energy management routines for building automation systems.,Finger Dexterity,1,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Deductive Reasoning,3,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Inductive Reasoning,3,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Problem Sensitivity,2,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Oral Expression,2,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Written Expression,1,0
+20864,"Energy Engineers, Except Wind and Solar",Recommend best fuel for specific sites or circumstances.,Mathematical Reasoning,1,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Oral Comprehension,3,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Oral Expression,3,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Written Comprehension,2,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Deductive Reasoning,2,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Speech Recognition,2,0
+18149,"Energy Engineers, Except Wind and Solar",Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,Speech Clarity,2,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Written Expression,3,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Visualization,3,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Deductive Reasoning,2,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Information Ordering,2,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Near Vision,2,0
+16467,Mechatronics Engineers,"Create mechanical design documents for parts, assemblies, or finished products.",Mathematical Reasoning,1,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Visualization,3,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Deductive Reasoning,3,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Mathematical Reasoning,3,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Problem Sensitivity,2,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Inductive Reasoning,2,0
+16482,Mechatronics Engineers,Design advanced precision equipment for accurate or controlled applications.,Originality,2,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Deductive Reasoning,3,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Visualization,3,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Mathematical Reasoning,2,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Inductive Reasoning,2,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Problem Sensitivity,2,0
+16474,Mechatronics Engineers,Design engineering systems for the automation of industrial tasks.,Originality,1,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Deductive Reasoning,3,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Problem Sensitivity,3,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Inductive Reasoning,2,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Visualization,2,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Near Vision,2,0
+16470,Mechatronics Engineers,Implement or test design solutions.,Selective Attention,1,0
+16468,Mechatronics Engineers,Maintain technical project files.,Written Expression,3,0
+16468,Mechatronics Engineers,Maintain technical project files.,Information Ordering,3,0
+16468,Mechatronics Engineers,Maintain technical project files.,Written Comprehension,2,0
+16468,Mechatronics Engineers,Maintain technical project files.,Selective Attention,2,0
+16468,Mechatronics Engineers,Maintain technical project files.,Perceptual Speed,1,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Deductive Reasoning,3,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Inductive Reasoning,3,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Category Flexibility,2,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Problem Sensitivity,2,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Written Comprehension,2,0
+23946,Mechatronics Engineers,Identify materials appropriate for mechatronic system designs.,Visualization,1,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Inductive Reasoning,3,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Deductive Reasoning,3,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Problem Sensitivity,2,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Mathematical Reasoning,2,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Written Comprehension,2,0
+16471,Mechatronics Engineers,"Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.",Category Flexibility,1,0
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",Deductive Reasoning,3,0
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",Problem Sensitivity,3,0
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",Visualization,2,0
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",Inductive Reasoning,2,0
+16483,Mechatronics Engineers,"Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.",Mathematical Reasoning,1,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Oral Expression,3,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Oral Comprehension,2,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Written Comprehension,2,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Speech Clarity,2,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Deductive Reasoning,2,0
+16465,Mechatronics Engineers,Provide consultation or training on topics such as mechatronics or automated control.,Information Ordering,1,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Deductive Reasoning,3,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Oral Expression,2,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Problem Sensitivity,2,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Information Ordering,2,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Written Comprehension,2,0
+16466,Mechatronics Engineers,Oversee the work of contractors in accordance with project requirements.,Selective Attention,1,0
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,Written Expression,3,0
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,Information Ordering,3,0
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,Written Comprehension,2,0
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,Deductive Reasoning,2,0
+16464,Mechatronics Engineers,Publish engineering reports documenting design details or qualification test results.,Mathematical Reasoning,1,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Visualization,3,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Deductive Reasoning,3,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Inductive Reasoning,2,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Problem Sensitivity,2,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Mathematical Reasoning,2,0
+16479,Mechatronics Engineers,Upgrade the design of existing devices by adding mechatronic elements.,Category Flexibility,1,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Visualization,3,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Mathematical Reasoning,3,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Deductive Reasoning,2,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Inductive Reasoning,2,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Problem Sensitivity,2,0
+23947,Mechatronics Engineers,Create mechanical models to simulate mechatronic design concepts.,Originality,1,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Inductive Reasoning,3,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Problem Sensitivity,3,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Deductive Reasoning,2,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Category Flexibility,2,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Visualization,2,0
+16469,Mechatronics Engineers,Analyze existing development or manufacturing procedures and suggest improvements.,Written Expression,1,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Deductive Reasoning,3,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Inductive Reasoning,3,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Mathematical Reasoning,2,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Number Facility,2,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Problem Sensitivity,2,0
+23948,Mechatronics Engineers,"Determine the feasibility, costs, or performance benefits of new mechatronic equipment.",Visualization,1,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Deductive Reasoning,3,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Visualization,3,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Inductive Reasoning,2,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Problem Sensitivity,2,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Originality,2,0
+16480,Mechatronics Engineers,"Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.",Mathematical Reasoning,2,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Problem Sensitivity,3,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Selective Attention,3,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Near Vision,2,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Deductive Reasoning,2,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Inductive Reasoning,2,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Mathematical Reasoning,1,0
+19655,Mechatronics Engineers,"Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.",Arm-Hand Steadiness,1,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Deductive Reasoning,3,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Mathematical Reasoning,3,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Problem Sensitivity,2,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Inductive Reasoning,2,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Written Expression,2,0
+16476,Mechatronics Engineers,Create embedded software design programs.,Information Ordering,2,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Deductive Reasoning,3,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Mathematical Reasoning,3,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Visualization,3,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Inductive Reasoning,2,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Problem Sensitivity,2,0
+16475,Mechatronics Engineers,Design advanced electronic control systems for mechanical systems.,Originality,1,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Deductive Reasoning,3,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Visualization,3,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Inductive Reasoning,2,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Problem Sensitivity,2,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Mathematical Reasoning,2,0
+19654,Mechatronics Engineers,"Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.",Originality,2,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Deductive Reasoning,3,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Inductive Reasoning,3,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Visualization,2,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Problem Sensitivity,2,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Mathematical Reasoning,2,0
+19653,Mechatronics Engineers,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",Originality,1,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Deductive Reasoning,3,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Mathematical Reasoning,3,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Visualization,3,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Inductive Reasoning,2,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Problem Sensitivity,2,0
+16473,Mechatronics Engineers,"Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.",Originality,1,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Deductive Reasoning,3,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Visualization,3,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Mathematical Reasoning,2,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Problem Sensitivity,2,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Inductive Reasoning,2,0
+16481,Mechatronics Engineers,"Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.",Originality,2,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Visualization,3,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Deductive Reasoning,3,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Near Vision,2,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Mathematical Reasoning,2,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Written Expression,2,0
+16503,Microsystems Engineers,"Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with process, functional, or package constraints.",Spatial Orientation,2,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Deductive Reasoning,3,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Mathematical Reasoning,3,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Inductive Reasoning,2,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Problem Sensitivity,2,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Visualization,2,0
+16497,Microsystems Engineers,"Investigate characteristics such as cost, performance, or process capability of potential microelectromechanical systems (MEMS) device designs, using simulation or modeling software.",Number Facility,1,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Written Expression,3,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Information Ordering,3,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Written Comprehension,2,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Deductive Reasoning,2,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Near Vision,2,0
+16492,Microsystems Engineers,"Create or maintain formal engineering documents, such as schematics, bills of materials, components or materials specifications, or packaging requirements.",Selective Attention,1,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Inductive Reasoning,3,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Deductive Reasoning,3,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Problem Sensitivity,3,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Mathematical Reasoning,2,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Number Facility,2,0
+16505,Microsystems Engineers,"Conduct analyses addressing issues such as failure, reliability, or yield improvement.",Written Expression,1,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Deductive Reasoning,3,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Information Ordering,3,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Problem Sensitivity,2,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Mathematical Reasoning,1,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Written Expression,2,0
+16485,Microsystems Engineers,Plan or schedule engineering research or development projects involving microelectromechanical systems (MEMS) technology.,Time Sharing,1,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Inductive Reasoning,3,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Deductive Reasoning,3,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Visualization,2,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Problem Sensitivity,2,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Originality,2,0
+16495,Microsystems Engineers,"Propose product designs involving microelectromechanical systems (MEMS) technology, considering market data or customer requirements.",Written Comprehension,1,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Written Expression,3,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Information Ordering,3,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Deductive Reasoning,2,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Written Comprehension,2,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Selective Attention,2,0
+16502,Microsystems Engineers,"Develop formal documentation for microelectromechanical systems (MEMS) devices, including quality assurance guidance, quality control protocols, process control checklists, data collection, or reporting.",Problem Sensitivity,1,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Oral Expression,3,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Oral Comprehension,2,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Written Expression,2,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Speech Clarity,2,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Deductive Reasoning,2,0
+16490,Microsystems Engineers,Communicate operating characteristics or performance experience to other engineers or designers for training or new product development purposes.,Information Ordering,1,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Deductive Reasoning,3,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Inductive Reasoning,3,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Problem Sensitivity,2,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Category Flexibility,2,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Mathematical Reasoning,1,0
+16498,Microsystems Engineers,"Evaluate materials, fabrication methods, joining methods, surface treatments, or packaging to ensure acceptable processing, performance, cost, sustainability, or availability.",Near Vision,1,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Deductive Reasoning,3,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Visualization,3,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Mathematical Reasoning,3,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Problem Sensitivity,2,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Near Vision,2,0
+16494,Microsystems Engineers,"Refine final microelectromechanical systems (MEMS) design to optimize design for target dimensions, physical tolerances, or processing constraints.",Inductive Reasoning,2,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Selective Attention,3,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Problem Sensitivity,3,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Deductive Reasoning,2,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Inductive Reasoning,2,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Near Vision,2,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Mathematical Reasoning,2,0
+16508,Microsystems Engineers,"Conduct harsh environmental testing, accelerated aging, device characterization, or field trials to validate devices, using inspection tools, testing protocols, peripheral instrumentation, or modeling and simulation software.",Written Expression,1,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Written Expression,3,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Written Comprehension,3,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Deductive Reasoning,2,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Information Ordering,2,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Inductive Reasoning,2,0
+16489,Microsystems Engineers,"Develop or file intellectual property and patent disclosure or application documents related to microelectromechanical systems (MEMS) devices, products, or systems.",Problem Sensitivity,1,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Deductive Reasoning,3,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Problem Sensitivity,3,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Inductive Reasoning,2,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Near Vision,2,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Selective Attention,2,0
+16504,Microsystems Engineers,Conduct or oversee the conduct of prototype development or microfabrication activities to ensure compliance to specifications and promote effective production processes.,Information Ordering,2,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Inductive Reasoning,3,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Deductive Reasoning,3,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Problem Sensitivity,2,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Mathematical Reasoning,2,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Visualization,2,0
+16506,Microsystems Engineers,Conduct experimental or virtual studies to investigate characteristics and processing principles of potential microelectromechanical systems (MEMS) technology.,Selective Attention,1,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Deductive Reasoning,3,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Visualization,3,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Mathematical Reasoning,2,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Inductive Reasoning,2,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Originality,2,0
+16499,Microsystems Engineers,"Devise microelectromechanical systems (MEMS) production methods, such as integrated circuit fabrication, lithographic electroform modeling, or micromachining.",Problem Sensitivity,2,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Deductive Reasoning,3,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Inductive Reasoning,3,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Problem Sensitivity,2,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Mathematical Reasoning,2,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Selective Attention,2,0
+16500,Microsystems Engineers,"Develop or validate specialized materials characterization procedures, such as thermal withstand, fatigue, notch sensitivity, abrasion, or hardness tests.",Written Expression,1,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Mathematical Reasoning,3,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Deductive Reasoning,3,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Number Facility,2,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Inductive Reasoning,2,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Problem Sensitivity,2,0
+16507,Microsystems Engineers,"Validate fabrication processes for microelectromechanical systems (MEMS), using statistical process control implementation, virtual process simulations, data mining, or life testing.",Information Ordering,2,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Oral Expression,3,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Deductive Reasoning,2,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Near Vision,2,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Visualization,2,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Speech Clarity,2,0
+16491,Microsystems Engineers,"Demonstrate miniaturized systems that contain components, such as microsensors, microactuators, or integrated electronic circuits, fabricated on silicon or silicon carbide wafers.",Problem Sensitivity,1,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Information Ordering,3,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Deductive Reasoning,3,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Problem Sensitivity,2,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Oral Expression,2,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Time Sharing,2,0
+16484,Microsystems Engineers,Manage new product introduction projects to ensure effective deployment of microelectromechanical systems (MEMS) devices or applications.,Written Comprehension,1,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Problem Sensitivity,3,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Deductive Reasoning,3,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Inductive Reasoning,2,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Written Comprehension,2,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Selective Attention,2,0
+16493,Microsystems Engineers,"Conduct acceptance tests, vendor-qualification protocols, surveys, audits, corrective-action reviews, or performance monitoring of incoming materials or components to ensure conformance to specifications.",Information Ordering,2,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Deductive Reasoning,3,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Visualization,3,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Problem Sensitivity,2,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Mathematical Reasoning,2,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Inductive Reasoning,2,0
+16486,Microsystems Engineers,"Develop or implement microelectromechanical systems (MEMS) processing tools, fixtures, gages, dies, molds, or trays.",Near Vision,1,0
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",Written Expression,3,0
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",Information Ordering,3,0
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",Written Comprehension,2,0
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",Deductive Reasoning,2,0
+16488,Microsystems Engineers,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",Oral Expression,1,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Deductive Reasoning,3,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Problem Sensitivity,3,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Inductive Reasoning,2,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Mathematical Reasoning,2,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Written Comprehension,2,0
+16487,Microsystems Engineers,"Identify, procure, or develop test equipment, instrumentation, or facilities for characterization of microelectromechanical systems (MEMS) applications.",Near Vision,1,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Deductive Reasoning,3,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Problem Sensitivity,3,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Inductive Reasoning,2,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Mathematical Reasoning,2,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Information Ordering,2,0
+16501,Microsystems Engineers,"Develop or validate product-specific test protocols, acceptance thresholds, or inspection tools for quality control testing or performance measurement.",Written Expression,1,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Problem Sensitivity,3,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Selective Attention,3,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Deductive Reasoning,2,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Near Vision,2,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Information Ordering,2,0
+16496,Microsystems Engineers,"Oversee operation of microelectromechanical systems (MEMS) fabrication or assembly equipment, such as handling, singulation, assembly, wire-bonding, soldering, or package sealing.",Oral Expression,1,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Deductive Reasoning,3,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Problem Sensitivity,3,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Inductive Reasoning,2,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Written Comprehension,2,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Category Flexibility,2,0
+19656,Microsystems Engineers,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,Originality,1,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Deductive Reasoning,3,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Visualization,3,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Mathematical Reasoning,2,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Inductive Reasoning,2,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Problem Sensitivity,2,0
+19657,Microsystems Engineers,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",Originality,2,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Deductive Reasoning,3,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Inductive Reasoning,3,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Visualization,2,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Problem Sensitivity,2,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Mathematical Reasoning,2,0
+19658,Microsystems Engineers,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",Originality,1,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Deductive Reasoning,3,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Inductive Reasoning,3,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Visualization,2,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Mathematical Reasoning,2,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Problem Sensitivity,2,0
+19659,Microsystems Engineers,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",Originality,2,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Deductive Reasoning,3,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Mathematical Reasoning,3,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Visualization,2,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Inductive Reasoning,2,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Problem Sensitivity,2,0
+19660,Microsystems Engineers,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,Originality,2,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Inductive Reasoning,3,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Deductive Reasoning,3,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Mathematical Reasoning,2,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Problem Sensitivity,2,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Visualization,2,0
+19661,Microsystems Engineers,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",Originality,2,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Inductive Reasoning,3,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Deductive Reasoning,3,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Mathematical Reasoning,2,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Problem Sensitivity,2,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Number Facility,2,0
+18195,Photonics Engineers,Analyze system performance or operational requirements.,Written Comprehension,1,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Deductive Reasoning,3,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Visualization,3,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Mathematical Reasoning,3,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Inductive Reasoning,2,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Problem Sensitivity,2,0
+18200,Photonics Engineers,"Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems.",Originality,2,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Deductive Reasoning,3,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Inductive Reasoning,2,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Problem Sensitivity,2,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Near Vision,2,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Visualization,2,0
+18199,Photonics Engineers,Develop or test photonic prototypes or models.,Selective Attention,2,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Deductive Reasoning,3,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Visualization,3,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Mathematical Reasoning,2,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Problem Sensitivity,2,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Inductive Reasoning,2,0
+18194,Photonics Engineers,"Design, integrate, or test photonics systems or components.",Near Vision,2,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Deductive Reasoning,3,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Problem Sensitivity,2,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Oral Expression,2,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Information Ordering,2,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Inductive Reasoning,2,0
+18202,Photonics Engineers,Assist in the transition of photonic prototypes to production.,Near Vision,1,0
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",Written Comprehension,3,0
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",Oral Comprehension,2,0
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",Inductive Reasoning,2,0
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",Memorization,2,0
+18205,Photonics Engineers,"Read current literature, talk with colleagues, continue education, or participate in professional organizations or conferences to keep abreast of developments in the field.",Information Ordering,1,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Written Expression,3,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Information Ordering,3,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Written Comprehension,2,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Deductive Reasoning,2,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Mathematical Reasoning,1,0
+21055,Photonics Engineers,Write reports or proposals related to photonics research or development projects.,Originality,1,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Problem Sensitivity,3,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Selective Attention,3,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Deductive Reasoning,2,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Inductive Reasoning,2,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Near Vision,2,0
+18196,Photonics Engineers,Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components.,Mathematical Reasoning,2,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Deductive Reasoning,3,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Inductive Reasoning,3,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Problem Sensitivity,2,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Category Flexibility,2,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Written Comprehension,2,0
+18198,Photonics Engineers,Determine applications of photonics appropriate to meet product objectives or features.,Mathematical Reasoning,1,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Inductive Reasoning,3,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Deductive Reasoning,3,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Problem Sensitivity,2,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Mathematical Reasoning,2,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Written Comprehension,2,0
+18193,Photonics Engineers,Conduct research on new photonics technologies.,Originality,2,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Deductive Reasoning,3,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Mathematical Reasoning,3,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Visualization,3,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Problem Sensitivity,2,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Inductive Reasoning,2,0
+18189,Photonics Engineers,Design electro-optical sensing or imaging systems.,Originality,1,0
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",Written Expression,3,0
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",Information Ordering,3,0
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",Written Comprehension,2,0
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",Deductive Reasoning,2,0
+21056,Photonics Engineers,"Document photonics system or component design processes, including objectives, issues, or outcomes.",Selective Attention,1,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Deductive Reasoning,3,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Visualization,3,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Mathematical Reasoning,2,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Inductive Reasoning,2,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Problem Sensitivity,2,0
+19664,Photonics Engineers,"Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency.",Originality,2,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Oral Expression,3,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Written Comprehension,2,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Speech Clarity,2,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Oral Comprehension,2,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Information Ordering,2,0
+18206,Photonics Engineers,"Train operators, engineers, or other personnel.",Deductive Reasoning,1,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Deductive Reasoning,3,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Problem Sensitivity,3,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Near Vision,2,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Inductive Reasoning,2,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Mathematical Reasoning,2,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Manual Dexterity,1,0
+18188,Photonics Engineers,"Analyze, fabricate, or test fiber-optic links.",Arm-Hand Steadiness,1,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Deductive Reasoning,3,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Mathematical Reasoning,3,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Visualization,3,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Problem Sensitivity,2,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Inductive Reasoning,2,0
+18197,Photonics Engineers,"Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices.",Originality,2,0
+18203,Photonics Engineers,Create or maintain photonic design histories.,Written Expression,3,0
+18203,Photonics Engineers,Create or maintain photonic design histories.,Information Ordering,3,0
+18203,Photonics Engineers,Create or maintain photonic design histories.,Written Comprehension,2,0
+18203,Photonics Engineers,Create or maintain photonic design histories.,Deductive Reasoning,1,0
+18203,Photonics Engineers,Create or maintain photonic design histories.,Selective Attention,2,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Deductive Reasoning,3,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Problem Sensitivity,2,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Oral Expression,2,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Information Ordering,2,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Inductive Reasoning,2,0
+18204,Photonics Engineers,"Oversee or provide expertise on manufacturing, assembly, or fabrication processes.",Near Vision,1,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Deductive Reasoning,3,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Inductive Reasoning,3,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Category Flexibility,2,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Problem Sensitivity,2,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Written Comprehension,2,0
+18192,Photonics Engineers,"Determine commercial, industrial, scientific, or other uses for electro-optical applications or devices.",Mathematical Reasoning,1,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Deductive Reasoning,3,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Visualization,3,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Mathematical Reasoning,2,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Inductive Reasoning,2,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Problem Sensitivity,2,0
+19665,Photonics Engineers,Design solar energy photonics or other materials or devices to generate energy.,Originality,2,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Deductive Reasoning,3,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Mathematical Reasoning,3,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Visualization,3,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Inductive Reasoning,2,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Problem Sensitivity,2,0
+19663,Photonics Engineers,Design or redesign optical fibers to minimize energy loss.,Originality,1,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Deductive Reasoning,3,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Inductive Reasoning,3,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Problem Sensitivity,2,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Mathematical Reasoning,2,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Visualization,2,0
+19666,Photonics Engineers,Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes.,Originality,2,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Deductive Reasoning,3,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Visualization,3,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Mathematical Reasoning,2,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Problem Sensitivity,2,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Inductive Reasoning,2,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Near Vision,2,0
+18191,Photonics Engineers,"Develop laser-processed designs, such as laser-cut medical devices.",Originality,1,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Deductive Reasoning,3,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Inductive Reasoning,3,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Mathematical Reasoning,2,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Visualization,2,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Problem Sensitivity,2,0
+19662,Photonics Engineers,Design or develop new crystals for photonics applications.,Originality,2,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Deductive Reasoning,3,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Mathematical Reasoning,3,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Visualization,3,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Problem Sensitivity,2,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Inductive Reasoning,2,0
+18190,Photonics Engineers,Design laser machining equipment for purposes such as high-speed ablation.,Originality,1,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Problem Sensitivity,3,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Deductive Reasoning,2,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Near Vision,2,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Manual Dexterity,2,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Arm-Hand Steadiness,2,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Selective Attention,2,0
+18187,Photonics Engineers,"Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment.",Control Precision,1,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Deductive Reasoning,3,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Written Comprehension,3,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Inductive Reasoning,2,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Mathematical Reasoning,2,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Problem Sensitivity,2,0
+16512,Robotics Engineers,"Review or approve designs, calculations, or cost estimates.",Near Vision,1,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Inductive Reasoning,3,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Deductive Reasoning,3,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Mathematical Reasoning,2,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Number Facility,2,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Problem Sensitivity,2,0
+16517,Robotics Engineers,Process or interpret signals or sensor data.,Selective Attention,2,0
+16521,Robotics Engineers,Debug robotics programs.,Problem Sensitivity,3,0
+16521,Robotics Engineers,Debug robotics programs.,Deductive Reasoning,3,0
+16521,Robotics Engineers,Debug robotics programs.,Inductive Reasoning,2,0
+16521,Robotics Engineers,Debug robotics programs.,Mathematical Reasoning,2,0
+16521,Robotics Engineers,Debug robotics programs.,Selective Attention,2,0
+16521,Robotics Engineers,Debug robotics programs.,Information Ordering,1,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Deductive Reasoning,3,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Problem Sensitivity,3,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Visualization,2,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Near Vision,2,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Manual Dexterity,2,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Inductive Reasoning,2,0
+21057,Robotics Engineers,"Build, configure, or test robots or robotic applications.",Finger Dexterity,1,0
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,Written Expression,3,0
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,Information Ordering,2,0
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,Selective Attention,2,0
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,Deductive Reasoning,2,0
+16516,Robotics Engineers,Create back-ups of robot programs or parameters.,Perceptual Speed,1,0

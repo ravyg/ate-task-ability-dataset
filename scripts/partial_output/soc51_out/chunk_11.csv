@@ -1,0 +1,543 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Control Precision,2,0
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Selective Attention,2,0
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Near Vision,2,0
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Multilimb Coordination,2,0
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Manual Dexterity,1,0
+17819,Biofuels Processing Technicians,Operate chemical processing equipment for the production of biofuels.,Reaction Time,1,0
+17829,Biofuels Processing Technicians,Monitor and record flow meter performance.,Near Vision,3,0
+17829,Biofuels Processing Technicians,Monitor and record flow meter performance.,Selective Attention,2,0
+17829,Biofuels Processing Technicians,Monitor and record flow meter performance.,Perceptual Speed,2,0
+17829,Biofuels Processing Technicians,Monitor and record flow meter performance.,Information Ordering,1,0
+17829,Biofuels Processing Technicians,Monitor and record flow meter performance.,Number Facility,1,0
+17826,Biofuels Processing Technicians,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",Near Vision,3,0
+17826,Biofuels Processing Technicians,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",Far Vision,2,0
+17826,Biofuels Processing Technicians,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",Problem Sensitivity,2,0
+17826,Biofuels Processing Technicians,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",Selective Attention,2,0
+17826,Biofuels Processing Technicians,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",Written Expression,1,0
+17827,Biofuels Processing Technicians,Measure and monitor raw biofuels feedstock.,Near Vision,2,0
+17827,Biofuels Processing Technicians,Measure and monitor raw biofuels feedstock.,Number Facility,2,0
+17827,Biofuels Processing Technicians,Measure and monitor raw biofuels feedstock.,Selective Attention,2,0
+17827,Biofuels Processing Technicians,Measure and monitor raw biofuels feedstock.,Perceptual Speed,1,0
+17827,Biofuels Processing Technicians,Measure and monitor raw biofuels feedstock.,Manual Dexterity,1,0
+17832,Biofuels Processing Technicians,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",Manual Dexterity,2,0
+17832,Biofuels Processing Technicians,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",Control Precision,2,0
+17832,Biofuels Processing Technicians,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",Near Vision,1,0
+17832,Biofuels Processing Technicians,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",Selective Attention,1,0
+17832,Biofuels Processing Technicians,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",Static Strength,1,0
+17818,Biofuels Processing Technicians,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",Number Facility,2,0
+17818,Biofuels Processing Technicians,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",Manual Dexterity,2,0
+17818,Biofuels Processing Technicians,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",Static Strength,2,0
+17818,Biofuels Processing Technicians,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",Near Vision,1,0
+17818,Biofuels Processing Technicians,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",Control Precision,1,0
+17831,Biofuels Processing Technicians,Monitor stored biofuels products or secondary by-products until reused or transferred to users.,Near Vision,2,0
+17831,Biofuels Processing Technicians,Monitor stored biofuels products or secondary by-products until reused or transferred to users.,Selective Attention,2,0
+17831,Biofuels Processing Technicians,Monitor stored biofuels products or secondary by-products until reused or transferred to users.,Auditory Attention,1,0
+17831,Biofuels Processing Technicians,Monitor stored biofuels products or secondary by-products until reused or transferred to users.,Problem Sensitivity,1,0
+17823,Biofuels Processing Technicians,Assess the quality of biofuels additives for reprocessing.,Near Vision,2,0
+17823,Biofuels Processing Technicians,Assess the quality of biofuels additives for reprocessing.,Problem Sensitivity,2,0
+17823,Biofuels Processing Technicians,Assess the quality of biofuels additives for reprocessing.,Visual Color Discrimination,1,0
+17823,Biofuels Processing Technicians,Assess the quality of biofuels additives for reprocessing.,Deductive Reasoning,1,0
+17823,Biofuels Processing Technicians,Assess the quality of biofuels additives for reprocessing.,Manual Dexterity,1,1
+17833,Biofuels Processing Technicians,"Clean biofuels processing work area, ensuring compliance with safety regulations.",Static Strength,1,0
+17833,Biofuels Processing Technicians,"Clean biofuels processing work area, ensuring compliance with safety regulations.",Gross Body Coordination,1,0
+17833,Biofuels Processing Technicians,"Clean biofuels processing work area, ensuring compliance with safety regulations.",Stamina,1,0
+17833,Biofuels Processing Technicians,"Clean biofuels processing work area, ensuring compliance with safety regulations.",Near Vision,1,0
+17833,Biofuels Processing Technicians,"Clean biofuels processing work area, ensuring compliance with safety regulations.",Selective Attention,1,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Manual Dexterity,3,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Finger Dexterity,2,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Control Precision,2,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Near Vision,2,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Arm-Hand Steadiness,1,0
+17835,Biofuels Processing Technicians,"Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.",Static Strength,1,0
+17824,Biofuels Processing Technicians,"Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.",Control Precision,3,0
+17824,Biofuels Processing Technicians,"Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.",Near Vision,2,0
+17824,Biofuels Processing Technicians,"Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.",Arm-Hand Steadiness,2,0
+17824,Biofuels Processing Technicians,"Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.",Number Facility,1,0
+17824,Biofuels Processing Technicians,"Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.",Finger Dexterity,1,0
+17836,Biofuels Processing Technicians,"Rebuild, repair, or replace biofuels processing equipment components.",Manual Dexterity,3,0
+17836,Biofuels Processing Technicians,"Rebuild, repair, or replace biofuels processing equipment components.",Finger Dexterity,2,0
+17836,Biofuels Processing Technicians,"Rebuild, repair, or replace biofuels processing equipment components.",Static Strength,2,0
+17836,Biofuels Processing Technicians,"Rebuild, repair, or replace biofuels processing equipment components.",Control Precision,2,0
+17836,Biofuels Processing Technicians,"Rebuild, repair, or replace biofuels processing equipment components.",Near Vision,1,0
+17834,Biofuels Processing Technicians,Coordinate raw product sourcing or collection.,Oral Comprehension,2,0
+17834,Biofuels Processing Technicians,Coordinate raw product sourcing or collection.,Oral Expression,2,0
+17834,Biofuels Processing Technicians,Coordinate raw product sourcing or collection.,Information Ordering,2,0
+17834,Biofuels Processing Technicians,Coordinate raw product sourcing or collection.,Written Comprehension,1,0
+12334,Chemical Equipment Operators and Tenders,Observe safety precautions to prevent fires or explosions.,Selective Attention,2,0
+12334,Chemical Equipment Operators and Tenders,Observe safety precautions to prevent fires or explosions.,Problem Sensitivity,2,0
+12334,Chemical Equipment Operators and Tenders,Observe safety precautions to prevent fires or explosions.,Near Vision,1,0
+12334,Chemical Equipment Operators and Tenders,Observe safety precautions to prevent fires or explosions.,Oral Comprehension,1,0
+12342,Chemical Equipment Operators and Tenders,"Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.",Near Vision,2,0
+12342,Chemical Equipment Operators and Tenders,"Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.",Number Facility,2,0
+12342,Chemical Equipment Operators and Tenders,"Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.",Perceptual Speed,1,0
+12342,Chemical Equipment Operators and Tenders,"Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.",Written Expression,1,0
+12342,Chemical Equipment Operators and Tenders,"Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.",Information Ordering,1,0
+12336,Chemical Equipment Operators and Tenders,Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.,Control Precision,3,0
+12336,Chemical Equipment Operators and Tenders,Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.,Selective Attention,2,0
+12336,Chemical Equipment Operators and Tenders,Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.,Near Vision,2,0
+12336,Chemical Equipment Operators and Tenders,Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.,Multilimb Coordination,1,0
+12336,Chemical Equipment Operators and Tenders,Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.,Reaction Time,1,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Near Vision,2,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Far Vision,1,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Selective Attention,3,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Problem Sensitivity,2,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Gross Body Coordination,1,0
+12339,Chemical Equipment Operators and Tenders,Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.,Auditory Attention,1,0
+12341,Chemical Equipment Operators and Tenders,Draw samples of products at specified stages so that analyses can be performed.,Manual Dexterity,2,0
+12341,Chemical Equipment Operators and Tenders,Draw samples of products at specified stages so that analyses can be performed.,Arm-Hand Steadiness,2,0
+12341,Chemical Equipment Operators and Tenders,Draw samples of products at specified stages so that analyses can be performed.,Near Vision,1,0
+12341,Chemical Equipment Operators and Tenders,Draw samples of products at specified stages so that analyses can be performed.,Control Precision,1,0
+12333,Chemical Equipment Operators and Tenders,"Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.",Control Precision,3,0
+12333,Chemical Equipment Operators and Tenders,"Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.",Near Vision,2,0
+12333,Chemical Equipment Operators and Tenders,"Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.",Rate Control,2,0
+12333,Chemical Equipment Operators and Tenders,"Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.",Selective Attention,2,0
+12333,Chemical Equipment Operators and Tenders,"Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.",Deductive Reasoning,1,0
+12335,Chemical Equipment Operators and Tenders,"Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained.",Near Vision,3,0
+12335,Chemical Equipment Operators and Tenders,"Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained.",Selective Attention,3,0
+12335,Chemical Equipment Operators and Tenders,"Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained.",Perceptual Speed,2,0
+12335,Chemical Equipment Operators and Tenders,"Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained.",Time Sharing,1,0
+12340,Chemical Equipment Operators and Tenders,"Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing.",Near Vision,2,0
+12340,Chemical Equipment Operators and Tenders,"Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing.",Manual Dexterity,2,0
+12340,Chemical Equipment Operators and Tenders,"Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing.",Number Facility,1,0
+12340,Chemical Equipment Operators and Tenders,"Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing.",Control Precision,1,0
+12338,Chemical Equipment Operators and Tenders,"Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.",Near Vision,2,0
+12338,Chemical Equipment Operators and Tenders,"Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.",Problem Sensitivity,2,0
+12338,Chemical Equipment Operators and Tenders,"Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.",Selective Attention,2,0
+12338,Chemical Equipment Operators and Tenders,"Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.",Control Precision,1,0
+12338,Chemical Equipment Operators and Tenders,"Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.",Reaction Time,1,0
+12345,Chemical Equipment Operators and Tenders,"Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",Manual Dexterity,2,0
+12345,Chemical Equipment Operators and Tenders,"Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",Control Precision,2,0
+12345,Chemical Equipment Operators and Tenders,"Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",Arm-Hand Steadiness,1,0
+12345,Chemical Equipment Operators and Tenders,"Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",Static Strength,1,0
+12346,Chemical Equipment Operators and Tenders,"Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures.",Written Comprehension,3,0
+12346,Chemical Equipment Operators and Tenders,"Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures.",Information Ordering,2,0
+12346,Chemical Equipment Operators and Tenders,"Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures.",Near Vision,1,0
+12346,Chemical Equipment Operators and Tenders,"Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures.",Deductive Reasoning,1,0
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,Deductive Reasoning,2,0
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,Problem Sensitivity,2,0
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,Reaction Time,2,0
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,Oral Comprehension,1,0
+12351,Chemical Equipment Operators and Tenders,Implement appropriate industrial emergency response procedures.,Gross Body Coordination,1,0
+12337,Chemical Equipment Operators and Tenders,"Measure, weigh, and mix chemical ingredients, according to specifications.",Number Facility,2,0
+12337,Chemical Equipment Operators and Tenders,"Measure, weigh, and mix chemical ingredients, according to specifications.",Manual Dexterity,2,0
+12337,Chemical Equipment Operators and Tenders,"Measure, weigh, and mix chemical ingredients, according to specifications.",Near Vision,1,0
+12337,Chemical Equipment Operators and Tenders,"Measure, weigh, and mix chemical ingredients, according to specifications.",Control Precision,1,0
+12352,Chemical Equipment Operators and Tenders,"Dump or scoop prescribed solid, granular, or powdered materials into equipment.",Static Strength,2,0
+12352,Chemical Equipment Operators and Tenders,"Dump or scoop prescribed solid, granular, or powdered materials into equipment.",Manual Dexterity,2,0
+12352,Chemical Equipment Operators and Tenders,"Dump or scoop prescribed solid, granular, or powdered materials into equipment.",Dynamic Strength,1,0
+12352,Chemical Equipment Operators and Tenders,"Dump or scoop prescribed solid, granular, or powdered materials into equipment.",Trunk Strength,1,0
+12343,Chemical Equipment Operators and Tenders,Notify maintenance engineers of equipment malfunctions.,Oral Expression,2,0
+12343,Chemical Equipment Operators and Tenders,Notify maintenance engineers of equipment malfunctions.,Problem Sensitivity,1,0
+12343,Chemical Equipment Operators and Tenders,Notify maintenance engineers of equipment malfunctions.,Oral Comprehension,1,0
+12343,Chemical Equipment Operators and Tenders,Notify maintenance engineers of equipment malfunctions.,Information Ordering,1,0
+12353,Chemical Equipment Operators and Tenders,Estimate materials required for production and manufacturing of products.,Number Facility,2,0
+12353,Chemical Equipment Operators and Tenders,Estimate materials required for production and manufacturing of products.,Mathematical Reasoning,2,0
+12353,Chemical Equipment Operators and Tenders,Estimate materials required for production and manufacturing of products.,Deductive Reasoning,1,0
+12353,Chemical Equipment Operators and Tenders,Estimate materials required for production and manufacturing of products.,Inductive Reasoning,1,0
+12344,Chemical Equipment Operators and Tenders,"Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.",Manual Dexterity,2,0
+12344,Chemical Equipment Operators and Tenders,"Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.",Control Precision,2,0
+12344,Chemical Equipment Operators and Tenders,"Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.",Near Vision,1,0
+12344,Chemical Equipment Operators and Tenders,"Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.",Arm-Hand Steadiness,1,0
+12344,Chemical Equipment Operators and Tenders,"Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.",Static Strength,1,0
+12350,Chemical Equipment Operators and Tenders,Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results.,Visual Color Discrimination,3,0
+12350,Chemical Equipment Operators and Tenders,Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results.,Near Vision,2,0
+12350,Chemical Equipment Operators and Tenders,Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results.,Perceptual Speed,1,0
+12350,Chemical Equipment Operators and Tenders,Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results.,Selective Attention,1,0
+12355,Chemical Equipment Operators and Tenders,Direct activities of workers assisting in control or verification of processes or in unloading of materials.,Oral Expression,2,0
+12355,Chemical Equipment Operators and Tenders,Direct activities of workers assisting in control or verification of processes or in unloading of materials.,Information Ordering,2,0
+12355,Chemical Equipment Operators and Tenders,Direct activities of workers assisting in control or verification of processes or in unloading of materials.,Oral Comprehension,1,0
+12355,Chemical Equipment Operators and Tenders,Direct activities of workers assisting in control or verification of processes or in unloading of materials.,Selective Attention,1,0
+12347,Chemical Equipment Operators and Tenders,"Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment.",Manual Dexterity,2,0
+12347,Chemical Equipment Operators and Tenders,"Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment.",Static Strength,1,0
+12347,Chemical Equipment Operators and Tenders,"Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment.",Control Precision,1,0
+12347,Chemical Equipment Operators and Tenders,"Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment.",Near Vision,1,0
+12349,Chemical Equipment Operators and Tenders,"Flush or clean equipment, using steam hoses or mechanical reamers.",Static Strength,2,0
+12349,Chemical Equipment Operators and Tenders,"Flush or clean equipment, using steam hoses or mechanical reamers.",Manual Dexterity,2,0
+12349,Chemical Equipment Operators and Tenders,"Flush or clean equipment, using steam hoses or mechanical reamers.",Dynamic Strength,1,0
+12349,Chemical Equipment Operators and Tenders,"Flush or clean equipment, using steam hoses or mechanical reamers.",Arm-Hand Steadiness,1,0
+12348,Chemical Equipment Operators and Tenders,"Make minor repairs, lubricate, and maintain equipment, using hand tools.",Manual Dexterity,3,0
+12348,Chemical Equipment Operators and Tenders,"Make minor repairs, lubricate, and maintain equipment, using hand tools.",Finger Dexterity,2,0
+12348,Chemical Equipment Operators and Tenders,"Make minor repairs, lubricate, and maintain equipment, using hand tools.",Static Strength,1,0
+12348,Chemical Equipment Operators and Tenders,"Make minor repairs, lubricate, and maintain equipment, using hand tools.",Near Vision,1,0
+12354,Chemical Equipment Operators and Tenders,Inventory supplies received and consumed.,Number Facility,2,0
+12354,Chemical Equipment Operators and Tenders,Inventory supplies received and consumed.,Information Ordering,2,0
+12354,Chemical Equipment Operators and Tenders,Inventory supplies received and consumed.,Near Vision,1,0
+12354,Chemical Equipment Operators and Tenders,Inventory supplies received and consumed.,Perceptual Speed,1,0
+12366,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage.",Static Strength,2,0
+12366,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage.",Manual Dexterity,2,0
+12366,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage.",Number Facility,1,0
+12366,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage.",Dynamic Strength,1,0
+19918,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.",Control Precision,2,0
+19918,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.",Selective Attention,2,0
+19918,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.",Near Vision,1,0
+19918,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.",Multilimb Coordination,1,0
+12357,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions.",Near Vision,3,0
+12357,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions.",Selective Attention,3,0
+12357,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions.",Perceptual Speed,1,0
+12357,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions.",Problem Sensitivity,1,0
+20824,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials.",Manual Dexterity,2,0
+20824,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials.",Control Precision,2,0
+20824,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials.",Arm-Hand Steadiness,1,0
+20824,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials.",Near Vision,1,0
+12356,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure.",Control Precision,3,0
+12356,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure.",Near Vision,1,0
+12356,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure.",Manual Dexterity,2,0
+12356,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure.",Selective Attention,1,0
+20825,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture.",Near Vision,2,0
+20825,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture.",Visual Color Discrimination,2,0
+20825,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture.",Perceptual Speed,1,0
+20825,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture.",Manual Dexterity,1,0
+20826,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Start agitators, shakers, conveyors, pumps, or centrifuge machines.",Manual Dexterity,1,0
+20826,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Start agitators, shakers, conveyors, pumps, or centrifuge machines.",Control Precision,1,0
+20826,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Start agitators, shakers, conveyors, pumps, or centrifuge machines.",Reaction Time,1,0
+20826,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Start agitators, shakers, conveyors, pumps, or centrifuge machines.",Near Vision,1,0
+12365,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.",Near Vision,2,0
+12365,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.",Problem Sensitivity,2,0
+12365,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.",Selective Attention,2,0
+12365,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.",Far Vision,1,0
+12360,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory analysis.,Manual Dexterity,2,0
+12360,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory analysis.,Arm-Hand Steadiness,1,0
+12360,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory analysis.,Near Vision,1,0
+12360,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory analysis.,Control Precision,1,0
+12368,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Communicate processing instructions to other workers.,Oral Expression,3,0
+12368,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Communicate processing instructions to other workers.,Oral Comprehension,1,0
+12368,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Communicate processing instructions to other workers.,Information Ordering,1,0
+12368,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Communicate processing instructions to other workers.,Speech Clarity,1,0
+12372,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.,Manual Dexterity,2,0
+12372,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.,Static Strength,1,0
+12372,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.,Control Precision,1,0
+12372,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.,Near Vision,1,0
+20827,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Maintain logs of instrument readings, test results, or shift production for entry in computer databases.",Near Vision,2,0
+20827,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Maintain logs of instrument readings, test results, or shift production for entry in computer databases.",Information Ordering,2,0
+20827,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Maintain logs of instrument readings, test results, or shift production for entry in computer databases.",Written Expression,1,0
+20827,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Maintain logs of instrument readings, test results, or shift production for entry in computer databases.",Perceptual Speed,1,0
+12369,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",Manual Dexterity,2,0
+12369,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",Static Strength,2,0
+12369,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",Finger Dexterity,1,0
+12369,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",Trunk Strength,1,0
+12364,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",Static Strength,2,0
+12364,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",Dynamic Strength,1,0
+12364,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",Gross Body Coordination,1,0
+12364,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",Manual Dexterity,1,0
+12363,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed.",Number Facility,2,0
+12363,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed.",Manual Dexterity,1,0
+12363,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed.",Near Vision,1,0
+12363,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed.",Static Strength,1,0
+12362,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers.",Near Vision,2,0
+12362,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers.",Manual Dexterity,2,0
+12362,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers.",Number Facility,1,0
+12362,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers.",Control Precision,1,0
+12371,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools.",Manual Dexterity,3,0
+12371,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools.",Finger Dexterity,2,0
+12371,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools.",Static Strength,2,0
+12371,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools.",Control Precision,1,0
+12367,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Connect pipes between vats and processing equipment.,Manual Dexterity,2,0
+12367,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Connect pipes between vats and processing equipment.,Static Strength,2,0
+12367,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Connect pipes between vats and processing equipment.,Arm-Hand Steadiness,1,0
+12367,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Connect pipes between vats and processing equipment.,Control Precision,1,0
+20828,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation.",Manual Dexterity,3,0
+20828,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation.",Finger Dexterity,2,0
+20828,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation.",Control Precision,2,0
+20828,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation.",Near Vision,1,0
+12373,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Remove full containers from discharge outlets and replace them with empty containers.,Static Strength,2,0
+12373,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Remove full containers from discharge outlets and replace them with empty containers.,Dynamic Strength,1,0
+12373,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Remove full containers from discharge outlets and replace them with empty containers.,Manual Dexterity,1,0
+12373,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Remove full containers from discharge outlets and replace them with empty containers.,Trunk Strength,1,0
+12376,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions.",Near Vision,2,0
+12376,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions.",Selective Attention,3,0
+12376,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions.",Problem Sensitivity,1,0
+12376,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Observe operation of equipment to ensure continuity of flow, safety, and efficient operation, and to detect malfunctions.",Auditory Attention,1,0
+12381,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Clean, adjust, and maintain equipment, using hand tools.",Manual Dexterity,2,0
+12381,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Clean, adjust, and maintain equipment, using hand tools.",Finger Dexterity,1,0
+12381,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Clean, adjust, and maintain equipment, using hand tools.",Static Strength,1,0
+12381,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Clean, adjust, and maintain equipment, using hand tools.",Control Precision,1,0
+12389,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",Manual Dexterity,1,0
+12389,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",Selective Attention,1,0
+12389,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",Control Precision,1,0
+12389,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",Near Vision,1,0
+12377,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials.",Control Precision,2,0
+12377,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials.",Manual Dexterity,2,0
+12377,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials.",Arm-Hand Steadiness,1,0
+12377,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Move controls to start, stop, or adjust machinery and equipment that crushes, grinds, polishes, or blends materials.",Near Vision,1,0
+12382,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Notify supervisors of needed repairs.,Oral Expression,2,0
+12382,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Notify supervisors of needed repairs.,Problem Sensitivity,1,0
+12382,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Notify supervisors of needed repairs.,Oral Comprehension,1,0
+12382,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Notify supervisors of needed repairs.,Information Ordering,1,0
+12380,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements.",Number Facility,2,0
+12380,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements.",Near Vision,1,0
+12380,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements.",Manual Dexterity,1,0
+12380,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products at specified intervals to ensure conformance to requirements.",Perceptual Speed,1,0
+12378,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Record data from operations, testing, and production on specified forms.",Near Vision,2,0
+12378,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Record data from operations, testing, and production on specified forms.",Written Expression,1,0
+12378,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Record data from operations, testing, and production on specified forms.",Information Ordering,1,0
+12378,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Record data from operations, testing, and production on specified forms.",Number Facility,1,0
+12384,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Reject defective products and readjust equipment to eliminate problems.,Problem Sensitivity,2,0
+12384,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Reject defective products and readjust equipment to eliminate problems.,Near Vision,2,0
+12384,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Reject defective products and readjust equipment to eliminate problems.,Control Precision,2,0
+12384,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Reject defective products and readjust equipment to eliminate problems.,Deductive Reasoning,1,0
+12388,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Inspect chains, belts, or scrolls for signs of wear.",Near Vision,3,0
+12388,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Inspect chains, belts, or scrolls for signs of wear.",Problem Sensitivity,2,0
+12388,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Inspect chains, belts, or scrolls for signs of wear.",Selective Attention,1,0
+12388,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Inspect chains, belts, or scrolls for signs of wear.",Perceptual Speed,1,0
+12385,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Clean work areas.,Static Strength,1,0
+12385,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Clean work areas.,Gross Body Coordination,1,0
+12385,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Clean work areas.,Stamina,1,0
+12385,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Clean work areas.,Dynamic Strength,1,0
+12379,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards.",Near Vision,2,0
+12379,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards.",Manual Dexterity,1,0
+12379,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards.",Problem Sensitivity,2,0
+12379,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products, visually or with hands, to ensure conformance to established standards.",Perceptual Speed,1,0
+12375,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Read work orders to determine production specifications and information.,Written Comprehension,3,0
+12375,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Read work orders to determine production specifications and information.,Near Vision,1,0
+12375,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Read work orders to determine production specifications and information.,Information Ordering,1,0
+12375,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Read work orders to determine production specifications and information.,Number Facility,1,0
+12387,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools.",Manual Dexterity,2,0
+12387,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools.",Static Strength,2,0
+12387,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools.",Finger Dexterity,1,0
+12387,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery and equipment, using hand tools.",Problem Sensitivity,1,0
+12390,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Near Vision,2,0
+12390,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Manual Dexterity,2,0
+12390,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Number Facility,1,0
+12390,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Control Precision,1,0
+12392,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Mark bins as to types of mixtures stored.,Near Vision,1,0
+12392,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Mark bins as to types of mixtures stored.,Written Expression,1,0
+12392,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Mark bins as to types of mixtures stored.,Manual Dexterity,1,0
+12392,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Mark bins as to types of mixtures stored.,Information Ordering,1,0
+12386,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Transfer materials, supplies, and products between work areas, using moving equipment and hand tools.",Static Strength,2,0
+12386,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Transfer materials, supplies, and products between work areas, using moving equipment and hand tools.",Dynamic Strength,2,0
+12386,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Transfer materials, supplies, and products between work areas, using moving equipment and hand tools.",Gross Body Coordination,1,0
+12386,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Transfer materials, supplies, and products between work areas, using moving equipment and hand tools.",Trunk Strength,1,0
+12395,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Add or mix chemicals and ingredients for processing, using hand tools or other devices.",Manual Dexterity,2,0
+12395,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Add or mix chemicals and ingredients for processing, using hand tools or other devices.",Number Facility,1,0
+12395,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Add or mix chemicals and ingredients for processing, using hand tools or other devices.",Control Precision,1,0
+12395,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Add or mix chemicals and ingredients for processing, using hand tools or other devices.",Near Vision,1,0
+12391,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Manual Dexterity,2,0
+12391,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Arm-Hand Steadiness,1,0
+12391,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Near Vision,1,0
+12391,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Control Precision,1,0
+12394,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Load materials into machinery and equipment, using hand tools.",Static Strength,2,0
+12394,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Load materials into machinery and equipment, using hand tools.",Manual Dexterity,2,0
+12394,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Load materials into machinery and equipment, using hand tools.",Dynamic Strength,1,0
+12394,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Load materials into machinery and equipment, using hand tools.",Trunk Strength,1,0
+12393,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Turn valves to regulate the moisture contents of materials.,Manual Dexterity,2,0
+12393,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Turn valves to regulate the moisture contents of materials.,Control Precision,2,0
+12393,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Turn valves to regulate the moisture contents of materials.,Arm-Hand Steadiness,1,0
+12393,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Turn valves to regulate the moisture contents of materials.,Near Vision,1,0
+12383,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Set mill gauges to specified fineness of grind.,Control Precision,3,0
+12383,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Set mill gauges to specified fineness of grind.,Near Vision,2,0
+12383,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Set mill gauges to specified fineness of grind.,Arm-Hand Steadiness,2,0
+12383,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",Set mill gauges to specified fineness of grind.,Finger Dexterity,1,0
+14334,"Grinding and Polishing Workers, Hand","Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery.",Near Vision,3,0
+14334,"Grinding and Polishing Workers, Hand","Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery.",Perceptual Speed,2,0
+14334,"Grinding and Polishing Workers, Hand","Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery.",Problem Sensitivity,1,0
+14334,"Grinding and Polishing Workers, Hand","Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery.",Manual Dexterity,1,0
+14329,"Grinding and Polishing Workers, Hand","Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.",Manual Dexterity,3,0
+14329,"Grinding and Polishing Workers, Hand","Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+14329,"Grinding and Polishing Workers, Hand","Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.",Control Precision,2,0
+14329,"Grinding and Polishing Workers, Hand","Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.",Static Strength,1,0
+14329,"Grinding and Polishing Workers, Hand","Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.",Near Vision,1,0
+14333,"Grinding and Polishing Workers, Hand","Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met.",Near Vision,2,0
+14333,"Grinding and Polishing Workers, Hand","Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met.",Manual Dexterity,2,0
+14333,"Grinding and Polishing Workers, Hand","Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met.",Control Precision,1,0
+14333,"Grinding and Polishing Workers, Hand","Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met.",Number Facility,1,0
+14336,"Grinding and Polishing Workers, Hand","Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",Manual Dexterity,3,0
+14336,"Grinding and Polishing Workers, Hand","Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",Arm-Hand Steadiness,2,0
+14336,"Grinding and Polishing Workers, Hand","Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",Control Precision,2,0
+14336,"Grinding and Polishing Workers, Hand","Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",Static Strength,1,0
+14330,"Grinding and Polishing Workers, Hand","Mark defects, such as knotholes, cracks, and splits, for repair.",Near Vision,3,0
+14330,"Grinding and Polishing Workers, Hand","Mark defects, such as knotholes, cracks, and splits, for repair.",Problem Sensitivity,2,0
+14330,"Grinding and Polishing Workers, Hand","Mark defects, such as knotholes, cracks, and splits, for repair.",Selective Attention,1,0
+14330,"Grinding and Polishing Workers, Hand","Mark defects, such as knotholes, cracks, and splits, for repair.",Manual Dexterity,1,0
+14340,"Grinding and Polishing Workers, Hand",Study blueprints or layouts to determine how to lay out workpieces or saw out templates.,Visualization,3,0
+14340,"Grinding and Polishing Workers, Hand",Study blueprints or layouts to determine how to lay out workpieces or saw out templates.,Written Comprehension,2,0
+14340,"Grinding and Polishing Workers, Hand",Study blueprints or layouts to determine how to lay out workpieces or saw out templates.,Near Vision,1,0
+14340,"Grinding and Polishing Workers, Hand",Study blueprints or layouts to determine how to lay out workpieces or saw out templates.,Spatial Orientation,1,0
+14331,"Grinding and Polishing Workers, Hand","Move controls to adjust, start, or stop equipment during grinding and polishing processes.",Control Precision,2,0
+14331,"Grinding and Polishing Workers, Hand","Move controls to adjust, start, or stop equipment during grinding and polishing processes.",Manual Dexterity,2,0
+14331,"Grinding and Polishing Workers, Hand","Move controls to adjust, start, or stop equipment during grinding and polishing processes.",Arm-Hand Steadiness,1,0
+14331,"Grinding and Polishing Workers, Hand","Move controls to adjust, start, or stop equipment during grinding and polishing processes.",Near Vision,1,0
+14338,"Grinding and Polishing Workers, Hand","Load and adjust workpieces onto equipment or work tables, using hand tools.",Manual Dexterity,2,0
+14338,"Grinding and Polishing Workers, Hand","Load and adjust workpieces onto equipment or work tables, using hand tools.",Static Strength,1,0
+14338,"Grinding and Polishing Workers, Hand","Load and adjust workpieces onto equipment or work tables, using hand tools.",Control Precision,1,0
+14338,"Grinding and Polishing Workers, Hand","Load and adjust workpieces onto equipment or work tables, using hand tools.",Near Vision,1,0
+14344,"Grinding and Polishing Workers, Hand","Repair and maintain equipment, objects, or parts, using hand tools.",Manual Dexterity,3,0
+14344,"Grinding and Polishing Workers, Hand","Repair and maintain equipment, objects, or parts, using hand tools.",Finger Dexterity,2,0
+14344,"Grinding and Polishing Workers, Hand","Repair and maintain equipment, objects, or parts, using hand tools.",Static Strength,1,0
+14344,"Grinding and Polishing Workers, Hand","Repair and maintain equipment, objects, or parts, using hand tools.",Control Precision,1,0
+14332,"Grinding and Polishing Workers, Hand","Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes.",Deductive Reasoning,2,0
+14332,"Grinding and Polishing Workers, Hand","Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes.",Near Vision,1,0
+14332,"Grinding and Polishing Workers, Hand","Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes.",Information Ordering,1,0
+14332,"Grinding and Polishing Workers, Hand","Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes.",Visualization,1,0
+14346,"Grinding and Polishing Workers, Hand","File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications.",Manual Dexterity,3,0
+14346,"Grinding and Polishing Workers, Hand","File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications.",Arm-Hand Steadiness,3,0
+14346,"Grinding and Polishing Workers, Hand","File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications.",Control Precision,2,0
+14346,"Grinding and Polishing Workers, Hand","File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications.",Near Vision,2,0
+14345,"Grinding and Polishing Workers, Hand","Sharpen abrasive grinding tools, using machines and hand tools.",Manual Dexterity,2,0
+14345,"Grinding and Polishing Workers, Hand","Sharpen abrasive grinding tools, using machines and hand tools.",Control Precision,2,0
+14345,"Grinding and Polishing Workers, Hand","Sharpen abrasive grinding tools, using machines and hand tools.",Arm-Hand Steadiness,2,0
+14345,"Grinding and Polishing Workers, Hand","Sharpen abrasive grinding tools, using machines and hand tools.",Near Vision,1,0
+14339,"Grinding and Polishing Workers, Hand","Transfer equipment, objects, or parts to specified work areas, using moving devices.",Static Strength,2,0
+14339,"Grinding and Polishing Workers, Hand","Transfer equipment, objects, or parts to specified work areas, using moving devices.",Dynamic Strength,1,0
+14339,"Grinding and Polishing Workers, Hand","Transfer equipment, objects, or parts to specified work areas, using moving devices.",Gross Body Coordination,1,0
+14339,"Grinding and Polishing Workers, Hand","Transfer equipment, objects, or parts to specified work areas, using moving devices.",Manual Dexterity,1,0
+14337,"Grinding and Polishing Workers, Hand","Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers.",Manual Dexterity,2,0
+14337,"Grinding and Polishing Workers, Hand","Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers.",Static Strength,1,0
+14337,"Grinding and Polishing Workers, Hand","Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers.",Near Vision,1,0
+14337,"Grinding and Polishing Workers, Hand","Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers.",Control Precision,1,0
+14335,"Grinding and Polishing Workers, Hand",Record product and processing data on specified forms.,Near Vision,2,0
+14335,"Grinding and Polishing Workers, Hand",Record product and processing data on specified forms.,Written Expression,1,0
+14335,"Grinding and Polishing Workers, Hand",Record product and processing data on specified forms.,Information Ordering,1,0
+14335,"Grinding and Polishing Workers, Hand",Record product and processing data on specified forms.,Number Facility,1,0
+14341,"Grinding and Polishing Workers, Hand","Apply solutions and chemicals to equipment, objects, or parts, using hand tools.",Manual Dexterity,2,0
+14341,"Grinding and Polishing Workers, Hand","Apply solutions and chemicals to equipment, objects, or parts, using hand tools.",Control Precision,1,0
+14341,"Grinding and Polishing Workers, Hand","Apply solutions and chemicals to equipment, objects, or parts, using hand tools.",Near Vision,1,0
+14341,"Grinding and Polishing Workers, Hand","Apply solutions and chemicals to equipment, objects, or parts, using hand tools.",Arm-Hand Steadiness,1,0
+14348,"Grinding and Polishing Workers, Hand",Clean brass particles from files by drawing file cards through file grooves.,Manual Dexterity,2,0
+14348,"Grinding and Polishing Workers, Hand",Clean brass particles from files by drawing file cards through file grooves.,Finger Dexterity,2,0
+14348,"Grinding and Polishing Workers, Hand",Clean brass particles from files by drawing file cards through file grooves.,Arm-Hand Steadiness,1,0
+14348,"Grinding and Polishing Workers, Hand",Clean brass particles from files by drawing file cards through file grooves.,Near Vision,1,0
+12397,"Mixing and Blending Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products to ensure conformance to requirements.",Number Facility,2,0
+12397,"Mixing and Blending Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products to ensure conformance to requirements.",Near Vision,1,0
+12397,"Mixing and Blending Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products to ensure conformance to requirements.",Manual Dexterity,1,0
+12397,"Mixing and Blending Machine Setters, Operators, and Tenders","Weigh or measure materials, ingredients, or products to ensure conformance to requirements.",Perceptual Speed,1,0
+12410,"Mixing and Blending Machine Setters, Operators, and Tenders",Read work orders to determine production specifications or information.,Written Comprehension,3,0
+12410,"Mixing and Blending Machine Setters, Operators, and Tenders",Read work orders to determine production specifications or information.,Near Vision,1,0
+12410,"Mixing and Blending Machine Setters, Operators, and Tenders",Read work orders to determine production specifications or information.,Information Ordering,1,0
+12410,"Mixing and Blending Machine Setters, Operators, and Tenders",Read work orders to determine production specifications or information.,Number Facility,1,0
+12402,"Mixing and Blending Machine Setters, Operators, and Tenders",Observe production or monitor equipment to ensure safe and efficient operation.,Near Vision,2,0
+12402,"Mixing and Blending Machine Setters, Operators, and Tenders",Observe production or monitor equipment to ensure safe and efficient operation.,Selective Attention,3,0
+12402,"Mixing and Blending Machine Setters, Operators, and Tenders",Observe production or monitor equipment to ensure safe and efficient operation.,Problem Sensitivity,1,0
+12402,"Mixing and Blending Machine Setters, Operators, and Tenders",Observe production or monitor equipment to ensure safe and efficient operation.,Auditory Attention,1,0
+20682,"Mixing and Blending Machine Setters, Operators, and Tenders",Mix or blend ingredients by starting machines and mixing for specified times.,Control Precision,2,0
+20682,"Mixing and Blending Machine Setters, Operators, and Tenders",Mix or blend ingredients by starting machines and mixing for specified times.,Manual Dexterity,2,0
+20682,"Mixing and Blending Machine Setters, Operators, and Tenders",Mix or blend ingredients by starting machines and mixing for specified times.,Rate Control,1,0
+20682,"Mixing and Blending Machine Setters, Operators, and Tenders",Mix or blend ingredients by starting machines and mixing for specified times.,Near Vision,1,0
+12403,"Mixing and Blending Machine Setters, Operators, and Tenders",Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures.,Control Precision,2,0
+12403,"Mixing and Blending Machine Setters, Operators, and Tenders",Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures.,Manual Dexterity,2,0
+12403,"Mixing and Blending Machine Setters, Operators, and Tenders",Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures.,Near Vision,1,0
+12403,"Mixing and Blending Machine Setters, Operators, and Tenders",Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures.,Perceptual Speed,1,0
+12411,"Mixing and Blending Machine Setters, Operators, and Tenders","Compound or process ingredients or dyes, according to formulas.",Number Facility,2,0
+12411,"Mixing and Blending Machine Setters, Operators, and Tenders","Compound or process ingredients or dyes, according to formulas.",Manual Dexterity,2,0
+12411,"Mixing and Blending Machine Setters, Operators, and Tenders","Compound or process ingredients or dyes, according to formulas.",Deductive Reasoning,1,0
+12411,"Mixing and Blending Machine Setters, Operators, and Tenders","Compound or process ingredients or dyes, according to formulas.",Near Vision,1,0
+12406,"Mixing and Blending Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards.",Near Vision,2,0
+12406,"Mixing and Blending Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards.",Manual Dexterity,1,0
+12406,"Mixing and Blending Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards.",Problem Sensitivity,2,0
+12406,"Mixing and Blending Machine Setters, Operators, and Tenders","Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards.",Perceptual Speed,1,0
+12400,"Mixing and Blending Machine Setters, Operators, and Tenders","Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",Control Precision,2,0
+12400,"Mixing and Blending Machine Setters, Operators, and Tenders","Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",Manual Dexterity,2,0
+12400,"Mixing and Blending Machine Setters, Operators, and Tenders","Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",Selective Attention,1,0
+12400,"Mixing and Blending Machine Setters, Operators, and Tenders","Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",Near Vision,1,0
+12401,"Mixing and Blending Machine Setters, Operators, and Tenders",Dump or pour specified amounts of materials into machinery or equipment.,Static Strength,2,0
+12401,"Mixing and Blending Machine Setters, Operators, and Tenders",Dump or pour specified amounts of materials into machinery or equipment.,Manual Dexterity,1,0
+12401,"Mixing and Blending Machine Setters, Operators, and Tenders",Dump or pour specified amounts of materials into machinery or equipment.,Dynamic Strength,1,0
+12401,"Mixing and Blending Machine Setters, Operators, and Tenders",Dump or pour specified amounts of materials into machinery or equipment.,Near Vision,1,0
+12407,"Mixing and Blending Machine Setters, Operators, and Tenders",Record operational or production data on specified forms.,Near Vision,2,0
+12407,"Mixing and Blending Machine Setters, Operators, and Tenders",Record operational or production data on specified forms.,Written Expression,1,0
+12407,"Mixing and Blending Machine Setters, Operators, and Tenders",Record operational or production data on specified forms.,Information Ordering,1,0
+12407,"Mixing and Blending Machine Setters, Operators, and Tenders",Record operational or production data on specified forms.,Number Facility,1,0
+12404,"Mixing and Blending Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Manual Dexterity,2,0
+12404,"Mixing and Blending Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Arm-Hand Steadiness,1,0
+12404,"Mixing and Blending Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Near Vision,1,0
+12404,"Mixing and Blending Machine Setters, Operators, and Tenders",Collect samples of materials or products for laboratory testing.,Control Precision,1,0
+12412,"Mixing and Blending Machine Setters, Operators, and Tenders",Unload mixtures into containers or onto conveyors for further processing.,Static Strength,2,0
+12412,"Mixing and Blending Machine Setters, Operators, and Tenders",Unload mixtures into containers or onto conveyors for further processing.,Manual Dexterity,1,0
+12412,"Mixing and Blending Machine Setters, Operators, and Tenders",Unload mixtures into containers or onto conveyors for further processing.,Dynamic Strength,1,0
+12412,"Mixing and Blending Machine Setters, Operators, and Tenders",Unload mixtures into containers or onto conveyors for further processing.,Trunk Strength,1,0
+23983,"Mixing and Blending Machine Setters, Operators, and Tenders",Clean work areas.,Static Strength,1,0
+23983,"Mixing and Blending Machine Setters, Operators, and Tenders",Clean work areas.,Gross Body Coordination,1,0
+23983,"Mixing and Blending Machine Setters, Operators, and Tenders",Clean work areas.,Stamina,1,0
+23983,"Mixing and Blending Machine Setters, Operators, and Tenders",Clean work areas.,Dynamic Strength,1,0
+12405,"Mixing and Blending Machine Setters, Operators, and Tenders","Add or mix chemicals or ingredients for processing, using hand tools or other devices.",Manual Dexterity,2,0
+12405,"Mixing and Blending Machine Setters, Operators, and Tenders","Add or mix chemicals or ingredients for processing, using hand tools or other devices.",Number Facility,1,0
+12405,"Mixing and Blending Machine Setters, Operators, and Tenders","Add or mix chemicals or ingredients for processing, using hand tools or other devices.",Control Precision,1,0
+12405,"Mixing and Blending Machine Setters, Operators, and Tenders","Add or mix chemicals or ingredients for processing, using hand tools or other devices.",Near Vision,1,0
+12409,"Mixing and Blending Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes.",Manual Dexterity,1,0
+12409,"Mixing and Blending Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes.",Selective Attention,1,0
+12409,"Mixing and Blending Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes.",Control Precision,1,0
+12409,"Mixing and Blending Machine Setters, Operators, and Tenders","Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes.",Near Vision,1,0
+12408,"Mixing and Blending Machine Setters, Operators, and Tenders","Transfer materials, supplies, or products between work areas, using moving equipment or hand tools.",Static Strength,2,0
+12408,"Mixing and Blending Machine Setters, Operators, and Tenders","Transfer materials, supplies, or products between work areas, using moving equipment or hand tools.",Dynamic Strength,1,0
+12408,"Mixing and Blending Machine Setters, Operators, and Tenders","Transfer materials, supplies, or products between work areas, using moving equipment or hand tools.",Gross Body Coordination,1,0
+12408,"Mixing and Blending Machine Setters, Operators, and Tenders","Transfer materials, supplies, or products between work areas, using moving equipment or hand tools.",Trunk Strength,1,0
+12413,"Mixing and Blending Machine Setters, Operators, and Tenders","Clean and maintain equipment, using hand tools.",Manual Dexterity,2,0
+12413,"Mixing and Blending Machine Setters, Operators, and Tenders","Clean and maintain equipment, using hand tools.",Finger Dexterity,1,0
+12413,"Mixing and Blending Machine Setters, Operators, and Tenders","Clean and maintain equipment, using hand tools.",Static Strength,1,0
+12413,"Mixing and Blending Machine Setters, Operators, and Tenders","Clean and maintain equipment, using hand tools.",Control Precision,1,0
+12414,"Mixing and Blending Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools.",Manual Dexterity,2,0
+12414,"Mixing and Blending Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools.",Static Strength,2,0
+12414,"Mixing and Blending Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools.",Finger Dexterity,1,0
+12414,"Mixing and Blending Machine Setters, Operators, and Tenders","Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools.",Problem Sensitivity,1,0
+12398,"Mixing and Blending Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Near Vision,2,0
+12398,"Mixing and Blending Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Manual Dexterity,2,0
+12398,"Mixing and Blending Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Number Facility,1,0
+12398,"Mixing and Blending Machine Setters, Operators, and Tenders","Test samples of materials or products to ensure compliance with specifications, using test equipment.",Control Precision,1,0
+12415,"Mixing and Blending Machine Setters, Operators, and Tenders",Open valves to drain slurry from mixers into storage tanks.,Manual Dexterity,1,0
+12415,"Mixing and Blending Machine Setters, Operators, and Tenders",Open valves to drain slurry from mixers into storage tanks.,Control Precision,1,0
+12415,"Mixing and Blending Machine Setters, Operators, and Tenders",Open valves to drain slurry from mixers into storage tanks.,Static Strength,1,0
+12415,"Mixing and Blending Machine Setters, Operators, and Tenders",Open valves to drain slurry from mixers into storage tanks.,Near Vision,1,0
+14349,"Cutters and Trimmers, Hand","Mark or discard items with defects such as spots, stains, scars, snags, chips, scratches, or unacceptable shapes or finishes.",Near Vision,3,0
+14349,"Cutters and Trimmers, Hand","Mark or discard items with defects such as spots, stains, scars, snags, chips, scratches, or unacceptable shapes or finishes.",Problem Sensitivity,2,0
+14349,"Cutters and Trimmers, Hand","Mark or discard items with defects such as spots, stains, scars, snags, chips, scratches, or unacceptable shapes or finishes.",Visual Color Discrimination,1,0
+14349,"Cutters and Trimmers, Hand","Mark or discard items with defects such as spots, stains, scars, snags, chips, scratches, or unacceptable shapes or finishes.",Perceptual Speed,1,0
+14350,"Cutters and Trimmers, Hand","Trim excess material or cut threads off finished products, such as cutting loose ends of plastic off a manufactured toy for a smoother finish.",Manual Dexterity,2,0
+14350,"Cutters and Trimmers, Hand","Trim excess material or cut threads off finished products, such as cutting loose ends of plastic off a manufactured toy for a smoother finish.",Finger Dexterity,2,0
+14350,"Cutters and Trimmers, Hand","Trim excess material or cut threads off finished products, such as cutting loose ends of plastic off a manufactured toy for a smoother finish.",Near Vision,1,0
+14350,"Cutters and Trimmers, Hand","Trim excess material or cut threads off finished products, such as cutting loose ends of plastic off a manufactured toy for a smoother finish.",Control Precision,1,0
+14351,"Cutters and Trimmers, Hand","Cut, shape, and trim materials, such as textiles, food, glass, stone, and metal, using knives, scissors, and other hand tools, portable power tools, or bench-mounted tools.",Manual Dexterity,3,0
+14351,"Cutters and Trimmers, Hand","Cut, shape, and trim materials, such as textiles, food, glass, stone, and metal, using knives, scissors, and other hand tools, portable power tools, or bench-mounted tools.",Control Precision,2,0
+14351,"Cutters and Trimmers, Hand","Cut, shape, and trim materials, such as textiles, food, glass, stone, and metal, using knives, scissors, and other hand tools, portable power tools, or bench-mounted tools.",Arm-Hand Steadiness,2,0
+14351,"Cutters and Trimmers, Hand","Cut, shape, and trim materials, such as textiles, food, glass, stone, and metal, using knives, scissors, and other hand tools, portable power tools, or bench-mounted tools.",Near Vision,1,0
+14361,"Cutters and Trimmers, Hand","Position templates or measure materials to locate specified points of cuts or to obtain maximum yields, using rules, scales, or patterns.",Near Vision,2,0
+14361,"Cutters and Trimmers, Hand","Position templates or measure materials to locate specified points of cuts or to obtain maximum yields, using rules, scales, or patterns.",Manual Dexterity,1,0
+14361,"Cutters and Trimmers, Hand","Position templates or measure materials to locate specified points of cuts or to obtain maximum yields, using rules, scales, or patterns.",Number Facility,1,0
+14361,"Cutters and Trimmers, Hand","Position templates or measure materials to locate specified points of cuts or to obtain maximum yields, using rules, scales, or patterns.",Visualization,1,0
+14354,"Cutters and Trimmers, Hand","Read work orders to determine dimensions, cutting locations, and quantities to cut.",Written Comprehension,3,0
+14354,"Cutters and Trimmers, Hand","Read work orders to determine dimensions, cutting locations, and quantities to cut.",Near Vision,1,0
+14354,"Cutters and Trimmers, Hand","Read work orders to determine dimensions, cutting locations, and quantities to cut.",Number Facility,1,0
+14354,"Cutters and Trimmers, Hand","Read work orders to determine dimensions, cutting locations, and quantities to cut.",Information Ordering,1,0
+14356,"Cutters and Trimmers, Hand","Mark cutting lines around patterns or templates, or follow layout points, using squares, rules, and straightedges, and chalk, pencils, or scribes.",Manual Dexterity,2,0
+14356,"Cutters and Trimmers, Hand","Mark cutting lines around patterns or templates, or follow layout points, using squares, rules, and straightedges, and chalk, pencils, or scribes.",Near Vision,2,0
+14356,"Cutters and Trimmers, Hand","Mark cutting lines around patterns or templates, or follow layout points, using squares, rules, and straightedges, and chalk, pencils, or scribes.",Arm-Hand Steadiness,1,0
+14356,"Cutters and Trimmers, Hand","Mark cutting lines around patterns or templates, or follow layout points, using squares, rules, and straightedges, and chalk, pencils, or scribes.",Control Precision,1,0
+14353,"Cutters and Trimmers, Hand","Mark identification numbers, trademarks, grades, marketing data, sizes, or model numbers on products.",Near Vision,2,0
+14353,"Cutters and Trimmers, Hand","Mark identification numbers, trademarks, grades, marketing data, sizes, or model numbers on products.",Manual Dexterity,1,0
+14353,"Cutters and Trimmers, Hand","Mark identification numbers, trademarks, grades, marketing data, sizes, or model numbers on products.",Finger Dexterity,1,0
+14353,"Cutters and Trimmers, Hand","Mark identification numbers, trademarks, grades, marketing data, sizes, or model numbers on products.",Written Expression,1,0
+14357,"Cutters and Trimmers, Hand","Unroll, lay out, attach, or mount materials or items on cutting tables or machines.",Manual Dexterity,2,0
+14357,"Cutters and Trimmers, Hand","Unroll, lay out, attach, or mount materials or items on cutting tables or machines.",Static Strength,1,0
+14357,"Cutters and Trimmers, Hand","Unroll, lay out, attach, or mount materials or items on cutting tables or machines.",Gross Body Coordination,1,0
+14357,"Cutters and Trimmers, Hand","Unroll, lay out, attach, or mount materials or items on cutting tables or machines.",Near Vision,1,0
+14352,"Cutters and Trimmers, Hand","Separate materials or products according to size, weight, type, condition, color, or shade.",Near Vision,2,0
+14352,"Cutters and Trimmers, Hand","Separate materials or products according to size, weight, type, condition, color, or shade.",Visual Color Discrimination,2,0
+14352,"Cutters and Trimmers, Hand","Separate materials or products according to size, weight, type, condition, color, or shade.",Manual Dexterity,1,0
+14352,"Cutters and Trimmers, Hand","Separate materials or products according to size, weight, type, condition, color, or shade.",Perceptual Speed,1,0
+14359,"Cutters and Trimmers, Hand",Fold or shape materials before or after cutting them.,Manual Dexterity,2,0
+14359,"Cutters and Trimmers, Hand",Fold or shape materials before or after cutting them.,Finger Dexterity,1,0
+14359,"Cutters and Trimmers, Hand",Fold or shape materials before or after cutting them.,Control Precision,1,0
+14359,"Cutters and Trimmers, Hand",Fold or shape materials before or after cutting them.,Near Vision,1,0
+14363,"Cutters and Trimmers, Hand",Replace or sharpen dulled cutting tools such as saws.,Manual Dexterity,2,0
+14363,"Cutters and Trimmers, Hand",Replace or sharpen dulled cutting tools such as saws.,Finger Dexterity,1,0
+14363,"Cutters and Trimmers, Hand",Replace or sharpen dulled cutting tools such as saws.,Control Precision,1,0
+14363,"Cutters and Trimmers, Hand",Replace or sharpen dulled cutting tools such as saws.,Arm-Hand Steadiness,1,0
+14364,"Cutters and Trimmers, Hand","Lower table-mounted cutters such as knife blades, cutting wheels, or saws to cut items to specified sizes.",Control Precision,2,0
+14364,"Cutters and Trimmers, Hand","Lower table-mounted cutters such as knife blades, cutting wheels, or saws to cut items to specified sizes.",Manual Dexterity,2,0
+14364,"Cutters and Trimmers, Hand","Lower table-mounted cutters such as knife blades, cutting wheels, or saws to cut items to specified sizes.",Arm-Hand Steadiness,2,0
+14364,"Cutters and Trimmers, Hand","Lower table-mounted cutters such as knife blades, cutting wheels, or saws to cut items to specified sizes.",Reaction Time,1,0
+14358,"Cutters and Trimmers, Hand",Stack cut items and load them on racks or conveyors or onto trucks.,Static Strength,2,0
+14358,"Cutters and Trimmers, Hand",Stack cut items and load them on racks or conveyors or onto trucks.,Dynamic Strength,1,0
+14358,"Cutters and Trimmers, Hand",Stack cut items and load them on racks or conveyors or onto trucks.,Gross Body Coordination,1,0
+14358,"Cutters and Trimmers, Hand",Stack cut items and load them on racks or conveyors or onto trucks.,Trunk Strength,1,0
+14365,"Cutters and Trimmers, Hand",Adjust guides and stops to control depths and widths of cuts.,Control Precision,3,0
+14365,"Cutters and Trimmers, Hand",Adjust guides and stops to control depths and widths of cuts.,Near Vision,1,0
+14365,"Cutters and Trimmers, Hand",Adjust guides and stops to control depths and widths of cuts.,Manual Dexterity,1,0
+14365,"Cutters and Trimmers, Hand",Adjust guides and stops to control depths and widths of cuts.,Arm-Hand Steadiness,1,0
+14355,"Cutters and Trimmers, Hand",Count or weigh and bundle items.,Number Facility,2,0
+14355,"Cutters and Trimmers, Hand",Count or weigh and bundle items.,Manual Dexterity,1,0
+14355,"Cutters and Trimmers, Hand",Count or weigh and bundle items.,Perceptual Speed,1,0
+14355,"Cutters and Trimmers, Hand",Count or weigh and bundle items.,Static Strength,1,0
+14360,"Cutters and Trimmers, Hand","Clean, treat, buff, or polish finished items, using grinders, brushes, chisels, and cleaning solutions and polishing materials.",Manual Dexterity,2,0
+14360,"Cutters and Trimmers, Hand","Clean, treat, buff, or polish finished items, using grinders, brushes, chisels, and cleaning solutions and polishing materials.",Arm-Hand Steadiness,1,0
+14360,"Cutters and Trimmers, Hand","Clean, treat, buff, or polish finished items, using grinders, brushes, chisels, and cleaning solutions and polishing materials.",Static Strength,1,0
+14360,"Cutters and Trimmers, Hand","Clean, treat, buff, or polish finished items, using grinders, brushes, chisels, and cleaning solutions and polishing materials.",Control Precision,1,0

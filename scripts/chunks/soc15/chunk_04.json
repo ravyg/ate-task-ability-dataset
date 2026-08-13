@@ -1,0 +1,782 @@
+[
+{
+"task_id": "21772",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Develop or implement software tools to assist in the detection, prevention, and analysis of security threats."
+},
+{
+"task_id": "21785",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Write reports regarding investigations of information security breaches or network evaluations."
+},
+{
+"task_id": "21779",
+"soc": "15-1299.05",
+"occupation": "Information Security Engineers",
+"task_text": "Provide technical support to computer users for installation and use of security products."
+},
+{
+"task_id": "21786",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Adhere to legal policies and procedures related to handling digital media."
+},
+{
+"task_id": "21787",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Analyze log files or other digital information to identify the perpetrators of network intrusions."
+},
+{
+"task_id": "21788",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Conduct predictive or reactive analyses on security measures to support cyber security initiatives."
+},
+{
+"task_id": "21789",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Create system images or capture network settings from information technology environments to preserve as evidence."
+},
+{
+"task_id": "21790",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Develop plans for investigating alleged computer crimes, violations, or suspicious activity."
+},
+{
+"task_id": "21791",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Develop policies or requirements for data collection, processing, or reporting."
+},
+{
+"task_id": "21792",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Duplicate digital evidence to use for data recovery and analysis procedures."
+},
+{
+"task_id": "21793",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities."
+},
+{
+"task_id": "21794",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Maintain cyber defense software or hardware to support responses to cyber incidents."
+},
+{
+"task_id": "21795",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy."
+},
+{
+"task_id": "21796",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Perform file signature analysis to verify files on storage media or discover potential hidden files."
+},
+{
+"task_id": "21797",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Perform forensic investigations of operating or file systems."
+},
+{
+"task_id": "21798",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends."
+},
+{
+"task_id": "21799",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Preserve and maintain digital forensic evidence for analysis."
+},
+{
+"task_id": "21800",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Recommend cyber defense software or hardware to support responses to cyber incidents."
+},
+{
+"task_id": "21801",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Recover data or decrypt seized data."
+},
+{
+"task_id": "21802",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Write and execute scripts to automate tasks, such as parsing large data files."
+},
+{
+"task_id": "21803",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Write cyber defense recommendations, reports, or white papers using research or experience."
+},
+{
+"task_id": "21804",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Write reports, sign affidavits, or give depositions for legal proceedings."
+},
+{
+"task_id": "21805",
+"soc": "15-1299.06",
+"occupation": "Digital Forensics Analysts",
+"task_text": "Write technical summaries to report findings."
+},
+{
+"task_id": "21806",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Assess blockchain threats, such as untested code and unprotected keys."
+},
+{
+"task_id": "21807",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Automate the deployment of software updates over geographically distributed network nodes."
+},
+{
+"task_id": "21808",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable."
+},
+{
+"task_id": "21809",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Design and develop blockchain technologies for industries such as finance and music."
+},
+{
+"task_id": "21810",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Design and implement dashboard and data visualizations to meet customer reporting needs."
+},
+{
+"task_id": "21811",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Design and implement data repositories to integrate data."
+},
+{
+"task_id": "21812",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Design and verify cryptographic protocols to protect private information."
+},
+{
+"task_id": "21813",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Determine specifications for, or implement, logging."
+},
+{
+"task_id": "21814",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Develop a maintainable code base using object-oriented design principles, practices, or patterns."
+},
+{
+"task_id": "21815",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements."
+},
+{
+"task_id": "21816",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements."
+},
+{
+"task_id": "21817",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Evaluate blockchain processes or risks based on security assessments or control matrix reviews."
+},
+{
+"task_id": "21818",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Evaluate new blockchain technologies and vendor products."
+},
+{
+"task_id": "21819",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Implement catastrophic failure handlers to identify security breaches and prevent serious damage."
+},
+{
+"task_id": "21820",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Run infrastructure tests to examine the behavior of large peer-to-peer networks."
+},
+{
+"task_id": "21821",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Test the security and performance of blockchain infrastructures."
+},
+{
+"task_id": "21822",
+"soc": "15-1299.07",
+"occupation": "Blockchain Engineers",
+"task_text": "Update client and server applications responsible for integration and business logic."
+},
+{
+"task_id": "14666",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Communicate with staff or clients to understand specific system requirements."
+},
+{
+"task_id": "14677",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Investigate system component suitability for specified purposes, and make recommendations regarding component use."
+},
+{
+"task_id": "14674",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Provide customers or installation teams guidelines for implementing secure systems."
+},
+{
+"task_id": "14676",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Direct the analysis, development, and operation of complete computer systems."
+},
+{
+"task_id": "14689",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Direct the installation of operating systems, network or application software, or computer or network hardware."
+},
+{
+"task_id": "14675",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Monitor system operation to detect potential problems."
+},
+{
+"task_id": "14673",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Identify system data, hardware, or software components required to meet user needs."
+},
+{
+"task_id": "14678",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software."
+},
+{
+"task_id": "14669",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Verify stability, interoperability, portability, security, or scalability of system architecture."
+},
+{
+"task_id": "14686",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Research, test, or verify proper functioning of software patches and fixes."
+},
+{
+"task_id": "14679",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Configure servers to meet functional specifications."
+},
+{
+"task_id": "14670",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components."
+},
+{
+"task_id": "14683",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Design and conduct hardware or software tests."
+},
+{
+"task_id": "14685",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements."
+},
+{
+"task_id": "14668",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Document design specifications, installation instructions, and other system-related information."
+},
+{
+"task_id": "14691",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Perform security analyses of developed or packaged software components."
+},
+{
+"task_id": "14672",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Provide technical guidance or support for the development or troubleshooting of systems."
+},
+{
+"task_id": "14681",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Define and analyze objectives, scope, issues, or organizational impact of information systems."
+},
+{
+"task_id": "14684",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Establish functional or system standards to address operational requirements, quality requirements, and design constraints."
+},
+{
+"task_id": "14682",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Develop system engineering, software engineering, system integration, or distributed system architectures."
+},
+{
+"task_id": "14667",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Provide advice on project costs, design concepts, or design changes."
+},
+{
+"task_id": "14671",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability."
+},
+{
+"task_id": "14680",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Develop or approve project plans, schedules, or budgets."
+},
+{
+"task_id": "14687",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Communicate project information through presentations, technical reports, or white papers."
+},
+{
+"task_id": "14690",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Train system users in system operation or maintenance."
+},
+{
+"task_id": "14688",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions."
+},
+{
+"task_id": "14693",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Develop efficient and effective system controllers."
+},
+{
+"task_id": "14692",
+"soc": "15-1299.08",
+"occupation": "Computer Systems Engineers/Architects",
+"task_text": "Develop application-specific software."
+},
+{
+"task_id": "16169",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Manage project execution to ensure adherence to budget, schedule, and scope."
+},
+{
+"task_id": "16154",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Confer with project personnel to identify and resolve problems."
+},
+{
+"task_id": "16157",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Monitor or track project milestones and deliverables."
+},
+{
+"task_id": "16152",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Submit project deliverables, ensuring adherence to quality standards."
+},
+{
+"task_id": "16155",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods."
+},
+{
+"task_id": "16159",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Initiate, review, or approve modifications to project plans."
+},
+{
+"task_id": "16156",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Schedule and facilitate meetings related to information technology projects."
+},
+{
+"task_id": "16163",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Direct or coordinate activities of project personnel."
+},
+{
+"task_id": "16164",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI)."
+},
+{
+"task_id": "16162",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Identify need for initial or supplemental project resources."
+},
+{
+"task_id": "16170",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing."
+},
+{
+"task_id": "16151",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Perform risk assessments to develop response strategies."
+},
+{
+"task_id": "16168",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Prepare project status reports by collecting, analyzing, and summarizing information and trends."
+},
+{
+"task_id": "16160",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Identify, review, or select vendors or consultants to meet project needs."
+},
+{
+"task_id": "16166",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Develop and manage annual budgets for information technology projects."
+},
+{
+"task_id": "16161",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Establish and execute a project communication plan."
+},
+{
+"task_id": "16171",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Develop and manage work breakdown structure (WBS) of information technology projects."
+},
+{
+"task_id": "16153",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Monitor the performance of project team members, providing and documenting performance feedback."
+},
+{
+"task_id": "16165",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Coordinate recruitment or selection of project personnel."
+},
+{
+"task_id": "16167",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Assign duties, responsibilities, and spans of authority to project personnel."
+},
+{
+"task_id": "16158",
+"soc": "15-1299.09",
+"occupation": "Information Technology Project Managers",
+"task_text": "Negotiate with project stakeholders or suppliers to obtain resources or materials."
+},
+{
+"task_id": "3500",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits."
+},
+{
+"task_id": "3503",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business."
+},
+{
+"task_id": "3501",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates."
+},
+{
+"task_id": "3502",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums."
+},
+{
+"task_id": "3504",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public."
+},
+{
+"task_id": "3508",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information."
+},
+{
+"task_id": "3506",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Provide advice to clients on a contract basis, working as a consultant."
+},
+{
+"task_id": "3512",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies."
+},
+{
+"task_id": "20951",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Negotiate terms and conditions of reinsurance with other companies."
+},
+{
+"task_id": "3511",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings."
+},
+{
+"task_id": "3505",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Testify before public agencies on proposed legislation affecting businesses."
+},
+{
+"task_id": "3509",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Determine policy contract provisions for each type of insurance."
+},
+{
+"task_id": "3507",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident."
+},
+{
+"task_id": "3513",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Explain changes in contract provisions to customers."
+},
+{
+"task_id": "3510",
+"soc": "15-2011.00",
+"occupation": "Actuaries",
+"task_text": "Manage credit and help price corporate security offerings."
+},
+{
+"task_id": "24002",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Mentor others on mathematical techniques."
+},
+{
+"task_id": "7369",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Maintain knowledge in the field by reading professional journals, talking with other mathematicians, and attending professional conferences."
+},
+{
+"task_id": "7374",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Develop new principles and new relationships between existing mathematical principles to advance mathematical science."
+},
+{
+"task_id": "20191",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Disseminate research by writing reports, publishing papers, or presenting at professional conferences."
+},
+{
+"task_id": "7372",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Assemble sets of assumptions, and explore the consequences of each set."
+},
+{
+"task_id": "7370",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Perform computations and apply methods of numerical analysis to data."
+},
+{
+"task_id": "7373",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols."
+},
+{
+"task_id": "7376",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Conduct research to extend mathematical knowledge in traditional areas, such as algebra, geometry, probability, and logic."
+},
+{
+"task_id": "7371",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation."
+},
+{
+"task_id": "7367",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Apply mathematical theories and techniques to the solution of practical problems in business, engineering, the sciences, or other fields."
+},
+{
+"task_id": "7368",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry."
+},
+{
+"task_id": "7375",
+"soc": "15-2021.00",
+"occupation": "Mathematicians",
+"task_text": "Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code."
+},
+{
+"task_id": "20952",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Present the results of mathematical modeling and data analysis to management or other end users."
+},
+{
+"task_id": "7382",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Define data requirements, and gather and validate information, applying judgment and statistical tests."
+},
+{
+"task_id": "7380",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Perform validation and testing of models to ensure adequacy, and reformulate models, as necessary."
+},
+{
+"task_id": "7384",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Prepare management reports defining and evaluating problems and recommending solutions."
+},
+{
+"task_id": "7378",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Collaborate with others in the organization to ensure successful implementation of chosen problem solutions."
+},
+{
+"task_id": "7377",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters."
+},
+{
+"task_id": "7387",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Observe the current system in operation, and gather and analyze information about each of the component problems, using a variety of sources."
+},
+{
+"task_id": "7379",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Analyze information obtained from management to conceptualize and define operational problems."
+},
+{
+"task_id": "7383",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Study and analyze information about alternative courses of action to determine which plan will offer the best outcomes."
+},
+{
+"task_id": "7381",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Collaborate with senior managers and decision makers to identify and solve a variety of problems and to clarify management objectives."
+},
+{
+"task_id": "7386",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Specify manipulative or computational methods to be applied to models."
+},
+{
+"task_id": "7388",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Design, conduct, and evaluate experimental operational models in cases where models cannot be developed from existing data."
+},
+{
+"task_id": "7389",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Develop and apply time and cost networks to plan, control, and review large projects."
+},
+{
+"task_id": "7385",
+"soc": "15-2031.00",
+"occupation": "Operations Research Analysts",
+"task_text": "Break systems into their components, assign numerical values to each component, and examine the mathematical relationships between them."
+}
+]

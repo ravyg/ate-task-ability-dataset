@@ -1,0 +1,588 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,Manual Dexterity,3,0
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,Finger Dexterity,2,0
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,Arm-Hand Steadiness,2,0
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,Control Precision,2,0
+8280,Helpers--Carpenters,Glue and clamp edges or joints of assembled parts.,Near Vision,1,0
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",Control Precision,2,0
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",Manual Dexterity,2,0
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",Static Strength,1,0
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",Near Vision,2,0
+8275,Helpers--Carpenters,"Smooth or sand surfaces to remove ridges, tool marks, glue, or caulking.",Multilimb Coordination,1,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Static Strength,2,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Dynamic Strength,2,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Multilimb Coordination,2,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Manual Dexterity,2,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Control Precision,1,0
+8277,Helpers--Carpenters,"Secure stakes to grids for constructions of footings, nail scabs to footing forms, and vibrate and float concrete.",Trunk Strength,1,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Manual Dexterity,2,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Finger Dexterity,1,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Static Strength,1,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Control Precision,2,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Near Vision,2,0
+8281,Helpers--Carpenters,Cut and install insulating or sound-absorbing material.,Extent Flexibility,1,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Manual Dexterity,2,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Control Precision,2,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Near Vision,2,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Finger Dexterity,1,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Trunk Strength,1,0
+8282,Helpers--Carpenters,Cut tile or linoleum to fit and spread adhesives on flooring for installation.,Static Strength,1,0
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,Manual Dexterity,2,0
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,Control Precision,2,0
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,Arm-Hand Steadiness,2,0
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,Near Vision,1,0
+8283,Helpers--Carpenters,Cover surfaces with laminated plastic covering material.,Static Strength,1,0
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",Finger Dexterity,3,0
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",Manual Dexterity,2,0
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",Control Precision,2,0
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",Near Vision,2,0
+4840,Helpers--Electricians,"Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.",Arm-Hand Steadiness,1,0
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",Problem Sensitivity,3,0
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",Deductive Reasoning,2,0
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",Near Vision,2,0
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",Selective Attention,2,0
+4832,Helpers--Electricians,"Trace out short circuits in wiring, using test meter.",Finger Dexterity,1,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Manual Dexterity,2,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Control Precision,2,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Near Vision,2,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Static Strength,1,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Number Facility,1,0
+4833,Helpers--Electricians,"Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.",Finger Dexterity,1,0
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",Near Vision,2,0
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",Problem Sensitivity,2,0
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",Finger Dexterity,2,0
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",Manual Dexterity,2,0
+4839,Helpers--Electricians,"Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.",Control Precision,1,0
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",Information Ordering,2,0
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",Manual Dexterity,1,0
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",Static Strength,1,0
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",Near Vision,1,0
+4834,Helpers--Electricians,"Maintain tools, vehicles, and equipment and keep parts and supplies in order.",Perceptual Speed,1,1
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Manual Dexterity,2,0
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Control Precision,2,0
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Static Strength,2,0
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Arm-Hand Steadiness,2,0
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Dynamic Strength,1,0
+4835,Helpers--Electricians,"Drill holes and pull or push wiring through openings, using hand and power tools.",Near Vision,1,0
+4844,Helpers--Electricians,Clean work area and wash parts.,Static Strength,1,0
+4844,Helpers--Electricians,Clean work area and wash parts.,Stamina,1,0
+4844,Helpers--Electricians,Clean work area and wash parts.,Manual Dexterity,1,0
+4844,Helpers--Electricians,Clean work area and wash parts.,Near Vision,1,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",Manual Dexterity,2,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",Static Strength,2,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",Stamina,2,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",Multilimb Coordination,1,0
+4836,Helpers--Electricians,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",Near Vision,1,0
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",Manual Dexterity,2,0
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",Control Precision,2,0
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",Static Strength,2,0
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",Finger Dexterity,1,0
+4841,Helpers--Electricians,"Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.",Arm-Hand Steadiness,1,0
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",Manual Dexterity,3,0
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",Finger Dexterity,2,0
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",Control Precision,2,0
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",Near Vision,2,0
+4837,Helpers--Electricians,"Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.",Problem Sensitivity,1,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Manual Dexterity,2,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Control Precision,3,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Multilimb Coordination,2,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Near Vision,2,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Static Strength,1,0
+4842,Helpers--Electricians,"Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.",Arm-Hand Steadiness,1,0
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",Static Strength,3,0
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",Dynamic Strength,2,0
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",Trunk Strength,2,0
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",Stamina,2,0
+4838,Helpers--Electricians,"Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.",Gross Body Equilibrium,1,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Static Strength,2,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Dynamic Strength,2,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Multilimb Coordination,2,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Trunk Strength,1,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Stamina,2,0
+4843,Helpers--Electricians,"String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.",Extent Flexibility,1,0
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",Static Strength,3,0
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",Dynamic Strength,3,0
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",Trunk Strength,2,0
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",Multilimb Coordination,2,0
+4846,Helpers--Electricians,"Install copper-clad ground rods, using a manual post driver.",Stamina,2,0
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,Static Strength,3,0
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,Dynamic Strength,3,0
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,Trunk Strength,2,0
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,Stamina,3,0
+4848,Helpers--Electricians,Dig trenches or holes for installation of conduit or supports.,Gross Body Equilibrium,1,0
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",Static Strength,2,0
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",Control Precision,2,0
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",Multilimb Coordination,2,0
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",Dynamic Strength,2,0
+4847,Helpers--Electricians,"Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.",Depth Perception,1,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Manual Dexterity,2,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Control Precision,2,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Static Strength,2,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Arm-Hand Steadiness,1,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Multilimb Coordination,1,0
+4850,Helpers--Electricians,"Bolt component parts together to form tower assemblies, using hand tools.",Gross Body Equilibrium,1,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Static Strength,3,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Dynamic Strength,2,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Multilimb Coordination,2,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Gross Body Coordination,2,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Gross Body Equilibrium,2,0
+4845,Helpers--Electricians,"Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.",Trunk Strength,1,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Static Strength,2,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Dynamic Strength,2,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Gross Body Coordination,2,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Stamina,2,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Extent Flexibility,1,0
+4855,Helpers--Electricians,Trim trees and clear undergrowth along right-of-way.,Near Vision,1,0
+4849,Helpers--Electricians,"Requisition materials, using warehouse requisition or release forms.",Written Comprehension,2,0
+4849,Helpers--Electricians,"Requisition materials, using warehouse requisition or release forms.",Information Ordering,2,0
+4849,Helpers--Electricians,"Requisition materials, using warehouse requisition or release forms.",Near Vision,1,0
+4849,Helpers--Electricians,"Requisition materials, using warehouse requisition or release forms.",Number Facility,1,0
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",Arm-Hand Steadiness,3,0
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",Finger Dexterity,2,0
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",Control Precision,2,0
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",Near Vision,2,0
+4854,Helpers--Electricians,"Solder electrical connections, using soldering iron.",Manual Dexterity,1,0
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,Arm-Hand Steadiness,2,0
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,Manual Dexterity,2,0
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,Control Precision,2,0
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,Near Vision,1,0
+4851,Helpers--Electricians,Paint a variety of objects related to electrical functions.,Visual Color Discrimination,1,0
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",Static Strength,3,0
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",Dynamic Strength,3,0
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",Trunk Strength,2,0
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",Stamina,2,0
+4853,Helpers--Electricians,"Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.",Multilimb Coordination,1,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Control Precision,3,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Multilimb Coordination,3,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Depth Perception,2,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Rate Control,2,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Reaction Time,1,0
+23977,Helpers--Electricians,"Operate heavy equipment, such as backhoes.",Near Vision,1,0
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",Arm-Hand Steadiness,3,0
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",Control Precision,2,0
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",Near Vision,2,0
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",Manual Dexterity,2,0
+4852,Helpers--Electricians,"Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.",Glare Sensitivity,1,0
+13612,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Clean work areas and equipment.,Static Strength,1,0
+13612,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Clean work areas and equipment.,Stamina,1,0
+13612,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Clean work areas and equipment.,Manual Dexterity,1,0
+13612,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Clean work areas and equipment.,Near Vision,1,0
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",Manual Dexterity,2,0
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",Static Strength,2,0
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",Multilimb Coordination,1,0
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",Stamina,1,0
+13613,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Perform support duties to assist painters, paperhangers, plasterers, or masons.",Near Vision,1,0
+13614,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",Finger Dexterity,2,0
+13614,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",Manual Dexterity,2,0
+13614,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",Control Precision,2,0
+13614,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",Near Vision,1,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Static Strength,3,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Dynamic Strength,2,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Multilimb Coordination,2,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Gross Body Coordination,2,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Gross Body Equilibrium,2,0
+13615,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Erect scaffolding.,Trunk Strength,1,0
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,Finger Dexterity,2,0
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,Manual Dexterity,2,0
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,Control Precision,2,0
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,Near Vision,2,0
+13616,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.,Arm-Hand Steadiness,1,0
+13617,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Supply or hold tools and materials.,Static Strength,2,0
+13617,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Supply or hold tools and materials.,Manual Dexterity,1,0
+13617,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Supply or hold tools and materials.,Arm-Hand Steadiness,1,0
+13617,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Supply or hold tools and materials.,Multilimb Coordination,1,0
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",Manual Dexterity,2,0
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",Control Precision,2,0
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",Static Strength,1,0
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",Near Vision,2,0
+13618,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.",Multilimb Coordination,1,0
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",Static Strength,3,0
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",Dynamic Strength,2,0
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",Trunk Strength,2,0
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",Stamina,2,0
+13619,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Mix plaster, and carry plaster to plasterers.",Multilimb Coordination,1,0
+13620,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Place articles to be stripped into stripping tanks.,Static Strength,2,0
+13620,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Place articles to be stripped into stripping tanks.,Manual Dexterity,1,0
+13620,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Place articles to be stripped into stripping tanks.,Multilimb Coordination,1,0
+13620,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Place articles to be stripped into stripping tanks.,Near Vision,1,0
+13621,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.",Static Strength,2,0
+13621,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.",Dynamic Strength,1,0
+13621,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.",Manual Dexterity,1,0
+13621,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.",Near Vision,1,0
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,Control Precision,2,0
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,Number Facility,2,0
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,Manual Dexterity,1,0
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,Near Vision,2,0
+13622,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",Pour specified amounts of chemical solutions into stripping tanks.,Arm-Hand Steadiness,1,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Manual Dexterity,2,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Control Precision,2,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Static Strength,2,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Number Facility,1,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Near Vision,1,0
+4858,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.",Multilimb Coordination,1,0
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,Manual Dexterity,2,0
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,Control Precision,2,0
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,Static Strength,2,0
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,Near Vision,1,0
+4857,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut or drill holes in walls or floors to accommodate the passage of pipes.,Arm-Hand Steadiness,1,0
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",Manual Dexterity,2,0
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",Problem Sensitivity,2,0
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",Static Strength,2,0
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",Control Precision,2,0
+20144,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.",Near Vision,1,0
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",Manual Dexterity,2,0
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",Static Strength,2,0
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",Multilimb Coordination,1,0
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",Control Precision,1,0
+4862,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.",Near Vision,1,0
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,Static Strength,3,0
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,Dynamic Strength,2,0
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,Manual Dexterity,2,0
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,Control Precision,1,0
+4864,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Cut pipe and lift up to fitters.,Trunk Strength,1,0
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",Manual Dexterity,2,0
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",Control Precision,2,0
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",Static Strength,1,0
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",Arm-Hand Steadiness,1,0
+4861,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.",Near Vision,1,0
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",Static Strength,2,0
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",Information Ordering,1,0
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",Near Vision,1,0
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",Number Facility,1,0
+4860,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.",Dynamic Strength,1,0
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",Manual Dexterity,2,0
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",Control Precision,2,0
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",Static Strength,2,0
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",Extent Flexibility,1,0
+4859,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.",Near Vision,1,0
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",Static Strength,3,0
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",Dynamic Strength,3,0
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",Trunk Strength,2,0
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",Stamina,2,0
+4863,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Excavate and grade ditches, and lay and join pipe for water and sewer service.",Manual Dexterity,1,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,Static Strength,2,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,Dynamic Strength,2,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,Manual Dexterity,2,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,Control Precision,1,0
+4865,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Disassemble and remove damaged or worn pipe.,Trunk Strength,1,0
+4866,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Clean shop, work area, and machines, using solvent and rags.",Static Strength,1,0
+4866,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Clean shop, work area, and machines, using solvent and rags.",Manual Dexterity,1,0
+4866,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Clean shop, work area, and machines, using solvent and rags.",Stamina,1,0
+4866,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Clean shop, work area, and machines, using solvent and rags.",Near Vision,1,0
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",Manual Dexterity,2,0
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",Control Precision,2,0
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",Static Strength,2,0
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",Near Vision,1,0
+4867,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Install gas burners to convert furnaces from wood, coal, or oil.",Multilimb Coordination,1,0
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",Static Strength,2,0
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",Arm-Hand Steadiness,2,0
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",Manual Dexterity,1,0
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",Multilimb Coordination,1,0
+4870,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.",Trunk Strength,1,0
+4868,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Immerse pipe in chemical solution to remove dirt, oil, and scale.",Static Strength,1,0
+4868,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Immerse pipe in chemical solution to remove dirt, oil, and scale.",Manual Dexterity,1,0
+4868,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Immerse pipe in chemical solution to remove dirt, oil, and scale.",Control Precision,1,0
+4868,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Immerse pipe in chemical solution to remove dirt, oil, and scale.",Near Vision,1,0
+4869,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Clean and renew steam traps.,Manual Dexterity,2,0
+4869,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Clean and renew steam traps.,Control Precision,1,0
+4869,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Clean and renew steam traps.,Static Strength,1,0
+4869,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",Clean and renew steam traps.,Near Vision,1,0
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,Near Vision,2,0
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,Problem Sensitivity,2,0
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,Gross Body Equilibrium,2,0
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,Depth Perception,1,0
+14926,Helpers--Roofers,Check to ensure that completed roofs are watertight.,Far Vision,1,0
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,Static Strength,1,0
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,Gross Body Equilibrium,2,0
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,Stamina,1,0
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,Multilimb Coordination,1,0
+14927,Helpers--Roofers,Sweep and clean roofs to prepare them for the application of new roofing materials.,Trunk Strength,1,0
+14928,Helpers--Roofers,Locate worn or torn areas in roofs.,Near Vision,2,0
+14928,Helpers--Roofers,Locate worn or torn areas in roofs.,Problem Sensitivity,2,0
+14928,Helpers--Roofers,Locate worn or torn areas in roofs.,Gross Body Equilibrium,2,0
+14928,Helpers--Roofers,Locate worn or torn areas in roofs.,Depth Perception,1,0
+14929,Helpers--Roofers,Clean work areas and equipment.,Static Strength,1,0
+14929,Helpers--Roofers,Clean work areas and equipment.,Manual Dexterity,1,0
+14929,Helpers--Roofers,Clean work areas and equipment.,Stamina,1,0
+14929,Helpers--Roofers,Clean work areas and equipment.,Near Vision,1,0
+14930,Helpers--Roofers,Maintain tools and equipment.,Manual Dexterity,1,0
+14930,Helpers--Roofers,Maintain tools and equipment.,Near Vision,1,0
+14930,Helpers--Roofers,Maintain tools and equipment.,Static Strength,1,0
+14930,Helpers--Roofers,Maintain tools and equipment.,Information Ordering,1,0
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",Static Strength,2,0
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",Gross Body Equilibrium,2,0
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",Manual Dexterity,2,0
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",Trunk Strength,1,0
+14931,Helpers--Roofers,"Cover roofs with layers of roofing felt or asphalt strips before installing tile, slate, or composition materials.",Multilimb Coordination,1,0
+14932,Helpers--Roofers,Remove old roofing materials.,Static Strength,2,0
+14932,Helpers--Roofers,Remove old roofing materials.,Dynamic Strength,2,0
+14932,Helpers--Roofers,Remove old roofing materials.,Gross Body Equilibrium,2,0
+14932,Helpers--Roofers,Remove old roofing materials.,Trunk Strength,1,0
+14932,Helpers--Roofers,Remove old roofing materials.,Stamina,2,0
+14933,Helpers--Roofers,"Unload materials and tools from work trucks, and unroll roofing as directed.",Static Strength,2,0
+14933,Helpers--Roofers,"Unload materials and tools from work trucks, and unroll roofing as directed.",Dynamic Strength,2,0
+14933,Helpers--Roofers,"Unload materials and tools from work trucks, and unroll roofing as directed.",Trunk Strength,1,0
+14933,Helpers--Roofers,"Unload materials and tools from work trucks, and unroll roofing as directed.",Multilimb Coordination,1,0
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",Static Strength,2,0
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",Gross Body Coordination,2,0
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",Gross Body Equilibrium,2,0
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",Multilimb Coordination,1,0
+14934,Helpers--Roofers,"Set ladders, scaffolds, and hoists in place for taking supplies to roofs.",Dynamic Strength,1,0
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",Manual Dexterity,2,0
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",Control Precision,2,0
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",Gross Body Equilibrium,2,0
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",Arm-Hand Steadiness,1,0
+14935,Helpers--Roofers,"Place tiles, nail them to roof boards, and cover nailheads with roofing cement.",Near Vision,1,0
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",Manual Dexterity,2,0
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",Gross Body Equilibrium,2,0
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",Static Strength,2,0
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",Multilimb Coordination,1,0
+14936,Helpers--Roofers,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",Near Vision,1,0
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",Manual Dexterity,2,0
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",Control Precision,2,0
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",Arm-Hand Steadiness,1,0
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",Gross Body Equilibrium,2,0
+14937,Helpers--Roofers,"Attach roofing paper and composition shingles, using nails.",Near Vision,1,0
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,Problem Sensitivity,2,0
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,Manual Dexterity,2,0
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,Gross Body Equilibrium,2,0
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,Static Strength,1,0
+14938,Helpers--Roofers,Perform emergency leak repairs and general maintenance for a variety of roof types.,Near Vision,1,0
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,Manual Dexterity,2,0
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,Control Precision,2,0
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,Static Strength,2,0
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,Gross Body Equilibrium,2,0
+14939,Helpers--Roofers,Attach sheets of metal to roof boards or building frameworks when installing metal roofs.,Multilimb Coordination,1,0
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",Static Strength,3,0
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",Dynamic Strength,2,0
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",Gross Body Equilibrium,2,0
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",Trunk Strength,1,0
+14940,Helpers--Roofers,"Hoist tar and roofing materials to roofs, using ropes and pulleys, or carry materials up ladders.",Stamina,2,0
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",Manual Dexterity,2,0
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",Gross Body Equilibrium,2,0
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",Static Strength,2,0
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",Control Precision,1,0
+14941,Helpers--Roofers,"Apply shingles, gravel, or asphalt over the top layer of tar to protect the roofing material.",Trunk Strength,1,0
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",Static Strength,2,0
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",Dynamic Strength,2,0
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",Manual Dexterity,1,0
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",Multilimb Coordination,1,0
+14942,Helpers--Roofers,"Chop tar into small pieces, and heat chopped tar in kettles.",Near Vision,1,0
+14943,Helpers--Roofers,Clear drains and downspouts and clean gutters.,Static Strength,1,0
+14943,Helpers--Roofers,Clear drains and downspouts and clean gutters.,Gross Body Equilibrium,2,0
+14943,Helpers--Roofers,Clear drains and downspouts and clean gutters.,Manual Dexterity,1,0
+14943,Helpers--Roofers,Clear drains and downspouts and clean gutters.,Trunk Strength,1,0
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,Deductive Reasoning,3,0
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,Written Comprehension,2,0
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,Visualization,2,0
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,Information Ordering,1,0
+20447,Construction and Building Inspectors,Approve building plans that meet required specifications.,Near Vision,1,0
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",Written Comprehension,3,0
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",Visualization,3,0
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",Deductive Reasoning,2,0
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",Near Vision,1,0
+871,Construction and Building Inspectors,"Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.",Information Ordering,1,0
+875,Construction and Building Inspectors,"Issue permits for construction, relocation, demolition, or occupancy.",Written Comprehension,2,0
+875,Construction and Building Inspectors,"Issue permits for construction, relocation, demolition, or occupancy.",Deductive Reasoning,1,0
+875,Construction and Building Inspectors,"Issue permits for construction, relocation, demolition, or occupancy.",Information Ordering,2,0
+875,Construction and Building Inspectors,"Issue permits for construction, relocation, demolition, or occupancy.",Written Expression,1,0
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",Problem Sensitivity,3,0
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",Near Vision,2,0
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",Deductive Reasoning,2,0
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",Far Vision,1,0
+869,Construction and Building Inspectors,"Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.",Depth Perception,1,0
+878,Construction and Building Inspectors,"Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.",Near Vision,2,0
+878,Construction and Building Inspectors,"Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.",Problem Sensitivity,2,0
+878,Construction and Building Inspectors,"Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.",Selective Attention,2,0
+878,Construction and Building Inspectors,"Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.",Deductive Reasoning,1,0
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",Problem Sensitivity,3,0
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",Near Vision,2,0
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",Far Vision,1,0
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",Selective Attention,2,0
+872,Construction and Building Inspectors,"Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.",Deductive Reasoning,1,0
+20446,Construction and Building Inspectors,"Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.",Oral Expression,3,0
+20446,Construction and Building Inspectors,"Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.",Oral Comprehension,2,0
+20446,Construction and Building Inspectors,"Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.",Deductive Reasoning,1,0
+20446,Construction and Building Inspectors,"Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.",Speech Clarity,1,0
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",Near Vision,2,0
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",Control Precision,2,0
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",Number Facility,2,0
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",Depth Perception,1,0
+873,Construction and Building Inspectors,"Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.",Visualization,1,0
+870,Construction and Building Inspectors,Maintain daily logs and supplement inspection records with photographs.,Written Expression,2,0
+870,Construction and Building Inspectors,Maintain daily logs and supplement inspection records with photographs.,Information Ordering,2,0
+870,Construction and Building Inspectors,Maintain daily logs and supplement inspection records with photographs.,Near Vision,1,0
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",Near Vision,2,0
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",Control Precision,2,0
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",Number Facility,1,0
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",Perceptual Speed,1,0
+20445,Construction and Building Inspectors,"Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.",Depth Perception,1,0
+880,Construction and Building Inspectors,"Train, direct, or supervise other construction inspectors.",Oral Expression,3,0
+880,Construction and Building Inspectors,"Train, direct, or supervise other construction inspectors.",Oral Comprehension,2,0
+880,Construction and Building Inspectors,"Train, direct, or supervise other construction inspectors.",Information Ordering,1,0
+19866,Construction and Building Inspectors,Monitor construction activities to ensure that environmental regulations are not violated.,Problem Sensitivity,2,0
+19866,Construction and Building Inspectors,Monitor construction activities to ensure that environmental regulations are not violated.,Near Vision,2,0
+19866,Construction and Building Inspectors,Monitor construction activities to ensure that environmental regulations are not violated.,Selective Attention,2,0
+19866,Construction and Building Inspectors,Monitor construction activities to ensure that environmental regulations are not violated.,Deductive Reasoning,1,0
+19864,Construction and Building Inspectors,Evaluate project details to ensure adherence to environmental regulations.,Deductive Reasoning,2,0
+19864,Construction and Building Inspectors,Evaluate project details to ensure adherence to environmental regulations.,Written Comprehension,2,0
+19864,Construction and Building Inspectors,Evaluate project details to ensure adherence to environmental regulations.,Problem Sensitivity,2,0
+19865,Construction and Building Inspectors,Inspect facilities or installations to determine their environmental impact.,Problem Sensitivity,2,0
+19865,Construction and Building Inspectors,Inspect facilities or installations to determine their environmental impact.,Near Vision,2,0
+19865,Construction and Building Inspectors,Inspect facilities or installations to determine their environmental impact.,Deductive Reasoning,1,0
+19865,Construction and Building Inspectors,Inspect facilities or installations to determine their environmental impact.,Far Vision,1,0
+20448,Construction and Building Inspectors,"Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.",Near Vision,2,0
+20448,Construction and Building Inspectors,"Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.",Problem Sensitivity,2,0
+20448,Construction and Building Inspectors,"Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.",Selective Attention,2,0
+20448,Construction and Building Inspectors,"Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.",Deductive Reasoning,1,0
+19863,Construction and Building Inspectors,"Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.",Problem Sensitivity,2,0
+19863,Construction and Building Inspectors,"Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.",Near Vision,1,0
+19863,Construction and Building Inspectors,"Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.",Deductive Reasoning,2,0
+19863,Construction and Building Inspectors,"Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.",Selective Attention,1,0
+20449,Construction and Building Inspectors,Estimate cost of completed work or of needed renovations or upgrades.,Mathematical Reasoning,2,0
+20449,Construction and Building Inspectors,Estimate cost of completed work or of needed renovations or upgrades.,Number Facility,2,0
+20449,Construction and Building Inspectors,Estimate cost of completed work or of needed renovations or upgrades.,Deductive Reasoning,1,0
+20450,Construction and Building Inspectors,"Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation.",Near Vision,2,0
+20450,Construction and Building Inspectors,"Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation.",Problem Sensitivity,1,0
+20450,Construction and Building Inspectors,"Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation.",Selective Attention,1,0
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",Manual Dexterity,1,0
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",Near Vision,1,0
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",Problem Sensitivity,2,0
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",Control Precision,1,0
+19867,Construction and Building Inspectors,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",Deductive Reasoning,1,0
+18082,Energy Auditors,Identify and prioritize energy-saving measures.,Deductive Reasoning,2,0
+18082,Energy Auditors,Identify and prioritize energy-saving measures.,Problem Sensitivity,2,0
+18082,Energy Auditors,Identify and prioritize energy-saving measures.,Information Ordering,2,0
+18074,Energy Auditors,Prepare audit reports containing energy analysis results or recommendations for energy cost savings.,Written Expression,3,0
+18074,Energy Auditors,Prepare audit reports containing energy analysis results or recommendations for energy cost savings.,Written Comprehension,2,0
+18074,Energy Auditors,Prepare audit reports containing energy analysis results or recommendations for energy cost savings.,Information Ordering,2,0
+19561,Energy Auditors,Identify any health or safety issues related to planned weatherization projects.,Problem Sensitivity,3,0
+19561,Energy Auditors,Identify any health or safety issues related to planned weatherization projects.,Deductive Reasoning,2,0
+19561,Energy Auditors,Identify any health or safety issues related to planned weatherization projects.,Near Vision,1,0
+18083,Energy Auditors,"Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.",Problem Sensitivity,2,0
+18083,Energy Auditors,"Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.",Deductive Reasoning,2,0
+18083,Energy Auditors,"Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.",Inductive Reasoning,2,0
+18077,Energy Auditors,Calculate potential for energy savings.,Mathematical Reasoning,3,0
+18077,Energy Auditors,Calculate potential for energy savings.,Number Facility,2,0
+18077,Energy Auditors,Calculate potential for energy savings.,Deductive Reasoning,1,0
+18073,Energy Auditors,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",Near Vision,2,0
+18073,Energy Auditors,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",Problem Sensitivity,2,0
+18073,Energy Auditors,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",Deductive Reasoning,2,0
+18073,Energy Auditors,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",Mathematical Reasoning,1,0
+18076,Energy Auditors,"Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",Deductive Reasoning,3,0
+18076,Energy Auditors,"Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",Inductive Reasoning,2,0
+18076,Energy Auditors,"Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",Mathematical Reasoning,2,0
+18076,Energy Auditors,"Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",Problem Sensitivity,1,0
+19560,Energy Auditors,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,Near Vision,2,0
+19560,Energy Auditors,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,Deductive Reasoning,2,0
+19560,Energy Auditors,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,Problem Sensitivity,1,0
+19560,Energy Auditors,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,Visualization,1,0
+18087,Energy Auditors,Recommend energy-efficient technologies or alternate energy sources.,Deductive Reasoning,2,0
+18087,Energy Auditors,Recommend energy-efficient technologies or alternate energy sources.,Oral Expression,1,0
+18087,Energy Auditors,Recommend energy-efficient technologies or alternate energy sources.,Written Expression,1,0
+18087,Energy Auditors,Recommend energy-efficient technologies or alternate energy sources.,Inductive Reasoning,1,0
+18078,Energy Auditors,Collect and analyze field data related to energy usage.,Number Facility,2,0
+18078,Energy Auditors,Collect and analyze field data related to energy usage.,Mathematical Reasoning,2,0
+18078,Energy Auditors,Collect and analyze field data related to energy usage.,Near Vision,1,0
+18078,Energy Auditors,Collect and analyze field data related to energy usage.,Information Ordering,1,0
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",Near Vision,2,0
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",Control Precision,2,0
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",Number Facility,2,0
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",Finger Dexterity,1,0
+18071,Energy Auditors,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",Manual Dexterity,1,0
+18081,Energy Auditors,Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances.,Oral Expression,3,0
+18081,Energy Auditors,Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances.,Oral Comprehension,2,0
+18081,Energy Auditors,Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances.,Speech Clarity,1,0
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,Manual Dexterity,2,0
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,Control Precision,2,0
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,Near Vision,2,0
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,Problem Sensitivity,2,0
+18072,Energy Auditors,Perform tests such as blower-door tests to locate air leaks.,Static Strength,1,0
+18086,Energy Auditors,"Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.",Written Expression,3,0
+18086,Energy Auditors,"Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.",Information Ordering,2,0
+18086,Energy Auditors,"Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.",Written Comprehension,1,0
+19562,Energy Auditors,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,Near Vision,2,0
+19562,Energy Auditors,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,Problem Sensitivity,2,0
+19562,Energy Auditors,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,Deductive Reasoning,1,0
+19562,Energy Auditors,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,Selective Attention,1,0
+18075,Energy Auditors,"Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.",Number Facility,2,0
+18075,Energy Auditors,"Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.",Mathematical Reasoning,2,0
+18075,Energy Auditors,"Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.",Near Vision,1,0
+18075,Energy Auditors,"Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.",Information Ordering,1,0
+18084,Energy Auditors,Quantify energy consumption to establish baselines for energy use or need.,Mathematical Reasoning,2,0
+18084,Energy Auditors,Quantify energy consumption to establish baselines for energy use or need.,Number Facility,2,0
+18084,Energy Auditors,Quantify energy consumption to establish baselines for energy use or need.,Deductive Reasoning,1,0
+18080,Energy Auditors,"Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.",Inductive Reasoning,2,0
+18080,Energy Auditors,"Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.",Mathematical Reasoning,2,0
+18080,Energy Auditors,"Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.",Information Ordering,1,0
+18079,Energy Auditors,Compare existing energy consumption levels to normative data.,Number Facility,2,0
+18079,Energy Auditors,Compare existing energy consumption levels to normative data.,Mathematical Reasoning,2,0
+18079,Energy Auditors,Compare existing energy consumption levels to normative data.,Deductive Reasoning,1,0
+18085,Energy Auditors,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.",Near Vision,2,0
+18085,Energy Auditors,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.",Problem Sensitivity,1,0
+18085,Energy Auditors,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.",Selective Attention,1,0
+18085,Energy Auditors,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.",Deductive Reasoning,1,0
+19563,Energy Auditors,Verify income eligibility of participants in publicly financed weatherization programs.,Written Comprehension,2,0
+19563,Energy Auditors,Verify income eligibility of participants in publicly financed weatherization programs.,Number Facility,2,0
+19563,Energy Auditors,Verify income eligibility of participants in publicly financed weatherization programs.,Information Ordering,1,0
+11571,Elevator and Escalator Installers and Repairers,"Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly.",Near Vision,2,0
+11571,Elevator and Escalator Installers and Repairers,"Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly.",Problem Sensitivity,2,0
+11571,Elevator and Escalator Installers and Repairers,"Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly.",Depth Perception,1,0
+11571,Elevator and Escalator Installers and Repairers,"Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that equipment will operate properly.",Selective Attention,1,0
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",Manual Dexterity,3,0
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",Control Precision,2,0
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",Multilimb Coordination,2,0
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",Static Strength,2,0
+11564,Elevator and Escalator Installers and Repairers,"Assemble, install, repair, and maintain elevators, escalators, moving sidewalks, and dumbwaiters, using hand and power tools, and testing devices such as test lamps, ammeters, and voltmeters.",Near Vision,1,0
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",Manual Dexterity,2,0
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",Finger Dexterity,2,0
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",Control Precision,2,0
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",Static Strength,1,0
+11572,Elevator and Escalator Installers and Repairers,"Disassemble defective units, and repair or replace parts such as locks, gears, cables, and electric wiring.",Near Vision,1,0
+11567,Elevator and Escalator Installers and Repairers,"Check that safety regulations and building codes are met, and complete service reports verifying conformance to standards.",Written Comprehension,2,0
+11567,Elevator and Escalator Installers and Repairers,"Check that safety regulations and building codes are met, and complete service reports verifying conformance to standards.",Deductive Reasoning,2,0
+11567,Elevator and Escalator Installers and Repairers,"Check that safety regulations and building codes are met, and complete service reports verifying conformance to standards.",Written Expression,1,0
+11566,Elevator and Escalator Installers and Repairers,"Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment.",Problem Sensitivity,3,0
+11566,Elevator and Escalator Installers and Repairers,"Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment.",Deductive Reasoning,2,0
+11566,Elevator and Escalator Installers and Repairers,"Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment.",Near Vision,1,0
+11566,Elevator and Escalator Installers and Repairers,"Locate malfunctions in brakes, motors, switches, and signal and control systems, using test equipment.",Finger Dexterity,1,0
+11569,Elevator and Escalator Installers and Repairers,"Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings.",Control Precision,3,0
+11569,Elevator and Escalator Installers and Repairers,"Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings.",Manual Dexterity,2,0
+11569,Elevator and Escalator Installers and Repairers,"Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings.",Finger Dexterity,2,0
+11569,Elevator and Escalator Installers and Repairers,"Adjust safety controls, counterweights, door mechanisms, and components such as valves, ratchets, seals, and brake linings.",Arm-Hand Steadiness,1,0
+11570,Elevator and Escalator Installers and Repairers,"Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment.",Written Comprehension,3,0
+11570,Elevator and Escalator Installers and Repairers,"Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment.",Visualization,3,0
+11570,Elevator and Escalator Installers and Repairers,"Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment.",Near Vision,1,0
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",Static Strength,2,0
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",Manual Dexterity,2,0
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",Multilimb Coordination,2,0
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",Control Precision,1,0
+11576,Elevator and Escalator Installers and Repairers,"Connect car frames to counterweights, using steel cables.",Depth Perception,1,0
+11573,Elevator and Escalator Installers and Repairers,Maintain log books that detail all repairs and checks performed.,Written Expression,2,0
+11573,Elevator and Escalator Installers and Repairers,Maintain log books that detail all repairs and checks performed.,Information Ordering,2,0
+11573,Elevator and Escalator Installers and Repairers,Maintain log books that detail all repairs and checks performed.,Near Vision,1,0
+11568,Elevator and Escalator Installers and Repairers,Connect electrical wiring to control panels and electric motors.,Finger Dexterity,2,0
+11568,Elevator and Escalator Installers and Repairers,Connect electrical wiring to control panels and electric motors.,Manual Dexterity,2,0
+11568,Elevator and Escalator Installers and Repairers,Connect electrical wiring to control panels and electric motors.,Control Precision,2,0
+11568,Elevator and Escalator Installers and Repairers,Connect electrical wiring to control panels and electric motors.,Near Vision,1,0
+11565,Elevator and Escalator Installers and Repairers,"Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time.",Near Vision,1,0
+11565,Elevator and Escalator Installers and Repairers,"Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time.",Problem Sensitivity,2,0
+11565,Elevator and Escalator Installers and Repairers,"Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time.",Selective Attention,2,0
+11565,Elevator and Escalator Installers and Repairers,"Test newly installed equipment to ensure that it meets specifications, such as stopping at floors for set amounts of time.",Time Sharing,1,0
+11574,Elevator and Escalator Installers and Repairers,Participate in additional training to keep skills up to date.,Oral Comprehension,2,0
+11574,Elevator and Escalator Installers and Repairers,Participate in additional training to keep skills up to date.,Written Comprehension,2,0
+11574,Elevator and Escalator Installers and Repairers,Participate in additional training to keep skills up to date.,Memorization,1,0
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",Control Precision,2,0
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",Near Vision,1,0
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",Number Facility,1,0
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",Problem Sensitivity,1,0
+11582,Elevator and Escalator Installers and Repairers,"Operate elevators to determine power demands, and test power consumption to detect overload factors.",Reaction Time,1,0
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,Manual Dexterity,2,0
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,Static Strength,2,0
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,Multilimb Coordination,2,0
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,Extent Flexibility,1,0
+11580,Elevator and Escalator Installers and Repairers,Install electrical wires and controls by attaching conduit along shaft walls from floor to floor and pulling plastic-covered wires through the conduit.,Control Precision,1,0
+11575,Elevator and Escalator Installers and Repairers,Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts.,Manual Dexterity,2,0
+11575,Elevator and Escalator Installers and Repairers,Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts.,Control Precision,2,0
+11575,Elevator and Escalator Installers and Repairers,Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts.,Finger Dexterity,1,0
+11575,Elevator and Escalator Installers and Repairers,Attach guide shoes and rollers to minimize the lateral motion of cars as they travel through shafts.,Static Strength,1,0

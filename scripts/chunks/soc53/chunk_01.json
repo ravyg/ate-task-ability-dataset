@@ -1,0 +1,782 @@
+[
+{
+"task_id": "10598",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights."
+},
+{
+"task_id": "10600",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption."
+},
+{
+"task_id": "10599",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures."
+},
+{
+"task_id": "10608",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Perform minor aircraft maintenance and repair work, or arrange for major maintenance."
+},
+{
+"task_id": "10607",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Supervise other crew members."
+},
+{
+"task_id": "10597",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Request changes in altitudes or routes as circumstances dictate."
+},
+{
+"task_id": "10604",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic."
+},
+{
+"task_id": "10606",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Rescue and evacuate injured persons."
+},
+{
+"task_id": "10602",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Instruct other pilots and student pilots in aircraft operations."
+},
+{
+"task_id": "10609",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Fly with other pilots or pilot-license applicants to evaluate their proficiency."
+},
+{
+"task_id": "10610",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Plan and formulate flight activities and test schedules and prepare flight evaluation reports."
+},
+{
+"task_id": "10601",
+"soc": "53-2012.00",
+"occupation": "Commercial Pilots",
+"task_text": "Teach company regulations and procedures to other pilots."
+},
+{
+"task_id": "12731",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Inform pilots about nearby planes or potentially hazardous conditions, such as weather, speed and direction of wind, or visibility problems."
+},
+{
+"task_id": "12728",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Issue landing and take-off authorizations or instructions."
+},
+{
+"task_id": "12735",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Transfer control of departing flights to traffic control centers and accept control of arriving flights."
+},
+{
+"task_id": "12732",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Provide flight path changes or directions to emergency landing fields for pilots traveling in bad weather or in emergency situations."
+},
+{
+"task_id": "12733",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties."
+},
+{
+"task_id": "12729",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Monitor or direct the movement of aircraft within an assigned air space or on the ground at airports to minimize delays and maximize safety."
+},
+{
+"task_id": "12734",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Direct pilots to runways when space is available or direct them to maintain a traffic pattern until there is space for them to land."
+},
+{
+"task_id": "12730",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Monitor aircraft within a specific airspace, using radar, computer equipment, or visual references."
+},
+{
+"task_id": "12736",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Direct ground traffic, including taxiing aircraft, maintenance or baggage vehicles, or airport workers."
+},
+{
+"task_id": "12739",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Contact pilots by radio to provide meteorological, navigational, or other information."
+},
+{
+"task_id": "12738",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Maintain radio or telephone contact with adjacent control towers, terminal control units, or other area control centers to coordinate aircraft movement."
+},
+{
+"task_id": "12737",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Determine the timing or procedures for flight vector changes."
+},
+{
+"task_id": "12740",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Initiate or coordinate searches for missing aircraft."
+},
+{
+"task_id": "20691",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Provide on-the-job training to new air traffic controllers."
+},
+{
+"task_id": "12741",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Check conditions and traffic at different altitudes in response to pilots' requests for altitude changes."
+},
+{
+"task_id": "12742",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Relay air traffic information, such as courses, altitudes, or expected arrival times, to control centers."
+},
+{
+"task_id": "12744",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Inspect, adjust, or control radio equipment or airport lights."
+},
+{
+"task_id": "12743",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Compile information about flights from flight plans, pilot reports, radar, or observations."
+},
+{
+"task_id": "12747",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Organize flight plans or traffic management plans to prepare for planes about to enter assigned airspace."
+},
+{
+"task_id": "12748",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Review records or reports for clarity and completeness and maintain records or reports, as required under federal law."
+},
+{
+"task_id": "12749",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Complete daily activity reports and keep records of messages from aircraft."
+},
+{
+"task_id": "12745",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Conduct pre-flight briefings on weather conditions, suggested routes, altitudes, indications of turbulence, or other flight safety information."
+},
+{
+"task_id": "12746",
+"soc": "53-2021.00",
+"occupation": "Air Traffic Controllers",
+"task_text": "Analyze factors such as weather reports, fuel requirements, or maps to determine air routes."
+},
+{
+"task_id": "23939",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Inspect airfield conditions to ensure compliance with federal regulatory requirements."
+},
+{
+"task_id": "10613",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Implement airfield safety procedures to ensure a safe operating environment for personnel and aircraft operation."
+},
+{
+"task_id": "23940",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Conduct inspections of the airport property and perimeter to maintain controlled access to airfields."
+},
+{
+"task_id": "20456",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Assist in responding to aircraft and medical emergencies."
+},
+{
+"task_id": "23941",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Initiate or conduct airport-wide coordination of snow removal on runways and taxiways."
+},
+{
+"task_id": "20457",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Manage wildlife on and around airport grounds."
+},
+{
+"task_id": "10621",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Coordinate communications between air traffic control and maintenance personnel."
+},
+{
+"task_id": "10622",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Perform and supervise airfield management activities, including mobile airfield management functions."
+},
+{
+"task_id": "10614",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Plan and coordinate airfield construction."
+},
+{
+"task_id": "10616",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Monitor the arrival, parking, refueling, loading, and departure of all aircraft."
+},
+{
+"task_id": "10618",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Train operations staff."
+},
+{
+"task_id": "10615",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Coordinate with agencies, such as air traffic control, civil engineers, or command posts, to ensure support of airfield management activities."
+},
+{
+"task_id": "10619",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Relay departure, arrival, delay, aircraft and airfield status, and other pertinent information to upline controlling agencies."
+},
+{
+"task_id": "10630",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Provide aircrews with information and services needed for airfield management and flight planning."
+},
+{
+"task_id": "10626",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Coordinate with agencies to meet aircrew requirements for billeting, messing, refueling, ground transportation, and transient aircraft maintenance."
+},
+{
+"task_id": "10632",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Use airfield landing and navigational aids and digital data terminal communications equipment to perform duties."
+},
+{
+"task_id": "10623",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Receive, transmit, and control message traffic."
+},
+{
+"task_id": "10617",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Maintain air-to-ground and point-to-point radio contact with aircraft commanders."
+},
+{
+"task_id": "10620",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Procure, produce, and provide information on the safe operation of aircraft, such as flight planning publications, operations publications, charts and maps, or weather information."
+},
+{
+"task_id": "10629",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Anticipate aircraft equipment needs for air evacuation and cargo flights."
+},
+{
+"task_id": "10633",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Post visual display boards and status boards."
+},
+{
+"task_id": "10624",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Receive and post weather information and flight plan data, such as air routes or arrival and departure times."
+},
+{
+"task_id": "10631",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Conduct departure and arrival briefings."
+},
+{
+"task_id": "10627",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Collaborate with others to plan flight schedules and air crew assignments."
+},
+{
+"task_id": "10625",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Maintain flight and event logs, air crew flying records, and flight operations records of incoming and outgoing flights."
+},
+{
+"task_id": "10628",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies."
+},
+{
+"task_id": "10634",
+"soc": "53-2022.00",
+"occupation": "Airfield Operations Specialists",
+"task_text": "Check military flight plans with civilian agencies."
+},
+{
+"task_id": "9639",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order."
+},
+{
+"task_id": "9637",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets."
+},
+{
+"task_id": "23942",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Monitor passenger behavior to identify threats to the safety of the crew and other passengers."
+},
+{
+"task_id": "9638",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings."
+},
+{
+"task_id": "9636",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing."
+},
+{
+"task_id": "9642",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Prepare passengers and aircraft for landing, following procedures."
+},
+{
+"task_id": "9640",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Administer first aid to passengers in distress."
+},
+{
+"task_id": "9643",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities."
+},
+{
+"task_id": "9641",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers."
+},
+{
+"task_id": "9645",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Reassure passengers when situations, such as turbulence, are encountered."
+},
+{
+"task_id": "9644",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply."
+},
+{
+"task_id": "9656",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers."
+},
+{
+"task_id": "9646",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Announce flight delays and descent preparations."
+},
+{
+"task_id": "9651",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Greet passengers boarding aircraft and direct them to assigned seats."
+},
+{
+"task_id": "9649",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Assist passengers entering or disembarking the aircraft."
+},
+{
+"task_id": "9652",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets."
+},
+{
+"task_id": "9650",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Inspect and clean cabins, checking for any problems and making sure that cabins are in order."
+},
+{
+"task_id": "9654",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Operate audio and video systems."
+},
+{
+"task_id": "9648",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules."
+},
+{
+"task_id": "9657",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Collect money for meals and beverages."
+},
+{
+"task_id": "9658",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Heat and serve prepared foods."
+},
+{
+"task_id": "9647",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Inspect passenger tickets to verify information and to obtain destination information."
+},
+{
+"task_id": "9655",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage."
+},
+{
+"task_id": "9653",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Take inventory of headsets, alcoholic beverages, and money collected."
+},
+{
+"task_id": "9659",
+"soc": "53-2031.00",
+"occupation": "Flight Attendants",
+"task_text": "Sell alcoholic beverages to passengers."
+},
+{
+"task_id": "8607",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Remove and replace soiled linens or equipment to maintain sanitary conditions."
+},
+{
+"task_id": "8606",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons."
+},
+{
+"task_id": "8612",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Report facts concerning accidents or emergencies to hospital personnel or law enforcement officials."
+},
+{
+"task_id": "8608",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Place patients on stretchers, and load stretchers into ambulances, usually with assistance from other attendants."
+},
+{
+"task_id": "8609",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Accompany and assist emergency medical technicians on calls."
+},
+{
+"task_id": "8611",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Replace supplies and disposable items on ambulances."
+},
+{
+"task_id": "21028",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Perform minor maintenance on emergency medical services vehicles, such as ambulances."
+},
+{
+"task_id": "21029",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Clean and wash rigs, ambulances, or equipment."
+},
+{
+"task_id": "8610",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Earn and maintain appropriate certifications."
+},
+{
+"task_id": "8613",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Administer first aid, such as bandaging, splinting, or administering oxygen."
+},
+{
+"task_id": "8614",
+"soc": "53-3011.00",
+"occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+"task_text": "Restrain or shackle violent patients."
+},
+{
+"task_id": "3158",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Drive trucks to deliver such items as food, medical supplies, or newspapers."
+},
+{
+"task_id": "3156",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Inform regular customers of new products or services and price changes."
+},
+{
+"task_id": "3161",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Record sales or delivery information on daily sales or delivery record."
+},
+{
+"task_id": "3155",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Listen to and resolve customers' complaints regarding products or services."
+},
+{
+"task_id": "3154",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Collect money from customers, make change, and record transactions on customer receipts."
+},
+{
+"task_id": "3164",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Maintain trucks and food-dispensing equipment and clean inside of machines that dispense food or beverages."
+},
+{
+"task_id": "3163",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Arrange merchandise and sales promotion displays or issue sales promotion materials to customers."
+},
+{
+"task_id": "3159",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Collect coins from vending machines, refill machines, and remove aged merchandise."
+},
+{
+"task_id": "3157",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Write customer orders and sales contracts according to company guidelines."
+},
+{
+"task_id": "3162",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Review lists of dealers, customers, or station drops and load trucks."
+},
+{
+"task_id": "3165",
+"soc": "53-3031.00",
+"occupation": "Driver/Sales Workers",
+"task_text": "Sell food specialties, such as sandwiches and beverages, to office workers and patrons of sports events."
+},
+{
+"task_id": "20693",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Check all load-related documentation for completeness and accuracy."
+},
+{
+"task_id": "20692",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Inspect loads to ensure that cargo is secure."
+},
+{
+"task_id": "10636",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order."
+},
+{
+"task_id": "10651",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Crank trailer landing gear up or down to safely secure vehicles."
+},
+{
+"task_id": "10638",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Obtain receipts or signatures for delivered goods and collect payment for services when required."
+},
+{
+"task_id": "10637",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations."
+},
+{
+"task_id": "10643",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Read bills of lading to determine assignment details."
+},
+{
+"task_id": "10644",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Report vehicle defects, accidents, traffic violations, or damage to the vehicles."
+},
+{
+"task_id": "10653",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks."
+},
+{
+"task_id": "10646",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks."
+},
+{
+"task_id": "10640",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned."
+},
+{
+"task_id": "10647",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Collect delivery instructions from appropriate sources, verifying instructions and routes."
+},
+{
+"task_id": "10641",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials."
+},
+{
+"task_id": "10645",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Read and interpret maps to determine vehicle routes."
+},
+{
+"task_id": "10650",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Check conditions of trailers after contents have been unloaded to ensure that there has been no damage."
+},
+{
+"task_id": "20695",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers."
+},
+{
+"task_id": "20694",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations."
+},
+{
+"task_id": "20696",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary."
+},
+{
+"task_id": "19923",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions."
+},
+{
+"task_id": "10662",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs."
+},
+{
+"task_id": "10656",
+"soc": "53-3032.00",
+"occupation": "Heavy and Tractor-Trailer Truck Drivers",
+"task_text": "Remove debris from loaded trailers."
+}
+]

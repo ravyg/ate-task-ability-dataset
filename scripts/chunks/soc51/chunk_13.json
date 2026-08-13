@@ -1,0 +1,782 @@
+[
+{
+"task_id": "23648",
+"soc": "51-9071.00",
+"occupation": "Jewelers and Precious Stone and Metal Workers",
+"task_text": "Rotate molds to distribute alloys and to prevent formation of air pockets."
+},
+{
+"task_id": "15092",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs."
+},
+{
+"task_id": "15093",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Assign polish, symmetry, and clarity grades to stones, according to established grading systems."
+},
+{
+"task_id": "15094",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors."
+},
+{
+"task_id": "15095",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values."
+},
+{
+"task_id": "15096",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Identify and document stones' clarity characteristics, using plot diagrams."
+},
+{
+"task_id": "15097",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Advise customers and others on the best use of gems to create attractive jewelry items."
+},
+{
+"task_id": "15098",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones."
+},
+{
+"task_id": "15099",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes."
+},
+{
+"task_id": "15100",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them."
+},
+{
+"task_id": "15101",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Sort rough diamonds into categories based on shape, size, color, and quality."
+},
+{
+"task_id": "15102",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping."
+},
+{
+"task_id": "15106",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments."
+},
+{
+"task_id": "15107",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds."
+},
+{
+"task_id": "15112",
+"soc": "51-9071.06",
+"occupation": "Gem and Diamond Workers",
+"task_text": "Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it."
+},
+{
+"task_id": "7133",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed."
+},
+{
+"task_id": "7135",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers."
+},
+{
+"task_id": "7134",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth."
+},
+{
+"task_id": "7136",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model."
+},
+{
+"task_id": "7139",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines."
+},
+{
+"task_id": "7147",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Train or supervise other dental technicians or dental laboratory bench workers."
+},
+{
+"task_id": "7137",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses."
+},
+{
+"task_id": "7138",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools."
+},
+{
+"task_id": "7148",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Rebuild or replace linings, wire sections, or missing teeth to repair dentures."
+},
+{
+"task_id": "7143",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas."
+},
+{
+"task_id": "7142",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications."
+},
+{
+"task_id": "7141",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework."
+},
+{
+"task_id": "7146",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Mold wax over denture setups to form the full contours of artificial gums."
+},
+{
+"task_id": "7140",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set."
+},
+{
+"task_id": "7145",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Prepare wax bite blocks and impression trays for use."
+},
+{
+"task_id": "7149",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools."
+},
+{
+"task_id": "7144",
+"soc": "51-9081.00",
+"occupation": "Dental Laboratory Technicians",
+"task_text": "Fill chipped or low spots in surfaces of devices, using acrylic resins."
+},
+{
+"task_id": "10520",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices."
+},
+{
+"task_id": "10514",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required."
+},
+{
+"task_id": "10513",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools."
+},
+{
+"task_id": "10519",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Bend, form, and shape fabric or material to conform to prescribed contours of structural components."
+},
+{
+"task_id": "10518",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns."
+},
+{
+"task_id": "10515",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications."
+},
+{
+"task_id": "10523",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass."
+},
+{
+"task_id": "10522",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures."
+},
+{
+"task_id": "10521",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Lay out and mark dimensions of parts, using templates and precision measuring instruments."
+},
+{
+"task_id": "10512",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Fit appliances onto patients, and make any necessary adjustments."
+},
+{
+"task_id": "10524",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Polish artificial limbs, braces, or supports, using grinding and buffing wheels."
+},
+{
+"task_id": "10517",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Take patients' body or limb measurements for use in device construction."
+},
+{
+"task_id": "10516",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Instruct patients in use of prosthetic or orthotic devices."
+},
+{
+"task_id": "10525",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Service or repair machinery used in the fabrication of appliances."
+},
+{
+"task_id": "10526",
+"soc": "51-9082.00",
+"occupation": "Medical Appliance Technicians",
+"task_text": "Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices."
+},
+{
+"task_id": "10529",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Mount and secure lens blanks or optical lenses in holding tools or chucks of cutting, polishing, grinding, or coating machines."
+},
+{
+"task_id": "10532",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Inspect lens blanks to detect flaws, verify smoothness of surface, and ensure thickness of coating on lenses."
+},
+{
+"task_id": "10537",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Set up machines to polish, bevel, edge, or grind lenses, flats, blanks, or other precision optical elements."
+},
+{
+"task_id": "10540",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Inspect, weigh, and measure mounted or unmounted lenses after completion to verify alignment and conformance to specifications, using precision instruments."
+},
+{
+"task_id": "10530",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Shape lenses appropriately so that they can be inserted into frames."
+},
+{
+"task_id": "10533",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Clean finished lenses and eyeglasses, using cloths and solvents."
+},
+{
+"task_id": "10528",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Mount, secure, and align finished lenses in frames or optical assemblies, using precision hand tools."
+},
+{
+"task_id": "10535",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Examine prescriptions, work orders, or broken or used eyeglasses to determine specifications for lenses, contact lenses, or other optical elements."
+},
+{
+"task_id": "10527",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Adjust lenses and frames to correct alignment."
+},
+{
+"task_id": "10534",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Select lens blanks, molds, tools, and polishing or grinding wheels, according to production specifications."
+},
+{
+"task_id": "10539",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Position and adjust cutting tools to specified curvature, dimensions, and depth of cut."
+},
+{
+"task_id": "10531",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Assemble eyeglass frames and attach shields, nose pads, and temple pieces, using pliers, screwdrivers, and drills."
+},
+{
+"task_id": "10536",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Set dials and start machines to polish lenses or hold lenses against rotating wheels to polish them manually."
+},
+{
+"task_id": "10538",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Repair broken parts, using precision hand tools and soldering irons."
+},
+{
+"task_id": "10543",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Immerse eyeglass frames in solutions to harden, soften, or dye frames."
+},
+{
+"task_id": "10542",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Lay out lenses and trace lens outlines on glass, using templates."
+},
+{
+"task_id": "10544",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Control equipment that coats lenses to alter their reflective qualities."
+},
+{
+"task_id": "10541",
+"soc": "51-9083.00",
+"occupation": "Ophthalmic Laboratory Technicians",
+"task_text": "Remove lenses from molds and separate lenses in containers for further processing or storage."
+},
+{
+"task_id": "3142",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations."
+},
+{
+"task_id": "3134",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications."
+},
+{
+"task_id": "3129",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor."
+},
+{
+"task_id": "3124",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Observe machine operations to ensure quality and conformity of filled or packaged products to standards."
+},
+{
+"task_id": "3127",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Remove finished packaged items from machine and separate rejected items."
+},
+{
+"task_id": "3136",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly."
+},
+{
+"task_id": "3132",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Inspect and remove defective products and packaging material."
+},
+{
+"task_id": "3138",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Start machine by engaging controls."
+},
+{
+"task_id": "3126",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Tend or operate machine that packages product."
+},
+{
+"task_id": "3135",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides."
+},
+{
+"task_id": "3128",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Regulate machine flow, speed, or temperature."
+},
+{
+"task_id": "3125",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Adjust machine components and machine tension and pressure according to size or processing angle of product."
+},
+{
+"task_id": "3141",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product."
+},
+{
+"task_id": "3137",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers."
+},
+{
+"task_id": "3140",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout."
+},
+{
+"task_id": "3131",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels."
+},
+{
+"task_id": "3139",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Count and record finished and rejected packaged items."
+},
+{
+"task_id": "3143",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing."
+},
+{
+"task_id": "3130",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener."
+},
+{
+"task_id": "3133",
+"soc": "51-9111.00",
+"occupation": "Packaging and Filling Machine Operators and Tenders",
+"task_text": "Clean and remove damaged or otherwise inferior materials to prepare raw products for processing."
+},
+{
+"task_id": "12527",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes."
+},
+{
+"task_id": "12528",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas."
+},
+{
+"task_id": "12529",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Clean and maintain tools and equipment, using solvents, brushes, and rags."
+},
+{
+"task_id": "12530",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Read job orders and inspect workpieces to determine work procedures and materials required."
+},
+{
+"task_id": "12534",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers."
+},
+{
+"task_id": "12533",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Place coated workpieces in ovens or dryers for specified times to dry or harden finishes."
+},
+{
+"task_id": "12531",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth."
+},
+{
+"task_id": "12536",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty."
+},
+{
+"task_id": "12532",
+"soc": "51-9123.00",
+"occupation": "Painting, Coating, and Decorating Workers",
+"task_text": "Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces."
+},
+{
+"task_id": "23656",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Dispose of hazardous waste in an appropriate manner."
+},
+{
+"task_id": "12522",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Hold or position spray guns to direct spray onto articles."
+},
+{
+"task_id": "23664",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Spray prepared surfaces with specified amounts of primers and decorative or finish coatings."
+},
+{
+"task_id": "23659",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Monitor painting operations to identify flaws, such as blisters or streaks, and correct their causes."
+},
+{
+"task_id": "23655",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Disassemble, clean, and reassemble sprayers or power equipment, using solvents, wire brushes, and cloths."
+},
+{
+"task_id": "12513",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Fill hoppers, reservoirs, troughs, or pans with material used to coat, paint, or spray, using conveyors or pails."
+},
+{
+"task_id": "23654",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Clean equipment and work areas."
+},
+{
+"task_id": "23652",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Apply rust-resistant undercoats and caulk and seal seams."
+},
+{
+"task_id": "12509",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Start and stop operation of machines, using levers or buttons."
+},
+{
+"task_id": "12504",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Determine paint flow, viscosity, and coating quality by performing visual inspections, or by using viscometers."
+},
+{
+"task_id": "12517",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Attach hoses or nozzles to machines, using wrenches and pliers, and make adjustments to obtain the proper dispersion of spray."
+},
+{
+"task_id": "12508",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Turn dials, handwheels, valves, or switches to regulate conveyor speeds, machine temperature, air pressure and circulation, and the flow or spray of coatings or paints."
+},
+{
+"task_id": "12503",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Observe machine gauges and equipment operation to detect defects or deviations from standards, and make adjustments as necessary."
+},
+{
+"task_id": "12521",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Examine, measure, weigh, or test sample products to ensure conformance to specifications."
+},
+{
+"task_id": "23653",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Buff and wax the finished paintwork."
+},
+{
+"task_id": "23665",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Use brush to hand-paint areas in need of retouching or unreachable with a spray gun."
+},
+{
+"task_id": "12516",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Thread or feed items or products through or around machine rollers and dryers."
+},
+{
+"task_id": "12505",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Weigh or measure chemicals, coatings, or paints before adding them to machines."
+},
+{
+"task_id": "12512",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Operate auxiliary machines or equipment used in coating or painting processes."
+},
+{
+"task_id": "12518",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Remove materials, parts, or workpieces from painting or coating machines, using hand tools."
+},
+{
+"task_id": "12510",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Record operational data on specified forms."
+},
+{
+"task_id": "23660",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Operate lifting or moving devices to move equipment or materials to access areas to be painted."
+},
+{
+"task_id": "23663",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Set up portable equipment, such as ventilators, exhaust units, ladders, or scaffolding."
+},
+{
+"task_id": "23650",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Adjust controls on infrared ovens, heat lamps, portable ventilators, or exhaust units to speed the drying of surfaces between coats."
+},
+{
+"task_id": "23651",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Apply primer over any repairs made to surfaces."
+},
+{
+"task_id": "23657",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Fill small dents or scratches with body fillers and smooth surfaces to prepare for painting."
+},
+{
+"task_id": "23658",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Mix paints to match color specifications or original colors, stirring or thinning paints, using spatulas or power mixing equipment."
+},
+{
+"task_id": "23661",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters."
+},
+{
+"task_id": "23662",
+"soc": "51-9124.00",
+"occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+"task_text": "Sand and apply sealer to properly dried finish."
+},
+{
+"task_id": "12573",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles."
+},
+{
+"task_id": "12574",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Maintain processing, production, and inspection information and reports."
+},
+{
+"task_id": "12575",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures."
+},
+{
+"task_id": "12576",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands."
+},
+{
+"task_id": "12577",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations."
+},
+{
+"task_id": "12578",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Load and unload equipment chambers and transport finished product to storage or to area for further processing."
+},
+{
+"task_id": "12579",
+"soc": "51-9141.00",
+"occupation": "Semiconductor Processing Technicians",
+"task_text": "Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area."
+}
+]

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "22253",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Organize public exhibits and displays to promote public awareness of diverse and distinctive cultural traditions."
+},
+{
+"task_id": "22250",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Collaborate with economic development planners to decide on the implementation of proposed development policies, plans, and programs based on culturally institutionalized barriers and facilitating circumstances."
+},
+{
+"task_id": "22247",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Develop intervention procedures, using techniques such as individual and focus group interviews, consultations, and participant observation of social interaction."
+},
+{
+"task_id": "22257",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Enhance the cultural sensitivity of elementary and secondary curricula and classroom interactions in collaboration with educators and teachers."
+},
+{
+"task_id": "22255",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Study archival collections of primary historical sources to help explain the origins and development of cultural patterns."
+},
+{
+"task_id": "22254",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Formulate general rules that describe and predict the development and behavior of cultures and social institutions."
+},
+{
+"task_id": "22238",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Record the exact locations and conditions of artifacts uncovered in diggings or surveys, using drawings and photographs as necessary."
+},
+{
+"task_id": "22239",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Assess archeological sites for resource management, development, or conservation purposes and recommend methods for site protection."
+},
+{
+"task_id": "22240",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Gather and analyze artifacts and skeletal remains to increase knowledge of ancient cultures."
+},
+{
+"task_id": "22237",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Compare findings from one site with archeological data from other sites to find similarities or differences."
+},
+{
+"task_id": "22235",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Describe artifacts' physical properties or attributes, such as the materials from which artifacts are made and their size, shape, function, and decoration."
+},
+{
+"task_id": "22241",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Collect artifacts made of stone, bone, metal, and other materials, placing them in bags and marking them to show where they were found."
+},
+{
+"task_id": "22231",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Study objects and structures recovered by excavation to identify, date, and authenticate them and to interpret their significance."
+},
+{
+"task_id": "22243",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Consult site reports, existing artifacts, and topographic maps to identify archeological sites."
+},
+{
+"task_id": "22251",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Clean, restore, and preserve artifacts."
+},
+{
+"task_id": "22258",
+"soc": "19-3091.00",
+"occupation": "Anthropologists and Archeologists",
+"task_text": "Participate in forensic activities, such as tooth and bone structure identification, in conjunction with police departments and pathologists."
+},
+{
+"task_id": "5503",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Create and modify maps, graphs, or diagrams, using geographical information software and related equipment, and principles of cartography, such as coordinate systems, longitude, latitude, elevation, topography, and map scales."
+},
+{
+"task_id": "5509",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Gather and compile geographic data from sources such as censuses, field observations, satellite imagery, aerial photographs, and existing maps."
+},
+{
+"task_id": "5508",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Teach geography."
+},
+{
+"task_id": "5504",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Write and present reports of research findings."
+},
+{
+"task_id": "5514",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Provide geographical information systems support to the private and public sectors."
+},
+{
+"task_id": "5511",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Study the economic, political, and cultural characteristics of a specific region's population."
+},
+{
+"task_id": "5507",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Analyze geographic distributions of physical and cultural phenomena on local, regional, continental, or global scales."
+},
+{
+"task_id": "5505",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Develop, operate, and maintain geographical information computer systems, including hardware, software, plotters, digitizers, printers, and video cameras."
+},
+{
+"task_id": "5506",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Locate and obtain existing geographic information databases."
+},
+{
+"task_id": "5513",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Collect data on physical characteristics of specified areas, such as geological formations, climates, and vegetation, using surveying or meteorological equipment."
+},
+{
+"task_id": "5510",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Conduct field work at outdoor sites."
+},
+{
+"task_id": "5512",
+"soc": "19-3092.00",
+"occupation": "Geographers",
+"task_text": "Provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning."
+},
+{
+"task_id": "3718",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Gather historical data from sources such as archives, court records, diaries, news files, and photographs, as well as from books, pamphlets, and periodicals."
+},
+{
+"task_id": "3717",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Organize data, and analyze and interpret its authenticity and relative significance."
+},
+{
+"task_id": "3724",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Prepare publications and exhibits, or review those prepared by others, to ensure their historical accuracy."
+},
+{
+"task_id": "3728",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Organize information for publication and for other means of dissemination, such as via storage media or the Internet."
+},
+{
+"task_id": "3720",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Conduct historical research as a basis for the identification, conservation, and reconstruction of historic places and materials."
+},
+{
+"task_id": "20744",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Conserve and preserve manuscripts, records, and other artifacts."
+},
+{
+"task_id": "3726",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Present historical accounts in terms of individuals or social, ethnic, political, economic, or geographic groupings."
+},
+{
+"task_id": "3725",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Research the history of a particular country or region, or of a specific time period."
+},
+{
+"task_id": "3722",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Conduct historical research, and publish or present findings and theories."
+},
+{
+"task_id": "3727",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Determine which topics to research, or pursue research topics specified by clients or employers."
+},
+{
+"task_id": "3734",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Recommend actions related to historical art, such as which items to add to a collection or which items to display in an exhibit."
+},
+{
+"task_id": "3729",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Research and prepare manuscripts in support of public programming and the development of exhibits at historic sites, museums, libraries, and archives."
+},
+{
+"task_id": "3723",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Speak to various groups, organizations, and clubs to promote the aims and activities of historical societies."
+},
+{
+"task_id": "3730",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Advise or consult with individuals and institutions regarding issues such as the historical authenticity of materials or the customs of a specific historical period."
+},
+{
+"task_id": "3733",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Interview people to gather information about historical events and to record oral histories."
+},
+{
+"task_id": "3719",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Trace historical development in a particular field, such as social, cultural, political, or diplomatic history."
+},
+{
+"task_id": "3735",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Coordinate activities of workers engaged in cataloging and filing materials."
+},
+{
+"task_id": "3732",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Collect detailed information on individuals for use in biographies."
+},
+{
+"task_id": "3721",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Teach and conduct research in colleges, universities, museums, and other research agencies and schools."
+},
+{
+"task_id": "3736",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Edit historical society publications."
+},
+{
+"task_id": "3731",
+"soc": "19-3093.00",
+"occupation": "Historians",
+"task_text": "Translate or request translation of reference materials."
+},
+{
+"task_id": "5515",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Teach political science."
+},
+{
+"task_id": "5519",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Maintain current knowledge of government policy decisions."
+},
+{
+"task_id": "5518",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Develop and test theories, using information from interviews, newspapers, periodicals, case law, historical papers, polls, or statistical sources."
+},
+{
+"task_id": "5516",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Disseminate research results through academic publications, written reports, or public presentations."
+},
+{
+"task_id": "23949",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Advise political science students."
+},
+{
+"task_id": "5520",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Collect, analyze, and interpret data, such as election results and public opinion surveys, reporting on findings, recommendations, and conclusions."
+},
+{
+"task_id": "5521",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Interpret and analyze policies, public issues, legislation, or the operations of governments, businesses, and organizations."
+},
+{
+"task_id": "5517",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Identify issues for research and analysis."
+},
+{
+"task_id": "23950",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Serve on committees."
+},
+{
+"task_id": "5524",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Forecast political, economic, and social trends."
+},
+{
+"task_id": "5525",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Consult with and advise government officials, civic bodies, research agencies, the media, political parties, and others concerned with political issues."
+},
+{
+"task_id": "5522",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Evaluate programs and policies, and make related recommendations to institutions and organizations."
+},
+{
+"task_id": "5526",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Provide media commentary or criticism related to public policy and political issues and events."
+},
+{
+"task_id": "5523",
+"soc": "19-3094.00",
+"occupation": "Political Scientists",
+"task_text": "Write drafts of legislative proposals, and prepare speeches, correspondence, and policy papers for governmental use."
+},
+{
+"task_id": "16953",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Define regional or local transportation planning problems or priorities."
+},
+{
+"task_id": "16945",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Participate in public meetings or hearings to explain planning proposals, to gather feedback from those affected by projects, or to achieve consensus on project designs."
+},
+{
+"task_id": "16943",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Prepare reports or recommendations on transportation planning."
+},
+{
+"task_id": "16951",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Collaborate with engineers to research, analyze, or resolve complex transportation design issues."
+},
+{
+"task_id": "16952",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Recommend transportation system improvements or projects, based on economic, population, land-use, or traffic projections."
+},
+{
+"task_id": "16948",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Develop computer models to address transportation planning issues."
+},
+{
+"task_id": "16954",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Analyze information related to transportation, such as land use policies, environmental impact of projects, or long-range planning needs."
+},
+{
+"task_id": "20976",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Interpret data from traffic modeling software, geographic information systems, or associated databases."
+},
+{
+"task_id": "16949",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Design transportation surveys to identify areas of public concern."
+},
+{
+"task_id": "19779",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Collaborate with other professionals to develop sustainable transportation strategies at the local, regional, or national level."
+},
+{
+"task_id": "20978",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Evaluate transportation project needs or costs."
+},
+{
+"task_id": "16941",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Analyze information from traffic counting programs."
+},
+{
+"task_id": "16942",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Review development plans for transportation system effects, infrastructure requirements, or compliance with applicable transportation regulations."
+},
+{
+"task_id": "20979",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Prepare necessary documents to obtain planned project approvals or permits."
+},
+{
+"task_id": "16944",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Produce environmental documents, such as environmental assessments or environmental impact statements."
+},
+{
+"task_id": "16934",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Prepare or review engineering studies or specifications."
+},
+{
+"task_id": "16938",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Develop or test new methods or models of transportation analysis."
+},
+{
+"task_id": "20980",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Evaluate transportation-related consequences of federal or state legislative proposals."
+},
+{
+"task_id": "20977",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Design new or improved transport infrastructure, such as junction improvements, pedestrian projects, bus facilities, or car parking areas."
+},
+{
+"task_id": "16939",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Define or update information such as urban boundaries or classification of roadways."
+},
+{
+"task_id": "16937",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Direct urban traffic counting programs."
+},
+{
+"task_id": "16935",
+"soc": "19-3099.01",
+"occupation": "Transportation Planners",
+"task_text": "Represent jurisdictions in the legislative or administrative approval of land development projects."
+},
+{
+"task_id": "20533",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Prepare land for cultivated crops, orchards, or vineyards by plowing, discing, leveling, or contouring."
+},
+{
+"task_id": "5541",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Operate farm machinery, including tractors, plows, mowers, combines, balers, sprayers, earthmoving equipment, or trucks."
+},
+{
+"task_id": "5528",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Record data pertaining to experimentation, research, or animal care."
+},
+{
+"task_id": "5544",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Maintain or repair agricultural facilities, equipment, or tools to ensure operational readiness, safety, and cleanliness."
+},
+{
+"task_id": "5542",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Perform crop production duties, such as tilling, hoeing, pruning, weeding, or harvesting crops."
+},
+{
+"task_id": "20530",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Collect animal or crop samples."
+},
+{
+"task_id": "20529",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Examine animals or crop specimens to determine the presence of diseases or other problems."
+},
+{
+"task_id": "20527",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Set up laboratory or field equipment as required for site testing."
+},
+{
+"task_id": "5548",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Supervise or train agricultural technicians or farm laborers."
+},
+{
+"task_id": "19781",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Conduct studies of nitrogen or alternative fertilizer application methods, quantities, or timing to ensure satisfaction of crop needs and minimization of leaching, runoff, or denitrification."
+},
+{
+"task_id": "20528",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Prepare laboratory samples for analysis, following proper protocols to ensure that they will be stored, prepared, and disposed of efficiently and effectively."
+},
+{
+"task_id": "20526",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Measure or weigh ingredients used in laboratory testing."
+},
+{
+"task_id": "20535",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Perform tests on seeds to evaluate seed viability."
+},
+{
+"task_id": "5530",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Prepare data summaries, reports, or analyses that include results, charts, or graphs to document research findings and results."
+},
+{
+"task_id": "20534",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Perform laboratory or field testing, using spectrometers, nitrogen determination apparatus, air samplers, centrifuges, or potential hydrogen (pH) meters to perform tests."
+},
+{
+"task_id": "20531",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Supervise pest or weed control operations, including locating and identifying pests or weeds, selecting chemicals and application methods, or scheduling application."
+},
+{
+"task_id": "5543",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Devise cultural methods or environmental controls for plants for which guidelines are sketchy or nonexistent."
+},
+{
+"task_id": "5538",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Conduct insect or plant disease surveys."
+},
+{
+"task_id": "5540",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Perform general nursery duties, such as propagating standard varieties of plant materials, collecting and germinating seeds, maintaining cuttings of plants, or controlling environmental conditions."
+},
+{
+"task_id": "19782",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Record environmental data from field samples of soil, air, water, or pests to monitor the effectiveness of integrated pest management (IPM) practices."
+},
+{
+"task_id": "20537",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Determine the germination rates of seeds planted in specified areas."
+},
+{
+"task_id": "5547",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Transplant trees, vegetables, or horticultural plants."
+},
+{
+"task_id": "20536",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Prepare culture media, following standard procedures."
+},
+{
+"task_id": "20532",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Respond to general inquiries or requests from the public."
+},
+{
+"task_id": "5549",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Prepare or present agricultural demonstrations."
+},
+{
+"task_id": "19780",
+"soc": "19-4012.00",
+"occupation": "Agricultural Technicians",
+"task_text": "Assess comparative soil erosion from various planting or tillage systems, such as conservation tillage with mulch or ridge till systems, no-till systems, or conventional tillage systems with or without moldboard plows."
+},
+{
+"task_id": "18295",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Document and maintain records of precision agriculture information."
+},
+{
+"task_id": "18281",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Collect information about soil or field attributes, yield data, or field boundaries, using field data recorders and basic geographic information systems (GIS)."
+},
+{
+"task_id": "20872",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Use geospatial technology to develop soil sampling grids or identify sampling sites for testing characteristics such as nitrogen, phosphorus, or potassium content, pH, or micronutrients."
+},
+{
+"task_id": "18284",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Divide agricultural fields into georeferenced zones, based on soil characteristics and production potentials."
+},
+{
+"task_id": "18280",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Install, calibrate, or maintain sensors, mechanical controls, GPS-based vehicle guidance systems, or computer settings."
+},
+{
+"task_id": "18289",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Create, layer, and analyze maps showing precision agricultural data, such as crop yields, soil characteristics, input applications, terrain, drainage patterns, or field management history."
+},
+{
+"task_id": "18279",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Compare crop yield maps with maps of soil test data, chemical application patterns, or other information to develop site-specific crop management plans."
+},
+{
+"task_id": "20875",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Analyze geospatial data to determine agricultural implications of factors such as soil quality, terrain, field productivity, fertilizers, or weather conditions."
+},
+{
+"task_id": "18282",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Identify spatial coordinates, using remote sensing and Global Positioning System (GPS) data."
+},
+{
+"task_id": "20874",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Analyze data from harvester monitors to develop yield maps."
+},
+{
+"task_id": "19801",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Apply precision agriculture information to specifically reduce the negative environmental impacts of farming practices."
+},
+{
+"task_id": "20873",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Demonstrate the applications of geospatial technology, such as Global Positioning System (GPS), geographic information systems (GIS), automatic tractor guidance systems, variable rate chemical input applicators, surveying equipment, or computer mapping software."
+},
+{
+"task_id": "18296",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Draw or read maps, such as soil, contour, or plat maps."
+},
+{
+"task_id": "18288",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Recommend best crop varieties or seeding rates for specific field areas, based on analysis of geospatial data."
+},
+{
+"task_id": "20876",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Prepare reports in graphical or tabular form, summarizing field productivity or profitability."
+},
+{
+"task_id": "19803",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Provide advice on the development or application of better boom-spray technology to limit the overapplication of chemicals and to reduce the migration of chemicals beyond the fields being treated."
+},
+{
+"task_id": "18278",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Program farm equipment, such as variable-rate planting equipment or pesticide sprayers, based on input from crop scouting and analysis of field condition variability."
+},
+{
+"task_id": "19802",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems."
+},
+{
+"task_id": "18293",
+"soc": "19-4012.01",
+"occupation": "Precision Agriculture Technicians",
+"task_text": "Analyze remote sensing imagery to identify relationships between soil quality, crop canopy densities, light reflectance, and weather history."
+}
+]

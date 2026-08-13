@@ -1,0 +1,782 @@
+[
+{
+"task_id": "9957",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Test operation of engines and other systems, using test equipment, such as ignition analyzers, compression checkers, distributor timers, or ammeters."
+},
+{
+"task_id": "9956",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Assemble and install electrical, plumbing, mechanical, hydraulic, and structural components and accessories, using hand or power tools."
+},
+{
+"task_id": "9959",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Reassemble engines following repair or inspection and reinstall engines in aircraft."
+},
+{
+"task_id": "9952",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Maintain, repair, and rebuild aircraft structures, functional components, and parts, such as wings and fuselage, rigging, hydraulic units, oxygen systems, fuel systems, electrical systems, gaskets, or seals."
+},
+{
+"task_id": "9953",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Measure the tension of control cables."
+},
+{
+"task_id": "9960",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Read and interpret pilots' descriptions of problems to diagnose causes."
+},
+{
+"task_id": "9958",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Obtain fuel and oil samples and check them for contamination."
+},
+{
+"task_id": "9966",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Examine engines through specially designed openings while working from ladders or scaffolds, or use hoists or lifts to remove the entire engine from an aircraft."
+},
+{
+"task_id": "9981",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Listen to operating engines to detect and diagnose malfunctions, such as sticking or burned valves."
+},
+{
+"task_id": "9970",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Remove or cut out defective parts or drill holes to gain access to internal defects or damage, using drills and punches."
+},
+{
+"task_id": "9972",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Communicate with other workers to coordinate fitting and alignment of heavy parts, or to facilitate processing of repair parts."
+},
+{
+"task_id": "9968",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Inventory and requisition or order supplies, parts, materials, and equipment."
+},
+{
+"task_id": "9971",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Clean, refuel, and change oil in line service aircraft."
+},
+{
+"task_id": "9961",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Modify aircraft structures, space vehicles, systems, or components, following drawings, schematics, charts, engineering orders, and technical publications."
+},
+{
+"task_id": "9974",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Clean engines, sediment bulk and screens, and carburetors, adjusting carburetor float levels."
+},
+{
+"task_id": "9962",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Install and align repaired or replacement parts for subsequent riveting or welding, using clamps and wrenches."
+},
+{
+"task_id": "9982",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Accompany aircraft on flights to make in-flight adjustments and corrections."
+},
+{
+"task_id": "9963",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Locate and mark dimensions and reference lines on defective or replacement parts, using templates, scribes, compasses, and steel rules."
+},
+{
+"task_id": "9976",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Spread plastic film over areas to be repaired to prevent damage to surrounding areas."
+},
+{
+"task_id": "9969",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Fabricate defective sections or parts, using metal fabricating machines, saws, brakes, shears, and grinders."
+},
+{
+"task_id": "9964",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Clean, strip, prime, and sand structural surfaces and materials to prepare them for bonding."
+},
+{
+"task_id": "9979",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Determine repair limits for engine hot section parts."
+},
+{
+"task_id": "9978",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Disassemble engines and inspect parts, such as turbine blades or cylinders, for corrosion, wear, warping, cracks, and leaks, using precision measuring instruments, x-rays, and magnetic inspection equipment."
+},
+{
+"task_id": "9983",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Remove, inspect, repair, and install in-flight refueling stores and external fuel tanks."
+},
+{
+"task_id": "9973",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Trim and shape replacement body sections to specified sizes and fits and secure sections in place, using adhesives, hand tools, and power tools."
+},
+{
+"task_id": "9980",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Cure bonded structures, using portable or stationary curing equipment."
+},
+{
+"task_id": "9975",
+"soc": "49-3011.00",
+"occupation": "Aircraft Mechanics and Service Technicians",
+"task_text": "Prepare and paint aircraft surfaces."
+},
+{
+"task_id": "2933",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "File, grind, sand, and smooth filled or repaired surfaces, using power tools and hand tools."
+},
+{
+"task_id": "18580",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Inspect repaired vehicles for proper functioning, completion of work, dimensional accuracy, and overall appearance of paint job, and test-drive vehicles to ensure proper alignment and handling."
+},
+{
+"task_id": "2943",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Fit and weld replacement parts into place, using wrenches and welding equipment, and grind down welds to smooth them, using power grinders and other tools."
+},
+{
+"task_id": "2938",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Prime and paint repaired surfaces, using paint sprayguns and motorized sanders."
+},
+{
+"task_id": "2935",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Follow supervisors' instructions as to which parts to restore or replace and how much time the job should take."
+},
+{
+"task_id": "2934",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Sand body areas to be painted and cover bumpers, windows, and trim with masking tape or paper to protect them from the paint."
+},
+{
+"task_id": "2941",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Chain or clamp frames and sections to alignment machines that use hydraulic pressure to align damaged components."
+},
+{
+"task_id": "2944",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Position dolly blocks against surfaces of dented areas and beat opposite surfaces to remove dents, using hammers."
+},
+{
+"task_id": "2937",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Cut and tape plastic separating film to outside repair areas to avoid damaging surrounding surfaces during repair procedure and remove tape and wash surfaces after repairs are complete."
+},
+{
+"task_id": "2946",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Review damage reports, prepare or review repair cost estimates, and plan work to be performed."
+},
+{
+"task_id": "2942",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Fill small dents that cannot be worked out with plastic or solder."
+},
+{
+"task_id": "2936",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Remove damaged sections of vehicles using metal-cutting guns, air grinders and wrenches, and install replacement parts using wrenches or welding equipment."
+},
+{
+"task_id": "2947",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Remove small pits and dimples in body metal, using pick hammers and punches."
+},
+{
+"task_id": "2948",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Remove upholstery, accessories, electrical window-and-seat-operating equipment, and trim to gain access to vehicle bodies and fenders."
+},
+{
+"task_id": "2940",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Mix polyester resins and hardeners to be used in restoring damaged areas."
+},
+{
+"task_id": "2954",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Fit and secure windows, vinyl roofs, and metal trim to vehicle bodies, using caulking guns, adhesive brushes, and mallets."
+},
+{
+"task_id": "2950",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Adjust or align headlights, wheels, and brake systems."
+},
+{
+"task_id": "2956",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Replace damaged glass on vehicles."
+},
+{
+"task_id": "2945",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Remove damaged panels, and identify the family and properties of the plastic used on a vehicle."
+},
+{
+"task_id": "2951",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Apply heat to plastic panels, using hot-air welding guns or immersion in hot water, and press the softened panels back into shape by hand."
+},
+{
+"task_id": "2949",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Clean work areas, using air hoses, to remove damaged material and discarded fiberglass strips used in repair procedures."
+},
+{
+"task_id": "2952",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Soak fiberglass matting in resin mixtures and apply layers of matting over repair areas to specified thicknesses."
+},
+{
+"task_id": "2955",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Read specifications or confer with customers to determine the desired custom modifications for altering the appearance of vehicles."
+},
+{
+"task_id": "2953",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Cut openings in vehicle bodies for the installation of customized windows, using templates and power shears or chisels."
+},
+{
+"task_id": "2957",
+"soc": "49-3021.00",
+"occupation": "Automotive Body and Related Repairers",
+"task_text": "Measure and mark vinyl material and cut material to size for roof installation, using rules, straightedges, and hand shears."
+},
+{
+"task_id": "20645",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Prime all scratches on pinchwelds with primer and allow to dry."
+},
+{
+"task_id": "8318",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Remove all dirt, foreign matter, and loose glass from damaged areas, apply primer along windshield or window edges, and allow primer to dry."
+},
+{
+"task_id": "8320",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Allow all glass parts installed with urethane ample time to cure, taking temperature and humidity into account."
+},
+{
+"task_id": "8324",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Apply a bead of urethane around the perimeter of each pinchweld and dress the remaining urethane on the pinchwelds so that it is of uniform level and thickness."
+},
+{
+"task_id": "8325",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Select appropriate tools, safety equipment, and parts, according to job requirements."
+},
+{
+"task_id": "20646",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Install replacement glass in vehicles."
+},
+{
+"task_id": "8322",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Obtain windshields or windows for specific automobile makes and models from stock and examine them for defects prior to installation."
+},
+{
+"task_id": "8323",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Check for and remove moisture or contamination in damaged areas and keep areas dry until repairs are complete."
+},
+{
+"task_id": "8327",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Replace all moldings, clips, windshield wipers, or other parts that were removed prior to glass replacement or repair."
+},
+{
+"task_id": "8326",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Remove broken or damaged glass windshields or window glass from motor vehicles, using hand tools to remove screws from frames holding glass."
+},
+{
+"task_id": "8328",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Remove moldings, clips, windshield wipers, screws, bolts, and inside A-pillar moldings and lower headliners in preparation for installation or repair work."
+},
+{
+"task_id": "8329",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Install, repair, or replace safety glass and related materials, such as back glass heating elements, on vehicles or equipment."
+},
+{
+"task_id": "8335",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Cool or warm glass in the event of temperature extremes."
+},
+{
+"task_id": "8333",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Replace or adjust motorized or manual window-raising mechanisms."
+},
+{
+"task_id": "8334",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Install new foam dams on pinchwelds, if required."
+},
+{
+"task_id": "8330",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Install rubber channeling strips around edges of glass or frames to weatherproof windows or to prevent rattling."
+},
+{
+"task_id": "8331",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Hold cut or uneven edges of glass against automated abrasive belts to shape or smooth edges."
+},
+{
+"task_id": "8332",
+"soc": "49-3022.00",
+"occupation": "Automotive Glass Installers and Repairers",
+"task_text": "Cut flat safety glass according to specified patterns or perform precision pattern making and glass cutting to custom fit replacement windows."
+},
+{
+"task_id": "23523",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Inspect vehicles for damage and record findings so that necessary repairs can be made."
+},
+{
+"task_id": "23522",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Test drive vehicles and test components and systems, using equipment such as infrared engine analyzers, compression gauges, and computerized diagnostic devices."
+},
+{
+"task_id": "23524",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Test and adjust repaired systems to meet manufacturers' performance specifications."
+},
+{
+"task_id": "23525",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Repair, reline, replace, and adjust brakes."
+},
+{
+"task_id": "23527",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Review work orders and discuss work with supervisors."
+},
+{
+"task_id": "23526",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Estimate costs of vehicle repair."
+},
+{
+"task_id": "23529",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Confer with customers to obtain descriptions of vehicle problems and to discuss work to be performed and future repair requirements."
+},
+{
+"task_id": "23530",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Align vehicles' front ends."
+},
+{
+"task_id": "23537",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Align wheels, axles, frames, torsion bars, and steering mechanisms of automobiles, using special alignment equipment and wheel-balancing machines."
+},
+{
+"task_id": "23532",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Tear down, repair, and rebuild faulty assemblies, such as power systems, steering systems, and linkages."
+},
+{
+"task_id": "23533",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Perform routine and scheduled maintenance services, such as oil changes, lubrications, and tune-ups."
+},
+{
+"task_id": "23535",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Plan work procedures, using charts, technical manuals, and experience."
+},
+{
+"task_id": "23534",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Follow checklists to ensure all important parts are examined, including belts, hoses, steering systems, spark plugs, brake and fuel systems, wheel bearings, and other potentially troublesome areas."
+},
+{
+"task_id": "23536",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Maintain cleanliness of work area."
+},
+{
+"task_id": "23542",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles."
+},
+{
+"task_id": "23540",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Repair and service air conditioning, heating, engine cooling, and electrical systems."
+},
+{
+"task_id": "23541",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Disassemble units and inspect parts for wear, using micrometers, calipers, and gauges."
+},
+{
+"task_id": "23531",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Test electronic computer components in automobiles to ensure proper operation."
+},
+{
+"task_id": "23543",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps."
+},
+{
+"task_id": "23544",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Repair or replace parts such as pistons, rods, gears, valves, and bearings."
+},
+{
+"task_id": "23545",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Rewire ignition systems, lights, and instrument panels."
+},
+{
+"task_id": "23528",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Troubleshoot fuel, ignition, and emissions control systems, using electronic testing equipment."
+},
+{
+"task_id": "23538",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Tune automobile engines to ensure proper and efficient functioning."
+},
+{
+"task_id": "23539",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters."
+},
+{
+"task_id": "23546",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Install, adjust, or repair hydraulic or electromagnetic automatic lift mechanisms used to raise and lower automobile windows, seats, and tops."
+},
+{
+"task_id": "23548",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Conduct visual inspections of compressed natural gas fuel systems to identify cracks, gouges, abrasions, discoloration, broken fibers, loose brackets, damaged gaskets, or other problems."
+},
+{
+"task_id": "23547",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Rebuild parts, such as crankshafts and cylinder blocks."
+},
+{
+"task_id": "23549",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Diagnose and replace or repair engine management systems or related sensors for flexible fuel vehicles (FFVs) with ignition timing, fuel rate, alcohol concentration, or air-to-fuel ratio malfunctions."
+},
+{
+"task_id": "23550",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Repair or rebuild transmissions."
+},
+{
+"task_id": "23551",
+"soc": "49-3023.00",
+"occupation": "Automotive Service Technicians and Mechanics",
+"task_text": "Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, and friction reduction devices, to enhance combustion and fuel efficiency."
+},
+{
+"task_id": "2981",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Use handtools, such as screwdrivers, pliers, wrenches, pressure gauges, or precision instruments, as well as power tools, such as pneumatic wrenches, lathes, welding equipment, or jacks and hoists."
+},
+{
+"task_id": "2982",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Inspect brake systems, steering mechanisms, wheel bearings, and other important parts to ensure that they are in proper operating condition."
+},
+{
+"task_id": "2985",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Raise trucks, buses, and heavy parts or equipment using hydraulic jacks or hoists."
+},
+{
+"task_id": "2984",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Adjust and reline brakes, align wheels, tighten bolts and screws, and reassemble equipment."
+},
+{
+"task_id": "2991",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Attach test instruments to equipment, and read dials and gauges to diagnose malfunctions."
+},
+{
+"task_id": "2983",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Perform routine maintenance such as changing oil, checking batteries, and lubricating equipment and machinery."
+},
+{
+"task_id": "2988",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Examine and adjust protective guards, loose bolts, and specified safety devices."
+},
+{
+"task_id": "2987",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Inspect, test, and listen to defective equipment to diagnose malfunctions, using test instruments such as handheld computers, motor analyzers, chassis charts, or pressure gauges."
+},
+{
+"task_id": "2992",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Rewire ignition systems, lights, and instrument panels."
+},
+{
+"task_id": "2986",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Test drive trucks and buses to diagnose malfunctions or to ensure that they are working properly."
+},
+{
+"task_id": "18582",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Diagnose and repair vehicle heating and cooling systems."
+},
+{
+"task_id": "2995",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Inspect, repair, and maintain automotive and mechanical equipment and machinery, such as pumps and compressors."
+},
+{
+"task_id": "2989",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Inspect and verify dimensions and clearances of parts to ensure conformance to factory specifications."
+},
+{
+"task_id": "2996",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Disassemble and overhaul internal combustion engines, pumps, generators, transmissions, clutches, and differential units."
+},
+{
+"task_id": "19886",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Adjust or repair computer controlled exhaust emissions devices."
+},
+{
+"task_id": "2997",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Rebuild gas or diesel engines."
+},
+{
+"task_id": "2990",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Specialize in repairing and maintaining parts of the engine, such as fuel injection systems."
+},
+{
+"task_id": "2993",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Recondition and replace parts, pistons, bearings, gears, and valves."
+},
+{
+"task_id": "20453",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Install or repair accessories."
+},
+{
+"task_id": "20454",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Repair or adjust seats, doors, or windows."
+},
+{
+"task_id": "23955",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Dismount, mount, and repair or replace tires."
+},
+{
+"task_id": "2998",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Align front ends and suspension systems."
+},
+{
+"task_id": "19888",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Maintain or repair vehicles with alternative fuel systems, including biodiesel, hybrid, or compressed natural gas vehicles."
+},
+{
+"task_id": "19889",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Measure vehicle emissions to determine whether they are within acceptable limits."
+},
+{
+"task_id": "19887",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Follow green operational practices involving conservation of water or energy or reduction of solid waste."
+},
+{
+"task_id": "2999",
+"soc": "49-3031.00",
+"occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+"task_text": "Operate valve-grinding machines to grind and reset valves."
+},
+{
+"task_id": "13749",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Reassemble machines and equipment following repair, testing operation and making adjustments, as necessary."
+},
+{
+"task_id": "13750",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Maintain, repair, and overhaul farm machinery and vehicles, such as tractors, harvesters, and irrigation systems."
+},
+{
+"task_id": "13751",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Examine and listen to equipment, read inspection reports, and confer with customers to locate and diagnose malfunctions."
+},
+{
+"task_id": "13748",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Record details of repairs made and parts used."
+}
+]

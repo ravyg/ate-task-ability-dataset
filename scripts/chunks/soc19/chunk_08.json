@@ -1,0 +1,782 @@
+[
+{
+"task_id": "22316",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Perform testing, maintenance, repair, or upgrading of accelerator systems."
+},
+{
+"task_id": "22318",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Warn maintenance workers of radiation hazards and direct workers to vacate hazardous areas."
+},
+{
+"task_id": "22319",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Calculate equipment operating factors, such as radiation times, dosages, temperatures, gamma intensities, or pressures, using standard formulas and conversion tables."
+},
+{
+"task_id": "22320",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Measure the intensity and identify the types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments."
+},
+{
+"task_id": "22321",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Communicate with accelerator maintenance personnel to ensure readiness of support systems, such as vacuum, water cooling, or radio frequency power sources."
+},
+{
+"task_id": "22323",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Identify and implement appropriate decontamination procedures, based on equipment and the size, nature, and type of contamination."
+},
+{
+"task_id": "22324",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Decontaminate objects by cleaning them using soap or solvents or by abrading using brushes, buffing machines, or sandblasting machines."
+},
+{
+"task_id": "22326",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Collect air, water, gas or solid samples for testing to determine radioactivity levels or to ensure appropriate radioactive containment."
+},
+{
+"task_id": "22327",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination."
+},
+{
+"task_id": "22328",
+"soc": "19-4051.00",
+"occupation": "Nuclear Technicians",
+"task_text": "Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy."
+},
+{
+"task_id": "20539",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Brief workers on radiation levels in work areas."
+},
+{
+"task_id": "7597",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation."
+},
+{
+"task_id": "7599",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Monitor personnel to determine the amounts and intensities of radiation exposure."
+},
+{
+"task_id": "7600",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits."
+},
+{
+"task_id": "7598",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Provide initial response to abnormal events or to alarms from radiation monitoring equipment."
+},
+{
+"task_id": "7602",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments."
+},
+{
+"task_id": "7601",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment."
+},
+{
+"task_id": "7603",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination."
+},
+{
+"task_id": "20540",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Analyze samples, such as air or water samples, for contaminants or other elements."
+},
+{
+"task_id": "7605",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination."
+},
+{
+"task_id": "7604",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy."
+},
+{
+"task_id": "7612",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes."
+},
+{
+"task_id": "20541",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal."
+},
+{
+"task_id": "7606",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines."
+},
+{
+"task_id": "7610",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles."
+},
+{
+"task_id": "7608",
+"soc": "19-4051.02",
+"occupation": "Nuclear Monitoring Technicians",
+"task_text": "Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools."
+},
+{
+"task_id": "12963",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Design and create special programs for tasks such as statistical analysis and data entry and cleaning."
+},
+{
+"task_id": "12953",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Provide assistance with the preparation of project-related reports, manuscripts, and presentations."
+},
+{
+"task_id": "12957",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Prepare tables, graphs, fact sheets, and written reports summarizing research results."
+},
+{
+"task_id": "12955",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Perform descriptive and multivariate statistical analyses of data, using computer software."
+},
+{
+"task_id": "12956",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Verify the accuracy and validity of data entered in databases, correcting any errors."
+},
+{
+"task_id": "12959",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Develop and implement research quality control procedures."
+},
+{
+"task_id": "12952",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Prepare, manipulate, and manage extensive databases."
+},
+{
+"task_id": "12962",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Perform data entry and other clerical work as required for project completion."
+},
+{
+"task_id": "12960",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Conduct internet-based and library research."
+},
+{
+"task_id": "12961",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Present research findings to groups of people."
+},
+{
+"task_id": "12954",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Obtain informed consent of research subjects or their guardians."
+},
+{
+"task_id": "12967",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Administer standardized tests to research subjects, or interview them to collect research data."
+},
+{
+"task_id": "12968",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Recruit and schedule research participants."
+},
+{
+"task_id": "12966",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Screen potential subjects to determine their suitability as study participants."
+},
+{
+"task_id": "12969",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Track research participants, and perform any necessary follow-up tasks."
+},
+{
+"task_id": "12958",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Edit and submit protocols and other required research documentation."
+},
+{
+"task_id": "12964",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Code data in preparation for computer entry."
+},
+{
+"task_id": "12972",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Track laboratory supplies and expenses such as participant reimbursement."
+},
+{
+"task_id": "12965",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Provide assistance in the design of survey instruments such as questionnaires."
+},
+{
+"task_id": "12971",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Supervise the work of survey interviewers."
+},
+{
+"task_id": "12973",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Perform needs assessments or consult with clients to determine the types of research and information required."
+},
+{
+"task_id": "12970",
+"soc": "19-4061.00",
+"occupation": "Social Science Research Assistants",
+"task_text": "Allocate and manage laboratory space and resources."
+},
+{
+"task_id": "5566",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks."
+},
+{
+"task_id": "5563",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities."
+},
+{
+"task_id": "5570",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention."
+},
+{
+"task_id": "5569",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Patrol park or forest areas to protect resources and prevent damage."
+},
+{
+"task_id": "21061",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Map forest tract data using digital mapping systems."
+},
+{
+"task_id": "5571",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Keep records of the amount and condition of logs taken to mills."
+},
+{
+"task_id": "5567",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs."
+},
+{
+"task_id": "5564",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Monitor activities of logging companies and contractors."
+},
+{
+"task_id": "5578",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement."
+},
+{
+"task_id": "5576",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Plan and supervise construction of access routes and forest roads."
+},
+{
+"task_id": "5565",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Select and mark trees for thinning or logging, drawing detailed plans that include access roads."
+},
+{
+"task_id": "5572",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs."
+},
+{
+"task_id": "5574",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Develop and maintain computer databases."
+},
+{
+"task_id": "5581",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage."
+},
+{
+"task_id": "5575",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Measure distances, clean sightlines, and record data to help survey crews."
+},
+{
+"task_id": "5573",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Issue fire permits, timber permits, and other forest use licenses."
+},
+{
+"task_id": "5568",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections."
+},
+{
+"task_id": "5577",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public."
+},
+{
+"task_id": "5580",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research."
+},
+{
+"task_id": "5579",
+"soc": "19-4071.00",
+"occupation": "Forest and Conservation Technicians",
+"task_text": "Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils."
+},
+{
+"task_id": "1577",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Collect evidence from crime scenes, storing it in conditions that preserve its integrity."
+},
+{
+"task_id": "18478",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques."
+},
+{
+"task_id": "20399",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Use photographic or video equipment to document evidence or crime scenes."
+},
+{
+"task_id": "1571",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Testify in court about investigative or analytical methods or findings."
+},
+{
+"task_id": "18479",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases."
+},
+{
+"task_id": "23965",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Measure and sketch crime scenes to document evidence."
+},
+{
+"task_id": "1584",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations."
+},
+{
+"task_id": "18481",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Train new technicians or other personnel on forensic science techniques."
+},
+{
+"task_id": "1574",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Operate and maintain laboratory equipment and apparatus."
+},
+{
+"task_id": "1582",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Collect impressions of dust from surfaces to obtain and identify fingerprints."
+},
+{
+"task_id": "18482",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Examine and analyze blood stain patterns at crime scenes."
+},
+{
+"task_id": "1583",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Analyze gunshot residue and bullet paths to determine how shootings occurred."
+},
+{
+"task_id": "1589",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation."
+},
+{
+"task_id": "1575",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Prepare solutions, reagents, or sample formulations needed for laboratory work."
+},
+{
+"task_id": "23966",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Examine footwear, tire tracks, or other types of impressions."
+},
+{
+"task_id": "23967",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition."
+},
+{
+"task_id": "1580",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Reconstruct crime scenes to determine relationships among pieces of evidence."
+},
+{
+"task_id": "20401",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Determine types of bullets and specific weapons used in shootings."
+},
+{
+"task_id": "20400",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Review forensic analysts' reports for technical merit."
+},
+{
+"task_id": "1573",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes."
+},
+{
+"task_id": "1590",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark."
+},
+{
+"task_id": "1578",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes."
+},
+{
+"task_id": "1587",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers."
+},
+{
+"task_id": "23969",
+"soc": "19-4092.00",
+"occupation": "Forensic Science Technicians",
+"task_text": "Analyze data from computers or other digital media sources for evidence related to criminal activity."
+},
+{
+"task_id": "16980",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Conduct routine and non-routine analyses of in-process materials, raw materials, environmental samples, finished goods, or stability samples."
+},
+{
+"task_id": "16974",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release."
+},
+{
+"task_id": "16978",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Calibrate, validate, or maintain laboratory equipment."
+},
+{
+"task_id": "16961",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Ensure that lab cleanliness and safety standards are maintained."
+},
+{
+"task_id": "16956",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Perform visual inspections of finished products."
+},
+{
+"task_id": "16977",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms."
+},
+{
+"task_id": "16979",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Compile laboratory test data and perform appropriate analyses."
+},
+{
+"task_id": "16959",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Identify and troubleshoot equipment problems."
+},
+{
+"task_id": "16964",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses."
+},
+{
+"task_id": "16973",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Investigate or report questionable test results."
+},
+{
+"task_id": "16972",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Monitor testing procedures to ensure that all tests are performed according to established item specifications, standard test methods, or protocols."
+},
+{
+"task_id": "16975",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Identify quality problems and recommend solutions."
+},
+{
+"task_id": "16971",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Participate in out-of-specification and failure investigations and recommend corrective actions."
+},
+{
+"task_id": "16967",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Receive and inspect raw materials."
+},
+{
+"task_id": "16955",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Train other analysts to perform laboratory procedures and assays."
+},
+{
+"task_id": "16966",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Supply quality control data necessary for regulatory submissions."
+},
+{
+"task_id": "16957",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Serve as a technical liaison between quality control and other departments, vendors, or contractors."
+},
+{
+"task_id": "16965",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Write or revise standard quality control operating procedures."
+},
+{
+"task_id": "16958",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Participate in internal assessments and audits as required."
+},
+{
+"task_id": "16970",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Perform validations or transfers of analytical methods in accordance with applicable policies or guidelines."
+},
+{
+"task_id": "16976",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Evaluate analytical methods and procedures to determine how they might be improved."
+},
+{
+"task_id": "16969",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Prepare or review required method transfer documentation including technical transfer protocols or reports."
+},
+{
+"task_id": "16968",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Review data from contract laboratories to ensure accuracy and regulatory compliance."
+},
+{
+"task_id": "16962",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Develop and qualify new testing methods."
+},
+{
+"task_id": "16963",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Coordinate testing with contract laboratories and vendors."
+},
+{
+"task_id": "16960",
+"soc": "19-4099.01",
+"occupation": "Quality Control Analysts",
+"task_text": "Evaluate new technologies and methods to make recommendations regarding their use."
+},
+{
+"task_id": "16999",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Collect geospatial data, using technologies such as aerial photography, light and radio wave detection systems, digital satellites, or thermal energy systems."
+},
+{
+"task_id": "16986",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Verify integrity and accuracy of data contained in remote sensing image analysis systems."
+},
+{
+"task_id": "16991",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Integrate remotely sensed data with other geospatial data."
+},
+{
+"task_id": "16996",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Consult with remote sensing scientists, surveyors, cartographers, or engineers to determine project needs."
+},
+{
+"task_id": "16997",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Adjust remotely sensed images for optimum presentation by using software to select image displays, define image set categories, or choose processing routines."
+},
+{
+"task_id": "16998",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Manipulate raw data to enhance interpretation, either on the ground or during remote sensing flights."
+},
+{
+"task_id": "16990",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Merge scanned images or build photo mosaics of large areas, using image processing software."
+},
+{
+"task_id": "16981",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Participate in the planning or development of mapping projects."
+},
+{
+"task_id": "16987",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Prepare documentation or presentations, including charts, photos, or graphs."
+},
+{
+"task_id": "16994",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Correct raw data for errors due to factors such as skew or atmospheric variation."
+},
+{
+"task_id": "16995",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Calibrate data collection equipment."
+},
+{
+"task_id": "16993",
+"soc": "19-4099.03",
+"occupation": "Remote Sensing Technicians",
+"task_text": "Develop or maintain geospatial information databases."
+}
+]

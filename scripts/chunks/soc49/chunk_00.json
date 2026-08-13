@@ -1,0 +1,782 @@
+[
+{
+"task_id": "2929",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Inspect, test, and measure completed work, using devices such as hand tools or gauges to verify conformance to standards or repair requirements."
+},
+{
+"task_id": "15263",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Inspect and monitor work areas, examine tools and equipment, and provide employee safety training to prevent, detect, and correct unsafe conditions or violations of procedures and safety rules."
+},
+{
+"task_id": "2920",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Interpret specifications, blueprints, or job orders to construct templates and lay out reference points for workers."
+},
+{
+"task_id": "2914",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Monitor employees' work levels and review work performance."
+},
+{
+"task_id": "2925",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Perform skilled repair or maintenance operations, using equipment such as hand or power tools, hydraulic presses or shears, or welding equipment."
+},
+{
+"task_id": "2919",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Compute estimates and actual costs of factors such as materials, labor, or outside contractors."
+},
+{
+"task_id": "15262",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions."
+},
+{
+"task_id": "2918",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Requisition materials and supplies, such as tools, equipment, or replacement parts."
+},
+{
+"task_id": "2923",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Confer with personnel, such as management, engineering, quality control, customer, or union workers' representatives, to coordinate work activities, resolve employee grievances, or identify and review resource needs."
+},
+{
+"task_id": "2912",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Determine schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel."
+},
+{
+"task_id": "2915",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Examine objects, systems, or facilities and analyze information to determine needed installations, services, or repairs."
+},
+{
+"task_id": "2917",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Counsel employees about work-related issues and assist employees to correct job-skill deficiencies."
+},
+{
+"task_id": "2924",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Recommend or initiate personnel actions, such as hires, promotions, transfers, discharges, or disciplinary measures."
+},
+{
+"task_id": "2922",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Investigate accidents or injuries and prepare reports of findings."
+},
+{
+"task_id": "2921",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Conduct or arrange for worker training in safety, repair, or maintenance techniques, operational procedures, or equipment use."
+},
+{
+"task_id": "2927",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Develop, implement, or evaluate maintenance policies and procedures."
+},
+{
+"task_id": "2930",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Meet with vendors or suppliers to discuss products used in repair work."
+},
+{
+"task_id": "2916",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Participate in budget preparation and administration, coordinating purchasing and documentation and monitoring departmental expenditures."
+},
+{
+"task_id": "15264",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Review, evaluate, accept, and coordinate completion of work bid from contractors."
+},
+{
+"task_id": "2926",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Compile operational or personnel records, such as time and production records, inventory data, repair or maintenance statistics, or test results."
+},
+{
+"task_id": "2931",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Develop or implement electronic maintenance programs or computer information management systems."
+},
+{
+"task_id": "2932",
+"soc": "49-1011.00",
+"occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+"task_text": "Design equipment configurations to meet personnel needs."
+},
+{
+"task_id": "11624",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Reassemble machines after making repairs or replacing parts."
+},
+{
+"task_id": "11623",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Converse with customers to determine details of equipment problems."
+},
+{
+"task_id": "11639",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Disassemble machines to examine parts, such as wires, gears, or bearings for wear or defects, using hand or power tools and measuring devices."
+},
+{
+"task_id": "11627",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Advise customers concerning equipment operation, maintenance, or programming."
+},
+{
+"task_id": "11635",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Align, adjust, or calibrate equipment according to specifications."
+},
+{
+"task_id": "11637",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Repair, adjust, or replace electrical or mechanical components or parts, using hand tools, power tools, or soldering or welding equipment."
+},
+{
+"task_id": "11625",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Travel to customers' stores or offices to service machines or to provide emergency repair service."
+},
+{
+"task_id": "11633",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Maintain parts inventories and order any additional parts needed for repairs."
+},
+{
+"task_id": "11630",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Operate machines to test functioning of parts or mechanisms."
+},
+{
+"task_id": "11626",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Reinstall software programs or adjust settings on existing software to fix machine malfunctions."
+},
+{
+"task_id": "11640",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns."
+},
+{
+"task_id": "11631",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Maintain records of equipment maintenance work or repairs."
+},
+{
+"task_id": "11628",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Test new systems to ensure that they are in working order."
+},
+{
+"task_id": "11638",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Complete repair bills, shop records, time cards, or expense reports."
+},
+{
+"task_id": "11632",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Install and configure new equipment, including operating software or peripheral equipment."
+},
+{
+"task_id": "11644",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Analyze equipment performance records to assess equipment functioning."
+},
+{
+"task_id": "11642",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Read specifications, such as blueprints, charts, or schematics, to determine machine settings or adjustments."
+},
+{
+"task_id": "11634",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Update existing equipment, performing tasks such as installing updated circuit boards or additional memory."
+},
+{
+"task_id": "11636",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Test components or circuits of faulty equipment to locate defects, using oscilloscopes, signal generators, ammeters, voltmeters, or special diagnostic software programs."
+},
+{
+"task_id": "11629",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Assemble machines according to specifications, using hand or power tools and measuring devices."
+},
+{
+"task_id": "11643",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Lay cable and hook up electrical connections between machines, power sources, and phone lines."
+},
+{
+"task_id": "11641",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Enter information into computers to copy programs from one electronic component to another or to draw, modify, or store schematics."
+},
+{
+"task_id": "11645",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Fill machines with toners, inks, or other duplicating fluids."
+},
+{
+"task_id": "11646",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Train new repairers."
+},
+{
+"task_id": "11647",
+"soc": "49-2011.00",
+"occupation": "Computer, Automated Teller, and Office Machine Repairers",
+"task_text": "Calibrate testing instruments."
+},
+{
+"task_id": "19401",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Inspect completed work to ensure all hardware is tight, antennas are level, hangers are properly fastened, proper support is in place, or adequate weather proofing has been installed."
+},
+{
+"task_id": "19409",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Run appropriate power, ground, or coaxial cables."
+},
+{
+"task_id": "19410",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Test operation of tower transmission components, using sweep testing tools or software."
+},
+{
+"task_id": "19402",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Install all necessary transmission equipment components, including antennas or antenna mounts, surge arrestors, transmission lines, connectors, or tower-mounted amplifiers (TMAs)."
+},
+{
+"task_id": "19407",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Read work orders, blueprints, plans, datasheets or site drawings to determine work to be done."
+},
+{
+"task_id": "19408",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Replace existing antennas with new antennas as directed."
+},
+{
+"task_id": "19398",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Bolt equipment into place, using hand or power tools."
+},
+{
+"task_id": "19404",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Install, connect, or test underground or aboveground grounding systems."
+},
+{
+"task_id": "19412",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Complete reports related to project status, progress, or other work details, using computer software."
+},
+{
+"task_id": "19399",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Check antenna positioning to ensure specified azimuths or mechanical tilts and adjust as necessary."
+},
+{
+"task_id": "19415",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Transport equipment to work sites, using utility trucks and equipment trailers."
+},
+{
+"task_id": "19414",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Take site survey photos or photos of work performed, using digital cameras."
+},
+{
+"task_id": "19411",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Climb towers to access components, using safety equipment, such as full-body harnesses."
+},
+{
+"task_id": "19400",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Climb communication towers to install, replace, or repair antennas or auxiliary equipment used to transmit and receive radio waves."
+},
+{
+"task_id": "19405",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Lift equipment into position, using cranes and rigging tools or equipment, such as gin poles."
+},
+{
+"task_id": "19406",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Perform maintenance or repair work on existing tower equipment, using hand or power tools."
+},
+{
+"task_id": "19413",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Locate tower sites where work is to be performed, using mapping software."
+},
+{
+"task_id": "19403",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Install or repair tower lighting components, including strobes, beacons, or lighting controllers."
+},
+{
+"task_id": "23510",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Calibrate and align components, using scales, gauges, and other measuring instruments."
+},
+{
+"task_id": "23511",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Examine malfunctioning radio equipment to locate defects such as loose connections, broken wires, or burned-out components, using schematic diagrams and test equipment."
+},
+{
+"task_id": "23512",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Insert plugs into receptacles and bolt or screw leads to terminals to connect equipment to power sources, using hand tools."
+},
+{
+"task_id": "23513",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Install, adjust, and repair stationary and mobile radio transmitting and receiving equipment and two-way radio communication systems."
+},
+{
+"task_id": "23514",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Monitor radio range stations to detect transmission flaws and adjust controls to eliminate flaws."
+},
+{
+"task_id": "23515",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Mount equipment on transmission towers and in vehicles such as ships or ambulances."
+},
+{
+"task_id": "23516",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Remove and replace defective components and parts such as conductors, resistors, semiconductors, and integrated circuits, using soldering irons, wire cutters, and hand tools."
+},
+{
+"task_id": "23517",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Repair circuits, wiring, and soldering, using soldering irons and hand tools to install parts and adjust connections."
+},
+{
+"task_id": "23518",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Test batteries, using hydrometers and ammeters, and charge batteries as necessary."
+},
+{
+"task_id": "23519",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Test emergency transmitters to ensure their readiness for immediate use."
+},
+{
+"task_id": "23520",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Test equipment functions such as signal strength and quality, transmission capacity, interference, and signal delay, using equipment such as oscilloscopes, circuit analyzers, frequency meters, and wattmeters."
+},
+{
+"task_id": "23521",
+"soc": "49-2021.00",
+"occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+"task_text": "Turn setscrews to adjust receivers for maximum sensitivity and transmitters for maximum output."
+},
+{
+"task_id": "11655",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Demonstrate equipment to customers and explain its use, responding to any inquiries or complaints."
+},
+{
+"task_id": "11649",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Test circuits and components of malfunctioning telecommunications equipment to isolate sources of malfunctions, using test meters, circuit diagrams, polarity probes, and other hand tools."
+},
+{
+"task_id": "11650",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Test repaired, newly installed, or updated equipment to ensure that it functions properly and conforms to specifications, using test equipment and observation."
+},
+{
+"task_id": "11665",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Climb poles and ladders, use truck-mounted booms, and enter areas such as manholes and cable vaults to install, maintain, or inspect equipment."
+},
+{
+"task_id": "11660",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Assemble and install communication equipment such as data and telephone communication lines, wiring, switching equipment, wiring frames, power apparatus, computer systems, and networks."
+},
+{
+"task_id": "11668",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Run wires between components and to outside cable systems, connecting them to wires from telephone poles or underground cable accesses."
+},
+{
+"task_id": "11664",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Test connections to ensure that power supplies are adequate and that communications links function."
+},
+{
+"task_id": "11648",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Note differences in wire and cable colors so that work can be performed correctly."
+},
+{
+"task_id": "11652",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Inspect equipment on a regular basis to ensure proper functioning."
+},
+{
+"task_id": "11662",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Collaborate with other workers to locate and correct malfunctions."
+},
+{
+"task_id": "11659",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Remove loose wires and other debris after work is completed."
+},
+{
+"task_id": "11653",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Repair or replace faulty equipment, such as defective and damaged telephones, wires, switching system components, and associated equipment."
+},
+{
+"task_id": "11674",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Maintain computer and manual records pertaining to facilities and equipment."
+},
+{
+"task_id": "11661",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Communicate with bases, using telephones or two-way radios to receive instructions or technical advice, or to report equipment status."
+},
+{
+"task_id": "11654",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Remove and remake connections to change circuit layouts, following work orders or diagrams."
+},
+{
+"task_id": "11671",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Clean and maintain tools, test equipment, and motor vehicles."
+},
+{
+"task_id": "11677",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Perform database verifications, using computers."
+},
+{
+"task_id": "11658",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Request support from technical service centers when on-site procedures fail to solve installation or maintenance problems."
+},
+{
+"task_id": "11656",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Analyze test readings, computer printouts, and trouble reports to determine equipment repair needs and required repair methods."
+},
+{
+"task_id": "11657",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Adjust or modify equipment to enhance equipment performance or to respond to customer requests."
+},
+{
+"task_id": "11669",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Remove and replace plug-in circuit equipment."
+},
+{
+"task_id": "11666",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Refer to manufacturers' manuals to obtain maintenance instructions pertaining to specific malfunctions."
+},
+{
+"task_id": "11684",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Dig holes or trenches as necessary for equipment installation and access."
+},
+{
+"task_id": "11663",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Review manufacturer's instructions, manuals, technical specifications, building permits, and ordinances to determine communication equipment requirements and procedures."
+},
+{
+"task_id": "11651",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Drive crew trucks to and from work areas."
+},
+{
+"task_id": "11670",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Route and connect cables and lines to switches, switchboard equipment, and distributing frames, using wire-wrap guns or soldering irons to connect wires to terminals."
+},
+{
+"task_id": "11667",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Designate cables available for use."
+},
+{
+"task_id": "11673",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Diagnose and correct problems from remote locations, using special switchboards to find the sources of problems."
+},
+{
+"task_id": "11672",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Program computerized switches and switchboards to provide requested features."
+},
+{
+"task_id": "11676",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Enter codes needed to correct electronic switching system programming."
+},
+{
+"task_id": "11679",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Examine telephone transmission facilities to determine requirements for new or additional telephone services."
+},
+{
+"task_id": "11682",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Measure distances from landmarks to identify exact installation sites for equipment."
+},
+{
+"task_id": "11675",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Install updated software and programs that maintain existing software or provide requested features, such as time-correlated call routing."
+},
+{
+"task_id": "11681",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Perform routine maintenance on equipment, including adjusting and lubricating components and painting worn or exposed areas."
+},
+{
+"task_id": "11680",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Determine viability of sites through observation, and discuss site locations and construction requirements with customers."
+},
+{
+"task_id": "11685",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Install telephone station equipment, such as intercommunication systems, transmitters, receivers, relays, and ringers, and related apparatus, such as coin collectors, telephone booths, and switching-key equipment."
+},
+{
+"task_id": "11683",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Clean switches and replace contact points, using vacuum hoses, solvents, and hand tools."
+},
+{
+"task_id": "11686",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Provide input into the design and manufacturing of new equipment."
+},
+{
+"task_id": "11678",
+"soc": "49-2022.00",
+"occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+"task_text": "Address special issues or situations, such as illegal or unauthorized use of equipment, or cases of electrical or acoustic shock."
+},
+{
+"task_id": "9934",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Test and troubleshoot instruments, components, and assemblies, using circuit testers, oscilloscopes, or voltmeters."
+},
+{
+"task_id": "9935",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Keep records of maintenance and repair work."
+},
+{
+"task_id": "9939",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Adjust, repair, or replace malfunctioning components or assemblies, using hand tools or soldering irons."
+},
+{
+"task_id": "9938",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Install electrical and electronic components, assemblies, and systems in aircraft, using hand tools, power tools, or soldering irons."
+},
+{
+"task_id": "9933",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Set up and operate ground support and test equipment to perform functional flight tests of electrical and electronic systems."
+},
+{
+"task_id": "9941",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Assemble components such as switches, electrical controls, and junction boxes, using hand tools or soldering irons."
+},
+{
+"task_id": "9943",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Lay out installation of aircraft assemblies and systems, following documentation such as blueprints, manuals, and wiring diagrams."
+},
+{
+"task_id": "9940",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Connect components to assemblies such as radio systems, instruments, magnetos, inverters, and in-flight refueling systems, using hand tools and soldering irons."
+},
+{
+"task_id": "9937",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Interpret flight test data to diagnose malfunctions and systemic performance problems."
+},
+{
+"task_id": "9936",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Coordinate work with that of engineers, technicians, and other aircraft maintenance personnel."
+},
+{
+"task_id": "9942",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Fabricate parts and test aids as required."
+},
+{
+"task_id": "9944",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Assemble prototypes or models of circuits, instruments, and systems for use in testing."
+},
+{
+"task_id": "9945",
+"soc": "49-2091.00",
+"occupation": "Avionics Technicians",
+"task_text": "Operate computer-aided drafting and design applications to design avionics system modifications."
+},
+{
+"task_id": "11696",
+"soc": "49-2092.00",
+"occupation": "Electric Motor, Power Tool, and Related Repairers",
+"task_text": "Inspect and test equipment to locate damage or worn parts and diagnose malfunctions, or read work orders or schematic drawings to determine required repairs."
+}
+]

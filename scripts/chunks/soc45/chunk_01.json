@@ -1,0 +1,542 @@
+[
+{
+"task_id": "13422",
+"soc": "45-2093.00",
+"occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+"task_text": "Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births."
+},
+{
+"task_id": "13425",
+"soc": "45-2093.00",
+"occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+"task_text": "Patrol grazing lands on horseback or using all-terrain vehicles."
+},
+{
+"task_id": "13426",
+"soc": "45-2093.00",
+"occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+"task_text": "Maintain growth, feeding, production, and cost records."
+},
+{
+"task_id": "13427",
+"soc": "45-2093.00",
+"occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+"task_text": "Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair."
+},
+{
+"task_id": "13428",
+"soc": "45-2093.00",
+"occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+"task_text": "Spray livestock with disinfectants and insecticides, or dip or bathe animals."
+},
+{
+"task_id": "23403",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Steer vessels and operate navigational instruments."
+},
+{
+"task_id": "23410",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Remove catches from fishing equipment and measure them to ensure compliance with legal size."
+},
+{
+"task_id": "23428",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Direct fishing or hunting operations, and supervise crew members."
+},
+{
+"task_id": "23419",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Interpret weather and vessel conditions to determine appropriate responses."
+},
+{
+"task_id": "23402",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Travel on foot, by vehicle, or by equipment such as boats, snowmobiles, helicopters, snowshoes, or skis to reach hunting areas."
+},
+{
+"task_id": "23415",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Select, bait, and set traps, and lay poison along trails, according to species, size, habits, and environs of birds or animals and reasons for trapping them."
+},
+{
+"task_id": "23408",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Maintain engines, fishing gear, and other on-board equipment and perform minor repairs."
+},
+{
+"task_id": "23424",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Connect accessories such as floats, weights, flags, lights, or markers to nets, lines, or traps."
+},
+{
+"task_id": "23423",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Wash decks, conveyors, knives, and other equipment, using brushes, detergents, and water."
+},
+{
+"task_id": "23427",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle."
+},
+{
+"task_id": "23429",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Oversee the purchase of supplies, gear, and equipment."
+},
+{
+"task_id": "23426",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Load and unload vessel equipment and supplies, by hand or using hoisting equipment."
+},
+{
+"task_id": "23406",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Scrape fat, blubber, or flesh from skin sides of pelts with knives or hand scrapers."
+},
+{
+"task_id": "23400",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Patrol trap lines or nets to inspect settings, remove catch, and reset or relocate traps."
+},
+{
+"task_id": "23411",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Locate fish, using fish-finding equipment."
+},
+{
+"task_id": "23421",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Kill or stun trapped quarry, using clubs, poisons, guns, or drowning methods."
+},
+{
+"task_id": "23405",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Maintain and repair trapping equipment."
+},
+{
+"task_id": "23401",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Obtain permission from landowners to hunt or trap on their land."
+},
+{
+"task_id": "23407",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Put fishing equipment into the water and anchor or tow equipment, according to the fishing method used."
+},
+{
+"task_id": "23414",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Compute positions and plot courses on charts to navigate vessels, using instruments such as compasses, sextants, and charts."
+},
+{
+"task_id": "23409",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Sort, pack, and store catch in holds with salt and ice."
+},
+{
+"task_id": "23412",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Obtain required approvals for using poisons or traps, and notify persons in areas where traps and poison are set."
+},
+{
+"task_id": "23413",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Track animals by checking for signs such as droppings or destruction of vegetation."
+},
+{
+"task_id": "23404",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Skin quarry, using knives, and stretch pelts on frames to be cured."
+},
+{
+"task_id": "23418",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Transport fish to processing plants or to buyers."
+},
+{
+"task_id": "23416",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges."
+},
+{
+"task_id": "23425",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Teach or guide individuals or groups unfamiliar with specific hunting methods or types of prey."
+},
+{
+"task_id": "23420",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Release quarry from traps or nets and transfer to cages."
+},
+{
+"task_id": "23417",
+"soc": "45-3031.00",
+"occupation": "Fishing and Hunting Workers",
+"task_text": "Participate in animal damage control, wildlife management, disease control, and research activities."
+},
+{
+"task_id": "7026",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Check equipment to ensure that it is operating properly."
+},
+{
+"task_id": "7028",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians."
+},
+{
+"task_id": "7029",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush."
+},
+{
+"task_id": "7027",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Confer with other workers to discuss issues, such as safety, cutting heights, or work needs."
+},
+{
+"task_id": "7035",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Maintain tallies of trees examined and counted during tree marking or measuring efforts."
+},
+{
+"task_id": "7041",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation."
+},
+{
+"task_id": "7042",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated."
+},
+{
+"task_id": "7032",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation."
+},
+{
+"task_id": "7034",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Thin or space trees, using power thinning saws."
+},
+{
+"task_id": "7031",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Identify diseased or undesirable trees and remove them, using power saws or hand saws."
+},
+{
+"task_id": "7030",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Select or cut trees according to markings or sizes, types, or grades."
+},
+{
+"task_id": "7038",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Prune or shear tree tops or limbs to control growth, increase density, or improve shape."
+},
+{
+"task_id": "7045",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms."
+},
+{
+"task_id": "7037",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Erect signs or fences, using posthole diggers, shovels, or other hand tools."
+},
+{
+"task_id": "7039",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools."
+},
+{
+"task_id": "7040",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes."
+},
+{
+"task_id": "20632",
+"soc": "45-4011.00",
+"occupation": "Forest and Conservation Workers",
+"task_text": "Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions."
+},
+{
+"task_id": "13484",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls."
+},
+{
+"task_id": "13485",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage."
+},
+{
+"task_id": "13486",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Saw back-cuts, leaving sufficient sound wood to control direction of fall."
+},
+{
+"task_id": "13487",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers."
+},
+{
+"task_id": "13488",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Measure felled trees and cut them into specified log lengths, using chain saws and axes."
+},
+{
+"task_id": "13489",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Assess logs after cutting to ensure that the quality and length are correct."
+},
+{
+"task_id": "13490",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks."
+},
+{
+"task_id": "13491",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges."
+},
+{
+"task_id": "13492",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes."
+},
+{
+"task_id": "13493",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work."
+},
+{
+"task_id": "13494",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly."
+},
+{
+"task_id": "13495",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling."
+},
+{
+"task_id": "13496",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Tag unsafe trees with high-visibility ribbons."
+},
+{
+"task_id": "13497",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems."
+},
+{
+"task_id": "13498",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches."
+},
+{
+"task_id": "13499",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Mark logs for identification."
+},
+{
+"task_id": "13500",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Work as a member of a team, rotating between chain saw operation and skidder operation."
+},
+{
+"task_id": "13501",
+"soc": "45-4021.00",
+"occupation": "Fallers",
+"task_text": "Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling."
+},
+{
+"task_id": "9802",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Inspect equipment for safety prior to use, and perform necessary basic maintenance tasks."
+},
+{
+"task_id": "9807",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Control hydraulic tractors equipped with tree clamps and booms to lift, swing, and bunch sheared trees."
+},
+{
+"task_id": "9806",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Grade logs according to characteristics such as knot size and straightness, and according to established industry or company standards."
+},
+{
+"task_id": "9803",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Drive straight or articulated tractors equipped with accessories such as bulldozer blades, grapples, logging arches, cable winches, and crane booms to skid, load, unload, or stack logs, pull stumps, or clear brush."
+},
+{
+"task_id": "9804",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Drive crawler or wheeled tractors to drag or transport logs from felling sites to log landing areas for processing and loading."
+},
+{
+"task_id": "9809",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Fill out required job or shift report forms."
+},
+{
+"task_id": "9805",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Drive tractors for building or repairing logging and skid roads."
+},
+{
+"task_id": "9808",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths."
+},
+{
+"task_id": "9810",
+"soc": "45-4022.00",
+"occupation": "Logging Equipment Operators",
+"task_text": "Calculate total board feet, cordage, or other wood measurement units, using conversion tables."
+},
+{
+"task_id": "9811",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Evaluate log characteristics and determine grades, using established criteria."
+},
+{
+"task_id": "9812",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Record data about individual trees or load volumes into tally books or hand-held collection terminals."
+},
+{
+"task_id": "9814",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables."
+},
+{
+"task_id": "9813",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers."
+},
+{
+"task_id": "9817",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves."
+},
+{
+"task_id": "9816",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing."
+},
+{
+"task_id": "21015",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Arrange for hauling of logs to appropriate mill sites."
+},
+{
+"task_id": "9820",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Weigh log trucks before and after unloading, and record load weights and supplier identities."
+},
+{
+"task_id": "9815",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Measure log lengths and mark boles for bucking into logs, according to specifications."
+},
+{
+"task_id": "9819",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Communicate with coworkers by signals to direct log movement."
+},
+{
+"task_id": "9818",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Drive to sawmills, wharfs, or skids to inspect logs or pulpwood."
+},
+{
+"task_id": "9821",
+"soc": "45-4023.00",
+"occupation": "Log Graders and Scalers",
+"task_text": "Saw felled trees into lengths."
+}
+]

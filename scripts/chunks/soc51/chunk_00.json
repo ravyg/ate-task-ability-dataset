@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8450",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Enforce safety and sanitation regulations."
+},
+{
+"task_id": "20155",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Keep records of employees' attendance and hours worked."
+},
+{
+"task_id": "8455",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Inspect materials, products, or equipment to detect defects or malfunctions."
+},
+{
+"task_id": "8452",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Read and analyze charts, work orders, production schedules, and other records and reports to determine production requirements and to evaluate current production estimates and outputs."
+},
+{
+"task_id": "8454",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Plan and establish work schedules, assignments, and production sequences to meet production goals."
+},
+{
+"task_id": "8453",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Confer with other supervisors to coordinate operations and activities within or between departments."
+},
+{
+"task_id": "8459",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Interpret specifications, blueprints, job orders, and company policies and procedures for workers."
+},
+{
+"task_id": "8457",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Observe work and monitor gauges, dials, and other indicators to ensure that operators conform to production or processing standards."
+},
+{
+"task_id": "8451",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Direct and coordinate the activities of employees engaged in the production or processing of goods, such as inspectors, machine setters, or fabricators."
+},
+{
+"task_id": "20154",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Conduct employee training in equipment operations or work and safety procedures, or assign employee training to experienced workers."
+},
+{
+"task_id": "21207",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Evaluate employee performance."
+},
+{
+"task_id": "8458",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Confer with management or subordinates to resolve worker problems, complaints, or grievances."
+},
+{
+"task_id": "8462",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Determine standards, budgets, production goals, and rates, based on company policies, equipment and labor availability, and workloads."
+},
+{
+"task_id": "8466",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Calculate labor and equipment requirements and production specifications, using standard formulas."
+},
+{
+"task_id": "8461",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Recommend or implement measures to motivate employees and to improve production methods, equipment performance, product quality, or efficiency."
+},
+{
+"task_id": "8460",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Maintain operations data, such as time, production, and cost records, and prepare management reports of production results."
+},
+{
+"task_id": "8463",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Requisition materials, supplies, equipment parts, or repair services."
+},
+{
+"task_id": "8465",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Set up and adjust machines and equipment."
+},
+{
+"task_id": "20156",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Recommend or execute personnel actions, such as hirings, evaluations, or promotions."
+},
+{
+"task_id": "8467",
+"soc": "51-1011.00",
+"occupation": "First-Line Supervisors of Production and Operating Workers",
+"task_text": "Plan and develop new products and production processes."
+},
+{
+"task_id": "20810",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Assemble parts, fittings, or subassemblies on aircraft, using layout tools, hand tools, power tools, or fasteners, such as bolts, screws, rivets, or clamps."
+},
+{
+"task_id": "20811",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Read blueprints, illustrations, or specifications to determine layouts, sequences of operations, or identities or relationships of parts."
+},
+{
+"task_id": "13928",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Attach brackets, hinges, or clips to secure or support components or subassemblies, using bolts, screws, rivets, chemical bonding, or welding."
+},
+{
+"task_id": "13929",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Inspect or test installed units, parts, systems, or assemblies for fit, alignment, performance, defects, or compliance with standards, using measuring instruments or test equipment."
+},
+{
+"task_id": "20812",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Adjust, repair, rework, or replace parts or assemblies to ensure proper operation."
+},
+{
+"task_id": "20813",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Cut, trim, file, bend, or smooth parts to ensure proper fit and clearance."
+},
+{
+"task_id": "13934",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Fabricate parts needed for assembly or installation, using shop machinery or equipment."
+},
+{
+"task_id": "13926",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Layout and mark reference points and locations for installation of parts or components, using jigs, templates, or measuring and marking instruments."
+},
+{
+"task_id": "13931",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Clean, oil, or coat system components, as necessary, before assembly or attachment."
+},
+{
+"task_id": "13919",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Assemble prefabricated parts to form subassemblies."
+},
+{
+"task_id": "13932",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Set, align, adjust, or synchronize aircraft armament or rigging or control system components to established tolerances or requirements, using sighting devices and hand tools."
+},
+{
+"task_id": "13925",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Join structural assemblies, such as wings, tails, or fuselage."
+},
+{
+"task_id": "13921",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Position and align subassemblies in jigs or fixtures, using measuring instruments and following blueprint lines and index points."
+},
+{
+"task_id": "19901",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Assemble prototypes or integrated-technology demonstrators of new or emerging environmental technologies for aircraft."
+},
+{
+"task_id": "20814",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Manually install structural assemblies or signal crane operators to position assemblies for joining."
+},
+{
+"task_id": "13924",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Align, fit, assemble, connect, or install system components, using jigs, fixtures, measuring instruments, hand tools, or power tools."
+},
+{
+"task_id": "13935",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Set up or operate machines or systems to crimp, cut, bend, form, swage, flare, bead, burr, or straighten tubing, according to specifications."
+},
+{
+"task_id": "20815",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Place and connect control cables to electronically controlled units, using hand tools, ring locks, cotter keys, threaded connectors, turnbuckles, or related devices."
+},
+{
+"task_id": "20816",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Install mechanical linkages and actuators, using tensiometers to verify tension of cables."
+},
+{
+"task_id": "19903",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Clean aircraft structures, parts, or components, using aqueous, semi-aqueous, aliphatic hydrocarbon, or organic solvent cleaning products or techniques to reduce carbon or other harmful emissions."
+},
+{
+"task_id": "20817",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Install accessories in swaging machines, using hand tools."
+},
+{
+"task_id": "13939",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Mark identifying information on tubing or cable assemblies, using etching devices, labels, rubber stamps, or other methods."
+},
+{
+"task_id": "13938",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Verify dimensions of cable assemblies or positions of fittings, using measuring instruments."
+},
+{
+"task_id": "13936",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Weld tubing and fittings or solder cable ends, using tack welders, induction brazing chambers, or other equipment."
+},
+{
+"task_id": "13930",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Fit and fasten sheet metal coverings to surface areas or other sections of aircraft prior to welding or riveting."
+},
+{
+"task_id": "19902",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Capture or segregate waste material, such as aluminum swarf, machine cutting fluid, or solvents, for recycling or environmentally responsible disposal."
+},
+{
+"task_id": "13942",
+"soc": "51-2011.00",
+"occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+"task_text": "Cut cables and tubing, using master templates, measuring instruments, and cable cutters or saws."
+},
+{
+"task_id": "11904",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Operate or tend wire-coiling machines to wind wire coils used in electrical components such as resistors and transformers, and in electrical equipment and instruments such as bobbins and generators."
+},
+{
+"task_id": "11909",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Attach, alter, and trim materials such as wire, insulation, and coils, using hand tools."
+},
+{
+"task_id": "11906",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Cut, strip, and bend wire leads at ends of coils, using pliers and wire scrapers."
+},
+{
+"task_id": "11905",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Review work orders and specifications to determine materials needed and types of parts to be processed."
+},
+{
+"task_id": "11907",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Select and load materials such as workpieces, objects, and machine parts onto equipment used in coiling processes."
+},
+{
+"task_id": "11908",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Record production and operational data on specified forms."
+},
+{
+"task_id": "11910",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Stop machines to remove completed components, using hand tools."
+},
+{
+"task_id": "11911",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Examine and test wired electrical components such as motors, armatures, and stators, using measuring devices, and record test results."
+},
+{
+"task_id": "11914",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Line slots with sheet insulation, and insert coils into slots."
+},
+{
+"task_id": "11912",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Apply solutions or paints to wired electrical components, using hand tools, and bake components."
+},
+{
+"task_id": "11913",
+"soc": "51-2021.00",
+"occupation": "Coil Winders, Tapers, and Finishers",
+"task_text": "Disassemble and assemble motors, and repair and maintain electrical components and machinery parts, using hand tools."
+},
+{
+"task_id": "10022",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Read and interpret schematic drawings, diagrams, blueprints, specifications, work orders, or reports to determine materials requirements or assembly instructions."
+},
+{
+"task_id": "10019",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Assemble electrical or electronic systems or support structures and install components, units, subassemblies, wiring, or assembly casings, using rivets, bolts, soldering or micro-welding equipment."
+},
+{
+"task_id": "10020",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Adjust, repair, or replace electrical or electronic components to correct defects and to ensure conformance to specifications."
+},
+{
+"task_id": "10024",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Position, align, or adjust workpieces or electrical parts to facilitate wiring or assembly."
+},
+{
+"task_id": "10027",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Explain assembly procedures or techniques to other workers."
+},
+{
+"task_id": "10021",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Clean parts, using cleaning solutions, air hoses, and cloths."
+},
+{
+"task_id": "10030",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Drill or tap holes in specified equipment locations to mount control units or to provide openings for elements, wiring, or instruments."
+},
+{
+"task_id": "10029",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Fabricate or form parts, coils, or structures according to specifications, using drills, calipers, cutters, or saws."
+},
+{
+"task_id": "10026",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Confer with supervisors or engineers to plan or review work activities or to resolve production problems."
+},
+{
+"task_id": "10018",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Inspect or test wiring installations, assemblies, or circuits for resistance factors or for operation, and record results."
+},
+{
+"task_id": "10023",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Mark and tag components so that stock inventory can be tracked and identified."
+},
+{
+"task_id": "10028",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Measure and adjust voltages to specified values to determine operational accuracy of instruments."
+},
+{
+"task_id": "10031",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Complete, review, or maintain production, time, or component waste reports."
+},
+{
+"task_id": "10034",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Distribute materials, supplies, or subassemblies to work areas."
+},
+{
+"task_id": "10025",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Pack finished assemblies for shipment, and transport them to storage areas, using hoists or handtrucks."
+},
+{
+"task_id": "10033",
+"soc": "51-2022.00",
+"occupation": "Electrical and Electronic Equipment Assemblers",
+"task_text": "Instruct customers in the installation, repair, or maintenance of products."
+},
+{
+"task_id": "13944",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Inspect, test, and adjust completed units to ensure that units meet specifications, tolerances, and customer order requirements."
+},
+{
+"task_id": "13946",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Position, align, and adjust parts for proper fit and assembly."
+},
+{
+"task_id": "13945",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Assemble parts or units, and position, align, and fasten units to assemblies, subassemblies, or frames, using hand tools and power tools."
+},
+{
+"task_id": "13947",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Connect cables, tubes, and wiring, according to specifications."
+},
+{
+"task_id": "13951",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Measure parts to determine tolerances, using precision measuring instruments such as micrometers, calipers, and verniers."
+},
+{
+"task_id": "13949",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Read blueprints and specifications to determine component parts and assembly sequences of electromechanical units."
+},
+{
+"task_id": "13948",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Attach name plates and mark identifying information on parts."
+},
+{
+"task_id": "13950",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Disassemble units to replace parts or to crate them for shipping."
+},
+{
+"task_id": "13954",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "File, lap, and buff parts to fit, using hand and power tools."
+},
+{
+"task_id": "13952",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Clean and lubricate parts and subassemblies, using grease paddles or oilcans."
+},
+{
+"task_id": "13956",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Operate or tend automated assembling equipment, such as robotics and fixed automation equipment."
+},
+{
+"task_id": "13953",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Drill, tap, ream, countersink, and spot-face bolt holes in parts, using drill presses and portable power drills."
+},
+{
+"task_id": "13957",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Operate small cranes to transport or position large parts."
+},
+{
+"task_id": "13955",
+"soc": "51-2023.00",
+"occupation": "Electromechanical Equipment Assemblers",
+"task_text": "Pack or fold insulation between panels."
+},
+{
+"task_id": "13962",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations."
+},
+{
+"task_id": "13958",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications."
+},
+{
+"task_id": "13959",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Position or align components for assembly, manually or using hoists."
+},
+{
+"task_id": "13960",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Set and verify parts clearances."
+},
+{
+"task_id": "13965",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers."
+},
+{
+"task_id": "13966",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Fasten or install piping, fixtures, or wiring and electrical components to form assemblies or subassemblies, using hand tools, rivet guns, or welding equipment."
+},
+{
+"task_id": "13967",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Remove rough spots and smooth surfaces to fit, trim, or clean parts, using hand tools or power tools."
+},
+{
+"task_id": "13968",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Lay out and drill, ream, tap, or cut parts for assembly."
+},
+{
+"task_id": "13961",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Rework, repair, or replace damaged parts or assemblies."
+},
+{
+"task_id": "13964",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Assemble systems of gears by aligning and meshing gears in gearboxes."
+},
+{
+"task_id": "13969",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Set up and operate metalworking machines, such as milling or grinding machines, to shape or fabricate parts."
+},
+{
+"task_id": "13963",
+"soc": "51-2031.00",
+"occupation": "Engine and Other Machine Assemblers",
+"task_text": "Maintain and lubricate parts or components."
+},
+{
+"task_id": "10036",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Verify conformance of workpieces to specifications, using squares, rulers, and measuring tapes."
+},
+{
+"task_id": "10042",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Study engineering drawings and blueprints to determine materials requirements and task sequences."
+},
+{
+"task_id": "10035",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Position, align, fit, and weld parts to form complete units or subunits, following blueprints and layout specifications, and using jigs, welding torches, and hand tools."
+},
+{
+"task_id": "10038",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Lay out and examine metal stock or workpieces to be processed to ensure that specifications are met."
+},
+{
+"task_id": "10037",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Tack-weld fitted parts together."
+},
+{
+"task_id": "10043",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Move parts into position, manually or with hoists or cranes."
+},
+{
+"task_id": "10044",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Set up and operate fabricating machines, such as brakes, rolls, shears, flame cutters, grinders, and drill presses, to bend, cut, form, punch, drill, or otherwise form and assemble metal components."
+},
+{
+"task_id": "10041",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Position or tighten braces, jacks, clamps, ropes, or bolt straps, or bolt parts in position for welding or riveting."
+},
+{
+"task_id": "10053",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Lift or move materials and finished products, using large cranes."
+},
+{
+"task_id": "10050",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Set up face blocks, jigs, and fixtures."
+},
+{
+"task_id": "10039",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers."
+},
+{
+"task_id": "10045",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Hammer, chip, and grind workpieces to cut, bend, and straighten metal."
+},
+{
+"task_id": "10040",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Locate and mark workpiece bending and cutting lines, allowing for stock thickness, machine and welding shrinkage, and other component specifications."
+},
+{
+"task_id": "10051",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Remove high spots and cut bevels, using hand files, portable grinders, and cutting torches."
+},
+{
+"task_id": "10046",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Smooth workpiece edges and fix taps, tubes, and valves."
+},
+{
+"task_id": "10049",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Mark reference points onto floors or face blocks and transpose them to workpieces, using measuring devices, squares, chalk, and soapstone."
+},
+{
+"task_id": "10047",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Design and construct templates and fixtures, using hand tools."
+},
+{
+"task_id": "10052",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Direct welders to build up low spots or short pieces with weld."
+},
+{
+"task_id": "10054",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Heat-treat parts, using acetylene torches."
+},
+{
+"task_id": "10048",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Straighten warped or bent parts, using sledges, hand torches, straightening presses, or bulldozers."
+},
+{
+"task_id": "10057",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Erect ladders and scaffolding to fit together large assemblies."
+},
+{
+"task_id": "10055",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Preheat workpieces to make them malleable, using hand torches or furnaces."
+},
+{
+"task_id": "10056",
+"soc": "51-2041.00",
+"occupation": "Structural Metal Fabricators and Fitters",
+"task_text": "Install boilers, containers, and other structures."
+},
+{
+"task_id": "13970",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Release air bubbles and smooth seams, using rollers."
+},
+{
+"task_id": "13971",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Spray chopped fiberglass, resins, and catalysts onto prepared molds or dies using pneumatic spray guns with chopper attachments."
+},
+{
+"task_id": "13974",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Mix catalysts into resins, and saturate cloth and mats with mixtures, using brushes."
+},
+{
+"task_id": "13976",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Check completed products for conformance to specifications and for defects by measuring with rulers or micrometers, by checking them visually, or by tapping them to detect bubbles or dead spots."
+},
+{
+"task_id": "13973",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Pat or press layers of saturated mat or cloth into place on molds, using brushes or hands, and smooth out wrinkles and air bubbles with hands or squeegees."
+},
+{
+"task_id": "13972",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Select precut fiberglass mats, cloth, and wood-bracing materials as required by projects being assembled."
+},
+{
+"task_id": "13975",
+"soc": "51-2051.00",
+"occupation": "Fiberglass Laminators and Fabricators",
+"task_text": "Bond wood reinforcing strips to decks and cabin structures of watercraft, using resin-saturated fiberglass."
+}
+]

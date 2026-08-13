@@ -2,11 +2,11 @@
 
 ## `data/task_ability_mapping.csv` (main dataset)
 
-One row per (task, ability) requirement. 24,796 rows.
+One row per (task, ability) requirement. 95,331 rows.
 
 | Column | Type | Notes |
 |--------|------|-------|
-| `task_id` | int | O\*NET task identifier. 4,577 distinct values. |
+| `task_id` | int | O\*NET task identifier. 18,796 distinct values. |
 | `occupation` | string | O\*NET occupation title the task belongs to. |
 | `task_text` | string | Full O\*NET task statement. |
 | `ability_name` | string | One of the 52 O\*NET abilities (see `abilities_reference.csv`). |

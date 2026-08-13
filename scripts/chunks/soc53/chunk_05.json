@@ -1,0 +1,782 @@
+[
+{
+"task_id": "10729",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions."
+},
+{
+"task_id": "10730",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Examine aircraft access plates and doors for security."
+},
+{
+"task_id": "10736",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors."
+},
+{
+"task_id": "10738",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Investigate air accidents and complaints to determine causes."
+},
+{
+"task_id": "10742",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment."
+},
+{
+"task_id": "10740",
+"soc": "53-6051.01",
+"occupation": "Aviation Inspectors",
+"task_text": "Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls."
+},
+{
+"task_id": "14569",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction."
+},
+{
+"task_id": "14570",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations."
+},
+{
+"task_id": "14573",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly."
+},
+{
+"task_id": "19929",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions."
+},
+{
+"task_id": "19926",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices."
+},
+{
+"task_id": "14574",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Prepare reports on investigations or inspections and actions taken."
+},
+{
+"task_id": "14575",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Issue notices and recommend corrective actions when infractions or problems are found."
+},
+{
+"task_id": "19927",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles."
+},
+{
+"task_id": "14572",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Conduct vehicle or transportation equipment tests, using diagnostic equipment."
+},
+{
+"task_id": "14580",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Investigate incidents or violations, such as delays, accidents, and equipment failures."
+},
+{
+"task_id": "14579",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations."
+},
+{
+"task_id": "19924",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections."
+},
+{
+"task_id": "14576",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Investigate complaints regarding safety violations."
+},
+{
+"task_id": "14577",
+"soc": "53-6051.07",
+"occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+"task_text": "Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards."
+},
+{
+"task_id": "20841",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps."
+},
+{
+"task_id": "13172",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Provide boarding assistance to elderly, sick, or injured people."
+},
+{
+"task_id": "13174",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Respond to passengers' questions, requests, or complaints."
+},
+{
+"task_id": "13183",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Determine or facilitate seating arrangements."
+},
+{
+"task_id": "13182",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Provide customers with information on routes, gates, prices, timetables, terminals, or concourses."
+},
+{
+"task_id": "13176",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Perform equipment safety checks prior to departure."
+},
+{
+"task_id": "13179",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Greet passengers boarding transportation equipment and announce routes and stops."
+},
+{
+"task_id": "13178",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking."
+},
+{
+"task_id": "13175",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Explain and demonstrate safety procedures and safety equipment use."
+},
+{
+"task_id": "13173",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Open and close doors for passengers."
+},
+{
+"task_id": "13177",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Signal transportation operators to stop or to proceed."
+},
+{
+"task_id": "13184",
+"soc": "53-6061.00",
+"occupation": "Passenger Attendants",
+"task_text": "Adjust window shades or seat cushions at the request of passengers."
+},
+{
+"task_id": "10748",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Inform supervisors of equipment malfunctions that need to be addressed."
+},
+{
+"task_id": "10750",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions."
+},
+{
+"task_id": "10747",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime."
+},
+{
+"task_id": "10757",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers."
+},
+{
+"task_id": "10755",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors."
+},
+{
+"task_id": "10760",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Distribute materials, supplies, and equipment to work stations, using lifts and trucks."
+},
+{
+"task_id": "21030",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control."
+},
+{
+"task_id": "10756",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis."
+},
+{
+"task_id": "10744",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor."
+},
+{
+"task_id": "10753",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Repair or replace equipment components or parts such as blades, rolls, and pumps."
+},
+{
+"task_id": "10746",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows."
+},
+{
+"task_id": "10745",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads."
+},
+{
+"task_id": "10752",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets."
+},
+{
+"task_id": "10764",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Press console buttons to deflect packages to predetermined accumulators or reject lines."
+},
+{
+"task_id": "10749",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants."
+},
+{
+"task_id": "10759",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Affix identifying information to materials or products, using hand tools."
+},
+{
+"task_id": "10761",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps."
+},
+{
+"task_id": "10766",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions."
+},
+{
+"task_id": "10754",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times."
+},
+{
+"task_id": "10765",
+"soc": "53-7011.00",
+"occupation": "Conveyor Operators and Tenders",
+"task_text": "Join sections of conveyor frames at temporary working areas, and connect power units."
+},
+{
+"task_id": "10767",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Determine load weights and check them against lifting capacities to prevent overload."
+},
+{
+"task_id": "10768",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads."
+},
+{
+"task_id": "10771",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage."
+},
+{
+"task_id": "10769",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Inspect cables or grappling devices for wear and install or replace cables, as needed."
+},
+{
+"task_id": "10772",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Direct helpers engaged in placing blocking or outrigging under cranes."
+},
+{
+"task_id": "10770",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary."
+},
+{
+"task_id": "10773",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Load or unload bundles from trucks, or move containers to storage bins, using moving equipment."
+},
+{
+"task_id": "10775",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions."
+},
+{
+"task_id": "10777",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets."
+},
+{
+"task_id": "10776",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery."
+},
+{
+"task_id": "10774",
+"soc": "53-7021.00",
+"occupation": "Crane and Tower Operators",
+"task_text": "Weigh bundles, using floor scales, and record weights for company records."
+},
+{
+"task_id": "15177",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads."
+},
+{
+"task_id": "15178",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Start and stop engines to operate equipment."
+},
+{
+"task_id": "15179",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually."
+},
+{
+"task_id": "15180",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Pump water to clear machinery pipelines."
+},
+{
+"task_id": "15181",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations."
+},
+{
+"task_id": "15182",
+"soc": "53-7031.00",
+"occupation": "Dredge Operators",
+"task_text": "Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons."
+},
+{
+"task_id": "4979",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks."
+},
+{
+"task_id": "4980",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums."
+},
+{
+"task_id": "4981",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths."
+},
+{
+"task_id": "4982",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips."
+},
+{
+"task_id": "4983",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks."
+},
+{
+"task_id": "4984",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Select loads or materials according to weight and size specifications."
+},
+{
+"task_id": "4985",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Signal and assist other workers loading or unloading materials."
+},
+{
+"task_id": "4986",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools."
+},
+{
+"task_id": "4987",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Apply hand or foot brakes and move levers to lock hoists or winches."
+},
+{
+"task_id": "4988",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Oil winch drums so that cables will wind smoothly."
+},
+{
+"task_id": "4989",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Climb ladders to position and set up vehicle-mounted derricks."
+},
+{
+"task_id": "4990",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Repair, maintain, and adjust equipment, using hand tools."
+},
+{
+"task_id": "4991",
+"soc": "53-7041.00",
+"occupation": "Hoist and Winch Operators",
+"task_text": "Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing."
+},
+{
+"task_id": "3202",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material."
+},
+{
+"task_id": "3201",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas."
+},
+{
+"task_id": "15266",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles."
+},
+{
+"task_id": "3203",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas."
+},
+{
+"task_id": "15265",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery."
+},
+{
+"task_id": "3206",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Weigh materials or products and record weight or other production data on tags or labels."
+},
+{
+"task_id": "3205",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank."
+},
+{
+"task_id": "3207",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Operate or tend automatic stacking, loading, packaging, or cutting machines."
+},
+{
+"task_id": "3210",
+"soc": "53-7051.00",
+"occupation": "Industrial Truck and Tractor Operators",
+"task_text": "Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers."
+},
+{
+"task_id": "4997",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces."
+},
+{
+"task_id": "5006",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition."
+},
+{
+"task_id": "4996",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Clean and polish vehicle windows."
+},
+{
+"task_id": "4998",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Drive vehicles to or from workshops or customers' workplaces or homes."
+},
+{
+"task_id": "4993",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses."
+},
+{
+"task_id": "4992",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations."
+},
+{
+"task_id": "4994",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas."
+},
+{
+"task_id": "5005",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Maintain inventories of supplies."
+},
+{
+"task_id": "5000",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists."
+},
+{
+"task_id": "5007",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks."
+},
+{
+"task_id": "4999",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles."
+},
+{
+"task_id": "5008",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas."
+},
+{
+"task_id": "5002",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur."
+},
+{
+"task_id": "4995",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Press buttons to activate cleaning equipment or machines."
+},
+{
+"task_id": "5004",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Connect hoses or lines to pumps or other equipment."
+},
+{
+"task_id": "5011",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Clean the plastic work inside cars, using paintbrushes."
+},
+{
+"task_id": "5003",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools."
+},
+{
+"task_id": "5001",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools."
+},
+{
+"task_id": "5009",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Transport materials, equipment, or supplies to or from work areas, using carts or hoists."
+},
+{
+"task_id": "5012",
+"soc": "53-7061.00",
+"occupation": "Cleaners of Vehicles and Equipment",
+"task_text": "Fit boot spoilers, side skirts, or mud flaps to cars."
+},
+{
+"task_id": "10789",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Maintain equipment storage areas to ensure that inventory is protected."
+},
+{
+"task_id": "10779",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Read work orders or receive oral instructions to determine work assignments or material or equipment needs."
+},
+{
+"task_id": "10781",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment."
+},
+{
+"task_id": "10788",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported."
+},
+{
+"task_id": "10782",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Sort cargo before loading and unloading."
+},
+{
+"task_id": "10778",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Attach identifying tags to containers or mark them with identifying information."
+},
+{
+"task_id": "10780",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Record numbers of units handled or moved, using daily production sheets or work tickets."
+},
+{
+"task_id": "10790",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Attach slings, hooks, or other devices to lift cargo and guide loads."
+},
+{
+"task_id": "10787",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Carry needed tools or supplies from storage or trucks and return them after use."
+},
+{
+"task_id": "10786",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Pack containers and re-pack damaged containers."
+},
+{
+"task_id": "10783",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Assemble product containers or crates, using hand tools and precut lumber."
+},
+{
+"task_id": "10792",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras."
+},
+{
+"task_id": "10796",
+"soc": "53-7062.00",
+"occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+"task_text": "Connect electrical equipment to power sources so that it can be tested before use."
+},
+{
+"task_id": "17872",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling."
+},
+{
+"task_id": "17884",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins."
+},
+{
+"task_id": "17878",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities."
+},
+{
+"task_id": "17882",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling."
+},
+{
+"task_id": "17886",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders."
+},
+{
+"task_id": "17885",
+"soc": "53-7062.04",
+"occupation": "Recycling and Reclamation Workers",
+"task_text": "Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers."
+}
+]

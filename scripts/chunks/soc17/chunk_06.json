@@ -1,0 +1,782 @@
+[
+{
+"task_id": "16511",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Provide technical support for robotic systems."
+},
+{
+"task_id": "16522",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design end-of-arm tooling."
+},
+{
+"task_id": "16530",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems."
+},
+{
+"task_id": "16509",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Supervise technologists, technicians, or other engineers."
+},
+{
+"task_id": "16528",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design software to control robotic systems for applications, such as military defense or manufacturing."
+},
+{
+"task_id": "16523",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Conduct research on robotic technology to create new robotic systems or system capabilities."
+},
+{
+"task_id": "16519",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Investigate mechanical failures or unexpected maintenance problems."
+},
+{
+"task_id": "16510",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Integrate robotics with peripherals, such as welders, controllers, or other equipment."
+},
+{
+"task_id": "21058",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Evaluate robotic systems or prototypes."
+},
+{
+"task_id": "16520",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Install, calibrate, operate, or maintain robots."
+},
+{
+"task_id": "16525",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions."
+},
+{
+"task_id": "16514",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Document robotic application development, maintenance, or changes."
+},
+{
+"task_id": "16527",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials."
+},
+{
+"task_id": "16515",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Write algorithms or programming code for ad hoc robotic applications."
+},
+{
+"task_id": "16513",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Make system device lists or event timing charts."
+},
+{
+"task_id": "19667",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations."
+},
+{
+"task_id": "16518",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Plan mobile robot paths and teach path plans to robots."
+},
+{
+"task_id": "19668",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs."
+},
+{
+"task_id": "16524",
+"soc": "17-2199.08",
+"occupation": "Robotics Engineers",
+"task_text": "Automate assays on laboratory robotics."
+},
+{
+"task_id": "16540",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems."
+},
+{
+"task_id": "16532",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Supervise technologists or technicians engaged in nanotechnology research or production."
+},
+{
+"task_id": "16546",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispersion, hybrid systems, liquid systems, nanocomposites, nanofabrication, optoelectronics, or nanolithography."
+},
+{
+"task_id": "16533",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Synthesize, process, or characterize nanomaterials, using advanced tools or techniques."
+},
+{
+"task_id": "16537",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations."
+},
+{
+"task_id": "16542",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design or conduct tests of new nanotechnology products, processes, or systems."
+},
+{
+"task_id": "16545",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Create designs or prototypes for nanosystem applications, such as biomedical delivery systems or atomic force microscopes."
+},
+{
+"task_id": "16531",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Write proposals to secure external funding or to partner with other companies."
+},
+{
+"task_id": "16536",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Generate high-resolution images or measure force-distance curves, using techniques such as atomic force microscopy."
+},
+{
+"task_id": "16539",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Develop processes or identify equipment needed for pilot or commercial nanoscale scale production."
+},
+{
+"task_id": "16535",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Provide technical guidance or support to customers on topics such as nanosystem start-up, maintenance, or use."
+},
+{
+"task_id": "16541",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Engineer production processes for specific nanotechnology applications, such as electroplating, nanofabrication, or epoxy."
+},
+{
+"task_id": "19669",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells."
+},
+{
+"task_id": "16534",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Identify new applications for existing nanotechnologies."
+},
+{
+"task_id": "16544",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design or engineer nanomaterials, nanodevices, nano-enabled products, or nanosystems, using three-dimensional computer-aided design (CAD) software."
+},
+{
+"task_id": "19671",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency."
+},
+{
+"task_id": "16543",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Coordinate or supervise the work of suppliers or vendors in the designing, building, or testing of nanosystem devices, such as lenses or probes."
+},
+{
+"task_id": "19670",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production."
+},
+{
+"task_id": "19673",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites."
+},
+{
+"task_id": "16538",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Prepare nanotechnology-related invention disclosures or patent applications."
+},
+{
+"task_id": "19677",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Reengineer nanomaterials to improve biodegradability."
+},
+{
+"task_id": "19676",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Integrate nanotechnology with antimicrobial properties into products, such as household or medical appliances, to reduce the development of bacteria or other microbes."
+},
+{
+"task_id": "19674",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires."
+},
+{
+"task_id": "19672",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air."
+},
+{
+"task_id": "19675",
+"soc": "17-2199.09",
+"occupation": "Nanosystems Engineers",
+"task_text": "Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings."
+},
+{
+"task_id": "16559",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms."
+},
+{
+"task_id": "16549",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations."
+},
+{
+"task_id": "16560",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines."
+},
+{
+"task_id": "16553",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Provide engineering technical support to designers of prototype wind turbines."
+},
+{
+"task_id": "16550",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load."
+},
+{
+"task_id": "16558",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines."
+},
+{
+"task_id": "16557",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers."
+},
+{
+"task_id": "16552",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Test wind turbine components, using mechanical or electronic testing equipment."
+},
+{
+"task_id": "16548",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Oversee the work activities of wind farm consultants or subcontractors."
+},
+{
+"task_id": "16551",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Test wind turbine equipment to determine effects of stress or fatigue."
+},
+{
+"task_id": "16555",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements."
+},
+{
+"task_id": "16556",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications."
+},
+{
+"task_id": "16562",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications."
+},
+{
+"task_id": "16554",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Perform root cause analysis on wind turbine tower component failures."
+},
+{
+"task_id": "16561",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Design underground or overhead wind farm collector systems."
+},
+{
+"task_id": "16547",
+"soc": "17-2199.10",
+"occupation": "Wind Energy Engineers",
+"task_text": "Write reports to document wind farm collector system test results."
+},
+{
+"task_id": "16575",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems."
+},
+{
+"task_id": "16571",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Create plans for solar energy system development, monitoring, and evaluation activities."
+},
+{
+"task_id": "16574",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings."
+},
+{
+"task_id": "16568",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring."
+},
+{
+"task_id": "16572",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software."
+},
+{
+"task_id": "16569",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency."
+},
+{
+"task_id": "16564",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives."
+},
+{
+"task_id": "16570",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components."
+},
+{
+"task_id": "16566",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Develop standard operation procedures and quality or safety standards for solar installation work."
+},
+{
+"task_id": "16573",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Create checklists for review or inspection of completed solar installation projects."
+},
+{
+"task_id": "16565",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Perform thermal, stress, or cost reduction analyses for solar systems."
+},
+{
+"task_id": "16563",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Test or evaluate photovoltaic (PV) cells or modules."
+},
+{
+"task_id": "16567",
+"soc": "17-2199.11",
+"occupation": "Solar Energy Systems Engineers",
+"task_text": "Design or develop vacuum tube collector systems for solar applications."
+},
+{
+"task_id": "21917",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, triangles, and other drafting devices."
+},
+{
+"task_id": "21918",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes."
+},
+{
+"task_id": "21919",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Coordinate structural, electrical, and mechanical designs and determine a method of presentation to graphically represent building plans."
+},
+{
+"task_id": "21920",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs."
+},
+{
+"task_id": "21921",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Draw maps, diagrams, and profiles, using cross-sections and surveys, to represent elevations, topographical contours, subsurface formations, and structures."
+},
+{
+"task_id": "21922",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Lay out and plan interior room arrangements for commercial buildings, using computer-assisted drafting (CAD) equipment and software."
+},
+{
+"task_id": "21923",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Supervise and train other technologists, technicians, and drafters."
+},
+{
+"task_id": "21924",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Determine the order of work and method of presentation, such as orthographic or isometric drawing."
+},
+{
+"task_id": "21925",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Finish and duplicate drawings and documentation packages according to required mediums and specifications for reproduction, using blueprinting, photography, or other duplicating methods."
+},
+{
+"task_id": "21926",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Draw rough and detailed scale plans for foundations, buildings, and structures, based on preliminary concepts, sketches, engineering calculations, specification sheets, and other data."
+},
+{
+"task_id": "21927",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Correlate, interpret, and modify data obtained from topographical surveys, well logs, and geophysical prospecting reports."
+},
+{
+"task_id": "21928",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Check dimensions of materials to be used and assign numbers to lists of materials."
+},
+{
+"task_id": "21929",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Determine procedures and instructions to be followed, according to design specifications and quantity of required materials."
+},
+{
+"task_id": "21930",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Supervise or conduct field surveys, inspections, or technical investigations to obtain data required to revise construction drawings."
+},
+{
+"task_id": "21931",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Explain drawings to production or construction teams and provide adjustments as necessary."
+},
+{
+"task_id": "21932",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Obtain and assemble data to complete architectural designs, visiting job sites to compile measurements as necessary."
+},
+{
+"task_id": "21933",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Determine quality, cost, strength, and quantity of required materials, and enter figures on materials lists."
+},
+{
+"task_id": "21934",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Locate and identify symbols on topographical surveys to denote geological and geophysical formations or oil field installations."
+},
+{
+"task_id": "21935",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Create freehand drawings and lettering to accompany drawings."
+},
+{
+"task_id": "21936",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Calculate excavation tonnage and prepare graphs and fill-hauling diagrams for use in earth-moving operations."
+},
+{
+"task_id": "21937",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Prepare colored drawings of landscape and interior designs for presentation to client."
+},
+{
+"task_id": "21938",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Calculate weights, volumes, and stress factors and their implications for technical aspects of designs."
+},
+{
+"task_id": "21939",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Plot characteristics of boreholes for oil and gas wells from photographic subsurface survey recordings and other data, representing depth, degree, and direction of inclination."
+},
+{
+"task_id": "21940",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Reproduce drawings on copy machines or trace copies of plans and drawings, using transparent paper or cloth, ink, pencil, and standard drafting instruments."
+},
+{
+"task_id": "21941",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Calculate heat loss and gain of buildings and structures to determine required equipment specifications, following standard procedures."
+},
+{
+"task_id": "21942",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Prepare cost estimates, contracts, bidding documents, and technical reports for specific projects under an architect's or engineer's supervision."
+},
+{
+"task_id": "21943",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision."
+},
+{
+"task_id": "21944",
+"soc": "17-3011.00",
+"occupation": "Architectural and Civil Drafters",
+"task_text": "Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts."
+},
+{
+"task_id": "21951",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices."
+},
+{
+"task_id": "21945",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew."
+},
+{
+"task_id": "21946",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect."
+},
+{
+"task_id": "21948",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations."
+},
+{
+"task_id": "21947",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings."
+},
+{
+"task_id": "21950",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Confer with engineering staff and other personnel to resolve problems."
+},
+{
+"task_id": "21952",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable."
+},
+{
+"task_id": "21954",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Design electrical systems, such as lighting systems."
+},
+{
+"task_id": "21955",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions."
+},
+{
+"task_id": "21958",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design."
+},
+{
+"task_id": "21953",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Locate files relating to specified design project in database library, load program into computer, and record completed job data."
+},
+{
+"task_id": "21949",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances."
+},
+{
+"task_id": "21963",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element."
+},
+{
+"task_id": "21965",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths."
+},
+{
+"task_id": "21956",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Study work order requests to determine type of service, such as lighting or power, demanded by installation."
+},
+{
+"task_id": "21957",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Explain drawings to production or construction teams and provide adjustments, as necessary."
+},
+{
+"task_id": "21959",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Reproduce working drawings on copy machines or trace drawings in ink."
+},
+{
+"task_id": "21960",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film."
+},
+{
+"task_id": "21964",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Determine the order of work and the method of presentation, such as orthographic or isometric drawing."
+},
+{
+"task_id": "21966",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Visit proposed installation sites and draw rough sketches of location."
+},
+{
+"task_id": "21961",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Key and program specified commands and engineering specifications into computer system to change functions and test final layout."
+},
+{
+"task_id": "21970",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure."
+},
+{
+"task_id": "21967",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department."
+},
+{
+"task_id": "21968",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames."
+},
+{
+"task_id": "21969",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Write technical reports and draw charts that display statistics and data."
+},
+{
+"task_id": "21962",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards."
+},
+{
+"task_id": "21971",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams."
+},
+{
+"task_id": "21972",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Prepare and interpret specifications, calculating weights, volumes, or stress factors."
+},
+{
+"task_id": "21973",
+"soc": "17-3012.00",
+"occupation": "Electrical and Electronics Drafters",
+"task_text": "Supervise or train other technologists, technicians, or drafters."
+}
+]

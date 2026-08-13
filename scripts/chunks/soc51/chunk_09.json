@@ -1,0 +1,782 @@
+[
+{
+"task_id": "12239",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Mark identifying information such as colors or codes on patterns, parts, and templates to indicate assembly methods."
+},
+{
+"task_id": "12243",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Repair broken or damaged patterns."
+},
+{
+"task_id": "12244",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Maintain pattern records for reference."
+},
+{
+"task_id": "12241",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Glue fillets along interior angles of patterns."
+},
+{
+"task_id": "12237",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Construct wooden models, templates, full scale mock-ups, jigs, or molds for shaping parts of products."
+},
+{
+"task_id": "12238",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Compute dimensions, areas, volumes, and weights."
+},
+{
+"task_id": "12242",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Select lumber to be used for patterns."
+},
+{
+"task_id": "12249",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Collect and store patterns and lumber."
+},
+{
+"task_id": "12245",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Inventory equipment and supplies, ordering parts and tools as necessary."
+},
+{
+"task_id": "12248",
+"soc": "51-7032.00",
+"occupation": "Patternmakers, Wood",
+"task_text": "Issue patterns to designated machine operators."
+},
+{
+"task_id": "12251",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Inspect and measure workpieces to mark for cuts and to verify the accuracy of cuts, using rulers, squares, or caliper rules."
+},
+{
+"task_id": "12250",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Adjust saw blades, using wrenches and rulers, or by turning handwheels or pressing pedals, levers, or panel buttons."
+},
+{
+"task_id": "12256",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Mount and bolt sawing blades or attachments to machine shafts."
+},
+{
+"task_id": "12253",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Set up, operate, or tend saws or machines that cut or trim wood to specified dimensions, such as circular saws, band saws, multiple-blade sawing machines, scroll saws, ripsaws, or crozer machines."
+},
+{
+"task_id": "12254",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Inspect stock for imperfections or to estimate grades or qualities of stock or workpieces."
+},
+{
+"task_id": "12257",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Monitor sawing machines, adjusting speed and tension and clearing jams to ensure proper operation."
+},
+{
+"task_id": "12261",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Sharpen blades, or replace defective or worn blades or bands, using hand tools."
+},
+{
+"task_id": "12259",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Guide workpieces against saws, saw over workpieces by hand, or operate automatic feeding devices to guide cuts."
+},
+{
+"task_id": "12264",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Clear machine jams, using hand tools."
+},
+{
+"task_id": "12263",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Lubricate or clean machines, using wrenches, grease guns, or solvents."
+},
+{
+"task_id": "12260",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Adjust bolts, clamps, stops, guides, or table angles or heights, using hand tools."
+},
+{
+"task_id": "12252",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Examine logs or lumber to plan the best cuts."
+},
+{
+"task_id": "12269",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Trim lumber to straighten rough edges or remove defects, using circular saws."
+},
+{
+"task_id": "12262",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Count, sort, or stack finished workpieces."
+},
+{
+"task_id": "12270",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Position and clamp stock on tables, conveyors, or carriages, using hoists, guides, stops, dogs, wedges, or wrenches."
+},
+{
+"task_id": "12266",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Measure and mark stock for cuts."
+},
+{
+"task_id": "12255",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Operate panelboards of saw or conveyor systems to move stock through processes or to cut stock to specified dimensions."
+},
+{
+"task_id": "12267",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Examine blueprints, drawings, work orders, or patterns to determine equipment set-up or selection details, procedures to be used, or dimensions of final products."
+},
+{
+"task_id": "12258",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Select saw blades, types or grades of stock, or cutting procedures to be used, according to work orders or supervisors' instructions."
+},
+{
+"task_id": "12271",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Cut grooves, bevels, or miters, saw curved or irregular designs, and sever or shape metals, according to specifications or work orders."
+},
+{
+"task_id": "12272",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Unclamp and remove finished workpieces from tables."
+},
+{
+"task_id": "12265",
+"soc": "51-7041.00",
+"occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+"task_text": "Dispose of waste material after completing work assignments."
+},
+{
+"task_id": "12279",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Set up, program, operate, or tend computerized or manual woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, or wood-nailing machines."
+},
+{
+"task_id": "12281",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Examine finished workpieces for smoothness, shape, angle, depth-of-cut, or conformity to specifications and verify dimensions, visually and using hands, rules, calipers, templates, or gauges."
+},
+{
+"task_id": "12274",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Start machines, adjust controls, and make trial cuts to ensure that machinery is operating properly."
+},
+{
+"task_id": "12278",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Monitor operation of machines and make adjustments to correct problems and ensure conformance to specifications."
+},
+{
+"task_id": "12291",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Examine raw woodstock for defects and to ensure conformity to size and other specification standards."
+},
+{
+"task_id": "12277",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Adjust machine tables or cutting devices and set controls on machines to produce specified cuts or operations."
+},
+{
+"task_id": "12282",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Install and adjust blades, cutterheads, boring-bits, or sanding-belts, using hand tools and rules."
+},
+{
+"task_id": "12285",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Change alignment and adjustment of sanding, cutting, or boring machine guides to prevent defects in finished products, using hand tools."
+},
+{
+"task_id": "12275",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Determine product specifications and materials, work methods, and machine setup requirements, according to blueprints, oral or written instructions, drawings, or work orders."
+},
+{
+"task_id": "12276",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Feed stock through feed mechanisms or conveyors into planing, shaping, boring, mortising, or sanding machines to produce desired components."
+},
+{
+"task_id": "12284",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Push or hold workpieces against, under, or through cutting, boring, or shaping mechanisms."
+},
+{
+"task_id": "12280",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Select knives, saws, blades, cutter heads, cams, bits, or belts, according to workpiece, machine functions, or product specifications."
+},
+{
+"task_id": "12287",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Remove and replace worn parts, bits, belts, sandpaper, or shaping tools."
+},
+{
+"task_id": "12288",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Secure woodstock against a guide or in a holding device, place woodstock on a conveyor, or dump woodstock in a hopper to feed woodstock into machines."
+},
+{
+"task_id": "12283",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Inspect and mark completed workpieces and stack them on pallets, in boxes, or on conveyors so that they can be moved to the next workstation."
+},
+{
+"task_id": "12286",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Inspect pulleys, drive belts, guards, or fences on machines to ensure that machines will operate safely."
+},
+{
+"task_id": "12289",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Clean or maintain products, machines, or work areas."
+},
+{
+"task_id": "12290",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Attach and adjust guides, stops, clamps, chucks, or feed mechanisms, using hand tools."
+},
+{
+"task_id": "12295",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Trim wood parts according to specifications, using planes, chisels, or wood files or sanders."
+},
+{
+"task_id": "20823",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Grease or oil woodworking machines."
+},
+{
+"task_id": "12296",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Unclamp workpieces and remove them from machines."
+},
+{
+"task_id": "12297",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Start machines and move levers to engage hydraulic lifts that press woodstocks into desired forms and disengage lifts after appropriate drying times."
+},
+{
+"task_id": "12293",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Operate gluing machines to glue pieces of wood together, or to press and affix wood veneer to wood surfaces."
+},
+{
+"task_id": "12292",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Set up, program, or control computer-aided design (CAD) or computer numerical control (CNC) machines."
+},
+{
+"task_id": "12298",
+"soc": "51-7042.00",
+"occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+"task_text": "Control hoists to remove parts or products from work stations."
+},
+{
+"task_id": "19911",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Operate nuclear power reactors in accordance with policies and procedures to protect workers from radiation and to ensure environmental safety."
+},
+{
+"task_id": "8506",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Adjust controls to position rod and to regulate flux level, reactor period, coolant temperature, or rate of power flow, following standard procedures."
+},
+{
+"task_id": "20680",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Develop or implement actions such as lockouts, tagouts, or clearances to allow equipment to be safely repaired."
+},
+{
+"task_id": "8507",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Respond to system or unit abnormalities, diagnosing the cause, and recommending or taking corrective action."
+},
+{
+"task_id": "8508",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Monitor all systems for normal running conditions, performing activities such as checking gauges to assess output or the effects of generator loading on other equipment."
+},
+{
+"task_id": "8511",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Monitor or operate boilers, turbines, wells, or auxiliary power plant equipment."
+},
+{
+"task_id": "8513",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Record operating data, such as the results of surveillance tests."
+},
+{
+"task_id": "8509",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Implement operational procedures, such as those controlling start-up or shut-down activities."
+},
+{
+"task_id": "8510",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Note malfunctions of equipment, instruments, or controls and report these conditions to supervisors."
+},
+{
+"task_id": "8514",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Participate in nuclear fuel element handling activities, such as preparation, transfer, loading, or unloading."
+},
+{
+"task_id": "8512",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Dispatch orders or instructions to personnel through radiotelephone or intercommunication systems to coordinate auxiliary equipment operation."
+},
+{
+"task_id": "20681",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Review and edit standard operating procedures."
+},
+{
+"task_id": "8515",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Conduct inspections or operations outside of control rooms as necessary."
+},
+{
+"task_id": "8516",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Direct reactor operators in emergency situations, in accordance with emergency operating procedures."
+},
+{
+"task_id": "8517",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Authorize maintenance activities on units or changes in equipment or system operational status."
+},
+{
+"task_id": "19912",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Supervise technicians' work activities to ensure that equipment is operated in accordance with policies and procedures that protect workers from radiation and ensure environmental safety."
+},
+{
+"task_id": "19907",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Authorize actions to correct identified operational inefficiencies or hazards so that operating efficiency is maximized and potential environmental issues are minimized."
+},
+{
+"task_id": "19909",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Direct the collection and testing of air, water, gas, or solid samples to determine radioactivity levels or to ensure appropriate radioactive containment."
+},
+{
+"task_id": "19908",
+"soc": "51-8011.00",
+"occupation": "Nuclear Power Reactor Operators",
+"task_text": "Direct measurement of the intensity or types of radiation in work areas, equipment, or materials."
+},
+{
+"task_id": "12302",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Coordinate with engineers, planners, field personnel, or other utility workers to provide information such as clearances, switching orders, or distribution process changes."
+},
+{
+"task_id": "12299",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Respond to emergencies, such as transformer or transmission line failures, and route current around affected areas."
+},
+{
+"task_id": "12301",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Control, monitor, or operate equipment that regulates or distributes electricity or steam, using data obtained from instruments or computers."
+},
+{
+"task_id": "12303",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Direct personnel engaged in controlling or operating distribution equipment or machinery, such as instructing control room operators to start boilers or generators."
+},
+{
+"task_id": "12304",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Distribute or regulate the flow of power between entities, such as generating stations, substations, distribution lines, or users, keeping track of the status of circuits or connections."
+},
+{
+"task_id": "12307",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Manipulate controls to adjust or activate power distribution equipment or machines."
+},
+{
+"task_id": "12300",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Prepare switching orders that will isolate work areas without causing power outages, referring to drawings of power systems."
+},
+{
+"task_id": "12305",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Monitor and record switchboard or control board readings to ensure that electrical or steam distribution equipment is operating properly."
+},
+{
+"task_id": "12312",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Implement energy schedules, including real-time transmission reservations or schedules."
+},
+{
+"task_id": "12308",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Calculate load estimates or equipment requirements to determine required control settings."
+},
+{
+"task_id": "12306",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Track conditions that could affect power needs, such as changes in the weather, and adjust equipment to meet any anticipated changes."
+},
+{
+"task_id": "12309",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Record and compile operational data, such as chart or meter readings, power demands, or usage and operating times, using transmission system maps."
+},
+{
+"task_id": "12310",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Inspect equipment to ensure that specifications are met or to detect any defects."
+},
+{
+"task_id": "12311",
+"soc": "51-8012.00",
+"occupation": "Power Distributors and Dispatchers",
+"task_text": "Tend auxiliary equipment used in the power distribution process."
+},
+{
+"task_id": "12328",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Control generator output to match the phase, frequency, or voltage of electricity supplied to panels."
+},
+{
+"task_id": "12318",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Take regulatory action, based on readings from charts, meters and gauges, at established intervals."
+},
+{
+"task_id": "12316",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Control power generating equipment, including boilers, turbines, generators, or reactors, using control boards or semi-automatic equipment."
+},
+{
+"task_id": "12319",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Start or stop generators, auxiliary pumping equipment, turbines, or other power plant equipment as necessary."
+},
+{
+"task_id": "12314",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Monitor power plant equipment and indicators to detect evidence of operating problems."
+},
+{
+"task_id": "19914",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Operate or maintain distributed power generation equipment, including fuel cells or microturbines, to produce energy on-site for manufacturing or other commercial purposes."
+},
+{
+"task_id": "12325",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Open and close valves and switches in sequence to start or shut down auxiliary units."
+},
+{
+"task_id": "12321",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Control or maintain auxiliary equipment, such as pumps, fans, compressors, condensers, feedwater heaters, filters, or chlorinators, to supply water, fuel, lubricants, air, or auxiliary power."
+},
+{
+"task_id": "12317",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Regulate equipment operations and conditions, such as water levels, based on instrument data or from computers."
+},
+{
+"task_id": "12320",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Inspect records or log book entries or communicate with plant personnel to assess equipment operating status."
+},
+{
+"task_id": "12322",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Clean, lubricate, or maintain equipment, such as generators, turbines, pumps, or compressors, to prevent failure or deterioration."
+},
+{
+"task_id": "12324",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Record and compile operational data by completing and maintaining forms, logs, or reports."
+},
+{
+"task_id": "12327",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Make adjustments or minor repairs, such as tightening leaking gland or pipe joints."
+},
+{
+"task_id": "12315",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Adjust controls to generate specified electrical power or to regulate the flow of power between generating stations and substations."
+},
+{
+"task_id": "19915",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Operate, control, or monitor equipment, such as acid or gas carbon dioxide removal units, carbon dioxide compressors, or pipelines, to capture, store, or transport carbon dioxide exhaust."
+},
+{
+"task_id": "19916",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Operate, control, or monitor gasifiers or related equipment, such as coolers, water quenches, water gas shifts reactors, or sulfur recovery units, to produce syngas or electricity from coal."
+},
+{
+"task_id": "12323",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Communicate with systems operators to regulate and coordinate line voltages and transmission loads and frequencies."
+},
+{
+"task_id": "19917",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Operate, control, or monitor integrated gasification combined cycle (IGCC) or related equipment, such as air separation units, to generate electricity from coal."
+},
+{
+"task_id": "12330",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Receive outage calls and request necessary personnel during power outages or emergencies."
+},
+{
+"task_id": "12326",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Collect oil, water, or electrolyte samples for laboratory analysis."
+},
+{
+"task_id": "12331",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Examine and test electrical power distribution machinery and equipment, using testing devices."
+},
+{
+"task_id": "12329",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Place standby emergency electrical generators on line in emergencies and monitor the temperature, output, and lubrication of the system."
+},
+{
+"task_id": "23612",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Analyze the layout, instrumentation, or function of electrical generation or transmission facilities."
+},
+{
+"task_id": "23613",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Diagnose or troubleshoot problems with gas collection systems."
+},
+{
+"task_id": "23614",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Monitor well fields periodically to ensure proper functioning and performance."
+},
+{
+"task_id": "23615",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Operate landfill gas, methane, or natural gas fueled electrical generation systems."
+},
+{
+"task_id": "23616",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Prepare and submit compliance, operational, and safety forms or reports."
+},
+{
+"task_id": "23617",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Repair or replace gas piping."
+},
+{
+"task_id": "23618",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Trace electrical circuitry to ensure compliance of electrical systems with applicable codes or laws."
+},
+{
+"task_id": "23619",
+"soc": "51-8013.00",
+"occupation": "Power Plant Operators",
+"task_text": "Verify that well field monitoring data conforms to applicable regulations."
+},
+{
+"task_id": "17861",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate biomass fuel-burning boiler or biomass fuel gasification system equipment in accordance with specifications or instructions."
+},
+{
+"task_id": "21208",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Perform tests of water chemistry in boilers."
+},
+{
+"task_id": "17864",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate high-pressure steam boiler or water chiller equipment for electrical cogeneration operations."
+},
+{
+"task_id": "17862",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate equipment to heat biomass, using knowledge of controls, combustion, and firing mechanisms."
+},
+{
+"task_id": "17863",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate equipment to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems."
+},
+{
+"task_id": "17860",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Inspect biomass power plant or processing equipment, recording or reporting damage and mechanical problems."
+},
+{
+"task_id": "17866",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Record or report operational data, such as readings on meters, instruments, and gauges."
+},
+{
+"task_id": "17855",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Operate valves, pumps, engines, or generators to control and adjust production of biofuels or biomass-fueled power."
+},
+{
+"task_id": "17858",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Calculate, measure, load, or mix biomass feedstock for power generation."
+},
+{
+"task_id": "17867",
+"soc": "51-8013.03",
+"occupation": "Biomass Plant Technicians",
+"task_text": "Clean work areas to ensure compliance with safety regulations."
+}
+]

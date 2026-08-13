@@ -1,0 +1,584 @@
+[
+{
+"task_id": "2347",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Help children with homework and school work."
+},
+{
+"task_id": "18763",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Provide care for children with physical, developmental, or mental health disabilities."
+},
+{
+"task_id": "18764",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Perform general personnel functions, such as supervision, training, and scheduling."
+},
+{
+"task_id": "2349",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Accompany children to and from school, on outings, and to medical appointments."
+},
+{
+"task_id": "2355",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact with unsafe objects."
+},
+{
+"task_id": "2368",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Remove hazards and develop appropriate boundaries and rules to create a safe environment for children."
+},
+{
+"task_id": "2351",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Perform first aid or cardiopulmonary resuscitation (CPR) when required."
+},
+{
+"task_id": "2365",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior."
+},
+{
+"task_id": "2352",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Regulate children's rest periods and nap schedules."
+},
+{
+"task_id": "2367",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts, to encourage intellectual development of children."
+},
+{
+"task_id": "2354",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Help prepare and serve nutritionally balanced meals and snacks for children."
+},
+{
+"task_id": "2358",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills."
+},
+{
+"task_id": "2356",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates."
+},
+{
+"task_id": "2362",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility."
+},
+{
+"task_id": "2357",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health."
+},
+{
+"task_id": "2359",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Work with parents to develop and implement discipline programs to promote desirable child behavior."
+},
+{
+"task_id": "2364",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Perform housekeeping and cleaning duties related to children's care."
+},
+{
+"task_id": "2353",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Meet regularly with parents to discuss children's activities and development."
+},
+{
+"task_id": "2361",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Supervise and assist with homework."
+},
+{
+"task_id": "2363",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Transport children to schools, social outings, and medical appointments."
+},
+{
+"task_id": "2366",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Keep records of play, meal schedules, and bill payment."
+},
+{
+"task_id": "2360",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Help develop or monitor family schedule."
+},
+{
+"task_id": "21071",
+"soc": "39-9011.01",
+"occupation": "Nannies",
+"task_text": "Shop for groceries, clothing, and other items needed for children's care."
+},
+{
+"task_id": "4559",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Observe participants and inform them of corrective measures necessary for skill improvement."
+},
+{
+"task_id": "4557",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Offer alternatives during classes to accommodate different levels of fitness."
+},
+{
+"task_id": "4565",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Monitor participants' progress and adapt programs as needed."
+},
+{
+"task_id": "4558",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations."
+},
+{
+"task_id": "4566",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements."
+},
+{
+"task_id": "4561",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Instruct participants in maintaining exertion levels to maximize benefits from exercise routines."
+},
+{
+"task_id": "4562",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights."
+},
+{
+"task_id": "4556",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment."
+},
+{
+"task_id": "4560",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Teach proper breathing techniques used during physical exertion."
+},
+{
+"task_id": "4563",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Maintain fitness equipment."
+},
+{
+"task_id": "4568",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Provide students with information and resources regarding nutrition, weight control, and lifestyle issues."
+},
+{
+"task_id": "4569",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Administer emergency first aid, wrap injuries, treat minor chronic disabilities, or refer injured persons to physicians."
+},
+{
+"task_id": "4575",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Maintain equipment inventories, and select, store, or issue equipment as needed."
+},
+{
+"task_id": "4570",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Advise clients about proper clothing and shoes."
+},
+{
+"task_id": "4564",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Conduct therapeutic, recreational, or athletic activities."
+},
+{
+"task_id": "4567",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Plan physical education programs to promote development of participants' physical attributes and social skills."
+},
+{
+"task_id": "4572",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Teach individual and team sports to participants through instruction and demonstration, using knowledge of sports techniques and of participants' physical capabilities."
+},
+{
+"task_id": "4573",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Promote health clubs through membership sales, and record member information."
+},
+{
+"task_id": "4576",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Organize and conduct competitions and tournaments."
+},
+{
+"task_id": "4577",
+"soc": "39-9031.00",
+"occupation": "Exercise Trainers and Group Fitness Instructors",
+"task_text": "Advise participants in use of heat or ultraviolet treatments and hot baths."
+},
+{
+"task_id": "2380",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety."
+},
+{
+"task_id": "2381",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Organize, lead, and promote interest in recreational activities, such as arts, crafts, sports, games, camping, and hobbies."
+},
+{
+"task_id": "21010",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Assess the needs and interests of individuals and groups and plan activities accordingly, given the available equipment or facilities."
+},
+{
+"task_id": "2382",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Manage the daily operations of recreational facilities."
+},
+{
+"task_id": "2383",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Administer first aid according to prescribed procedures and notify emergency medical personnel when necessary."
+},
+{
+"task_id": "2388",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Complete and maintain time and attendance forms and inventory lists."
+},
+{
+"task_id": "2386",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Explain principles, techniques, and safety procedures to participants in recreational activities and demonstrate use of materials and equipment."
+},
+{
+"task_id": "2393",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Direct special activities or events, such as aquatics, gymnastics, or performing arts."
+},
+{
+"task_id": "2390",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Supervise and coordinate the work activities of personnel, such as training staff members and assigning work duties."
+},
+{
+"task_id": "2387",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Evaluate recreation areas, facilities, and services to determine if they are producing desired results."
+},
+{
+"task_id": "21011",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Document individuals' progress toward meeting their treatment goals."
+},
+{
+"task_id": "2385",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Greet new arrivals to activities, introducing them to other participants, explaining facility rules, and encouraging participation."
+},
+{
+"task_id": "2389",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Confer with management to discuss and resolve participant complaints."
+},
+{
+"task_id": "2394",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Meet with staff to discuss rules, regulations, and work-related problems."
+},
+{
+"task_id": "2399",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Oversee the purchase, planning, design, construction, and upkeep of recreation facilities and areas."
+},
+{
+"task_id": "2396",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Encourage participants to develop their own activities and leadership skills through group discussions."
+},
+{
+"task_id": "2391",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Meet and collaborate with agency personnel, community organizations, and other professional personnel to plan balanced recreational programs for participants."
+},
+{
+"task_id": "2395",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Provide for entertainment and set up related decorations and equipment."
+},
+{
+"task_id": "2397",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Serve as liaison between park or recreation administrators and activity instructors."
+},
+{
+"task_id": "2392",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Schedule maintenance and use of facilities."
+},
+{
+"task_id": "18557",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Conduct individual in-room visits with residents."
+},
+{
+"task_id": "21012",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Develop treatment goals for individuals based on their assessments."
+},
+{
+"task_id": "2398",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Evaluate staff performance, recording evaluations on appropriate forms."
+},
+{
+"task_id": "18558",
+"soc": "39-9032.00",
+"occupation": "Recreation Workers",
+"task_text": "Take residents on community outings."
+},
+{
+"task_id": "6974",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Communicate with other staff to resolve problems with individual students."
+},
+{
+"task_id": "6977",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Observe students to detect and report unusual behavior."
+},
+{
+"task_id": "20138",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Supervise, train, and evaluate residence hall staff, including resident assistants, participants in work-study programs, and other student workers."
+},
+{
+"task_id": "6971",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Provide emergency first aid and summon medical assistance when necessary."
+},
+{
+"task_id": "6976",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Make regular rounds to ensure that residents and areas are safe and secure."
+},
+{
+"task_id": "6972",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Mediate interpersonal problems between residents."
+},
+{
+"task_id": "6970",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Enforce rules and regulations to ensure the smooth and orderly operation of dormitory programs."
+},
+{
+"task_id": "6978",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Determine the need for facility maintenance and repair, and notify appropriate personnel."
+},
+{
+"task_id": "6979",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Collaborate with counselors to develop counseling programs that address the needs of individual students."
+},
+{
+"task_id": "20137",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Develop and coordinate educational programs for residents."
+},
+{
+"task_id": "6980",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Develop program plans for individuals or assist in plan development."
+},
+{
+"task_id": "6984",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Provide requested information on students' progress and the development of case plans."
+},
+{
+"task_id": "6985",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Confer with medical personnel to better understand the backgrounds and needs of individual residents."
+},
+{
+"task_id": "6973",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Administer, coordinate, or recommend disciplinary and corrective actions."
+},
+{
+"task_id": "6986",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Answer telephones, and route calls or deliver messages."
+},
+{
+"task_id": "6975",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Counsel students in the handling of issues such as family, financial, and educational problems."
+},
+{
+"task_id": "6981",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Hold regular meetings with each assigned unit."
+},
+{
+"task_id": "6994",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Compile information such as residents' daily activities and the quantities of supplies used to prepare required reports."
+},
+{
+"task_id": "6993",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Chaperone group-sponsored trips and social functions."
+},
+{
+"task_id": "6991",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Order supplies for facilities."
+},
+{
+"task_id": "20139",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Oversee departmental budget."
+},
+{
+"task_id": "6992",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Supervise students' housekeeping work to ensure that it is done properly."
+},
+{
+"task_id": "6988",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Process contract cancellations for students who are unable to follow residence hall policies and procedures."
+},
+{
+"task_id": "6995",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Accompany and supervise students during meals."
+},
+{
+"task_id": "6990",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Supervise the activities of housekeeping personnel."
+},
+{
+"task_id": "6983",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Assign rooms to students."
+},
+{
+"task_id": "6996",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Provide transportation or escort for expeditions, such as shopping trips or visits to doctors or dentists."
+},
+{
+"task_id": "6982",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Direct and participate in on- and off-campus recreational activities for residents of institutions, boarding schools, fraternities or sororities, children's homes, or similar establishments."
+},
+{
+"task_id": "6989",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Sort and distribute mail."
+},
+{
+"task_id": "6997",
+"soc": "39-9041.00",
+"occupation": "Residential Advisors",
+"task_text": "Inventory, pack, and remove items left behind by former residents."
+}
+]

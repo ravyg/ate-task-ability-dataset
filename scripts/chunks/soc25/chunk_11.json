@@ -1,0 +1,782 @@
+[
+{
+"task_id": "3809",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Clean objects, such as paper, textiles, wood, metal, glass, rock, pottery, and furniture, using cleansers, solvents, soap solutions, and polishes."
+},
+{
+"task_id": "18644",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Photograph objects for documentation."
+},
+{
+"task_id": "3808",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Determine whether objects need repair and choose the safest and most effective method of repair."
+},
+{
+"task_id": "3810",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Prepare artifacts for storage and shipping."
+},
+{
+"task_id": "21065",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Enter information about museum collections into computer databases."
+},
+{
+"task_id": "3814",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Recommend preservation procedures, such as control of temperature and humidity, to curatorial and building staff."
+},
+{
+"task_id": "3824",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Notify superior when restoration of artifacts requires outside experts."
+},
+{
+"task_id": "3811",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Supervise and work with volunteers."
+},
+{
+"task_id": "3817",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Perform on-site field work which may involve interviewing people, inspecting and identifying artifacts, note-taking, viewing sites and collections, and repainting exhibition spaces."
+},
+{
+"task_id": "18645",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Lead tours and teach educational courses to students and the general public."
+},
+{
+"task_id": "3815",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Classify and assign registration numbers to artifacts and supervise inventory control."
+},
+{
+"task_id": "3820",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Study object documentation or conduct standard chemical and physical tests to ascertain the object's age, composition, original appearance, need for treatment or restoration, and appropriate preservation method."
+},
+{
+"task_id": "3819",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Prepare reports on the operation of conservation laboratories, documenting the condition of artifacts, treatment options, and the methods of preservation and repair used."
+},
+{
+"task_id": "3813",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Specialize in particular materials or types of object, such as documents and books, paintings, decorative arts, textiles, metals, or architectural materials."
+},
+{
+"task_id": "3822",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Perform tests and examinations to establish storage and conservation requirements, policies, and procedures."
+},
+{
+"task_id": "18643",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Direct and supervise curatorial, technical, and student staff in the handling, mounting, care, and storage of art objects."
+},
+{
+"task_id": "3807",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Coordinate exhibit installations, assisting with design, constructing displays, dioramas, display cases, and models, and ensuring the availability of necessary materials."
+},
+{
+"task_id": "3826",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Preserve or direct preservation of objects, using plaster, resin, sealants, hardeners, and shellac."
+},
+{
+"task_id": "3823",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Plan and conduct research to develop and improve methods of restoring and preserving specimens."
+},
+{
+"task_id": "18646",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Deliver artwork on courier trips."
+},
+{
+"task_id": "3827",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Build, repair, and install wooden steps, scaffolds, and walkways to gain access to or permit improved view of exhibited equipment."
+},
+{
+"task_id": "3825",
+"soc": "25-4013.00",
+"occupation": "Museum Technicians and Conservators",
+"task_text": "Estimate cost of restoration work."
+},
+{
+"task_id": "22407",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Check books in and out of the library."
+},
+{
+"task_id": "22408",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Teach library patrons basic computer skills, such as searching computerized databases."
+},
+{
+"task_id": "22409",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Review and evaluate materials, using book reviews, catalogs, faculty recommendations, and current holdings to select and order print, audio-visual, and electronic resources."
+},
+{
+"task_id": "22411",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Search standard reference materials, including online sources and the Internet, to answer patrons' reference questions."
+},
+{
+"task_id": "22410",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Keep up-to-date records of circulation and materials, maintain inventory, and correct cataloging errors."
+},
+{
+"task_id": "22412",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Analyze patrons' requests to determine needed information and assist in furnishing or locating that information."
+},
+{
+"task_id": "22413",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Supervise daily library operations, budgeting, planning, and personnel activities, such as hiring, training, scheduling, and performance evaluations."
+},
+{
+"task_id": "22414",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Plan and teach classes on topics such as information literacy, library instruction, and technology use."
+},
+{
+"task_id": "22415",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Confer with colleagues, faculty, and community members and organizations to conduct informational programs, make collection decisions, and determine library services to offer."
+},
+{
+"task_id": "22416",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Code, classify, and catalog books, publications, films, audio-visual aids, and other library materials, based on subject matter or standard library classification systems."
+},
+{
+"task_id": "22417",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Respond to customer complaints, taking action as necessary."
+},
+{
+"task_id": "22419",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Plan and deliver client-centered programs and services, such as special services for corporate clients, storytelling for children, newsletters, or programs for special groups."
+},
+{
+"task_id": "22418",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Explain use of library facilities, resources, equipment, and services, and provide information about library policies."
+},
+{
+"task_id": "22420",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Locate unusual or unique information in response to specific requests."
+},
+{
+"task_id": "22421",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Troubleshoot problems with audio-visual equipment."
+},
+{
+"task_id": "22422",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Develop library policies and procedures."
+},
+{
+"task_id": "22424",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Evaluate materials to determine outdated or unused items to be discarded."
+},
+{
+"task_id": "22423",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Direct and train library staff in duties, such as receiving, shelving, researching, cataloging, and equipment use."
+},
+{
+"task_id": "22425",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Develop, maintain, and troubleshoot information access aids, such as databases, annotated bibliographies, Web pages, electronic pathfinders, software programs, and online tutorials."
+},
+{
+"task_id": "22426",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Engage in professional development activities, such as taking continuing education classes and attending or participating in conferences, workshops, professional meetings, and associations."
+},
+{
+"task_id": "22427",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Compile lists of books, periodicals, articles, and audio-visual materials on particular subjects."
+},
+{
+"task_id": "22428",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Confer with teachers to select course materials and to determine which training aids are best suited to particular grade levels."
+},
+{
+"task_id": "22429",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Evaluate vendor products and performance, negotiate contracts, and place orders."
+},
+{
+"task_id": "22430",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Arrange for interlibrary loans of materials not available in a particular library."
+},
+{
+"task_id": "22431",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Represent library or institution on internal and external committees."
+},
+{
+"task_id": "22432",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Set up, adjust, and operate audio-visual equipment, such as cameras, film and slide projectors, and recording equipment, for meetings, events, classes, seminars, and video conferences."
+},
+{
+"task_id": "22433",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Assemble and arrange display materials."
+},
+{
+"task_id": "22434",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Maintain inventory of audio-visual equipment."
+},
+{
+"task_id": "22435",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Maintain hardware and software, including computers, media equipment, scanners, color copiers, and color laser printers."
+},
+{
+"task_id": "22436",
+"soc": "25-4022.00",
+"occupation": "Librarians and Media Collections Specialists",
+"task_text": "Train faculty and media staff on the use of software and audio-visual equipment."
+},
+{
+"task_id": "1688",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Reserve, circulate, renew, and discharge books and other materials."
+},
+{
+"task_id": "18511",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Answer routine telephone or in-person reference inquiries, referring patrons to librarians for further assistance, when necessary."
+},
+{
+"task_id": "18510",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Help patrons find and use library resources, such as reference materials, audio-visual equipment, computers, and other electronic resources and provide technical assistance when needed."
+},
+{
+"task_id": "1696",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Deliver and retrieve items throughout the library by hand or using pushcart."
+},
+{
+"task_id": "1699",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Process print and non-print library materials to prepare them for inclusion in library collections."
+},
+{
+"task_id": "18512",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Catalogue and sort books and other print and non-print materials according to procedure and return them to shelves, files, or other designated storage areas."
+},
+{
+"task_id": "1689",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Enter and update patrons' records on computers."
+},
+{
+"task_id": "1690",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Provide assistance to teachers and students by locating materials and helping to complete special projects."
+},
+{
+"task_id": "1702",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Compile and maintain records relating to circulation, materials, and equipment."
+},
+{
+"task_id": "1697",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Take actions to halt disruption of library activities by problem patrons."
+},
+{
+"task_id": "18513",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Maintain and troubleshoot problems with library equipment, including computers, photocopiers, and audio-visual equipment."
+},
+{
+"task_id": "18515",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Check for damaged library materials, such as books or audio-visual equipment, and provide replacements or make repairs."
+},
+{
+"task_id": "1703",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Collect fines and respond to complaints about fines."
+},
+{
+"task_id": "1693",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Train other staff, volunteers, or student assistants and schedule and supervise their work."
+},
+{
+"task_id": "1695",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Conduct reference searches, using printed materials and in-house and online databases."
+},
+{
+"task_id": "18518",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Compile data and create statistical reports on library usage."
+},
+{
+"task_id": "1717",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Design posters and special displays to promote use of library facilities or specific reading programs at libraries."
+},
+{
+"task_id": "1704",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Issue identification cards to borrowers."
+},
+{
+"task_id": "1706",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Review subject matter of materials to be classified and select classification numbers and headings according to classification systems."
+},
+{
+"task_id": "1698",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Process interlibrary loans for patrons."
+},
+{
+"task_id": "18514",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Order all print and non-print library materials, checking prices, figuring costs, preparing order slips, and making payments."
+},
+{
+"task_id": "1707",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Send out notices about lost or overdue books."
+},
+{
+"task_id": "1700",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Retrieve information from central databases for storage in a library's computer."
+},
+{
+"task_id": "1705",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Verify bibliographical data for materials, including author, title, publisher, publication date, and edition."
+},
+{
+"task_id": "18517",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Plan and conduct children's programs, community outreach programs, and other specialized programs, such as library tours."
+},
+{
+"task_id": "1701",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Organize and maintain periodicals and reference materials."
+},
+{
+"task_id": "18516",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Claim missing issues of periodicals and journals."
+},
+{
+"task_id": "1714",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Compose explanatory summaries of contents of books and other reference materials."
+},
+{
+"task_id": "20989",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Sort and deliver library mail and packages."
+},
+{
+"task_id": "1710",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Operate and maintain audio-visual equipment, such as projectors, tape recorders, and videocassette recorders."
+},
+{
+"task_id": "1718",
+"soc": "25-4031.00",
+"occupation": "Library Technicians",
+"task_text": "Compile bibliographies and prepare abstracts on subjects of interest to particular organizations or groups."
+},
+{
+"task_id": "10976",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning."
+},
+{
+"task_id": "10975",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Conduct classes or deliver lectures on subjects such as nutrition, home management, and farming techniques."
+},
+{
+"task_id": "10974",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Collaborate with producers to diagnose and prevent management and production problems."
+},
+{
+"task_id": "10977",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Research information requested by farmers."
+},
+{
+"task_id": "10979",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Collect and evaluate data to determine community program needs."
+},
+{
+"task_id": "10986",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Act as an advocate for farmers or farmers' groups."
+},
+{
+"task_id": "10984",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Conduct field demonstrations of new products, techniques, or services."
+},
+{
+"task_id": "10980",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Maintain records of services provided and the effects of advice given."
+},
+{
+"task_id": "10978",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Prepare and distribute leaflets, pamphlets, and visual aids for educational and informational purposes."
+},
+{
+"task_id": "10981",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Schedule and make regular visits to farmers."
+},
+{
+"task_id": "10982",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Organize, advise, and participate in community activities and organizations, such as county and state fair events and 4-H Clubs."
+},
+{
+"task_id": "10985",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Conduct agricultural research, analyze data, and prepare research reports."
+},
+{
+"task_id": "10988",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Set and monitor production targets."
+},
+{
+"task_id": "10983",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Collaborate with social service and health care professionals to advise individuals and families on home management practices, such as budget planning, meal preparation, and time management."
+},
+{
+"task_id": "10987",
+"soc": "25-9021.00",
+"occupation": "Farm and Home Management Educators",
+"task_text": "Provide direct assistance to farmers by performing activities such as purchasing or selling products and supplies, supervising properties, and collecting soil and herbage samples for testing."
+},
+{
+"task_id": "6871",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Observe work of teaching staff to evaluate performance and to recommend changes that could strengthen teaching skills."
+},
+{
+"task_id": "6864",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Plan and conduct teacher training programs and conferences dealing with new classroom procedures, instructional materials and equipment, and teaching aids."
+},
+{
+"task_id": "6867",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Interpret and enforce provisions of state education codes and rules and regulations of state education boards."
+},
+{
+"task_id": "6863",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Conduct or participate in workshops, committees, and conferences designed to promote the intellectual, social, and physical welfare of students."
+},
+{
+"task_id": "6865",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Advise teaching and administrative staff in curriculum development, use of materials and equipment, and implementation of state and federal programs and procedures."
+},
+{
+"task_id": "6877",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Advise and teach students."
+},
+{
+"task_id": "6866",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Recommend, order, or authorize purchase of instructional materials, supplies, equipment, and visual aids designed to meet student educational needs and district standards."
+},
+{
+"task_id": "6875",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Update the content of educational programs to ensure that students are being trained with equipment and processes that are technologically current."
+},
+{
+"task_id": "6876",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Address public audiences to explain program objectives and to elicit support."
+},
+{
+"task_id": "6870",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Research, evaluate, and prepare recommendations on curricula, instructional methods, and materials for school systems."
+},
+{
+"task_id": "6873",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Prepare grant proposals, budgets, and program policies and goals or assist in their preparation."
+},
+{
+"task_id": "6878",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Prepare or approve manuals, guidelines, and reports on state educational policies and practices for distribution to school districts."
+},
+{
+"task_id": "6881",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Coordinate activities of workers engaged in cataloging, distributing, and maintaining educational materials and equipment in curriculum libraries and laboratories."
+},
+{
+"task_id": "22437",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Adapt instructional content or delivery methods for different levels or types of learners."
+},
+{
+"task_id": "22438",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials."
+},
+{
+"task_id": "22439",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Assess effectiveness and efficiency of instruction according to ease of instructional technology use and student learning, knowledge transfer, and satisfaction."
+},
+{
+"task_id": "22440",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Conduct needs assessments and strategic learning assessments to develop the basis for curriculum development or to update curricula."
+},
+{
+"task_id": "22441",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Define instructional, learning, or performance objectives."
+},
+{
+"task_id": "22442",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Design instructional aids for stand-alone or instructor-led classroom or online use."
+},
+{
+"task_id": "22443",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Design learning products, including Web-based aids or electronic performance support systems."
+},
+{
+"task_id": "22444",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Develop instructional materials, such as lesson plans, handouts, or examinations."
+},
+{
+"task_id": "22445",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Develop master course documentation or manuals according to applicable accreditation, certification, or other requirements."
+},
+{
+"task_id": "22446",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Develop measurement tools to evaluate the effectiveness of instruction or training interventions."
+},
+{
+"task_id": "22447",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests."
+},
+{
+"task_id": "22448",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Interview subject-matter experts or conduct other research to develop instructional content."
+},
+{
+"task_id": "22449",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Present and make recommendations regarding course design, technology, and instruction delivery options."
+},
+{
+"task_id": "22450",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Provide analytical support for the design and development of training curricula, learning strategies, educational policies, or courseware standards."
+},
+{
+"task_id": "22451",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Recommend changes to curricula or delivery methods, based on information such as instructional effectiveness data, current or future performance requirements, feasibility, and costs."
+},
+{
+"task_id": "22452",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Research and evaluate emerging instructional technologies or methods."
+},
+{
+"task_id": "22453",
+"soc": "25-9031.00",
+"occupation": "Instructional Coordinators",
+"task_text": "Teach instructors to use instructional technology or to integrate technology with teaching."
+},
+{
+"task_id": "22478",
+"soc": "25-9042.00",
+"occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+"task_text": "Supervise students in classrooms, halls, cafeterias, school yards, and gymnasiums, or on field trips."
+},
+{
+"task_id": "22481",
+"soc": "25-9042.00",
+"occupation": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+"task_text": "Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers."
+}
+]

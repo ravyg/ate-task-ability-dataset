@@ -1,0 +1,782 @@
+[
+{
+"task_id": "5415",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Study nutritional requirements of animals and nutritive values of animal feed materials."
+},
+{
+"task_id": "20865",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Write up or orally communicate research findings to the scientific community, producers, and the public."
+},
+{
+"task_id": "5417",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Develop improved practices in feeding, housing, sanitation, or parasite and disease control of animals."
+},
+{
+"task_id": "5414",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Advise producers about improved products and techniques that could enhance their animal production efforts."
+},
+{
+"task_id": "5413",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Conduct research concerning animal nutrition, breeding, or management to improve products or processes."
+},
+{
+"task_id": "5416",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Study effects of management practices, processing methods, feed, or environmental conditions on quality and quantity of animal products, such as eggs and milk."
+},
+{
+"task_id": "5418",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Research and control animal selection and breeding practices to increase production efficiency and improve animal quality."
+},
+{
+"task_id": "5419",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Determine genetic composition of animal populations and heritability of traits, using principles of genetics."
+},
+{
+"task_id": "5420",
+"soc": "19-1011.00",
+"occupation": "Animal Scientists",
+"task_text": "Crossbreed animals with existing strains or cross strains to obtain new combinations of desirable characteristics."
+},
+{
+"task_id": "7494",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Inspect food processing areas to ensure compliance with government regulations and standards for sanitation, safety, quality, and waste management."
+},
+{
+"task_id": "7486",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Check raw ingredients for maturity or stability for processing, and finished products for safety, quality, and nutritional value."
+},
+{
+"task_id": "7489",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Study methods to improve aspects of foods, such as chemical composition, flavor, color, texture, nutritional value, and convenience."
+},
+{
+"task_id": "7492",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Develop food standards and production specifications, safety and sanitary regulations, and waste management and water supply specifications."
+},
+{
+"task_id": "18612",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Stay up to date on new regulations and current events regarding food science by reviewing scientific literature."
+},
+{
+"task_id": "7490",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Study the structure and composition of food or the changes foods undergo in storage and processing."
+},
+{
+"task_id": "7487",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Confer with process engineers, plant operators, flavor experts, and packaging and marketing specialists to resolve problems in product development."
+},
+{
+"task_id": "7485",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Test new products for flavor, texture, color, nutritional content, and adherence to government and industry standards."
+},
+{
+"task_id": "18611",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Develop new food items for production, based on consumer feedback."
+},
+{
+"task_id": "7491",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Develop new or improved ways of preserving, processing, packaging, storing, and delivering foods, using knowledge of chemistry, microbiology, and other sciences."
+},
+{
+"task_id": "7488",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Evaluate food processing and storage operations and assist in the development of quality assurance programs for such operations."
+},
+{
+"task_id": "7493",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Demonstrate products to clients."
+},
+{
+"task_id": "7495",
+"soc": "19-1012.00",
+"occupation": "Food Scientists and Technologists",
+"task_text": "Seek substitutes for harmful or undesirable additives, such as nitrites."
+},
+{
+"task_id": "9021",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Communicate research or project results to other professionals or the public or teach related courses, seminars, or workshops."
+},
+{
+"task_id": "9024",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Develop methods of conserving or managing soil that can be applied by farmers or forestry companies."
+},
+{
+"task_id": "9022",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Provide information or recommendations to farmers or other landowners regarding ways in which they can best use land, promote plant growth, or avoid or correct problems such as erosion."
+},
+{
+"task_id": "9025",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct experiments to develop new or improved varieties of field crops, focusing on characteristics such as yield, quality, disease resistance, nutritional value, or adaptation to specific soils or climates."
+},
+{
+"task_id": "9026",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Investigate soil problems or poor water quality to determine sources and effects."
+},
+{
+"task_id": "9023",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Investigate responses of soils to specific management practices to determine the use capabilities of soils and the effects of alternative practices on soil productivity."
+},
+{
+"task_id": "23903",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct experiments to investigate the underlying mechanisms of plant growth and response to the environment."
+},
+{
+"task_id": "9030",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Identify degraded or contaminated soils and develop plans to improve their chemical, biological, or physical characteristics."
+},
+{
+"task_id": "9035",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Develop new or improved methods or products for controlling or eliminating weeds, crop diseases, or insect pests."
+},
+{
+"task_id": "9034",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Provide advice regarding the development of regulatory standards for land reclamation or soil conservation."
+},
+{
+"task_id": "9027",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Study soil characteristics to classify soils on the basis of factors such as geographic location, landscape position, or soil properties."
+},
+{
+"task_id": "9028",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology."
+},
+{
+"task_id": "9036",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct research to determine best methods of planting, spraying, cultivating, harvesting, storing, processing, or transporting horticultural products."
+},
+{
+"task_id": "19751",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Develop environmentally safe methods or products for controlling or eliminating weeds, crop diseases, or pests."
+},
+{
+"task_id": "19754",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Study ways to improve agricultural sustainability, such as the use of new methods of composting."
+},
+{
+"task_id": "9037",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Consult with engineers or other technical personnel working on construction projects about the effects of soil problems and possible solutions to these problems."
+},
+{
+"task_id": "9033",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Perform chemical analyses of the microorganism content of soils to determine microbial reactions or chemical mineralogical relationships to plant growth."
+},
+{
+"task_id": "9038",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Develop ways of altering soils to suit different types of plants."
+},
+{
+"task_id": "9029",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct experiments investigating how soil forms, changes, or interacts with land-based ecosystems or living organisms."
+},
+{
+"task_id": "9031",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Survey undisturbed or disturbed lands for classification, inventory, mapping, environmental impact assessments, environmental protection planning, conservation planning, or reclamation planning."
+},
+{
+"task_id": "20198",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Plan or supervise waste management programs for composting or farming."
+},
+{
+"task_id": "19753",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Research technical requirements or environmental impacts of urban green spaces, such as green roof installations."
+},
+{
+"task_id": "9041",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct experiments regarding causes of bee diseases or factors affecting yields of nectar or pollen."
+},
+{
+"task_id": "9040",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Identify or classify species of insects or allied forms, such as mites or spiders."
+},
+{
+"task_id": "9039",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Study insect distribution or habitat and recommend methods to prevent importation or spread of injurious species."
+},
+{
+"task_id": "20199",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Plan or supervise land conservation or reclamation programs for industrial development projects."
+},
+{
+"task_id": "19750",
+"soc": "19-1013.00",
+"occupation": "Soil and Plant Scientists",
+"task_text": "Conduct research into the use of plant species as green fuels or in the production of green fuels."
+},
+{
+"task_id": "12932",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Share research findings by writing scientific articles or by making presentations at scientific conferences."
+},
+{
+"task_id": "12948",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Teach or advise undergraduate or graduate students or supervise their research."
+},
+{
+"task_id": "12944",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Study physical principles of living cells or organisms and their electrical or mechanical energy, applying methods and knowledge of mathematics, physics, chemistry, or biology."
+},
+{
+"task_id": "12931",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Manage laboratory teams or monitor the quality of a team's work."
+},
+{
+"task_id": "12930",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Develop new methods to study the mechanisms of biological processes."
+},
+{
+"task_id": "21168",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Write grant proposals to obtain funding for research."
+},
+{
+"task_id": "12947",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Design or perform experiments with equipment, such as lasers, accelerators, or mass spectrometers."
+},
+{
+"task_id": "12938",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Determine the three-dimensional structure of biological macromolecules."
+},
+{
+"task_id": "12951",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Design or build laboratory equipment needed for special research projects."
+},
+{
+"task_id": "12929",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Prepare reports or recommendations, based upon research outcomes."
+},
+{
+"task_id": "12936",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Study spatial configurations of submicroscopic molecules, such as proteins, using x-rays or electron microscopes."
+},
+{
+"task_id": "12937",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Study the chemistry of living processes, such as cell development, breathing and digestion, or living energy changes, such as growth, aging, or death."
+},
+{
+"task_id": "12935",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Study the mutations in organisms that lead to cancer or other diseases."
+},
+{
+"task_id": "12940",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Research the chemical effects of substances, such as drugs, serums, hormones, or food, on tissues or vital processes."
+},
+{
+"task_id": "12949",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Research transformations of substances in cells, using atomic isotopes."
+},
+{
+"task_id": "12933",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Develop or execute tests to detect diseases, genetic disorders, or other abnormalities."
+},
+{
+"task_id": "12934",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Develop or test new drugs or medications intended for commercial distribution."
+},
+{
+"task_id": "12946",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Isolate, analyze, or synthesize vitamins, hormones, allergens, minerals, or enzymes and determine their effects on body functions."
+},
+{
+"task_id": "12950",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Examine the molecular or chemical aspects of immune system functioning."
+},
+{
+"task_id": "12941",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Research how characteristics of plants or animals are carried through successive generations."
+},
+{
+"task_id": "12939",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Prepare pharmaceutical compounds for commercial distribution."
+},
+{
+"task_id": "12942",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Develop methods to process, store, or use foods, drugs, or chemical compounds."
+},
+{
+"task_id": "12943",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Investigate the nature, composition, or expression of genes or research how genetic engineering can impact these processes."
+},
+{
+"task_id": "12945",
+"soc": "19-1021.00",
+"occupation": "Biochemists and Biophysicists",
+"task_text": "Produce pharmaceutically or industrially useful proteins, using recombinant DNA technology."
+},
+{
+"task_id": "15212",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Isolate and maintain cultures of bacteria or other microorganisms in prescribed or developed media, controlling moisture, aeration, temperature, and nutrition."
+},
+{
+"task_id": "3676",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Provide laboratory services for health departments, community environmental health programs, and physicians needing information for diagnosis and treatment."
+},
+{
+"task_id": "15213",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Monitor and perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection."
+},
+{
+"task_id": "3675",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Examine physiological, morphological, and cultural characteristics, using microscope, to identify and classify microorganisms in human, water, and food specimens."
+},
+{
+"task_id": "3679",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Supervise biological technologists and technicians and other scientists."
+},
+{
+"task_id": "3683",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Use a variety of specialized equipment, such as electron microscopes, gas and high-pressure liquid chromatographs, electrophoresis units, thermocyclers, fluorescence-activated cell sorters, and phosphorimagers."
+},
+{
+"task_id": "3678",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Investigate the relationship between organisms and disease, including the control of epidemics and the effects of antibiotics on microorganisms."
+},
+{
+"task_id": "3681",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Prepare technical reports and recommendations, based upon research outcomes."
+},
+{
+"task_id": "3677",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Observe action of microorganisms upon living tissues of plants, higher animals, and other microorganisms, and on dead organic matter."
+},
+{
+"task_id": "3680",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Study growth, structure, development, and general characteristics of bacteria and other microorganisms to understand their relationship to human, plant, and animal health."
+},
+{
+"task_id": "3682",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Study the structure and function of human, animal, and plant tissues, cells, pathogens, and toxins."
+},
+{
+"task_id": "15214",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Develop new products and procedures for sterilization, food and pharmaceutical supply preservation, or microbial contamination detection."
+},
+{
+"task_id": "3684",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Conduct chemical analyses of substances such as acids, alcohols, and enzymes."
+},
+{
+"task_id": "3685",
+"soc": "19-1022.00",
+"occupation": "Microbiologists",
+"task_text": "Research use of bacteria and microorganisms to develop vitamins, antibiotics, amino acids, grain alcohol, sugars, and polymers."
+},
+{
+"task_id": "23957",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Develop, or make recommendations on, management systems and plans for wildlife populations and habitat, consulting with stakeholders and the public at large to explore options."
+},
+{
+"task_id": "1493",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Inventory or estimate plant and wildlife populations."
+},
+{
+"task_id": "18615",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Inform and respond to public regarding wildlife and conservation issues, such as plant identification, hunting ordinances, and nuisance wildlife."
+},
+{
+"task_id": "1492",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Study animals in their natural habitats, assessing effects of environment and industry on animals, interpreting findings and recommending alternative operating conditions for industry."
+},
+{
+"task_id": "1496",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Disseminate information by writing reports and scientific papers or journal articles, and by making presentations and giving talks for schools, clubs, interest groups and park interpretive programs."
+},
+{
+"task_id": "1497",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Study characteristics of animals, such as origin, interrelationships, classification, life histories, diseases, development, genetics, and distribution."
+},
+{
+"task_id": "1498",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Perform administrative duties, such as fundraising, public relations, budgeting, and supervision of zoo staff."
+},
+{
+"task_id": "18616",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Check for, and ensure compliance with, environmental laws, and notify law enforcement when violations are identified."
+},
+{
+"task_id": "1494",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Analyze characteristics of animals to identify and classify them."
+},
+{
+"task_id": "23958",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Conduct literature reviews."
+},
+{
+"task_id": "1499",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Organize and conduct experimental studies with live animals in controlled or natural surroundings."
+},
+{
+"task_id": "1501",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Coordinate preventive programs to control the outbreak of wildlife diseases."
+},
+{
+"task_id": "1502",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Prepare collections of preserved specimens or microscopic slides for species identification and study of development or disease."
+},
+{
+"task_id": "1504",
+"soc": "19-1023.00",
+"occupation": "Zoologists and Wildlife Biologists",
+"task_text": "Collect and dissect animal specimens and examine specimens under microscope."
+},
+{
+"task_id": "16786",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Develop new software applications or customize existing applications to meet specific scientific project needs."
+},
+{
+"task_id": "16792",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Communicate research results through conference presentations, scientific publications, or project reports."
+},
+{
+"task_id": "16790",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Create novel computational approaches and analytical tools as required by research goals."
+},
+{
+"task_id": "16794",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Consult with researchers to analyze problems, recommend technology-based solutions, or determine computational strategies."
+},
+{
+"task_id": "16795",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Analyze large molecular datasets, such as raw microarray data, genomic sequence data, or proteomics data, for clinical or basic research purposes."
+},
+{
+"task_id": "16777",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Keep abreast of new biochemistries, instrumentation, or software by reading scientific literature and attending professional conferences."
+},
+{
+"task_id": "16787",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Develop data models and databases."
+},
+{
+"task_id": "16791",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Compile data for use in activities, such as gene expression profiling, genome annotation, or structural bioinformatics."
+},
+{
+"task_id": "16789",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Design and apply bioinformatics algorithms including unsupervised and supervised machine learning, dynamic programming, or graphic algorithms."
+},
+{
+"task_id": "16793",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Manipulate publicly accessible, commercial, or proprietary genomic, proteomic, or post-genomic databases."
+},
+{
+"task_id": "16785",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Direct the work of technicians and information technology staff applying bioinformatics tools or applications in areas such as proteomics, transcriptomics, metabolomics, or clinical bioinformatics."
+},
+{
+"task_id": "16781",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Provide statistical and computational tools for biologically based activities, such as genetic analysis, measurement of gene expression, or gene function determination."
+},
+{
+"task_id": "16788",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Create or modify web-based bioinformatics tools."
+},
+{
+"task_id": "16784",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Improve user interfaces to bioinformatics software and databases."
+},
+{
+"task_id": "16778",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Confer with departments, such as marketing, business development, or operations, to coordinate product development or improvement."
+},
+{
+"task_id": "16776",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Recommend new systems and processes to improve operations."
+},
+{
+"task_id": "16783",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Instruct others in the selection and use of bioinformatics tools."
+},
+{
+"task_id": "16779",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Collaborate with software developers in the development and modification of commercial bioinformatics software."
+},
+{
+"task_id": "16780",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Test new and updated bioinformatics tools and software."
+},
+{
+"task_id": "16782",
+"soc": "19-1029.01",
+"occupation": "Bioinformatics Scientists",
+"task_text": "Prepare summary statistics of information regarding human genomes."
+},
+{
+"task_id": "16807",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Maintain accurate laboratory records and data."
+},
+{
+"task_id": "16813",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Design molecular or cellular laboratory experiments, oversee their execution, and interpret results."
+},
+{
+"task_id": "23904",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Write grant applications to obtain funding."
+},
+{
+"task_id": "16805",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Perform laboratory procedures following protocols including deoxyribonucleic acid (DNA) sequencing, cloning and extraction, ribonucleic acid (RNA) purification, or gel electrophoresis."
+},
+{
+"task_id": "16815",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Conduct research on cell organization and function, including mechanisms of gene expression, cellular bioinformatics, cell signaling, or cell differentiation."
+},
+{
+"task_id": "23905",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Prepare or review reports, manuscripts, or meeting presentations."
+},
+{
+"task_id": "16808",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Instruct undergraduate and graduate students within the areas of cellular or molecular biology."
+},
+{
+"task_id": "16810",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Direct, coordinate, organize, or prioritize biological laboratory activities."
+},
+{
+"task_id": "16814",
+"soc": "19-1029.02",
+"occupation": "Molecular and Cellular Biologists",
+"task_text": "Compile and analyze molecular or cellular experimental data and adjust experimental designs as necessary."
+}
+]

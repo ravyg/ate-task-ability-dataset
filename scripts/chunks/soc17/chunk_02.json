@@ -1,0 +1,782 @@
+[
+{
+"task_id": "1357",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Oversee project production efforts to assure projects are completed on time and within budget."
+},
+{
+"task_id": "1350",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements."
+},
+{
+"task_id": "1351",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications."
+},
+{
+"task_id": "1349",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Operate computer-assisted engineering or design software or equipment to perform engineering tasks."
+},
+{
+"task_id": "1347",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Confer with engineers, customers, or others to discuss existing or potential engineering projects or products."
+},
+{
+"task_id": "1356",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Investigate or test vendors' or competitors' products."
+},
+{
+"task_id": "20731",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards."
+},
+{
+"task_id": "20730",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Investigate customer or public complaints to determine the nature and extent of problems."
+},
+{
+"task_id": "1358",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements."
+},
+{
+"task_id": "1363",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Compile data and write reports regarding existing or potential electrical engineering studies or projects."
+},
+{
+"task_id": "1354",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Prepare specifications for purchases of materials or equipment."
+},
+{
+"task_id": "20729",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Estimate labor, material, or construction costs for budget preparation purposes."
+},
+{
+"task_id": "1353",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects."
+},
+{
+"task_id": "1355",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Supervise or train project team members, as necessary."
+},
+{
+"task_id": "1361",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Assist in developing capital project programs for new equipment or major repairs."
+},
+{
+"task_id": "1364",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems."
+},
+{
+"task_id": "19618",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels."
+},
+{
+"task_id": "23956",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Develop software to control electrical systems."
+},
+{
+"task_id": "19619",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Integrate electrical systems with renewable energy systems to improve overall efficiency."
+},
+{
+"task_id": "1365",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems."
+},
+{
+"task_id": "19617",
+"soc": "17-2071.00",
+"occupation": "Electrical Engineers",
+"task_text": "Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting."
+},
+{
+"task_id": "5339",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications."
+},
+{
+"task_id": "20497",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks."
+},
+{
+"task_id": "20494",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems."
+},
+{
+"task_id": "5349",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems."
+},
+{
+"task_id": "20496",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products."
+},
+{
+"task_id": "20499",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Provide technical support or instruction to staff or customers regarding electronics equipment standards."
+},
+{
+"task_id": "20498",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities."
+},
+{
+"task_id": "5348",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses."
+},
+{
+"task_id": "5350",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems."
+},
+{
+"task_id": "20495",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility."
+},
+{
+"task_id": "5354",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts."
+},
+{
+"task_id": "5346",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations."
+},
+{
+"task_id": "20493",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Determine project material or equipment needs."
+},
+{
+"task_id": "5355",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing."
+},
+{
+"task_id": "5351",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance."
+},
+{
+"task_id": "5352",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems."
+},
+{
+"task_id": "20500",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures."
+},
+{
+"task_id": "19621",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers."
+},
+{
+"task_id": "5357",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information."
+},
+{
+"task_id": "19623",
+"soc": "17-2072.00",
+"occupation": "Electronics Engineers, Except Computer",
+"task_text": "Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions."
+},
+{
+"task_id": "16363",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Identify operational requirements for new systems to inform selection of technological solutions."
+},
+{
+"task_id": "16370",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Integrate tags, readers, or software in radio frequency identification device (RFID) designs."
+},
+{
+"task_id": "16354",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Perform systems analysis or programming of radio frequency identification device (RFID) technology."
+},
+{
+"task_id": "16359",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Test radio frequency identification device (RFID) software to ensure proper functioning."
+},
+{
+"task_id": "16360",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Select appropriate radio frequency identification device (RFID) tags and determine placement locations."
+},
+{
+"task_id": "16361",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation."
+},
+{
+"task_id": "16362",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Perform acceptance testing on newly installed or updated systems."
+},
+{
+"task_id": "16366",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Determine means of integrating radio frequency identification device (RFID) into other applications."
+},
+{
+"task_id": "16353",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Provide technical support for radio frequency identification device (RFID) technology."
+},
+{
+"task_id": "16371",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology."
+},
+{
+"task_id": "16369",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Install, test, or maintain radio frequency identification device (RFID) systems."
+},
+{
+"task_id": "16358",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Test tags or labels to ensure readability."
+},
+{
+"task_id": "16364",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Determine usefulness of new radio frequency identification device (RFID) technologies."
+},
+{
+"task_id": "16351",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Verify compliance of developed applications with architectural standards and established practices."
+},
+{
+"task_id": "16356",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Train users in details of system operation."
+},
+{
+"task_id": "16365",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems."
+},
+{
+"task_id": "16352",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies."
+},
+{
+"task_id": "16355",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Document equipment or process details of radio frequency identification device (RFID) technology."
+},
+{
+"task_id": "16367",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects."
+},
+{
+"task_id": "16368",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration."
+},
+{
+"task_id": "16357",
+"soc": "17-2072.01",
+"occupation": "Radio Frequency Identification Device Specialists",
+"task_text": "Analyze radio frequency identification device (RFID)-related supply chain data."
+},
+{
+"task_id": "15210",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality."
+},
+{
+"task_id": "1377",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Assess the existing or potential environmental impact of land use projects on air, water, or land."
+},
+{
+"task_id": "20195",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems."
+},
+{
+"task_id": "1374",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment."
+},
+{
+"task_id": "1373",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Develop proposed project objectives and targets and report to management on progress in attaining them."
+},
+{
+"task_id": "1370",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Monitor progress of environmental improvement programs."
+},
+{
+"task_id": "1366",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Prepare, review, or update environmental investigation or recommendation reports."
+},
+{
+"task_id": "20197",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Prepare, maintain, or revise quality assurance documentation or procedures."
+},
+{
+"task_id": "1379",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste."
+},
+{
+"task_id": "1369",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability."
+},
+{
+"task_id": "19625",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Prepare or present public briefings on the status of environmental engineering projects."
+},
+{
+"task_id": "1378",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Assist in budget implementation, forecasts, or administration."
+},
+{
+"task_id": "1380",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Coordinate or manage environmental protection programs or projects, assigning or evaluating work."
+},
+{
+"task_id": "1375",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Advise industries or government agencies about environmental policies and standards."
+},
+{
+"task_id": "1368",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Obtain, update, or maintain plans, permits, or standard operating procedures."
+},
+{
+"task_id": "19624",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Direct installation or operation of environmental monitoring devices or supervise related data collection programs."
+},
+{
+"task_id": "1371",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations."
+},
+{
+"task_id": "1389",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Request bids from suppliers or consultants."
+},
+{
+"task_id": "1376",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Inform company employees or other interested parties of environmental issues."
+},
+{
+"task_id": "1381",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements."
+},
+{
+"task_id": "1372",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties."
+},
+{
+"task_id": "1390",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development."
+},
+{
+"task_id": "1385",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Develop or present environmental compliance training or orientation sessions."
+},
+{
+"task_id": "20196",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities."
+},
+{
+"task_id": "1387",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Develop, implement, or manage plans or programs related to conservation or management of natural resources."
+},
+{
+"task_id": "1383",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Prepare hazardous waste manifests or land disposal restriction notifications."
+},
+{
+"task_id": "23987",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Attend professional conferences to share information."
+},
+{
+"task_id": "19626",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Write reports or articles for Web sites or newsletters related to environmental engineering issues."
+},
+{
+"task_id": "1388",
+"soc": "17-2081.00",
+"occupation": "Environmental Engineers",
+"task_text": "Assess, sort, characterize, or pack known or unknown materials."
+},
+{
+"task_id": "21860",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures."
+},
+{
+"task_id": "21861",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Conduct research to evaluate safety levels for products."
+},
+{
+"task_id": "21862",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Evaluate product designs for safety."
+},
+{
+"task_id": "21863",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment."
+},
+{
+"task_id": "21864",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Maintain and apply knowledge of current policies, regulations, and industrial processes."
+},
+{
+"task_id": "21865",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards."
+},
+{
+"task_id": "21866",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Report or review findings from accident investigations, facilities inspections, or environmental testing."
+},
+{
+"task_id": "21867",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Evaluate potential health hazards or damage that could occur from product misuse."
+},
+{
+"task_id": "21868",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Evaluate adequacy of actions taken to correct health inspection violations."
+},
+{
+"task_id": "21869",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors."
+},
+{
+"task_id": "21870",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met."
+},
+{
+"task_id": "21871",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Participate in preparation of product usage and precautionary label instructions."
+},
+{
+"task_id": "21872",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Interview employers and employees to obtain information about work environments and workplace incidents."
+},
+{
+"task_id": "21873",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Provide expert testimony in litigation cases."
+},
+{
+"task_id": "21874",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Review employee safety programs to determine their adequacy."
+},
+{
+"task_id": "21875",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations."
+},
+{
+"task_id": "21876",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes."
+},
+{
+"task_id": "21877",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Develop industry standards of product safety."
+},
+{
+"task_id": "21878",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated."
+},
+{
+"task_id": "21879",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Plan and conduct industrial hygiene research."
+},
+{
+"task_id": "21880",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Compile, analyze, and interpret statistical data related to occupational illnesses and accidents."
+},
+{
+"task_id": "21881",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Write and revise safety regulations and codes."
+},
+{
+"task_id": "21882",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns."
+},
+{
+"task_id": "21883",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Design and build safety equipment."
+},
+{
+"task_id": "21884",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Check floors of plants to ensure that they are strong enough to support heavy machinery."
+},
+{
+"task_id": "21885",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance."
+},
+{
+"task_id": "21886",
+"soc": "17-2111.00",
+"occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+"task_text": "Install safety devices on machinery or direct device installation."
+},
+{
+"task_id": "8984",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance."
+},
+{
+"task_id": "8982",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Design fire detection equipment, alarm systems, and fire extinguishing devices and systems."
+},
+{
+"task_id": "8983",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials."
+},
+{
+"task_id": "24004",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Review building plans to verify compliance with fire code."
+},
+{
+"task_id": "20383",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules."
+},
+{
+"task_id": "8988",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Consult with authorities to discuss safety regulations and to recommend changes as necessary."
+},
+{
+"task_id": "8993",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety."
+},
+{
+"task_id": "23902",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems."
+},
+{
+"task_id": "8991",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection."
+},
+{
+"task_id": "8986",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Determine causes of fires and ways in which they could have been prevented."
+},
+{
+"task_id": "8992",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Develop training materials and conduct training sessions on fire protection."
+},
+{
+"task_id": "8990",
+"soc": "17-2111.02",
+"occupation": "Fire-Prevention and Protection Engineers",
+"task_text": "Study the relationships between ignition sources and materials to determine how fires start."
+}
+]

@@ -1,0 +1,481 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",Near Vision,3,0
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",Selective Attention,3,0
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",Problem Sensitivity,2,0
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",Control Precision,2,0
+10729,Aviation Inspectors,"Start aircraft and observe gauges, meters, and other instruments to detect evidence of malfunctions.",Auditory Attention,1,0
+10730,Aviation Inspectors,Examine aircraft access plates and doors for security.,Near Vision,3,0
+10730,Aviation Inspectors,Examine aircraft access plates and doors for security.,Problem Sensitivity,2,0
+10730,Aviation Inspectors,Examine aircraft access plates and doors for security.,Selective Attention,2,0
+10730,Aviation Inspectors,Examine aircraft access plates and doors for security.,Manual Dexterity,1,0
+10736,Aviation Inspectors,"Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors.",Deductive Reasoning,3,0
+10736,Aviation Inspectors,"Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors.",Written Expression,2,0
+10736,Aviation Inspectors,"Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors.",Written Comprehension,2,0
+10736,Aviation Inspectors,"Recommend changes in rules, policies, standards, and regulations, based on knowledge of operating conditions, aircraft improvements, and other factors.",Oral Expression,1,1
+10738,Aviation Inspectors,Investigate air accidents and complaints to determine causes.,Deductive Reasoning,3,0
+10738,Aviation Inspectors,Investigate air accidents and complaints to determine causes.,Problem Sensitivity,3,0
+10738,Aviation Inspectors,Investigate air accidents and complaints to determine causes.,Inductive Reasoning,2,0
+10738,Aviation Inspectors,Investigate air accidents and complaints to determine causes.,Written Comprehension,1,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Deductive Reasoning,2,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Written Comprehension,2,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Oral Comprehension,2,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Written Expression,2,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Oral Expression,2,0
+10742,Aviation Inspectors,"Analyze training programs and conduct oral and written examinations to ensure the competency of persons operating, installing, and repairing aircraft equipment.",Information Ordering,1,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Control Precision,3,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Multilimb Coordination,2,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Near Vision,2,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Selective Attention,2,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Reaction Time,2,0
+10740,Aviation Inspectors,"Conduct flight test programs to test equipment, instruments, and systems under a variety of conditions, using both manual and automatic controls.",Problem Sensitivity,2,0
+14569,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.",Near Vision,3,0
+14569,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.",Far Vision,1,0
+14569,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.",Problem Sensitivity,2,0
+14569,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.",Selective Attention,2,0
+14570,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.",Near Vision,2,0
+14570,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.",Written Comprehension,2,0
+14570,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.",Deductive Reasoning,2,0
+14570,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.",Selective Attention,2,0
+14573,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.,Near Vision,3,0
+14573,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.,Problem Sensitivity,2,0
+14573,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.,Selective Attention,2,0
+14573,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.,Manual Dexterity,1,0
+19929,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",Deductive Reasoning,3,0
+19929,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",Near Vision,2,0
+19929,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",Problem Sensitivity,2,0
+19929,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",Written Comprehension,1,0
+19926,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.",Near Vision,3,0
+19926,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.",Control Precision,2,0
+19926,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.",Manual Dexterity,2,0
+19926,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.",Selective Attention,2,0
+14574,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Prepare reports on investigations or inspections and actions taken.,Written Expression,3,0
+14574,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Prepare reports on investigations or inspections and actions taken.,Written Comprehension,2,0
+14574,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Prepare reports on investigations or inspections and actions taken.,Information Ordering,2,0
+14575,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Issue notices and recommend corrective actions when infractions or problems are found.,Written Expression,2,0
+14575,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Issue notices and recommend corrective actions when infractions or problems are found.,Deductive Reasoning,2,0
+14575,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Issue notices and recommend corrective actions when infractions or problems are found.,Oral Expression,1,0
+14575,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Issue notices and recommend corrective actions when infractions or problems are found.,Problem Sensitivity,1,0
+19927,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,Near Vision,3,0
+19927,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,Visual Color Discrimination,2,0
+19927,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,Selective Attention,2,0
+19927,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,Problem Sensitivity,1,0
+14572,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct vehicle or transportation equipment tests, using diagnostic equipment.",Near Vision,2,0
+14572,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct vehicle or transportation equipment tests, using diagnostic equipment.",Control Precision,2,0
+14572,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct vehicle or transportation equipment tests, using diagnostic equipment.",Problem Sensitivity,2,0
+14572,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Conduct vehicle or transportation equipment tests, using diagnostic equipment.",Deductive Reasoning,1,0
+14580,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Investigate incidents or violations, such as delays, accidents, and equipment failures.",Deductive Reasoning,3,0
+14580,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Investigate incidents or violations, such as delays, accidents, and equipment failures.",Problem Sensitivity,2,0
+14580,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Investigate incidents or violations, such as delays, accidents, and equipment failures.",Inductive Reasoning,2,0
+14580,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Investigate incidents or violations, such as delays, accidents, and equipment failures.",Written Comprehension,1,0
+14579,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.",Written Comprehension,3,0
+14579,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.",Near Vision,2,0
+14579,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.",Problem Sensitivity,2,0
+14579,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.",Deductive Reasoning,1,0
+19924,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,Manual Dexterity,3,0
+19924,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,Near Vision,2,0
+19924,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,Finger Dexterity,2,0
+19924,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,Arm-Hand Steadiness,1,0
+14576,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Investigate complaints regarding safety violations.,Deductive Reasoning,2,0
+14576,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Investigate complaints regarding safety violations.,Problem Sensitivity,2,0
+14576,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Investigate complaints regarding safety violations.,Oral Comprehension,1,0
+14576,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Investigate complaints regarding safety violations.,Written Comprehension,1,0
+14577,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards.",Written Comprehension,3,0
+14577,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards.",Deductive Reasoning,2,0
+14577,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards.",Information Ordering,1,0
+20841,Passenger Attendants,Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.,Manual Dexterity,3,0
+20841,Passenger Attendants,Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.,Finger Dexterity,2,0
+20841,Passenger Attendants,Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.,Arm-Hand Steadiness,1,0
+20841,Passenger Attendants,Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.,Static Strength,1,0
+13172,Passenger Attendants,"Provide boarding assistance to elderly, sick, or injured people.",Static Strength,2,0
+13172,Passenger Attendants,"Provide boarding assistance to elderly, sick, or injured people.",Gross Body Coordination,2,0
+13172,Passenger Attendants,"Provide boarding assistance to elderly, sick, or injured people.",Oral Expression,1,0
+13172,Passenger Attendants,"Provide boarding assistance to elderly, sick, or injured people.",Manual Dexterity,1,0
+13174,Passenger Attendants,"Respond to passengers' questions, requests, or complaints.",Oral Comprehension,3,0
+13174,Passenger Attendants,"Respond to passengers' questions, requests, or complaints.",Oral Expression,3,0
+13174,Passenger Attendants,"Respond to passengers' questions, requests, or complaints.",Speech Recognition,2,0
+13174,Passenger Attendants,"Respond to passengers' questions, requests, or complaints.",Speech Clarity,1,0
+13183,Passenger Attendants,Determine or facilitate seating arrangements.,Spatial Orientation,2,1
+13183,Passenger Attendants,Determine or facilitate seating arrangements.,Deductive Reasoning,1,0
+13183,Passenger Attendants,Determine or facilitate seating arrangements.,Oral Expression,1,0
+13182,Passenger Attendants,"Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",Oral Expression,3,0
+13182,Passenger Attendants,"Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",Oral Comprehension,2,0
+13182,Passenger Attendants,"Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",Memorization,2,0
+13182,Passenger Attendants,"Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",Written Comprehension,1,0
+13176,Passenger Attendants,Perform equipment safety checks prior to departure.,Near Vision,2,0
+13176,Passenger Attendants,Perform equipment safety checks prior to departure.,Selective Attention,2,0
+13176,Passenger Attendants,Perform equipment safety checks prior to departure.,Problem Sensitivity,2,0
+13179,Passenger Attendants,Greet passengers boarding transportation equipment and announce routes and stops.,Oral Expression,3,0
+13179,Passenger Attendants,Greet passengers boarding transportation equipment and announce routes and stops.,Speech Clarity,2,0
+13179,Passenger Attendants,Greet passengers boarding transportation equipment and announce routes and stops.,Memorization,1,0
+13178,Passenger Attendants,Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.,Number Facility,3,0
+13178,Passenger Attendants,Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.,Near Vision,2,0
+13178,Passenger Attendants,Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.,Perceptual Speed,2,0
+13178,Passenger Attendants,Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.,Selective Attention,1,0
+13175,Passenger Attendants,Explain and demonstrate safety procedures and safety equipment use.,Oral Expression,3,0
+13175,Passenger Attendants,Explain and demonstrate safety procedures and safety equipment use.,Oral Comprehension,1,0
+13175,Passenger Attendants,Explain and demonstrate safety procedures and safety equipment use.,Manual Dexterity,1,0
+13175,Passenger Attendants,Explain and demonstrate safety procedures and safety equipment use.,Gross Body Coordination,1,0
+13173,Passenger Attendants,Open and close doors for passengers.,Manual Dexterity,2,0
+13173,Passenger Attendants,Open and close doors for passengers.,Static Strength,1,0
+13173,Passenger Attendants,Open and close doors for passengers.,Gross Body Coordination,1,0
+13177,Passenger Attendants,Signal transportation operators to stop or to proceed.,Response Orientation,2,1
+13177,Passenger Attendants,Signal transportation operators to stop or to proceed.,Reaction Time,2,0
+13177,Passenger Attendants,Signal transportation operators to stop or to proceed.,Manual Dexterity,1,0
+13184,Passenger Attendants,Adjust window shades or seat cushions at the request of passengers.,Manual Dexterity,2,0
+13184,Passenger Attendants,Adjust window shades or seat cushions at the request of passengers.,Finger Dexterity,1,0
+13184,Passenger Attendants,Adjust window shades or seat cushions at the request of passengers.,Arm-Hand Steadiness,1,0
+10748,Conveyor Operators and Tenders,Inform supervisors of equipment malfunctions that need to be addressed.,Oral Expression,3,0
+10748,Conveyor Operators and Tenders,Inform supervisors of equipment malfunctions that need to be addressed.,Oral Comprehension,1,0
+10748,Conveyor Operators and Tenders,Inform supervisors of equipment malfunctions that need to be addressed.,Problem Sensitivity,1,0
+10750,Conveyor Operators and Tenders,"Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.",Selective Attention,3,0
+10750,Conveyor Operators and Tenders,"Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.",Near Vision,2,0
+10750,Conveyor Operators and Tenders,"Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.",Problem Sensitivity,2,0
+10750,Conveyor Operators and Tenders,"Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.",Far Vision,1,0
+10747,Conveyor Operators and Tenders,"Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.",Near Vision,2,0
+10747,Conveyor Operators and Tenders,"Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.",Number Facility,2,0
+10747,Conveyor Operators and Tenders,"Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.",Written Expression,1,0
+10747,Conveyor Operators and Tenders,"Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.",Information Ordering,1,0
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",Static Strength,3,0
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",Dynamic Strength,2,0
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",Manual Dexterity,2,0
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",Multilimb Coordination,2,0
+10757,Conveyor Operators and Tenders,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",Trunk Strength,1,0
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",Manual Dexterity,2,0
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",Static Strength,2,0
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",Multilimb Coordination,2,0
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",Reaction Time,1,0
+10755,Conveyor Operators and Tenders,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",Trunk Strength,1,0
+10760,Conveyor Operators and Tenders,"Distribute materials, supplies, and equipment to work stations, using lifts and trucks.",Static Strength,2,0
+10760,Conveyor Operators and Tenders,"Distribute materials, supplies, and equipment to work stations, using lifts and trucks.",Dynamic Strength,2,0
+10760,Conveyor Operators and Tenders,"Distribute materials, supplies, and equipment to work stations, using lifts and trucks.",Control Precision,1,0
+10760,Conveyor Operators and Tenders,"Distribute materials, supplies, and equipment to work stations, using lifts and trucks.",Gross Body Coordination,1,0
+21030,Conveyor Operators and Tenders,"Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.",Near Vision,3,0
+21030,Conveyor Operators and Tenders,"Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.",Selective Attention,3,0
+21030,Conveyor Operators and Tenders,"Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.",Perceptual Speed,2,0
+21030,Conveyor Operators and Tenders,"Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.",Problem Sensitivity,2,0
+10756,Conveyor Operators and Tenders,"Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.",Manual Dexterity,2,0
+10756,Conveyor Operators and Tenders,"Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.",Near Vision,2,0
+10756,Conveyor Operators and Tenders,"Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.",Problem Sensitivity,1,0
+10756,Conveyor Operators and Tenders,"Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.",Selective Attention,1,0
+10744,Conveyor Operators and Tenders,"Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.",Manual Dexterity,2,0
+10744,Conveyor Operators and Tenders,"Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.",Static Strength,2,0
+10744,Conveyor Operators and Tenders,"Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.",Control Precision,2,0
+10744,Conveyor Operators and Tenders,"Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.",Multilimb Coordination,1,0
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",Manual Dexterity,3,0
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",Finger Dexterity,2,0
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",Arm-Hand Steadiness,1,0
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",Static Strength,1,0
+10753,Conveyor Operators and Tenders,"Repair or replace equipment components or parts such as blades, rolls, and pumps.",Near Vision,1,0
+10746,Conveyor Operators and Tenders,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",Control Precision,3,0
+10746,Conveyor Operators and Tenders,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",Multilimb Coordination,2,0
+10746,Conveyor Operators and Tenders,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",Rate Control,2,0
+10746,Conveyor Operators and Tenders,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",Arm-Hand Steadiness,1,0
+10745,Conveyor Operators and Tenders,"Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads.",Near Vision,3,0
+10745,Conveyor Operators and Tenders,"Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads.",Number Facility,2,0
+10745,Conveyor Operators and Tenders,"Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads.",Perceptual Speed,1,0
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",Written Comprehension,2,0
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",Oral Comprehension,2,0
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",Information Ordering,2,0
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",Oral Expression,1,0
+10752,Conveyor Operators and Tenders,"Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.",Spatial Orientation,1,1
+10764,Conveyor Operators and Tenders,Press console buttons to deflect packages to predetermined accumulators or reject lines.,Reaction Time,3,0
+10764,Conveyor Operators and Tenders,Press console buttons to deflect packages to predetermined accumulators or reject lines.,Control Precision,2,0
+10764,Conveyor Operators and Tenders,Press console buttons to deflect packages to predetermined accumulators or reject lines.,Finger Dexterity,2,0
+10764,Conveyor Operators and Tenders,Press console buttons to deflect packages to predetermined accumulators or reject lines.,Selective Attention,2,0
+10749,Conveyor Operators and Tenders,"Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.",Manual Dexterity,2,0
+10749,Conveyor Operators and Tenders,"Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.",Static Strength,1,0
+10749,Conveyor Operators and Tenders,"Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.",Gross Body Coordination,1,0
+10749,Conveyor Operators and Tenders,"Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.",Stamina,1,0
+10759,Conveyor Operators and Tenders,"Affix identifying information to materials or products, using hand tools.",Manual Dexterity,2,0
+10759,Conveyor Operators and Tenders,"Affix identifying information to materials or products, using hand tools.",Finger Dexterity,2,0
+10759,Conveyor Operators and Tenders,"Affix identifying information to materials or products, using hand tools.",Near Vision,1,0
+10761,Conveyor Operators and Tenders,"Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.",Manual Dexterity,2,0
+10761,Conveyor Operators and Tenders,"Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.",Static Strength,2,0
+10761,Conveyor Operators and Tenders,"Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.",Multilimb Coordination,1,0
+10761,Conveyor Operators and Tenders,"Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.",Arm-Hand Steadiness,1,0
+10766,Conveyor Operators and Tenders,Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.,Manual Dexterity,3,0
+10766,Conveyor Operators and Tenders,Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.,Finger Dexterity,2,0
+10766,Conveyor Operators and Tenders,Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.,Arm-Hand Steadiness,2,0
+10766,Conveyor Operators and Tenders,Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.,Static Strength,1,0
+10754,Conveyor Operators and Tenders,"Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times.",Oral Expression,3,0
+10754,Conveyor Operators and Tenders,"Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times.",Oral Comprehension,1,0
+10754,Conveyor Operators and Tenders,"Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times.",Information Ordering,1,0
+10765,Conveyor Operators and Tenders,"Join sections of conveyor frames at temporary working areas, and connect power units.",Manual Dexterity,2,0
+10765,Conveyor Operators and Tenders,"Join sections of conveyor frames at temporary working areas, and connect power units.",Static Strength,2,0
+10765,Conveyor Operators and Tenders,"Join sections of conveyor frames at temporary working areas, and connect power units.",Multilimb Coordination,1,0
+10765,Conveyor Operators and Tenders,"Join sections of conveyor frames at temporary working areas, and connect power units.",Arm-Hand Steadiness,1,0
+10767,Crane and Tower Operators,Determine load weights and check them against lifting capacities to prevent overload.,Mathematical Reasoning,2,0
+10767,Crane and Tower Operators,Determine load weights and check them against lifting capacities to prevent overload.,Number Facility,2,0
+10767,Crane and Tower Operators,Determine load weights and check them against lifting capacities to prevent overload.,Problem Sensitivity,2,0
+10767,Crane and Tower Operators,Determine load weights and check them against lifting capacities to prevent overload.,Near Vision,1,0
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",Control Precision,3,0
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",Multilimb Coordination,3,0
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",Rate Control,2,0
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",Depth Perception,2,0
+10768,Crane and Tower Operators,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",Response Orientation,1,0
+10771,Crane and Tower Operators,Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.,Near Vision,2,0
+10771,Crane and Tower Operators,Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.,Manual Dexterity,2,0
+10771,Crane and Tower Operators,Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.,Problem Sensitivity,2,0
+10771,Crane and Tower Operators,Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.,Arm-Hand Steadiness,1,0
+10769,Crane and Tower Operators,"Inspect cables or grappling devices for wear and install or replace cables, as needed.",Near Vision,2,0
+10769,Crane and Tower Operators,"Inspect cables or grappling devices for wear and install or replace cables, as needed.",Manual Dexterity,2,0
+10769,Crane and Tower Operators,"Inspect cables or grappling devices for wear and install or replace cables, as needed.",Static Strength,2,0
+10769,Crane and Tower Operators,"Inspect cables or grappling devices for wear and install or replace cables, as needed.",Problem Sensitivity,1,0
+10772,Crane and Tower Operators,Direct helpers engaged in placing blocking or outrigging under cranes.,Oral Expression,3,0
+10772,Crane and Tower Operators,Direct helpers engaged in placing blocking or outrigging under cranes.,Spatial Orientation,1,0
+10772,Crane and Tower Operators,Direct helpers engaged in placing blocking or outrigging under cranes.,Oral Comprehension,1,0
+10770,Crane and Tower Operators,"Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary.",Manual Dexterity,2,0
+10770,Crane and Tower Operators,"Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary.",Static Strength,1,0
+10770,Crane and Tower Operators,"Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs, as necessary.",Arm-Hand Steadiness,1,0
+10773,Crane and Tower Operators,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",Static Strength,2,0
+10773,Crane and Tower Operators,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",Control Precision,2,0
+10773,Crane and Tower Operators,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",Multilimb Coordination,1,0
+10773,Crane and Tower Operators,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",Dynamic Strength,1,0
+10775,Crane and Tower Operators,"Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions.",Written Comprehension,2,0
+10775,Crane and Tower Operators,"Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions.",Information Ordering,2,0
+10775,Crane and Tower Operators,"Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions.",Near Vision,1,0
+10777,Crane and Tower Operators,"Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets.",Near Vision,2,0
+10777,Crane and Tower Operators,"Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets.",Problem Sensitivity,1,0
+10777,Crane and Tower Operators,"Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets.",Manual Dexterity,1,0
+10777,Crane and Tower Operators,"Inspect bundle packaging for conformance to regulations or customer requirements, and remove and batch packaging tickets.",Information Ordering,1,0
+10776,Crane and Tower Operators,"Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",Oral Expression,2,0
+10776,Crane and Tower Operators,"Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",Spatial Orientation,2,0
+10776,Crane and Tower Operators,"Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",Manual Dexterity,1,0
+10776,Crane and Tower Operators,"Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",Static Strength,1,0
+10774,Crane and Tower Operators,"Weigh bundles, using floor scales, and record weights for company records.",Near Vision,2,0
+10774,Crane and Tower Operators,"Weigh bundles, using floor scales, and record weights for company records.",Number Facility,2,0
+10774,Crane and Tower Operators,"Weigh bundles, using floor scales, and record weights for company records.",Static Strength,1,0
+15177,Dredge Operators,"Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.",Control Precision,3,0
+15177,Dredge Operators,"Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.",Multilimb Coordination,3,0
+15177,Dredge Operators,"Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.",Rate Control,2,0
+15177,Dredge Operators,"Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.",Depth Perception,1,0
+15178,Dredge Operators,Start and stop engines to operate equipment.,Control Precision,2,0
+15178,Dredge Operators,Start and stop engines to operate equipment.,Reaction Time,1,0
+15178,Dredge Operators,Start and stop engines to operate equipment.,Manual Dexterity,1,0
+15179,Dredge Operators,"Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.",Control Precision,2,0
+15179,Dredge Operators,"Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.",Static Strength,2,0
+15179,Dredge Operators,"Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.",Multilimb Coordination,1,0
+15179,Dredge Operators,"Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.",Dynamic Strength,1,0
+15180,Dredge Operators,Pump water to clear machinery pipelines.,Control Precision,2,1
+15180,Dredge Operators,Pump water to clear machinery pipelines.,Manual Dexterity,1,0
+15180,Dredge Operators,Pump water to clear machinery pipelines.,Near Vision,1,0
+15181,Dredge Operators,"Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.",Near Vision,2,0
+15181,Dredge Operators,"Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.",Control Precision,2,0
+15181,Dredge Operators,"Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.",Depth Perception,2,0
+15181,Dredge Operators,"Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.",Static Strength,1,0
+15182,Dredge Operators,"Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.",Oral Expression,2,0
+15182,Dredge Operators,"Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.",Static Strength,2,0
+15182,Dredge Operators,"Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.",Multilimb Coordination,1,0
+15182,Dredge Operators,"Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.",Gross Body Coordination,1,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Control Precision,3,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Multilimb Coordination,2,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Reaction Time,2,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Auditory Attention,2,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Rate Control,2,0
+4979,Hoist and Winch Operators,"Move levers, pedals, and throttles to stop, start, and regulate speeds of hoist or winch drums in response to hand, bell, buzzer, telephone, loud-speaker, or whistle signals, or by observing dial indicators or cable marks.",Near Vision,1,0
+4980,Hoist and Winch Operators,Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums.,Control Precision,2,0
+4980,Hoist and Winch Operators,Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums.,Multilimb Coordination,2,0
+4980,Hoist and Winch Operators,Start engines of hoists or winches and use levers and pedals to wind or unwind cable on drums.,Rate Control,1,0
+4981,Hoist and Winch Operators,Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths.,Near Vision,2,0
+4981,Hoist and Winch Operators,Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths.,Selective Attention,2,0
+4981,Hoist and Winch Operators,Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths.,Depth Perception,2,0
+4981,Hoist and Winch Operators,Observe equipment gauges and indicators and hand signals of other workers to verify load positions or depths.,Peripheral Vision,1,0
+4982,Hoist and Winch Operators,"Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips.",Control Precision,3,0
+4982,Hoist and Winch Operators,"Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips.",Multilimb Coordination,2,0
+4982,Hoist and Winch Operators,"Operate compressed air, diesel, electric, gasoline, or steam-driven hoists or winches to control movement of cableways, cages, derricks, draglines, loaders, railcars, or skips.",Rate Control,2,0
+4983,Hoist and Winch Operators,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",Static Strength,3,0
+4983,Hoist and Winch Operators,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",Dynamic Strength,2,0
+4983,Hoist and Winch Operators,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",Trunk Strength,1,0
+4983,Hoist and Winch Operators,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",Gross Body Coordination,1,0
+4984,Hoist and Winch Operators,Select loads or materials according to weight and size specifications.,Deductive Reasoning,2,1
+4984,Hoist and Winch Operators,Select loads or materials according to weight and size specifications.,Number Facility,1,0
+4984,Hoist and Winch Operators,Select loads or materials according to weight and size specifications.,Near Vision,1,0
+4985,Hoist and Winch Operators,Signal and assist other workers loading or unloading materials.,Response Orientation,2,0
+4985,Hoist and Winch Operators,Signal and assist other workers loading or unloading materials.,Static Strength,1,0
+4985,Hoist and Winch Operators,Signal and assist other workers loading or unloading materials.,Gross Body Coordination,1,0
+4985,Hoist and Winch Operators,Signal and assist other workers loading or unloading materials.,Oral Expression,1,0
+4986,Hoist and Winch Operators,"Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools.",Manual Dexterity,3,0
+4986,Hoist and Winch Operators,"Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools.",Finger Dexterity,2,0
+4986,Hoist and Winch Operators,"Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools.",Arm-Hand Steadiness,1,0
+4986,Hoist and Winch Operators,"Attach, fasten, and disconnect cables or lines to loads, materials, and equipment, using hand tools.",Static Strength,1,0
+4987,Hoist and Winch Operators,Apply hand or foot brakes and move levers to lock hoists or winches.,Control Precision,2,0
+4987,Hoist and Winch Operators,Apply hand or foot brakes and move levers to lock hoists or winches.,Multilimb Coordination,2,0
+4987,Hoist and Winch Operators,Apply hand or foot brakes and move levers to lock hoists or winches.,Reaction Time,1,0
+4988,Hoist and Winch Operators,Oil winch drums so that cables will wind smoothly.,Manual Dexterity,2,0
+4988,Hoist and Winch Operators,Oil winch drums so that cables will wind smoothly.,Finger Dexterity,1,0
+4988,Hoist and Winch Operators,Oil winch drums so that cables will wind smoothly.,Near Vision,1,0
+4989,Hoist and Winch Operators,Climb ladders to position and set up vehicle-mounted derricks.,Gross Body Coordination,3,0
+4989,Hoist and Winch Operators,Climb ladders to position and set up vehicle-mounted derricks.,Gross Body Equilibrium,2,0
+4989,Hoist and Winch Operators,Climb ladders to position and set up vehicle-mounted derricks.,Dynamic Strength,1,0
+4989,Hoist and Winch Operators,Climb ladders to position and set up vehicle-mounted derricks.,Extent Flexibility,1,0
+4990,Hoist and Winch Operators,"Repair, maintain, and adjust equipment, using hand tools.",Manual Dexterity,3,0
+4990,Hoist and Winch Operators,"Repair, maintain, and adjust equipment, using hand tools.",Finger Dexterity,2,0
+4990,Hoist and Winch Operators,"Repair, maintain, and adjust equipment, using hand tools.",Arm-Hand Steadiness,1,0
+4990,Hoist and Winch Operators,"Repair, maintain, and adjust equipment, using hand tools.",Static Strength,1,0
+4991,Hoist and Winch Operators,"Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing.",Manual Dexterity,2,0
+4991,Hoist and Winch Operators,"Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing.",Static Strength,1,0
+4991,Hoist and Winch Operators,"Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing.",Near Vision,1,0
+3202,Industrial Truck and Tractor Operators,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",Control Precision,3,0
+3202,Industrial Truck and Tractor Operators,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",Multilimb Coordination,2,0
+3202,Industrial Truck and Tractor Operators,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",Depth Perception,2,0
+3202,Industrial Truck and Tractor Operators,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",Rate Control,1,0
+3201,Industrial Truck and Tractor Operators,"Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.",Control Precision,2,0
+3201,Industrial Truck and Tractor Operators,"Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.",Multilimb Coordination,2,0
+3201,Industrial Truck and Tractor Operators,"Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.",Reaction Time,1,0
+3201,Industrial Truck and Tractor Operators,"Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.",Far Vision,1,0
+15266,Industrial Truck and Tractor Operators,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",Static Strength,3,0
+15266,Industrial Truck and Tractor Operators,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",Dynamic Strength,2,0
+15266,Industrial Truck and Tractor Operators,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",Trunk Strength,1,0
+15266,Industrial Truck and Tractor Operators,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",Gross Body Coordination,1,0
+3203,Industrial Truck and Tractor Operators,"Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.",Control Precision,3,0
+3203,Industrial Truck and Tractor Operators,"Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.",Depth Perception,2,0
+3203,Industrial Truck and Tractor Operators,"Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.",Multilimb Coordination,2,0
+3203,Industrial Truck and Tractor Operators,"Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.",Near Vision,1,0
+15265,Industrial Truck and Tractor Operators,Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.,Near Vision,2,0
+15265,Industrial Truck and Tractor Operators,Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.,Control Precision,2,0
+15265,Industrial Truck and Tractor Operators,Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.,Spatial Orientation,1,1
+15265,Industrial Truck and Tractor Operators,Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.,Selective Attention,1,0
+3206,Industrial Truck and Tractor Operators,Weigh materials or products and record weight or other production data on tags or labels.,Near Vision,2,0
+3206,Industrial Truck and Tractor Operators,Weigh materials or products and record weight or other production data on tags or labels.,Number Facility,2,0
+3206,Industrial Truck and Tractor Operators,Weigh materials or products and record weight or other production data on tags or labels.,Manual Dexterity,1,0
+3205,Industrial Truck and Tractor Operators,"Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank.",Manual Dexterity,2,0
+3205,Industrial Truck and Tractor Operators,"Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank.",Static Strength,1,0
+3205,Industrial Truck and Tractor Operators,"Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank.",Near Vision,1,0
+3207,Industrial Truck and Tractor Operators,"Operate or tend automatic stacking, loading, packaging, or cutting machines.",Control Precision,2,0
+3207,Industrial Truck and Tractor Operators,"Operate or tend automatic stacking, loading, packaging, or cutting machines.",Selective Attention,2,0
+3207,Industrial Truck and Tractor Operators,"Operate or tend automatic stacking, loading, packaging, or cutting machines.",Manual Dexterity,1,0
+3210,Industrial Truck and Tractor Operators,"Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.",Manual Dexterity,2,0
+3210,Industrial Truck and Tractor Operators,"Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.",Static Strength,1,0
+3210,Industrial Truck and Tractor Operators,"Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.",Control Precision,1,0
+4997,Cleaners of Vehicles and Equipment,"Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.",Manual Dexterity,2,0
+4997,Cleaners of Vehicles and Equipment,"Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.",Static Strength,1,0
+4997,Cleaners of Vehicles and Equipment,"Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.",Arm-Hand Steadiness,1,0
+5006,Cleaners of Vehicles and Equipment,"Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.",Manual Dexterity,2,0
+5006,Cleaners of Vehicles and Equipment,"Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.",Arm-Hand Steadiness,2,0
+5006,Cleaners of Vehicles and Equipment,"Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.",Near Vision,1,0
+5006,Cleaners of Vehicles and Equipment,"Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.",Visual Color Discrimination,1,0
+4996,Cleaners of Vehicles and Equipment,Clean and polish vehicle windows.,Manual Dexterity,2,0
+4996,Cleaners of Vehicles and Equipment,Clean and polish vehicle windows.,Arm-Hand Steadiness,1,0
+4996,Cleaners of Vehicles and Equipment,Clean and polish vehicle windows.,Static Strength,1,0
+4998,Cleaners of Vehicles and Equipment,Drive vehicles to or from workshops or customers' workplaces or homes.,Control Precision,2,0
+4998,Cleaners of Vehicles and Equipment,Drive vehicles to or from workshops or customers' workplaces or homes.,Far Vision,2,0
+4998,Cleaners of Vehicles and Equipment,Drive vehicles to or from workshops or customers' workplaces or homes.,Multilimb Coordination,1,0
+4998,Cleaners of Vehicles and Equipment,Drive vehicles to or from workshops or customers' workplaces or homes.,Reaction Time,1,0
+4993,Cleaners of Vehicles and Equipment,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",Manual Dexterity,2,0
+4993,Cleaners of Vehicles and Equipment,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",Static Strength,2,0
+4993,Cleaners of Vehicles and Equipment,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",Dynamic Strength,1,0
+4993,Cleaners of Vehicles and Equipment,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",Stamina,1,0
+4992,Cleaners of Vehicles and Equipment,"Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.",Near Vision,3,0
+4992,Cleaners of Vehicles and Equipment,"Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.",Problem Sensitivity,2,0
+4992,Cleaners of Vehicles and Equipment,"Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.",Selective Attention,1,0
+4994,Cleaners of Vehicles and Equipment,"Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.",Number Facility,2,0
+4994,Cleaners of Vehicles and Equipment,"Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.",Near Vision,1,0
+4994,Cleaners of Vehicles and Equipment,"Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.",Manual Dexterity,1,0
+5005,Cleaners of Vehicles and Equipment,Maintain inventories of supplies.,Number Facility,2,0
+5005,Cleaners of Vehicles and Equipment,Maintain inventories of supplies.,Written Expression,1,0
+5005,Cleaners of Vehicles and Equipment,Maintain inventories of supplies.,Information Ordering,1,0
+5000,Cleaners of Vehicles and Equipment,"Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.",Manual Dexterity,2,0
+5000,Cleaners of Vehicles and Equipment,"Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.",Static Strength,2,0
+5000,Cleaners of Vehicles and Equipment,"Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.",Arm-Hand Steadiness,1,0
+5007,Cleaners of Vehicles and Equipment,"Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",Manual Dexterity,2,0
+5007,Cleaners of Vehicles and Equipment,"Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",Finger Dexterity,1,0
+5007,Cleaners of Vehicles and Equipment,"Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",Static Strength,1,0
+4999,Cleaners of Vehicles and Equipment,"Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.",Manual Dexterity,2,0
+4999,Cleaners of Vehicles and Equipment,"Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.",Control Precision,1,0
+4999,Cleaners of Vehicles and Equipment,"Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.",Finger Dexterity,1,0
+5008,Cleaners of Vehicles and Equipment,"Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.",Static Strength,2,0
+5008,Cleaners of Vehicles and Equipment,"Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.",Dynamic Strength,2,0
+5008,Cleaners of Vehicles and Equipment,"Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.",Trunk Strength,1,0
+5008,Cleaners of Vehicles and Equipment,"Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.",Stamina,1,0
+5002,Cleaners of Vehicles and Equipment,Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.,Selective Attention,2,0
+5002,Cleaners of Vehicles and Equipment,Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.,Near Vision,1,0
+5002,Cleaners of Vehicles and Equipment,Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.,Problem Sensitivity,1,0
+4995,Cleaners of Vehicles and Equipment,Press buttons to activate cleaning equipment or machines.,Finger Dexterity,2,0
+4995,Cleaners of Vehicles and Equipment,Press buttons to activate cleaning equipment or machines.,Reaction Time,1,0
+4995,Cleaners of Vehicles and Equipment,Press buttons to activate cleaning equipment or machines.,Control Precision,1,0
+5004,Cleaners of Vehicles and Equipment,Connect hoses or lines to pumps or other equipment.,Manual Dexterity,2,0
+5004,Cleaners of Vehicles and Equipment,Connect hoses or lines to pumps or other equipment.,Finger Dexterity,1,0
+5004,Cleaners of Vehicles and Equipment,Connect hoses or lines to pumps or other equipment.,Static Strength,1,0
+5011,Cleaners of Vehicles and Equipment,"Clean the plastic work inside cars, using paintbrushes.",Manual Dexterity,2,0
+5011,Cleaners of Vehicles and Equipment,"Clean the plastic work inside cars, using paintbrushes.",Finger Dexterity,1,0
+5011,Cleaners of Vehicles and Equipment,"Clean the plastic work inside cars, using paintbrushes.",Arm-Hand Steadiness,1,0
+5003,Cleaners of Vehicles and Equipment,"Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.",Manual Dexterity,3,0
+5003,Cleaners of Vehicles and Equipment,"Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.",Finger Dexterity,2,0
+5003,Cleaners of Vehicles and Equipment,"Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.",Arm-Hand Steadiness,1,0
+5003,Cleaners of Vehicles and Equipment,"Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.",Static Strength,1,0
+5001,Cleaners of Vehicles and Equipment,"Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.",Manual Dexterity,2,0
+5001,Cleaners of Vehicles and Equipment,"Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.",Finger Dexterity,1,0
+5001,Cleaners of Vehicles and Equipment,"Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.",Arm-Hand Steadiness,1,0
+5009,Cleaners of Vehicles and Equipment,"Transport materials, equipment, or supplies to or from work areas, using carts or hoists.",Static Strength,2,0
+5009,Cleaners of Vehicles and Equipment,"Transport materials, equipment, or supplies to or from work areas, using carts or hoists.",Dynamic Strength,1,0
+5009,Cleaners of Vehicles and Equipment,"Transport materials, equipment, or supplies to or from work areas, using carts or hoists.",Gross Body Coordination,1,0
+5012,Cleaners of Vehicles and Equipment,"Fit boot spoilers, side skirts, or mud flaps to cars.",Manual Dexterity,3,0
+5012,Cleaners of Vehicles and Equipment,"Fit boot spoilers, side skirts, or mud flaps to cars.",Finger Dexterity,2,0
+5012,Cleaners of Vehicles and Equipment,"Fit boot spoilers, side skirts, or mud flaps to cars.",Arm-Hand Steadiness,2,0
+5012,Cleaners of Vehicles and Equipment,"Fit boot spoilers, side skirts, or mud flaps to cars.",Static Strength,1,0
+10789,"Laborers and Freight, Stock, and Material Movers, Hand",Maintain equipment storage areas to ensure that inventory is protected.,Information Ordering,2,0
+10789,"Laborers and Freight, Stock, and Material Movers, Hand",Maintain equipment storage areas to ensure that inventory is protected.,Near Vision,1,0
+10789,"Laborers and Freight, Stock, and Material Movers, Hand",Maintain equipment storage areas to ensure that inventory is protected.,Static Strength,1,0
+10779,"Laborers and Freight, Stock, and Material Movers, Hand",Read work orders or receive oral instructions to determine work assignments or material or equipment needs.,Written Comprehension,3,0
+10779,"Laborers and Freight, Stock, and Material Movers, Hand",Read work orders or receive oral instructions to determine work assignments or material or equipment needs.,Oral Comprehension,2,0
+10779,"Laborers and Freight, Stock, and Material Movers, Hand",Read work orders or receive oral instructions to determine work assignments or material or equipment needs.,Near Vision,1,0
+10781,"Laborers and Freight, Stock, and Material Movers, Hand","Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",Static Strength,3,0
+10781,"Laborers and Freight, Stock, and Material Movers, Hand","Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",Dynamic Strength,2,0
+10781,"Laborers and Freight, Stock, and Material Movers, Hand","Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",Trunk Strength,2,0
+10781,"Laborers and Freight, Stock, and Material Movers, Hand","Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",Stamina,1,0
+10788,"Laborers and Freight, Stock, and Material Movers, Hand","Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported.",Manual Dexterity,2,0
+10788,"Laborers and Freight, Stock, and Material Movers, Hand","Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported.",Static Strength,1,0
+10788,"Laborers and Freight, Stock, and Material Movers, Hand","Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported.",Arm-Hand Steadiness,1,0
+10782,"Laborers and Freight, Stock, and Material Movers, Hand",Sort cargo before loading and unloading.,Near Vision,2,0
+10782,"Laborers and Freight, Stock, and Material Movers, Hand",Sort cargo before loading and unloading.,Static Strength,1,0
+10782,"Laborers and Freight, Stock, and Material Movers, Hand",Sort cargo before loading and unloading.,Selective Attention,1,0
+10778,"Laborers and Freight, Stock, and Material Movers, Hand",Attach identifying tags to containers or mark them with identifying information.,Manual Dexterity,2,0
+10778,"Laborers and Freight, Stock, and Material Movers, Hand",Attach identifying tags to containers or mark them with identifying information.,Near Vision,1,0
+10778,"Laborers and Freight, Stock, and Material Movers, Hand",Attach identifying tags to containers or mark them with identifying information.,Finger Dexterity,1,0
+10780,"Laborers and Freight, Stock, and Material Movers, Hand","Record numbers of units handled or moved, using daily production sheets or work tickets.",Number Facility,2,0
+10780,"Laborers and Freight, Stock, and Material Movers, Hand","Record numbers of units handled or moved, using daily production sheets or work tickets.",Near Vision,1,0
+10780,"Laborers and Freight, Stock, and Material Movers, Hand","Record numbers of units handled or moved, using daily production sheets or work tickets.",Written Expression,1,0
+10790,"Laborers and Freight, Stock, and Material Movers, Hand","Attach slings, hooks, or other devices to lift cargo and guide loads.",Manual Dexterity,2,0
+10790,"Laborers and Freight, Stock, and Material Movers, Hand","Attach slings, hooks, or other devices to lift cargo and guide loads.",Static Strength,2,0
+10790,"Laborers and Freight, Stock, and Material Movers, Hand","Attach slings, hooks, or other devices to lift cargo and guide loads.",Arm-Hand Steadiness,1,0
+10790,"Laborers and Freight, Stock, and Material Movers, Hand","Attach slings, hooks, or other devices to lift cargo and guide loads.",Multilimb Coordination,1,0
+10787,"Laborers and Freight, Stock, and Material Movers, Hand",Carry needed tools or supplies from storage or trucks and return them after use.,Static Strength,2,0
+10787,"Laborers and Freight, Stock, and Material Movers, Hand",Carry needed tools or supplies from storage or trucks and return them after use.,Dynamic Strength,1,0
+10787,"Laborers and Freight, Stock, and Material Movers, Hand",Carry needed tools or supplies from storage or trucks and return them after use.,Trunk Strength,1,0
+10786,"Laborers and Freight, Stock, and Material Movers, Hand",Pack containers and re-pack damaged containers.,Manual Dexterity,2,0
+10786,"Laborers and Freight, Stock, and Material Movers, Hand",Pack containers and re-pack damaged containers.,Static Strength,1,0
+10786,"Laborers and Freight, Stock, and Material Movers, Hand",Pack containers and re-pack damaged containers.,Multilimb Coordination,1,0
+10783,"Laborers and Freight, Stock, and Material Movers, Hand","Assemble product containers or crates, using hand tools and precut lumber.",Manual Dexterity,2,0
+10783,"Laborers and Freight, Stock, and Material Movers, Hand","Assemble product containers or crates, using hand tools and precut lumber.",Static Strength,2,0
+10783,"Laborers and Freight, Stock, and Material Movers, Hand","Assemble product containers or crates, using hand tools and precut lumber.",Multilimb Coordination,1,0
+10783,"Laborers and Freight, Stock, and Material Movers, Hand","Assemble product containers or crates, using hand tools and precut lumber.",Arm-Hand Steadiness,1,0
+10792,"Laborers and Freight, Stock, and Material Movers, Hand","Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",Control Precision,3,0
+10792,"Laborers and Freight, Stock, and Material Movers, Hand","Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",Multilimb Coordination,2,0
+10792,"Laborers and Freight, Stock, and Material Movers, Hand","Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",Depth Perception,1,0
+10796,"Laborers and Freight, Stock, and Material Movers, Hand",Connect electrical equipment to power sources so that it can be tested before use.,Manual Dexterity,2,0
+10796,"Laborers and Freight, Stock, and Material Movers, Hand",Connect electrical equipment to power sources so that it can be tested before use.,Finger Dexterity,2,0
+10796,"Laborers and Freight, Stock, and Material Movers, Hand",Connect electrical equipment to power sources so that it can be tested before use.,Near Vision,1,0
+17872,Recycling and Reclamation Workers,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",Near Vision,2,0
+17872,Recycling and Reclamation Workers,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",Manual Dexterity,1,0
+17872,Recycling and Reclamation Workers,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",Selective Attention,1,0
+17872,Recycling and Reclamation Workers,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",Visual Color Discrimination,1,1
+17884,Recycling and Reclamation Workers,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",Static Strength,2,0
+17884,Recycling and Reclamation Workers,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",Dynamic Strength,1,0
+17884,Recycling and Reclamation Workers,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",Trunk Strength,1,0
+17884,Recycling and Reclamation Workers,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",Stamina,1,0
+17878,Recycling and Reclamation Workers,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",Control Precision,3,0
+17878,Recycling and Reclamation Workers,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",Multilimb Coordination,2,0
+17878,Recycling and Reclamation Workers,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",Depth Perception,2,0
+17878,Recycling and Reclamation Workers,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",Static Strength,1,0
+17882,Recycling and Reclamation Workers,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",Near Vision,2,0
+17882,Recycling and Reclamation Workers,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",Visual Color Discrimination,2,0
+17882,Recycling and Reclamation Workers,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",Manual Dexterity,1,0
+17882,Recycling and Reclamation Workers,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",Selective Attention,1,0
+17886,Recycling and Reclamation Workers,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",Manual Dexterity,2,0
+17886,Recycling and Reclamation Workers,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",Near Vision,1,0
+17886,Recycling and Reclamation Workers,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",Finger Dexterity,1,0
+17886,Recycling and Reclamation Workers,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",Static Strength,1,0
+17885,Recycling and Reclamation Workers,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",Static Strength,2,0
+17885,Recycling and Reclamation Workers,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",Near Vision,1,0
+17885,Recycling and Reclamation Workers,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",Manual Dexterity,1,0
+17885,Recycling and Reclamation Workers,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",Selective Attention,1,0

@@ -1,0 +1,801 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Deductive Reasoning,2,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Information Ordering,3,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Problem Sensitivity,2,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Oral Comprehension,2,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Oral Expression,2,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Written Comprehension,2,0
+1357,Electrical Engineers,Oversee project production efforts to assure projects are completed on time and within budget.,Time Sharing,2,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Oral Expression,3,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Oral Comprehension,2,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Deductive Reasoning,2,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Information Ordering,3,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Written Comprehension,2,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Problem Sensitivity,2,0
+1350,Electrical Engineers,"Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.",Time Sharing,2,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Mathematical Reasoning,3,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Number Facility,3,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Deductive Reasoning,3,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Written Expression,2,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Problem Sensitivity,2,0
+1351,Electrical Engineers,"Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.",Information Ordering,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Finger Dexterity,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Wrist-Finger Speed,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Near Vision,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Deductive Reasoning,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Visualization,3,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Selective Attention,2,0
+1349,Electrical Engineers,Operate computer-assisted engineering or design software or equipment to perform engineering tasks.,Spatial Orientation,2,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Oral Comprehension,3,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Oral Expression,3,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Speech Recognition,2,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Speech Clarity,2,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Deductive Reasoning,2,0
+1347,Electrical Engineers,"Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.",Written Comprehension,1,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Deductive Reasoning,2,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Inductive Reasoning,2,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Problem Sensitivity,2,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Near Vision,2,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Selective Attention,2,0
+1356,Electrical Engineers,Investigate or test vendors' or competitors' products.,Written Comprehension,1,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Near Vision,3,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Far Vision,2,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Deductive Reasoning,2,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Problem Sensitivity,3,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Selective Attention,3,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Written Comprehension,2,0
+20731,Electrical Engineers,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",Perceptual Speed,2,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Oral Comprehension,3,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Oral Expression,2,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Inductive Reasoning,3,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Problem Sensitivity,3,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Deductive Reasoning,2,0
+20730,Electrical Engineers,Investigate customer or public complaints to determine the nature and extent of problems.,Written Comprehension,2,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Visualization,3,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Spatial Orientation,3,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Near Vision,2,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Written Expression,3,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Deductive Reasoning,2,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Finger Dexterity,2,0
+1358,Electrical Engineers,"Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.",Arm-Hand Steadiness,2,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Written Expression,3,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Information Ordering,2,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Number Facility,2,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Deductive Reasoning,2,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Written Comprehension,2,0
+1363,Electrical Engineers,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,Mathematical Reasoning,1,0
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,Written Expression,3,0
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,Deductive Reasoning,2,0
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,Written Comprehension,2,0
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,Information Ordering,2,0
+1354,Electrical Engineers,Prepare specifications for purchases of materials or equipment.,Number Facility,1,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Mathematical Reasoning,3,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Number Facility,3,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Deductive Reasoning,2,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Inductive Reasoning,2,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Written Expression,2,0
+20729,Electrical Engineers,"Estimate labor, material, or construction costs for budget preparation purposes.",Information Ordering,2,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Deductive Reasoning,3,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Inductive Reasoning,3,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Originality,2,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Information Ordering,2,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Problem Sensitivity,2,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Fluency of Ideas,2,0
+1353,Electrical Engineers,Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.,Written Comprehension,2,0
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",Oral Expression,3,0
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",Oral Comprehension,2,0
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",Speech Clarity,2,0
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",Information Ordering,2,0
+1355,Electrical Engineers,"Supervise or train project team members, as necessary.",Written Comprehension,1,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Deductive Reasoning,2,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Inductive Reasoning,2,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Mathematical Reasoning,2,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Written Expression,2,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Information Ordering,2,0
+1361,Electrical Engineers,Assist in developing capital project programs for new equipment or major repairs.,Problem Sensitivity,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Number Facility,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Mathematical Reasoning,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Inductive Reasoning,3,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Deductive Reasoning,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Information Ordering,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Written Comprehension,2,0
+1364,Electrical Engineers,"Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.",Perceptual Speed,2,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Deductive Reasoning,3,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Inductive Reasoning,2,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Visualization,3,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Originality,2,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Problem Sensitivity,2,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Mathematical Reasoning,2,0
+19618,Electrical Engineers,"Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.",Fluency of Ideas,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Deductive Reasoning,3,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Inductive Reasoning,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Visualization,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Problem Sensitivity,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Finger Dexterity,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Near Vision,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Written Expression,2,0
+23956,Electrical Engineers,Develop software to control electrical systems.,Mathematical Reasoning,2,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Deductive Reasoning,3,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Inductive Reasoning,3,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Visualization,3,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Problem Sensitivity,2,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Mathematical Reasoning,2,0
+19619,Electrical Engineers,Integrate electrical systems with renewable energy systems to improve overall efficiency.,Information Ordering,2,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Near Vision,2,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Far Vision,2,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Deductive Reasoning,3,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Inductive Reasoning,2,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Problem Sensitivity,3,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Spatial Orientation,2,0
+1365,Electrical Engineers,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",Information Ordering,2,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Deductive Reasoning,3,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Inductive Reasoning,2,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Visualization,3,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Spatial Orientation,2,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Originality,2,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Mathematical Reasoning,2,0
+19617,Electrical Engineers,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",Problem Sensitivity,2,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Deductive Reasoning,3,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Inductive Reasoning,2,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Visualization,3,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Originality,3,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Problem Sensitivity,2,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Mathematical Reasoning,2,0
+5339,"Electronics Engineers, Except Computer","Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",Fluency of Ideas,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Finger Dexterity,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Wrist-Finger Speed,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Near Vision,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Visualization,3,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Deductive Reasoning,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Selective Attention,2,0
+20497,"Electronics Engineers, Except Computer",Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.,Spatial Orientation,2,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Deductive Reasoning,3,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Inductive Reasoning,3,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Problem Sensitivity,3,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Written Comprehension,2,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Information Ordering,2,0
+20494,"Electronics Engineers, Except Computer","Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.",Mathematical Reasoning,2,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Oral Expression,3,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Information Ordering,3,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Deductive Reasoning,2,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Written Comprehension,2,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Problem Sensitivity,2,0
+5349,"Electronics Engineers, Except Computer","Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.",Time Sharing,2,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Oral Comprehension,3,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Oral Expression,3,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Speech Recognition,2,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Speech Clarity,2,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Deductive Reasoning,2,0
+20496,"Electronics Engineers, Except Computer","Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.",Written Comprehension,1,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Oral Expression,3,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Oral Comprehension,2,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Speech Clarity,2,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Speech Recognition,2,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Deductive Reasoning,2,0
+20499,"Electronics Engineers, Except Computer",Provide technical support or instruction to staff or customers regarding electronics equipment standards.,Written Comprehension,2,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Deductive Reasoning,3,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Inductive Reasoning,3,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Problem Sensitivity,3,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Fluency of Ideas,2,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Written Expression,2,0
+20498,"Electronics Engineers, Except Computer","Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.",Oral Expression,2,0
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",Written Expression,3,0
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",Information Ordering,2,0
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",Written Comprehension,2,0
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",Deductive Reasoning,2,0
+5348,"Electronics Engineers, Except Computer","Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.",Number Facility,2,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Deductive Reasoning,3,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Inductive Reasoning,2,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Problem Sensitivity,2,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Information Ordering,3,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Written Expression,2,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Near Vision,2,0
+5350,"Electronics Engineers, Except Computer","Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.",Selective Attention,2,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Deductive Reasoning,3,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Inductive Reasoning,3,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Mathematical Reasoning,2,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Number Facility,2,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Written Comprehension,2,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Problem Sensitivity,2,0
+20495,"Electronics Engineers, Except Computer","Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",Information Ordering,2,0
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",Written Expression,3,0
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",Information Ordering,3,0
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",Written Comprehension,2,0
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",Deductive Reasoning,2,0
+5354,"Electronics Engineers, Except Computer","Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",Perceptual Speed,2,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Near Vision,3,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Problem Sensitivity,3,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Deductive Reasoning,2,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Selective Attention,3,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Perceptual Speed,2,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Written Comprehension,2,0
+5346,"Electronics Engineers, Except Computer","Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.",Visual Color Discrimination,1,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Deductive Reasoning,2,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Inductive Reasoning,2,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Mathematical Reasoning,2,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Information Ordering,2,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Written Comprehension,2,0
+20493,"Electronics Engineers, Except Computer",Determine project material or equipment needs.,Number Facility,2,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Written Expression,3,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Deductive Reasoning,3,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Information Ordering,3,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Problem Sensitivity,2,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Written Comprehension,2,0
+5355,"Electronics Engineers, Except Computer","Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",Fluency of Ideas,2,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Deductive Reasoning,3,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Inductive Reasoning,2,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Originality,3,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Visualization,2,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Problem Sensitivity,2,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Fluency of Ideas,2,0
+5351,"Electronics Engineers, Except Computer","Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.",Mathematical Reasoning,2,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Visualization,3,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Spatial Orientation,3,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Written Expression,2,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Near Vision,2,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Deductive Reasoning,2,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Finger Dexterity,2,0
+5352,"Electronics Engineers, Except Computer","Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.",Arm-Hand Steadiness,2,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Mathematical Reasoning,3,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Number Facility,3,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Deductive Reasoning,2,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Written Expression,2,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Information Ordering,2,0
+20500,"Electronics Engineers, Except Computer","Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.",Inductive Reasoning,1,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Inductive Reasoning,3,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Deductive Reasoning,2,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Problem Sensitivity,2,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Originality,2,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Written Comprehension,2,0
+19621,"Electronics Engineers, Except Computer","Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",Fluency of Ideas,2,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Oral Expression,3,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Oral Comprehension,3,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Speech Clarity,2,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Speech Recognition,2,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Deductive Reasoning,2,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Written Comprehension,2,0
+5357,"Electronics Engineers, Except Computer","Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.",Fluency of Ideas,2,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Inductive Reasoning,3,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Deductive Reasoning,2,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Originality,3,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Fluency of Ideas,2,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Problem Sensitivity,2,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Written Comprehension,2,0
+19623,"Electronics Engineers, Except Computer","Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",Visualization,2,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Inductive Reasoning,3,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Deductive Reasoning,2,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Problem Sensitivity,2,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Written Comprehension,2,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Written Expression,2,0
+16363,Radio Frequency Identification Device Specialists,Identify operational requirements for new systems to inform selection of technological solutions.,Information Ordering,2,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Deductive Reasoning,3,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Visualization,3,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Inductive Reasoning,2,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Finger Dexterity,2,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Manual Dexterity,2,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Near Vision,2,0
+16370,Radio Frequency Identification Device Specialists,"Integrate tags, readers, or software in radio frequency identification device (RFID) designs.",Problem Sensitivity,2,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Deductive Reasoning,3,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Inductive Reasoning,3,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Problem Sensitivity,2,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Mathematical Reasoning,2,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Written Comprehension,2,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Finger Dexterity,2,0
+16354,Radio Frequency Identification Device Specialists,Perform systems analysis or programming of radio frequency identification device (RFID) technology.,Near Vision,2,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Deductive Reasoning,2,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Inductive Reasoning,2,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Problem Sensitivity,3,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Selective Attention,3,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Near Vision,2,0
+16359,Radio Frequency Identification Device Specialists,Test radio frequency identification device (RFID) software to ensure proper functioning.,Written Comprehension,2,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Deductive Reasoning,3,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Inductive Reasoning,2,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Spatial Orientation,2,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Near Vision,2,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Problem Sensitivity,2,0
+16360,Radio Frequency Identification Device Specialists,Select appropriate radio frequency identification device (RFID) tags and determine placement locations.,Category Flexibility,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Inductive Reasoning,3,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Deductive Reasoning,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Problem Sensitivity,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Spatial Orientation,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Far Vision,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Near Vision,2,0
+16361,Radio Frequency Identification Device Specialists,"Perform site analyses to determine system configurations, processes to be impacted, or on-site obstacles to technology implementation.",Information Ordering,2,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Deductive Reasoning,2,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Problem Sensitivity,3,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Selective Attention,3,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Near Vision,2,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Written Comprehension,2,0
+16362,Radio Frequency Identification Device Specialists,Perform acceptance testing on newly installed or updated systems.,Information Ordering,2,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Deductive Reasoning,3,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Inductive Reasoning,3,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Visualization,2,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Problem Sensitivity,2,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Originality,2,0
+16366,Radio Frequency Identification Device Specialists,Determine means of integrating radio frequency identification device (RFID) into other applications.,Fluency of Ideas,2,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Oral Comprehension,2,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Oral Expression,3,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Deductive Reasoning,2,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Problem Sensitivity,2,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Speech Clarity,2,0
+16353,Radio Frequency Identification Device Specialists,Provide technical support for radio frequency identification device (RFID) technology.,Written Comprehension,2,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Inductive Reasoning,3,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Written Comprehension,2,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Information Ordering,2,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Deductive Reasoning,2,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Oral Comprehension,2,0
+16371,Radio Frequency Identification Device Specialists,"Collect data about existing client hardware, software, networking, or key business processes to inform implementation of radio frequency identification device (RFID) technology.",Perceptual Speed,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Manual Dexterity,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Finger Dexterity,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Near Vision,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Deductive Reasoning,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Problem Sensitivity,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Selective Attention,2,0
+16369,Radio Frequency Identification Device Specialists,"Install, test, or maintain radio frequency identification device (RFID) systems.",Arm-Hand Steadiness,2,0
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,Near Vision,3,0
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,Selective Attention,3,0
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,Deductive Reasoning,2,0
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,Problem Sensitivity,2,0
+16358,Radio Frequency Identification Device Specialists,Test tags or labels to ensure readability.,Perceptual Speed,2,0
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,Inductive Reasoning,3,0
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,Deductive Reasoning,3,0
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,Problem Sensitivity,2,0
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,Written Comprehension,2,0
+16364,Radio Frequency Identification Device Specialists,Determine usefulness of new radio frequency identification device (RFID) technologies.,Category Flexibility,2,0
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,Deductive Reasoning,3,0
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,Written Comprehension,2,0
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,Selective Attention,2,0
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,Problem Sensitivity,2,0
+16351,Radio Frequency Identification Device Specialists,Verify compliance of developed applications with architectural standards and established practices.,Information Ordering,2,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Oral Expression,3,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Oral Comprehension,2,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Speech Clarity,2,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Speech Recognition,2,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Information Ordering,2,0
+16356,Radio Frequency Identification Device Specialists,Train users in details of system operation.,Written Comprehension,1,0
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",Written Expression,3,0
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",Information Ordering,3,0
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",Deductive Reasoning,2,0
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",Fluency of Ideas,2,0
+16365,Radio Frequency Identification Device Specialists,"Develop process flows, work instructions, or standard operating procedures for radio frequency identification device (RFID) systems.",Written Comprehension,2,0
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",Written Comprehension,3,0
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",Oral Comprehension,2,0
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",Speech Recognition,2,0
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",Inductive Reasoning,2,0
+16352,Radio Frequency Identification Device Specialists,"Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of industry research about new technologies.",Memorization,2,0
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,Written Expression,3,0
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,Information Ordering,2,0
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,Written Comprehension,2,0
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,Near Vision,2,0
+16355,Radio Frequency Identification Device Specialists,Document equipment or process details of radio frequency identification device (RFID) technology.,Deductive Reasoning,2,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Deductive Reasoning,3,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Inductive Reasoning,3,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Category Flexibility,3,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Problem Sensitivity,2,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Written Expression,2,0
+16367,Radio Frequency Identification Device Specialists,Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.,Written Comprehension,2,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Deductive Reasoning,3,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Mathematical Reasoning,2,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Visualization,3,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Originality,2,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Inductive Reasoning,2,0
+16368,Radio Frequency Identification Device Specialists,Create simulations or models of radio frequency identification device (RFID) systems to provide information for selection and configuration.,Problem Sensitivity,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Inductive Reasoning,3,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Deductive Reasoning,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Mathematical Reasoning,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Number Facility,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Information Ordering,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Written Comprehension,2,0
+16357,Radio Frequency Identification Device Specialists,Analyze radio frequency identification device (RFID)-related supply chain data.,Perceptual Speed,2,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Deductive Reasoning,3,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Visualization,3,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Inductive Reasoning,2,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Originality,2,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Problem Sensitivity,2,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Mathematical Reasoning,2,0
+15210,Environmental Engineers,"Design, or supervise the design of, systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",Written Comprehension,2,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Inductive Reasoning,3,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Deductive Reasoning,3,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Problem Sensitivity,3,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Written Comprehension,2,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Mathematical Reasoning,2,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Written Expression,2,0
+1377,Environmental Engineers,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",Spatial Orientation,2,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Oral Comprehension,3,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Oral Expression,3,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Speech Recognition,2,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Speech Clarity,2,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Deductive Reasoning,2,0
+20195,Environmental Engineers,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",Problem Sensitivity,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Oral Expression,3,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Written Expression,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Deductive Reasoning,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Written Comprehension,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Speech Clarity,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Problem Sensitivity,2,0
+1374,Environmental Engineers,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,Information Ordering,2,0
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,Written Expression,3,0
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,Oral Expression,2,0
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,Information Ordering,2,0
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,Deductive Reasoning,2,0
+1373,Environmental Engineers,Develop proposed project objectives and targets and report to management on progress in attaining them.,Number Facility,2,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Deductive Reasoning,2,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Problem Sensitivity,3,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Selective Attention,2,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Written Comprehension,2,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Information Ordering,2,0
+1370,Environmental Engineers,Monitor progress of environmental improvement programs.,Written Expression,2,0
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",Written Expression,3,0
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",Written Comprehension,3,0
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",Deductive Reasoning,2,0
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",Inductive Reasoning,2,0
+1366,Environmental Engineers,"Prepare, review, or update environmental investigation or recommendation reports.",Information Ordering,2,0
+20197,Environmental Engineers,"Prepare, maintain, or revise quality assurance documentation or procedures.",Written Expression,3,0
+20197,Environmental Engineers,"Prepare, maintain, or revise quality assurance documentation or procedures.",Information Ordering,3,0
+20197,Environmental Engineers,"Prepare, maintain, or revise quality assurance documentation or procedures.",Written Comprehension,2,0
+20197,Environmental Engineers,"Prepare, maintain, or revise quality assurance documentation or procedures.",Deductive Reasoning,2,0
+20197,Environmental Engineers,"Prepare, maintain, or revise quality assurance documentation or procedures.",Selective Attention,2,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Deductive Reasoning,3,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Inductive Reasoning,2,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Problem Sensitivity,3,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Written Expression,3,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Fluency of Ideas,2,0
+1379,Environmental Engineers,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",Information Ordering,2,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Deductive Reasoning,3,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Written Comprehension,3,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Oral Expression,2,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Problem Sensitivity,2,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Written Expression,2,0
+1369,Environmental Engineers,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",Inductive Reasoning,2,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Oral Expression,3,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Oral Comprehension,2,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Speech Clarity,3,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Written Expression,2,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Deductive Reasoning,2,0
+19625,Environmental Engineers,Prepare or present public briefings on the status of environmental engineering projects.,Fluency of Ideas,2,0
+1378,Environmental Engineers,"Assist in budget implementation, forecasts, or administration.",Mathematical Reasoning,2,0
+1378,Environmental Engineers,"Assist in budget implementation, forecasts, or administration.",Number Facility,2,0
+1378,Environmental Engineers,"Assist in budget implementation, forecasts, or administration.",Deductive Reasoning,2,0
+1378,Environmental Engineers,"Assist in budget implementation, forecasts, or administration.",Written Comprehension,2,0
+1378,Environmental Engineers,"Assist in budget implementation, forecasts, or administration.",Information Ordering,2,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Oral Expression,2,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Information Ordering,3,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Deductive Reasoning,2,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Problem Sensitivity,2,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Time Sharing,2,0
+1380,Environmental Engineers,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",Written Comprehension,2,0
+1375,Environmental Engineers,Advise industries or government agencies about environmental policies and standards.,Oral Expression,3,0
+1375,Environmental Engineers,Advise industries or government agencies about environmental policies and standards.,Written Expression,2,0
+1375,Environmental Engineers,Advise industries or government agencies about environmental policies and standards.,Deductive Reasoning,2,0
+1375,Environmental Engineers,Advise industries or government agencies about environmental policies and standards.,Written Comprehension,2,0
+1375,Environmental Engineers,Advise industries or government agencies about environmental policies and standards.,Speech Clarity,2,0
+1368,Environmental Engineers,"Obtain, update, or maintain plans, permits, or standard operating procedures.",Written Comprehension,3,0
+1368,Environmental Engineers,"Obtain, update, or maintain plans, permits, or standard operating procedures.",Written Expression,2,0
+1368,Environmental Engineers,"Obtain, update, or maintain plans, permits, or standard operating procedures.",Information Ordering,2,0
+1368,Environmental Engineers,"Obtain, update, or maintain plans, permits, or standard operating procedures.",Deductive Reasoning,2,0
+1368,Environmental Engineers,"Obtain, update, or maintain plans, permits, or standard operating procedures.",Selective Attention,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Oral Expression,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Deductive Reasoning,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Information Ordering,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Problem Sensitivity,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Near Vision,2,0
+19624,Environmental Engineers,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,Selective Attention,2,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Deductive Reasoning,2,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Problem Sensitivity,3,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Near Vision,2,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Far Vision,2,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Written Comprehension,2,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Selective Attention,3,0
+1371,Environmental Engineers,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,Written Expression,2,0
+1389,Environmental Engineers,Request bids from suppliers or consultants.,Written Expression,2,0
+1389,Environmental Engineers,Request bids from suppliers or consultants.,Written Comprehension,2,0
+1389,Environmental Engineers,Request bids from suppliers or consultants.,Oral Expression,2,0
+1389,Environmental Engineers,Request bids from suppliers or consultants.,Deductive Reasoning,2,0
+1389,Environmental Engineers,Request bids from suppliers or consultants.,Information Ordering,2,0
+1376,Environmental Engineers,Inform company employees or other interested parties of environmental issues.,Oral Expression,3,0
+1376,Environmental Engineers,Inform company employees or other interested parties of environmental issues.,Speech Clarity,2,0
+1376,Environmental Engineers,Inform company employees or other interested parties of environmental issues.,Written Expression,2,0
+1376,Environmental Engineers,Inform company employees or other interested parties of environmental issues.,Oral Comprehension,2,0
+1376,Environmental Engineers,Inform company employees or other interested parties of environmental issues.,Deductive Reasoning,1,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Oral Expression,3,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Oral Comprehension,3,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Speech Clarity,2,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Speech Recognition,2,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Written Comprehension,2,0
+1381,Environmental Engineers,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",Deductive Reasoning,2,0
+1372,Environmental Engineers,"Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties.",Written Expression,2,0
+1372,Environmental Engineers,"Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties.",Information Ordering,2,0
+1372,Environmental Engineers,"Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties.",Oral Expression,2,0
+1372,Environmental Engineers,"Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties.",Written Comprehension,2,0
+1372,Environmental Engineers,"Provide administrative support for projects by collecting data, providing project documentation, training staff, or performing other general administrative duties.",Time Sharing,2,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Deductive Reasoning,3,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Inductive Reasoning,2,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Mathematical Reasoning,2,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Written Comprehension,2,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Problem Sensitivity,2,0
+1390,Environmental Engineers,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",Information Ordering,2,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Oral Expression,3,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Speech Clarity,3,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Written Expression,2,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Information Ordering,2,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Deductive Reasoning,2,0
+1385,Environmental Engineers,Develop or present environmental compliance training or orientation sessions.,Fluency of Ideas,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Deductive Reasoning,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Problem Sensitivity,3,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Near Vision,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Selective Attention,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Information Ordering,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Oral Comprehension,2,0
+20196,Environmental Engineers,"Provide assistance with planning, quality assurance, safety inspection protocols, or sampling as part of a team conducting multimedia inspections at complex facilities.",Oral Expression,2,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Deductive Reasoning,2,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Inductive Reasoning,2,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Problem Sensitivity,2,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Information Ordering,3,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Written Expression,2,0
+1387,Environmental Engineers,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",Written Comprehension,2,0
+1383,Environmental Engineers,Prepare hazardous waste manifests or land disposal restriction notifications.,Written Expression,3,0
+1383,Environmental Engineers,Prepare hazardous waste manifests or land disposal restriction notifications.,Deductive Reasoning,2,0
+1383,Environmental Engineers,Prepare hazardous waste manifests or land disposal restriction notifications.,Written Comprehension,2,0
+1383,Environmental Engineers,Prepare hazardous waste manifests or land disposal restriction notifications.,Information Ordering,2,0
+1383,Environmental Engineers,Prepare hazardous waste manifests or land disposal restriction notifications.,Selective Attention,2,0
+23987,Environmental Engineers,Attend professional conferences to share information.,Oral Comprehension,3,0
+23987,Environmental Engineers,Attend professional conferences to share information.,Oral Expression,2,0
+23987,Environmental Engineers,Attend professional conferences to share information.,Speech Recognition,2,0
+23987,Environmental Engineers,Attend professional conferences to share information.,Speech Clarity,2,0
+23987,Environmental Engineers,Attend professional conferences to share information.,Written Comprehension,1,0
+19626,Environmental Engineers,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,Written Expression,3,0
+19626,Environmental Engineers,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,Written Comprehension,2,0
+19626,Environmental Engineers,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,Fluency of Ideas,2,0
+19626,Environmental Engineers,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,Originality,2,0
+19626,Environmental Engineers,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,Deductive Reasoning,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Inductive Reasoning,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Deductive Reasoning,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Problem Sensitivity,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Near Vision,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Manual Dexterity,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Finger Dexterity,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Category Flexibility,2,0
+1388,Environmental Engineers,"Assess, sort, characterize, or pack known or unknown materials.",Visual Color Discrimination,2,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Inductive Reasoning,3,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Deductive Reasoning,3,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Problem Sensitivity,3,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Written Comprehension,2,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Near Vision,2,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Far Vision,2,0
+21860,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures.",Written Expression,2,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Inductive Reasoning,3,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Deductive Reasoning,2,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Problem Sensitivity,3,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Mathematical Reasoning,2,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Written Comprehension,2,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Written Expression,2,0
+21861,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Conduct research to evaluate safety levels for products.,Selective Attention,2,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Deductive Reasoning,3,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Inductive Reasoning,2,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Problem Sensitivity,3,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Near Vision,2,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Visualization,2,0
+21862,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate product designs for safety.,Written Comprehension,2,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Oral Expression,3,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Speech Clarity,2,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Information Ordering,2,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Written Comprehension,2,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Oral Comprehension,2,0
+21863,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment.",Deductive Reasoning,2,0
+21864,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain and apply knowledge of current policies, regulations, and industrial processes.",Written Comprehension,3,0
+21864,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain and apply knowledge of current policies, regulations, and industrial processes.",Deductive Reasoning,3,0
+21864,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain and apply knowledge of current policies, regulations, and industrial processes.",Memorization,2,0
+21864,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain and apply knowledge of current policies, regulations, and industrial processes.",Information Ordering,2,0
+21864,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain and apply knowledge of current policies, regulations, and industrial processes.",Inductive Reasoning,2,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Deductive Reasoning,3,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Inductive Reasoning,2,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Problem Sensitivity,3,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Written Expression,2,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Oral Expression,2,0
+21865,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards.",Fluency of Ideas,2,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Written Expression,3,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Written Comprehension,2,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Deductive Reasoning,2,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Inductive Reasoning,2,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Information Ordering,2,0
+21866,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Report or review findings from accident investigations, facilities inspections, or environmental testing.",Problem Sensitivity,2,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Inductive Reasoning,3,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Deductive Reasoning,3,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Problem Sensitivity,3,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Written Comprehension,2,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Visualization,2,0
+21867,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate potential health hazards or damage that could occur from product misuse.,Category Flexibility,2,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Deductive Reasoning,3,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Inductive Reasoning,2,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Problem Sensitivity,2,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Written Comprehension,2,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Written Expression,2,0
+21868,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Evaluate adequacy of actions taken to correct health inspection violations.,Selective Attention,2,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Oral Expression,3,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Oral Comprehension,2,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Speech Clarity,2,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Deductive Reasoning,3,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Written Comprehension,2,0
+21869,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors.",Written Expression,2,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Written Comprehension,3,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Deductive Reasoning,3,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Near Vision,2,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Problem Sensitivity,2,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Visualization,2,0
+21870,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met.,Selective Attention,2,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Written Expression,3,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Written Comprehension,2,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Deductive Reasoning,2,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Fluency of Ideas,2,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Oral Comprehension,2,0
+21871,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Participate in preparation of product usage and precautionary label instructions.,Information Ordering,2,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Oral Comprehension,3,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Oral Expression,3,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Speech Recognition,2,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Speech Clarity,2,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Inductive Reasoning,2,0
+21872,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Interview employers and employees to obtain information about work environments and workplace incidents.,Problem Sensitivity,2,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Oral Expression,3,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Speech Clarity,3,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Deductive Reasoning,3,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Oral Comprehension,2,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Written Comprehension,2,0
+21873,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide expert testimony in litigation cases.,Fluency of Ideas,2,0
+21874,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review employee safety programs to determine their adequacy.,Written Comprehension,3,0
+21874,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review employee safety programs to determine their adequacy.,Deductive Reasoning,3,0
+21874,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review employee safety programs to determine their adequacy.,Inductive Reasoning,2,0
+21874,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review employee safety programs to determine their adequacy.,Problem Sensitivity,2,0
+21874,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Review employee safety programs to determine their adequacy.,Written Expression,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Deductive Reasoning,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Problem Sensitivity,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Near Vision,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Auditory Attention,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Hearing Sensitivity,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Selective Attention,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Mathematical Reasoning,2,0
+21875,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Conduct or direct testing of air quality, noise, temperature, or radiation levels to verify compliance with health and safety regulations.",Written Comprehension,2,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Oral Expression,3,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Deductive Reasoning,2,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Inductive Reasoning,2,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Speech Clarity,2,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Written Expression,2,0
+21876,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes.,Problem Sensitivity,2,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Deductive Reasoning,3,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Inductive Reasoning,2,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Written Expression,3,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Problem Sensitivity,2,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Fluency of Ideas,2,0
+21877,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Develop industry standards of product safety.,Information Ordering,2,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Oral Comprehension,3,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Oral Expression,3,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Speech Recognition,2,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Speech Clarity,2,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Information Ordering,2,0
+21878,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Maintain liaisons with outside organizations, such as fire departments, mutual aid societies, and rescue teams, so that emergency responses can be facilitated.",Deductive Reasoning,1,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Inductive Reasoning,3,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Deductive Reasoning,2,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Problem Sensitivity,2,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Mathematical Reasoning,2,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Written Comprehension,2,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Information Ordering,2,0
+21879,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Plan and conduct industrial hygiene research.,Written Expression,2,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Mathematical Reasoning,3,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Number Facility,3,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Inductive Reasoning,3,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Deductive Reasoning,2,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Written Comprehension,2,0
+21880,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Compile, analyze, and interpret statistical data related to occupational illnesses and accidents.",Written Expression,2,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Written Expression,3,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Deductive Reasoning,2,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Written Comprehension,2,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Information Ordering,2,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Fluency of Ideas,2,0
+21881,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Write and revise safety regulations and codes.,Inductive Reasoning,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Oral Comprehension,3,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Oral Expression,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Speech Recognition,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Speech Clarity,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Deductive Reasoning,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Written Comprehension,2,0
+21882,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns.,Problem Sensitivity,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Deductive Reasoning,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Visualization,3,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Originality,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Problem Sensitivity,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Manual Dexterity,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Finger Dexterity,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Near Vision,2,0
+21883,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Design and build safety equipment.,Arm-Hand Steadiness,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Deductive Reasoning,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Near Vision,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Far Vision,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Problem Sensitivity,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Visualization,2,0
+21884,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Check floors of plants to ensure that they are strong enough to support heavy machinery.,Mathematical Reasoning,2,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Near Vision,3,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Far Vision,2,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Problem Sensitivity,3,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Deductive Reasoning,2,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Selective Attention,3,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Written Comprehension,2,0
+21885,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance.",Perceptual Speed,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Manual Dexterity,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Finger Dexterity,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Near Vision,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Arm-Hand Steadiness,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Deductive Reasoning,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Oral Expression,2,0
+21886,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Install safety devices on machinery or direct device installation.,Information Ordering,2,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Oral Expression,3,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Oral Comprehension,2,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Speech Clarity,2,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Deductive Reasoning,3,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Written Comprehension,2,0
+8984,Fire-Prevention and Protection Engineers,"Advise architects, builders, and other construction personnel on fire prevention equipment and techniques and on fire code and standard interpretation and compliance.",Written Expression,2,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Deductive Reasoning,3,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Visualization,3,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Originality,2,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Problem Sensitivity,2,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Mathematical Reasoning,2,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Written Expression,2,0
+8982,Fire-Prevention and Protection Engineers,"Design fire detection equipment, alarm systems, and fire extinguishing devices and systems.",Inductive Reasoning,2,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Near Vision,3,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Far Vision,2,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Problem Sensitivity,3,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Deductive Reasoning,2,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Visualization,2,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Selective Attention,2,0
+8983,Fire-Prevention and Protection Engineers,"Inspect buildings or building designs to determine fire protection system requirements and potential problems in areas such as water supplies, exit locations, and construction materials.",Spatial Orientation,2,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Written Comprehension,3,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Near Vision,2,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Deductive Reasoning,3,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Problem Sensitivity,2,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Visualization,2,0
+24004,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire code.,Selective Attention,2,0
+20383,Fire-Prevention and Protection Engineers,"Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules.",Written Expression,3,0
+20383,Fire-Prevention and Protection Engineers,"Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules.",Written Comprehension,2,0
+20383,Fire-Prevention and Protection Engineers,"Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules.",Information Ordering,2,0
+20383,Fire-Prevention and Protection Engineers,"Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules.",Deductive Reasoning,2,0
+20383,Fire-Prevention and Protection Engineers,"Prepare and write reports detailing specific fire prevention and protection issues, such as work performed, revised codes or standards, and proposed review schedules.",Fluency of Ideas,2,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Oral Comprehension,3,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Oral Expression,3,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Speech Recognition,2,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Speech Clarity,2,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Deductive Reasoning,2,0
+8988,Fire-Prevention and Protection Engineers,Consult with authorities to discuss safety regulations and to recommend changes as necessary.,Written Comprehension,2,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Deductive Reasoning,3,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Inductive Reasoning,2,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Written Comprehension,2,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Problem Sensitivity,2,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Written Expression,2,0
+8993,Fire-Prevention and Protection Engineers,Evaluate fire department performance and the laws and regulations affecting fire prevention or fire safety.,Information Ordering,2,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Oral Expression,2,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Information Ordering,3,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Deductive Reasoning,2,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Problem Sensitivity,2,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Written Comprehension,2,0
+23902,Fire-Prevention and Protection Engineers,"Direct the purchase, modification, installation, testing, maintenance, and operation of fire prevention and protection systems.",Time Sharing,2,0
+8991,Fire-Prevention and Protection Engineers,"Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection.",Oral Comprehension,3,0
+8991,Fire-Prevention and Protection Engineers,"Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection.",Oral Expression,2,0
+8991,Fire-Prevention and Protection Engineers,"Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection.",Speech Recognition,2,0
+8991,Fire-Prevention and Protection Engineers,"Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection.",Speech Clarity,2,0
+8991,Fire-Prevention and Protection Engineers,"Attend workshops, seminars, or conferences to present or obtain information regarding fire prevention and protection.",Written Comprehension,2,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Inductive Reasoning,3,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Deductive Reasoning,3,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Problem Sensitivity,3,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Written Comprehension,2,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Near Vision,2,0
+8986,Fire-Prevention and Protection Engineers,Determine causes of fires and ways in which they could have been prevented.,Fluency of Ideas,2,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Written Expression,2,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Oral Expression,3,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Speech Clarity,2,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Information Ordering,2,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Fluency of Ideas,2,0
+8992,Fire-Prevention and Protection Engineers,Develop training materials and conduct training sessions on fire protection.,Oral Comprehension,2,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Inductive Reasoning,3,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Deductive Reasoning,3,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Problem Sensitivity,2,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Written Comprehension,2,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Near Vision,2,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Visualization,2,0
+8990,Fire-Prevention and Protection Engineers,Study the relationships between ignition sources and materials to determine how fires start.,Selective Attention,2,0

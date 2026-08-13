@@ -1,0 +1,782 @@
+[
+{
+"task_id": "15198",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Provide users with technical support for computer problems."
+},
+{
+"task_id": "971",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery."
+},
+{
+"task_id": "977",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Recruit, hire, train and supervise staff, or participate in staffing decisions."
+},
+{
+"task_id": "970",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Stay abreast of advances in technology."
+},
+{
+"task_id": "967",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Consult with users, management, vendors, and technicians to assess computing needs and system requirements."
+},
+{
+"task_id": "976",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Develop and interpret organizational goals, policies, and procedures."
+},
+{
+"task_id": "973",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Evaluate the organization's technology use and needs and recommend improvements, such as hardware and software upgrades."
+},
+{
+"task_id": "972",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Review and approve all systems charts and programs prior to their implementation."
+},
+{
+"task_id": "980",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Prepare and review operational reports or project progress reports."
+},
+{
+"task_id": "979",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Evaluate data processing proposals to assess project feasibility and requirements."
+},
+{
+"task_id": "974",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Control operational budget and expenditures."
+},
+{
+"task_id": "981",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Purchase necessary equipment."
+},
+{
+"task_id": "966",
+"soc": "11-3021.00",
+"occupation": "Computer and Information Systems Managers",
+"task_text": "Manage backup, security and user help systems."
+},
+{
+"task_id": "21311",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter."
+},
+{
+"task_id": "21319",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Oversee the flow of cash or financial instruments."
+},
+{
+"task_id": "21312",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Plan, direct, or coordinate the activities of workers in branches, offices, or departments of establishments, such as branch banks, brokerage firms, risk and insurance departments, or credit departments."
+},
+{
+"task_id": "21313",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Recruit staff members."
+},
+{
+"task_id": "21315",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Evaluate data pertaining to costs to plan budgets."
+},
+{
+"task_id": "21316",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Oversee training programs."
+},
+{
+"task_id": "21327",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Establish procedures for custody or control of assets, records, loan collateral, or securities to ensure safekeeping."
+},
+{
+"task_id": "21322",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Communicate with stockholders or other investors to provide information or to raise capital."
+},
+{
+"task_id": "21321",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Develop or analyze information to assess the current or future financial status of firms."
+},
+{
+"task_id": "21318",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Approve, reject, or coordinate the approval or rejection of lines of credit or commercial, real estate, or personal loans."
+},
+{
+"task_id": "21320",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Prepare financial or regulatory reports required by laws, regulations, or boards of directors."
+},
+{
+"task_id": "21317",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Examine, evaluate, or process loan applications."
+},
+{
+"task_id": "21323",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions."
+},
+{
+"task_id": "21325",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Network within communities to find and attract new business."
+},
+{
+"task_id": "21314",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Prepare operational or risk reports for management analysis."
+},
+{
+"task_id": "21326",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Review collection reports to determine the status of collections and the amounts of outstanding balances."
+},
+{
+"task_id": "21329",
+"soc": "11-3031.00",
+"occupation": "Financial Managers",
+"task_text": "Review reports of securities transactions or price lists to analyze market conditions."
+},
+{
+"task_id": "8870",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Evaluate needs for procurement of funds and investment of surpluses and make appropriate recommendations."
+},
+{
+"task_id": "8858",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Delegate authority for the receipt, disbursement, banking, protection, and custody of funds, securities, and financial instruments."
+},
+{
+"task_id": "8864",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Develop and maintain relationships with banking, insurance, and external accounting personnel to facilitate financial activities."
+},
+{
+"task_id": "20168",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Monitor financial activities and details, such as cash flow and reserve levels, to ensure that all legal and regulatory requirements are met."
+},
+{
+"task_id": "8861",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Receive, record, and authorize requests for disbursements in accordance with company policies and procedures."
+},
+{
+"task_id": "8866",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Develop internal control policies, guidelines, and procedures for activities, such as budget administration, cash and credit management, and accounting."
+},
+{
+"task_id": "8865",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Coordinate and direct the financial planning, budgeting, procurement, or investment activities of all or part of an organization."
+},
+{
+"task_id": "8872",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Receive cash and checks and make deposits."
+},
+{
+"task_id": "8856",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Prepare or direct preparation of financial statements, business activity reports, financial position forecasts, annual budgets, or reports required by regulatory agencies."
+},
+{
+"task_id": "8863",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Monitor and evaluate the performance of accounting and other financial staff, recommending and implementing personnel actions, such as promotions and dismissals."
+},
+{
+"task_id": "8867",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed."
+},
+{
+"task_id": "8860",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Conduct or coordinate audits of company accounts and financial transactions to ensure compliance with state and federal requirements and statutes."
+},
+{
+"task_id": "8868",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Advise management on short-term and long-term financial objectives, policies, and actions."
+},
+{
+"task_id": "8859",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Maintain current knowledge of organizational policies and procedures, federal and state policies and directives, and current accounting standards."
+},
+{
+"task_id": "8869",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Provide direction and assistance to other organizational units regarding accounting and budgeting policies and procedures and efficient control and utilization of financial resources."
+},
+{
+"task_id": "8871",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Lead staff training and development in budgeting and financial management areas."
+},
+{
+"task_id": "8855",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Prepare and file annual tax returns or prepare financial information so that outside accountants can complete tax returns."
+},
+{
+"task_id": "8857",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Supervise employees performing financial reporting, accounting, billing, collections, payroll, and budgeting duties."
+},
+{
+"task_id": "8874",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Perform tax planning work."
+},
+{
+"task_id": "8873",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Compute, withhold, and account for all payroll deductions."
+},
+{
+"task_id": "20169",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Handle all aspects of employee insurance, benefits, and casualty programs, including monitoring changes in health insurance regulations and creating budgets for benefits and worker's compensation."
+},
+{
+"task_id": "8875",
+"soc": "11-3031.01",
+"occupation": "Treasurers and Controllers",
+"task_text": "Determine depreciation rates to apply to capitalized items and advise management on actions regarding the purchase, lease, or disposal of such items."
+},
+{
+"task_id": "15678",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Manage investment funds to maximize return on client investments."
+},
+{
+"task_id": "15679",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Select specific investments or investment mixes for purchase by an investment fund."
+},
+{
+"task_id": "15669",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Monitor financial or operational performance of individual investments to ensure portfolios meet risk goals."
+},
+{
+"task_id": "15676",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Select or direct the execution of trades."
+},
+{
+"task_id": "15675",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Develop or implement fund investment policies or strategies."
+},
+{
+"task_id": "15667",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Perform or evaluate research, such as detailed company or industry analyses, to inform financial forecasting, decision making, or valuation."
+},
+{
+"task_id": "15668",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Present investment information, such as product risks, fees, or fund performance statistics."
+},
+{
+"task_id": "15664",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Develop, implement, or monitor security valuation policies."
+},
+{
+"task_id": "15671",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Meet with investors to determine investment goals or to discuss investment strategies."
+},
+{
+"task_id": "15665",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Attend investment briefings or consult financial media to stay abreast of relevant investment markets."
+},
+{
+"task_id": "15660",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Prepare for and respond to regulatory inquiries."
+},
+{
+"task_id": "15674",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Evaluate the potential of new product developments or market opportunities, according to factors such as business plans, technologies, or market potential."
+},
+{
+"task_id": "15662",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Hire or evaluate staff."
+},
+{
+"task_id": "15670",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Monitor regulatory or tax law changes to ensure fund compliance or to capitalize on development opportunities."
+},
+{
+"task_id": "15673",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Develop or direct development of offering documents or marketing materials."
+},
+{
+"task_id": "15677",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Analyze acquisitions to ensure conformance with strategic goals or regulatory requirements."
+},
+{
+"task_id": "15661",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Verify regulatory compliance of transaction reporting."
+},
+{
+"task_id": "15666",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Review offering documents or marketing materials to ensure regulatory compliance."
+},
+{
+"task_id": "15672",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Identify group or individual target investors for a specific fund."
+},
+{
+"task_id": "15663",
+"soc": "11-3031.03",
+"occupation": "Investment Fund Managers",
+"task_text": "Direct activities of accounting or operations departments."
+},
+{
+"task_id": "39",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Set and monitor product standards, examining samples of raw products or directing testing during processing, to ensure finished products are of prescribed quality."
+},
+{
+"task_id": "32",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations."
+},
+{
+"task_id": "34",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints."
+},
+{
+"task_id": "35",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Review operations and confer with technical or administrative staff to resolve production or processing problems."
+},
+{
+"task_id": "36",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Hire, train, evaluate, or discharge staff or resolve personnel grievances."
+},
+{
+"task_id": "40",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production problems."
+},
+{
+"task_id": "38",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Prepare and maintain production reports or personnel records."
+},
+{
+"task_id": "41",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Review plans and confer with research or support staff to develop new products or processes."
+},
+{
+"task_id": "33",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Develop budgets or approve expenditures for supplies, materials, or human resources, ensuring that materials, labor, or equipment are used efficiently to meet production targets."
+},
+{
+"task_id": "44",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Maintain current knowledge of the quality control field, relying on current literature pertaining to materials use, technological advances, or statistical studies."
+},
+{
+"task_id": "43",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Coordinate or recommend procedures for facility or equipment maintenance or modification, including the replacement of machines."
+},
+{
+"task_id": "37",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Initiate or coordinate inventory or cost control programs."
+},
+{
+"task_id": "45",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Negotiate materials prices with suppliers."
+},
+{
+"task_id": "21332",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Conduct site audits to ensure adherence to safety and environmental regulations."
+},
+{
+"task_id": "21333",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Develop or enforce procedures for normal operation of manufacturing systems."
+},
+{
+"task_id": "21334",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Implement operational and emergency procedures."
+},
+{
+"task_id": "21335",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Maintain records to demonstrate compliance with safety and environmental laws, regulations, or policies."
+},
+{
+"task_id": "21336",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Monitor permit requirements for updates."
+},
+{
+"task_id": "21337",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Optimize operational costs and productivity consistent with safety and environmental rules and regulations."
+},
+{
+"task_id": "21338",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Prepare reports on operations and system productivity or efficiency."
+},
+{
+"task_id": "21339",
+"soc": "11-3051.00",
+"occupation": "Industrial Production Managers",
+"task_text": "Supervise subordinate employees."
+},
+{
+"task_id": "15405",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Stop production if serious product defects are present."
+},
+{
+"task_id": "15415",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Review and update standard operating procedures or quality assurance manuals."
+},
+{
+"task_id": "15430",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Monitor performance of quality control systems to ensure effectiveness and efficiency."
+},
+{
+"task_id": "15414",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Review quality documentation necessary for regulatory submissions and inspections."
+},
+{
+"task_id": "15428",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Analyze quality control test results and provide feedback and interpretation to production management or staff."
+},
+{
+"task_id": "15413",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Verify that raw materials, purchased parts or components, in-process samples, and finished products meet established testing and inspection standards."
+},
+{
+"task_id": "15429",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Oversee workers including supervisors, inspectors, or laboratory workers engaged in testing activities."
+},
+{
+"task_id": "15431",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Direct product testing activities throughout production cycles."
+},
+{
+"task_id": "15421",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Instruct staff in quality control and analytical procedures."
+},
+{
+"task_id": "15424",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Direct the tracking of defects, test results, or other regularly reported quality control data."
+},
+{
+"task_id": "15417",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Participate in the development of product specifications."
+},
+{
+"task_id": "15420",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Identify quality problems or areas for improvement and recommend solutions."
+},
+{
+"task_id": "15411",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Collect and analyze production samples to evaluate quality."
+},
+{
+"task_id": "15416",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Produce reports regarding nonconformance of products or processes, daily production quality, root cause analyses, or quality trends."
+},
+{
+"task_id": "15427",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Communicate quality control information to all relevant organizational departments, outside vendors, or contractors."
+},
+{
+"task_id": "15418",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Monitor development of new products to help identify possible problems for mass production."
+},
+{
+"task_id": "15422",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Identify critical points in the manufacturing process and specify sampling procedures to be used at these points."
+},
+{
+"task_id": "15425",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Create and implement inspection and testing criteria or procedures."
+},
+{
+"task_id": "15423",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Document testing procedures, methodologies, or criteria."
+},
+{
+"task_id": "15407",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Review statistical studies, technological advances, or regulatory standards and trends to stay abreast of issues in the field of quality control."
+},
+{
+"task_id": "15410",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Coordinate the selection and implementation of quality control equipment, such as inspection gauges."
+},
+{
+"task_id": "15408",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Generate and maintain quality control operating budgets."
+},
+{
+"task_id": "15419",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Instruct vendors or contractors on quality guidelines, testing procedures, or ways to eliminate deficiencies."
+},
+{
+"task_id": "15426",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Confer with marketing and sales departments to define client requirements and expectations."
+},
+{
+"task_id": "15409",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Evaluate new testing and sampling methodologies or technologies to determine usefulness."
+},
+{
+"task_id": "15406",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Review and approve quality plans submitted by contractors."
+},
+{
+"task_id": "15412",
+"soc": "11-3051.01",
+"occupation": "Quality Control Systems Managers",
+"task_text": "Audit and inspect subcontractor facilities including external laboratories."
+},
+{
+"task_id": "15446",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Supervise employees in geothermal power plants or well fields."
+},
+{
+"task_id": "15447",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Oversee geothermal plant operations, maintenance, and repairs to ensure compliance with applicable standards or regulations."
+},
+{
+"task_id": "15434",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Communicate geothermal plant conditions to employees."
+},
+{
+"task_id": "15443",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Identify and evaluate equipment, procedural, or conditional inefficiencies involving geothermal plant systems."
+},
+{
+"task_id": "15439",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Perform or direct the performance of preventative maintenance on geothermal plant equipment."
+},
+{
+"task_id": "15448",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Inspect geothermal plant or injection well fields to verify proper equipment operations."
+},
+{
+"task_id": "15445",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Develop or manage budgets for geothermal operations."
+},
+{
+"task_id": "15433",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Select and implement corrosion control or mitigation systems for geothermal plants."
+},
+{
+"task_id": "15444",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Develop operating plans and schedules for geothermal operations."
+},
+{
+"task_id": "15436",
+"soc": "11-3051.02",
+"occupation": "Geothermal Production Managers",
+"task_text": "Record, review, or maintain daily logs, reports, maintenance, and other records associated with geothermal operations."
+}
+]

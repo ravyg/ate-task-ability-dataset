@@ -1,0 +1,242 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+10950,Clergy,Prepare people for participation in religious ceremonies.,Oral Expression,3,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Oral Comprehension,2,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Information Ordering,2,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Problem Sensitivity,2,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Deductive Reasoning,2,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Memorization,2,0
+10950,Clergy,Prepare people for participation in religious ceremonies.,Speech Clarity,2,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Oral Comprehension,3,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Oral Expression,3,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Speech Recognition,2,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Speech Clarity,2,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Problem Sensitivity,2,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Inductive Reasoning,2,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Stamina,1,0
+10941,Clergy,"Visit people in homes, hospitals, or prisons to provide them with comfort and support.",Far Vision,1,1
+10942,Clergy,"Train leaders of church, community, or youth groups.",Oral Expression,3,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Oral Comprehension,2,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Information Ordering,2,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Deductive Reasoning,2,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Inductive Reasoning,2,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Problem Sensitivity,2,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Written Expression,1,0
+10942,Clergy,"Train leaders of church, community, or youth groups.",Speech Clarity,2,0
+20748,Clergy,Plan or lead religious education programs.,Oral Expression,3,0
+20748,Clergy,Plan or lead religious education programs.,Information Ordering,3,0
+20748,Clergy,Plan or lead religious education programs.,Deductive Reasoning,2,0
+20748,Clergy,Plan or lead religious education programs.,Written Comprehension,2,0
+20748,Clergy,Plan or lead religious education programs.,Written Expression,2,0
+20748,Clergy,Plan or lead religious education programs.,Originality,2,0
+20748,Clergy,Plan or lead religious education programs.,Fluency of Ideas,2,0
+20748,Clergy,Plan or lead religious education programs.,Problem Sensitivity,1,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Written Comprehension,3,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Deductive Reasoning,3,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Inductive Reasoning,3,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Flexibility of Closure,2,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Category Flexibility,2,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Memorization,2,0
+10944,Clergy,"Study and interpret religious laws, doctrines, or traditions.",Information Ordering,2,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Problem Sensitivity,3,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Oral Comprehension,3,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Oral Expression,3,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Deductive Reasoning,2,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Reaction Time,2,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Speech Recognition,2,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Speech Clarity,2,0
+10947,Clergy,Respond to requests for assistance during emergencies or crises.,Time Sharing,2,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Oral Expression,3,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Speech Clarity,3,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Memorization,3,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Information Ordering,2,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Oral Comprehension,2,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Selective Attention,2,0
+10945,Clergy,"Conduct special ceremonies, such as weddings, funerals, or confirmations.",Stamina,1,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Fluency of Ideas,3,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Originality,3,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Inductive Reasoning,2,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Deductive Reasoning,2,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Problem Sensitivity,2,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Written Comprehension,1,0
+10948,Clergy,Devise ways in which congregational membership can be expanded.,Written Expression,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Oral Comprehension,3,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Oral Expression,3,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Deductive Reasoning,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Mathematical Reasoning,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Number Facility,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Problem Sensitivity,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Written Comprehension,2,0
+10949,Clergy,Collaborate with committees or individuals to address financial or administrative issues pertaining to congregations.,Speech Recognition,1,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Oral Comprehension,3,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Oral Expression,3,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Problem Sensitivity,3,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Deductive Reasoning,2,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Inductive Reasoning,2,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Speech Recognition,2,0
+10952,Clergy,"Refer people to community support services, psychologists, or doctors.",Speech Clarity,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Information Ordering,3,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Oral Expression,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Oral Comprehension,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Problem Sensitivity,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Deductive Reasoning,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Written Expression,2,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Fluency of Ideas,1,0
+20749,Clergy,"Organize or engage in interfaith, community, civic, educational, or recreational activities sponsored by or related to religious programs.",Stamina,1,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Information Ordering,3,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Deductive Reasoning,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Written Comprehension,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Written Expression,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Problem Sensitivity,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Mathematical Reasoning,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Number Facility,1,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Oral Comprehension,2,0
+10951,Clergy,"Perform administrative duties, such as overseeing building management, ordering supplies, contracting for services or repairs, or supervising the work of staff members or volunteers.",Oral Expression,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Oral Expression,3,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Oral Comprehension,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Problem Sensitivity,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Fluency of Ideas,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Deductive Reasoning,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Speech Clarity,2,0
+10953,Clergy,Participate in fundraising activities to support congregational activities or facilities.,Stamina,1,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Written Comprehension,3,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Written Expression,3,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Information Ordering,3,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Deductive Reasoning,2,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Inductive Reasoning,2,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Originality,2,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Fluency of Ideas,2,0
+12977,"Directors, Religious Activities and Education",Develop or direct study courses or religious education programs within congregations.,Oral Expression,1,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Oral Expression,3,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Oral Comprehension,2,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Problem Sensitivity,2,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Inductive Reasoning,2,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Speech Clarity,2,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Speech Recognition,2,0
+12975,"Directors, Religious Activities and Education",Identify and recruit potential volunteer workers.,Deductive Reasoning,1,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Deductive Reasoning,3,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Written Comprehension,3,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Inductive Reasoning,2,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Category Flexibility,2,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Information Ordering,2,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Problem Sensitivity,2,0
+12978,"Directors, Religious Activities and Education",Select appropriate curricula or class structures for educational programs.,Flexibility of Closure,1,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Information Ordering,3,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Deductive Reasoning,2,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Written Comprehension,2,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Written Expression,2,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Mathematical Reasoning,1,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Problem Sensitivity,2,0
+12983,"Directors, Religious Activities and Education","Schedule special events, such as camps, conferences, meetings, seminars, or retreats.",Number Facility,1,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Oral Comprehension,3,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Oral Expression,3,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Problem Sensitivity,3,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Inductive Reasoning,2,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Deductive Reasoning,2,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Speech Recognition,2,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Speech Clarity,2,0
+12980,"Directors, Religious Activities and Education","Counsel individuals regarding interpersonal, health, financial, or religious problems.",Category Flexibility,1,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Oral Comprehension,3,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Oral Expression,3,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Deductive Reasoning,2,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Inductive Reasoning,2,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Fluency of Ideas,2,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Problem Sensitivity,2,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Written Expression,1,0
+12982,"Directors, Religious Activities and Education",Collaborate with other ministry members to establish goals and objectives for religious education programs or to develop ways to encourage program participation.,Speech Recognition,1,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Oral Expression,3,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Oral Comprehension,2,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Information Ordering,2,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Deductive Reasoning,2,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Problem Sensitivity,2,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Speech Clarity,2,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Written Expression,1,0
+12976,"Directors, Religious Activities and Education",Train and supervise religious education instructional staff.,Inductive Reasoning,1,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Information Ordering,3,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Deductive Reasoning,2,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Written Comprehension,2,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Written Expression,2,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Problem Sensitivity,2,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Number Facility,1,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Selective Attention,2,0
+12979,"Directors, Religious Activities and Education","Implement program plans by ordering needed materials, scheduling speakers, reserving space, or handling other administrative details.",Oral Expression,1,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Inductive Reasoning,3,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Deductive Reasoning,2,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Problem Sensitivity,3,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Written Comprehension,2,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Number Facility,2,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Mathematical Reasoning,2,0
+12981,"Directors, Religious Activities and Education",Analyze member participation or changes in congregational emphasis to determine needs for religious education.,Category Flexibility,2,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Mathematical Reasoning,3,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Number Facility,3,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Deductive Reasoning,3,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Inductive Reasoning,2,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Problem Sensitivity,2,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Written Comprehension,2,0
+12986,"Directors, Religious Activities and Education",Analyze revenue and program cost data to determine budget priorities.,Information Ordering,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Oral Comprehension,3,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Written Comprehension,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Speech Recognition,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Memorization,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Selective Attention,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Inductive Reasoning,2,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Information Ordering,1,0
+12987,"Directors, Religious Activities and Education","Attend workshops, seminars, or conferences to obtain program ideas, information, or resources.",Stamina,1,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Oral Comprehension,3,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Oral Expression,3,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Written Comprehension,2,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Problem Sensitivity,2,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Speech Recognition,2,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Speech Clarity,2,0
+12991,"Directors, Religious Activities and Education",Visit congregational members' homes or arrange for pastoral visits to provide information or resources regarding religious education programs.,Stamina,1,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Written Expression,3,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Written Comprehension,2,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Information Ordering,2,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Originality,2,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Fluency of Ideas,2,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Deductive Reasoning,1,0
+12985,"Directors, Religious Activities and Education","Publicize programs through sources, such as newsletters, bulletins, or mailings.",Near Vision,1,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Oral Comprehension,3,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Oral Expression,3,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Deductive Reasoning,2,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Speech Recognition,2,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Speech Clarity,2,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Problem Sensitivity,2,0
+12984,"Directors, Religious Activities and Education","Confer with clergy members, congregational officials, or congregational organizations to encourage support of or participation in religious education activities.",Fluency of Ideas,1,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Information Ordering,3,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Fluency of Ideas,3,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Originality,2,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Deductive Reasoning,2,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Problem Sensitivity,2,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Mathematical Reasoning,2,0
+20750,"Directors, Religious Activities and Education",Plan fundraising activities for the church.,Written Expression,1,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Written Comprehension,3,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Information Ordering,2,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Deductive Reasoning,2,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Problem Sensitivity,2,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Inductive Reasoning,2,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Near Vision,1,0
+12988,"Directors, Religious Activities and Education","Locate and distribute resources, such as periodicals or curricula, to enhance the effectiveness of educational programs.",Selective Attention,1,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Oral Comprehension,3,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Oral Expression,3,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Problem Sensitivity,2,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Inductive Reasoning,2,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Deductive Reasoning,2,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Speech Recognition,2,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Speech Clarity,1,0
+12989,"Directors, Religious Activities and Education","Participate in denominational activities aimed at goals, such as promoting interfaith understanding or providing aid to new or small congregations.",Stamina,1,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Oral Expression,3,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Written Expression,3,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Oral Comprehension,2,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Speech Clarity,2,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Fluency of Ideas,2,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Written Comprehension,2,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Originality,2,0
+12992,"Directors, Religious Activities and Education","Interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",Deductive Reasoning,1,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Information Ordering,3,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Oral Expression,3,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Oral Comprehension,2,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Deductive Reasoning,2,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Inductive Reasoning,2,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Speech Clarity,2,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Written Expression,2,0
+12990,"Directors, Religious Activities and Education",Plan or conduct conferences dealing with the interpretation of religious ideas or convictions.,Problem Sensitivity,1,0

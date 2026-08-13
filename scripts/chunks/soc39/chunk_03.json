@@ -1,0 +1,782 @@
+[
+{
+"task_id": "8753",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Apply undercoat and clear or colored polish onto nails with brush."
+},
+{
+"task_id": "8758",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Maintain supply inventories and records of client services."
+},
+{
+"task_id": "8752",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Shape and smooth ends of nails, using scissors, files, or emery boards."
+},
+{
+"task_id": "20769",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Prepare nail cuticles with water and oil, using cuticle knives to push back cuticles and scissors or nippers to trim cuticles."
+},
+{
+"task_id": "20770",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Prepare customers' nails in soapy water, using swabs, files, and orange sticks."
+},
+{
+"task_id": "8750",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Remove previously applied nail polish, using liquid remover and swabs."
+},
+{
+"task_id": "20771",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Use rotary abrasive wheels to shape and smooth nails or artificial extensions."
+},
+{
+"task_id": "8749",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Schedule client appointments and accept payments."
+},
+{
+"task_id": "20772",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Assess the condition of clients' hands, remove dead skin, and massage hands."
+},
+{
+"task_id": "8760",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Roughen surfaces of fingernails, using abrasive wheel."
+},
+{
+"task_id": "8754",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Advise clients on nail care and use of products and colors."
+},
+{
+"task_id": "20773",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Treat nails to repair or improve strength and resilience by wrapping."
+},
+{
+"task_id": "20774",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Extend nails using powder, solvent, and paper forms attached to tips of customers' fingers to support and shape artificial nails."
+},
+{
+"task_id": "8763",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Polish nails, using powdered polish and buffer."
+},
+{
+"task_id": "8764",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Whiten underside of nails with white paste or pencils."
+},
+{
+"task_id": "8761",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Promote and sell nail care products."
+},
+{
+"task_id": "8765",
+"soc": "39-5092.00",
+"occupation": "Manicurists and Pedicurists",
+"task_text": "Decorate clients' nails by piercing or attaching ornaments or designs."
+},
+{
+"task_id": "14818",
+"soc": "39-5093.00",
+"occupation": "Shampooers",
+"task_text": "Massage, shampoo, and condition patron's hair and scalp to clean them and remove excess oil."
+},
+{
+"task_id": "14819",
+"soc": "39-5093.00",
+"occupation": "Shampooers",
+"task_text": "Advise patrons with chronic or potentially contagious scalp conditions to seek medical treatment."
+},
+{
+"task_id": "14820",
+"soc": "39-5093.00",
+"occupation": "Shampooers",
+"task_text": "Treat scalp conditions and hair loss, using specialized lotions, shampoos, or equipment such as infrared lamps or vibrating equipment."
+},
+{
+"task_id": "14821",
+"soc": "39-5093.00",
+"occupation": "Shampooers",
+"task_text": "Maintain treatment records."
+},
+{
+"task_id": "8069",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Sterilize equipment and clean work areas."
+},
+{
+"task_id": "8074",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Cleanse clients' skin with water, creams, or lotions."
+},
+{
+"task_id": "8071",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Demonstrate how to clean and care for skin properly and recommend skin-care regimens."
+},
+{
+"task_id": "8077",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Determine which products or colors will improve clients' skin quality and appearance."
+},
+{
+"task_id": "8070",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Keep records of client needs and preferences and the services provided."
+},
+{
+"task_id": "8075",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Treat the facial skin to maintain and improve its appearance, using specialized techniques and products, such as peels and masks."
+},
+{
+"task_id": "8072",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance."
+},
+{
+"task_id": "8078",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Perform simple extractions to remove blackheads."
+},
+{
+"task_id": "8073",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Select and apply cosmetic products, such as creams, lotions, and tonics."
+},
+{
+"task_id": "20258",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Stay abreast of latest industry trends, products, research, and treatments."
+},
+{
+"task_id": "8081",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Apply chemical peels to reduce fine lines and age spots."
+},
+{
+"task_id": "8076",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Refer clients to medical personnel for treatment of serious skin problems."
+},
+{
+"task_id": "8079",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Provide facial and body massages."
+},
+{
+"task_id": "8080",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Remove body and facial hair by applying wax."
+},
+{
+"task_id": "8086",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Tint eyelashes and eyebrows."
+},
+{
+"task_id": "8084",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Collaborate with plastic surgeons and dermatologists to provide patients with preoperative and postoperative skin care."
+},
+{
+"task_id": "8082",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Advise clients about colors and types of makeup and instruct them in makeup application techniques."
+},
+{
+"task_id": "8083",
+"soc": "39-5094.00",
+"occupation": "Skincare Specialists",
+"task_text": "Sell makeup to clients."
+},
+{
+"task_id": "2316",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Receive and mark baggage by completing and attaching claim checks."
+},
+{
+"task_id": "2317",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Greet incoming guests and escort them to their rooms."
+},
+{
+"task_id": "2324",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Transport guests about premises and local areas, or arrange for transportation."
+},
+{
+"task_id": "2323",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Maintain clean lobbies or entrance areas for travelers or guests."
+},
+{
+"task_id": "2314",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts."
+},
+{
+"task_id": "2315",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Supply guests or travelers with directions, travel information, and other information, such as available services and points of interest."
+},
+{
+"task_id": "2321",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Explain the operation of room features, such as locks, ventilation systems, and televisions."
+},
+{
+"task_id": "2318",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Assist travelers and guests with disabilities."
+},
+{
+"task_id": "2320",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Deliver messages and room service orders, and run errands for guests."
+},
+{
+"task_id": "2327",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Pick up and return items for laundry and valet service."
+},
+{
+"task_id": "2319",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Act as part of the security team at transportation terminals, hotels, or similar establishments."
+},
+{
+"task_id": "2325",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Compute and complete charge slips for services rendered and maintain records."
+},
+{
+"task_id": "2326",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Page guests in hotel lobbies, dining rooms, or other areas."
+},
+{
+"task_id": "2330",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Set up conference rooms, display tables, racks, or shelves, and arrange merchandise displays for sales personnel."
+},
+{
+"task_id": "2328",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Inspect guests' rooms to ensure that they are adequately stocked, orderly, and comfortable."
+},
+{
+"task_id": "2329",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Complete baggage insurance forms."
+},
+{
+"task_id": "2322",
+"soc": "39-6011.00",
+"occupation": "Baggage Porters and Bellhops",
+"task_text": "Arrange for shipments of baggage, express mail, and parcels by providing weighing and billing services."
+},
+{
+"task_id": "4529",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Provide information about local features, such as shopping, dining, nightlife, or recreational destinations."
+},
+{
+"task_id": "20259",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Make reservations for patrons, such as for dinner, spa treatments, or golf tee times, and obtain tickets to special events."
+},
+{
+"task_id": "20260",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Provide directions to guests."
+},
+{
+"task_id": "21203",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Order flowers for guests."
+},
+{
+"task_id": "4530",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Make travel arrangements for sightseeing or other tours."
+},
+{
+"task_id": "4533",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Pick up and deliver items or run errands for guests."
+},
+{
+"task_id": "20262",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Plan special events, parties, or meetings, which may include booking musicians or celebrities."
+},
+{
+"task_id": "24009",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Book airline or train tickets, reserve rental cars, or arrange shuttle service for guests."
+},
+{
+"task_id": "20263",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Arrange childcare services for guests."
+},
+{
+"task_id": "4534",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides."
+},
+{
+"task_id": "24010",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Assist guests with special needs by providing equipment such as wheelchairs."
+},
+{
+"task_id": "4531",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Receive, store, or deliver luggage or mail."
+},
+{
+"task_id": "4532",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Perform office duties on a temporary basis when needed."
+},
+{
+"task_id": "4535",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Arrange for the replacement of items lost by travelers."
+},
+{
+"task_id": "20261",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Provide business services for guests, such as sending or receiving faxes or shipping packages."
+},
+{
+"task_id": "4536",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Arrange for interpreters or translators when patrons require such services."
+},
+{
+"task_id": "20265",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Provide food and beverage services to guests."
+},
+{
+"task_id": "20264",
+"soc": "39-6012.00",
+"occupation": "Concierges",
+"task_text": "Clean and tidy hotel lounge."
+},
+{
+"task_id": "4540",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Describe tour points of interest to group members, and respond to questions."
+},
+{
+"task_id": "4539",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Escort individuals or groups on cruises, sightseeing tours, or through places of interest, such as industrial establishments, public buildings, or art galleries."
+},
+{
+"task_id": "4541",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Monitor visitors' activities to ensure compliance with establishment or tour regulations and safety practices."
+},
+{
+"task_id": "4538",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Conduct educational activities for school children."
+},
+{
+"task_id": "20135",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Research various topics, including site history, environmental conditions, and clients' skills and abilities to plan appropriate expeditions, instruction, and commentary."
+},
+{
+"task_id": "4544",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Provide directions and other pertinent information to visitors."
+},
+{
+"task_id": "4550",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Select travel routes and sites to be visited based on knowledge of specific areas."
+},
+{
+"task_id": "4545",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Provide for physical safety of groups, performing such activities as providing first aid or directing emergency evacuations."
+},
+{
+"task_id": "4553",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Assemble and check the required supplies and equipment prior to departure."
+},
+{
+"task_id": "4542",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Greet and register visitors, and issue any required identification badges or safety devices."
+},
+{
+"task_id": "4543",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Distribute brochures, show audiovisual presentations, and explain establishment processes and operations at tour sites."
+},
+{
+"task_id": "4554",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Drive motor vehicles to transport visitors to establishments and tour site locations."
+},
+{
+"task_id": "20136",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Train other guides and volunteers."
+},
+{
+"task_id": "4547",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Provide information about wildlife varieties and habitats, as well as any relevant regulations, such as those pertaining to hunting and fishing."
+},
+{
+"task_id": "4549",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Teach skills, such as proper climbing methods, and demonstrate and advise on the use of equipment."
+},
+{
+"task_id": "4548",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Collect fees and tickets from group members."
+},
+{
+"task_id": "4555",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Perform clerical duties, such as filing, typing, operating switchboards, or routing mail and messages."
+},
+{
+"task_id": "4551",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Solicit tour patronage and sell souvenirs."
+},
+{
+"task_id": "4552",
+"soc": "39-7011.00",
+"occupation": "Tour Guides and Escorts",
+"task_text": "Speak foreign languages to communicate with foreign visitors."
+},
+{
+"task_id": "13158",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Arrange for tour or expedition details such as accommodations, transportation, equipment, and the availability of medical personnel."
+},
+{
+"task_id": "13155",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Plan tour itineraries, applying knowledge of travel routes and destination sites."
+},
+{
+"task_id": "13156",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Resolve any problems with itineraries, service, or accommodations."
+},
+{
+"task_id": "13163",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Attend to special needs of tour participants."
+},
+{
+"task_id": "13157",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Sell travel packages."
+},
+{
+"task_id": "13159",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Evaluate services received on the tour, and report findings to tour organizers."
+},
+{
+"task_id": "13164",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Give advice on sightseeing and shopping."
+},
+{
+"task_id": "13166",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Administer first aid to injured group participants."
+},
+{
+"task_id": "13171",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Explain hunting and fishing laws to groups to ensure compliance."
+},
+{
+"task_id": "13160",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Lead individuals or groups to tour site locations and describe points of interest."
+},
+{
+"task_id": "13167",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Pilot airplanes or drive land and water vehicles to transport tourists to activity or tour sites."
+},
+{
+"task_id": "13170",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Sell or rent equipment, clothing, and supplies related to expeditions."
+},
+{
+"task_id": "13162",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Pay bills and record checks issued."
+},
+{
+"task_id": "13161",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Verify amounts and quality of equipment prior to expeditions or tours."
+},
+{
+"task_id": "13169",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Instruct novices in climbing techniques, mountaineering, and wilderness survival, and demonstrate use of hunting, fishing, and climbing equipment."
+},
+{
+"task_id": "13168",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Set up camps, and prepare meals for tour group members."
+},
+{
+"task_id": "13165",
+"soc": "39-7012.00",
+"occupation": "Travel Guides",
+"task_text": "Provide tourists with assistance in obtaining permits and documents such as visas, passports, and health certificates, and in converting currency."
+},
+{
+"task_id": "18756",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Maintain a safe play environment."
+},
+{
+"task_id": "2336",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Observe and monitor children's play activities."
+},
+{
+"task_id": "18757",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Communicate with children's parents or guardians about daily activities, behaviors, and related issues."
+},
+{
+"task_id": "2331",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Support children's emotional and social development, encouraging understanding of others and positive self-concepts."
+},
+{
+"task_id": "2332",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Care for children in institutional setting, such as group homes, nursery schools, private businesses, or schools for people with disabilities."
+},
+{
+"task_id": "2333",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Sanitize toys and play equipment."
+},
+{
+"task_id": "2346",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Dress children and change diapers."
+},
+{
+"task_id": "2337",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Keep records on individual children, including daily observations and information about activities, meals served, and medications administered."
+},
+{
+"task_id": "2335",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Identify signs of emotional or developmental problems in children and bring them to parents' or guardians' attention."
+},
+{
+"task_id": "2338",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Instruct children in health and personal habits, such as eating, resting, and toilet habits."
+},
+{
+"task_id": "2342",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Organize and store toys and materials to ensure order in activity areas."
+},
+{
+"task_id": "18761",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Perform general administrative tasks, such as taking attendance, editing internal paperwork, and making phone calls."
+},
+{
+"task_id": "18759",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Create developmentally appropriate lesson plans."
+},
+{
+"task_id": "2348",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Perform housekeeping duties, such as laundry, cleaning, dish washing, and changing of linens."
+},
+{
+"task_id": "2339",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Read to children and teach them simple painting, drawing, handicrafts, and songs."
+},
+{
+"task_id": "18758",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Assist in preparing food and serving meals and refreshments to children."
+},
+{
+"task_id": "2334",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Discipline children and recommend or initiate other measures to control behavior, such as caring for own clothing and picking up toys and books."
+},
+{
+"task_id": "18760",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Regulate children's rest periods."
+},
+{
+"task_id": "18762",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Organize and participate in recreational activities and outings, such as games and field trips."
+},
+{
+"task_id": "2344",
+"soc": "39-9011.00",
+"occupation": "Childcare Workers",
+"task_text": "Sterilize bottles and prepare formulas."
+}
+]

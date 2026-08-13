@@ -1,0 +1,685 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Oral Expression,3,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Oral Comprehension,2,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Mathematical Reasoning,2,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Written Comprehension,2,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Information Ordering,2,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Speech Clarity,2,0
+20953,Operations Research Analysts,Educate staff in the use of mathematical models.,Deductive Reasoning,1,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Deductive Reasoning,3,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Information Ordering,3,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Inductive Reasoning,2,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Problem Sensitivity,2,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Mathematical Reasoning,2,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Written Expression,2,0
+7390,Operations Research Analysts,"Develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",Fluency of Ideas,1,0
+23986,Operations Research Analysts,Review research literature.,Written Comprehension,3,0
+23986,Operations Research Analysts,Review research literature.,Inductive Reasoning,2,0
+23986,Operations Research Analysts,Review research literature.,Deductive Reasoning,2,0
+23986,Operations Research Analysts,Review research literature.,Information Ordering,1,0
+23986,Operations Research Analysts,Review research literature.,Selective Attention,1,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Inductive Reasoning,3,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Mathematical Reasoning,3,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Number Facility,3,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Deductive Reasoning,2,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Problem Sensitivity,2,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Written Comprehension,2,0
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,Category Flexibility,1,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Deductive Reasoning,3,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Mathematical Reasoning,3,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Inductive Reasoning,2,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Problem Sensitivity,2,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Written Comprehension,2,0
+8958,Statisticians,"Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.",Number Facility,2,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Written Expression,3,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Mathematical Reasoning,2,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Number Facility,2,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Information Ordering,2,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Written Comprehension,2,0
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",Near Vision,1,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Deductive Reasoning,3,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Mathematical Reasoning,3,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Inductive Reasoning,2,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Problem Sensitivity,2,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Written Comprehension,2,0
+21100,Statisticians,"Determine whether statistical methods are appropriate, based on user needs or research questions of interest.",Oral Comprehension,1,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Information Ordering,3,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Selective Attention,3,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Number Facility,2,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Mathematical Reasoning,2,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Perceptual Speed,2,0
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",Problem Sensitivity,2,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Mathematical Reasoning,3,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Deductive Reasoning,3,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Inductive Reasoning,2,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Fluency of Ideas,2,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Problem Sensitivity,2,0
+8966,Statisticians,"Develop and test experimental designs, sampling techniques, and analytical methods.",Information Ordering,2,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Inductive Reasoning,3,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Mathematical Reasoning,2,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Number Facility,2,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Deductive Reasoning,2,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Problem Sensitivity,2,0
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",Category Flexibility,1,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Oral Expression,3,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Written Expression,2,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Oral Comprehension,2,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Speech Clarity,2,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Mathematical Reasoning,2,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Number Facility,1,0
+20194,Statisticians,"Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.",Information Ordering,1,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Deductive Reasoning,3,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Inductive Reasoning,3,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Mathematical Reasoning,2,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Information Ordering,2,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Fluency of Ideas,2,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Problem Sensitivity,2,0
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",Written Comprehension,1,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Mathematical Reasoning,3,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Inductive Reasoning,3,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Deductive Reasoning,2,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Category Flexibility,2,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Fluency of Ideas,2,0
+8965,Statisticians,"Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.",Problem Sensitivity,2,0
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",Deductive Reasoning,3,0
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",Inductive Reasoning,2,0
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",Written Comprehension,2,0
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",Problem Sensitivity,2,0
+8959,Statisticians,"Evaluate sources of information to determine any limitations, in terms of reliability or usability.",Mathematical Reasoning,1,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Mathematical Reasoning,3,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Number Facility,3,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Information Ordering,2,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Selective Attention,2,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Perceptual Speed,2,0
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",Deductive Reasoning,1,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Deductive Reasoning,3,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Mathematical Reasoning,3,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Inductive Reasoning,2,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Information Ordering,2,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Fluency of Ideas,2,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Problem Sensitivity,2,0
+20193,Statisticians,Develop software applications or programming for statistical modeling and graphic analysis.,Written Expression,1,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Written Expression,3,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Mathematical Reasoning,2,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Number Facility,2,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Written Comprehension,2,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Information Ordering,2,0
+20192,Statisticians,Report results of statistical analyses in peer-reviewed papers and technical manuals.,Deductive Reasoning,1,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Deductive Reasoning,3,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Mathematical Reasoning,3,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Information Ordering,2,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Inductive Reasoning,2,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Number Facility,2,0
+8960,Statisticians,"Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.",Problem Sensitivity,1,0
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",Mathematical Reasoning,3,0
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",Deductive Reasoning,2,0
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",Number Facility,2,0
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",Information Ordering,2,0
+8964,Statisticians,"Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.",Inductive Reasoning,1,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Mathematical Reasoning,3,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Inductive Reasoning,3,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Deductive Reasoning,3,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Originality,2,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Fluency of Ideas,2,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Number Facility,2,0
+8967,Statisticians,"Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.",Written Comprehension,1,0
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,Oral Expression,3,0
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,Oral Comprehension,2,0
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,Information Ordering,2,0
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,Speech Clarity,2,0
+8963,Statisticians,Supervise and provide instructions for workers collecting and tabulating data.,Deductive Reasoning,1,0
+21101,Statisticians,Prepare and structure data warehouses for storing data.,Deductive Reasoning,3,0
+21101,Statisticians,Prepare and structure data warehouses for storing data.,Information Ordering,3,0
+21101,Statisticians,Prepare and structure data warehouses for storing data.,Mathematical Reasoning,1,0
+21101,Statisticians,Prepare and structure data warehouses for storing data.,Problem Sensitivity,2,0
+21101,Statisticians,Prepare and structure data warehouses for storing data.,Inductive Reasoning,1,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Inductive Reasoning,3,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Deductive Reasoning,3,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Mathematical Reasoning,2,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Number Facility,2,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Problem Sensitivity,2,0
+16254,Biostatisticians,"Draw conclusions or make predictions, based on data summaries or statistical analyses.",Written Comprehension,1,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Mathematical Reasoning,3,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Inductive Reasoning,3,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Deductive Reasoning,2,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Number Facility,2,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Problem Sensitivity,2,0
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",Written Comprehension,1,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Written Expression,3,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Deductive Reasoning,2,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Information Ordering,2,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Mathematical Reasoning,2,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Written Comprehension,2,0
+16250,Biostatisticians,Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,Oral Comprehension,1,0
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,Mathematical Reasoning,3,0
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,Number Facility,3,0
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,Deductive Reasoning,2,0
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,Inductive Reasoning,2,0
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,Problem Sensitivity,1,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Written Comprehension,3,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Oral Comprehension,2,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Inductive Reasoning,2,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Speech Recognition,2,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Information Ordering,1,0
+16243,Biostatisticians,"Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.",Memorization,1,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Deductive Reasoning,3,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Inductive Reasoning,2,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Fluency of Ideas,2,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Oral Expression,2,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Oral Comprehension,2,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Mathematical Reasoning,2,0
+16258,Biostatisticians,"Design research studies in collaboration with physicians, life scientists, or other professionals.",Problem Sensitivity,2,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Information Ordering,3,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Mathematical Reasoning,2,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Number Facility,2,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Written Expression,2,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Perceptual Speed,1,0
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,Near Vision,1,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Deductive Reasoning,3,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Mathematical Reasoning,3,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Written Expression,2,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Information Ordering,2,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Problem Sensitivity,2,0
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,Inductive Reasoning,1,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Oral Expression,3,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Oral Comprehension,3,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Mathematical Reasoning,2,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Deductive Reasoning,2,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Speech Clarity,2,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Speech Recognition,2,0
+16263,Biostatisticians,Provide biostatistical consultation to clients or colleagues.,Written Comprehension,1,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Written Comprehension,3,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Deductive Reasoning,3,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Mathematical Reasoning,2,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Inductive Reasoning,2,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Problem Sensitivity,2,0
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,Written Expression,1,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Deductive Reasoning,3,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Mathematical Reasoning,3,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Inductive Reasoning,2,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Information Ordering,2,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Fluency of Ideas,2,0
+16257,Biostatisticians,Develop or implement data analysis algorithms.,Problem Sensitivity,2,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Deductive Reasoning,3,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Information Ordering,2,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Mathematical Reasoning,2,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Problem Sensitivity,2,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Written Expression,2,0
+16247,Biostatisticians,"Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.",Inductive Reasoning,1,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Written Expression,3,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Mathematical Reasoning,2,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Number Facility,2,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Information Ordering,2,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Written Comprehension,2,0
+16244,Biostatisticians,"Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.",Deductive Reasoning,1,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Deductive Reasoning,3,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Inductive Reasoning,2,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Information Ordering,2,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Mathematical Reasoning,2,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Oral Expression,2,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Fluency of Ideas,2,0
+16251,Biostatisticians,Plan or direct research studies related to life sciences.,Problem Sensitivity,1,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Written Expression,3,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Written Comprehension,2,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Information Ordering,2,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Mathematical Reasoning,2,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Oral Expression,1,0
+16245,Biostatisticians,Prepare articles for publication or presentation at professional conferences.,Fluency of Ideas,1,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Deductive Reasoning,3,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Selective Attention,3,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Problem Sensitivity,2,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Written Comprehension,2,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Mathematical Reasoning,2,0
+16253,Biostatisticians,Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.,Information Ordering,1,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Written Expression,3,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Deductive Reasoning,2,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Inductive Reasoning,2,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Written Comprehension,2,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Fluency of Ideas,2,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Information Ordering,2,0
+16241,Biostatisticians,Write research proposals or grant applications for submission to external bodies.,Originality,1,0
+16259,Biostatisticians,Design or maintain databases of biological data.,Deductive Reasoning,3,0
+16259,Biostatisticians,Design or maintain databases of biological data.,Information Ordering,3,0
+16259,Biostatisticians,Design or maintain databases of biological data.,Problem Sensitivity,2,0
+16259,Biostatisticians,Design or maintain databases of biological data.,Inductive Reasoning,1,0
+16259,Biostatisticians,Design or maintain databases of biological data.,Fluency of Ideas,1,0
+16260,Biostatisticians,Collect data through surveys or experimentation.,Information Ordering,2,0
+16260,Biostatisticians,Collect data through surveys or experimentation.,Deductive Reasoning,2,0
+16260,Biostatisticians,Collect data through surveys or experimentation.,Selective Attention,2,0
+16260,Biostatisticians,Collect data through surveys or experimentation.,Mathematical Reasoning,1,0
+16260,Biostatisticians,Collect data through surveys or experimentation.,Written Comprehension,1,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Inductive Reasoning,3,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Deductive Reasoning,2,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Mathematical Reasoning,2,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Fluency of Ideas,2,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Originality,2,0
+16264,Biostatisticians,Apply research or simulation results to extend biological theory or recommend new research projects.,Written Comprehension,1,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Mathematical Reasoning,3,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Inductive Reasoning,3,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Deductive Reasoning,2,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Number Facility,2,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Fluency of Ideas,2,0
+16255,Biostatisticians,"Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.",Problem Sensitivity,2,0
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,Oral Expression,3,0
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,Deductive Reasoning,2,0
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,Information Ordering,2,0
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,Written Expression,1,0
+16248,Biostatisticians,Assign work to biostatistical assistants or programmers.,Oral Comprehension,1,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Mathematical Reasoning,3,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Inductive Reasoning,3,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Number Facility,2,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Deductive Reasoning,2,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Problem Sensitivity,2,0
+16261,Biostatisticians,"Analyze archival data, such as birth, death, and disease records.",Selective Attention,1,0
+16256,Biostatisticians,Design surveys to assess health issues.,Deductive Reasoning,3,0
+16256,Biostatisticians,Design surveys to assess health issues.,Inductive Reasoning,2,0
+16256,Biostatisticians,Design surveys to assess health issues.,Fluency of Ideas,2,0
+16256,Biostatisticians,Design surveys to assess health issues.,Written Expression,2,0
+16256,Biostatisticians,Design surveys to assess health issues.,Information Ordering,2,0
+16256,Biostatisticians,Design surveys to assess health issues.,Problem Sensitivity,1,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Oral Expression,3,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Oral Comprehension,2,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Speech Clarity,2,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Information Ordering,2,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Mathematical Reasoning,2,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Written Expression,1,0
+16242,Biostatisticians,Teach graduate or continuing education courses or seminars in biostatistics.,Deductive Reasoning,1,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Mathematical Reasoning,3,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Number Facility,2,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Inductive Reasoning,2,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Deductive Reasoning,2,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Selective Attention,2,0
+21823,Data Scientists,"Analyze, manipulate, or process large sets of data using statistical software.",Information Ordering,2,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Mathematical Reasoning,3,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Deductive Reasoning,3,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Inductive Reasoning,2,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Problem Sensitivity,2,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Category Flexibility,2,0
+21824,Data Scientists,"Apply feature selection algorithms to models predicting outcomes of interest, such as sales, attrition, and healthcare use.",Number Facility,1,0
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Mathematical Reasoning,3,0
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Deductive Reasoning,2,0
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Number Facility,2,0
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Information Ordering,2,0
+21825,Data Scientists,Apply sampling techniques to determine groups to be surveyed or use complete enumeration methods.,Inductive Reasoning,1,0
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,Information Ordering,3,0
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,Selective Attention,3,0
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,Perceptual Speed,2,0
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,Problem Sensitivity,2,0
+21826,Data Scientists,Clean and manipulate raw data using statistical software.,Mathematical Reasoning,1,0
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Mathematical Reasoning,3,0
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Deductive Reasoning,3,0
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Number Facility,2,0
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Inductive Reasoning,2,0
+21827,Data Scientists,"Compare models using statistical performance metrics, such as loss functions or proportion of explained variance.",Problem Sensitivity,2,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Information Ordering,2,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Mathematical Reasoning,2,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Written Expression,2,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Visualization,2,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Number Facility,1,0
+21828,Data Scientists,"Create graphs, charts, or other visualizations to convey the results of data analysis using specialized software.",Deductive Reasoning,1,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Oral Expression,3,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Written Expression,2,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Mathematical Reasoning,2,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Speech Clarity,2,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Information Ordering,2,0
+21829,Data Scientists,Deliver oral or written presentations of the results of mathematical modeling and data analysis to management or other end users.,Oral Comprehension,1,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Deductive Reasoning,3,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Written Expression,2,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Fluency of Ideas,2,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Information Ordering,2,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Inductive Reasoning,2,0
+21830,Data Scientists,"Design surveys, opinion polls, or other instruments to collect data.",Problem Sensitivity,1,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Inductive Reasoning,3,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Deductive Reasoning,2,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Problem Sensitivity,3,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Oral Comprehension,2,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Written Comprehension,2,0
+21831,Data Scientists,Identify business problems or management objectives that can be addressed through data analysis.,Category Flexibility,1,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Inductive Reasoning,3,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Deductive Reasoning,2,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Mathematical Reasoning,2,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Problem Sensitivity,2,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Number Facility,1,0
+21832,Data Scientists,Identify relationships and trends or any factors that could affect the results of research.,Written Comprehension,1,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Inductive Reasoning,3,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Deductive Reasoning,3,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Problem Sensitivity,2,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Mathematical Reasoning,2,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Oral Expression,1,0
+21833,Data Scientists,"Identify solutions to business problems, such as budgeting, staffing, and marketing decisions, using the results of data analysis.",Fluency of Ideas,1,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Mathematical Reasoning,3,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Deductive Reasoning,3,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Inductive Reasoning,2,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Fluency of Ideas,2,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Originality,2,0
+21834,Data Scientists,"Propose solutions in engineering, the sciences, and other fields using mathematical theories and techniques.",Written Expression,1,0
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Written Comprehension,3,0
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Inductive Reasoning,2,0
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Deductive Reasoning,2,0
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Selective Attention,2,0
+21835,Data Scientists,"Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.",Information Ordering,1,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Oral Expression,3,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Deductive Reasoning,2,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Inductive Reasoning,2,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Written Expression,2,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Speech Clarity,2,0
+21836,Data Scientists,Recommend data-driven solutions to key stakeholders.,Mathematical Reasoning,1,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Deductive Reasoning,3,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Mathematical Reasoning,3,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Inductive Reasoning,2,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Problem Sensitivity,2,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Number Facility,2,0
+21837,Data Scientists,"Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.",Information Ordering,1,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Deductive Reasoning,3,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Mathematical Reasoning,2,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Written Expression,2,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Information Ordering,2,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Problem Sensitivity,2,0
+21838,Data Scientists,Write new functions or applications in programming languages to conduct analyses.,Fluency of Ideas,1,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Written Expression,3,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Information Ordering,2,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Mathematical Reasoning,2,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Number Facility,2,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Written Comprehension,2,0
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",Deductive Reasoning,1,0
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Deductive Reasoning,2,0
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Information Ordering,2,0
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Problem Sensitivity,2,0
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Inductive Reasoning,1,0
+16139,Business Intelligence Analysts,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",Written Comprehension,1,0
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,Information Ordering,3,0
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,Deductive Reasoning,2,0
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,Oral Expression,1,0
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,Time Sharing,2,0
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,Problem Sensitivity,1,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Deductive Reasoning,3,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Problem Sensitivity,2,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Oral Expression,2,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Oral Comprehension,2,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Written Comprehension,1,0
+16134,Business Intelligence Analysts,"Provide technical support for existing reports, dashboards, or other tools.",Information Ordering,1,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Inductive Reasoning,3,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Deductive Reasoning,2,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Mathematical Reasoning,2,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Written Comprehension,2,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Problem Sensitivity,2,0
+16141,Business Intelligence Analysts,Identify and analyze industry or geographic trends with business strategy implications.,Number Facility,1,0
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Written Expression,3,0
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Deductive Reasoning,2,0
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Information Ordering,2,0
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Written Comprehension,2,0
+16142,Business Intelligence Analysts,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",Oral Comprehension,1,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Deductive Reasoning,3,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Information Ordering,3,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Inductive Reasoning,2,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Fluency of Ideas,2,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Mathematical Reasoning,1,0
+16144,Business Intelligence Analysts,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",Problem Sensitivity,2,0
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Written Comprehension,3,0
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Information Ordering,2,0
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Inductive Reasoning,2,0
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Selective Attention,2,0
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",Deductive Reasoning,1,0
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",Written Expression,3,0
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",Oral Expression,2,0
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",Information Ordering,2,0
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",Written Comprehension,1,0
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",Speech Clarity,1,0
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Deductive Reasoning,3,0
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Problem Sensitivity,2,0
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Selective Attention,2,0
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Information Ordering,2,0
+16145,Business Intelligence Analysts,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,Written Comprehension,1,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Inductive Reasoning,3,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Deductive Reasoning,3,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Written Comprehension,2,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Mathematical Reasoning,1,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Written Expression,2,0
+16149,Business Intelligence Analysts,Synthesize current business intelligence or trend data to support recommendations for action.,Problem Sensitivity,2,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Inductive Reasoning,3,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Deductive Reasoning,2,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Mathematical Reasoning,2,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Number Facility,2,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Problem Sensitivity,2,0
+16148,Business Intelligence Analysts,"Analyze competitive market strategies through analysis of related product, market, or share trends.",Written Comprehension,1,0
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",Inductive Reasoning,3,0
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",Deductive Reasoning,2,0
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",Problem Sensitivity,2,0
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",Written Comprehension,2,0
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",Mathematical Reasoning,1,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Oral Comprehension,3,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Oral Expression,2,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Speech Recognition,2,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Written Comprehension,2,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Speech Clarity,1,0
+16138,Business Intelligence Analysts,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",Inductive Reasoning,1,0
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",Information Ordering,3,0
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",Written Comprehension,2,0
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",Deductive Reasoning,1,0
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",Selective Attention,1,0
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Written Comprehension,3,0
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Deductive Reasoning,2,0
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Written Expression,2,0
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Information Ordering,2,0
+16137,Business Intelligence Analysts,Create or review technical design documentation to ensure the accurate development of reporting solutions.,Problem Sensitivity,2,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Inductive Reasoning,3,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Deductive Reasoning,2,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Problem Sensitivity,2,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Written Comprehension,2,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Fluency of Ideas,2,0
+16147,Business Intelligence Analysts,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,Mathematical Reasoning,1,0
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",Deductive Reasoning,3,0
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",Information Ordering,3,0
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",Problem Sensitivity,2,0
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",Inductive Reasoning,2,0
+16281,Clinical Data Managers,"Design and validate clinical databases, including designing or testing logic checks.",Fluency of Ideas,1,0
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",Information Ordering,3,0
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",Selective Attention,3,0
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",Perceptual Speed,2,0
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",Deductive Reasoning,2,0
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",Problem Sensitivity,1,0
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",Problem Sensitivity,3,0
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",Deductive Reasoning,3,0
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",Information Ordering,2,0
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",Inductive Reasoning,2,0
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",Selective Attention,2,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Deductive Reasoning,3,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Information Ordering,3,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Problem Sensitivity,2,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Written Expression,2,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Inductive Reasoning,1,0
+16285,Clinical Data Managers,"Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.",Fluency of Ideas,1,0
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,Deductive Reasoning,3,0
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,Selective Attention,2,0
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,Problem Sensitivity,2,0
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,Written Comprehension,2,0
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,Information Ordering,1,0
+16268,Clinical Data Managers,Prepare appropriate formatting to data sets as requested.,Information Ordering,3,0
+16268,Clinical Data Managers,Prepare appropriate formatting to data sets as requested.,Deductive Reasoning,2,0
+16268,Clinical Data Managers,Prepare appropriate formatting to data sets as requested.,Selective Attention,2,0
+16268,Clinical Data Managers,Prepare appropriate formatting to data sets as requested.,Perceptual Speed,1,0
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",Deductive Reasoning,3,0
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",Information Ordering,3,0
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",Written Expression,2,0
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",Fluency of Ideas,1,0
+16286,Clinical Data Managers,"Design forms for receiving, processing, or tracking data.",Problem Sensitivity,1,0
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",Written Expression,3,0
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",Information Ordering,2,0
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",Mathematical Reasoning,2,0
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",Number Facility,2,0
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",Deductive Reasoning,1,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Oral Expression,3,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Oral Comprehension,3,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Deductive Reasoning,2,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Written Comprehension,2,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Speech Clarity,2,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Problem Sensitivity,2,0
+16282,Clinical Data Managers,"Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.",Speech Recognition,1,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Deductive Reasoning,3,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Selective Attention,3,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Problem Sensitivity,3,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Perceptual Speed,2,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Written Comprehension,2,0
+16278,Clinical Data Managers,"Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.",Information Ordering,1,0
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,Mathematical Reasoning,3,0
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,Inductive Reasoning,2,0
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,Deductive Reasoning,2,0
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,Number Facility,2,0
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,Problem Sensitivity,2,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Deductive Reasoning,3,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Inductive Reasoning,2,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Problem Sensitivity,2,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Fluency of Ideas,2,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Written Comprehension,2,0
+16269,Clinical Data Managers,"Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.",Oral Expression,1,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Deductive Reasoning,3,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Written Expression,3,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Oral Expression,2,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Information Ordering,2,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Written Comprehension,2,0
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,Problem Sensitivity,1,0
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",Written Expression,3,0
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",Information Ordering,3,0
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",Deductive Reasoning,2,0
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",Written Comprehension,1,0
+16273,Clinical Data Managers,"Write work instruction manuals, data capture guidelines, or standard operating procedures.",Oral Comprehension,1,0
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",Information Ordering,3,0
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",Selective Attention,2,0
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",Deductive Reasoning,2,0
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",Problem Sensitivity,1,0
+16276,Clinical Data Managers,Supervise the work of data management project staff.,Oral Expression,3,0
+16276,Clinical Data Managers,Supervise the work of data management project staff.,Deductive Reasoning,2,0
+16276,Clinical Data Managers,Supervise the work of data management project staff.,Information Ordering,2,0
+16276,Clinical Data Managers,Supervise the work of data management project staff.,Written Expression,1,0
+16276,Clinical Data Managers,Supervise the work of data management project staff.,Oral Comprehension,1,0
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",Written Expression,3,0
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",Information Ordering,3,0
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",Written Comprehension,2,0
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",Deductive Reasoning,2,0
+16272,Clinical Data Managers,"Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.",Selective Attention,1,0
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,Written Comprehension,3,0
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,Inductive Reasoning,2,0
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,Deductive Reasoning,1,0
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,Oral Comprehension,1,0
+16266,Clinical Data Managers,Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.,Memorization,1,0
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,Oral Expression,3,0
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,Speech Clarity,2,0
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,Information Ordering,2,0
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,Oral Comprehension,2,0
+16275,Clinical Data Managers,Train staff on technical procedures or software program usage.,Written Expression,1,0
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,Deductive Reasoning,3,0
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,Inductive Reasoning,2,0
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,Problem Sensitivity,2,0
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,Category Flexibility,2,0
+16271,Clinical Data Managers,Develop or select specific software programs for various research scenarios.,Written Comprehension,1,0
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",Oral Expression,3,0
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",Oral Comprehension,2,0
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",Written Expression,2,0
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",Written Comprehension,2,0
+16267,Clinical Data Managers,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",Speech Clarity,1,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Mathematical Reasoning,3,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Inductive Reasoning,2,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Deductive Reasoning,2,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Number Facility,2,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Information Ordering,2,0
+17709,Bioinformatics Technicians,"Analyze or manipulate bioinformatics data using software packages, statistical applications, or data mining techniques.",Problem Sensitivity,1,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Deductive Reasoning,3,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Inductive Reasoning,2,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Problem Sensitivity,2,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Information Ordering,2,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Written Comprehension,2,0
+17715,Bioinformatics Technicians,"Extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",Fluency of Ideas,1,0
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,Written Comprehension,3,0
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,Inductive Reasoning,2,0
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,Deductive Reasoning,1,0
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,Memorization,1,0
+17716,Bioinformatics Technicians,Maintain awareness of new and emerging computational methods and technologies.,Oral Comprehension,1,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Deductive Reasoning,3,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Problem Sensitivity,3,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Selective Attention,2,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Mathematical Reasoning,2,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Inductive Reasoning,2,0
+17721,Bioinformatics Technicians,Conduct quality analyses of data inputs and resulting analyses or predictions.,Perceptual Speed,1,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Written Comprehension,2,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Information Ordering,2,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Selective Attention,2,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Perceptual Speed,2,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Deductive Reasoning,1,0
+17707,Bioinformatics Technicians,"Enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",Near Vision,1,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Deductive Reasoning,3,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Information Ordering,3,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Mathematical Reasoning,2,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Inductive Reasoning,2,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Problem Sensitivity,2,0
+17706,Bioinformatics Technicians,"Develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",Fluency of Ideas,1,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Oral Expression,3,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Oral Comprehension,3,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Speech Clarity,2,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Speech Recognition,2,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Written Comprehension,2,0
+17710,Bioinformatics Technicians,"Confer with researchers, clinicians, or information technology staff to determine data needs and programming requirements and to provide assistance with database-related research activities.",Deductive Reasoning,1,0
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,Written Expression,3,0
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,Written Comprehension,2,0
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,Information Ordering,2,0
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,Mathematical Reasoning,1,0
+17717,Bioinformatics Technicians,Participate in the preparation of reports or scientific publications.,Deductive Reasoning,1,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Deductive Reasoning,3,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Written Expression,2,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Information Ordering,2,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Mathematical Reasoning,2,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Problem Sensitivity,2,0
+17720,Bioinformatics Technicians,Write computer programs or scripts to be used in querying databases.,Inductive Reasoning,1,0
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",Written Expression,3,0
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",Information Ordering,2,0
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",Deductive Reasoning,2,0
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",Selective Attention,2,0
+17714,Bioinformatics Technicians,"Document all database changes, modifications, or problems.",Written Comprehension,1,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Deductive Reasoning,3,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Written Expression,3,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Information Ordering,2,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Problem Sensitivity,2,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Written Comprehension,1,0
+17711,Bioinformatics Technicians,Create data management or error-checking procedures and user manuals.,Fluency of Ideas,1,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Mathematical Reasoning,3,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Deductive Reasoning,3,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Inductive Reasoning,2,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Problem Sensitivity,2,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Fluency of Ideas,2,0
+17713,Bioinformatics Technicians,Develop or apply data mining and machine learning algorithms.,Information Ordering,1,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Deductive Reasoning,3,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Information Ordering,2,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Fluency of Ideas,2,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Problem Sensitivity,2,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Inductive Reasoning,2,0
+17712,Bioinformatics Technicians,Design or implement web-based tools for querying large-scale biological databases.,Mathematical Reasoning,1,0
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",Deductive Reasoning,3,0
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",Problem Sensitivity,3,0
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",Selective Attention,2,0
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",Inductive Reasoning,2,0
+17708,Bioinformatics Technicians,"Monitor database performance and perform any necessary maintenance, upgrades, or repairs.",Information Ordering,1,0
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,Oral Expression,3,0
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,Oral Comprehension,2,0
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,Speech Clarity,2,0
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,Speech Recognition,2,0
+17722,Bioinformatics Technicians,Confer with database users about project timelines and changes.,Deductive Reasoning,1,0
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",Deductive Reasoning,3,0
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",Problem Sensitivity,2,0
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",Information Ordering,2,0
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",Inductive Reasoning,2,0
+17724,Bioinformatics Technicians,"Perform routine system administrative functions, such as troubleshooting, back-ups, or upgrades.",Selective Attention,1,0
+17723,Bioinformatics Technicians,Package bioinformatics data for submission to public repositories.,Information Ordering,3,0
+17723,Bioinformatics Technicians,Package bioinformatics data for submission to public repositories.,Deductive Reasoning,2,0
+17723,Bioinformatics Technicians,Package bioinformatics data for submission to public repositories.,Selective Attention,2,0
+17723,Bioinformatics Technicians,Package bioinformatics data for submission to public repositories.,Written Comprehension,1,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Oral Expression,3,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Speech Clarity,2,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Information Ordering,2,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Oral Comprehension,2,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Written Expression,1,0
+17719,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases.,Deductive Reasoning,1,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Deductive Reasoning,3,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Problem Sensitivity,3,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Inductive Reasoning,2,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Oral Expression,2,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Written Expression,2,0
+17718,Bioinformatics Technicians,Test new or updated software or tools and provide feedback to developers.,Selective Attention,1,0

@@ -1,0 +1,782 @@
+[
+{
+"task_id": "13752",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Dismantle defective machines for repair, using hand tools."
+},
+{
+"task_id": "13755",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Clean and lubricate parts."
+},
+{
+"task_id": "13754",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Repair or replace defective parts, using hand tools, milling and woodworking machines, lathes, welding equipment, grinders, or saws."
+},
+{
+"task_id": "13753",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Test and replace electrical components and wiring, using test meters, soldering equipment, and hand tools."
+},
+{
+"task_id": "13756",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Tune or overhaul engines."
+},
+{
+"task_id": "13757",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Drive trucks to haul tools and equipment for on-site repair of large machinery."
+},
+{
+"task_id": "13758",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Fabricate new metal parts, using drill presses, engine lathes, and other machine tools."
+},
+{
+"task_id": "13761",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Repair bent or torn sheet metal."
+},
+{
+"task_id": "13759",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Calculate bills according to record of repairs made, labor time, and parts used."
+},
+{
+"task_id": "13760",
+"soc": "49-3041.00",
+"occupation": "Farm Equipment Mechanics and Service Technicians",
+"task_text": "Install and repair agricultural irrigation, plumbing, and sprinkler systems."
+},
+{
+"task_id": "3001",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Repair and replace damaged or worn parts."
+},
+{
+"task_id": "3000",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Test mechanical products and equipment after repair or assembly to ensure proper performance and compliance with manufacturers' specifications."
+},
+{
+"task_id": "3002",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Operate and inspect machines or heavy equipment to diagnose defects."
+},
+{
+"task_id": "3008",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Read and understand operating manuals, blueprints, and technical drawings."
+},
+{
+"task_id": "3004",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Dismantle and reassemble heavy equipment using hoists and hand tools."
+},
+{
+"task_id": "3009",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Overhaul and test machines or equipment to ensure operating efficiency."
+},
+{
+"task_id": "3014",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Adjust, maintain, and repair or replace subassemblies, such as transmissions and crawler heads, using hand tools, jacks, and cranes."
+},
+{
+"task_id": "18583",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Repair, rewire, and troubleshoot electrical systems."
+},
+{
+"task_id": "3003",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Diagnose faults or malfunctions to determine required repairs, using engine diagnostic equipment such as computerized test equipment and calibration devices."
+},
+{
+"task_id": "3006",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Examine parts for damage or excessive wear, using micrometers and gauges."
+},
+{
+"task_id": "3012",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Weld or solder broken parts and structural members, using electric or gas welders and soldering tools."
+},
+{
+"task_id": "18584",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Research, order, and maintain parts inventory for services and repairs."
+},
+{
+"task_id": "3011",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Fit bearings to adjust, repair, or overhaul mobile mechanical, hydraulic, and pneumatic equipment."
+},
+{
+"task_id": "3007",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Schedule maintenance for industrial machines and equipment, and keep equipment service records."
+},
+{
+"task_id": "3005",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Clean, lubricate, and perform other routine maintenance work on equipment and vehicles."
+},
+{
+"task_id": "3010",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Assemble gear systems, and align frames and gears."
+},
+{
+"task_id": "3013",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Clean parts by spraying them with grease solvent or immersing them in tanks of solvent."
+},
+{
+"task_id": "3015",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Adjust and maintain industrial machinery, using control and regulating devices."
+},
+{
+"task_id": "3016",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Fabricate needed parts or items from sheet metal."
+},
+{
+"task_id": "3017",
+"soc": "49-3042.00",
+"occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+"task_text": "Direct workers who are assembling or disassembling equipment or cleaning parts."
+},
+{
+"task_id": "9986",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Record conditions of cars, and repair and maintenance work performed or to be performed."
+},
+{
+"task_id": "9988",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Inspect components such as bearings, seals, gaskets, wheels, and coupler assemblies to determine if repairs are needed."
+},
+{
+"task_id": "9984",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Repair or replace defective or worn parts such as bearings, pistons, and gears, using hand tools, torque wrenches, power tools, and welding equipment."
+},
+{
+"task_id": "9989",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Inspect the interior and exterior of rail cars coming into rail yards to identify defects and to determine the extent of wear and damage."
+},
+{
+"task_id": "9987",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Remove locomotives, car mechanical units, or other components, using pneumatic hoists and jacks, pinch bars, hand tools, and cutting torches."
+},
+{
+"task_id": "9985",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Test units for operability before and after repairs."
+},
+{
+"task_id": "9990",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Adjust repaired or replaced units as needed to ensure proper operation."
+},
+{
+"task_id": "9992",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Repair, fabricate, and install steel or wood fittings, using blueprints, shop sketches, and instruction manuals."
+},
+{
+"task_id": "9991",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Perform scheduled maintenance, and clean units and components."
+},
+{
+"task_id": "10000",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Examine car roofs for wear and damage, and repair defective sections, using roofing material, cement, nails, and waterproof paint."
+},
+{
+"task_id": "10001",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Paint car exteriors, interiors, and fixtures."
+},
+{
+"task_id": "9993",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Repair and maintain electrical and electronic controls for propulsion and braking systems."
+},
+{
+"task_id": "9994",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Disassemble units such as water pumps, control valves, and compressors so that repairs can be made."
+},
+{
+"task_id": "9995",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Measure diameters of axle wheel seats, using micrometers, and mark dimensions on axles so that wheels can be bored to specified dimensions."
+},
+{
+"task_id": "9998",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Test electrical systems of cars by operating systems and using testing equipment such as ammeters."
+},
+{
+"task_id": "9997",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Replace defective wiring and insulation, and tighten electrical connections, using hand tools."
+},
+{
+"task_id": "9999",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Install and repair interior flooring, fixtures, walls, plumbing, steps, and platforms."
+},
+{
+"task_id": "10003",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Repair window sash frames, attach weather stripping and channels to frames, and replace window glass, using hand tools."
+},
+{
+"task_id": "9996",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Align car sides for installation of car ends and crossties, using width gauges, turnbuckles, and wrenches."
+},
+{
+"task_id": "10002",
+"soc": "49-3043.00",
+"occupation": "Rail Car Repairers",
+"task_text": "Repair car upholstery."
+},
+{
+"task_id": "13764",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Start motors and monitor performance for signs of malfunctioning, such as smoke, excessive vibration, or misfiring."
+},
+{
+"task_id": "13765",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Document inspection and test results and work performed or to be performed."
+},
+{
+"task_id": "13763",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Mount motors to boats, and operate boats at various speeds on waterways to conduct operational tests."
+},
+{
+"task_id": "13770",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Repair engine mechanical equipment, such as power tilts, bilge pumps, or power take-offs."
+},
+{
+"task_id": "20801",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Perform routine engine maintenance on motorboats, such as changing oil and filters."
+},
+{
+"task_id": "13766",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Replace parts, such as gears, magneto points, piston rings, or spark plugs, and reassemble engines."
+},
+{
+"task_id": "13767",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Idle motors and observe thermometers to determine the effectiveness of cooling systems."
+},
+{
+"task_id": "13771",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Inspect and repair or adjust propellers or propeller shafts."
+},
+{
+"task_id": "13769",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Adjust carburetor mixtures, electrical point settings, or timing while motors are running in water-filled test tanks."
+},
+{
+"task_id": "13768",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Set starter locks and align and repair steering or throttle controls, using gauges, screwdrivers, or wrenches."
+},
+{
+"task_id": "13762",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Disassemble and inspect motors to locate defective parts, using mechanic's hand tools and gauges."
+},
+{
+"task_id": "13773",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Adjust generators and replace faulty wiring, using hand tools and soldering irons."
+},
+{
+"task_id": "13772",
+"soc": "49-3051.00",
+"occupation": "Motorboat Mechanics and Service Technicians",
+"task_text": "Repair or rework parts, using machine tools such as lathes, mills, drills, or grinders."
+},
+{
+"task_id": "20651",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Mount, balance, change, or check condition or pressure of tires."
+},
+{
+"task_id": "8353",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Replace defective parts, using hand tools, arbor presses, flexible power presses, or power tools."
+},
+{
+"task_id": "8357",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Dismantle engines and repair or replace defective parts, such as magnetos, carburetors, or generators."
+},
+{
+"task_id": "8354",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Connect test panels to engines and measure generator output, ignition timing, or other engine performance indicators."
+},
+{
+"task_id": "8355",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Listen to engines, examine vehicle frames, or confer with customers to determine nature and extent of malfunction or damage."
+},
+{
+"task_id": "8359",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Repair or replace other parts, such as headlights, horns, handlebar controls, gasoline or oil tanks, starters, or mufflers."
+},
+{
+"task_id": "8360",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Disassemble subassembly units and examine condition, movement, or alignment of parts, visually or using gauges."
+},
+{
+"task_id": "8352",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Repair or adjust motorcycle subassemblies, such as forks, transmissions, brakes, or drive chains, according to specifications."
+},
+{
+"task_id": "20652",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Reassemble frames and reinstall engines after repairs."
+},
+{
+"task_id": "8358",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Remove cylinder heads and grind valves to scrape off carbon and replace defective valves, pistons, cylinders, or rings, using hand and power tools."
+},
+{
+"task_id": "23934",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Install motorcycle accessories."
+},
+{
+"task_id": "8356",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Reassemble and test subassembly units."
+},
+{
+"task_id": "20653",
+"soc": "49-3052.00",
+"occupation": "Motorcycle Mechanics",
+"task_text": "Hammer out dents and bends in frames and weld tears and breaks."
+},
+{
+"task_id": "13777",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Record repairs made, time spent, and parts used."
+},
+{
+"task_id": "13780",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Test and inspect engines to determine malfunctions, to locate missing and broken parts, and to verify repairs, using diagnostic instruments."
+},
+{
+"task_id": "13784",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Dismantle engines, using hand tools, and examine parts for defects."
+},
+{
+"task_id": "13774",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Repair and maintain gasoline engines used to power equipment such as portable saws, lawn mowers, generators, and compressors."
+},
+{
+"task_id": "13775",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Adjust points, valves, carburetors, distributors, and spark plug gaps, using feeler gauges."
+},
+{
+"task_id": "13781",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Repair or replace defective parts such as magnetos, water pumps, gears, pistons, and carburetors, using hand tools."
+},
+{
+"task_id": "13778",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Perform routine maintenance such as cleaning and oiling parts, honing cylinders, and tuning ignition systems."
+},
+{
+"task_id": "13776",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Reassemble engines after repair or maintenance work is complete."
+},
+{
+"task_id": "13785",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Replace motors."
+},
+{
+"task_id": "13779",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Obtain problem descriptions from customers, and prepare cost estimates for repairs."
+},
+{
+"task_id": "13783",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Show customers how to maintain equipment."
+},
+{
+"task_id": "13787",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Remove engines from equipment, and position and bolt engines to repair stands."
+},
+{
+"task_id": "13782",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Sell parts and equipment."
+},
+{
+"task_id": "13786",
+"soc": "49-3053.00",
+"occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+"task_text": "Grind, ream, rebore, and re-tap parts to obtain specified clearances, using grinders, lathes, taps, reamers, boring machines, and micrometers."
+},
+{
+"task_id": "20915",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Install and adjust brakes and brake pads."
+},
+{
+"task_id": "20916",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Help customers select bicycles that fit their body sizes and intended bicycle uses."
+},
+{
+"task_id": "5187",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Align wheels."
+},
+{
+"task_id": "5185",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Assemble new bicycles."
+},
+{
+"task_id": "20917",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Sell bicycles and accessories."
+},
+{
+"task_id": "5186",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Install, repair, and replace equipment or accessories, such as handlebars, stands, lights, and seats."
+},
+{
+"task_id": "20918",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Install new tires and tubes."
+},
+{
+"task_id": "5184",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Install and adjust speed and gear mechanisms."
+},
+{
+"task_id": "20919",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Clean and lubricate bicycle parts."
+},
+{
+"task_id": "20920",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Order bicycle parts."
+},
+{
+"task_id": "5188",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Disassemble axles to repair, adjust, and replace defective parts, using hand tools."
+},
+{
+"task_id": "20921",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Build wheels by cutting and threading new spokes."
+},
+{
+"task_id": "5189",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Shape replacement parts, using bench grinders."
+},
+{
+"task_id": "5190",
+"soc": "49-3091.00",
+"occupation": "Bicycle Repairers",
+"task_text": "Repair holes in tire tubes, using scrapers and patches."
+},
+{
+"task_id": "20804",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Diagnose and repair furnace or air conditioning systems."
+},
+{
+"task_id": "10010",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Connect electrical systems to outside power sources, and activate switches to test the operation of appliances or light fixtures."
+},
+{
+"task_id": "10004",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Examine or test operation of parts or systems to ensure completeness of repairs."
+},
+{
+"task_id": "10005",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Repair plumbing or propane gas lines, using caulking compounds and plastic or copper pipe."
+},
+{
+"task_id": "10006",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Inspect recreational vehicles to diagnose problems and perform necessary adjustment, repair, or overhaul."
+},
+{
+"task_id": "10007",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, or hand tools."
+},
+{
+"task_id": "10008",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Confer with customers, read work orders, or examine vehicles needing repair to determine the nature and extent of damage."
+},
+{
+"task_id": "10014",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Repair leaks with caulking compound or replace pipes, using pipe wrenches."
+},
+{
+"task_id": "20803",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Inspect, repair, or replace brake systems."
+},
+{
+"task_id": "10011",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Connect water hoses to inlet pipes of plumbing systems, and test operation of toilets or sinks."
+},
+{
+"task_id": "10009",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, or diagrams."
+},
+{
+"task_id": "10012",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Remove damaged exterior panels, and repair and replace structural frame members."
+},
+{
+"task_id": "10016",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Reset hardware, using chisels, mallets, and screwdrivers."
+},
+{
+"task_id": "10013",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Open and close doors, windows, or drawers to test their operation, trimming edges to fit, as necessary."
+},
+{
+"task_id": "20802",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Explain proper operation of vehicle systems to customers."
+},
+{
+"task_id": "10015",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Refinish wood surfaces on cabinets, doors, moldings, or floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes."
+},
+{
+"task_id": "10017",
+"soc": "49-3092.00",
+"occupation": "Recreational Vehicle Service Technicians",
+"task_text": "Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers."
+},
+{
+"task_id": "8364",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Raise vehicles, using hydraulic jacks."
+},
+{
+"task_id": "8365",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Remount wheels onto vehicles."
+},
+{
+"task_id": "20654",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Unbolt and remove wheels from vehicles, using lug wrenches or other hand or power tools."
+},
+{
+"task_id": "8363",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Place wheels on balancing machines to determine counterweights required to balance wheels."
+},
+{
+"task_id": "20655",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Identify tire size and ply and inflate tires accordingly."
+},
+{
+"task_id": "8369",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Replace valve stems and remove puncturing objects."
+},
+{
+"task_id": "8370",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Hammer required counterweights onto rims of wheels."
+},
+{
+"task_id": "8368",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Reassemble tires onto wheels."
+},
+{
+"task_id": "8373",
+"soc": "49-3093.00",
+"occupation": "Tire Repairers and Changers",
+"task_text": "Seal punctures in tubeless tires by inserting adhesive material and expanding rubber plugs into punctures, using hand tools."
+}
+]

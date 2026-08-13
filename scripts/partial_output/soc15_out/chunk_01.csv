@@ -1,0 +1,750 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Oral Expression,3,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Oral Comprehension,2,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Information Ordering,2,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Fluency of Ideas,2,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Written Expression,2,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Speech Clarity,2,0
+18963,Computer Network Architects,"Design, organize, and deliver product awareness, skills transfer, or product education sessions for staff or suppliers.",Deductive Reasoning,1,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Oral Expression,3,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Oral Comprehension,2,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Written Comprehension,2,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Deductive Reasoning,2,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Speech Clarity,2,0
+18976,Computer Network Architects,Explain design specifications to integration or test engineers.,Speech Recognition,1,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Deductive Reasoning,3,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Inductive Reasoning,2,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Mathematical Reasoning,2,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Information Ordering,2,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Written Expression,2,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Number Facility,2,0
+18973,Computer Network Architects,"Develop procedures to track, project, or report network availability, reliability, capacity, or utilization.",Problem Sensitivity,1,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Oral Expression,3,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Oral Comprehension,2,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Deductive Reasoning,2,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Speech Clarity,1,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Speech Recognition,1,0
+18961,Computer Network Architects,Coordinate network or design activities with designers of associated networks.,Information Ordering,1,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Mathematical Reasoning,3,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Number Facility,3,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Deductive Reasoning,2,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Information Ordering,2,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Written Expression,2,0
+18983,Computer Network Architects,"Prepare or monitor project schedules, budgets, or cost control systems.",Problem Sensitivity,1,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Written Expression,3,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Oral Expression,2,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Fluency of Ideas,2,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Deductive Reasoning,2,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Written Comprehension,1,0
+18981,Computer Network Architects,Prepare design presentations and proposals for staff or customers.,Originality,1,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Visualization,3,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Deductive Reasoning,3,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Inductive Reasoning,2,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Mathematical Reasoning,2,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Spatial Orientation,2,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Problem Sensitivity,2,0
+18986,Computer Network Architects,Use network computer-aided design (CAD) software packages to optimize network designs.,Near Vision,1,0
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",Written Comprehension,3,0
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",Oral Comprehension,2,0
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",Inductive Reasoning,2,0
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",Memorization,2,0
+18987,Computer Network Architects,"Visit vendors, attend conferences or training sessions, or study technical journals to keep up with changes in technology.",Speech Recognition,1,0
+18970,Computer Network Architects,Develop or maintain project reporting systems.,Deductive Reasoning,3,0
+18970,Computer Network Architects,Develop or maintain project reporting systems.,Information Ordering,2,0
+18970,Computer Network Architects,Develop or maintain project reporting systems.,Written Expression,2,0
+18970,Computer Network Architects,Develop or maintain project reporting systems.,Mathematical Reasoning,1,0
+18970,Computer Network Architects,Develop or maintain project reporting systems.,Problem Sensitivity,1,0
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",Deductive Reasoning,2,0
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",Problem Sensitivity,2,0
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",Information Ordering,2,0
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",Oral Expression,1,0
+18978,Computer Network Architects,"Maintain or coordinate the maintenance of network peripherals, such as printers.",Written Expression,1,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Oral Comprehension,3,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Oral Expression,3,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Deductive Reasoning,2,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Inductive Reasoning,2,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Problem Sensitivity,2,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Speech Recognition,2,0
+16080,Telecommunications Engineering Specialists,"Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.",Speech Clarity,1,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Deductive Reasoning,3,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Information Ordering,2,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Oral Expression,2,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Oral Comprehension,2,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Problem Sensitivity,2,0
+16073,Telecommunications Engineering Specialists,"Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.",Inductive Reasoning,1,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Written Comprehension,3,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Oral Comprehension,2,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Inductive Reasoning,2,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Memorization,2,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Speech Recognition,1,0
+16058,Telecommunications Engineering Specialists,"Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.",Fluency of Ideas,1,0
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",Written Comprehension,3,0
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",Deductive Reasoning,3,0
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",Inductive Reasoning,2,0
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",Problem Sensitivity,2,0
+16063,Telecommunications Engineering Specialists,"Review and evaluate requests from engineers, managers, and technicians for system modifications.",Oral Comprehension,1,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Deductive Reasoning,3,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Inductive Reasoning,3,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Problem Sensitivity,2,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Visualization,2,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Mathematical Reasoning,1,0
+16082,Telecommunications Engineering Specialists,Assess existing facilities' needs for new or modified telecommunications systems.,Written Comprehension,1,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Deductive Reasoning,3,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Inductive Reasoning,2,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Information Ordering,2,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Problem Sensitivity,2,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Written Expression,2,0
+16060,Telecommunications Engineering Specialists,"Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.",Mathematical Reasoning,1,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Oral Comprehension,3,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Oral Expression,2,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Written Comprehension,2,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Number Facility,2,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Speech Recognition,2,0
+16081,Telecommunications Engineering Specialists,"Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.",Speech Clarity,1,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Visualization,3,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Spatial Orientation,3,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Deductive Reasoning,2,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Near Vision,2,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Problem Sensitivity,2,0
+16072,Telecommunications Engineering Specialists,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",Far Vision,1,0
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,Written Expression,3,0
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,Information Ordering,3,0
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,Written Comprehension,2,0
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,Deductive Reasoning,2,0
+16078,Telecommunications Engineering Specialists,Document procedures for hardware and software installation and use.,Fluency of Ideas,1,0
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",Deductive Reasoning,3,0
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",Information Ordering,2,0
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",Problem Sensitivity,2,0
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",Oral Expression,1,0
+16083,Telecommunications Engineering Specialists,"Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.",Inductive Reasoning,1,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Oral Expression,3,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Oral Comprehension,2,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Information Ordering,2,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Speech Clarity,2,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Deductive Reasoning,1,0
+20366,Telecommunications Engineering Specialists,"Instruct in use of voice, video, and data communications systems.",Written Expression,1,0
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",Deductive Reasoning,3,0
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",Information Ordering,2,0
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",Problem Sensitivity,2,0
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",Inductive Reasoning,2,0
+16074,Telecommunications Engineering Specialists,"Implement or perform preventive maintenance, backup, or recovery procedures.",Written Comprehension,1,0
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",Written Expression,3,0
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",Information Ordering,2,0
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",Number Facility,2,0
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",Written Comprehension,2,0
+16066,Telecommunications Engineering Specialists,"Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.",Deductive Reasoning,1,0
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,Written Expression,3,0
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,Written Comprehension,2,0
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,Information Ordering,2,0
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,Deductive Reasoning,2,0
+16077,Telecommunications Engineering Specialists,Document technical specifications and operating standards for telecommunications equipment.,Fluency of Ideas,1,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Deductive Reasoning,3,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Inductive Reasoning,3,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Problem Sensitivity,3,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Oral Expression,2,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Oral Comprehension,2,0
+16064,Telecommunications Engineering Specialists,Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,Information Ordering,1,0
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",Written Expression,3,0
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",Information Ordering,2,0
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",Written Comprehension,1,0
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",Deductive Reasoning,1,0
+16076,Telecommunications Engineering Specialists,"Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.",Memorization,1,0
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,Mathematical Reasoning,3,0
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,Number Facility,3,0
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,Deductive Reasoning,2,0
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,Inductive Reasoning,2,0
+16059,Telecommunications Engineering Specialists,Estimate costs for system or component implementation and operation.,Written Expression,1,0
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",Information Ordering,3,0
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",Number Facility,2,0
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",Written Expression,2,0
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",Deductive Reasoning,2,0
+20365,Telecommunications Engineering Specialists,"Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.",Mathematical Reasoning,1,0
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",Oral Expression,2,0
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",Oral Comprehension,2,0
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",Deductive Reasoning,2,0
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",Information Ordering,2,0
+16079,Telecommunications Engineering Specialists,"Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.",Problem Sensitivity,1,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Visualization,3,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Spatial Orientation,3,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Deductive Reasoning,2,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Inductive Reasoning,2,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Near Vision,2,0
+16067,Telecommunications Engineering Specialists,"Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.",Problem Sensitivity,1,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Written Expression,3,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Information Ordering,2,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Mathematical Reasoning,2,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Number Facility,2,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Deductive Reasoning,2,0
+16065,Telecommunications Engineering Specialists,Prepare system activity and performance reports.,Written Comprehension,1,0
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",Deductive Reasoning,3,0
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",Inductive Reasoning,2,0
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",Problem Sensitivity,2,0
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",Information Ordering,2,0
+16075,Telecommunications Engineering Specialists,"Implement controls to provide security for operating systems, software, and data.",Written Comprehension,1,0
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,Deductive Reasoning,2,0
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,Information Ordering,2,0
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,Problem Sensitivity,2,0
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,Written Expression,1,0
+16070,Telecommunications Engineering Specialists,Manage user access to systems and equipment through account management and password administration.,Selective Attention,1,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Deductive Reasoning,3,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Inductive Reasoning,3,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Problem Sensitivity,3,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Written Comprehension,2,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Mathematical Reasoning,1,0
+16061,Telecommunications Engineering Specialists,"Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.",Written Expression,1,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Inductive Reasoning,3,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Deductive Reasoning,2,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Mathematical Reasoning,2,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Number Facility,2,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Problem Sensitivity,2,0
+16069,Telecommunications Engineering Specialists,"Monitor and analyze system performance, such as network traffic, security, and capacity.",Selective Attention,2,0
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,Oral Expression,2,0
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,Deductive Reasoning,2,0
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,Problem Sensitivity,2,0
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,Information Ordering,2,0
+16062,Telecommunications Engineering Specialists,Supervise maintenance of telecommunications equipment.,Oral Comprehension,1,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Deductive Reasoning,3,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Written Comprehension,2,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Oral Expression,2,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Inductive Reasoning,2,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Problem Sensitivity,2,0
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,Information Ordering,1,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Deductive Reasoning,3,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Inductive Reasoning,2,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Information Ordering,2,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Problem Sensitivity,2,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Written Expression,2,0
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",Oral Expression,1,0
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,Deductive Reasoning,3,0
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,Information Ordering,2,0
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,Problem Sensitivity,2,0
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,Inductive Reasoning,2,0
+21649,Database Administrators,Plan and install upgrades of database management system software to enhance database performance.,Written Comprehension,1,0
+1305,Database Administrators,Specify users and user access levels for each segment of database.,Deductive Reasoning,3,0
+1305,Database Administrators,Specify users and user access levels for each segment of database.,Information Ordering,2,0
+1305,Database Administrators,Specify users and user access levels for each segment of database.,Inductive Reasoning,1,0
+1305,Database Administrators,Specify users and user access levels for each segment of database.,Written Comprehension,1,0
+1305,Database Administrators,Specify users and user access levels for each segment of database.,Problem Sensitivity,1,0
+21651,Database Administrators,Test changes to database applications or systems.,Deductive Reasoning,3,0
+21651,Database Administrators,Test changes to database applications or systems.,Problem Sensitivity,3,0
+21651,Database Administrators,Test changes to database applications or systems.,Inductive Reasoning,2,0
+21651,Database Administrators,Test changes to database applications or systems.,Written Comprehension,1,0
+21651,Database Administrators,Test changes to database applications or systems.,Selective Attention,1,0
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",Deductive Reasoning,3,0
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",Inductive Reasoning,3,0
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",Problem Sensitivity,3,0
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",Written Comprehension,2,0
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",Written Expression,1,0
+1303,Database Administrators,Train users and answer questions.,Oral Expression,3,0
+1303,Database Administrators,Train users and answer questions.,Oral Comprehension,2,0
+1303,Database Administrators,Train users and answer questions.,Speech Clarity,2,0
+1303,Database Administrators,Train users and answer questions.,Information Ordering,2,0
+1303,Database Administrators,Train users and answer questions.,Deductive Reasoning,1,0
+1303,Database Administrators,Train users and answer questions.,Speech Recognition,1,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Oral Expression,3,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Oral Comprehension,2,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Deductive Reasoning,2,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Problem Sensitivity,2,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Speech Clarity,1,0
+21650,Database Administrators,Provide technical support to junior staff or clients.,Inductive Reasoning,1,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Deductive Reasoning,3,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Information Ordering,3,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Problem Sensitivity,2,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Oral Expression,2,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Inductive Reasoning,1,0
+1302,Database Administrators,"Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",Written Expression,1,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Deductive Reasoning,3,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Inductive Reasoning,2,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Written Expression,3,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Information Ordering,2,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Problem Sensitivity,2,0
+1298,Database Administrators,Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.,Fluency of Ideas,1,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Deductive Reasoning,3,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Written Expression,3,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Information Ordering,2,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Inductive Reasoning,2,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Oral Expression,1,0
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",Category Flexibility,1,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Deductive Reasoning,3,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Inductive Reasoning,3,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Visualization,2,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Information Ordering,2,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Written Expression,2,0
+1306,Database Administrators,"Develop data models describing data elements and how they are used, following procedures and using pen, template, or computer software.",Category Flexibility,1,0
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,Deductive Reasoning,3,0
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,Selective Attention,2,0
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,Problem Sensitivity,2,0
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,Information Ordering,2,0
+1311,Database Administrators,Select and enter codes to monitor database performance and to create production databases.,Written Comprehension,1,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Deductive Reasoning,3,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Inductive Reasoning,3,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Written Comprehension,2,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Problem Sensitivity,2,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Oral Expression,1,0
+21648,Database Administrators,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Mathematical Reasoning,1,0
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,Written Comprehension,3,0
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,Deductive Reasoning,2,0
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,Information Ordering,2,0
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,Inductive Reasoning,1,0
+1309,Database Administrators,Review procedures in database management system manuals to make changes to database.,Problem Sensitivity,1,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Inductive Reasoning,3,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Written Comprehension,2,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Deductive Reasoning,2,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Oral Expression,2,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Fluency of Ideas,1,0
+1312,Database Administrators,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Written Expression,1,0
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",Written Comprehension,3,0
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",Deductive Reasoning,3,0
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",Visualization,2,0
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",Inductive Reasoning,2,0
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",Information Ordering,1,0
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,Written Comprehension,3,0
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,Written Expression,2,0
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,Deductive Reasoning,2,0
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,Category Flexibility,2,0
+1315,Database Administrators,Revise company definition of data as defined in data dictionary.,Information Ordering,1,0
+16115,Database Architects,Develop and document database architectures.,Deductive Reasoning,3,0
+16115,Database Architects,Develop and document database architectures.,Inductive Reasoning,2,0
+16115,Database Architects,Develop and document database architectures.,Written Expression,3,0
+16115,Database Architects,Develop and document database architectures.,Information Ordering,2,0
+16115,Database Architects,Develop and document database architectures.,Visualization,2,0
+16115,Database Architects,Develop and document database architectures.,Fluency of Ideas,1,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Oral Comprehension,3,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Oral Expression,2,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Deductive Reasoning,2,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Inductive Reasoning,2,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Speech Recognition,1,0
+16113,Database Architects,"Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",Written Comprehension,1,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Deductive Reasoning,3,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Inductive Reasoning,3,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Visualization,2,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Fluency of Ideas,2,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Written Expression,2,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Category Flexibility,1,0
+16114,Database Architects,"Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",Problem Sensitivity,1,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Deductive Reasoning,3,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Inductive Reasoning,3,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Visualization,2,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Mathematical Reasoning,2,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Problem Sensitivity,2,0
+16109,Database Architects,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",Fluency of Ideas,1,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Deductive Reasoning,3,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Inductive Reasoning,3,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Visualization,2,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Information Ordering,2,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Category Flexibility,2,0
+16108,Database Architects,"Develop data models for applications, metadata tables, views or related database structures.",Written Expression,1,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Deductive Reasoning,3,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Inductive Reasoning,2,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Visualization,3,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Mathematical Reasoning,2,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Problem Sensitivity,2,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Information Ordering,2,0
+16110,Database Architects,"Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",Fluency of Ideas,1,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Deductive Reasoning,3,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Inductive Reasoning,3,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Problem Sensitivity,2,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Fluency of Ideas,2,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Visualization,1,0
+21653,Database Architects,"Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",Category Flexibility,1,0
+16112,Database Architects,Create and enforce database development standards.,Deductive Reasoning,3,0
+16112,Database Architects,Create and enforce database development standards.,Written Expression,3,0
+16112,Database Architects,Create and enforce database development standards.,Information Ordering,2,0
+16112,Database Architects,Create and enforce database development standards.,Inductive Reasoning,1,0
+16112,Database Architects,Create and enforce database development standards.,Oral Expression,1,0
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",Written Expression,3,0
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",Visualization,2,0
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",Deductive Reasoning,2,0
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",Information Ordering,2,0
+16105,Database Architects,"Document and communicate database schemas, using accepted notations.",Oral Expression,1,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Deductive Reasoning,3,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Inductive Reasoning,3,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Visualization,2,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Information Ordering,2,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Written Expression,2,0
+21652,Database Architects,"Develop data model describing data elements and their use, following procedures and using pen, template or computer software.",Category Flexibility,1,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Oral Expression,2,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Oral Comprehension,2,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Deductive Reasoning,2,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Information Ordering,2,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Problem Sensitivity,2,0
+21659,Database Architects,Work as part of a project team to coordinate database development and determine project scope and limitations.,Inductive Reasoning,1,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Inductive Reasoning,3,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Written Comprehension,2,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Deductive Reasoning,2,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Oral Expression,2,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Fluency of Ideas,1,0
+21655,Database Architects,Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.,Written Expression,1,0
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",Deductive Reasoning,3,0
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",Information Ordering,2,0
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",Problem Sensitivity,2,0
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",Inductive Reasoning,2,0
+16100,Database Architects,"Set up database clusters, backup, or recovery processes.",Written Comprehension,1,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Oral Expression,3,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Deductive Reasoning,2,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Written Expression,2,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Inductive Reasoning,1,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Problem Sensitivity,1,0
+16111,Database Architects,"Demonstrate database technical functionality, such as performance, security and reliability.",Speech Clarity,1,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Deductive Reasoning,3,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Inductive Reasoning,3,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Mathematical Reasoning,2,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Problem Sensitivity,2,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Information Ordering,2,0
+16107,Database Architects,Develop load-balancing processes to eliminate down time for backup processes.,Visualization,1,0
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,Deductive Reasoning,3,0
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,Information Ordering,2,0
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,Problem Sensitivity,2,0
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,Inductive Reasoning,2,0
+16102,Database Architects,Plan and install upgrades of database management system software to enhance database performance.,Written Comprehension,1,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Deductive Reasoning,3,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Inductive Reasoning,3,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Written Comprehension,2,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Problem Sensitivity,2,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Mathematical Reasoning,1,0
+16101,Database Architects,"Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.",Oral Expression,1,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",Deductive Reasoning,3,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",Inductive Reasoning,3,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",Problem Sensitivity,3,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",Written Comprehension,2,0
+21657,Database Architects,"Test programs or databases, correct errors, and make necessary modifications.",Written Expression,1,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Deductive Reasoning,3,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Written Comprehension,3,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Problem Sensitivity,2,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Selective Attention,2,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Inductive Reasoning,2,0
+16104,Database Architects,Identify and correct deviations from database development standards.,Information Ordering,1,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Written Comprehension,3,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Deductive Reasoning,2,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Inductive Reasoning,2,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Mathematical Reasoning,2,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Number Facility,2,0
+21656,Database Architects,Review project requests describing database user needs to estimate time and cost required to accomplish project.,Problem Sensitivity,1,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Deductive Reasoning,3,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Written Expression,3,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Information Ordering,2,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Inductive Reasoning,2,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Oral Expression,1,0
+21660,Database Architects,"Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.",Category Flexibility,1,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Deductive Reasoning,3,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Written Expression,2,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Information Ordering,2,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Written Comprehension,2,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Inductive Reasoning,2,0
+16106,Database Architects,"Develop or maintain archived procedures, procedural codes, or queries for applications.",Category Flexibility,1,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Oral Expression,3,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Oral Comprehension,2,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Deductive Reasoning,2,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Problem Sensitivity,2,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Speech Clarity,1,0
+16099,Database Architects,Provide technical support to junior staff or clients.,Inductive Reasoning,1,0
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",Mathematical Reasoning,3,0
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",Number Facility,3,0
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",Deductive Reasoning,2,0
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",Written Comprehension,2,0
+21654,Database Architects,"Establish and calculate optimum values for database parameters, using manuals and calculators.",Inductive Reasoning,1,0
+21658,Database Architects,Train users and answer questions.,Oral Expression,3,0
+21658,Database Architects,Train users and answer questions.,Oral Comprehension,2,0
+21658,Database Architects,Train users and answer questions.,Speech Clarity,2,0
+21658,Database Architects,Train users and answer questions.,Information Ordering,2,0
+21658,Database Architects,Train users and answer questions.,Deductive Reasoning,1,0
+21658,Database Architects,Train users and answer questions.,Speech Recognition,1,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Deductive Reasoning,3,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Inductive Reasoning,3,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Visualization,2,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Information Ordering,2,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Mathematical Reasoning,2,0
+16132,Data Warehousing Specialists,"Develop data warehouse process models, including sourcing, loading, transformation, and extraction.",Written Expression,1,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Deductive Reasoning,3,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Problem Sensitivity,3,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Selective Attention,2,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Inductive Reasoning,2,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Mathematical Reasoning,1,0
+16121,Data Warehousing Specialists,"Verify the structure, accuracy, or quality of warehouse data.",Written Comprehension,1,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Deductive Reasoning,3,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Visualization,3,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Information Ordering,2,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Inductive Reasoning,2,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Category Flexibility,2,0
+16124,Data Warehousing Specialists,"Map data between source systems, data warehouses, and data marts.",Problem Sensitivity,1,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Deductive Reasoning,3,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Inductive Reasoning,2,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Information Ordering,2,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Problem Sensitivity,2,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Written Expression,1,0
+16126,Data Warehousing Specialists,"Develop and implement data extraction procedures from other systems, such as administration, billing, or claims.",Category Flexibility,1,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Deductive Reasoning,3,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Inductive Reasoning,2,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Visualization,2,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Information Ordering,2,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Mathematical Reasoning,1,0
+16128,Data Warehousing Specialists,Design and implement warehouse database structures.,Fluency of Ideas,1,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Deductive Reasoning,3,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Information Ordering,3,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Inductive Reasoning,2,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Written Expression,2,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Category Flexibility,2,0
+16127,Data Warehousing Specialists,"Develop or maintain standards, such as organization, structure, or nomenclature, for the design of data warehouse elements, such as data architectures, models, tools, and databases.",Fluency of Ideas,1,0
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,Deductive Reasoning,3,0
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,Inductive Reasoning,3,0
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,Problem Sensitivity,3,0
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,Oral Expression,2,0
+16118,Data Warehousing Specialists,Provide or coordinate troubleshooting support for data warehouses.,Information Ordering,1,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Deductive Reasoning,3,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Inductive Reasoning,2,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Written Expression,2,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Written Comprehension,2,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Problem Sensitivity,2,0
+16120,Data Warehousing Specialists,"Write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",Information Ordering,1,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Deductive Reasoning,3,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Inductive Reasoning,3,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Mathematical Reasoning,2,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Visualization,2,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Problem Sensitivity,2,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Information Ordering,2,0
+16133,Data Warehousing Specialists,"Design, implement, or operate comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors, according to customer requirements.",Written Comprehension,1,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Deductive Reasoning,3,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Inductive Reasoning,3,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Mathematical Reasoning,2,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Problem Sensitivity,2,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Written Comprehension,2,0
+16123,Data Warehousing Specialists,"Perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",Information Ordering,1,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Written Expression,3,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Visualization,3,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Information Ordering,2,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Deductive Reasoning,2,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Fluency of Ideas,1,0
+16129,Data Warehousing Specialists,"Create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",Written Comprehension,1,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Deductive Reasoning,3,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Inductive Reasoning,2,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Information Ordering,2,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Category Flexibility,2,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Written Expression,1,0
+16131,Data Warehousing Specialists,Create or implement metadata processes and frameworks.,Problem Sensitivity,1,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Written Comprehension,3,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Deductive Reasoning,3,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Problem Sensitivity,2,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Selective Attention,2,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Inductive Reasoning,2,0
+16117,Data Warehousing Specialists,"Review designs, codes, test plans, or documentation to ensure quality.",Information Ordering,1,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Deductive Reasoning,3,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Inductive Reasoning,3,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Information Ordering,2,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Written Expression,2,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Problem Sensitivity,2,0
+16130,Data Warehousing Specialists,"Create plans, test files, and scripts for data warehouse testing, ranging from unit to integration testing.",Mathematical Reasoning,1,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Deductive Reasoning,3,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Inductive Reasoning,3,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Category Flexibility,2,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Problem Sensitivity,2,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Written Comprehension,2,0
+16122,Data Warehousing Specialists,"Select methods, techniques, or criteria for data warehousing evaluative procedures.",Fluency of Ideas,1,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Deductive Reasoning,3,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Inductive Reasoning,2,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Written Comprehension,2,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Problem Sensitivity,2,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Information Ordering,2,0
+16125,Data Warehousing Specialists,"Implement business rules via stored procedures, middleware, or other technologies.",Category Flexibility,1,0
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,Written Expression,3,0
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,Information Ordering,2,0
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,Written Comprehension,2,0
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,Deductive Reasoning,2,0
+16119,Data Warehousing Specialists,Prepare functional or technical documentation for data warehouses.,Fluency of Ideas,1,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Deductive Reasoning,3,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Problem Sensitivity,3,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Inductive Reasoning,2,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Written Comprehension,2,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Selective Attention,2,0
+16116,Data Warehousing Specialists,Test software systems or applications for software enhancements or new products.,Written Expression,1,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Deductive Reasoning,3,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Information Ordering,3,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Problem Sensitivity,2,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Inductive Reasoning,2,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Written Comprehension,2,0
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",Selective Attention,1,0
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,Deductive Reasoning,2,0
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,Information Ordering,2,0
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,Problem Sensitivity,2,0
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,Inductive Reasoning,1,0
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,Selective Attention,1,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Deductive Reasoning,3,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Inductive Reasoning,3,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Problem Sensitivity,3,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Written Comprehension,2,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Oral Comprehension,1,0
+15205,Network and Computer Systems Administrators,"Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",Information Ordering,1,0
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",Deductive Reasoning,3,0
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",Selective Attention,2,0
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",Problem Sensitivity,2,0
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",Information Ordering,2,0
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",Inductive Reasoning,1,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Selective Attention,3,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Deductive Reasoning,2,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Problem Sensitivity,2,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Information Ordering,2,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Mathematical Reasoning,1,0
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,Oral Expression,1,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Inductive Reasoning,3,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Deductive Reasoning,2,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Selective Attention,2,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Mathematical Reasoning,2,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Problem Sensitivity,2,0
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,Number Facility,1,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Deductive Reasoning,3,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Inductive Reasoning,2,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Information Ordering,2,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Problem Sensitivity,2,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Written Expression,2,0
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",Oral Expression,1,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Inductive Reasoning,3,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Mathematical Reasoning,2,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Deductive Reasoning,2,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Written Comprehension,2,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Problem Sensitivity,2,0
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,Number Facility,1,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Oral Comprehension,3,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Oral Expression,3,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Deductive Reasoning,2,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Problem Sensitivity,2,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Speech Recognition,2,0
+1324,Network and Computer Systems Administrators,Confer with network users about solutions to existing system problems.,Speech Clarity,1,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Deductive Reasoning,3,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Inductive Reasoning,3,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Written Expression,2,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Problem Sensitivity,2,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Oral Expression,2,0
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",Mathematical Reasoning,1,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Deductive Reasoning,3,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Inductive Reasoning,2,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Problem Sensitivity,2,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Visualization,2,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Written Comprehension,2,0
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",Information Ordering,1,0
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",Information Ordering,3,0
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",Deductive Reasoning,2,0
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",Written Expression,2,0
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",Selective Attention,2,0
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",Problem Sensitivity,1,0
+1327,Network and Computer Systems Administrators,"Load computer tapes and disks, and install software and printer paper or forms.",Information Ordering,2,0
+1327,Network and Computer Systems Administrators,"Load computer tapes and disks, and install software and printer paper or forms.",Deductive Reasoning,2,0
+1327,Network and Computer Systems Administrators,"Load computer tapes and disks, and install software and printer paper or forms.",Selective Attention,1,0
+1327,Network and Computer Systems Administrators,"Load computer tapes and disks, and install software and printer paper or forms.",Written Comprehension,1,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Oral Expression,3,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Oral Comprehension,2,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Information Ordering,2,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Speech Clarity,2,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Deductive Reasoning,1,0
+1326,Network and Computer Systems Administrators,Train people in computer system use.,Speech Recognition,1,0
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",Written Expression,3,0
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",Information Ordering,2,0
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",Selective Attention,2,0
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",Written Comprehension,1,0
+1330,Network and Computer Systems Administrators,"Maintain logs related to network functions, as well as maintenance and repair records.",Memorization,1,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Inductive Reasoning,3,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Deductive Reasoning,3,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Oral Comprehension,2,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Written Comprehension,2,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Problem Sensitivity,2,0
+1328,Network and Computer Systems Administrators,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",Mathematical Reasoning,1,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Oral Expression,2,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Oral Comprehension,2,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Number Facility,2,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Written Expression,1,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Speech Recognition,1,0
+1333,Network and Computer Systems Administrators,Coordinate with vendors and with company personnel to facilitate purchases.,Speech Clarity,1,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Deductive Reasoning,3,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Inductive Reasoning,2,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Problem Sensitivity,2,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Oral Expression,2,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Oral Comprehension,1,0
+15208,Network and Computer Systems Administrators,"Implement and provide technical support for voice services and equipment, such as private branch exchange, voice mail system, and telecom system.",Information Ordering,1,0
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,Information Ordering,2,0
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,Written Expression,2,0
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,Number Facility,2,0
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,Deductive Reasoning,1,0
+1332,Network and Computer Systems Administrators,Maintain an inventory of parts for emergency repairs.,Problem Sensitivity,1,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Written Comprehension,3,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Oral Comprehension,2,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Inductive Reasoning,2,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Deductive Reasoning,2,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Fluency of Ideas,1,0
+15207,Network and Computer Systems Administrators,"Research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",Memorization,1,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Deductive Reasoning,3,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Inductive Reasoning,3,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Written Expression,3,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Written Comprehension,2,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Visualization,2,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Problem Sensitivity,2,0
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",Information Ordering,1,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Deductive Reasoning,3,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Inductive Reasoning,3,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Problem Sensitivity,3,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Selective Attention,2,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Written Comprehension,2,0
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,Written Expression,1,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Deductive Reasoning,3,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Inductive Reasoning,3,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Problem Sensitivity,2,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Written Comprehension,2,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Written Expression,2,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Oral Expression,1,0
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",Information Ordering,1,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Deductive Reasoning,3,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Inductive Reasoning,2,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Written Expression,3,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Written Comprehension,2,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Problem Sensitivity,2,0
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",Information Ordering,2,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Oral Comprehension,3,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Oral Expression,3,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Deductive Reasoning,2,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Problem Sensitivity,2,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Inductive Reasoning,2,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Speech Recognition,2,0
+1271,Computer Programmers,"Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",Speech Clarity,1,0
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,Deductive Reasoning,3,0
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,Problem Sensitivity,3,0
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,Selective Attention,2,0
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,Inductive Reasoning,2,0
+1268,Computer Programmers,Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.,Written Comprehension,2,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Deductive Reasoning,3,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Visualization,3,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Information Ordering,3,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Inductive Reasoning,2,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Written Expression,2,0
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",Fluency of Ideas,1,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Written Expression,3,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Information Ordering,2,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Written Comprehension,2,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Deductive Reasoning,2,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Fluency of Ideas,1,0
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",Oral Comprehension,1,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Oral Comprehension,3,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Oral Expression,3,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Deductive Reasoning,2,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Inductive Reasoning,2,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Problem Sensitivity,2,0
+1278,Computer Programmers,Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.,Speech Recognition,1,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Deductive Reasoning,3,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Inductive Reasoning,3,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Problem Sensitivity,2,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Written Comprehension,2,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Information Ordering,2,0
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,Mathematical Reasoning,1,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Written Expression,3,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Written Comprehension,2,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Oral Comprehension,2,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Information Ordering,2,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Fluency of Ideas,2,0
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,Deductive Reasoning,1,0
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",Deductive Reasoning,3,0
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",Inductive Reasoning,3,0
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",Problem Sensitivity,3,0
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",Selective Attention,2,0
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",Written Comprehension,1,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Oral Expression,3,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Oral Comprehension,2,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Deductive Reasoning,2,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Information Ordering,2,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Written Comprehension,1,0
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",Speech Clarity,1,0

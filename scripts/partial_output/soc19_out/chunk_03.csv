@@ -1,0 +1,807 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Written Expression,3,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Written Comprehension,3,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Oral Comprehension,2,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Deductive Reasoning,2,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Inductive Reasoning,2,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Information Ordering,2,0
+21175,Materials Scientists,Write research papers for publication in scientific journals.,Fluency of Ideas,2,0
+9099,Materials Scientists,Teach in colleges and universities.,Oral Expression,3,0
+9099,Materials Scientists,Teach in colleges and universities.,Oral Comprehension,2,0
+9099,Materials Scientists,Teach in colleges and universities.,Written Comprehension,2,0
+9099,Materials Scientists,Teach in colleges and universities.,Speech Clarity,2,0
+9099,Materials Scientists,Teach in colleges and universities.,Speech Recognition,1,0
+9099,Materials Scientists,Teach in colleges and universities.,Information Ordering,2,0
+9099,Materials Scientists,Teach in colleges and universities.,Deductive Reasoning,2,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Oral Expression,3,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Written Expression,3,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Oral Comprehension,2,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Written Comprehension,2,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Speech Clarity,2,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Information Ordering,2,0
+15219,"Environmental Scientists and Specialists, Including Health","Communicate scientific or technical information to the public, organizations, or internal audiences through oral briefings, written documents, workshops, conferences, training sessions, or public hearings.",Deductive Reasoning,1,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Inductive Reasoning,3,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Problem Sensitivity,3,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Deductive Reasoning,2,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Written Comprehension,2,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Selective Attention,2,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Near Vision,1,0
+1530,"Environmental Scientists and Specialists, Including Health",Monitor effects of pollution or land degradation and recommend means of prevention or control.,Oral Expression,1,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Inductive Reasoning,3,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Information Ordering,3,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Written Expression,2,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Number Facility,2,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Mathematical Reasoning,2,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Selective Attention,2,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Deductive Reasoning,2,0
+15218,"Environmental Scientists and Specialists, Including Health","Collect, synthesize, analyze, manage, and report environmental data, such as pollution emission measurements, atmospheric monitoring measurements, meteorological or mineralogical information, or soil or water samples.",Near Vision,1,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Written Comprehension,3,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Deductive Reasoning,3,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Information Ordering,2,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Problem Sensitivity,2,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Inductive Reasoning,2,0
+1517,"Environmental Scientists and Specialists, Including Health","Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",Near Vision,1,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Oral Expression,3,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Oral Comprehension,2,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Written Expression,2,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Deductive Reasoning,2,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Problem Sensitivity,2,0
+15220,"Environmental Scientists and Specialists, Including Health","Provide scientific or technical guidance, support, coordination, or oversight to governmental agencies, environmental programs, industry, or the public.",Speech Clarity,1,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Written Comprehension,3,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Information Ordering,3,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Deductive Reasoning,2,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Near Vision,2,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Perceptual Speed,2,0
+15221,"Environmental Scientists and Specialists, Including Health","Process and review environmental permits, licenses, or related materials.",Selective Attention,2,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Problem Sensitivity,3,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Inductive Reasoning,3,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Deductive Reasoning,2,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Near Vision,2,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Selective Attention,2,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Written Expression,2,0
+1514,"Environmental Scientists and Specialists, Including Health",Conduct environmental audits or inspections or investigations of violations.,Far Vision,1,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Oral Expression,3,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Deductive Reasoning,3,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Written Comprehension,2,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Inductive Reasoning,2,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Problem Sensitivity,2,0
+1519,"Environmental Scientists and Specialists, Including Health","Provide advice on proper standards and regulations or the development of policies, strategies, or codes of practice for environmental management.",Speech Clarity,1,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Number Facility,3,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Written Expression,2,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Visualization,2,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Near Vision,2,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Information Ordering,2,0
+1523,"Environmental Scientists and Specialists, Including Health","Prepare charts or graphs from data samples, providing summary information on the environmental relevance of the data.",Mathematical Reasoning,2,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Inductive Reasoning,3,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Written Comprehension,3,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Problem Sensitivity,2,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Deductive Reasoning,2,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Mathematical Reasoning,2,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Fluency of Ideas,1,0
+1529,"Environmental Scientists and Specialists, Including Health",Research sources of pollution to determine their effects on the environment and to develop theories or methods of pollution abatement or control.,Originality,1,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Oral Expression,3,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Oral Comprehension,2,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Written Comprehension,2,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Speech Clarity,2,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Deductive Reasoning,1,0
+15222,"Environmental Scientists and Specialists, Including Health","Supervise or train students, environmental technologists, technicians, or other related staff.",Information Ordering,2,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Inductive Reasoning,3,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Problem Sensitivity,3,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Selective Attention,2,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Written Expression,2,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Near Vision,2,0
+1526,"Environmental Scientists and Specialists, Including Health",Monitor environmental impacts of development activities.,Deductive Reasoning,2,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Inductive Reasoning,3,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Deductive Reasoning,3,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Problem Sensitivity,3,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Written Expression,2,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Written Comprehension,2,0
+1515,"Environmental Scientists and Specialists, Including Health",Evaluate violations or problems discovered during inspections to determine appropriate regulatory actions or to provide advice on the development and prosecution of regulatory cases.,Information Ordering,2,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Inductive Reasoning,3,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Mathematical Reasoning,3,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Number Facility,3,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Deductive Reasoning,2,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Problem Sensitivity,2,0
+1520,"Environmental Scientists and Specialists, Including Health","Analyze data to determine validity, quality, and scientific significance and to interpret correlations between human activities and environmental effects.",Written Comprehension,2,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Inductive Reasoning,3,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Problem Sensitivity,3,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Written Expression,2,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Deductive Reasoning,2,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Near Vision,1,0
+1525,"Environmental Scientists and Specialists, Including Health",Investigate and report on accidents affecting the environment.,Oral Expression,1,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Written Expression,3,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Written Comprehension,3,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Deductive Reasoning,3,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Information Ordering,2,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Inductive Reasoning,2,0
+1524,"Environmental Scientists and Specialists, Including Health","Develop the technical portions of legal documents, administrative orders, or consent decrees.",Near Vision,1,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Deductive Reasoning,3,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Inductive Reasoning,3,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Mathematical Reasoning,2,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Information Ordering,2,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Originality,2,0
+1531,"Environmental Scientists and Specialists, Including Health",Design or direct studies to obtain technical environmental information about planned projects.,Written Expression,2,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Deductive Reasoning,3,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Inductive Reasoning,2,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Mathematical Reasoning,2,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Information Ordering,2,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Problem Sensitivity,2,0
+1522,"Environmental Scientists and Specialists, Including Health",Determine data collection methods to be employed in research projects or surveys.,Originality,1,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Inductive Reasoning,3,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Deductive Reasoning,2,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Mathematical Reasoning,2,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Problem Sensitivity,2,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Written Expression,2,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Originality,2,0
+15223,"Environmental Scientists and Specialists, Including Health","Conduct applied research on environmental topics, such as waste control or treatment or pollution abatement methods.",Information Ordering,1,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Deductive Reasoning,3,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Inductive Reasoning,2,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Written Expression,2,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Information Ordering,2,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Fluency of Ideas,2,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Problem Sensitivity,2,0
+1528,"Environmental Scientists and Specialists, Including Health","Develop programs designed to obtain the most productive, non-damaging use of land.",Originality,1,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Mathematical Reasoning,3,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Deductive Reasoning,3,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Inductive Reasoning,2,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Number Facility,2,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Visualization,2,0
+1534,"Environmental Scientists and Specialists, Including Health","Plan or develop research models, using knowledge of mathematical and statistical concepts.",Originality,2,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Inductive Reasoning,3,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Deductive Reasoning,3,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Problem Sensitivity,2,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Written Comprehension,2,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Fluency of Ideas,2,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Originality,2,0
+1533,"Environmental Scientists and Specialists, Including Health","Develop methods to minimize the impact of production processes on the environment, based on the study and assessment of industrial production, environmental legislation, and physical, biological, and social environments.",Information Ordering,1,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Inductive Reasoning,3,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Written Expression,3,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Written Comprehension,2,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Deductive Reasoning,2,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Number Facility,2,0
+16849,Climate Change Policy Analysts,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",Mathematical Reasoning,2,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Deductive Reasoning,3,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Inductive Reasoning,3,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Written Expression,2,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Oral Expression,2,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Fluency of Ideas,2,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Problem Sensitivity,2,0
+16853,Climate Change Policy Analysts,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",Originality,1,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Written Expression,3,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Written Comprehension,3,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Information Ordering,2,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Deductive Reasoning,2,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Oral Comprehension,2,0
+16850,Climate Change Policy Analysts,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues, such as climate change.",Near Vision,1,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Inductive Reasoning,3,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Written Comprehension,3,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Deductive Reasoning,2,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Written Expression,2,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Information Ordering,2,0
+16854,Climate Change Policy Analysts,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",Speed of Closure,2,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Deductive Reasoning,3,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Written Comprehension,3,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Oral Expression,2,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Written Expression,2,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Inductive Reasoning,2,0
+16851,Climate Change Policy Analysts,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",Information Ordering,2,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Oral Expression,3,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Speech Clarity,3,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Oral Comprehension,2,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Written Comprehension,2,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Information Ordering,2,0
+16843,Climate Change Policy Analysts,"Present climate-related information at public interest, governmental, or other meetings.",Speech Recognition,1,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Written Comprehension,3,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Information Ordering,2,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Inductive Reasoning,2,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Deductive Reasoning,2,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Near Vision,2,0
+16846,Climate Change Policy Analysts,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",Selective Attention,2,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Written Comprehension,3,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Deductive Reasoning,3,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Inductive Reasoning,2,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Problem Sensitivity,2,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Near Vision,1,0
+16848,Climate Change Policy Analysts,Review existing policies or legislation to identify environmental impacts.,Selective Attention,2,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Oral Expression,3,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Written Expression,2,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Oral Comprehension,2,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Speech Clarity,2,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Deductive Reasoning,2,0
+16842,Climate Change Policy Analysts,Promote initiatives to mitigate climate change with government or environmental groups.,Fluency of Ideas,1,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Written Comprehension,3,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Inductive Reasoning,3,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Deductive Reasoning,2,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Information Ordering,2,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Problem Sensitivity,2,0
+16852,Climate Change Policy Analysts,"Research policies, practices, or procedures for climate or environmental management.",Near Vision,1,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Written Expression,3,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Written Comprehension,3,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Inductive Reasoning,2,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Deductive Reasoning,2,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Information Ordering,2,0
+16841,Climate Change Policy Analysts,Write reports or academic papers to communicate findings of climate-related studies.,Near Vision,1,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Written Expression,3,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Oral Expression,2,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Fluency of Ideas,2,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Information Ordering,2,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Deductive Reasoning,2,0
+16847,Climate Change Policy Analysts,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",Originality,2,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Oral Expression,3,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Speech Clarity,2,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Deductive Reasoning,2,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Inductive Reasoning,2,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Written Comprehension,2,0
+16844,Climate Change Policy Analysts,Present and defend proposals for climate change research projects.,Oral Comprehension,2,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Written Expression,3,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Written Comprehension,2,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Information Ordering,2,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Deductive Reasoning,2,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Number Facility,2,0
+16845,Climate Change Policy Analysts,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",Fluency of Ideas,1,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Mathematical Reasoning,3,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Number Facility,3,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Information Ordering,2,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Deductive Reasoning,2,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Written Expression,2,0
+16856,Environmental Restoration Planners,Develop environmental restoration project schedules and budgets.,Time Sharing,1,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Oral Expression,3,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Deductive Reasoning,3,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Oral Comprehension,2,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Written Comprehension,2,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Problem Sensitivity,2,0
+16862,Environmental Restoration Planners,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",Speech Clarity,1,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Deductive Reasoning,3,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Written Expression,3,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Inductive Reasoning,2,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Information Ordering,2,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Problem Sensitivity,2,0
+16875,Environmental Restoration Planners,"Create habitat management or restoration plans, such as native tree restoration and weed control.",Visualization,2,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Inductive Reasoning,3,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Problem Sensitivity,3,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Far Vision,2,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Near Vision,2,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Selective Attention,2,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Deductive Reasoning,2,0
+16876,Environmental Restoration Planners,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,Visual Color Discrimination,1,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Inductive Reasoning,3,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Mathematical Reasoning,2,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Number Facility,2,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Problem Sensitivity,2,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Deductive Reasoning,2,0
+16872,Environmental Restoration Planners,Collect and analyze data to determine environmental conditions and restoration needs.,Near Vision,1,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Oral Expression,3,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Oral Comprehension,2,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Written Comprehension,2,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Speech Clarity,2,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Problem Sensitivity,2,0
+16861,Environmental Restoration Planners,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",Deductive Reasoning,1,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Deductive Reasoning,3,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Inductive Reasoning,2,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Information Ordering,2,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Visualization,2,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Written Comprehension,2,0
+16865,Environmental Restoration Planners,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",Mathematical Reasoning,2,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Oral Expression,3,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Written Expression,3,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Speech Clarity,2,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Written Comprehension,2,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Information Ordering,2,0
+16871,Environmental Restoration Planners,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,Oral Comprehension,1,0
+16859,Environmental Restoration Planners,Apply for permits required for the implementation of environmental remediation projects.,Written Expression,3,0
+16859,Environmental Restoration Planners,Apply for permits required for the implementation of environmental remediation projects.,Written Comprehension,3,0
+16859,Environmental Restoration Planners,Apply for permits required for the implementation of environmental remediation projects.,Deductive Reasoning,2,0
+16859,Environmental Restoration Planners,Apply for permits required for the implementation of environmental remediation projects.,Information Ordering,2,0
+16859,Environmental Restoration Planners,Apply for permits required for the implementation of environmental remediation projects.,Near Vision,1,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Problem Sensitivity,3,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Selective Attention,2,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Far Vision,2,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Near Vision,2,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Deductive Reasoning,2,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Written Expression,2,0
+16864,Environmental Restoration Planners,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",Inductive Reasoning,1,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Deductive Reasoning,3,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Written Comprehension,3,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Written Expression,2,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Inductive Reasoning,2,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Information Ordering,2,0
+16873,Environmental Restoration Planners,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",Problem Sensitivity,2,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Inductive Reasoning,3,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Deductive Reasoning,3,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Problem Sensitivity,2,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Written Comprehension,2,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Category Flexibility,2,0
+16867,Environmental Restoration Planners,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",Fluency of Ideas,1,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Inductive Reasoning,3,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Deductive Reasoning,3,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Problem Sensitivity,2,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Written Expression,2,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Information Ordering,2,0
+16866,Environmental Restoration Planners,Identify short- and long-term impacts of environmental remediation activities.,Mathematical Reasoning,1,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Written Expression,3,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Oral Expression,2,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Speech Clarity,1,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Deductive Reasoning,2,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Problem Sensitivity,2,0
+16855,Environmental Restoration Planners,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,Information Ordering,1,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Written Expression,3,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Written Comprehension,2,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Fluency of Ideas,2,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Deductive Reasoning,2,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Information Ordering,2,0
+23907,Environmental Restoration Planners,Write grants to obtain funding for restoration projects.,Number Facility,1,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Deductive Reasoning,3,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Inductive Reasoning,2,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Written Comprehension,2,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Information Ordering,2,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Problem Sensitivity,2,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Written Expression,2,0
+16863,Environmental Restoration Planners,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",Time Sharing,1,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Written Comprehension,3,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Deductive Reasoning,3,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Inductive Reasoning,2,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Problem Sensitivity,2,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Near Vision,2,0
+16860,Environmental Restoration Planners,Review existing environmental remediation designs.,Visualization,1,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Oral Expression,3,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Written Expression,2,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Deductive Reasoning,2,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Inductive Reasoning,2,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Problem Sensitivity,2,0
+16857,Environmental Restoration Planners,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,Speech Clarity,1,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Mathematical Reasoning,3,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Number Facility,3,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Inductive Reasoning,2,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Deductive Reasoning,2,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Written Expression,2,0
+16869,Environmental Restoration Planners,Conduct feasibility and cost-benefit studies for environmental remediation projects.,Information Ordering,2,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Inductive Reasoning,3,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Mathematical Reasoning,2,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Deductive Reasoning,2,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Problem Sensitivity,2,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Written Expression,2,0
+16870,Environmental Restoration Planners,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",Number Facility,2,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Mathematical Reasoning,3,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Visualization,3,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Spatial Orientation,2,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Deductive Reasoning,2,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Inductive Reasoning,2,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Near Vision,2,0
+16868,Environmental Restoration Planners,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",Information Ordering,1,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Visualization,3,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Near Vision,3,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Spatial Orientation,2,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Finger Dexterity,2,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Written Expression,2,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Mathematical Reasoning,2,0
+16858,Environmental Restoration Planners,"Create diagrams to communicate environmental remediation planning, using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",Deductive Reasoning,1,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Deductive Reasoning,3,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Inductive Reasoning,2,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Written Expression,2,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Information Ordering,2,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Problem Sensitivity,2,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Visualization,2,0
+16874,Environmental Restoration Planners,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",Mathematical Reasoning,1,0
+19972,Industrial Ecologists,"Identify environmental impacts caused by products, systems, or projects.",Inductive Reasoning,3,0
+19972,Industrial Ecologists,"Identify environmental impacts caused by products, systems, or projects.",Deductive Reasoning,2,0
+19972,Industrial Ecologists,"Identify environmental impacts caused by products, systems, or projects.",Problem Sensitivity,3,0
+19972,Industrial Ecologists,"Identify environmental impacts caused by products, systems, or projects.",Written Comprehension,2,0
+19972,Industrial Ecologists,"Identify environmental impacts caused by products, systems, or projects.",Information Ordering,2,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Inductive Reasoning,3,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Deductive Reasoning,2,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Problem Sensitivity,2,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Originality,2,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Fluency of Ideas,2,0
+16888,Industrial Ecologists,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,Written Expression,2,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Inductive Reasoning,3,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Deductive Reasoning,3,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Mathematical Reasoning,2,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Problem Sensitivity,2,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Written Comprehension,2,0
+19965,Industrial Ecologists,Analyze changes designed to improve the environmental performance of complex systems and avoid unintended negative consequences.,Category Flexibility,1,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Mathematical Reasoning,3,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Inductive Reasoning,3,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Number Facility,2,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Deductive Reasoning,2,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Written Expression,2,0
+19968,Industrial Ecologists,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",Information Ordering,2,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Inductive Reasoning,3,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Category Flexibility,2,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Deductive Reasoning,2,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Problem Sensitivity,2,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Originality,2,0
+19974,Industrial Ecologists,Identify sustainable alternatives to industrial or waste-management practices.,Written Comprehension,2,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Written Comprehension,3,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Inductive Reasoning,2,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Deductive Reasoning,2,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Information Ordering,2,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Near Vision,2,0
+19982,Industrial Ecologists,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",Selective Attention,1,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Inductive Reasoning,3,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Visualization,3,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Originality,2,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Deductive Reasoning,2,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Mathematical Reasoning,2,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Category Flexibility,2,0
+19980,Industrial Ecologists,"Redesign linear, or open-loop, systems into cyclical, or closed-loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",Fluency of Ideas,1,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Written Expression,3,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Written Comprehension,2,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Oral Expression,2,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Information Ordering,2,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Deductive Reasoning,2,0
+19978,Industrial Ecologists,"Prepare technical and research reports, such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",Number Facility,1,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Inductive Reasoning,3,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Mathematical Reasoning,2,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Number Facility,2,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Deductive Reasoning,2,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Written Comprehension,2,0
+19970,Industrial Ecologists,"Examine local, regional, or global use and flow of materials or energy in industrial production processes.",Visualization,1,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Inductive Reasoning,3,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Problem Sensitivity,3,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Selective Attention,2,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Written Expression,2,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Near Vision,1,0
+16886,Industrial Ecologists,"Monitor the environmental impact of development activities, pollution, or land degradation.",Far Vision,1,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Information Ordering,3,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Written Comprehension,2,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Selective Attention,2,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Number Facility,2,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Near Vision,2,0
+16894,Industrial Ecologists,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",Deductive Reasoning,1,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Inductive Reasoning,3,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Deductive Reasoning,2,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Mathematical Reasoning,2,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Problem Sensitivity,2,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Written Expression,2,0
+19975,Industrial Ecologists,"Perform analyses to determine how human behavior can affect, and be affected by, changes in the environment.",Category Flexibility,1,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Deductive Reasoning,3,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Inductive Reasoning,2,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Oral Expression,2,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Written Expression,2,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Problem Sensitivity,2,0
+19963,Industrial Ecologists,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,Fluency of Ideas,1,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Deductive Reasoning,3,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Inductive Reasoning,2,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Oral Expression,2,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Written Expression,2,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Category Flexibility,2,0
+19983,Industrial Ecologists,Translate the theories of industrial ecology into eco-industrial practices.,Originality,1,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Mathematical Reasoning,3,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Number Facility,3,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Inductive Reasoning,2,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Deductive Reasoning,2,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Written Expression,2,0
+19964,Industrial Ecologists,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,Visualization,1,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Deductive Reasoning,3,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Problem Sensitivity,2,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Inductive Reasoning,2,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Written Comprehension,2,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Written Expression,2,0
+16893,Industrial Ecologists,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",Selective Attention,2,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Inductive Reasoning,3,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Deductive Reasoning,2,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Written Comprehension,2,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Problem Sensitivity,2,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Category Flexibility,2,0
+19971,Industrial Ecologists,Examine societal issues and their relationship with both technical systems and the environment.,Oral Comprehension,1,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Inductive Reasoning,3,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Deductive Reasoning,2,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Information Ordering,2,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Written Expression,2,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Near Vision,2,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Far Vision,1,0
+16885,Industrial Ecologists,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",Problem Sensitivity,1,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Mathematical Reasoning,3,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Inductive Reasoning,3,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Deductive Reasoning,2,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Number Facility,2,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Visualization,2,0
+16891,Industrial Ecologists,"Create complex and dynamic mathematical models of population, community, or ecological systems.",Originality,2,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Mathematical Reasoning,3,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Inductive Reasoning,3,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Number Facility,2,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Deductive Reasoning,2,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Written Expression,2,0
+19969,Industrial Ecologists,"Evaluate the effectiveness of industrial ecology programs, using statistical analysis and applications.",Problem Sensitivity,1,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Inductive Reasoning,3,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Deductive Reasoning,3,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Mathematical Reasoning,2,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Visualization,2,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Number Facility,2,0
+16895,Industrial Ecologists,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",Written Expression,2,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Problem Sensitivity,3,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Inductive Reasoning,3,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Deductive Reasoning,2,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Written Comprehension,2,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Written Expression,2,0
+16881,Industrial Ecologists,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",Near Vision,1,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Inductive Reasoning,3,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Deductive Reasoning,3,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Written Comprehension,2,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Category Flexibility,2,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Mathematical Reasoning,1,0
+19966,Industrial Ecologists,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,Problem Sensitivity,2,0
+19977,Industrial Ecologists,Prepare plans to manage renewable resources.,Deductive Reasoning,3,0
+19977,Industrial Ecologists,Prepare plans to manage renewable resources.,Written Expression,2,0
+19977,Industrial Ecologists,Prepare plans to manage renewable resources.,Information Ordering,2,0
+19977,Industrial Ecologists,Prepare plans to manage renewable resources.,Inductive Reasoning,2,0
+19977,Industrial Ecologists,Prepare plans to manage renewable resources.,Problem Sensitivity,2,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Inductive Reasoning,3,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Deductive Reasoning,3,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Category Flexibility,2,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Visualization,2,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Written Comprehension,2,0
+19973,Industrial Ecologists,"Identify or compare the component parts or relationships between the parts of industrial, social, and natural systems.",Problem Sensitivity,1,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Inductive Reasoning,3,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Deductive Reasoning,2,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Mathematical Reasoning,2,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Information Ordering,2,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Written Expression,2,0
+16884,Industrial Ecologists,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,Problem Sensitivity,2,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Inductive Reasoning,3,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Deductive Reasoning,2,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Written Comprehension,2,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Mathematical Reasoning,2,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Problem Sensitivity,2,0
+16882,Industrial Ecologists,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,Written Expression,2,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Mathematical Reasoning,3,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Number Facility,3,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Inductive Reasoning,2,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Deductive Reasoning,2,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Information Ordering,2,0
+19976,Industrial Ecologists,Perform environmentally extended input-output (EE I-O) analyses.,Written Comprehension,1,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Oral Expression,3,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Written Expression,2,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Deductive Reasoning,2,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Speech Clarity,2,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Oral Comprehension,1,0
+19979,Industrial Ecologists,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,Fluency of Ideas,1,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Inductive Reasoning,3,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Deductive Reasoning,2,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Problem Sensitivity,2,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Written Comprehension,2,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Written Expression,2,0
+16889,Industrial Ecologists,Investigate the impact of changed land management or land use practices on ecosystems.,Near Vision,1,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Deductive Reasoning,3,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Inductive Reasoning,2,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Information Ordering,2,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Written Expression,2,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Problem Sensitivity,2,0
+16890,Industrial Ecologists,Develop or test protocols to monitor ecosystem components and ecological processes.,Originality,1,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Inductive Reasoning,3,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Mathematical Reasoning,2,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Deductive Reasoning,2,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Problem Sensitivity,2,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Written Expression,2,0
+19981,Industrial Ecologists,"Research environmental effects of land and water use to determine methods of improving environmental conditions or increasing outputs, such as crop yields.",Written Comprehension,2,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Written Expression,3,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Oral Expression,2,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Written Comprehension,2,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Deductive Reasoning,2,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Speech Clarity,1,0
+16883,Industrial Ecologists,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",Information Ordering,1,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Inductive Reasoning,3,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Deductive Reasoning,2,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Mathematical Reasoning,2,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Written Expression,2,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Problem Sensitivity,2,0
+16896,Industrial Ecologists,"Conduct applied research on the effects of industrial processes on the protection, restoration, inventory, monitoring, or reintroduction of species to the natural environment.",Near Vision,1,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Deductive Reasoning,3,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Problem Sensitivity,2,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Inductive Reasoning,2,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Information Ordering,2,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Written Expression,2,0
+16892,Industrial Ecologists,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",Far Vision,1,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Inductive Reasoning,3,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Problem Sensitivity,3,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Deductive Reasoning,2,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Written Expression,2,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Near Vision,2,0
+16879,Industrial Ecologists,Investigate accidents affecting the environment to assess ecological impact.,Far Vision,1,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Mathematical Reasoning,3,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Number Facility,3,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Deductive Reasoning,2,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Inductive Reasoning,2,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Written Expression,2,0
+19967,Industrial Ecologists,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",Information Ordering,1,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Inductive Reasoning,3,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Deductive Reasoning,2,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Written Comprehension,2,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Problem Sensitivity,2,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Near Vision,2,0
+16880,Industrial Ecologists,Investigate the adaptability of various animal and plant species to changed environmental conditions.,Visualization,1,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Deductive Reasoning,3,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Inductive Reasoning,2,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Information Ordering,2,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Far Vision,2,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Near Vision,2,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Spatial Orientation,2,0
+3703,"Geoscientists, Except Hydrologists and Geographers","Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.",Gross Body Coordination,1,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Inductive Reasoning,3,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Deductive Reasoning,2,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Mathematical Reasoning,2,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Number Facility,2,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Near Vision,2,0
+15224,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological data, using computer software.",Visualization,2,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Inductive Reasoning,3,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Near Vision,3,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Visual Color Discrimination,2,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Manual Dexterity,2,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Deductive Reasoning,2,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Problem Sensitivity,2,0
+3704,"Geoscientists, Except Hydrologists and Geographers","Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.",Finger Dexterity,1,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Inductive Reasoning,3,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Deductive Reasoning,2,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Mathematical Reasoning,2,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Near Vision,2,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Visualization,2,0
+3702,"Geoscientists, Except Hydrologists and Geographers","Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.",Spatial Orientation,2,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Inductive Reasoning,3,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Problem Sensitivity,3,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Deductive Reasoning,2,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Visualization,2,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Mathematical Reasoning,2,0
+20391,"Geoscientists, Except Hydrologists and Geographers","Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.",Written Expression,1,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Visualization,3,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Spatial Orientation,3,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Near Vision,2,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Written Expression,2,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Mathematical Reasoning,2,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Deductive Reasoning,2,0
+3705,"Geoscientists, Except Hydrologists and Geographers","Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.",Finger Dexterity,1,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Written Expression,3,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Oral Expression,2,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Speech Clarity,2,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Oral Comprehension,2,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Written Comprehension,2,0
+3712,"Geoscientists, Except Hydrologists and Geographers","Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.",Information Ordering,1,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Inductive Reasoning,3,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Deductive Reasoning,2,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Visualization,2,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Spatial Orientation,2,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Near Vision,2,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Mathematical Reasoning,2,0
+3706,"Geoscientists, Except Hydrologists and Geographers","Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.",Problem Sensitivity,1,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Oral Expression,3,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Deductive Reasoning,3,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Written Expression,2,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Problem Sensitivity,2,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Written Comprehension,2,0
+3711,"Geoscientists, Except Hydrologists and Geographers","Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.",Speech Clarity,1,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Control Precision,3,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Arm-Hand Steadiness,2,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Manual Dexterity,2,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Near Vision,2,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Mathematical Reasoning,2,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Selective Attention,2,0
+3713,"Geoscientists, Except Hydrologists and Geographers","Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.",Deductive Reasoning,1,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Written Comprehension,3,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Information Ordering,2,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Inductive Reasoning,2,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Near Vision,2,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Selective Attention,2,0
+20390,"Geoscientists, Except Hydrologists and Geographers","Locate and review research articles or environmental, historical, or technical reports.",Deductive Reasoning,1,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Inductive Reasoning,3,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Deductive Reasoning,2,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Mathematical Reasoning,2,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Information Ordering,2,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Written Expression,2,0
+3709,"Geoscientists, Except Hydrologists and Geographers","Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.",Spatial Orientation,1,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Written Comprehension,3,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Deductive Reasoning,2,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Inductive Reasoning,2,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Near Vision,2,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Selective Attention,2,0
+21176,"Geoscientists, Except Hydrologists and Geographers","Review environmental, historical, or technical reports and publications for accuracy.",Problem Sensitivity,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Inductive Reasoning,3,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Mathematical Reasoning,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Deductive Reasoning,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Visualization,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Problem Sensitivity,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Oral Expression,2,0
+3707,"Geoscientists, Except Hydrologists and Geographers","Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.",Written Expression,1,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Problem Sensitivity,3,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Inductive Reasoning,2,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Near Vision,2,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Deductive Reasoning,2,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Manual Dexterity,2,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Far Vision,1,0
+20392,"Geoscientists, Except Hydrologists and Geographers","Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.",Selective Attention,2,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Deductive Reasoning,3,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Problem Sensitivity,3,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Oral Expression,2,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Written Expression,2,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Mathematical Reasoning,2,0
+19768,"Geoscientists, Except Hydrologists and Geographers",Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,Inductive Reasoning,2,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Visualization,3,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Spatial Orientation,3,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Deductive Reasoning,2,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Near Vision,2,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Problem Sensitivity,2,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Written Expression,2,0
+15226,"Geoscientists, Except Hydrologists and Geographers","Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.",Far Vision,1,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Written Comprehension,3,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Deductive Reasoning,2,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Inductive Reasoning,2,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Problem Sensitivity,2,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Near Vision,2,0
+19771,"Geoscientists, Except Hydrologists and Geographers",Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.,Information Ordering,1,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Near Vision,3,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Manual Dexterity,2,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Finger Dexterity,2,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Inductive Reasoning,2,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Visual Color Discrimination,2,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Selective Attention,2,0
+3714,"Geoscientists, Except Hydrologists and Geographers","Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.",Arm-Hand Steadiness,1,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Inductive Reasoning,3,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Deductive Reasoning,2,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Mathematical Reasoning,2,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Written Comprehension,2,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Near Vision,2,0
+19772,"Geoscientists, Except Hydrologists and Geographers","Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.",Visualization,2,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Deductive Reasoning,3,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Inductive Reasoning,2,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Problem Sensitivity,2,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Originality,2,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Written Expression,2,0
+19763,"Geoscientists, Except Hydrologists and Geographers",Develop strategies for more environmentally friendly resource extraction and reclamation.,Fluency of Ideas,2,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Inductive Reasoning,3,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Deductive Reasoning,2,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Near Vision,2,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Visual Color Discrimination,2,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Spatial Orientation,2,0
+20393,"Geoscientists, Except Hydrologists and Geographers","Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.",Problem Sensitivity,2,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Inductive Reasoning,3,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Deductive Reasoning,2,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Written Comprehension,2,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Problem Sensitivity,2,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Near Vision,1,0
+19765,"Geoscientists, Except Hydrologists and Geographers","Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.",Mathematical Reasoning,1,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Inductive Reasoning,3,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Deductive Reasoning,2,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Spatial Orientation,2,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Near Vision,2,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Mathematical Reasoning,2,0
+19767,"Geoscientists, Except Hydrologists and Geographers",Locate potential sources of geothermal energy.,Visualization,1,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Inductive Reasoning,3,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Deductive Reasoning,2,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Written Comprehension,2,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Mathematical Reasoning,2,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Problem Sensitivity,2,0
+19770,"Geoscientists, Except Hydrologists and Geographers",Research ways to reduce the ecological footprint of increasingly prevalent megacities.,Fluency of Ideas,1,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Oral Comprehension,3,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Oral Expression,2,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Written Comprehension,2,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Deductive Reasoning,2,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Inductive Reasoning,2,0
+19760,"Geoscientists, Except Hydrologists and Geographers",Collaborate with medical or health researchers to address health problems related to geological materials or processes.,Speech Recognition,1,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Inductive Reasoning,3,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Deductive Reasoning,2,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Problem Sensitivity,2,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Mathematical Reasoning,2,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Written Expression,2,0
+19762,"Geoscientists, Except Hydrologists and Geographers",Determine ways to mitigate the negative consequences of mineral dust dispersion.,Fluency of Ideas,1,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Inductive Reasoning,3,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Spatial Orientation,2,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Deductive Reasoning,2,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Near Vision,2,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Visualization,2,0
+19766,"Geoscientists, Except Hydrologists and Geographers",Identify possible sites for carbon sequestration projects.,Problem Sensitivity,2,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Inductive Reasoning,3,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Deductive Reasoning,2,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Mathematical Reasoning,2,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Problem Sensitivity,2,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Originality,2,0
+19764,"Geoscientists, Except Hydrologists and Geographers",Develop ways to capture or use gases burned off as waste during oil production processes.,Written Expression,2,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Inductive Reasoning,3,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Deductive Reasoning,2,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Mathematical Reasoning,2,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Written Comprehension,2,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Problem Sensitivity,2,0
+19769,"Geoscientists, Except Hydrologists and Geographers",Research geomechanical or geochemical processes to be used in carbon sequestration projects.,Number Facility,1,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Deductive Reasoning,3,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Mathematical Reasoning,3,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Inductive Reasoning,2,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Written Expression,2,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Information Ordering,2,0
+3716,"Geoscientists, Except Hydrologists and Geographers",Develop applied software for the analysis and interpretation of geological data.,Number Facility,2,0

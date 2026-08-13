@@ -1,0 +1,782 @@
+[
+{
+"task_id": "17788",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Recommend weatherization techniques to clients in accordance with needs and applicable energy regulations, codes, policies, or statutes."
+},
+{
+"task_id": "17790",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls."
+},
+{
+"task_id": "17794",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Make minor repairs using basic hand or power tools and materials, such as glass, lumber, and drywall."
+},
+{
+"task_id": "17796",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Prepare cost estimates or specifications for rehabilitation or weatherization services."
+},
+{
+"task_id": "17801",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Contact residents or building owners to schedule appointments."
+},
+{
+"task_id": "17797",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Wrap air ducts and water lines with insulating materials, such as duct wrap and pipe insulation."
+},
+{
+"task_id": "17795",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Prepare and apply weather-stripping, glazing, caulking, or door sweeps to reduce energy losses."
+},
+{
+"task_id": "17800",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Clean and maintain tools and equipment."
+},
+{
+"task_id": "17799",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Apply spackling, compounding, or other materials to repair holes in walls."
+},
+{
+"task_id": "17802",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Explain recommendations, policies, procedures, requirements, or other related information to residents or building owners."
+},
+{
+"task_id": "17803",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Maintain activity logs, financial transaction logs, or other records of weatherization work performed."
+},
+{
+"task_id": "17791",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Explain energy conservation measures, such as the use of low flow showerheads and energy-efficient lighting."
+},
+{
+"task_id": "17804",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Prepare or assist in the preparation of bids, contracts, or written reports related to weatherization work."
+},
+{
+"task_id": "17793",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Install storm windows or storm doors and verify proper fit."
+},
+{
+"task_id": "17798",
+"soc": "47-4099.03",
+"occupation": "Weatherization Installers and Technicians",
+"task_text": "Wrap water heaters with water heater blankets."
+},
+{
+"task_id": "9889",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Inspect derricks, or order their inspection, prior to being raised or lowered."
+},
+{
+"task_id": "9890",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Inspect derricks for flaws, and clean and oil derricks to maintain proper working conditions."
+},
+{
+"task_id": "9891",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Control the viscosity and weight of the drilling fluid."
+},
+{
+"task_id": "9892",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Repair pumps, mud tanks, and related equipment."
+},
+{
+"task_id": "9893",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Set and bolt crown blocks to posts at tops of derricks."
+},
+{
+"task_id": "9894",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Listen to mud pumps and check regularly for vibration and other problems to ensure that rig pumps and drilling mud systems are working properly."
+},
+{
+"task_id": "9895",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Start pumps that circulate mud through drill pipes and boreholes to cool drill bits and flush out drill cuttings."
+},
+{
+"task_id": "9896",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Position and align derrick elements, using harnesses and platform climbing devices."
+},
+{
+"task_id": "9897",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Supervise crew members, and provide assistance in training them."
+},
+{
+"task_id": "9898",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Guide lengths of pipe into and out of elevators."
+},
+{
+"task_id": "9899",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Prepare mud reports, and instruct crews about the handling of any chemical additives."
+},
+{
+"task_id": "9900",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Clamp holding fixtures on ends of hoisting cables."
+},
+{
+"task_id": "9901",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Weigh clay, and mix with water and chemicals to make drilling mud, using portable mixers."
+},
+{
+"task_id": "9902",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "String cables through pulleys and blocks."
+},
+{
+"task_id": "9903",
+"soc": "47-5011.00",
+"occupation": "Derrick Operators, Oil and Gas",
+"task_text": "Steady pipes during connection to or disconnection from drill or casing strings."
+},
+{
+"task_id": "8296",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Train crews, and introduce procedures to make drill work more safe and effective."
+},
+{
+"task_id": "8297",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Observe pressure gauge and move throttles and levers to control the speed of rotary tables, and to regulate pressure of tools at bottoms of boreholes."
+},
+{
+"task_id": "8298",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Count sections of drill rod to determine depths of boreholes."
+},
+{
+"task_id": "8299",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Push levers and brake pedals to control gasoline, diesel, electric, or steam draw works that lower and raise drill pipes and casings in and out of wells."
+},
+{
+"task_id": "8300",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Connect sections of drill pipe, using hand tools and powered wrenches and tongs."
+},
+{
+"task_id": "8301",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Maintain records of footage drilled, location and nature of strata penetrated, materials and tools used, services rendered, and time required."
+},
+{
+"task_id": "8302",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Maintain and adjust machinery to ensure proper performance."
+},
+{
+"task_id": "8303",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Start and examine operation of slush pumps to ensure circulation and consistency of drilling fluid or mud in well."
+},
+{
+"task_id": "8304",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Locate and recover lost or broken bits, casings, and drill pipes from wells, using special tools."
+},
+{
+"task_id": "8305",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Weigh clay, and mix with water and chemicals to make drilling mud."
+},
+{
+"task_id": "8306",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Direct rig crews in drilling and other activities, such as setting up rigs and completing or servicing wells."
+},
+{
+"task_id": "8307",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Monitor progress of drilling operations, and select and change drill bits according to the nature of strata, using hand tools."
+},
+{
+"task_id": "8308",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Repair or replace defective parts of machinery, such as rotary drill rigs, water trucks, air compressors, and pumps, using hand tools."
+},
+{
+"task_id": "8309",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Clean and oil pulleys, blocks, and cables."
+},
+{
+"task_id": "8310",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Bolt together pump and engine parts, and connect tanks and flow lines."
+},
+{
+"task_id": "8311",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Remove core samples during drilling to determine the nature of the strata being drilled."
+},
+{
+"task_id": "8312",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Cap wells with packers, or turn valves, to regulate outflow of oil from wells."
+},
+{
+"task_id": "8313",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Line drilled holes with pipes, and install all necessary hardware, to prepare new wells."
+},
+{
+"task_id": "8314",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Position and prepare truck-mounted derricks at drilling areas specified on field maps."
+},
+{
+"task_id": "8315",
+"soc": "47-5012.00",
+"occupation": "Rotary Drill Operators, Oil and Gas",
+"task_text": "Plug observation wells, and restore sites."
+},
+{
+"task_id": "20451",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Maintain and perform safety inspections on equipment and tools."
+},
+{
+"task_id": "7080",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Operate controls that raise derricks or level rigs."
+},
+{
+"task_id": "20452",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Listen to engines, rotary chains, or other equipment to detect faulty operations or unusual well conditions."
+},
+{
+"task_id": "7083",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Prepare reports of services rendered, tools used, or time required, for billing purposes."
+},
+{
+"task_id": "7076",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Install pressure-control devices onto wellheads."
+},
+{
+"task_id": "7074",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Confer with others to gather information regarding pipe or tool sizes or borehole conditions in wells."
+},
+{
+"task_id": "7078",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Operate pumps that circulate water, oil, or other fluids through wells to remove sand or other materials obstructing the free flow of oil."
+},
+{
+"task_id": "7075",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Drive truck-mounted units to well sites."
+},
+{
+"task_id": "7088",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Interpret instrument readings to ascertain the depth of obstruction."
+},
+{
+"task_id": "7077",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Thread cables through derrick pulleys, using hand tools."
+},
+{
+"task_id": "7085",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Select fishing methods or tools for removing obstacles such as liners, broken casing, screens, or drill pipe."
+},
+{
+"task_id": "7079",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Close and seal wells no longer in use."
+},
+{
+"task_id": "7081",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Direct drilling crews performing activities such as assembling and connecting pipe, applying weights to drill pipes, or drilling around lodged obstacles."
+},
+{
+"task_id": "19874",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Apply green technologies or techniques, such as the use of coiled tubing, slim-hole drilling, horizontal drilling, hydraulic fracturing, or gas lift systems."
+},
+{
+"task_id": "7084",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Operate specialized equipment to remove obstructions by backing off or severing pipes by chemical or explosive action."
+},
+{
+"task_id": "7082",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Perforate well casings or sidewalls of boreholes with explosive charges."
+},
+{
+"task_id": "7086",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Examine unserviceable wells to determine actions to be taken to improve well conditions."
+},
+{
+"task_id": "7089",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Monitor sound wave-generating or detecting mechanisms to determine well fluid levels."
+},
+{
+"task_id": "7087",
+"soc": "47-5013.00",
+"occupation": "Service Unit Operators, Oil and Gas",
+"task_text": "Insert detection instruments into wells with obstructions."
+},
+{
+"task_id": "12777",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Move levers, depress foot pedals, and turn dials to operate power machinery, such as power shovels, stripping shovels, scraper loaders, or backhoes."
+},
+{
+"task_id": "12778",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Set up or inspect equipment prior to operation."
+},
+{
+"task_id": "12780",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Become familiar with digging plans, machine capabilities and limitations, and efficient and safe digging procedures in a given application."
+},
+{
+"task_id": "12779",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Observe hand signals, grade stakes, or other markings when operating machines so that work can be performed to specifications."
+},
+{
+"task_id": "12781",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads."
+},
+{
+"task_id": "12786",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Receive written or oral instructions regarding material movement or excavation."
+},
+{
+"task_id": "12784",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Move materials over short distances, such as around a construction site, factory, or warehouse."
+},
+{
+"task_id": "20458",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Create or maintain inclines or ramps."
+},
+{
+"task_id": "12783",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Lubricate, adjust, or repair machinery and replace parts, such as gears, bearings, or bucket teeth."
+},
+{
+"task_id": "20459",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Handle slides, mud, or pit cleanings or maintenance."
+},
+{
+"task_id": "12791",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Direct workers engaged in placing blocks or outriggers to prevent capsizing of machines when lifting heavy loads."
+},
+{
+"task_id": "12785",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Measure and verify levels of rock or gravel, bases, or other excavated material."
+},
+{
+"task_id": "12790",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Direct ground workers engaged in activities such as moving stakes or markers, or changing positions of towers."
+},
+{
+"task_id": "12787",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Adjust dig face angles for varying overburden depths and set lengths."
+},
+{
+"task_id": "12788",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Drive machines to work sites."
+},
+{
+"task_id": "12789",
+"soc": "47-5022.00",
+"occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+"task_text": "Perform manual labor to prepare or finish sites, such as shoveling materials by hand."
+},
+{
+"task_id": "13673",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Operate controls to stabilize machines and to position and align drills."
+},
+{
+"task_id": "13671",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Start, stop, and control drilling speed of machines and insertion of casings into holes."
+},
+{
+"task_id": "13668",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Regulate air pressure, rotary speed, and downward pressure, according to the type of rock or concrete being drilled."
+},
+{
+"task_id": "13674",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Select and attach drill bits and drill rods, adding more rods as hole depths increase, and changing drill bits as needed."
+},
+{
+"task_id": "13677",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Drive or guide truck-mounted equipment into position, level and stabilize rigs, and extend telescoping derricks."
+},
+{
+"task_id": "13676",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Operate machines to flush earth cuttings or to blow dust from holes."
+},
+{
+"task_id": "13669",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Verify depths and alignments of boring positions."
+},
+{
+"task_id": "13678",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Perform routine maintenance and upgrade work on machines and equipment, such as replacing parts, building up drill bits, and lubricating machinery."
+},
+{
+"task_id": "13672",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Select the appropriate drill for the job, using knowledge of rock or soil conditions."
+},
+{
+"task_id": "13686",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Document geological formations encountered during work."
+},
+{
+"task_id": "13679",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Drive trucks, tractors, or truck-mounted drills to and from work sites."
+},
+{
+"task_id": "13682",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Assemble and position machines, augers, casing pipes, and other equipment, using hand and power tools."
+},
+{
+"task_id": "13680",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Record drilling progress and geological data."
+},
+{
+"task_id": "13681",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Retrieve lost equipment from bore holes, using retrieval tools and equipment."
+},
+{
+"task_id": "13696",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Fabricate well casings."
+},
+{
+"task_id": "13683",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Pour water into wells, or pump water or slush into wells to cool drill bits and to remove drillings."
+},
+{
+"task_id": "21016",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Create and lay out designs for drill and blast patterns."
+},
+{
+"task_id": "13689",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Place and install screens, casings, pumps, and other well fixtures to develop wells."
+},
+{
+"task_id": "13684",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Operate water-well drilling rigs and other equipment to drill, bore, and dig for water wells or for environmental assessment purposes."
+},
+{
+"task_id": "13692",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Review client requirements and proposed locations for drilling operations to determine feasibility, and to determine cost estimates."
+},
+{
+"task_id": "13675",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Drill or bore holes in rock for blasting, grouting, anchoring, or building foundations."
+},
+{
+"task_id": "13685",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Perform pumping tests to assess well performance."
+},
+{
+"task_id": "13691",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Disinfect, reconstruct, and redevelop contaminated wells and water pumping systems, and clean and disinfect new wells in preparation for use."
+},
+{
+"task_id": "13690",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Design well pumping systems."
+},
+{
+"task_id": "13694",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Signal crane operators to move equipment."
+},
+{
+"task_id": "13687",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Withdraw drill rods from holes, and extract core samples."
+},
+{
+"task_id": "13695",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Inspect core samples to determine nature of strata, or take samples to laboratories for analysis."
+},
+{
+"task_id": "13688",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Retract augers to force discharge dirt from holes."
+},
+{
+"task_id": "23489",
+"soc": "47-5023.00",
+"occupation": "Earth Drillers, Except Oil and Gas",
+"task_text": "Monitor drilling operations, by checking gauges and listening to equipment to assess drilling conditions and to determine the need to adjust drilling or alter equipment."
+},
+{
+"task_id": "9904",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Examine blast areas to determine amounts and kinds of explosive charges needed and to ensure that safety laws are observed."
+},
+{
+"task_id": "9905",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Tie specified lengths of delaying fuses into patterns in order to time sequences of explosions."
+},
+{
+"task_id": "9906",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Place safety cones around blast areas to alert other workers of danger zones, and signal workers as necessary to ensure that they clear blast sites prior to explosions."
+},
+{
+"task_id": "9907",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Place explosive charges in holes or other spots; then detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials."
+},
+{
+"task_id": "9908",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Insert, pack, and pour explosives, such as dynamite, ammonium nitrate, black powder, or slurries into blast holes; then shovel drill cuttings, admit water into boreholes, and tamp material to compact charges."
+},
+{
+"task_id": "9909",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Mark patterns, locations, and depths of charge holes for drilling, and issue drilling instructions."
+},
+{
+"task_id": "9910",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Compile and keep gun and explosives records in compliance with local and federal laws."
+},
+{
+"task_id": "9911",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Measure depths of drilled blast holes, using weighted tape measures."
+},
+{
+"task_id": "9912",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Connect electrical wire to primers, and cover charges or fill blast holes with clay, drill chips, sand, or other material."
+},
+{
+"task_id": "9913",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Lay primacord between rows of charged blast holes, and tie cord into main lines to form blast patterns."
+},
+{
+"task_id": "9914",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Assemble and position equipment, explosives, and blasting caps in holes at specified depths, or load perforating guns or torpedoes with explosives."
+},
+{
+"task_id": "9915",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Verify detonation of charges by observing control panels, or by listening for the sounds of blasts."
+},
+{
+"task_id": "9916",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Move and store inventories of explosives, loaded perforating guns, and other materials, according to established safety procedures."
+},
+{
+"task_id": "9917",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Light fuses, drop detonating devices into wells or boreholes, or activate firing devices with plungers, dials, or buttons, in order to set off single or multiple blasts."
+},
+{
+"task_id": "9918",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Drive trucks to transport explosives and blasting equipment to blasting sites."
+},
+{
+"task_id": "9919",
+"soc": "47-5032.00",
+"occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+"task_text": "Cut specified lengths of primacord and attach primers to cord ends."
+}
+]

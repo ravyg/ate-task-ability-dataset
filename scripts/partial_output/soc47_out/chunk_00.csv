@@ -1,0 +1,520 @@
+task_id,occupation,task_text,ability_name,weight,uncertain
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",Near Vision,2,0
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",Far Vision,2,0
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",Problem Sensitivity,3,0
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",Selective Attention,2,0
+20291,First-Line Supervisors of Construction Trades and Extraction Workers,"Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",Visualization,1,0
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",Written Comprehension,3,0
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",Visualization,3,0
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",Near Vision,2,0
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",Spatial Orientation,2,0
+11424,First-Line Supervisors of Construction Trades and Extraction Workers,"Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",Information Ordering,2,0
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",Oral Comprehension,2,0
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",Oral Expression,2,0
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",Information Ordering,3,0
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",Time Sharing,2,0
+11426,First-Line Supervisors of Construction Trades and Extraction Workers,"Supervise, coordinate, or schedule the activities of construction or extractive workers.",Deductive Reasoning,1,0
+11432,First-Line Supervisors of Construction Trades and Extraction Workers,"Assign work to employees, based on material or worker requirements of specific jobs.",Deductive Reasoning,2,0
+11432,First-Line Supervisors of Construction Trades and Extraction Workers,"Assign work to employees, based on material or worker requirements of specific jobs.",Information Ordering,2,0
+11432,First-Line Supervisors of Construction Trades and Extraction Workers,"Assign work to employees, based on material or worker requirements of specific jobs.",Oral Expression,2,0
+11432,First-Line Supervisors of Construction Trades and Extraction Workers,"Assign work to employees, based on material or worker requirements of specific jobs.",Oral Comprehension,1,0
+11428,First-Line Supervisors of Construction Trades and Extraction Workers,Coordinate work activities with other construction project activities.,Information Ordering,3,0
+11428,First-Line Supervisors of Construction Trades and Extraction Workers,Coordinate work activities with other construction project activities.,Time Sharing,2,0
+11428,First-Line Supervisors of Construction Trades and Extraction Workers,Coordinate work activities with other construction project activities.,Oral Comprehension,2,0
+11428,First-Line Supervisors of Construction Trades and Extraction Workers,Coordinate work activities with other construction project activities.,Oral Expression,2,0
+11425,First-Line Supervisors of Construction Trades and Extraction Workers,Estimate material or worker requirements to complete jobs.,Mathematical Reasoning,3,0
+11425,First-Line Supervisors of Construction Trades and Extraction Workers,Estimate material or worker requirements to complete jobs.,Number Facility,2,0
+11425,First-Line Supervisors of Construction Trades and Extraction Workers,Estimate material or worker requirements to complete jobs.,Deductive Reasoning,2,0
+11425,First-Line Supervisors of Construction Trades and Extraction Workers,Estimate material or worker requirements to complete jobs.,Visualization,1,0
+11435,First-Line Supervisors of Construction Trades and Extraction Workers,"Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",Deductive Reasoning,3,0
+11435,First-Line Supervisors of Construction Trades and Extraction Workers,"Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",Inductive Reasoning,2,0
+11435,First-Line Supervisors of Construction Trades and Extraction Workers,"Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",Problem Sensitivity,3,0
+11435,First-Line Supervisors of Construction Trades and Extraction Workers,"Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",Oral Expression,1,0
+11429,First-Line Supervisors of Construction Trades and Extraction Workers,Order or requisition materials or supplies.,Number Facility,2,0
+11429,First-Line Supervisors of Construction Trades and Extraction Workers,Order or requisition materials or supplies.,Written Expression,1,0
+11429,First-Line Supervisors of Construction Trades and Extraction Workers,Order or requisition materials or supplies.,Information Ordering,2,0
+11429,First-Line Supervisors of Construction Trades and Extraction Workers,Order or requisition materials or supplies.,Mathematical Reasoning,1,0
+11434,First-Line Supervisors of Construction Trades and Extraction Workers,"Train workers in construction methods, operation of equipment, safety procedures, or company policies.",Oral Expression,3,0
+11434,First-Line Supervisors of Construction Trades and Extraction Workers,"Train workers in construction methods, operation of equipment, safety procedures, or company policies.",Oral Comprehension,2,0
+11434,First-Line Supervisors of Construction Trades and Extraction Workers,"Train workers in construction methods, operation of equipment, safety procedures, or company policies.",Information Ordering,2,0
+11434,First-Line Supervisors of Construction Trades and Extraction Workers,"Train workers in construction methods, operation of equipment, safety procedures, or company policies.",Speech Clarity,1,0
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",Spatial Orientation,3,0
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",Near Vision,2,0
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",Visualization,2,0
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",Control Precision,2,0
+11430,First-Line Supervisors of Construction Trades and Extraction Workers,"Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment.",Depth Perception,2,0
+11427,First-Line Supervisors of Construction Trades and Extraction Workers,"Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities.",Oral Comprehension,3,0
+11427,First-Line Supervisors of Construction Trades and Extraction Workers,"Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities.",Oral Expression,3,0
+11427,First-Line Supervisors of Construction Trades and Extraction Workers,"Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities.",Deductive Reasoning,1,0
+11427,First-Line Supervisors of Construction Trades and Extraction Workers,"Confer with managerial or technical personnel, other departments, or contractors to resolve problems or to coordinate activities.",Speech Recognition,1,0
+11436,First-Line Supervisors of Construction Trades and Extraction Workers,Arrange for repairs of equipment or machinery.,Oral Expression,2,0
+11436,First-Line Supervisors of Construction Trades and Extraction Workers,Arrange for repairs of equipment or machinery.,Deductive Reasoning,1,0
+11436,First-Line Supervisors of Construction Trades and Extraction Workers,Arrange for repairs of equipment or machinery.,Information Ordering,1,1
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",Manual Dexterity,2,0
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",Static Strength,2,0
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",Multilimb Coordination,2,0
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",Control Precision,1,0
+11433,First-Line Supervisors of Construction Trades and Extraction Workers,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",Gross Body Coordination,1,0
+11431,First-Line Supervisors of Construction Trades and Extraction Workers,"Record information, such as personnel, production, or operational data on specified forms or reports.",Written Expression,2,0
+11431,First-Line Supervisors of Construction Trades and Extraction Workers,"Record information, such as personnel, production, or operational data on specified forms or reports.",Information Ordering,2,0
+11431,First-Line Supervisors of Construction Trades and Extraction Workers,"Record information, such as personnel, production, or operational data on specified forms or reports.",Near Vision,1,0
+11437,First-Line Supervisors of Construction Trades and Extraction Workers,"Suggest or initiate personnel actions, such as promotions, transfers, or hires.",Deductive Reasoning,2,0
+11437,First-Line Supervisors of Construction Trades and Extraction Workers,"Suggest or initiate personnel actions, such as promotions, transfers, or hires.",Oral Expression,1,0
+11437,First-Line Supervisors of Construction Trades and Extraction Workers,"Suggest or initiate personnel actions, such as promotions, transfers, or hires.",Written Expression,1,1
+17725,Solar Energy Installation Managers,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,Deductive Reasoning,2,0
+17725,Solar Energy Installation Managers,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,Information Ordering,2,0
+17725,Solar Energy Installation Managers,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,Visualization,2,0
+17725,Solar Energy Installation Managers,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,Written Comprehension,1,0
+17726,Solar Energy Installation Managers,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",Oral Comprehension,2,0
+17726,Solar Energy Installation Managers,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",Oral Expression,2,0
+17726,Solar Energy Installation Managers,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",Information Ordering,2,0
+17726,Solar Energy Installation Managers,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",Selective Attention,1,0
+17735,Solar Energy Installation Managers,"Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects.",Mathematical Reasoning,3,0
+17735,Solar Energy Installation Managers,"Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects.",Number Facility,2,0
+17735,Solar Energy Installation Managers,"Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects.",Deductive Reasoning,2,0
+17738,Solar Energy Installation Managers,"Prepare solar installation project proposals, quotes, budgets, or schedules.",Written Expression,2,0
+17738,Solar Energy Installation Managers,"Prepare solar installation project proposals, quotes, budgets, or schedules.",Mathematical Reasoning,2,0
+17738,Solar Energy Installation Managers,"Prepare solar installation project proposals, quotes, budgets, or schedules.",Number Facility,2,0
+17738,Solar Energy Installation Managers,"Prepare solar installation project proposals, quotes, budgets, or schedules.",Information Ordering,2,0
+17732,Solar Energy Installation Managers,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems.",Oral Expression,2,0
+17732,Solar Energy Installation Managers,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems.",Oral Comprehension,2,0
+17732,Solar Energy Installation Managers,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems.",Deductive Reasoning,2,0
+17732,Solar Energy Installation Managers,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, or mechanical systems.",Written Comprehension,1,0
+17729,Solar Energy Installation Managers,Coordinate or schedule building inspections for solar installation projects.,Information Ordering,2,0
+17729,Solar Energy Installation Managers,Coordinate or schedule building inspections for solar installation projects.,Oral Expression,1,0
+17729,Solar Energy Installation Managers,Coordinate or schedule building inspections for solar installation projects.,Time Sharing,1,1
+17731,Solar Energy Installation Managers,Perform start-up of systems for testing or customer implementation.,Control Precision,2,0
+17731,Solar Energy Installation Managers,Perform start-up of systems for testing or customer implementation.,Near Vision,1,0
+17731,Solar Energy Installation Managers,Perform start-up of systems for testing or customer implementation.,Deductive Reasoning,2,0
+17731,Solar Energy Installation Managers,Perform start-up of systems for testing or customer implementation.,Selective Attention,2,0
+17737,Solar Energy Installation Managers,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",Deductive Reasoning,2,0
+17737,Solar Energy Installation Managers,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",Inductive Reasoning,2,0
+17737,Solar Energy Installation Managers,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",Problem Sensitivity,2,0
+17737,Solar Energy Installation Managers,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",Mathematical Reasoning,1,0
+17728,Solar Energy Installation Managers,"Assess system performance or functionality at the system, subsystem, and component levels.",Problem Sensitivity,3,0
+17728,Solar Energy Installation Managers,"Assess system performance or functionality at the system, subsystem, and component levels.",Deductive Reasoning,2,0
+17728,Solar Energy Installation Managers,"Assess system performance or functionality at the system, subsystem, and component levels.",Near Vision,1,0
+17728,Solar Energy Installation Managers,"Assess system performance or functionality at the system, subsystem, and component levels.",Inductive Reasoning,1,0
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,Visualization,2,0
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,Deductive Reasoning,2,0
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,Near Vision,1,0
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,Far Vision,1,0
+17727,Solar Energy Installation Managers,Assess potential solar installation sites to determine feasibility and design requirements.,Spatial Orientation,1,0
+17730,Solar Energy Installation Managers,"Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets.",Selective Attention,2,0
+17730,Solar Energy Installation Managers,"Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets.",Near Vision,1,0
+17730,Solar Energy Installation Managers,"Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets.",Information Ordering,2,0
+17730,Solar Energy Installation Managers,"Monitor work of contractors and subcontractors to ensure projects conform to plans, specifications, schedules, or budgets.",Written Comprehension,1,0
+17733,Solar Energy Installation Managers,"Visit customer sites to determine solar system needs, requirements, or specifications.",Oral Comprehension,2,0
+17733,Solar Energy Installation Managers,"Visit customer sites to determine solar system needs, requirements, or specifications.",Oral Expression,2,0
+17733,Solar Energy Installation Managers,"Visit customer sites to determine solar system needs, requirements, or specifications.",Visualization,1,0
+17733,Solar Energy Installation Managers,"Visit customer sites to determine solar system needs, requirements, or specifications.",Near Vision,1,0
+17739,Solar Energy Installation Managers,Purchase or rent equipment for solar energy system installation.,Number Facility,1,0
+17739,Solar Energy Installation Managers,Purchase or rent equipment for solar energy system installation.,Deductive Reasoning,1,0
+17739,Solar Energy Installation Managers,Purchase or rent equipment for solar energy system installation.,Written Expression,1,1
+17734,Solar Energy Installation Managers,"Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams.",Visualization,3,0
+17734,Solar Energy Installation Managers,"Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams.",Deductive Reasoning,2,0
+17734,Solar Energy Installation Managers,"Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams.",Spatial Orientation,2,0
+17734,Solar Energy Installation Managers,"Develop and maintain system architecture, including all piping, instrumentation, or process flow diagrams.",Written Expression,1,0
+17736,Solar Energy Installation Managers,"Evaluate subcontractors or subcontractor bids for quality, cost, and reliability.",Deductive Reasoning,2,0
+17736,Solar Energy Installation Managers,"Evaluate subcontractors or subcontractor bids for quality, cost, and reliability.",Mathematical Reasoning,2,0
+17736,Solar Energy Installation Managers,"Evaluate subcontractors or subcontractor bids for quality, cost, and reliability.",Number Facility,1,0
+17736,Solar Energy Installation Managers,"Evaluate subcontractors or subcontractor bids for quality, cost, and reliability.",Written Comprehension,2,0
+24011,Boilermakers,"Conduct pressure tests on vessels, such as boilers.",Near Vision,2,0
+24011,Boilermakers,"Conduct pressure tests on vessels, such as boilers.",Control Precision,2,0
+24011,Boilermakers,"Conduct pressure tests on vessels, such as boilers.",Selective Attention,2,0
+24011,Boilermakers,"Conduct pressure tests on vessels, such as boilers.",Problem Sensitivity,1,0
+11446,Boilermakers,"Study blueprints to determine locations, relationships, or dimensions of parts.",Visualization,3,0
+11446,Boilermakers,"Study blueprints to determine locations, relationships, or dimensions of parts.",Written Comprehension,2,0
+11446,Boilermakers,"Study blueprints to determine locations, relationships, or dimensions of parts.",Spatial Orientation,2,0
+11446,Boilermakers,"Study blueprints to determine locations, relationships, or dimensions of parts.",Near Vision,2,0
+11438,Boilermakers,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",Near Vision,3,0
+11438,Boilermakers,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",Problem Sensitivity,3,0
+11438,Boilermakers,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",Depth Perception,1,0
+11438,Boilermakers,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",Selective Attention,2,0
+11440,Boilermakers,"Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",Near Vision,3,0
+11440,Boilermakers,"Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",Problem Sensitivity,2,0
+11440,Boilermakers,"Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",Selective Attention,2,0
+11440,Boilermakers,"Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",Flexibility of Closure,1,1
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",Near Vision,2,0
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",Control Precision,2,0
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",Visualization,2,0
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",Arm-Hand Steadiness,2,0
+11444,Boilermakers,"Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",Manual Dexterity,1,0
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",Arm-Hand Steadiness,3,0
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",Control Precision,3,0
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",Near Vision,2,0
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",Multilimb Coordination,2,0
+11443,Boilermakers,"Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",Static Strength,1,0
+11450,Boilermakers,"Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",Near Vision,2,0
+11450,Boilermakers,"Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",Visualization,2,0
+11450,Boilermakers,"Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",Spatial Orientation,2,0
+11450,Boilermakers,"Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",Control Precision,1,0
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",Control Precision,2,0
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",Multilimb Coordination,2,0
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",Static Strength,2,0
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",Manual Dexterity,2,0
+11451,Boilermakers,"Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",Near Vision,1,0
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",Static Strength,2,0
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",Multilimb Coordination,2,0
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",Control Precision,2,0
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",Visualization,1,0
+11449,Boilermakers,"Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",Trunk Strength,1,0
+11452,Boilermakers,"Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.",Manual Dexterity,2,0
+11452,Boilermakers,"Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.",Static Strength,1,0
+11452,Boilermakers,"Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.",Stamina,1,0
+11452,Boilermakers,"Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.",Arm-Hand Steadiness,1,0
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",Manual Dexterity,2,0
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",Control Precision,2,0
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",Static Strength,2,0
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",Arm-Hand Steadiness,2,0
+11441,Boilermakers,"Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.",Multilimb Coordination,1,0
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,Multilimb Coordination,2,0
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,Static Strength,2,0
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,Depth Perception,2,0
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,Reaction Time,1,0
+11442,Boilermakers,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,Near Vision,1,0
+11447,Boilermakers,"Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.",Static Strength,3,0
+11447,Boilermakers,"Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.",Dynamic Strength,2,0
+11447,Boilermakers,"Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.",Control Precision,2,0
+11447,Boilermakers,"Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.",Arm-Hand Steadiness,1,0
+11448,Boilermakers,"Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.",Control Precision,3,0
+11448,Boilermakers,"Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.",Arm-Hand Steadiness,2,0
+11448,Boilermakers,"Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.",Manual Dexterity,2,0
+11448,Boilermakers,"Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.",Near Vision,2,0
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",Arm-Hand Steadiness,3,0
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",Control Precision,2,0
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",Manual Dexterity,2,0
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",Near Vision,2,0
+11439,Boilermakers,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",Static Strength,1,0
+11445,Boilermakers,"Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.",Manual Dexterity,2,0
+11445,Boilermakers,"Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.",Static Strength,2,0
+11445,Boilermakers,"Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.",Control Precision,2,0
+11445,Boilermakers,"Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.",Multilimb Coordination,1,0
+11454,Boilermakers,Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.,Multilimb Coordination,2,0
+11454,Boilermakers,Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.,Static Strength,2,0
+11454,Boilermakers,Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.,Control Precision,2,0
+11454,Boilermakers,Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.,Visualization,1,0
+11453,Boilermakers,Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.,Manual Dexterity,2,0
+11453,Boilermakers,Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.,Static Strength,2,0
+11453,Boilermakers,Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.,Trunk Strength,1,0
+11453,Boilermakers,Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.,Control Precision,1,0
+4769,Brickmasons and Blockmasons,"Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",Near Vision,2,0
+4769,Brickmasons and Blockmasons,"Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",Visualization,2,0
+4769,Brickmasons and Blockmasons,"Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",Spatial Orientation,2,0
+4769,Brickmasons and Blockmasons,"Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",Control Precision,1,0
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",Manual Dexterity,2,0
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",Control Precision,2,0
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",Static Strength,2,0
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",Near Vision,2,0
+4768,Brickmasons and Blockmasons,"Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",Multilimb Coordination,1,0
+4775,Brickmasons and Blockmasons,Apply and smooth mortar or other mixture over work surface.,Manual Dexterity,2,0
+4775,Brickmasons and Blockmasons,Apply and smooth mortar or other mixture over work surface.,Arm-Hand Steadiness,2,0
+4775,Brickmasons and Blockmasons,Apply and smooth mortar or other mixture over work surface.,Control Precision,1,0
+4775,Brickmasons and Blockmasons,Apply and smooth mortar or other mixture over work surface.,Static Strength,1,0
+4770,Brickmasons and Blockmasons,Calculate angles and courses and determine vertical and horizontal alignment of courses.,Mathematical Reasoning,2,0
+4770,Brickmasons and Blockmasons,Calculate angles and courses and determine vertical and horizontal alignment of courses.,Spatial Orientation,2,0
+4770,Brickmasons and Blockmasons,Calculate angles and courses and determine vertical and horizontal alignment of courses.,Visualization,2,0
+4770,Brickmasons and Blockmasons,Calculate angles and courses and determine vertical and horizontal alignment of courses.,Number Facility,1,0
+4772,Brickmasons and Blockmasons,"Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",Control Precision,2,0
+4772,Brickmasons and Blockmasons,"Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",Manual Dexterity,2,0
+4772,Brickmasons and Blockmasons,"Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",Static Strength,1,0
+4772,Brickmasons and Blockmasons,"Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",Near Vision,1,0
+4774,Brickmasons and Blockmasons,Interpret blueprints and drawings to determine specifications and to calculate the materials required.,Written Comprehension,2,0
+4774,Brickmasons and Blockmasons,Interpret blueprints and drawings to determine specifications and to calculate the materials required.,Visualization,2,0
+4774,Brickmasons and Blockmasons,Interpret blueprints and drawings to determine specifications and to calculate the materials required.,Mathematical Reasoning,2,0
+4774,Brickmasons and Blockmasons,Interpret blueprints and drawings to determine specifications and to calculate the materials required.,Number Facility,1,0
+4773,Brickmasons and Blockmasons,"Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",Manual Dexterity,2,0
+4773,Brickmasons and Blockmasons,"Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",Arm-Hand Steadiness,2,0
+4773,Brickmasons and Blockmasons,"Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",Control Precision,2,0
+4773,Brickmasons and Blockmasons,"Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",Near Vision,1,0
+4771,Brickmasons and Blockmasons,"Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",Manual Dexterity,2,0
+4771,Brickmasons and Blockmasons,"Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",Static Strength,1,0
+4771,Brickmasons and Blockmasons,"Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",Control Precision,1,0
+4771,Brickmasons and Blockmasons,"Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",Arm-Hand Steadiness,1,0
+4778,Brickmasons and Blockmasons,"Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",Manual Dexterity,1,0
+4778,Brickmasons and Blockmasons,"Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",Static Strength,1,0
+4778,Brickmasons and Blockmasons,"Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",Stamina,1,0
+4778,Brickmasons and Blockmasons,"Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",Trunk Strength,1,0
+4777,Brickmasons and Blockmasons,Examine brickwork or structure to determine need for repair.,Near Vision,2,0
+4777,Brickmasons and Blockmasons,Examine brickwork or structure to determine need for repair.,Problem Sensitivity,2,0
+4777,Brickmasons and Blockmasons,Examine brickwork or structure to determine need for repair.,Selective Attention,1,0
+4776,Brickmasons and Blockmasons,"Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.",Static Strength,2,0
+4776,Brickmasons and Blockmasons,"Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.",Dynamic Strength,1,0
+4776,Brickmasons and Blockmasons,"Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.",Number Facility,1,0
+4776,Brickmasons and Blockmasons,"Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.",Manual Dexterity,1,0
+4780,Brickmasons and Blockmasons,"Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.",Static Strength,2,0
+4780,Brickmasons and Blockmasons,"Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.",Dynamic Strength,2,0
+4780,Brickmasons and Blockmasons,"Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.",Control Precision,1,0
+4780,Brickmasons and Blockmasons,"Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.",Arm-Hand Steadiness,1,0
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",Manual Dexterity,2,0
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",Control Precision,2,0
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",Static Strength,2,0
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",Near Vision,1,0
+4779,Brickmasons and Blockmasons,"Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.",Multilimb Coordination,1,0
+4781,Brickmasons and Blockmasons,Spray or spread refractory material over brickwork to protect against deterioration.,Manual Dexterity,2,0
+4781,Brickmasons and Blockmasons,Spray or spread refractory material over brickwork to protect against deterioration.,Arm-Hand Steadiness,1,0
+4781,Brickmasons and Blockmasons,Spray or spread refractory material over brickwork to protect against deterioration.,Static Strength,1,0
+4781,Brickmasons and Blockmasons,Spray or spread refractory material over brickwork to protect against deterioration.,Multilimb Coordination,1,0
+8768,Stonemasons,"Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",Near Vision,2,0
+8768,Stonemasons,"Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",Spatial Orientation,2,0
+8768,Stonemasons,"Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",Control Precision,1,0
+8768,Stonemasons,"Set vertical and horizontal alignment of structures, using plumb bob, gauge line, and level.",Visualization,1,0
+8766,Stonemasons,"Lay out wall patterns or foundations, using straight edge, rule, or staked lines.",Visualization,2,0
+8766,Stonemasons,"Lay out wall patterns or foundations, using straight edge, rule, or staked lines.",Spatial Orientation,2,0
+8766,Stonemasons,"Lay out wall patterns or foundations, using straight edge, rule, or staked lines.",Near Vision,1,0
+8771,Stonemasons,"Set stone or marble in place, according to layout or pattern.",Static Strength,2,0
+8771,Stonemasons,"Set stone or marble in place, according to layout or pattern.",Multilimb Coordination,2,0
+8771,Stonemasons,"Set stone or marble in place, according to layout or pattern.",Control Precision,2,0
+8771,Stonemasons,"Set stone or marble in place, according to layout or pattern.",Trunk Strength,1,0
+8770,Stonemasons,"Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",Manual Dexterity,2,0
+8770,Stonemasons,"Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",Arm-Hand Steadiness,2,0
+8770,Stonemasons,"Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",Control Precision,2,0
+8770,Stonemasons,"Remove wedges, fill joints between stones, finish joints between stones, using a trowel, and smooth the mortar to an attractive finish, using a tuck pointer.",Near Vision,1,0
+8772,Stonemasons,"Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",Manual Dexterity,1,0
+8772,Stonemasons,"Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",Static Strength,1,0
+8772,Stonemasons,"Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",Near Vision,1,0
+8772,Stonemasons,"Clean excess mortar or grout from surface of marble, stone, or monument, using sponge, brush, water, or acid.",Arm-Hand Steadiness,1,0
+8767,Stonemasons,"Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools.",Control Precision,3,0
+8767,Stonemasons,"Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools.",Manual Dexterity,2,0
+8767,Stonemasons,"Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools.",Near Vision,2,0
+8767,Stonemasons,"Shape, trim, face and cut marble or stone preparatory to setting, using power saws, cutting equipment, and hand tools.",Static Strength,1,0
+8769,Stonemasons,"Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation.",Static Strength,2,0
+8769,Stonemasons,"Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation.",Dynamic Strength,1,0
+8769,Stonemasons,"Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation.",Manual Dexterity,1,0
+8769,Stonemasons,"Mix mortar or grout and pour or spread mortar or grout on marble slabs, stone, or foundation.",Trunk Strength,1,0
+8779,Stonemasons,Construct and install prefabricated masonry units.,Static Strength,2,0
+8779,Stonemasons,Construct and install prefabricated masonry units.,Multilimb Coordination,2,0
+8779,Stonemasons,Construct and install prefabricated masonry units.,Control Precision,1,0
+8779,Stonemasons,Construct and install prefabricated masonry units.,Trunk Strength,1,0
+8775,Stonemasons,"Smooth, polish, and bevel surfaces, using hand tools and power tools.",Control Precision,2,0
+8775,Stonemasons,"Smooth, polish, and bevel surfaces, using hand tools and power tools.",Manual Dexterity,2,0
+8775,Stonemasons,"Smooth, polish, and bevel surfaces, using hand tools and power tools.",Arm-Hand Steadiness,2,0
+8775,Stonemasons,"Smooth, polish, and bevel surfaces, using hand tools and power tools.",Near Vision,1,0
+8773,Stonemasons,"Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations.",Manual Dexterity,2,0
+8773,Stonemasons,"Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations.",Static Strength,2,0
+8773,Stonemasons,"Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations.",Control Precision,2,0
+8773,Stonemasons,"Lay brick to build shells of chimneys and smokestacks or to line or reline industrial furnaces, kilns, boilers and similar installations.",Gross Body Equilibrium,1,0
+8774,Stonemasons,Replace broken or missing masonry units in walls or floors.,Static Strength,2,0
+8774,Stonemasons,Replace broken or missing masonry units in walls or floors.,Manual Dexterity,2,0
+8774,Stonemasons,Replace broken or missing masonry units in walls or floors.,Control Precision,1,0
+8774,Stonemasons,Replace broken or missing masonry units in walls or floors.,Multilimb Coordination,1,0
+8778,Stonemasons,"Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane.",Static Strength,3,0
+8778,Stonemasons,"Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane.",Multilimb Coordination,2,0
+8778,Stonemasons,"Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane.",Depth Perception,2,0
+8778,Stonemasons,"Remove sections of monument from truck bed, and guide stone onto foundation, using skids, hoist, or truck crane.",Trunk Strength,2,0
+8776,Stonemasons,Drill holes in marble or ornamental stone and anchor brackets in holes.,Control Precision,2,0
+8776,Stonemasons,Drill holes in marble or ornamental stone and anchor brackets in holes.,Manual Dexterity,2,0
+8776,Stonemasons,Drill holes in marble or ornamental stone and anchor brackets in holes.,Arm-Hand Steadiness,2,0
+8776,Stonemasons,Drill holes in marble or ornamental stone and anchor brackets in holes.,Static Strength,1,0
+8780,Stonemasons,"Dig trench for foundation of monument, using pick and shovel.",Static Strength,3,0
+8780,Stonemasons,"Dig trench for foundation of monument, using pick and shovel.",Dynamic Strength,3,0
+8780,Stonemasons,"Dig trench for foundation of monument, using pick and shovel.",Stamina,2,0
+8780,Stonemasons,"Dig trench for foundation of monument, using pick and shovel.",Trunk Strength,2,0
+8777,Stonemasons,"Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer.",Control Precision,2,0
+8777,Stonemasons,"Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer.",Manual Dexterity,2,0
+8777,Stonemasons,"Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer.",Static Strength,1,0
+8777,Stonemasons,"Repair cracked or chipped areas of stone or marble, using blowtorch and mastic, and remove rough or defective spots from concrete, using power grinder or chisel and hammer.",Arm-Hand Steadiness,1,0
+8781,Stonemasons,"Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.",Manual Dexterity,2,0
+8781,Stonemasons,"Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.",Static Strength,1,0
+8781,Stonemasons,"Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.",Control Precision,1,0
+8781,Stonemasons,"Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.",Arm-Hand Steadiness,1,0
+23430,Carpenters,Follow established safety rules and regulations and maintain a safe and clean environment.,Selective Attention,2,0
+23430,Carpenters,Follow established safety rules and regulations and maintain a safe and clean environment.,Near Vision,1,1
+23430,Carpenters,Follow established safety rules and regulations and maintain a safe and clean environment.,Problem Sensitivity,1,1
+23432,Carpenters,"Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",Near Vision,2,0
+23432,Carpenters,"Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",Control Precision,2,0
+23432,Carpenters,"Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",Arm-Hand Steadiness,1,0
+23432,Carpenters,"Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",Visualization,1,0
+23443,Carpenters,"Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",Manual Dexterity,2,0
+23443,Carpenters,"Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",Multilimb Coordination,2,0
+23443,Carpenters,"Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",Control Precision,2,0
+23443,Carpenters,"Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",Static Strength,1,0
+23431,Carpenters,"Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",Written Comprehension,2,0
+23431,Carpenters,"Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",Visualization,3,0
+23431,Carpenters,"Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",Spatial Orientation,2,0
+23431,Carpenters,"Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",Near Vision,1,0
+23433,Carpenters,"Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",Control Precision,3,0
+23433,Carpenters,"Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",Manual Dexterity,2,0
+23433,Carpenters,"Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",Near Vision,2,0
+23433,Carpenters,"Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",Arm-Hand Steadiness,1,0
+23435,Carpenters,"Verify trueness of structure, using plumb bob and level.",Near Vision,2,0
+23435,Carpenters,"Verify trueness of structure, using plumb bob and level.",Spatial Orientation,2,0
+23435,Carpenters,"Verify trueness of structure, using plumb bob and level.",Visualization,1,0
+23442,Carpenters,"Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",Near Vision,3,0
+23442,Carpenters,"Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",Problem Sensitivity,2,0
+23442,Carpenters,"Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",Selective Attention,2,0
+23442,Carpenters,"Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",Far Vision,1,0
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,Static Strength,2,0
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,Gross Body Coordination,2,0
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,Gross Body Equilibrium,2,0
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,Multilimb Coordination,2,0
+23440,Carpenters,Erect scaffolding or ladders for assembling structures above ground level.,Extent Flexibility,1,0
+23434,Carpenters,"Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",Manual Dexterity,2,0
+23434,Carpenters,"Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",Multilimb Coordination,2,0
+23434,Carpenters,"Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",Static Strength,2,0
+23434,Carpenters,"Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",Control Precision,2,0
+23438,Carpenters,"Maintain records, document actions, and present written progress reports.",Written Expression,2,0
+23438,Carpenters,"Maintain records, document actions, and present written progress reports.",Information Ordering,2,0
+23438,Carpenters,"Maintain records, document actions, and present written progress reports.",Near Vision,1,0
+23446,Carpenters,"Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.",Manual Dexterity,2,0
+23446,Carpenters,"Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.",Static Strength,2,0
+23446,Carpenters,"Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.",Control Precision,1,0
+23446,Carpenters,"Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.",Multilimb Coordination,1,0
+23445,Carpenters,Maintain job records and schedule work crew.,Information Ordering,2,0
+23445,Carpenters,Maintain job records and schedule work crew.,Written Expression,1,0
+23445,Carpenters,Maintain job records and schedule work crew.,Oral Expression,1,0
+23441,Carpenters,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",Static Strength,3,0
+23441,Carpenters,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",Manual Dexterity,2,0
+23441,Carpenters,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",Multilimb Coordination,2,0
+23441,Carpenters,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",Trunk Strength,1,0
+23444,Carpenters,"Bore boltholes in timber, masonry or concrete walls, using power drill.",Control Precision,2,0
+23444,Carpenters,"Bore boltholes in timber, masonry or concrete walls, using power drill.",Arm-Hand Steadiness,2,0
+23444,Carpenters,"Bore boltholes in timber, masonry or concrete walls, using power drill.",Static Strength,2,0
+23444,Carpenters,"Bore boltholes in timber, masonry or concrete walls, using power drill.",Manual Dexterity,1,0
+23447,Carpenters,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",Manual Dexterity,2,0
+23447,Carpenters,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",Static Strength,2,0
+23447,Carpenters,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",Multilimb Coordination,2,0
+23447,Carpenters,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",Control Precision,1,0
+23458,Carpenters,Dig or direct digging of post holes and set poles to support structures.,Static Strength,3,0
+23458,Carpenters,Dig or direct digging of post holes and set poles to support structures.,Dynamic Strength,2,0
+23458,Carpenters,Dig or direct digging of post holes and set poles to support structures.,Stamina,2,0
+23458,Carpenters,Dig or direct digging of post holes and set poles to support structures.,Trunk Strength,2,0
+23451,Carpenters,"Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.",Manual Dexterity,2,0
+23451,Carpenters,"Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.",Static Strength,1,0
+23451,Carpenters,"Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.",Trunk Strength,1,0
+23451,Carpenters,"Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.",Control Precision,1,0
+23455,Carpenters,Construct forms or chutes for pouring concrete.,Manual Dexterity,2,0
+23455,Carpenters,Construct forms or chutes for pouring concrete.,Static Strength,2,0
+23455,Carpenters,Construct forms or chutes for pouring concrete.,Multilimb Coordination,1,0
+23455,Carpenters,Construct forms or chutes for pouring concrete.,Visualization,1,0
+23437,Carpenters,"Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work.",Oral Expression,2,0
+23437,Carpenters,"Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work.",Deductive Reasoning,1,0
+23437,Carpenters,"Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work.",Written Expression,1,0
+23439,Carpenters,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",Manual Dexterity,3,0
+23439,Carpenters,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",Control Precision,2,0
+23439,Carpenters,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",Multilimb Coordination,2,0
+23439,Carpenters,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",Near Vision,1,0
+23448,Carpenters,"Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.",Manual Dexterity,2,0
+23448,Carpenters,"Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.",Arm-Hand Steadiness,2,0
+23448,Carpenters,"Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.",Control Precision,1,0
+23448,Carpenters,"Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.",Near Vision,1,0
+23436,Carpenters,Select and order lumber or other required materials.,Number Facility,1,0
+23436,Carpenters,Select and order lumber or other required materials.,Deductive Reasoning,1,0
+23436,Carpenters,Select and order lumber or other required materials.,Visualization,1,1
+23457,Carpenters,Work with or remove hazardous material.,Selective Attention,2,1
+23457,Carpenters,Work with or remove hazardous material.,Manual Dexterity,1,1
+23457,Carpenters,Work with or remove hazardous material.,Static Strength,1,1
+23457,Carpenters,Work with or remove hazardous material.,Trunk Strength,1,1
+23452,Carpenters,"Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.",Manual Dexterity,2,0
+23452,Carpenters,"Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.",Arm-Hand Steadiness,2,0
+23452,Carpenters,"Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.",Control Precision,1,0
+23452,Carpenters,"Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.",Near Vision,1,0
+23454,Carpenters,Prepare cost estimates for clients or employers.,Mathematical Reasoning,2,0
+23454,Carpenters,Prepare cost estimates for clients or employers.,Number Facility,2,0
+23454,Carpenters,Prepare cost estimates for clients or employers.,Written Expression,1,0
+23453,Carpenters,"Perform minor plumbing, welding, or concrete mixing work.",Manual Dexterity,2,0
+23453,Carpenters,"Perform minor plumbing, welding, or concrete mixing work.",Control Precision,2,0
+23453,Carpenters,"Perform minor plumbing, welding, or concrete mixing work.",Static Strength,1,0
+23453,Carpenters,"Perform minor plumbing, welding, or concrete mixing work.",Arm-Hand Steadiness,1,0
+23450,Carpenters,"Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.",Manual Dexterity,2,0
+23450,Carpenters,"Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.",Static Strength,2,0
+23450,Carpenters,"Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.",Multilimb Coordination,1,0
+23450,Carpenters,"Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.",Extent Flexibility,1,0
+23449,Carpenters,"Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.",Near Vision,2,0
+23449,Carpenters,"Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.",Problem Sensitivity,2,0
+23449,Carpenters,"Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.",Manual Dexterity,1,0
+23449,Carpenters,"Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.",Static Strength,1,0
+23456,Carpenters,Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.,Static Strength,2,0
+23456,Carpenters,Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.,Manual Dexterity,2,0
+23456,Carpenters,Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.,Multilimb Coordination,1,0
+23456,Carpenters,Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.,Dynamic Strength,1,0
+2835,Carpet Installers,"Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",Near Vision,2,0
+2835,Carpet Installers,"Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",Problem Sensitivity,2,0
+2835,Carpet Installers,"Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",Manual Dexterity,1,0
+2835,Carpet Installers,"Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",Selective Attention,1,0
+2836,Carpet Installers,"Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",Control Precision,2,0
+2836,Carpet Installers,"Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",Manual Dexterity,2,0
+2836,Carpet Installers,"Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",Near Vision,2,0
+2836,Carpet Installers,"Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",Static Strength,1,0
+2833,Carpet Installers,"Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",Manual Dexterity,3,0
+2833,Carpet Installers,"Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",Arm-Hand Steadiness,2,0
+2833,Carpet Installers,"Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",Control Precision,2,0
+2833,Carpet Installers,"Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",Near Vision,1,0
+2834,Carpet Installers,"Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",Control Precision,2,0
+2834,Carpet Installers,"Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",Manual Dexterity,2,0
+2834,Carpet Installers,"Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",Near Vision,2,0
+2834,Carpet Installers,"Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",Arm-Hand Steadiness,1,0
+2837,Carpet Installers,"Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear.",Visualization,2,0
+2837,Carpet Installers,"Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear.",Spatial Orientation,2,0
+2837,Carpet Installers,"Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear.",Deductive Reasoning,1,0
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",Static Strength,2,0
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",Dynamic Strength,2,0
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",Manual Dexterity,2,0
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",Trunk Strength,1,0
+2838,Carpet Installers,"Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",Multilimb Coordination,1,0
+2839,Carpet Installers,Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.,Number Facility,2,0
+2839,Carpet Installers,Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.,Visualization,2,0
+2839,Carpet Installers,Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.,Mathematical Reasoning,1,0
+2839,Carpet Installers,Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.,Near Vision,1,0
+2841,Carpet Installers,"Install carpet on some floors using adhesive, following prescribed method.",Manual Dexterity,2,0
+2841,Carpet Installers,"Install carpet on some floors using adhesive, following prescribed method.",Static Strength,1,0
+2841,Carpet Installers,"Install carpet on some floors using adhesive, following prescribed method.",Control Precision,1,0
+2841,Carpet Installers,"Install carpet on some floors using adhesive, following prescribed method.",Trunk Strength,1,0
+20142,Carpet Installers,"Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",Static Strength,1,0
+20142,Carpet Installers,"Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",Manual Dexterity,1,0
+20142,Carpet Installers,"Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",Stamina,1,0
+20142,Carpet Installers,"Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",Trunk Strength,1,0
+2844,Carpet Installers,"Measure, cut and install tackless strips along the baseboard or wall.",Manual Dexterity,2,0
+2844,Carpet Installers,"Measure, cut and install tackless strips along the baseboard or wall.",Control Precision,2,0
+2844,Carpet Installers,"Measure, cut and install tackless strips along the baseboard or wall.",Near Vision,1,0
+2844,Carpet Installers,"Measure, cut and install tackless strips along the baseboard or wall.",Arm-Hand Steadiness,1,0
+2842,Carpet Installers,Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet.,Manual Dexterity,2,0
+2842,Carpet Installers,Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet.,Control Precision,2,0
+2842,Carpet Installers,Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet.,Arm-Hand Steadiness,2,0
+2842,Carpet Installers,Nail tack strips around area to be carpeted or use old strips to attach edges of new carpet.,Static Strength,1,0
+2840,Carpet Installers,"Cut carpet padding to size and install padding, following prescribed method.",Manual Dexterity,2,0
+2840,Carpet Installers,"Cut carpet padding to size and install padding, following prescribed method.",Control Precision,1,0
+2840,Carpet Installers,"Cut carpet padding to size and install padding, following prescribed method.",Static Strength,1,0
+2840,Carpet Installers,"Cut carpet padding to size and install padding, following prescribed method.",Trunk Strength,1,0
+2843,Carpet Installers,Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place.,Manual Dexterity,2,0
+2843,Carpet Installers,Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place.,Control Precision,2,0
+2843,Carpet Installers,Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place.,Arm-Hand Steadiness,1,0
+2843,Carpet Installers,Fasten metal treads across door openings or where carpet meets flooring to hold carpet in place.,Static Strength,1,0
+2845,Carpet Installers,Draw building diagrams and record dimensions.,Visualization,2,0
+2845,Carpet Installers,Draw building diagrams and record dimensions.,Near Vision,1,0
+2845,Carpet Installers,Draw building diagrams and record dimensions.,Written Expression,1,0
+2845,Carpet Installers,Draw building diagrams and record dimensions.,Spatial Orientation,1,0
+2846,Carpet Installers,Move furniture from area to be carpeted and remove old carpet and padding.,Static Strength,3,0
+2846,Carpet Installers,Move furniture from area to be carpeted and remove old carpet and padding.,Dynamic Strength,2,0
+2846,Carpet Installers,Move furniture from area to be carpeted and remove old carpet and padding.,Trunk Strength,2,0
+2846,Carpet Installers,Move furniture from area to be carpeted and remove old carpet and padding.,Stamina,1,0
+2847,Carpet Installers,Cut and bind material.,Manual Dexterity,2,0
+2847,Carpet Installers,Cut and bind material.,Control Precision,2,0
+2847,Carpet Installers,Cut and bind material.,Arm-Hand Steadiness,1,0
+2847,Carpet Installers,Cut and bind material.,Near Vision,1,0
+8253,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering.",Manual Dexterity,2,0
+8253,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering.",Static Strength,1,0
+8253,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering.",Trunk Strength,1,0
+8253,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Sweep, scrape, sand, or chip dirt and irregularities to clean base surfaces, correcting imperfections that may show through the covering.",Stamina,1,0
+8254,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Cut flooring material to fit around obstructions.,Control Precision,2,0
+8254,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Cut flooring material to fit around obstructions.,Manual Dexterity,2,0
+8254,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Cut flooring material to fit around obstructions.,Near Vision,1,0
+8254,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Cut flooring material to fit around obstructions.,Static Strength,1,0
+8255,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Inspect surface to be covered to ensure that it is firm and dry.,Near Vision,2,0
+8255,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Inspect surface to be covered to ensure that it is firm and dry.,Problem Sensitivity,1,0
+8255,"Floor Layers, Except Carpet, Wood, and Hard Tiles",Inspect surface to be covered to ensure that it is firm and dry.,Selective Attention,1,0
+8256,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Trim excess covering materials, tack edges, and join sections of covering material to form tight joint.",Manual Dexterity,2,0
+8256,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Trim excess covering materials, tack edges, and join sections of covering material to form tight joint.",Control Precision,2,0
+8256,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Trim excess covering materials, tack edges, and join sections of covering material to form tight joint.",Arm-Hand Steadiness,1,0
+8256,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Trim excess covering materials, tack edges, and join sections of covering material to form tight joint.",Near Vision,1,0
+8257,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores.",Manual Dexterity,2,0
+8257,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores.",Static Strength,1,0
+8257,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores.",Control Precision,1,0
+8257,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Form a smooth foundation by stapling plywood or Masonite over the floor or by brushing waterproof compound onto surface and filling cracks with plaster, putty, or grout to seal pores.",Trunk Strength,1,0
+8258,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",Near Vision,2,0
+8258,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",Control Precision,1,0
+8258,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",Visualization,1,0
+8259,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Cut covering and foundation materials, according to blueprints and sketches.",Control Precision,2,0
+8259,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Cut covering and foundation materials, according to blueprints and sketches.",Manual Dexterity,2,0
+8259,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Cut covering and foundation materials, according to blueprints and sketches.",Written Comprehension,1,0
+8259,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Cut covering and foundation materials, according to blueprints and sketches.",Near Vision,1,0
