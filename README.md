@@ -1,6 +1,7 @@
 # O*NET Task → Ability Mapping Dataset
 
-A fine-grained mapping from **4,577 O\*NET work tasks** to the **52 O\*NET human abilities**
+A fine-grained mapping from **18,796 O\*NET work tasks** — the full O\*NET task corpus,
+spanning **all 23 SOC major groups (economy-wide)** — to the **52 O\*NET human abilities**
 each task requires, with a graded importance weight per (task, ability) pair.
 
 This dataset supports task-level analysis of human ability requirements — enabling
@@ -17,11 +18,14 @@ research on automation exposure, skill demand, and human–AI task allocation at
 > best thanks of all. 🙏
 
 > ### ✅ Status: labels released · human validation **complete**
-> The full task→ability mapping (4,577 tasks) is **available today**. Labels were
-> produced by a large language model (**Claude Sonnet**) against the O\*NET taxonomy.
-> **Independent human validation is complete:** three annotators each re-annotated all
-> **200 audit-sample tasks** and **endorsed 98.9%** of the LLM-proposed abilities
-> (3,334 / 3,370, 36 rejections). Full breakdown, method, and scope in
+> The full task→ability mapping (**18,796 tasks — economy-wide, all 23 SOC major
+> groups**) is **available today**. Labels were produced by a large language model
+> (**Claude Sonnet**) against the O\*NET taxonomy, using one consistent method across
+> all groups. **Independent human validation is complete:** three annotators each
+> re-annotated all **200 audit-sample tasks** and **endorsed 98.9%** of the
+> LLM-proposed abilities (3,334 / 3,370, 36 rejections). The validation sample was
+> drawn from the initial six-group release; the expanded groups were labeled by the
+> identical Sonnet method. Full breakdown, method, and scope in
 > [`validation/`](validation/).
 
 ---
@@ -30,7 +34,7 @@ research on automation exposure, skill demand, and human–AI task allocation at
 
 | File | Description |
 |------|-------------|
-| `data/task_ability_mapping.csv` | **Main dataset** — 24,796 (task, ability) rows over 4,577 tasks |
+| `data/task_ability_mapping.csv` | **Main dataset** — 95,331 (task, ability) rows over 18,796 tasks |
 | `data/abilities_reference.csv` | The 52 O\*NET abilities and their category |
 | `data/audit_sample_200.csv` | 200-task stratified validation sample (human re-annotation) |
 | `validation/` | Human annotations + inter-rater agreement (Cohen's κ) |
@@ -53,9 +57,9 @@ research on automation exposure, skill demand, and human–AI task allocation at
 | `weight` | int | Importance: **1** = mild, **2** = moderate, **3** = critical |
 | `uncertain` | 0/1 | 1 if the annotation was flagged low-confidence |
 
-**Coverage:** 4,577 tasks · 24,796 mappings · avg 5.4 abilities/task.
-**Weight distribution:** 1 → 12.9% · 2 → 63.5% · 3 → 23.7%.
-**Uncertain:** 869 rows (3.5%) across 687 tasks.
+**Coverage:** 18,796 tasks · 95,331 mappings · avg 5.07 abilities/task.
+**Weight distribution:** 1 → 22.4% · 2 → 57.1% · 3 → 20.5%.
+**Uncertain:** 1,476 rows (1.5%) across 1,187 tasks.
 
 ---
 

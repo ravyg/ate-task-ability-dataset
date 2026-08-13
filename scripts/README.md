@@ -30,14 +30,17 @@ time and only do what's left. When `merge_validate.py` prints `ALL TASKS LABELED
 
 ---
 
-## Current state (checked into this branch)
+## Current state — ✅ COMPLETE
 
 | | |
 |---|---|
 | SOC groups in scope | 15 (+ the SOC-15 pilot) |
 | Chunks total | 118 |
-| **Chunks already labeled** | **47** (committed under `partial_output/`) |
-| **Chunks remaining** | **71  (~8,431 tasks)** |
+| **Chunks labeled** | **118 / 118** (all committed under `partial_output/`) |
+| **Tasks labeled** | **14,219 / 14,219** — merged into `../data/task_ability_mapping.csv` |
+
+The run is finished; the section below documents how it was produced (and how to
+re-run any chunk by deleting its CSV).
 
 Remaining work by group (everything else is done):
 
