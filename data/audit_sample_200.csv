@@ -19,7 +19,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 11338,Postal Service Clerks,Transport mail from one work station to another.,Gross Body Coordination,1,0
 11338,Postal Service Clerks,Transport mail from one work station to another.,Manual Dexterity,2,0
 11338,Postal Service Clerks,Transport mail from one work station to another.,Static Strength,2,0
-11338,Postal Service Clerks,Transport mail from one work station to another.,Trunk Strength,1?,0
+11338,Postal Service Clerks,Transport mail from one work station to another.,Trunk Strength,1,1
 11346,Postal Service Mail Carriers,Sign for cash-on-delivery and registered mail before leaving the post office.,Information Ordering,1,0
 11346,Postal Service Mail Carriers,Sign for cash-on-delivery and registered mail before leaving the post office.,Near Vision,1,0
 11346,Postal Service Mail Carriers,Sign for cash-on-delivery and registered mail before leaving the post office.,Written Comprehension,1,0
@@ -30,7 +30,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 11393,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Store samples of finished products in labeled cartons and record their location.,Written Expression,2,0
 13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Deductive Reasoning,3,1
 13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Inductive Reasoning,2,1
-13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Mathematical Reasoning?,1,1
+13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Mathematical Reasoning,1,1
 13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Oral Comprehension,2,1
 13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Problem Sensitivity,2,1
 13007,"Arbitrators, Mediators, and Conciliators",Recommend acceptance or rejection of compromise settlement offers.,Written Comprehension,2,1
@@ -43,19 +43,18 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Manual Dexterity,2,1
 13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Near Vision,2,1
 13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Originality,2,1
-13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Spatial Orientation?,1,1
+13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Spatial Orientation,1,1
 13195,Demonstrators and Product Promoters,Set up and arrange displays or demonstration areas to attract the attention of prospective customers.,Visualization,2,1
 13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Gross Body Coordination,1,1
 13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Information Ordering,2,1
 13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Near Vision,2,1
-13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Originality?,1,1
+13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Originality,1,1
 13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Visual Color Discrimination,2,1
 13219,Models,"Assemble and maintain portfolios, print composite cards, and travel to go-sees to obtain jobs.",Written Expression,1,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Information Ordering,2,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Manual Dexterity,2,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Oral Comprehension,2,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Oral Expression,3,1
-13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Persuasion?,1,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Speech Clarity,3,1
 13233,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Explain products or services and prices and demonstrate use of products.,Written Comprehension,1,1
 13235,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Arrange buying parties and solicit sponsorship of such parties to sell merchandise.,Deductive Reasoning,2,0
@@ -67,7 +66,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Finger Dexterity,3,1
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Information Ordering,3,1
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Near Vision,2,1
-13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Oral Comprehension?,1,1
+13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Oral Comprehension,1,1
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Perceptual Speed,2,1
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Selective Attention,3,1
 13280,"Mail Clerks and Mail Machine Operators, Except Postal Service",Operate computer-controlled keyboards or voice recognition equipment to direct items according to established routing schemes.,Written Comprehension,2,1
@@ -75,7 +74,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Deductive Reasoning,2,1
 13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Finger Dexterity,3,1
 13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Manual Dexterity,3,1
-13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Mathematical Reasoning?,1,1
+13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Mathematical Reasoning,1,1
 13281,"Mail Clerks and Mail Machine Operators, Except Postal Service","Adjust guides, rollers, loose card inserters, weighing machines, and tying arms, using rules and hand tools.",Near Vision,2,1
 13282,"Mail Clerks and Mail Machine Operators, Except Postal Service","Accept and check containers of mail or parcels from large volume mailers, couriers, and contractors.",Manual Dexterity,2,0
 13282,"Mail Clerks and Mail Machine Operators, Except Postal Service","Accept and check containers of mail or parcels from large volume mailers, couriers, and contractors.",Near Vision,2,0
@@ -87,7 +86,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Deductive Reasoning,2,1
 13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Finger Dexterity,2,1
 13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Manual Dexterity,3,1
-13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Mathematical Reasoning?,1,1
+13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Mathematical Reasoning,1,1
 13293,"Office Machine Operators, Except Computer","Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.",Near Vision,2,1
 13294,"Office Machine Operators, Except Computer","Monitor machine operation, and make adjustments as necessary to ensure proper operation.",Deductive Reasoning,2,0
 13294,"Office Machine Operators, Except Computer","Monitor machine operation, and make adjustments as necessary to ensure proper operation.",Manual Dexterity,2,0
@@ -97,7 +96,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 13294,"Office Machine Operators, Except Computer","Monitor machine operation, and make adjustments as necessary to ensure proper operation.",Selective Attention,3,0
 14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Deductive Reasoning,2,1
 14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Information Ordering,2,1
-14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Mathematical Reasoning?,1,1
+14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Mathematical Reasoning,1,1
 14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Oral Comprehension,2,1
 14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Oral Expression,2,1
 14839,Farm Labor Contractors,"Provide food, drinking water, and field sanitation facilities to contracted workers.",Problem Sensitivity,2,1
@@ -217,7 +216,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Deductive Reasoning,3,1
 17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Inductive Reasoning,3,1
 17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Information Ordering,2,1
-17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Mathematical Reasoning?,1,1
+17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Mathematical Reasoning,1,1
 17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Problem Sensitivity,2,1
 17384,Cytogenetic Technologists,Determine optimal time sequences and methods for manual or robotic cell harvests.,Written Comprehension,1,1
 17388,Cytogenetic Technologists,"Prepare biological specimens such as amniotic fluids, bone marrow, tumors, chorionic villi, and blood, for chromosome examinations.",Finger Dexterity,2,0
@@ -238,7 +237,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Deductive Reasoning,2,1
 17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Manual Dexterity,2,1
 17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Near Vision,3,1
-17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Spatial Orientation?,2,1
+17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Spatial Orientation,2,1
 17430,Neurodiagnostic Technologists,Measure patients' body parts and mark locations where electrodes are to be placed.,Visualization,2,1
 17438,Neurodiagnostic Technologists,"Participate in research projects, conferences, or technical meetings.",Inductive Reasoning,1,0
 17438,Neurodiagnostic Technologists,"Participate in research projects, conferences, or technical meetings.",Memorization,1,0
@@ -246,7 +245,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 17438,Neurodiagnostic Technologists,"Participate in research projects, conferences, or technical meetings.",Written Comprehension,2,0
 17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Deductive Reasoning,2,1
 17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Inductive Reasoning,3,1
-17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Mathematical Reasoning?,2,1
+17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Mathematical Reasoning,2,1
 17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Near Vision,1,1
 17475,Midwives,Estimate patients' due dates and re-evaluate as necessary based on examination results.,Problem Sensitivity,2,1
 17487,Midwives,"Provide, or refer patients to other providers for, education or counseling on topics such as genetic testing, newborn care, contraception, or breastfeeding.",Deductive Reasoning,2,0
@@ -260,19 +259,19 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 17498,Midwives,Recommend the use of vitamin and mineral supplements to enhance the health of patients and children.,Oral Expression,2,0
 17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Deductive Reasoning,3,1
 17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Inductive Reasoning,3,1
-17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Mathematical Reasoning?,2,1
+17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Mathematical Reasoning,2,1
 17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Problem Sensitivity,2,1
 17514,Genetic Counselors,Engage in research activities related to the field of medical genetics or genetic counseling.,Written Comprehension,2,1
 17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Deductive Reasoning,2,1
 17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Inductive Reasoning,2,1
-17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Mathematical Reasoning?,2,1
+17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Mathematical Reasoning,2,1
 17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Near Vision,3,1
 17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Spatial Orientation,3,1
 17657,Solar Sales Representatives and Assessors,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",Visualization,2,1
 17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Deductive Reasoning,3,1
 17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Fluency of Ideas,2,1
 17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Inductive Reasoning,3,1
-17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Mathematical Reasoning?,1,1
+17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Mathematical Reasoning,1,1
 17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Originality,2,1
 17660,Solar Sales Representatives and Assessors,Develop marketing or strategic plans for sales territories.,Written Expression,2,1
 17662,Solar Sales Representatives and Assessors,"Prepare or review detailed design drawings, specifications, or lists related to solar installations.",Deductive Reasoning,2,0
@@ -284,7 +283,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Deductive Reasoning,3,1
 17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Inductive Reasoning,3,1
 17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Information Ordering,2,1
-17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Mathematical Reasoning?,2,1
+17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Mathematical Reasoning,2,1
 17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Problem Sensitivity,2,1
 17680,Freight Forwarders,"Select shipment routes, based on nature of goods shipped, transit times, or security needs.",Written Comprehension,2,1
 17684,Freight Forwarders,"Arrange for special transport of sensitive cargoes, such as livestock, food, or medical supplies.",Deductive Reasoning,2,0
@@ -295,30 +294,30 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Deductive Reasoning,3,1
 18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Inductive Reasoning,2,1
 18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Information Ordering,3,1
-18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Number Facility?,1,1
+18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Number Facility,1,1
 18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Written Comprehension,3,1
 18048,Regulatory Affairs Specialists,"Coordinate, prepare, or review regulatory submissions for domestic or international projects.",Written Expression,3,1
 18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Deductive Reasoning,2,1
 18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Information Ordering,2,1
 18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Oral Comprehension,2,1
 18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Written Comprehension,2,1
-18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Written Expression?,1,1
+18069,Regulatory Affairs Specialists,Direct the collection and preparation of laboratory samples as requested by regulatory agencies.,Written Expression,1,1
 1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Deductive Reasoning,3,1
 1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Inductive Reasoning,3,1
-1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Mathematical Reasoning?,2,1
+1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Mathematical Reasoning,2,1
 1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Number Facility,2,1
 1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Problem Sensitivity,2,1
 1810,Pharmacists,Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.,Written Comprehension,2,1
 1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Deductive Reasoning,2,1
 1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Inductive Reasoning,2,1
-1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Mathematical Reasoning?,1,1
+1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Mathematical Reasoning,1,1
 1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Number Facility,2,1
 1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Oral Expression,3,1
 1822,Pharmacists,"Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.",Written Comprehension,2,1
 18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Category Flexibility,2,1
 18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Deductive Reasoning,3,1
 18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Inductive Reasoning,3,1
-18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Mathematical Reasoning?,2,1
+18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Mathematical Reasoning,2,1
 18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Problem Sensitivity,3,1
 18297,Acute Care Nurses,"Analyze the indications, contraindications, risk complications, and cost-benefit tradeoffs of therapeutic interventions.",Written Comprehension,3,1
 18299,Acute Care Nurses,"Distinguish between normal and abnormal developmental and age-related physiological and behavioral changes in acute, critical, and chronic illness.",Category Flexibility,2,0
@@ -329,7 +328,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Category Flexibility,2,1
 18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Deductive Reasoning,3,1
 18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Inductive Reasoning,3,1
-18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Number Facility?,1,1
+18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Number Facility,1,1
 18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Problem Sensitivity,2,1
 18312,Acute Care Nurses,"Order, perform, or interpret the results of diagnostic tests and screening procedures based on assessment results, differential diagnoses, and knowledge about age, gender and health status of clients.",Written Comprehension,3,1
 18328,Critical Care Nurses,"Perform approved therapeutic or diagnostic procedures, based upon patients' clinical status.",Deductive Reasoning,3,0
@@ -339,30 +338,30 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18328,Critical Care Nurses,"Perform approved therapeutic or diagnostic procedures, based upon patients' clinical status.",Problem Sensitivity,2,0
 18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Deductive Reasoning,2,1
 18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Inductive Reasoning,3,1
-18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Mathematical Reasoning?,2,1
+18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Mathematical Reasoning,2,1
 18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Near Vision,2,1
 18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Problem Sensitivity,3,1
 18333,Critical Care Nurses,"Monitor patients' fluid intake and output to detect emerging problems, such as fluid and electrolyte imbalances.",Selective Attention,2,1
 18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Deductive Reasoning,3,1
 18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Inductive Reasoning,3,1
 18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Near Vision,2,1
-18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Number Facility?,1,1
+18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Number Facility,1,1
 18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Problem Sensitivity,2,1
 18381,Nurse Practitioners,"Order, perform, or interpret the results of diagnostic tests, such as complete blood counts (CBCs), electrocardiograms (EKGs), and radiographs (x-rays).",Written Comprehension,3,1
 18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Deductive Reasoning,3,1
 18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Inductive Reasoning,2,1
-18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Mathematical Reasoning?,2,1
+18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Mathematical Reasoning,2,1
 18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Problem Sensitivity,2,1
 18392,Nurse Practitioners,"Prescribe medications based on efficacy, safety, and cost as legally authorized.",Written Comprehension,3,1
 18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Arm-Hand Steadiness,3,1
 18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Deductive Reasoning,2,1
 18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Finger Dexterity,2,1
-18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Gross Body Coordination?,1,1
+18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Gross Body Coordination,1,1
 18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Manual Dexterity,3,1
 18405,Naturopathic Physicians,"Perform mobilizations and high-velocity adjustments to joints or soft tissues, using principles of massage, stretching, or resistance.",Written Comprehension,2,1
 18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Deductive Reasoning,3,1
 18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Inductive Reasoning,2,1
-18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Mathematical Reasoning?,2,1
+18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Mathematical Reasoning,2,1
 18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Oral Comprehension,2,1
 18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Problem Sensitivity,2,1
 18409,Naturopathic Physicians,"Administer, dispense, or prescribe natural medicines, such as food or botanical extracts, herbs, dietary supplements, vitamins, nutraceuticals, and amino acids.",Written Comprehension,3,1
@@ -377,15 +376,15 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",Manual Dexterity,2,1
 18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",Near Vision,3,1
 18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",Problem Sensitivity,2,1
-18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",Visual Color Discrimination?,2,1
+18428,Orthoptists,"Perform diagnostic tests or measurements, such as motor testing, visual acuity testing, lensometry, retinoscopy, and color vision testing.",Visual Color Discrimination,2,1
 18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Deductive Reasoning,3,1
 18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Inductive Reasoning,2,1
-18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Mathematical Reasoning?,2,1
+18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Mathematical Reasoning,2,1
 18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Problem Sensitivity,2,1
 18454,Nurse Midwives,Prescribe medications as permitted by state regulations.,Written Comprehension,3,1
 18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Deductive Reasoning,2,1
 18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Inductive Reasoning,2,1
-18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Mathematical Reasoning?,2,1
+18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Mathematical Reasoning,2,1
 18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Written Comprehension,3,1
 18457,Nurse Midwives,"Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.",Written Expression,2,1
 18460,Nurse Midwives,"Plan, provide, or evaluate educational programs for nursing staff, health care teams, or the community.",Deductive Reasoning,2,0
@@ -396,22 +395,22 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Deductive Reasoning,2,1
 18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Information Ordering,3,1
 18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Near Vision,2,1
-18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Visualization?,1,1
+18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Visualization,1,1
 18492,Paralegals and Legal Assistants,Prepare for trial by performing tasks such as organizing exhibits.,Written Comprehension,3,1
 1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Deductive Reasoning,2,1
 1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Inductive Reasoning,2,1
 1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Information Ordering,2,1
-1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Mathematical Reasoning?,1,1
+1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Mathematical Reasoning,1,1
 1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Oral Expression,3,1
 1861,Registered Nurses,"Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.",Written Expression,2,1
 1866,Registered Nurses,Engage in research activities related to nursing.,Deductive Reasoning,2,1
 1866,Registered Nurses,Engage in research activities related to nursing.,Inductive Reasoning,2,1
-1866,Registered Nurses,Engage in research activities related to nursing.,Mathematical Reasoning?,2,1
+1866,Registered Nurses,Engage in research activities related to nursing.,Mathematical Reasoning,2,1
 1866,Registered Nurses,Engage in research activities related to nursing.,Written Comprehension,3,1
 1866,Registered Nurses,Engage in research activities related to nursing.,Written Expression,2,1
 18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Deductive Reasoning,2,1
 18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Inductive Reasoning,3,1
-18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Mathematical Reasoning?,2,1
+18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Mathematical Reasoning,2,1
 18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Written Comprehension,3,1
 18676,Audiologists,"Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.",Written Expression,2,1
 18683,Audiologists,Provide information to the public on hearing or balance topics.,Deductive Reasoning,2,0
@@ -420,10 +419,10 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18683,Audiologists,Provide information to the public on hearing or balance topics.,Speech Clarity,2,0
 18683,Audiologists,Provide information to the public on hearing or balance topics.,Written Expression,2,0
 18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",Deductive Reasoning,2,1
-18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",Gross Body Coordination?,1,1
+18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",Gross Body Coordination,1,1
 18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",Manual Dexterity,2,1
 18767,Cashiers,"Assist with duties in other areas of the store, such as monitoring fitting rooms or bagging and carrying out customers' items.",Oral Comprehension,2,1
-18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",Manual Dexterity?,1,1
+18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",Manual Dexterity,1,1
 18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",Near Vision,1,1
 18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",Oral Comprehension,2,1
 18772,"Library Assistants, Clerical","Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.",Oral Expression,2,1
@@ -436,139 +435,139 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Deductive Reasoning,2,1
 18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Inductive Reasoning,2,1
 18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Near Vision,2,1
-18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Originality?,1,1
+18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Originality,1,1
 18779,"Library Assistants, Clerical",Design or maintain library web site and online catalogues.,Written Comprehension,2,1
 1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Deductive Reasoning,2,1
-1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Near Vision?,1,1
+1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Near Vision,1,1
 1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Oral Comprehension,3,1
 1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Oral Expression,3,1
 1882,Speech-Language Pathologists,"Communicate with students who use an alternative method of communications, using sign language or computer technology.",Speech Recognition,2,1
 1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Deductive Reasoning,2,1
 1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Inductive Reasoning,3,1
-1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Mathematical Reasoning?,2,1
+1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Mathematical Reasoning,2,1
 1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Written Comprehension,3,1
 1885,Speech-Language Pathologists,"Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.",Written Expression,2,1
 18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Deductive Reasoning,3,1
 18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Inductive Reasoning,3,1
-18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Mathematical Reasoning?,2,1
+18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Mathematical Reasoning,2,1
 18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Problem Sensitivity,2,1
 18874,Human Resources Specialists,"Evaluate recruitment or selection criteria to ensure conformance to professional, statistical, or testing standards, recommending revisions, as needed.",Written Comprehension,3,1
 18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Deductive Reasoning,3,1
 18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Inductive Reasoning,3,1
-18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Mathematical Reasoning?,2,1
+18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Mathematical Reasoning,2,1
 18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Problem Sensitivity,2,1
 18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Written Comprehension,2,1
 18875,Human Resources Specialists,Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.,Written Expression,2,1
 18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Deductive Reasoning,2,1
 18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Inductive Reasoning,2,1
-18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Mathematical Reasoning?,2,1
+18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Mathematical Reasoning,2,1
 18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Number Facility,2,1
 18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Oral Expression,2,1
 18888,Labor Relations Specialists,Prepare reports or presentations to communicate employee satisfaction or related data to management.,Written Expression,3,1
 18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Deductive Reasoning,3,1
 18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Inductive Reasoning,3,1
-18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Mathematical Reasoning?,2,1
+18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Mathematical Reasoning,2,1
 18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Problem Sensitivity,2,1
 18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Written Comprehension,2,1
 18896,Labor Relations Specialists,Assess risk levels associated with collective bargaining strategies.,Written Expression,2,1
 18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Deductive Reasoning,3,1
 18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Inductive Reasoning,3,1
-18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Mathematical Reasoning?,2,1
+18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Mathematical Reasoning,2,1
 18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Problem Sensitivity,2,1
 18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Written Comprehension,2,1
 18897,Labor Relations Specialists,Assess the impact of union proposals on company or government operations.,Written Expression,2,1
 18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",Oral Comprehension,2,0
 18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",Oral Expression,3,0
-18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",Problem Sensitivity,1?,0
+18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",Problem Sensitivity,1,1
 18905,Fundraisers,"Attend community events, meetings, or conferences to promote organizational goals or solicit donations or sponsorships.",Speech Clarity,2,0
 18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Deductive Reasoning,2,0
 18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Number Facility,2,0
 18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Perceptual Speed,2,0
 18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Problem Sensitivity,2,0
-18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Speed of Closure,1?,0
+18954,Credit Counselors,"Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.",Speed of Closure,1,1
 19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,Oral Comprehension,2,0
 19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,Oral Expression,3,0
-19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,Written Comprehension,1?,0
+19045,Judicial Law Clerks,Communicate with counsel regarding case management or procedural requirements.,Written Comprehension,1,1
 19057,Judicial Law Clerks,"Enter information into computerized court calendar, filing, or case management systems.",Information Ordering,2,0
 19057,Judicial Law Clerks,"Enter information into computerized court calendar, filing, or case management systems.",Near Vision,2,0
 19057,Judicial Law Clerks,"Enter information into computerized court calendar, filing, or case management systems.",Perceptual Speed,2,0
-19059,Judicial Law Clerks,"Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.",Memorization,1?,0
+19059,Judicial Law Clerks,"Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.",Memorization,1,1
 19059,Judicial Law Clerks,"Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.",Oral Expression,2,0
 19059,Judicial Law Clerks,"Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.",Speech Clarity,2,0
 19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",Auditory Attention,2,0
 19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",Deductive Reasoning,2,0
-19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",Fluency of Ideas,1?,0
+19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",Fluency of Ideas,1,1
 19177,Music Therapists,"Plan or structure music therapy sessions to achieve appropriate transitions, pacing, sequencing, energy level, or intensity in accordance with treatment plans.",Information Ordering,2,0
-19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",Deductive Reasoning,1?,0
+19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",Deductive Reasoning,1,1
 19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",Near Vision,2,0
-19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",Perceptual Speed,1?,0
-19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Information Ordering,1?,0
+19197,Exercise Physiologists,"Measure oxygen consumption or lung functioning, using spirometers.",Perceptual Speed,1,1
+19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Information Ordering,1,1
 19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Oral Comprehension,2,0
 19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Oral Expression,3,0
-19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Written Comprehension,1?,0
+19202,Exercise Physiologists,"Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.",Written Comprehension,1,1
 19238,Magnetic Resonance Imaging Technologists,Write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals.,Information Ordering,2,0
 19238,Magnetic Resonance Imaging Technologists,Write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals.,Written Comprehension,2,0
 19238,Magnetic Resonance Imaging Technologists,Write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals.,Written Expression,3,0
 19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,Arm-Hand Steadiness,2,0
 19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,Finger Dexterity,2,0
-19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,Manual Dexterity,1?,0
+19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,Manual Dexterity,1,1
 19239,Ophthalmic Medical Technicians,Administer topical ophthalmic or oral medications.,Near Vision,2,0
-19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",Deductive Reasoning,1?,0
+19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",Deductive Reasoning,1,1
 19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",Near Vision,3,0
 19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",Perceptual Speed,2,0
 19260,Ophthalmic Medical Technologists,"Assess abnormalities of color vision, such as amblyopia.",Visual Color Discrimination,3,0
-19290,Surgical Assistants,Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning.,Deductive Reasoning,1?,0
+19290,Surgical Assistants,Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning.,Deductive Reasoning,1,1
 19290,Surgical Assistants,Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning.,Near Vision,2,0
 19290,Surgical Assistants,Assess skin integrity or other body conditions upon completion of the procedure to determine if damage has occurred from body positioning.,Problem Sensitivity,2,0
 19301,Surgical Assistants,Postoperatively inject a subcutaneous local anesthetic agent to reduce pain.,Arm-Hand Steadiness,2,0
 19301,Surgical Assistants,Postoperatively inject a subcutaneous local anesthetic agent to reduce pain.,Finger Dexterity,2,0
 19301,Surgical Assistants,Postoperatively inject a subcutaneous local anesthetic agent to reduce pain.,Manual Dexterity,2,0
 19301,Surgical Assistants,Postoperatively inject a subcutaneous local anesthetic agent to reduce pain.,Near Vision,2,0
-19310,Surgical Assistants,"Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies.",Flexibility of Closure,1?,0
+19310,Surgical Assistants,"Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies.",Flexibility of Closure,1,1
 19310,Surgical Assistants,"Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies.",Near Vision,2,0
 19310,Surgical Assistants,"Obtain or inspect sterile or non-sterile surgical equipment, instruments, or supplies.",Perceptual Speed,2,0
 19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,Finger Dexterity,2,0
 19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,Manual Dexterity,2,0
 19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,Near Vision,2,0
-19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,Oral Comprehension,1?,0
+19319,Nursing Assistants,Assist nurses or physicians in the operation of medical equipment or provision of patient care.,Oral Comprehension,1,1
 19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",Manual Dexterity,1,0
-19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",Near Vision,1?,0
-19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",Static Strength,1?,0
-19338,Nursing Assistants,"Stock or issue medical supplies, such as dressing packs or treatment trays.",Information Ordering,1?,0
+19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",Near Vision,1,1
+19321,Nursing Assistants,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",Static Strength,1,1
+19338,Nursing Assistants,"Stock or issue medical supplies, such as dressing packs or treatment trays.",Information Ordering,1,1
 19338,Nursing Assistants,"Stock or issue medical supplies, such as dressing packs or treatment trays.",Manual Dexterity,1,0
 19338,Nursing Assistants,"Stock or issue medical supplies, such as dressing packs or treatment trays.",Near Vision,1,0
 19345,Nursing Assistants,Explain medical instructions to patients or family members.,Oral Comprehension,2,0
 19345,Nursing Assistants,Explain medical instructions to patients or family members.,Oral Expression,3,0
-19345,Nursing Assistants,Explain medical instructions to patients or family members.,Written Comprehension,1?,0
+19345,Nursing Assistants,Explain medical instructions to patients or family members.,Written Comprehension,1,1
 19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",Auditory Attention,2,0
-19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",Near Vision,1?,0
-19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",Oral Comprehension,1?,0
+19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",Near Vision,1,1
+19349,Orderlies,"Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.",Oral Comprehension,1,1
 19363,Orderlies,"Stock utility rooms, nonmedical storage rooms, or cleaning carts with supplies.",Manual Dexterity,1,0
 19363,Orderlies,"Stock utility rooms, nonmedical storage rooms, or cleaning carts with supplies.",Near Vision,1,0
-1945,Pharmacy Technicians,"Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.",Finger Dexterity,1?,0
+1945,Pharmacy Technicians,"Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.",Finger Dexterity,1,1
 1945,Pharmacy Technicians,"Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.",Manual Dexterity,2,0
 1945,Pharmacy Technicians,"Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.",Near Vision,1,0
 19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",Deductive Reasoning,2,0
 19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",Information Ordering,2,0
 19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",Number Facility,2,0
-19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",Problem Sensitivity,1?,0
+19830,Freight Forwarders,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",Problem Sensitivity,1,1
 20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",Information Ordering,2,0
-20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",Mathematical Reasoning,1?,0
+20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",Mathematical Reasoning,1,1
 20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",Number Facility,2,0
 20247,"Pediatricians, General","Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.",Written Expression,2,0
 2025,Medical Assistants,Show patients to examination rooms and prepare them for the physician.,Manual Dexterity,1,0
-2025,Medical Assistants,Show patients to examination rooms and prepare them for the physician.,Oral Comprehension,1?,0
+2025,Medical Assistants,Show patients to examination rooms and prepare them for the physician.,Oral Comprehension,1,1
 2025,Medical Assistants,Show patients to examination rooms and prepare them for the physician.,Oral Expression,1,0
 2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Finger Dexterity,2,0
-2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Information Ordering,1?,0
-2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Manual Dexterity,1?,0
+2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Information Ordering,1,1
+2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Manual Dexterity,1,1
 2028,Medical Assistants,"Collect blood, tissue, or other laboratory specimens, log the specimens, and prepare them for testing.",Near Vision,2,0
 20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,Oral Comprehension,3,0
 20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,Oral Expression,2,0
 20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,Problem Sensitivity,2,0
-20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,Speech Recognition,1?,0
+20720,Equal Opportunity Representatives and Officers,Interview persons involved in equal opportunity complaints to verify case information.,Speech Recognition,1,1
 20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,Deductive Reasoning,2,0
-20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,Fluency of Ideas,1?,0
+20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,Fluency of Ideas,1,1
 20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,Written Comprehension,2,0
 20722,Equal Opportunity Representatives and Officers,Develop guidelines for nondiscriminatory employment practices.,Written Expression,2,0
 20785,Procurement Clerks,Train and supervise subordinates and other staff.,Oral Comprehension,2,0
@@ -577,13 +576,13 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",Deductive Reasoning,2,0
 20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",Near Vision,2,0
 20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",Problem Sensitivity,2,0
-20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",Written Comprehension,1?,0
+20843,Government Property Inspectors and Investigators,"Inspect government property, such as construction sites or public housing, to ensure compliance with contract specifications or legal requirements.",Written Comprehension,1,1
 21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",Deductive Reasoning,2,0
-21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",Number Facility,1?,0
+21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",Number Facility,1,1
 21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",Problem Sensitivity,2,0
 21419,"Claims Adjusters, Examiners, and Investigators","Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.",Written Comprehension,2,0
 21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Deductive Reasoning,3,0
-21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Manual Dexterity,1?,0
+21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Manual Dexterity,1,1
 21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Originality,2,0
 21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Problem Sensitivity,2,0
 21486,Security Management Specialists,"Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.",Visualization,2,0
@@ -612,7 +611,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Inductive Reasoning,2,0
 22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Information Ordering,2,0
 22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Oral Comprehension,3,0
-22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Problem sensitivity,3,0
+22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Problem Sensitivity,3,0
 22719,Emergency Medicine Physicians,Conduct primary patient assessments that include information from prior medical care.,Written Comprehension,3,0
 22877,Medical Records Specialists,"Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software.",Category Flexibility,2,0
 22877,Medical Records Specialists,"Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software.",Deductive Reasoning,3,0
@@ -755,7 +754,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",Information Ordering,2,0
 2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",Near Vision,2,0
 2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",Oral Comprehension,2,0
-2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",Static Strength,1?,0
+2652,"Library Assistants, Clerical","Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.",Static Strength,1,1
 2662,"Library Assistants, Clerical","Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests.",Category Flexibility,3,0
 2662,"Library Assistants, Clerical","Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests.",Deductive Reasoning,2,0
 2662,"Library Assistants, Clerical","Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests.",Fluency of Ideas,1,0
@@ -809,7 +808,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Control Precision,3,1
 4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Deductive Reasoning,2,1
 4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Near Vision,2,1
-4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Spatial Orientation?,2,1
+4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Spatial Orientation,2,1
 4086,Radiation Therapists,"Position patients for treatment with accuracy, according to prescription.",Visualization,2,1
 4092,Radiation Therapists,Check radiation therapy equipment to ensure proper operation.,Deductive Reasoning,2,0
 4092,Radiation Therapists,Check radiation therapy equipment to ensure proper operation.,Near Vision,2,0
@@ -827,7 +826,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Control Precision,2,1
 4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Deductive Reasoning,2,1
 4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Near Vision,2,1
-4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Spatial Orientation?,2,1
+4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Spatial Orientation,2,1
 4161,Nuclear Medicine Technologists,"Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.",Visualization,3,1
 4176,Veterinary Technologists and Technicians,"Administer anesthesia to animals, under the direction of a veterinarian, and monitor animals' responses to anesthetics so that dosages can be adjusted.",Deductive Reasoning,2,0
 4176,Veterinary Technologists and Technicians,"Administer anesthesia to animals, under the direction of a veterinarian, and monitor animals' responses to anesthetics so that dosages can be adjusted.",Near Vision,2,0
@@ -872,7 +871,7 @@ task_id,occupation,task_text,ability_name,weight,uncertain
 436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Deductive Reasoning,2,1
 436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Manual Dexterity,2,1
 436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Problem Sensitivity,2,1
-436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Spatial Orientation?,1,1
+436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Spatial Orientation,1,1
 436,Diagnostic Medical Sonographers,Select appropriate equipment settings and adjust patient positions to obtain the best sites and angles.,Visualization,3,1
 4599,Real Estate Brokers,"Sell, for a fee, real estate owned by others.",Deductive Reasoning,2,0
 4599,Real Estate Brokers,"Sell, for a fee, real estate owned by others.",Oral Comprehension,2,0

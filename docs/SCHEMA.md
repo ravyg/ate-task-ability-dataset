@@ -2,7 +2,7 @@
 
 ## `data/task_ability_mapping.csv` (main dataset)
 
-One row per (task, ability) requirement. 95,331 rows.
+One row per (task, ability) requirement. 95,330 rows.
 
 | Column | Type | Notes |
 |--------|------|-------|
