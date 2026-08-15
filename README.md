@@ -34,7 +34,7 @@ research on automation exposure, skill demand, and human–AI task allocation at
 
 | File | Description |
 |------|-------------|
-| `data/task_ability_mapping.csv` | **Main dataset** — 95,331 (task, ability) rows over 18,796 tasks |
+| `data/task_ability_mapping.csv` | **Main dataset** — 95,330 (task, ability) rows over 18,796 tasks |
 | `data/abilities_reference.csv` | The 52 O\*NET abilities and their category |
 | `data/audit_sample_200.csv` | 200-task stratified validation sample (human re-annotation) |
 | `validation/` | Human annotations + inter-rater agreement (Cohen's κ) |
@@ -57,9 +57,9 @@ research on automation exposure, skill demand, and human–AI task allocation at
 | `weight` | int | Importance: **1** = mild, **2** = moderate, **3** = critical |
 | `uncertain` | 0/1 | 1 if the annotation was flagged low-confidence |
 
-**Coverage:** 18,796 tasks · 95,331 mappings · avg 5.07 abilities/task.
+**Coverage:** 18,796 tasks · 95,330 mappings · avg 5.07 abilities/task.
 **Weight distribution:** 1 → 22.4% · 2 → 57.1% · 3 → 20.5%.
-**Uncertain:** 1,476 rows (1.5%) across 1,187 tasks.
+**Uncertain:** 1,521 rows (1.6%) across 1,232 tasks.
 
 ---
 
