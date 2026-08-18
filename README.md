@@ -125,7 +125,25 @@ Gupta R, Kumar S. Agentic AI and Occupational Displacement: A Multi-Regional Tas
 }
 ```
 
-To cite the **dataset** specifically, see `CITATION.cff`.
+### Citing the dataset
+
+The dataset is archived on Zenodo with a DOI (concept DOI, always resolves to the latest version):
+
+**DOI:** [10.5281/zenodo.21989176](https://doi.org/10.5281/zenodo.21989176)
+
+```bibtex
+@misc{gupta2026onetdataset,
+  author    = {Gupta, Ravish and Kumar, Saket},
+  title     = {{O*NET} Task-to-Ability Mapping Dataset},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {2.0.0},
+  doi       = {10.5281/zenodo.21989176},
+  url       = {https://doi.org/10.5281/zenodo.21989176}
+}
+```
+
+See also `CITATION.cff`.
 
 ## Acknowledgements
 

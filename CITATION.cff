@@ -16,7 +16,12 @@ type: dataset
 version: 2.0.0
 date-released: 2026-08-17
 license: CC-BY-4.0
+doi: 10.5281/zenodo.21989176
 repository-code: "https://github.com/ravyg/ate-task-ability-dataset"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21989176"
+    description: "Concept DOI (resolves to the latest version)"
 authors:
   - family-names: Gupta
     given-names: Ravish
