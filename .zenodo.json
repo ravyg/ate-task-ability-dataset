@@ -1,0 +1,35 @@
+{
+  "title": "O*NET Task→Ability Mapping Dataset",
+  "description": "A task-level mapping from 18,796 O*NET work tasks, spanning all 23 SOC major groups, to the 52 O*NET human abilities each task requires, with a graded importance weight per (task, ability) pair. The dataset contains 95,330 task-to-ability mappings. Labels were generated with a large language model against the O*NET taxonomy using one consistent method across all groups, then validated: three independent annotators each re-reviewed a 200-task audit sample and endorsed 98.9% of the model-proposed abilities. Built as the empirical foundation for the ATES (Agentic Task Exposure Score) framework, it also stands alone for research on skill demand, automation exposure, and the division of tasks between people and AI.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "2.0.0",
+  "language": "eng",
+  "keywords": [
+    "O*NET",
+    "task-ability mapping",
+    "human abilities",
+    "automation exposure",
+    "AI exposure",
+    "labor economics",
+    "future of work",
+    "ATES"
+  ],
+  "creators": [
+    { "name": "Gupta, Ravish" },
+    { "name": "Kumar, Saket" }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2604.00186",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "https://github.com/ravyg/ate-task-ability-dataset",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
