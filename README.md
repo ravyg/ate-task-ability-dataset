@@ -12,6 +12,17 @@ research on automation exposure, skill demand, and human–AI task allocation at
 > framework. The mapping is independently useful for labor-economics and
 > AI-exposure research even without the ATES model.
 
+**Get it:** [🤗 Hugging Face](https://huggingface.co/datasets/ravishgupta/ate-task-ability-dataset) · [Zenodo (archival DOI)](https://doi.org/10.5281/zenodo.21989176) · [GitHub source](https://github.com/ravyg/ate-task-ability-dataset)
+
+Load it programmatically from Hugging Face:
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("ravishgupta/ate-task-ability-dataset")            # full mapping
+audit = load_dataset("ravishgupta/ate-task-ability-dataset", "audit_sample")
+```
+
 > ⭐ **Find this useful?** Please **clone it and give the repo a star** — it takes one
 > click, helps others discover the dataset, and lets us gauge interest to keep it
 > maintained and expanded. If you use it in your work, a [citation](#citation) is the
@@ -169,6 +180,8 @@ Every verified contributor is acknowledged by name (or kept anonymous on request
 
 ## Related
 
+- **Hugging Face:** [ravishgupta/ate-task-ability-dataset](https://huggingface.co/datasets/ravishgupta/ate-task-ability-dataset) — load with `datasets.load_dataset(...)`.
+- **Zenodo:** [10.5281/zenodo.21989176](https://doi.org/10.5281/zenodo.21989176) — archival record + citation DOI.
 - **Paper:** Gupta & Kumar (2026), *Agentic AI and Occupational Displacement*, arXiv:2604.00186.
 - **ATES framework** — the model this dataset was built for *(link on paper release)*.
 
