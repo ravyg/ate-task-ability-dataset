@@ -52,3 +52,18 @@ Tidy long format — one row per human judgment:
 | `is_addition` | 1 if the human added an ability the model missed. |
 | `overall_task_rating` | Overall 👍/👌/👎 for the task. |
 | `comment` | Free-text note. |
+
+## Known inconsistency between the two released files
+
+`data/audit_sample_200.csv` and `data/task_ability_mapping.csv` agree on every
+`weight`, `occupation` and `task_text` across all 1,078 shared (task, ability) pairs,
+but they disagree on `uncertain` for **213 rows over 46 tasks**. The disagreement is
+one-way: the audit file marks 1 where the mapping marks 0, never the reverse. Totals
+over those 200 tasks are 291 flagged rows in the audit file against 78 in the mapping.
+
+The documented cleanup accounts for 33 of these, where a weight recorded as `1?` was
+corrected to `1` and flagged. The remaining 180 predate it and are unexplained.
+
+Treat `task_ability_mapping.csv` as authoritative for the released mapping. If you are
+filtering on `uncertain`, filter against that file rather than the audit sample.
+
