@@ -1,7 +1,7 @@
 # O*NET Task → Ability Mapping Dataset
 
 A fine-grained mapping from **18,796 O\*NET work tasks** — the full O\*NET task corpus,
-spanning **all 23 SOC major groups (economy-wide)** — to the **52 O\*NET human abilities**
+spanning **22 SOC major groups (economy-wide, all civilian groups)** — to the **52 O\*NET human abilities**
 each task requires, with a graded importance weight per (task, ability) pair.
 
 This dataset supports task-level analysis of human ability requirements — enabling
@@ -29,7 +29,7 @@ audit = load_dataset("ravishgupta/ate-task-ability-dataset", "audit_sample")
 > best thanks of all. 🙏
 
 > ### ✅ Status: labels released · human validation **complete**
-> The full task→ability mapping (**18,796 tasks — economy-wide, all 23 SOC major
+> The full task→ability mapping (**18,796 tasks — economy-wide, 22 SOC major
 > groups**) is **available today**. Labels were produced by a large language model
 > (**Claude Sonnet**) against the O\*NET taxonomy, using one consistent method across
 > all groups. **Independent human validation is complete:** three annotators each

@@ -13,7 +13,7 @@ One row per (task, ability) requirement. 95,330 rows.
 | `weight` | int (1–3) | 1 = mild, 2 = moderate, 3 = critical requirement. |
 | `uncertain` | int (0/1) | 1 = annotation flagged low-confidence. |
 
-A `task_id` appears in as many rows as it has required abilities (avg 5.4).
+A `task_id` appears in as many rows as it has required abilities (avg 5.07).
 
 ## `data/abilities_reference.csv`
 

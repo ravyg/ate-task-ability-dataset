@@ -14,7 +14,7 @@ How the O\*NET task→ability mapping was constructed and validated.
 
 ## 2. Labeling pass
 
-Each of the 18,796 task statements (the full O\*NET corpus, all 23 SOC major groups) was labeled with:
+Each of the 18,796 task statements (the full O\*NET corpus, 22 SOC major groups) was labeled with:
 - the subset of the 52 abilities the task **requires**, and
 - an importance **weight**: 1 (mild), 2 (moderate), 3 (critical).
 
@@ -26,7 +26,7 @@ the GWA baseline prior. Low-confidence judgments were explicitly flagged
 Tasks were processed in chunks; all chunks were merged, de-duplicated, and sorted
 by numeric `task_id` into `data/task_ability_mapping.csv`. The initial release covered
 six SOC major groups (4,577 tasks); the dataset was subsequently extended to the full
-O\*NET corpus (18,796 tasks, all 23 SOC major groups) using the identical Sonnet method
+O\*NET corpus (18,796 tasks, 22 SOC major groups) using the identical Sonnet method
 — a pure append that left the original rows unchanged. The regeneration pipeline is in
 [`scripts/`](../scripts/).
 
@@ -57,5 +57,7 @@ reached **κ = 0.81** ("almost perfect"). Full audit results are in `validation/
 - Weights are ordinal (1–3), not calibrated cardinal magnitudes.
 - Ability requirements are derived from task *text*; context not in the statement
   (tools, setting) is not modeled.
-- 3.5% of rows are `uncertain`-flagged; treat those with care or filter them out.
+- 1.6% of rows are `uncertain`-flagged; treat those with care or filter them out.
+- SOC-55 (Military Specific Occupations) is not covered. O\*NET lists 19 military
+  occupations; none appear here.
 - Coverage is the U.S. O\*NET taxonomy; cross-country transfer is untested here.
