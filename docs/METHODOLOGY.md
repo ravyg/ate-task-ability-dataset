@@ -49,8 +49,12 @@ decisions (whose labels, majority vote, union of additions) are deferred, not ba
 
     κ = (Po − Pe) / (1 − Pe)
 
-where Po is observed agreement and Pe is chance agreement. A pilot of 100 tasks
-reached **κ = 0.81** ("almost perfect"). Full audit results are in `validation/`.
+where Po is observed agreement and Pe is chance agreement. Raw κ is near zero for
+every pair here because one category holds 91 to 97 percent of the mass, so PABAK is
+reported instead: **0.640 to 0.899** across the three pairs on presence, and
+**0.792 to 0.886** on the weight scale. Krippendorff's α across all three raters is
+**0.391** on presence and **0.847** on weight. Full audit results are in
+`validation/`.
 
 ## 4. Known limitations
 
