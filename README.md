@@ -1,7 +1,7 @@
 # O*NET Task → Ability Mapping Dataset
 
 A fine-grained mapping from **18,796 O\*NET work tasks** — the full O\*NET task corpus,
-spanning **all 23 SOC major groups (economy-wide)** — to the **52 O\*NET human abilities**
+spanning **22 SOC major groups (economy-wide, all civilian groups)** — to the **52 O\*NET human abilities**
 each task requires, with a graded importance weight per (task, ability) pair.
 
 This dataset supports task-level analysis of human ability requirements — enabling
@@ -29,12 +29,13 @@ audit = load_dataset("ravishgupta/ate-task-ability-dataset", "audit_sample")
 > best thanks of all. 🙏
 
 > ### ✅ Status: labels released · human validation **complete**
-> The full task→ability mapping (**18,796 tasks — economy-wide, all 23 SOC major
+> The full task→ability mapping (**18,796 tasks — economy-wide, 22 SOC major
 > groups**) is **available today**. Labels were produced by a large language model
 > (**Claude Sonnet**) against the O\*NET taxonomy, using one consistent method across
-> all groups. **Independent human validation is complete:** three annotators each
-> re-annotated all **200 audit-sample tasks** and **endorsed 98.9%** of the
-> LLM-proposed abilities (3,334 / 3,370, 36 rejections). The validation sample was
+> all groups. **Independent human validation is complete:** three annotators
+> re-annotated the **200-task audit sample** and kept **93.9%** of the LLM-proposed
+> abilities at the model's own weight, **99.1%** in some form, with 30 rejections
+> out of 3,159. The validation sample was
 > drawn from the initial six-group release; the expanded groups were labeled by the
 > identical Sonnet method. Full breakdown, method, and scope in
 > [`validation/`](validation/).
@@ -82,9 +83,10 @@ audit = load_dataset("ravishgupta/ate-task-ability-dataset", "audit_sample")
 2. **Human validation** *(complete)* — a 200-task stratified sample (all
    uncertain-flagged tasks + random draw, seed 42) was independently re-annotated by
    **three annotators**, each reviewing all 200 tasks.
-3. **Agreement** — human-vs-model endorsement reached **98.9%** (3,334 / 3,370
-   LLM-proposed abilities endorsed across the three annotators); a **pilot of 100 tasks
-   reached κ = 0.81** ("almost perfect"). Full results in [`validation/`](validation/).
+3. **Agreement** — annotators kept **93.9%** of LLM-proposed abilities at the model's
+   own weight and **99.1%** in some form (2,966 and 3,129 of 3,159). Pairwise presence
+   PABAK ranges 0.640 to 0.899; Krippendorff's α is 0.391 on presence and 0.847 on the
+   weight scale. Full results in [`validation/`](validation/).
 
 Full protocol: [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
